@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 import java.net.*;
-public class webscraping {
+public class pdrscraping {
   public static void main(String[] args) throws Exception {
     HashSet<String> rawsources = new HashSet<String>();
     for (int i = 1901; i <= 2682; i++) {
