@@ -7,7 +7,7 @@ public class ctsamplemetamap {
     Scanner in = new Scanner(new File("ctsampleinds.csv"));
     PrintWriter out = new PrintWriter(new File("sample_output_full.csv"));
     int count = 0;
-    for (int i = 0; i < 339; i++) {
+    for (int j = 0; j < 339; j++) {
       System.out.println(count);
       count++;
       String line = in.nextLine();
