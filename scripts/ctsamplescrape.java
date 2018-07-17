@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 import java.net.*;
-public class ctmetamaptest {
+public class ctsamplescrape {
   public static void main(String[] args) throws Exception {
     Scanner in = new Scanner(new File("example_ct.csv"));
     PrintWriter out = new PrintWriter(new File("ctsampleinds.csv"));
