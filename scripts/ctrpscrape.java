@@ -4,7 +4,7 @@ import java.net.*;
 public class ctrpscrape {
   public static void main(String[] args) throws Exception {
     Scanner in = new Scanner(new File("c_intervent.txt"));
-    PrintWriter out = new PrintWriter(new File("ctsampleinds.csv"));
+    PrintWriter out = new PrintWriter(new File("ctrpinds.csv"));
     String useless = in.nextLine();
     int count = 0;
     while(in.hasNext()) {
