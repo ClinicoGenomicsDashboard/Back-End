@@ -3,7 +3,7 @@ import java.io.*;
 import java.net.*;
 public class gatherfullids {
   public static void main(String[] args) throws Exception {
-    PrintWriter out = new PrintWriter(new File("fullctrpinds.csv"));
+    PrintWriter out = new PrintWriter(new File("fullctrpids.csv"));
     for (int i = 0; i < 9455; i+=50) {
       String source = getURLSource("https://clinicaltrialsapi.cancer.gov/v1/clinical-trials?size=50&from=" + i + "&study_protocol_type=interventional&include=nct_id");
       int index = source.indexOf("NCT");
