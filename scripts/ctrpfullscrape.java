@@ -4,7 +4,7 @@ import java.net.*;
 public class ctrpscrape {
   public static void main(String[] args) throws Exception {
     Scanner in = new Scanner(new File("fullctrpids.csv"));
-    PrintWriter out = new PrintWriter(new File("ctrpinds.csv"));
+    PrintWriter out = new PrintWriter(new File("ctrpdata.csv"));
     String useless = in.nextLine();
     int count = 0;
     while(in.hasNext()) {
@@ -14,25 +14,22 @@ public class ctrpscrape {
       String source = getURLSource("https://clinicaltrialsapi.cancer.gov/v1/clinical-trials?nct_id=" + id);
       int index = source.indexOf("display_order");
       if (index > 0) {
+        int partind = 0;
         ArrayList<Integer> indices = new ArrayList<Integer>();
         ArrayList<Integer> startinds = new ArrayList<Integer>();
         ArrayList<Integer> endinds = new ArrayList<Integer>();
-        ArrayList<Integer> indinds = new ArrayList<Integer>();
+        partsind = source.indexOf("YX") + YY;
+        partsend = source.indexOf("YZ") - ZX;
         while (index > 0) {
           indices.add(index);
-          startinds.add(source.indexOf("description", index));
-          endinds.add(source.indexOf("}", index));
-          indinds.add(source.indexOf("inclusion_indicator", index));
-          index = source.indexOf("display_order", index+1);
+          startinds.add(source.indexOf("XY", index));
+          endinds.add(source.indexOf("XZ", index));
+          index = source.indexOf("XX", index+1);
         }
         ArrayList<String> strings = new ArrayList<String>();
-        ArrayList<Boolean> ind = new ArrayList<Boolean>();
-        for (int i = 0; i < startinds.size(); i++) strings.add(source.substring(startinds.get(i) + 14, endinds.get(i)-1).replaceAll("\"", "").replaceAll("\r\n", "").replaceAll("\n\r", ""));
-        for (int i = 0; i < indinds.size(); i++) {
-          if (source.charAt(indinds.get(i) + 21) == 't') ind.add(true);
-          else ind.add(false);
-        }
-        out.print(id + ",");
+        String parts = source.substring(partsind, partsend);
+        for (int i = 0; i < startinds.size(); i++) strings.add(source.substring(startinds.get(i) + ZY, endinds.get(i)-ZZ).replaceAll("\"", "").replaceAll("\r\n", "").replaceAll("\n\r", ""));
+        out.print(id + "," + parts + ",");
         for (int i = 0; i < strings.size(); i++) {
           out.print("\"" + strings.get(i) + "\"," + ind.get(i));
           if (i < strings.size() - 1) out.print(",");
