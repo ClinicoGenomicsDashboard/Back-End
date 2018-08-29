@@ -15,25 +15,13 @@ public class ctrpscrape {
       int index = source.indexOf("display_order");
       if (index > 0) {
         int partind = 0;
-        ArrayList<Integer> indices = new ArrayList<Integer>();
-        ArrayList<Integer> startinds = new ArrayList<Integer>();
-        ArrayList<Integer> endinds = new ArrayList<Integer>();
-        partsind = source.indexOf("YX") + YY;
-        partsend = source.indexOf("YZ") - ZX;
-        while (index > 0) {
-          indices.add(index);
-          startinds.add(source.indexOf("XY", index));
-          endinds.add(source.indexOf("XZ", index));
-          index = source.indexOf("XX", index+1);
-        }
-        ArrayList<String> strings = new ArrayList<String>();
-        String parts = source.substring(partsind, partsend);
-        for (int i = 0; i < startinds.size(); i++) strings.add(source.substring(startinds.get(i) + ZY, endinds.get(i)-ZZ).replaceAll("\"", "").replaceAll("\r\n", "").replaceAll("\n\r", ""));
-        out.print(id + "," + parts + ",");
-        for (int i = 0; i < strings.size(); i++) {
-          out.print("\"" + strings.get(i) + "\"");
-          if (i < strings.size() - 1) out.print(",");
-        }
+        partsbeg = source.indexOf("minimum_target_accrual_number");
+        partsend = source.indexOf(",", partsind);
+        biobeg = source.indexOf("biomarkers\:");
+        bioend = partsbeg;
+        String parts = source.substring(partsind + 31, partsend);
+        String bios = source.substring(biobeg + 12, bioend - 2);
+        out.print(id + "," + parts + ",\"" + bios + "\"");
         out.println();
       }
     }
