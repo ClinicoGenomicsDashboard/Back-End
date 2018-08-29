@@ -31,7 +31,7 @@ public class ctrpscrape {
         for (int i = 0; i < startinds.size(); i++) strings.add(source.substring(startinds.get(i) + ZY, endinds.get(i)-ZZ).replaceAll("\"", "").replaceAll("\r\n", "").replaceAll("\n\r", ""));
         out.print(id + "," + parts + ",");
         for (int i = 0; i < strings.size(); i++) {
-          out.print("\"" + strings.get(i) + "\"," + ind.get(i));
+          out.print("\"" + strings.get(i) + "\"");
           if (i < strings.size() - 1) out.print(",");
         }
         out.println();
