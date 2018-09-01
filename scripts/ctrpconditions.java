@@ -25,15 +25,10 @@ public class ctrpscrape {
           index = source.indexOf("\">", index+1);
         }
         ArrayList<String> strings = new ArrayList<String>();
-        ArrayList<Boolean> ind = new ArrayList<Boolean>();
-        for (int i = 0; i < startinds.size(); i++) strings.add(source.substring(startinds.get(i) + 14, endinds.get(i)-1).replaceAll("\"", "").replaceAll("\r\n", "").replaceAll("\n\r", ""));
-        for (int i = 0; i < indinds.size(); i++) {
-          if (source.charAt(indinds.get(i) + 21) == 't') ind.add(true);
-          else ind.add(false);
-        }
+        for (int i = 0; i < startinds.size(); i++) strings.add(source.substring(startinds.get(i) + 2, endinds.get(i)).replaceAll("\"", "").replaceAll("\r\n", "").replaceAll("\n\r", ""));
         out.print(id + ",");
         for (int i = 0; i < strings.size(); i++) {
-          out.print("\"" + strings.get(i) + "\"," + ind.get(i));
+          out.print("\"" + strings.get(i) + "\"");
           if (i < strings.size() - 1) out.print(",");
         }
         out.println();
