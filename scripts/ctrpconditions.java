@@ -11,19 +11,18 @@ public class ctrpscrape {
       System.out.println(count);
       count++;
       String id = in.nextLine();
-      String source = getURLSource("https://clinicaltrialsapi.cancer.gov/v1/clinical-trials?nct_id=" + id);
-      int index = source.indexOf("display_order");
+      String source = getURLSource("https://www.clinicaltrials.gov/ct2/show/record/"+id+"?term="+id+"&rank=1");
+      int index = source.indexOf("<td", source.indexOf("Condition&nbsp"));
+      int end = source.indexOf("/td", index);
       if (index > 0) {
-        ArrayList<Integer> indices = new ArrayList<Integer>();
         ArrayList<Integer> startinds = new ArrayList<Integer>();
         ArrayList<Integer> endinds = new ArrayList<Integer>();
-        ArrayList<Integer> indinds = new ArrayList<Integer>();
-        while (index > 0) {
-          indices.add(index);
-          startinds.add(source.indexOf("description", index));
-          endinds.add(source.indexOf("}", index));
-          indinds.add(source.indexOf("inclusion_indicator", index));
-          index = source.indexOf("display_order", index+1);
+        while (index > 0 && index < end) {
+          if (source.charAt(index+2) != '<') {
+            startinds.add(index);
+            endinds.add(source.indexOf("<", index));
+          }
+          index = source.indexOf("\">", index+1);
         }
         ArrayList<String> strings = new ArrayList<String>();
         ArrayList<Boolean> ind = new ArrayList<Boolean>();
