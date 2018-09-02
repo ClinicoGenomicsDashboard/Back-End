@@ -17,7 +17,7 @@ public class ctrpfullscrape {
         int partind = 0;
         partsbeg = source.indexOf("minimum_target_accrual_number");
         partsend = source.indexOf(",", partsind);
-        biobeg = source.indexOf("biomarkers\:");
+        biobeg = source.indexOf("biomarkers\":");
         bioend = partsbeg;
         String parts = source.substring(partsind + 31, partsend);
         String bios = source.substring(biobeg + 12, bioend - 2);
