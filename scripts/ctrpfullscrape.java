@@ -15,10 +15,10 @@ public class ctrpfullscrape {
       int index = source.indexOf("display_order");
       if (index > 0) {
         int partind = 0;
-        partsbeg = source.indexOf("minimum_target_accrual_number");
-        partsend = source.indexOf(",", partsind);
-        biobeg = source.indexOf("biomarkers\":");
-        bioend = partsbeg;
+        int partsbeg = source.indexOf("minimum_target_accrual_number");
+        int partsend = source.indexOf(",", partsind);
+        int biobeg = source.indexOf("biomarkers\":");
+        int bioend = partsbeg;
         String parts = source.substring(partsind + 31, partsend);
         String bios = source.substring(biobeg + 12, bioend - 2);
         out.print(id + "," + parts + ",\"" + bios + "\"");
