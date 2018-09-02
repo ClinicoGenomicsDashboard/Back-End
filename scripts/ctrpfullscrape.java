@@ -14,12 +14,11 @@ public class ctrpfullscrape {
       String source = getURLSource("https://clinicaltrialsapi.cancer.gov/v1/clinical-trials?nct_id=" + id);
       int index = source.indexOf("display_order");
       if (index > 0) {
-        int partind = 0;
         int partsbeg = source.indexOf("minimum_target_accrual_number");
-        int partsend = source.indexOf(",", partsind);
+        int partsend = source.indexOf(",", partsbeg);
         int biobeg = source.indexOf("biomarkers\":");
         int bioend = partsbeg;
-        String parts = source.substring(partsind + 31, partsend);
+        String parts = source.substring(partsbeg + 31, partsend);
         String bios = source.substring(biobeg + 12, bioend - 2);
         out.print(id + "," + parts + ",\"" + bios + "\"");
         out.println();
