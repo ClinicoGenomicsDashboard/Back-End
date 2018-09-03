@@ -18,7 +18,7 @@ public class ctrpconditions {
         ArrayList<Integer> startinds = new ArrayList<Integer>();
         ArrayList<Integer> endinds = new ArrayList<Integer>();
         while (index > 0 && index < end) {
-          if (source.charAt(index+2) != '<') {
+          if (source.charAt(index-1) == 'x') {
             startinds.add(index);
             endinds.add(source.indexOf("<", index));
           }
