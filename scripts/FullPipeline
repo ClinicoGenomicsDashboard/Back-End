@@ -1,17 +1,19 @@
 #Note: the clustering seems to be working pretty well, but the template algorithm still needs some work.
 
+
+#Run began approx. 9:06 AM, 9/10/18
+
 library("tm")
 library("SnowballC")
 library("ggplot2")
 library("wordcloud")
 library("cluster")
 setwd("C:/Users/cloud/Downloads")
-ctclnb <- read.csv("ctsampleinds_cleaned_nobool.csv", header = F)
-ctclnb
 
-ctcl <- read.csv("ctsampleinds_cleaned (2).csv", header = F)
 
-setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2")
+ctcl <- read.csv("ctsampleinds_PLAY_DONOTUSE.csv", header = F)
+
+setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2PLAY")
 
 ###NOTE: IF the words "inclusion criterion" or "exclusion criterion" actually appear in your data file,
 #then pick different words to use for the below loops
@@ -45,7 +47,7 @@ for (i in 1:nrow(ctcl)) {
   }
 }
 
-sentdocs <- Corpus(DirSource("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2"))
+sentdocs <- Corpus(DirSource("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2PLAY"))
 writeLines(as.character(sentdocs[[25]]))
 
 sentdocs <- tm_map(sentdocs,content_transformer(tolower))
@@ -64,146 +66,142 @@ sentm <- as.matrix(sentdtm)
 library("NbClust")
 sentmdf <- as.data.frame(sentm)
 
-nb1 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb1 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                method = "ward.D", index = "kl", alphaBeale = 0.1)
 
-nb2 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb2 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                method = "ward.D", index = "ch", alphaBeale = 0.1)
 
-nb3 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb3 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                method = "ward.D", index = "hartigan", alphaBeale = 0.1)
 
-nb4 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb4 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                method = "ward.D", index = "ccc", alphaBeale = 0.1)
 
-nb5 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb5 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                method = "ward.D", index = "scott", alphaBeale = 0.1)
 
-nb6 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb6 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                method = "ward.D", index = "marriot", alphaBeale = 0.1)
 
-nb7 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb7 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                method = "ward.D", index = "trcovw", alphaBeale = 0.1)
 
-nb8 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb8 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                method = "ward.D", index = "tracew", alphaBeale = 0.1)
 
-nb9 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb9 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                method = "ward.D", index = "friedman", alphaBeale = 0.1)
 
-nb10 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb10 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "rubin", alphaBeale = 0.1)
 
-nb11 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb11 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "cindex", alphaBeale = 0.1)
 
-nb12 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb12 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "db", alphaBeale = 0.1)
 
-nb13 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb13 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "silhouette", alphaBeale = 0.1)
 
-nb14 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb14 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "duda", alphaBeale = 0.1)
 
-nb15 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb15 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "pseudot2", alphaBeale = 0.1)
 
-nb16 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb16 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "beale", alphaBeale = 0.1)
 
-nb17 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb17 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "ratkowsky", alphaBeale = 0.1)
 
-nb18 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb18 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "ball", alphaBeale = 0.1)
 
-nb19 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb19 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "ptbiserial", alphaBeale = 0.1)
 
-nb20 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb20 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "gap", alphaBeale = 0.1)
 
-nb21 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb21 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "frey", alphaBeale = 0.1)
 
-nb22 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb22 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "mcclain", alphaBeale = 0.1)
 
-nb23 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb23 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "gamma", alphaBeale = 0.1)
 
-nb24 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb24 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "gplus", alphaBeale = 0.1)
 
-nb25 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb25 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "tau", alphaBeale = 0.1)
 
-nb26 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb26 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "dunn", alphaBeale = 0.1)
 
-nb27 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb27 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "hubert", alphaBeale = 0.1)
 
-nb28 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb28 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "sdindex", alphaBeale = 0.1)
 
-nb29 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb29 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "dindex", alphaBeale = 0.1)
 
-nb30 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 250, max.nc = 1500, 
+nb30 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
                 method = "ward.D", index = "sdbw", alphaBeale = 0.1)
 
 
 
-list1 <- unlist(list(if(exists("nb1")) {as.numeric(unlist(strsplit(as.character(nb1$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb2")) {as.numeric(unlist(strsplit(as.character(nb2$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb3")) {as.numeric(unlist(strsplit(as.character(nb3$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb4")) {as.numeric(unlist(strsplit(as.character(nb4$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb5")) {as.numeric(unlist(strsplit(as.character(nb5$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb6")) {as.numeric(unlist(strsplit(as.character(nb6$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb7")) {as.numeric(unlist(strsplit(as.character(nb7$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb8")) {as.numeric(unlist(strsplit(as.character(nb8$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb9")) {as.numeric(unlist(strsplit(as.character(nb9$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb10")) {as.numeric(unlist(strsplit(as.character(nb10$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb11")) {as.numeric(unlist(strsplit(as.character(nb11$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb12")) {as.numeric(unlist(strsplit(as.character(nb12$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb13")) {as.numeric(unlist(strsplit(as.character(nb13$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb14")) {as.numeric(unlist(strsplit(as.character(nb14$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb15")) {as.numeric(unlist(strsplit(as.character(nb15$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb16")) {as.numeric(unlist(strsplit(as.character(nb16$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb17")) {as.numeric(unlist(strsplit(as.character(nb17$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb18")) {as.numeric(unlist(strsplit(as.character(nb18$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb19")) {as.numeric(unlist(strsplit(as.character(nb19$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb20")) {as.numeric(unlist(strsplit(as.character(nb20$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb21")) {as.numeric(unlist(strsplit(as.character(nb21$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb22")) {as.numeric(unlist(strsplit(as.character(nb22$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb23")) {as.numeric(unlist(strsplit(as.character(nb23$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb24")) {as.numeric(unlist(strsplit(as.character(nb24$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb25")) {as.numeric(unlist(strsplit(as.character(nb25$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb26")) {as.numeric(unlist(strsplit(as.character(nb26$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb27")) {as.numeric(unlist(strsplit(as.character(nb27$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb28")) {as.numeric(unlist(strsplit(as.character(nb28$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb29")) {as.numeric(unlist(strsplit(as.character(nb29$Best.nc[1]), "Number_clusters")))},
-                     if(exists("nb30")) {as.numeric(unlist(strsplit(as.character(nb30$Best.nc[1]), "Number_clusters")))}))
+list1 <- unlist(list(if(exists("nb1")) { if(!is.null(nb1$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb1$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb1$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb2")) { if(!is.null(nb2$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb2$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb2$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb3")) { if(!is.null(nb3$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb3$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb3$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb4")) { if(!is.null(nb4$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb4$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb4$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb5")) { if(!is.null(nb5$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb5$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb5$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb6")) { if(!is.null(nb6$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb6$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb6$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb7")) { if(!is.null(nb7$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb7$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb7$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb8")) { if(!is.null(nb8$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb8$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb8$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb9")) { if(!is.null(nb9$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb9$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb9$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb10")) { if(!is.null(nb10$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb10$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb10$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb11")) { if(!is.null(nb11$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb11$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb11$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb12")) { if(!is.null(nb12$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb12$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb12$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb13")) { if(!is.null(nb13$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb13$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb13$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb14")) { if(!is.null(nb14$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb14$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb14$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb15")) { if(!is.null(nb15$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb15$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb15$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb16")) { if(!is.null(nb16$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb16$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb16$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb17")) { if(!is.null(nb17$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb17$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb17$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb18")) { if(!is.null(nb18$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb18$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb18$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb19")) { if(!is.null(nb19$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb19$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb19$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb20")) { if(!is.null(nb20$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb20$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb20$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb21")) { if(!is.null(nb21$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb21$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb21$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb22")) { if(!is.null(nb22$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb22$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb22$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb23")) { if(!is.null(nb23$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb23$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb23$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb24")) { if(!is.null(nb24$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb24$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb24$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb25")) { if(!is.null(nb25$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb25$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb25$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb26")) { if(!is.null(nb26$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb26$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb26$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb27")) { if(!is.null(nb27$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb27$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb27$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb28")) { if(!is.null(nb28$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb28$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb28$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb29")) { if(!is.null(nb29$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb29$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb29$Best.nc[1]), "Number_clusters")))}}},
+                     if(exists("nb30")) { if(!is.null(nb30$Best.nc)) { if ( !is.infinite(as.numeric(unlist(strsplit(as.character(nb30$Best.nc[1]), "Number_clusters"))))) {as.numeric(unlist(strsplit(as.character(nb30$Best.nc[1]), "Number_clusters")))}}}))
 
+round2 = function(x, n) {
+  posneg = sign(x)
+  z = abs(x)*10^n
+  z = z + 0.5
+  z = trunc(z)
+  z = z/10^n
+  z*posneg
+}
 
-median(list1)  
-round(mean(list1), digits = 0)
+round2(median(list1), 0)
+round2(mean(list1), 0)
 
-cutnum <- round(mean(list1), digits = 0)
-
-
-
-
-
-
-
-
-
-
-
-
+cutnum <- round2(mean(list1), 0)
 
 
 numbo <- 1
@@ -212,14 +210,12 @@ gsubin <- function(x){gsub("INCLUSION CRITERION", "", x)}
 gsubex <- function(x){gsub("EXCLUSION CRITERION", "", x)}
 
 groups <- cutree(hclust(dist(sentm),method="ward.D"), k=cutnum)
-clust_list <- lapply(sort(unique(groups)), function(x) sentm[which(groups==x),])
-
+clust_list <- lapply(sort(unique(groups)), function(x) which(groups==x))
 
 for (numbo in 1:cutnum) {
   
 cdf <- as.data.frame(clust_list[[numbo]])
 
-if (ncol(cdf)>1) {
 gsubsen <- function(x) {gsub("s\\d+ .. ", "", x)}
 row.names(cdf) <- lapply(row.names(cdf), gsubsen)
 
@@ -227,7 +223,7 @@ cdf[] <- lapply(cdf, as.character)
 
 cdf[,1] <- row.names(cdf)
 
-setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2")
+setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2PLAY")
 
 require(data.table)
 
@@ -250,15 +246,17 @@ for (i in 1:nrow(cdf)) {
 
 cdf <- cdf[,c(1,2,3)]
 
-setwd("C:/Users/cloud/Downloads/NewClusterRun4")
+setwd("C:/Users/cloud/Downloads/NewClusterRun4PLAY")
 
+if (nrow(cdf)>1) {
+  
 n <- as.character(numbo)
 str <- paste("cluster", n, ".txt", sep = "")
 write.table(cdf,file = str, row.names = F, col.names = F)
 
 
 }else {
-  
+
   write.table(cdf,file = "clustersingletons.txt", row.names = F, col.names = F, append = TRUE)
 }
 
@@ -303,7 +301,7 @@ while (numbo <= cutnum) {
     
     cdf[,1] <- row.names(cdf)
     
-    setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2")
+    setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2PLAY")
     
     for (i in 1:nrow(cdf)) {
       if ((file.info(paste(cdf[i,1],"",sep=""))$size) > 0) {
@@ -707,8 +705,7 @@ while (numbo <= cutnum) {
     fillins <- cbindPad(template, b)
     names(template)[ncol(template)] <- "Cluster Text"
     names(fillins)[ncol(fillins)] <- "Cluster Text"
-    setwd("C:/Users/cloud/Downloads/PipelineTestRun4") 
-    setwd("C:/Users/cloud/Downloads/PipelineTestRun4")    
+    setwd("C:/Users/cloud/Downloads/PipelineTestRun4PLAY") 
     numbochar <- as.character(numbo)
     numbotempstr <- paste("template", numbochar, ".csv", sep = "")
     numbofillinsstr <- paste("fillins", numbochar, ".csv", sep = "")
