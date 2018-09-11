@@ -676,7 +676,7 @@ while (numbo <= (cutnum +1)) {
     
 
     template <- cbindPad(template, b)
-    fillins <- cbindPad(template, b)
+    fillins <- cbindPad(fillins, b)
     names(template)[ncol(template)] <- "Cluster Text"
     names(fillins)[ncol(fillins)] <- "Cluster Text"
     setwd("C:/Users/cloud/Downloads/PipelineTestRun4PLAY") 
