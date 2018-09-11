@@ -11,7 +11,7 @@ library("cluster")
 setwd("C:/Users/cloud/Downloads")
 
 
-ctcl <- read.csv("ctsampleinds_PLAY_DONOTUSE.csv", header = F)
+ctcl <- read.csv("ctsampleinds_cleaned.csv", header = F)
 
 setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2PLAY")
 
