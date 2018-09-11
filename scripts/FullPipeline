@@ -288,46 +288,20 @@ cbindPad <- function(...){
 numbo <- 1
 
 
-while (numbo <= cutnum) {
+while (numbo <= (cutnum +1)) {
   
-  cdf <- as.data.frame(clust_list[[numbo]])
+  if (numbo <= cutnum) {
+  str2 <- paste("cluster", numbo, ".txt", sep = "")
+  }else {
+    str2 <- "clustersingletons.txt"
+  }
+  setwd("C:/Users/cloud/Downloads/NewClusterRun4PLAY")
   
-  if (ncol(cdf) > 1) {
-    
-    gsubsen <- function(x) {gsub("s\\d+ .. ", "", x)}
-    row.names(cdf) <- lapply(row.names(cdf), gsubsen)
-    
-    cdf[] <- lapply(cdf, as.character)
-    
-    cdf[,1] <- row.names(cdf)
-    
-    setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2PLAY")
-    
-    for (i in 1:nrow(cdf)) {
-      if ((file.info(paste(cdf[i,1],"",sep=""))$size) > 0) {
-        cdf[i,2] <- as.character(read.table(paste(cdf[i,1],"",sep=""), header = F)[1,1])  
-      }
-    } 
-    
-    cdf <- cdf[,c(1,2)]
-    for (i in 1:nrow(cdf)) {
-      cdf[i,2] <- gsubin(cdf[i,2])
-      cdf[i,2] <- gsubex(cdf[i,2])
-    }
-    setwd("C:/Users/cloud/Downloads")
-    
-    write.csv(cdf, file = "sentclusterresultsclean.csv")
-    
-    library(data.table)
-    require(data.table)
-    
-    clusterres <- read.csv("sentclusterresultsclean.csv", stringsAsFactors = F)
-    clusterres <- as.data.frame(clusterres[,3])
-    
-    write.table(as.data.frame(clusterres[]),file = "playwithplate.txt", row.names = F, col.names = F)
-    
-    
-    b <- read.table("playwithplate.txt", header = F)
+  res <- try(read.table(str2),silent = TRUE)
+  
+  if (!inherits(res, 'try-error')) {
+    b <- read.table(str2)
+    b <- b[,2, drop = F] 
     b[] <- lapply(b, as.character)
     b[] <- lapply(b, tolower)
     
