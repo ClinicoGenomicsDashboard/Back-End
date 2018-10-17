@@ -1,19 +1,23 @@
-#Note: the clustering seems to be working pretty well, but the template algorithm still needs some work.
-
-
-#Run began approx. 9:06 AM, 9/10/18
 
 library("tm")
 library("SnowballC")
 library("ggplot2")
 library("wordcloud")
 library("cluster")
+require("stats")
 setwd("C:/Users/cloud/Downloads")
 
 
-ctcl <- read.csv("ctsampleinds_cleaned.csv", header = F)
+ctcl <- read.csv("ctsampleinds_cleaned (2).csv", header = F)
 
-setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2PLAY")
+ctclwtri <- read.csv("ctsampleinds_cleaned.csv", header = F)
+
+accruals <- read.csv("ctsampledata (1).csv", header = F)
+
+
+setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun3")
+
+
 
 ###NOTE: IF the words "inclusion criterion" or "exclusion criterion" actually appear in your data file,
 #then pick different words to use for the below loops
@@ -39,7 +43,14 @@ for (i in 1:nrow(ctcl)) {
             }
           }
         }
-        write.table(as.data.frame(paste(ctcl[i,j], incexc, sep = " ")),file = str, row.names = F, col.names = F)
+        trial <- ctclwtri[i,1]
+        accrual <- "No accrual data found"
+        for (k in 1:nrow(accruals)) {
+          if (trial == accruals[k,1]) {
+            accrual <- accruals[k,2]
+          }
+        }
+        write.table(as.data.frame(paste(ctcl[i,j], incexc, "Accruals:", accrual, sep = " ")),file = str, row.names = F, col.names = F)
         n <- as.numeric(n)
         n <- n + 1
       }
@@ -47,14 +58,16 @@ for (i in 1:nrow(ctcl)) {
   }
 }
 
-sentdocs <- Corpus(DirSource("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2PLAY"))
-writeLines(as.character(sentdocs[[25]]))
+sentdocs <- Corpus(DirSource("C:/Users/cloud/Downloads/ClusterSentCritFinalRun3"))
+writeLines(as.character(sentdocs[[9770]]))
 
 sentdocs <- tm_map(sentdocs,content_transformer(tolower))
 toSpace <- content_transformer(function(x, pattern) { return (gsub(pattern, " ", x))})
 sentdocs <- tm_map(sentdocs, toSpace, '"')
 sentdocs <- tm_map(sentdocs, toSpace, 'inclusion criterion')
 sentdocs <- tm_map(sentdocs, toSpace, 'exclusion criterion')
+sentdocs <- tm_map(sentdocs, toSpace, 'accruals: \\d+')
+sentdocs <- tm_map(sentdocs, toSpace, 'no accrual data found')
 sentdocs <- tm_map(sentdocs, removeWords, stopwords("english"))
 sentdocs <- tm_map(sentdocs, stripWhitespace)
 sentdocs <- tm_map(sentdocs,stemDocument)
@@ -66,94 +79,97 @@ sentm <- as.matrix(sentdtm)
 library("NbClust")
 sentmdf <- as.data.frame(sentm)
 
-nb1 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+minnum <- 10
+maxnum <- 50
+
+nb1 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                method = "ward.D", index = "kl", alphaBeale = 0.1)
 
-nb2 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb2 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                method = "ward.D", index = "ch", alphaBeale = 0.1)
 
-nb3 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb3 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                method = "ward.D", index = "hartigan", alphaBeale = 0.1)
 
-nb4 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb4 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                method = "ward.D", index = "ccc", alphaBeale = 0.1)
 
-nb5 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb5 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                method = "ward.D", index = "scott", alphaBeale = 0.1)
 
-nb6 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb6 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                method = "ward.D", index = "marriot", alphaBeale = 0.1)
 
-nb7 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb7 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                method = "ward.D", index = "trcovw", alphaBeale = 0.1)
 
-nb8 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb8 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                method = "ward.D", index = "tracew", alphaBeale = 0.1)
 
-nb9 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb9 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                method = "ward.D", index = "friedman", alphaBeale = 0.1)
 
-nb10 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb10 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "rubin", alphaBeale = 0.1)
 
-nb11 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb11 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "cindex", alphaBeale = 0.1)
 
-nb12 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb12 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "db", alphaBeale = 0.1)
 
-nb13 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb13 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "silhouette", alphaBeale = 0.1)
 
-nb14 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb14 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "duda", alphaBeale = 0.1)
 
-nb15 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb15 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "pseudot2", alphaBeale = 0.1)
 
-nb16 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb16 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "beale", alphaBeale = 0.1)
 
-nb17 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb17 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "ratkowsky", alphaBeale = 0.1)
 
-nb18 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb18 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "ball", alphaBeale = 0.1)
 
-nb19 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb19 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "ptbiserial", alphaBeale = 0.1)
 
-nb20 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb20 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "gap", alphaBeale = 0.1)
 
-nb21 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb21 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "frey", alphaBeale = 0.1)
 
-nb22 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb22 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "mcclain", alphaBeale = 0.1)
 
-nb23 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb23 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "gamma", alphaBeale = 0.1)
 
-nb24 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb24 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "gplus", alphaBeale = 0.1)
 
-nb25 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb25 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "tau", alphaBeale = 0.1)
 
-nb26 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb26 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "dunn", alphaBeale = 0.1)
 
-nb27 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb27 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "hubert", alphaBeale = 0.1)
 
-nb28 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb28 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "sdindex", alphaBeale = 0.1)
 
-nb29 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb29 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "dindex", alphaBeale = 0.1)
 
-nb30 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = 10, max.nc = 50, 
+nb30 <- NbClust(data = sentmdf, diss = NULL, distance = "euclidean", min.nc = minnum, max.nc = maxnum, 
                 method = "ward.D", index = "sdbw", alphaBeale = 0.1)
 
 
@@ -208,10 +224,13 @@ numbo <- 1
 
 gsubin <- function(x){gsub("INCLUSION CRITERION", "", x)}
 gsubex <- function(x){gsub("EXCLUSION CRITERION", "", x)}
+gsubacc <- function(x){gsub("Accruals: \\d+", "", x)}
+gsubacc2 <- function(x){gsub("No accrual data found", "", x)}
 
 groups <- cutree(hclust(dist(sentm),method="ward.D"), k=cutnum)
 clust_list <- lapply(sort(unique(groups)), function(x) which(groups==x))
-
+hc1 <- hclust(dist(sentm), method = "ward.D")
+id1 <- idendro(hc1)
 for (numbo in 1:cutnum) {
   
 cdf <- as.data.frame(clust_list[[numbo]])
@@ -223,7 +242,7 @@ cdf[] <- lapply(cdf, as.character)
 
 cdf[,1] <- row.names(cdf)
 
-setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun2PLAY")
+setwd("C:/Users/cloud/Downloads/ClusterSentCritFinalRun3")
 
 require(data.table)
 
@@ -246,7 +265,7 @@ for (i in 1:nrow(cdf)) {
 
 cdf <- cdf[,c(1,2,3)]
 
-setwd("C:/Users/cloud/Downloads/NewClusterRun4PLAY")
+setwd("C:/Users/cloud/Downloads/NewClusterRun5")
 
 if (nrow(cdf)>1) {
   
@@ -295,7 +314,7 @@ while (numbo <= (cutnum +1)) {
   }else {
     str2 <- "clustersingletons.txt"
   }
-  setwd("C:/Users/cloud/Downloads/NewClusterRun4PLAY")
+  setwd("C:/Users/cloud/Downloads/NewClusterRun5")
   
   res <- try(read.table(str2),silent = TRUE)
   
@@ -679,7 +698,7 @@ while (numbo <= (cutnum +1)) {
     fillins <- cbindPad(fillins, b)
     names(template)[ncol(template)] <- "Cluster Text"
     names(fillins)[ncol(fillins)] <- "Cluster Text"
-    setwd("C:/Users/cloud/Downloads/PipelineTestRun4PLAY") 
+    setwd("C:/Users/cloud/Downloads/PipelineTestRun5") 
     numbochar <- as.character(numbo)
     numbotempstr <- paste("template", numbochar, ".csv", sep = "")
     numbofillinsstr <- paste("fillins", numbochar, ".csv", sep = "")
