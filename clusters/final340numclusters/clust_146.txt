@@ -1,0 +1,46 @@
+Absolute neutrophil count (ANC) >= 1,000/uL
+Absolute neutrophil count (ANC) > 750/uL
+Absolute neutrophil count (ANC) >= 1000/uL
+Absolute neutrophil count (ANC) >= 1,500/uL
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+Peripheral absolute neutrophil count (ANC) >= 1,000/uL
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+Absolute neutrophil count >= 1,000/uL (unsupported), within 14 days of registration and within 7 days of the start of treatment
+Absolute neutrophil count (ANC) >= 1000/uL
+Absolute neutrophil count (ANC) >= 1500/uL
+Absolute neutrophil count (ANC) >= 1,200/ul
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+Absolute neutrophil count >= 1,500/uL
+Absolute neutrophil count >= 1500/ul
+Absolute neutrophil count (ANC) >= 1000/ul (unsupported)
+Absolute neutrophil count (ANC) >= 1.0 x 10^9/L
+Absolute neutrophil count (ANC) >= 1.2 x 10^9/L
+Absolute neutrophil count (ANC) >= 1.2 x 10^9/L, within 2 weeks of the first dose of study treatment
+Absolute neutrophil count (ANC) >= 1500/uL
+Absolute neutrophil count (ANC) >= 1.2 x 10^9/L
+Absolute neutrophil count (ANC) >= 1000/uL
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+Absolute neutrophil count >= 1,500/uL
+Absolute neutrophil count >= 1500/uL; Note: no transfusions are permitted 7 days prior to laboratory studies to determine eligibility
+Absolute neutrophil count (ANC) >= 1,200/ul
+Absolute neutrophil count (ANC) >= 1,500/uL, obtained within 4 weeks prior to randomization
+Absolute neutrophil count (ANC) >= 1.2 x 10^9/L
+Absolute neutrophil count (ANC) >= 1,500/ul
+Absolute neutrophil count (ANC) >= 1,500/uL
+Absolute neutrophil count >= 1,500/uL
+Absolute neutrophil count >= 1000 cells/uL
+INCLUSION CRITERIA FOR STRATUM C: Absolute neutrophil count >= 1000 cells/uL
+Absolute neutrophil count >= 1,500/uL
+Absolute neutrophil count (ANC) >= 1,500
+Absolute neutrophil count > 1,500/uL
+Absolute neutrophil count >= 1,500/uL
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+Absolute neutrophil count (ANC) > 1,500/uL
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+Peripheral absolute neutrophil count (ANC) >= 1000/uL
+Absolute neutrophil count (ANC) >= 1500/uL
+Absolute lymphocyte count (ALC) >= 800/uL
+Absolute neutrophil count (ANC) >= 1.2 x 10^9/L
+Absolute neutrophil count (ANC) >= 1.5 x 10^9 /L
+Absolute neutrophil count >= 1,500/uL
