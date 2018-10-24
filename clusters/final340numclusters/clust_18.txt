@@ -1,0 +1,9 @@
+For patients with solid tumors without known bone marrow involvement: peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+For patients with solid tumors without known bone marrow involvement: peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+For patients with solid tumors without known bone marrow involvement:
+For patients with solid tumors without known bone marrow involvement:
+For patients with solid tumors without known bone marrow involvement:
+Peripheral absolute neutrophil count (ANC) >= 1000/uL for patients with solid tumors without bone marrow involvement
+Peripheral absolute neutrophil count (ANC) >= 750/uL for patients with solid tumors and known bone marrow metastatic disease
+Platelet count >= 50,000/uL for patients with solid tumors and known bone marrow metastatic disease
+Hemoglobin >= 8.0 g/dL for patients with solid tumors and known bone marrow metastatic disease
