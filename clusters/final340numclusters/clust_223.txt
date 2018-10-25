@@ -1,0 +1,29 @@
+Bilirubin =< 1.5 x ULN (CTCAE v 3.0 grade 1)
+Bilirubin =< 1.5 x ULN
+Patients must have a total serum bilirubin =< 1.5 x ULN (grade =< 1) and a serum creatinine =< grade 1
+Patients with abnormal liver function will be eligible and will be grouped according to the criteria below* Group A (normal hepatic function)** Bilirubin =< upper limit of normal (ULN) and aspartate aminotransferase (AST) =< ULN* Group B (mild hepatic dysfunction)** B1: bilirubin =< ULN and AST > ULN** B2: bilirubin > ULN but =< 1.5 x ULN and any AST* Group C (moderate hepatic dysfunction)** Bilirubin > 1.5 x ULN to =< 3 x ULN and any AST* Group D (severe hepatic dysfunction) ** Bilirubin > 3 x ULN and up to investigators discretion and any AST* Patients with active hemolysis should be excluded; no distinction will be made between liver dysfunction due to metastases and liver dysfunction due to other causes; registration laboratory investigations will be used to assign a patient to a hepatic function group; liver function tests should be repeated within 24 hours prior to starting initial therapy and may result in the patients' group assignment being altered if different to registration test results
+Bilirubin =< 1.5 x ULN
+Total bilirubin =< 2.0, within 30 days prior to enrollment
+Patients with abnormal hepatic function will be eligible and will be grouped according to criteria summarized below:* Group A: Normal hepatic function** Bilirubin =< ULN** Aspartate aminotransferase (AST) =< ULN* Group B: Mild hepatic dysfunction** B1: bilirubin =< ULN and AST > ULN** B2: ULN < bilirubin =< 1.5 x ULN and any AST* Group C: Moderate hepatic dysfunction** 1.5 x ULN < bilirubin =< 3 x ULN and any AST* Group D: Severe hepatic dysfunction** 3 x ULN < bilirubin =< 10 x ULN and any AST; hepatic function tests should be repeated within 24 hours prior to starting initial therapy and may result in patients� group assignment being altered if different to registration test results
+Bilirubin =< 1.5 x ULN; for subjects with liver metastases =< 3 x ULN is allowed
+Total serum bilirubin =< 1.5 x ULN
+Serum total bilirubin =< 1.5 X upper limit of normal (ULN) or direct bilirubin =< ULN for patients with total bilirubin levels > 1.5 ULN
+Total bilirubin < 1.5 x ULN
+Total bilirubin =< 1.5 x upper limit of normal (ULN) in absence of Gilbert disease (total bilirubin =< 3 x ULN with Gilbert); also, if hyperbilirubinemia is clearly attributed to liver metastases total bilirubin =< 3 x ULN is permitted
+Re-registration: total bilirubin =< 1.5 x ULN in absence of Gilbert disease (total bilirubin =< 3 x ULN with Gilbert); if hyperbilirubinemia is clearly attributed to liver metastases, total bilirubin =< 3 x ULN is permitted
+Total bilirubin =< 1.5 x ULN
+Total bilirubin =< 1.5 x the institutional ULN
+If no known liver metastases: total bilirubin < 1.5 x institutional upper limit of normal (ULN); if known liver metastases, then: total bilirubin < 2.5 x ULN
+Total serum bilirubin =< 1.5 x ULN (in patients with known Gilbert syndrome, a total bilirubin =< 3.0 x ULN, with direct bilirubin =< 1.5 x ULN)
+Total bilirubin =< 1.5 x ULN (except subjects with Gilbert syndrome, who can have total bilirubin < 3.0 x ULN), within 4 weeks of randomization
+Serum total bilirubin: =< 1.5 X ULN OR
+Direct bilirubin: =< ULN for patients with total bilirubin levels > 1.5 ULN
+Total bilirubin =< 1.5 x ULN within 14 days prior to registration.
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+Within 14 days prior to registration: Total Bilirubin =< 1.5 x ULN (patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+Total bilirubin =< 1.5 x upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)
+Total bilirubin:* If no known liver metastases: total bilirubin < 1.5 x institutional upper limit of normal (ULN)* If known liver metastases, then: total bilirubin < 2.5 x ULN
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) (however, patients with known Gilbert disease who have serum bilirubin level =< 3 x ULN may be enrolled)

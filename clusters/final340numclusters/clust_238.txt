@@ -1,0 +1,7 @@
+HbA1c =< 7.0%
+Glycosylated hemoglobin (HbA1c) < 7.0%
+Glycosylated hemoglobin measurement (HbA1c) < 7.0%
+Hemoglobin A1C (HBA1C) < 7.0%
+Hemoglobin A1C (HbA1C) < 7.0%
+Glycosylated hemoglobin (Hb A1c) =< 7%
+Within less than or equal to 14 days prior to registration: Glycosylated hemoglobin (HbA1c) < 7.0%

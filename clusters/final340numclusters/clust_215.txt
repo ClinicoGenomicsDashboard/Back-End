@@ -1,0 +1,7 @@
+Serum cholesterol level =< 300 mg/dL (7.75 mmol/L)
+Fasting serum cholesterol =< 300 mg/dL
+Fasting cholesterol =< 240 mg/dL; ONLY APPLICABLE for patients with NF2 mutation (GSK2256098)
+Cholesterol =< 300 mg/dL (7.75 mmol/L)
+Serum total cholesterol level =< 300 mg/dL
+Patients must have a serum triglyceride level =< 300 mg/dL and serum cholesterol level =< 300 mg/dL; if an initial random draw (i.e. non-fasting) is out of range, it is acceptable to repeat this test as a fasting draw
+Serum total cholesterol level =< 300 mg/dL within 7 days prior to enrollment
