@@ -1,6 +1,10 @@
 setwd("C:/Users/cloud/Downloads")
-namestr <- "plateletnewclean.csv"
+namestr <- "Hemoglobin.csv"
 b <- read.csv(namestr, header = F, row.names = NULL, stringsAsFactors = F)
+
+##Deleting even rows
+keepseq <- seq(1, nrow(b), 2)
+b <- as.data.frame(b[keepseq, ])
 
 for (i in 1:ncol(b)) { 
   for (j in 1:nrow(b)) {
@@ -65,6 +69,59 @@ b[] <- lapply(b[], function(x) gsub("100000","100 000",x, ignore.case = T))
 b[] <- lapply(b[], function(x) gsub("ul","mcL",x, ignore.case = T))
 b[] <- lapply(b[], function(x) gsub("mcl","mcL",x, ignore.case = T))
 
+
+##Hari's other Change TO Rules (NOTE: skipped platelet)
+b[] <- lapply(b[], function(x) gsub("iuln","uln",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Upper limits of normal","uln",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Normal upper limit","uln",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("allergy","allergic reaction",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Allergies","allergic reaction",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Chemical allergic reaction","allergic reaction",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("allergic reactions","allergic reaction",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Absolute neutrophil counts","anc",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Absolute neutrophil count","anc",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Milligrams","mg",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("MG","mg",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("milligrams ","mg",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("glomerular filtration rate","gfr",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("aspartate aminotransferase","ast",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("milimoles per liter","mmol",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("micromole","umol",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("females of childbearing potential","fcbp",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Wocbp","fcbp",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("wocbp","fcbp",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Women of childbearing potential","fcbp",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Human immunodeficiency virus","hiv",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Hemoglobin","hgb",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("hemoglobin","hgb",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Human chorionic gonadotropin","hcg",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Millisecond","msec",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("milliseconds","msec",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Magnetic resonance imaging","mri",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("QT interval","qtc",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Qt intervals","qtc",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Eastern cooperative oncology group","ecog",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Left ventricular ejection fraction","lvef",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Deciliter","dl",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Decilitre","dl",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("deciliter","dl",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Hepatitis c virus","hcv",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("hepatitis c virus","hcv",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Hepatitis c","hcv",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Hepatitis b virus","hbv",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Hepatitis b virus","hbv",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Hepatitis b","hbv",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Karnofsky performance status","kps",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Red blood cell","rbc",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Red cell count","rbc",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Red blood cell count","rbc",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Heat shock protein","hsp",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub("Heat-shock protein","hsp",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub(" *\\(ecog\\)","",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub(" *\\(hiv\\)","",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub(" *\\(hg\\)","",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub(" *\\(hgb\\)","",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub(" *\\(kps\\)","",x, ignore.case = T))
 
 
 
@@ -362,26 +419,41 @@ for (j in 1:ncol(fillins_df)) {
   }
 }
 
+test2 <- as.data.frame(matrix(0, ncol = 0, nrow = (nrow(fillins_df))))
+for (j in 1:ncol(fillins_df)) {
+  if (j %% 2 == 1) {
+    test <- fillins_df[, c(j, j+1)]
+    test[,2] <- as.numeric(test[,2])
+    test <- test[order(-test$Frequency),]
+    test2 <- cbind(test2, test)
+  }
+}
+fillins_df <- test2[rowSums(is.na(test2))!=(ncol(test2)/2),]
 
 
+#for (j in 1:ncol(fillins_df)) {
+#  for (i in 1:nrow(fillins_df)) {
+#    if (j %% 2 == 1) {
+#      while (fillins_df[i, j + 1] == "") {
+#        for (l in i:nrow(fillins_df)) {
+#          if (fillins_df[l, j + 1] != "") {
+#            fillins_df[i, j] <- fillins_df[l, j] 
+#            fillins_df[i, j + 1] <- fillins_df[l, j + 1] 
+#          }
+#        }
+#        break
+#      }
+#      fillins_df[l, j] <- ""
+#      fillins_df[l, j + 1] <- ""
+#    } 
+#  }
+#}
 
-temp_df <- cbindPad(temp_df, b)
-fillins_df <- cbindPad(fillins_df, b)
-names(temp_df)[ncol(temp_df)] <- "Cluster Text"
-names(fillins_df)[ncol(fillins_df)] <- "Cluster Text"
+
+#temp_df <- cbindPad(temp_df, b)
+#fillins_df <- cbindPad(fillins_df, b)
+#names(temp_df)[ncol(temp_df)] <- "Cluster Text"
+#names(fillins_df)[ncol(fillins_df)] <- "Cluster Text"
 write.csv(temp_df, file = paste0(namestr, "TEMPLATE.csv"), row.names = F)
 write.csv(fillins_df, file = paste0(namestr, "FILLINS.csv"), col.names = F)
 
-
-
-
-
-
-
-
-
-#template <- cbindPad(template, b)
-#fillins <- cbindPad(fillins, b)
-#names(template)[ncol(template)] <- "Cluster Text"
-#names(fillins)[ncol(fillins)] <- "Cluster Text"
-#setwd("C:/Users/cloud/Downloads/PipelineTestRun5") 
