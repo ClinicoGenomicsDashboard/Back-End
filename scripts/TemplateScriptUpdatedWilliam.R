@@ -1,10 +1,7 @@
 setwd("C:/Users/cloud/Downloads")
-namestr <- "Hemoglobin.csv"
+namestr <- "creatinine.csv"
+threshold <- .9
 b <- read.csv(namestr, header = F, row.names = NULL, stringsAsFactors = F)
-
-##Deleting even rows
-keepseq <- seq(1, nrow(b), 2)
-b <- as.data.frame(b[keepseq, ])
 
 for (i in 1:ncol(b)) { 
   for (j in 1:nrow(b)) {
@@ -15,6 +12,13 @@ for (i in 1:ncol(b)) {
 }
 
 b <- as.data.frame(b[[1]])
+
+##Deleting even rows
+keepseq <- seq(1, nrow(b), 2)
+b <- as.data.frame(b[keepseq, ])
+
+
+
 
 
 b[] <- lapply(b, as.character)
@@ -66,8 +70,8 @@ b[] <- lapply(b[], function(x) gsub(" *cells/mcL","/mcL",x, ignore.case = T))
 b[] <- lapply(b[], function(x) gsub(" mm\\^3","/mcL",x, ignore.case = T))
 b[] <- lapply(b[], function(x) gsub(" *x *10\\^9/L","000/mcL",x, ignore.case = T))
 b[] <- lapply(b[], function(x) gsub("100000","100 000",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("ul","mcL",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("mcl","mcL",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub(" ul"," mcL",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub(" mcl"," mcL",x, ignore.case = T))
 
 
 ##Hari's other Change TO Rules (NOTE: skipped platelet)
@@ -122,6 +126,7 @@ b[] <- lapply(b[], function(x) gsub(" *\\(hiv\\)","",x, ignore.case = T))
 b[] <- lapply(b[], function(x) gsub(" *\\(hg\\)","",x, ignore.case = T))
 b[] <- lapply(b[], function(x) gsub(" *\\(hgb\\)","",x, ignore.case = T))
 b[] <- lapply(b[], function(x) gsub(" *\\(kps\\)","",x, ignore.case = T))
+b[] <- lapply(b[], function(x) gsub(" *\\(ast\\)","",x, ignore.case = T))
 
 
 
@@ -178,7 +183,7 @@ i <- 1
 j <- 1
 diff <- 0
 count <- 0
-threshold <- 0.8
+threshold_original <- threshold
 temp_loc <- 1
 fillins_loc <- 1
 loc <- 1
@@ -236,7 +241,9 @@ while (j <= length(base_str)) {
   }
   if (count >= (nrow(text_df)*threshold)) {
     if (count < nrow(text_df)) {
-      threshold <- ((threshold)*nrow(text_df_2))/(sum(rem_df$V1 == 'f'))
+      threshold <- ((threshold_original)*nrow(text_df_2))/(sum(rem_df$V1 == 'f'))
+      print("THIS IS THRESHOLD:")
+      print(threshold)
     }
     text_df <- text_df[which(rem_df$V1 == 'f'),]
     loc_df <- loc_df[which(rem_df$V1 == 'f'),]
