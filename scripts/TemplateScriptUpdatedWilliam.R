@@ -1,6 +1,6 @@
 setwd("C:/Users/cloud/Downloads")
-namestr <- "creatinine.csv"
-threshold <- .9
+namestr <- "WBC.csv"
+threshold <- .7
 b <- read.csv(namestr, header = F, row.names = NULL, stringsAsFactors = F)
 
 for (i in 1:ncol(b)) { 
@@ -14,18 +14,21 @@ for (i in 1:ncol(b)) {
 b <- as.data.frame(b[[1]])
 
 ##Deleting even rows
-keepseq <- seq(1, nrow(b), 2)
-b <- as.data.frame(b[keepseq, ])
+remseq <- seq(2, nrow(b), 2)
+
+for (i in remseq) {
+  b[i-1,2] <- b[i, 1]
+}
+b <- as.data.frame(b[-remseq, ])
 
 
 
 
 
-b[] <- lapply(b, as.character)
-b[] <- lapply(b, tolower)
-
-
-
+b[1] <- lapply(b[1], as.character)
+b[1] <- lapply(b[1], tolower)
+b[,2] <- as.character(b[,2])
+b[,2] <- as.numeric(b[,2])
 
 cbindPad <- function(...){
   args <- list(...)
@@ -54,80 +57,82 @@ cbindPad <- function(...){
 
 ##Platelet Change To Rules
 
-b[] <- lapply(b[], function(x) gsub("Platelet","Platelets",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Plateletss","Platelets",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Platelet count","Platelets",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Platelets:","Platelets",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("\\(plts\\)","",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("\\(plt\\)","",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(">",">=",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("greater than or equal to",">=",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(">==",">=",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" cell/mm\\^3","/mcL",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" */ *mm\\^3","/mcL",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("/microliters","mcL",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" *cells/mcL","/mcL",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" mm\\^3","/mcL",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" *x *10\\^9/L","000/mcL",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("100000","100 000",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" ul"," mcL",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" mcl"," mcL",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Platelet","Platelets",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Plateletss","Platelets",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Platelet count","Platelets",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Platelets:","Platelets",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("\\(plts\\)","",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("\\(plt\\)","",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(">",">=",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("greater than or equal to",">=",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(">==",">=",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" cell/mm\\^3","/mcL",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" */ *mm\\^3","/mcL",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("/microliters","mcL",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" *cells/mcL","/mcL",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" mm\\^3","/mcL",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" mcL","/mcL",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" *x *10\\^9/L","000/mcL",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(",000","000",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("/ul","/mcL",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("/mcl","/mcL",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" ul"," mcL",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" mcl"," mcL",x, ignore.case = T))
 
 
 ##Hari's other Change TO Rules (NOTE: skipped platelet)
-b[] <- lapply(b[], function(x) gsub("iuln","uln",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Upper limits of normal","uln",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Normal upper limit","uln",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("allergy","allergic reaction",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Allergies","allergic reaction",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Chemical allergic reaction","allergic reaction",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("allergic reactions","allergic reaction",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Absolute neutrophil counts","anc",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Absolute neutrophil count","anc",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Milligrams","mg",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("MG","mg",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("milligrams ","mg",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("glomerular filtration rate","gfr",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("aspartate aminotransferase","ast",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("milimoles per liter","mmol",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("micromole","umol",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("females of childbearing potential","fcbp",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Wocbp","fcbp",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("wocbp","fcbp",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Women of childbearing potential","fcbp",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Human immunodeficiency virus","hiv",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Hemoglobin","hgb",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("hemoglobin","hgb",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Human chorionic gonadotropin","hcg",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Millisecond","msec",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("milliseconds","msec",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Magnetic resonance imaging","mri",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("QT interval","qtc",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Qt intervals","qtc",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Eastern cooperative oncology group","ecog",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Left ventricular ejection fraction","lvef",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Deciliter","dl",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Decilitre","dl",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("deciliter","dl",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Hepatitis c virus","hcv",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("hepatitis c virus","hcv",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Hepatitis c","hcv",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Hepatitis b virus","hbv",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Hepatitis b virus","hbv",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Hepatitis b","hbv",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Karnofsky performance status","kps",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Red blood cell","rbc",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Red cell count","rbc",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Red blood cell count","rbc",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Heat shock protein","hsp",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub("Heat-shock protein","hsp",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" *\\(ecog\\)","",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" *\\(hiv\\)","",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" *\\(hg\\)","",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" *\\(hgb\\)","",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" *\\(kps\\)","",x, ignore.case = T))
-b[] <- lapply(b[], function(x) gsub(" *\\(ast\\)","",x, ignore.case = T))
-
+b[1] <- lapply(b[1], function(x) gsub("iuln","uln",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Upper limits of normal","uln",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Normal upper limit","uln",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("allergy","allergic reaction",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Allergies","allergic reaction",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Chemical allergic reaction","allergic reaction",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("allergic reactions","allergic reaction",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Absolute neutrophil counts","anc",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Absolute neutrophil count","anc",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Milligrams","mg",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("MG","mg",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("milligrams ","mg",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("glomerular filtration rate","gfr",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("aspartate aminotransferase","ast",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("milimoles per liter","mmol",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("micromole","umol",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("females of childbearing potential","fcbp",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Wocbp","fcbp",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("wocbp","fcbp",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Women of childbearing potential","fcbp",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Human immunodeficiency virus","hiv",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Hemoglobin","hgb",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("hemoglobin","hgb",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Human chorionic gonadotropin","hcg",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Millisecond","msec",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("milliseconds","msec",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Magnetic resonance imaging","mri",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("QT interval","qtc",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Qt intervals","qtc",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Eastern cooperative oncology group","ecog",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Left ventricular ejection fraction","lvef",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Deciliter","dl",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Decilitre","dl",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("deciliter","dl",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Hepatitis c virus","hcv",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("hepatitis c virus","hcv",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Hepatitis c","hcv",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Hepatitis b virus","hbv",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Hepatitis b virus","hbv",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Hepatitis b","hbv",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Karnofsky performance status","kps",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Red blood cell","rbc",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Red cell count","rbc",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Red blood cell count","rbc",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Heat shock protein","hsp",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub("Heat-shock protein","hsp",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" *\\(ecog\\)","",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" *\\(hiv\\)","",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" *\\(hg\\)","",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" *\\(hgb\\)","",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" *\\(kps\\)","",x, ignore.case = T))
+b[1] <- lapply(b[1], function(x) gsub(" *\\(ast\\)","",x, ignore.case = T))
 
 
 
@@ -143,6 +148,11 @@ for (i in 1:nrow(b)) {
   }
   
 }
+
+###This one for accrual count
+
+row1 <- unlist(strsplit(unlist(strsplit(b[which.max(b$V2),1], "[^[:alnum:]<>=./]")), "(?=[<>=./])", perl = TRUE))
+
 n <- 1
 for (i in 1:nrow(b)) {
   
@@ -150,14 +160,17 @@ for (i in 1:nrow(b)) {
   l[i,] <- c( unlist(strsplit(unlist(strsplit (b[i,1], "[^[:alnum:]<>=./]")), "(?=[<>=./])", perl = TRUE)), rep("IGNORE", times = as.numeric(n)))
 }
 
+
+
 l <- cbind(l, rep(0, times = nrow(l)))
 names(l)[ncol(l)] <- "wc"
 for (i in 1:nrow(l)) {
   l[i,ncol(l)] <- length(grep("IGNORE", l[i,]))
 }
 
+###This one for word count
+#row1 <- unlist(strsplit(unlist(strsplit(b[which.max(l$wc),1], "[^[:alnum:]<>=./]")), "(?=[<>=./])", perl = TRUE))
 
-row1 <- unlist(strsplit(unlist(strsplit(b[which.max(l$wc),1], "[^[:alnum:]<>=./]")), "(?=[<>=./])", perl = TRUE))
 
 wc_df <- as.data.frame(l$wc) 
 for (i in 1:nrow(wc_df)) {
@@ -253,7 +266,7 @@ while (j <= length(base_str)) {
     if (loc == 1) {
       for (n in 1:nrow(loc_df)) {
         if (loc_df[n, loc] != 1) {
-          temp_df[1,temp_loc]  <- "BLANK"
+          temp_df[1,temp_loc]  <- "VARIABLE"
           temp_loc <- temp_loc + 1
           blank_check <- T
           fillins_loc <- fillins_loc + 1
@@ -263,7 +276,7 @@ while (j <= length(base_str)) {
     }else {
         for (n in 1:nrow(loc_df)) {
           if ((loc_df[n,loc]) - (loc_df[n,loc-1]) > 1) {
-            temp_df[1,temp_loc]  <- "BLANK"
+            temp_df[1,temp_loc]  <- "VARIABLE"
             temp_loc <- temp_loc + 1
             blank_check <- T
             fillins_loc <- fillins_loc + 1
@@ -354,7 +367,7 @@ for (n in 1:nrow(loc_df)) {
 
 if (blank_check_end == T) {
   fillins_loc = fillins_loc + 1
-  temp_df[temp_loc] <- "BLANK"
+  temp_df[temp_loc] <- "VARIABLE"
   for (x in 1:nrow(fillins_df)) {
     fillins_df[x, fillins_loc] <- paste(text_df[x, (loc_df[x,ncol(loc_df)] + 1):ncol(text_df)], collapse = ' ')
   }
@@ -370,7 +383,7 @@ fillins_df <- fillins_df[, colSums(is.na(fillins_df)) != nrow(fillins_df)]
 
 
 for (i in 1:ncol(fillins_df)) {
-  names(fillins_df)[i] <- paste("Blank", as.character(i), collapse = ' ')
+  names(fillins_df)[i] <- paste("Variable", as.character(i), collapse = ' ')
 }
 
 fillins_df <- sapply(fillins_df, as.character)
@@ -393,7 +406,7 @@ for (i in 1:ncol(fillins_df)) {
 
 for (i in 1:ncol(fillins_df)) {
   if (i %% 2 == 1) {
-    colnames(fillins_df)[i] <- paste("Blank", (i+1)/2, collapse ="")
+    colnames(fillins_df)[i] <- paste("Variable", (i+1)/2, collapse ="")
     fillins_df[,i] <- sapply(fillins_df[,i], as.character)
   }
 }
