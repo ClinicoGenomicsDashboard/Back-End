@@ -1,0 +1,16 @@
+Corrected calcium level >= lower limit of the institutional normal range
+Serum calcium and magnesium above the institutional lower limit of normal, within  days of registration and within  days of the start of treatment
+Unacceptable electrolyte values, including:\r\n* Potassium < . mmol/L despite supplementation, or elevated potassium above the CTCAE grade  upper limit\r\n* Magnesium below the lower limit of normal range despite supplementation, or elevated magnesium above the CTCAE grade  upper limit\r\n* Ionized calcium or corrected calcium values below the normal range or hypercalcemia above the CTCAE grade  upper limit
+Serum phosphorus, calcium, magnesium and potassium >= lower limit of normal
+Calcium >= lower limit of normal
+Calcium >= lower limit of normal (=<  hours prior to enrollment/randomization)
+Calcium >= lower limit of normal (=<  hours prior to registration)
+Magnesium, potassium and calcium < the lower limit of normal per institution normal lab values
+Magnesium > the lower limit of normal per institution normal lab values
+Potassium > the lower limit of normal per institution normal lab values
+Calcium > the lower limit of normal per institution normal lab values
+Magnesium, potassium and calcium > the lower limit of normal per institution normal lab values
+Magnesium >= the lower limit of normal per institution normal lab values
+Potassium >= the lower limit of normal per institution normal lab values
+Calcium >= the lower limit of normal per institution normal lab values
+Magnesium, potassium and calcium > the lower limit of normal per institution normal lab values

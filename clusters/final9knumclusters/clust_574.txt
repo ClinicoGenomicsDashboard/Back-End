@@ -1,0 +1,31 @@
+CERITINIB INCLUSION CRITERIA: ECOG performance status 0-1
+CERITINIB INCLUSION CRITERIA: Life expectancy >= 12 weeks
+CERITINIB INCLUSION CRITERIA: Histologically or cytologically confirmed invasive melanoma
+CERITINIB INCLUSION CRITERIA: Measurable disease by RECIST v1.1
+CERITINIB INCLUSION CRITERIA: Documentation of absence of activating and targetable BRAF or NRAS point mutations
+CERITINIB INCLUSION CRITERIA: Presence of an oncogenic kinase fusion involving ALK, confirmed by assay by a CLIA-approved laboratory
+CERITINIB INCLUSION CRITERIA: Absolute neutrophil count >= 1.5 x 10^9/L
+CERITINIB INCLUSION CRITERIA: Platelets >= 75 x 10^9/L
+CERITINIB INCLUSION CRITERIA: Serum amylase =< 2 x ULN
+CERITINIB INCLUSION CRITERIA: Serum lipase =< ULN
+CERITINIB EXCLUSION CRITERIA: Uveal melanoma
+CERITINIB EXCLUSION CRITERIA: Previously identified allergy or hypersensitivity to components of ceritinib formulation
+CERITINIB EXCLUSION CRITERIA: Prior treatment with the following antineoplastic therapies within the following time frame:\r\n* Any prior treatment with ceritinib\r\n* Radiotherapy to lung fields =< 4 weeks prior to starting ceritinib; for all other anatomic sites (including radiotherapy to thoracic vertebrae and ribs), radiotherapy =< 2 weeks prior to starting ceritinib; palliative radiotherapy for bone lesions =< 2 weeks prior to starting ceritinib is allowed\r\n* Receipt of any cytotoxic chemotherapy, biologic agent, or investigational agent within 4 weeks prior to the first dose of study drug (within 6 weeks for nitrosoureas, mitomycin C or liposomal doxorubicin)
+Prior therapy with ceritinib
+Impaired gastrointestinal (GI) function or GI disease that may alter absorption of ceritinib or inability to swallow up to five ceritinib capsules daily; although, patients unable to swallow capsules will be allowed to participate in this study, by following the specific instructions on making a slurry of the medication
+Patients who have received prior everolimus or ceritinib
+Potassium before the first dose of ceritinib
+Magnesium before the first dose of ceritinib
+Phosphorus before the first dose of ceritinib
+Prior therapy with ceritinib
+Impaired gastrointestinal (GI) function or GI disease that may alter absorption of ceritinib or inability to swallow up to five ceritinib capsules daily
+Patient has been permanently and prematurely discontinued from ceritinib study treatment in the parent study due to any reason.
+Patient currently has unresolved toxicities for which ceritinib dosing has been interrupted in the parent study.
+Prior cancer therapy is allowed, including crizotinib, ceritinib, and investigational drugs.
+Group B: progression following any ALK inhibitor(s) other than ceritinib is required and the last dose of the ALK inhibitor must be no more than 60 days prior to the first dose of study drug. Prior ceritinib is not permitted.
+Group C: progression following ceritinib is required and the last dose of ceritinib must be no more than 60 days prior to the first dose of study drug.
+Patients who have previously been unable to tolerate ceritinib, in the opinion of the investigator. Exceptions to this exclusion include nausea, vomiting and diarrhea in patients taking ceritinib under fasted conditions.
+Prior therapy with ceritinib or other ALK or ROS1 inhibitor agents
+Known inability to swallow up to five ceritinib (LDK378) capsules daily
+Patient has received prior treatment with ceritinib.
+Impaired gastrointestinal (GI) function such as from significant small bowel resection or gastric bypass surgery or inability to swallow up to five ceritinib capsules daily

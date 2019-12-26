@@ -1,0 +1,52 @@
+Ability to provide informed consent
+102.0
+Written informed consent
+360.0
+Participant willing to provide a written informed consent
+292.0
+Able to give informed consent
+240.0
+Provide informed written consent
+48.0
+Provide informed written consent
+1120.0
+Ability to provide written informed consent
+265.0
+Willing to provide informed written consent
+224.0
+Inability to provide informed consent
+90.0
+Provide informed written consent
+330.0
+Ability to provide informed written consent
+102.0
+Patients must be able to provide written informed consent
+36.0
+Unable to provide informed consent
+278.0
+Patient must have given written informed consent
+509.0
+Ability to understand and willing to provide informed consent
+150.0
+Participant is unable to provide informed consent
+5058.0
+Patients must be able to provide written informed consent
+40.0
+Patients must be able to provide written informed consent
+23.0
+Inability to provide informed consent
+18.0
+Patients must be able to provide written informed consent
+75.0
+Capable and willing to provide informed consent
+99.0
+Be able to provide written informed consent
+720.0
+Written informed consent
+400.0
+Patients must be able to provide written informed consent
+30.0
+Patients must be able to provide written informed consent
+35.0
+Patients must be willing and able to provide a written informed consent
+164946.0

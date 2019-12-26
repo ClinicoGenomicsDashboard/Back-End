@@ -1,0 +1,14 @@
+Severe, active co-morbidity, defined as follows:* Unstable angina and/or congestive heart failure requiring hospitalization within 6 months prior to registration* Transmural myocardial infarction within 6 months prior to registration* Acute bacterial or fungal infection requiring intravenous antibiotics at the time of registration* Chronic obstructive pulmonary disease exacerbation or other respiratory illness requiring hospitalization or precluding study therapy at the time of registration* Idiopathic pulmonary fibrosis or other severe interstitial lung disease that requires oxygen therapy or is thought to require oxygen therapy within 1 year prior to registration* Hepatic insufficiency resulting in clinical jaundice and/or coagulation defects; note, however, that laboratory tests for coagulation parameters are not required for entry into this protocol* Acquired immune deficiency syndrome (AIDS) based upon current Centers for Disease Control and Prevention (CDC) definition; note: human immunodeficiency virus (HIV) testing is not required for entry into this protocol; protocol-specific requirements may also exclude immuno-compromised patients* Grade 3-4 electrolyte abnormalities (CTCAE, v. 4):** Serum calcium (ionized or adjusted for albumin) < 7 mg/dl (1.75 mmol/L) or > 12.5 mg/dl (> 3.1 mmol/L) despite intervention to normalize levels** Glucose < 40 mg/dl (< 2.2 mmol/L) or > 250 mg/dl (> 14 mmol/L)** Magnesium < 0.9 mg/dl (< 0.4 mmol/L) or > 3 mg/dl (> 1.23 mmol/L) despite intervention to normalize levels** Potassium < 3.0 mmol/L or > 6 mmol/L despite intervention to normalize levels** Sodium < 130 mmol/L or > 155 mmol/L despite intervention to normalize levels
+Hemoglobin >= 8 g/dL (5.0 mmol/L)
+Serum calcium (ionized or adjusted for albumin) < 7 mg/dl (1.75 mmol/L) or > 12.5 mg/dl (> 3.1 mmol/L) despite intervention to normalize levels
+Glucose < 40 mg/dl (< 2.2 mmol/L) or > 250 mg/dl (> 14 mmol/L)
+Magnesium < 0.9 mg/dl (< 0.4 mmol/L) or > 3 mg/dl (> 1.23 mmol/L) despite intervention to normalize levels
+Potassium < 3.0 mmol/L or > 6 mmol/L despite intervention to normalize levels
+Sodium < 130 mmol/L or > 155 mmol/L despite intervention to normalize levels
+Hemoglobin >= 9 g/dL OR >= 5.6 mmol/L
+Serum calcium or albumin-adjusted serum calcium >= 2.0 mmol/L (8.0 mg/dL) and =< 2.9 mmol/L (11.5 mg/dL)
+Serum calcium (ionized or adjusted for albumin) < 7 mg/dl (1.75 mmol/L) or > 12.5 mg/dl (> 3.1 mmol/L) despite intervention to normalize levels
+Glucose < 40 mg/dl (< 2.2 mmol/L) or > 250 mg/dl (> 14mmol/L)
+Magnesium < 0.9 mg/dl (< 0.4 mmol/L) or > 3 mg/dl (> 1.23 mmol/L) despite intervention to normalize levels
+Potassium < 3.0 mmol/L or > 6 mmol/L despite intervention to normalize levels
+Sodium < 130 mmol/L or > 155 mmol/L despite intervention to normalize levels

@@ -1,0 +1,4 @@
+Cluster 819: locally recurrent metastatic disease breast cancer advanced prior therapy inoperable 
+Cluster 1440: ovarian cancer epithelial platinum breast patients treatment prior borderline recurrent 
+Cluster 2059: breast cancer prior diagnosed therapy history treatment radiation patients recurrent 
+Cluster 2335: malignancy years history past prior previous active evidence exceptions diagnosed 

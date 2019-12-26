@@ -1,0 +1,43 @@
+Absolute neutrophil count (ANC) >= 1,000/uL
+Granulocytes >= 1,500/ul
+Absolute neutrophil count (ANC) > 750/uL
+Absolute neutrophil count (ANC) >= 1000/uL
+Absolute neutrophil count (ANC) >= 1,500/uL
+Absolute granulocytes >= 1500 cells/uL (1.5 x 10^9 L)
+Peripheral absolute neutrophil count (ANC) >= 1,000/uL
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+Absolute neutrophil count >= 1,000/uL (unsupported), within 14 days of registration and within 7 days of the start of treatment
+Absolute neutrophil count (ANC) >= 1000/uL
+CD4 count >= 50 cells/ul
+Absolute neutrophil count (ANC) >= 1500/uL
+Absolute neutrophil count (ANC) >= 1,200/ul
+Absolute neutrophil count >= 1,500/uL
+Absolute neutrophil count >= 1500/ul
+TUMOR BIOPSY SEQUENCING: Absolute neutrophil count >= 1,000/uL (mcL)
+TREATMENT: Absolute neutrophil count >= 1,000/uL (mcL)
+Absolute neutrophil count (ANC) >= 1000/ul (unsupported)
+Absolute neutrophil count (ANC) >= 1500/uL
+Absolute neutrophil count (ANC) >= 1000/uL
+Absolute neutrophil count >= 1,500/uL
+Absolute neutrophil count >= 1500/uL; Note: no transfusions are permitted 7 days prior to laboratory studies to determine eligibility
+Absolute neutrophil count (ANC) >= 1,200/ul
+Granulocytes >= 1,500/ul
+Absolute neutrophil count (ANC) >= 1,500/uL, obtained within 4 weeks prior to randomization
+Absolute neutrophil count (ANC) >= 1,500/ul
+Absolute neutrophil count (ANC) >= 1,500/uL
+Absolute neutrophil count >= 1,500/uL
+Absolute neutrophil count >= 1000 cells/uL
+INCLUSION CRITERIA FOR STRATUM C: Absolute neutrophil count >= 1000 cells/uL
+Absolute neutrophil count >= 1,500/uL
+Absolute neutrophil count > 1,500/uL
+Absolute neutrophil count >= 1,500/uL
+Absolute CD4 count > 200 cells/uL
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+Absolute neutrophil count (ANC) > 1,500/uL
+CD4+ T-cell count >= 100 cells/uL
+Peripheral absolute neutrophil count (ANC) >= 1000/uL
+Peripheral absolute neutrophil count (ANC) >= 1000/uL for patients with solid tumors without bone marrow involvement
+Peripheral absolute neutrophil count (ANC) >= 750/uL for patients with solid tumors and known bone marrow metastatic disease
+Absolute neutrophil count (ANC) >= 1500/uL
+Absolute lymphocyte count (ALC) >= 800/uL
+Absolute neutrophil count >= 1,500/uL

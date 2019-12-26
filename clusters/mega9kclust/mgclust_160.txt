@@ -1,0 +1,5 @@
+Cluster 283: rvo retinal csr hypercoagulability glaucoma hyperviscosity hypertension ocular history occlusion 
+Cluster 621: portal vein main thrombosis invasion mesenteric smv superior encasement occlusion 
+Cluster 817: rvo retinal occlusion vein history current evidence risk factors patients 
+Cluster 1668: retinopathy retinal serous occlusion vein rvo csr central history current 
+Cluster 2172: retinal detachment macular degeneration degenerative history vein ophthalmologic occlusion neurosensory 

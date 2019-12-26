@@ -1,0 +1,105 @@
+Patients who received prior PI3K, AKT or mTOR inhibitors are not allowed
+Prior treatment with pazopanib or any phosphoinositide 3-kinase (PI3K), mTOR, protein kinase B (AKT), or dual PI3K/mTOR complex (CREB regulated transcription coactivator [TORC]1/TORC2) inhibitors will be prohibited
+Patient must NOT have had previous treatment with any PI3K or AKT inhibitor
+Patients must not have any prior treatment with any PI3K inhibitor, or lenalidomide
+Prior treatment with a phosphatidylinositol 3 (PI3)-kinase, v-akt murine thymoma viral oncogene homolog 1 (AKT) or mammalian target of rapamycin (mTOR) inhibitor in which the patient experienced a grade >= 3 drug-related adverse event or otherwise would be at increased risk for additional PI3K-related toxicity
+Received prior treatment with a phosphoinositide-3-kinase (PI3K) inhibitor
+Prior treatment with idelalisib, other selective PI3K? inhibitors, or a pan-PI3K inhibitor.
+Prior exposure to agents specifically targeting both mammalian target of rapamycin (mTOR) complexes (dual target of rapamycin complex 1 [TORC1] + target of rapamycin complex 2 [TORC2] inhibitors) and/or phosphoinositide 3-kinase (PI3K)/ protein kinase B (AKT) pathways
+AZD5363 plus olaparib\r\n* Patients with solid tumors with PIK3CA or AKT mutations or other molecular aberrations leading to dysregulation of the PI3K/AKT pathway detected by NGS or RT-PCR in assays performed at a CLIA-certified laboratory:\r\n** activating mutations in PIK3CA, AKT1, AKT2, AKT3, ARID1A\r\n** other molecular aberrations leading to dysregulation of the PI3K/AKT pathway, for example phosphoinositide-3-kinase regulatory subunit 1 (PIK3R1)\r\n** during the course of the study new information may emerge relating to molecular aberrations that dysregulate the PI3K/AKT pathway; patients whose tumors bear these aberrations can be included in the study
+Previous therapy with GS-1101 (CAL-101), IPI-145 or any drug that specifically inhibits PI3K or mechanistic target of rapamycin (mTOR) within last 6 months
+Prior treatment with everolimus, or any other specific or selective TORC1/PI3K/AKT inhibitor (eg, temsirolimus)
+For Parts A, B, C, D, E, F, H: Have received prior therapy with a CDK4/6 inhibitor, Part G: Have received prior therapy with fulvestrant or any PI3K and/or mTOR inhibitor (including LY3023414); Part I: Have received prior treatment with abemaciclib in any setting.
+Patients should be excluded if they have had prior treatment with the combination of a PI3K inhibitor and a PD-1 inhibitor
+Prior treatment with approved or experimental therapeutic agents with known inhibition of the PI3K pathway, including PI3K inhibitors, AKT inhibitors, and mTOR inhibitors
+Patients previously treated with hormonal therapy (tamoxifen, AI) or PI3K, AKT, dual PI3K/mTOR, TORC1/2, or mTORC1 inhibitors.
+Prior treatment with PI3K-inhibitor
+Part B6 only: Participants must have squamous NSCLC; documented evidence of an activating molecular aberration of the PI3K/mTOR pathway
+Parts B3, B4, B5 & B6: No previous treatment with any PI3K and/or mTOR inhibitor
+Intolerance to any previous treatment with any phosphatidylinositol-3-kinase (PI3K) and/or mammalian target of rapamycin (mTOR) inhibitor.
+Prior therapy with a PI3K delta inhibitor
+Prior treatment with a mechanistic target of rapamycin (mTOR) inhibitor or phosphoinositide 3-kinase (PI3K) inhibitor.
+Has received prior therapy with a PI3K-inhibitor (prior therapy with a PI3K-inhibitor is allowed if it was discontinued for intolerance)
+Prior treatment with idelalisib, other selective PI3K? inhibitors, or a pan PI3K inhibitor.
+Prior treatment with PI3K/AKT inhibitors
+Prior treatment with a selective PI3K? inhibitor or a pan PI3K inhibitor.
+Previous treatment with phosphoinositide 3-kinase (PI3K), serine/threonine-specific protein kinase (AKT), dual PI3K/ mammalian (or mechanistic) target of rapamycin (mTOR) inhibitors, target of rapamycin complex 1/2 (TORC1/2) inhibitors or TORC1 inhibitors.
+Prior treatment with an mTOR, AKT, or PI3K inhibitor
+Prior treatment with an mechanistic target of rapamycin (mTOR) inhibitor or phosphatidylinositol-3-Kinase (PI3K) inhibitor is allowed but not required
+Prior use of PI3K or Akt inhibitors in the metastatic setting for the treatment of cancer; these include, but are not limited to: taselisib, GDC-0941, GDC-0980, BEZ235, BKM120, LY294002, PIK-75, TGX-221, XL147, XL765, SF1126, PX-866, D-87503, D-106669, GSK615, CAL101; patients who have received PI3K/Akt inhibitors previously for < 4 weeks will be eligible
+Patients who are receiving or may receive future treatment with PI3K or TNFalpha inhibitors
+Previous treatment with PI3K inhibitors, AKT inhibitors, mTOR inhibitor or fulvestrant
+Patients who have received prior treatment with a PI3K inhibitor or have known hypersensitivity to Gedatolisib or its excipients
+Part E: Prior treatment with a PI3K/mTOR inhibitor
+Patient has any prior use of PI3K inhibitors.
+Patient has received prior treatment with any PI3K inhibitors
+Patients who have had prior therapy with any phosphatidylinositol 3 kinase (PI3K)/v-akt murine thymoma viral oncogene homolog 1 (AKT)/mammalian target of rapamycin (mTor) pathway inhibitor
+Prior therapy with a selective phosphoinositide 3-kinase (PI3K) inhibitor or other B-cell receptor targeting agents is allowed
+Patients who have received prior treatment with a pan-selective PI3K inhibitor are not eligible
+Subject has received previous treatment with a PI3K inhibitor; exceptions may be made for subjects who discontinued treatment with a previous PI3K inhibitor for reasons other than toxicity or progression and as long as it has been > 12 months since discontinuation of the previous PI3K inhibitor; this exception will require prior approval from the study PI at KUMC
+Prior sensitivity or intolerance to PI3K inhibitors
+Patients who have had prior therapy with GSK2141795 or any other PI3K/AKT/MTOR pathway inhibitor
+Prior treatment with a PI3K or protein kinase B (AKT) inhibitor; patients previously treated with an mechanistic target of rapamycin (mTOR) inhibitor are eligible
+PRIOR/CONCURRENT THERAPY CRITERIA: Patients must not have received prior docetaxel; patients must not have received therapy with a drug known to be either a mitogen-activated protein kinase (MEK) inhibitor or a phosphatidylinositol 3 kinase (PI3K)/v-akt murine thymoma viral oncogene homolog 1 (AKT)/mammalian target of rapamycin (mTOR) pathway inhibitor
+Patient has received prior treatment with chemotherapy (except for neoadjuvant/ adjuvant chemotherapy), fulvestrant, any PI3K, mTOR or AKT inhibitor (pre-treatment with CDK4/6 inhibitors is allowed)
+Previous therapy with GS-1101 (CAL-101, Idelalisib), IPI-145 (Duvelisib), TGR-1202 or any drug that specifically inhibits PI3K/ mTOR (including temsirolimus, everolimus), AKT or BTK Inhibitor (including Ibrutinib) in last 6 months
+Group A: Prior treatment with a selective phosphatidylinositol 3-kinase (PI3K) ? inhibitor (eg, idelalisib), a pan-PI3K inhibitor, or a BTK inhibitor (eg, ibrutinib).
+Group B: Prior treatment with a selective PI3K? inhibitor (eg, idelalisib) or a pan PI3K inhibitor.
+Prior therapy with obinutuzumab and/or chlorambucil or a PI3K delta inhibitor
+Prior treatment with a phosphatidylinositol 3-kinase (PI3K) inhibitor, mammalian target of rapamycin (mTOR) inhibitor (e.g. everolimus), or protein kinase B (AKT) inhibitor
+Group 3: Advanced solid tumors with PI3K pathway alterations (PIK3CA mutation or PTEN loss) after failure of at least one line of prior standard therapy or for whom no further standard therapy is indicated. Prior treatment may not include inhibitors of the PI3K pathway.
+Prior therapy with agents that target Phosphatidylinositide 3-kinases (PI3K), Protein kinase B (AKT), or mechanistic target of rapamycin (mTOR). Participants with known hypersensitivity to everolimus or rapamycin derivatives are also excluded.
+Prior treatment with PI3K? or Bcl-2 inhibitors.
+Previous therapy with Akt, PI3K, and/or mTOR inhibitors
+For Part D (abemaciclib + LY3023414): Any subtype. The participant must have received at least two, but not more than three prior therapies for advanced/metastatic NSCLC. The participant must not have received prior treatment with any phosphoinositide 3-kinase (PI3K) or mammalian target of rapamycin (mTOR) inhibitor.
+Prior treatment with any CDK inhibitor, fulvestrant, everolimus, or agent that inhibits the PI3K-mTOR pathway
+Patients previously treated with ibrutinib or PI3K inhibitor
+The patient has received prior treatment with a PI3K inhibitor, AKT inhibitor, or mechanistic target of rapamycin (serine/threonine kinase) (mTOR) inhibitor (e.g. rapamycin, MK2206, perifosine, etc.)
+Prior treatment with apalutamide or phosphatidylinositol-3 kinase (PI3K)/mTOR pathway inhibitors
+At least 4 weeks must have elapsed from the use of any investigational agent prior to beginning protocol therapy\r\n* Note: prior treatment with phosphatidylinositol 3 kinase (PI3K)/mammalian target of rapamycin (mTOR) pathway inhibitors prohibited
+Prior treatment with PI3K/mTOR pathway inhibitors
+At least one prior therapy; prior autologous or allogeneic stem cell transplant is allowed; patients may not be on chronic immunosuppressive therapy for graft-versus-host disease (GVHD); patients who have received prior treatment with a pan-selective PI3K inhibitor are not eligible; however, prior therapy with a selective PI3K inhibitor, Bruton‘s tyrosine kinase inhibitor, or other B-cell receptor targeting agents is allowed
+Patients with prior sensitivity or intolerance to PI3K inhibitors are not eligible for participation
+Previous treatment with a PI3K inhibitor or BTK inhibitor
+Patients must have NOT received any class of drugs targeted to the PI3K pathway (such has PI3K inhibitors or mechanistic target of rapamycin [mTOR] inhibitors) or RAS-ERK pathway for management of recurrent or persistent disease
+Patients who received previous therapy with PI3K inhibitors or rapalogs will be allowed in the study if all other inclusion/exclusion criteria are met
+Previous treatment with a PI3K inhibitor or BTK inhibitor.
+Prior PI3K inhibitor or AKT inhibitor (patients previously treated with everolimus are eligible)
+Prior therapy with a PI3K inhibitor; prior use of Akt or mammalian target of rapamycin (mTOR) inhibitors are allowed
+Previous therapy with GS-1101 (CAL-101), IPI-145 or any drug that specifically inhibits the PI3K or mTOR pathway;
+Prior treatment with PI3K inhibitors
+Prior treatment with a PI3K inhibitor
+Prior treatment with idelalisib, other selective PI3K? inhibitors, or a pan-PI3K inhibitor.
+History of prior therapy with any phosphatidylinositol 3-kinase (PI3K) inhibitor (including idelalisib), or any anti-CD37 agent
+Prior treatment with PI3K inhibitor(s)
+Previous treatment with a PI3K or AKT inhibitor.
+Progressive disease while previously receiving a PI3K inhibitor (e.g. GS-1101 [idelalisib], duvelisib) or a serious/severe AE related to PI3K inhibitor treatment
+Prior treatment with a PI3K inhibitor or BTK inhibitor
+Patient has received previous treatment with any AKT, mTOR inhibitors or PI3K pathway inhibitors;
+Received prior treatment with Insulin-like Growth Factor 1 Receptor (IGF-1R) inhibitors, Phosphatidylinositol 3-Kinase (PI3K) inhibitors, or other experimental agents that target PI3K, Protein Kinase B (AKT), or Mammalian Target of Rapamycin (mTOR) pathway
+Prior treatment with PI3K-inhibitors
+Patients previously treated with an mTOR, AKT, or PI3K inhibitor (including but not limited to GDC-0941, GDC-0980, BEZ235, BKM120, LY294002, PIK-75, TGX-221, XL147, XL765, SF1126, PX-866, D-87503, D-106669, GSK615, CAL101, everolimus, temsirolimus, and ridaforolimus); for agents not listed, the study principal investigator (PI) or Co-PI will make a determination
+Patients previously treated with an mammalian TOR (mTOR) or PI3K inhibitor
+Prior cytotoxic chemotherapy, immunotherapy, a PI3K/AKT/mTOR agent (including TORC1 and TORC2 inhibitors), or RA 223 dichloride for the treatment of castration resistant prostate cancer (CRPC). Participants may have received docetaxel in the hormone-sensitive setting.
+Subject must have received at least one BCR PI (ibrutinib, idelalisib, or other approved BTK or PI3K inhibitor) and/or venetoclax;
+BTK/SYK/JAK/PI3K inhibitors
+Patients must have known PI3K/mTOR pathway gene aberrations (from molecular profiling studies).
+Prior treatment with a phosphoinositide -3 kinase (PI3K) inhibitor, Protein Kinase B Inhibitor is known as AKT inhibitor, or mammalian target of rapamycin (mTOR) inhibitor.
+Part A: Intolerable AEs due to other PI3K inhibitors, dual PI3K and mTOR inhibitors or AKT inhibitors. Parts B, C, and D: Prior exposure to any of the following: pharmacological inhibitors of AKT, PI3K, or dual PI3K and mTOR kinase activity
+The subject has previously been treated with a PI3K inhibitor and taken off treatment due to treatment related AEs.
+Patient has received previous treatment with PI3K inhibitors, lomustine or carboplatin.
+Prior treatment with phosphoinositide 3-kinase (PI3K) inhibitor
+Prior treatment with a PI3K inhibitor
+Patient has received previous treatment with PI3K inhibitors
+Prior treatment with an Akt inhibitor (prior PI3K or mTOR inhibitors are allowed)
+Previous treatment with PI3K inhibitors, AKT inhibitors or fulvestrant
+Have received a selective phosphoinositide-3-kinase alpha isoform (PI3K-alpha) inhibitor
+Prior treatment with fulvestrant, phosphoinositide 3-kinase (PI3K) inhibitor, or mechanistic target of rapamycin (mTOR) inhibitor for ABC or MBC
+History of significant toxicity related to another phosphatidylinositol 3-kinase (PI3K) inhibitor or mammalian target of rapamycin (mTOR) inhibitor requiring treatment discontinuation
+Prior treatment with PI3K inhibitor
+Prior treatment with a dual mTORC1/mTORC2 inhibitor (CC-223 arms only) or BTK inhibitor (PCI-32765) (CC-292 arms only). [Prior treatment with rapamycin analogues, PI3K or AKT inhibitors, lenalidomide and rituximab are allowed].
+Participants who are receiving any other investigational agents; history of prior PI3K, mTOR or CDK 4/6 inhibitor use for breast cancer
+Planned treatment with agent targeting PI3K/mTOR pathway (either standard of care or investigational agent)
+Prior therapy with mechanistic target of rapamycin (mTOR), phosphoinositide-3-kinase (PI3K), or dual PI3K-mTOR inhibitors, serine/threonine-specific protein kinase (AKT) inhibitors, or fulvestrant.
+Discontinuation on prior BTK inhibitor or PI3K delta inhibitor due to adverse events within prior 9 months
+Progression on prior BTK or PI3K delta inhibitor

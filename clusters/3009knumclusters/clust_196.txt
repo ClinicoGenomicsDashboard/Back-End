@@ -1,0 +1,836 @@
+Serum creatinine of =< 1.5 mg/dL; if creatinine > 1.5 mg/dL, creatinine clearance must be >= 60 mL/minute
+Serum triglyceride level =< 300 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years: 0.6 mg/dL\r\n* Age 2 to < 6 years: 0.8 mg/dL\r\n* Age 6 to < 10 years: 1 mg/dL\r\n* Age 10 to < 13 years: 1.2 mg/dL\r\n* Age 13 to < 16 years: 1.5 mg/dL (males), 1.4 mg/dL (females)\r\n* Age >= 16 years: 1.7 mg/dL (males), 1.4 mg/dL (females)
+Serum creatinine =< 1.5 x mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 50 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: 6 months to < 1 years maximum serum creatinine (mg/dL): male: 0.5; female: 0.5\r\n* Age: 1 to < 2 years maximum serum creatinine (mg/dL): male: 0.6; female: 0.6\r\n* Age: 2 to < 6 years maximum serum creatinine (mg/dL): male: 0.8; female: 0.8\r\n* Age: 6 to < 10 years maximum serum creatinine (mg/dL): male: 1; female: 1\r\n* Age: 10 to < 13 years maximum serum creatinine: (mg/dL): male: 1.2; female: 1.2\r\n* Age: 13 to < 16 years maximum serum creatinine: (mg/dL): male: 1.5; female: 1.4\r\n* Age: >= 16 years maximum serum creatinine: (mg/dL) male: 1.7; female: 1.4
+Creatinine =< 2.0 mg/dL
+Creatinine < 2.0 mg/dL
+Obtained =< 48 hours prior to registration: Serum creatinine =< 2.0 mg/dl
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or normal serum creatinine based on age/gender as follows:\r\n* 2 to < 6 years; 0.8 mg/dL male; 0.8 mg/dL female\r\n* 6 to < 10 years; 1 mg/dL male; 1 mg/dL female\r\n* 10 to < 13 years; 1.2 mg/dL male; 1.2 mg/dL female\r\n* 13 to < 16 years; 1.5 mg/dL male; 1.4 mg/dL female\r\n* >= 16 years; 1.5 mg/dL male; 1.4 mg/dL female
+Within 14 days of registration: Serum creatinine < 2.0 mg/dL (176.8 umol/liter)
+Within 14 days of registration: Serum calcium =< 11.5 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 1 month to < 6 months old: 0.4 mg/dl (male), 0.4 mg/dl (female)\r\n* 6 months to < 1 year old: 0.5 mg/dl (male), 0.5 mg/dl (female)\r\n* 1 to < 2 years old: 0.6 mg/dl (male), 0.6 mg/dl (female)\r\n* 2 to < 6 years old: 0.8 mg/dl (male), 0.8 mg/dl (female)\r\n* 6 to < 10 years old: 1 mg/dl (male), 1 mg/dl (female)\r\n* 10 to < 13 years old: 1.2 mg/dl (male), 1.2 mg/dl (female)\r\n* 13 to < 16 years old: 1.5 mg/dl (male), 1.4 mg/dl (female)\r\n* >= 16 years old: 1.7 mg/dl (male), 1.4 mg/dl (female)\r\n* Patients with an elevated serum creatinine due to obstructive hydronephrosis secondary to tumor are still eligible; however, patients with urinary tract obstruction by tumor must have unimpeded urinary flow established via diversion (i.e. percutaneous nephrostomies or ureteric stents) of the urinary tract
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 1 to < 2 years: =< 0.6 mg/dL\r\n* 2 to < 6 years: =< 0.8 mg/dL\r\n* 6 to < 10 years: =< 1 mg/dL\r\n* 10 to < 13 years: =< 1.2 mg/dL\r\n* 13 to < 16 years: =< 1.5 mg/dL (males) and =< 1.4 mg/dL (females)\r\n* >= 16 years: =< 1.7 mg/dL (males) and =< 1.4 mg/dL (females)
+Patients with serum creatinine > 3.0 mg/dL and patients on active dialysis for renal dysfunction are excluded
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 2 to < 6 years: male 0.8 mg/dL, female 0.8 mg/dL\r\n* 6 to < 10 years: male 1 mg/dL, female 1 mg/dL\r\n* 10 to < 13 years: male 1.2 mg/dL, female 1.2 mg/dL\r\n* 13 to < 16 years: male 1.5 mg/dL, female 1.4 mg/dL\r\n* >= 16 years: male 1.7 mg/dL, female 1.4 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 3 to < 6 years of age: maximum (max) serum creatinine 0.8 mg/dL (males and females)\r\n* 6 to < 10 years of age: max serum creatinine 1 mg/dL (males and females)\r\n* 10 to < 13 years of age: max serum creatinine 1.2 mg/dL (males and females)\r\n* 13 to < 16 years of age: max serum creatinine 1.5 md/dL (males) and 1.4 md/dL (females)\r\n* >= 16 years of age: max serum creatinine 1.7 mg/dL (males) and 1.4 mg/dL (females)\r\n** The threshold creatinine values were derived from the Schwartz formula for estimating GFR utilizing child length and stature data published by the Centers for Disease Control and Prevention (CDC)
+Serum creatinine within normal limits based on age/gender, as follows:\r\n* 1 to < 2 years: maximum serum creatinine 0.6 mg/dL (both male and female)\r\n* 2 to < 6 years: maximum serum creatinine 0.8 mg/dL (both male and female)\r\n* 6 to < 10 years: maximum serum creatinine 1 mg/dL (both male and female)\r\n* 10 to < 13 years: maximum serum creatinine 1.2 mg/dL (both male and female)\r\n* 13 to < 16 years: maximum serum creatinine 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: maximum serum creatinine 1.7 mg/dL (male), 1.4 mg/dL (female)
+Serum creatinine < 2.0 mg/dl
+Serum creatinine =< 1.5 mg/dL within 14 days prior to study entry
+Patients must have serum creatinine =< 1.5 mg/dl within 14 days prior to registration
+Serum creatinine =< 1.5 mg/dl within 14 days prior to registration
+Creatinine =< 1.7 mg/dl
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 2 to < 6 years of age\r\n** Male and female: 0.8 (maximum serum creatinine [mg/dL])\r\n* 6 to < 10 years of age\r\n** Male and female: 1 (maximum serum creatinine [mg/dL])\r\n* 10 to < 13 years of age\r\n** Male and female: 1.2 (maximum serum creatinine [mg/dL])\r\n* 13 to < 16 years of age\r\n** Male 1.5 (maximum serum creatinine [mg/dL])\r\n** Female: 1.4 (maximum serum creatinine [mg/dL])\r\n* >= 16 years of age\r\n** Male: 1.7 (maximum serum creatinine [mg/dL])\r\n** Female: 1.4 (maximum serum creatinine [mg/dL])
+A serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years: maximum serum creatinine 0.6 mg/dL for male and 0.6 mg/dL for female\r\n* Age 2 to < 6 years: maximum serum creatinine 0.8 mg/dL for male and 0.8 mg/dL for female\r\n* Age 6 to < 10 years: maximum serum creatinine 1 mg/dL for male and 1 mg/dL for female\r\n* Age 10 to < 13 years: maximum serum creatinine 1.2 mg/dL for male and 1.2 mg/dL for female\r\n* Age 13 to < 16 years: maximum serum creatinine 1.5 mg/dL for male and 1.4 mg/dL for female\r\n* Age >= 16 years: maximum serum creatinine 1.7 mg/dL for male and 1.4 mg/dL for female
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: 1 to < 2 years; maximum serum creatinine (mg/dL): male 0.6; female 0.6\r\n* Age: 2 to < 6 years; maximum serum creatinine (mg/dL): male 0.8; female 0.8\r\n* Age: 6 to < 10 years; maximum serum creatinine (mg/dL): male 1; female 1\r\n* Age: 10 to < 13 years; maximum serum creatinine (mg/dL): male 1.2; female 1.2\r\n* Age: 13 to < 16 years; maximum serum creatinine (mg/dL): male 1.5; female 1.4\r\n* Age: >= 16 years; maximum serum creatinine (mg/dL): male 1.7; female 1.4
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: 1 to < 2 years; maximum serum creatinine (mg/dL): male 0.6; female 0.6\r\n* Age: 2 to < 6 years; maximum serum creatinine (mg/dL): male 0.8; female 0.8\r\n* Age: 6 to < 10 years; maximum serum creatinine (mg/dL): male 1; female 1\r\n* Age: 10 to < 13 years; maximum serum creatinine (mg/dL): male 1.2; female 1.2\r\n* Age: 13 to < 16 years; maximum serum creatinine (mg/dL): male 1.5; female 1.4\r\n* Age: >= 16 years; maximum serum creatinine (mg/dL): male 1.7; female 1.4
+A serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years: maximum serum creatinine 0.6 mg/dL for male and 0.6 mg/dL for female\r\n* Age 2 to < 6 years: maximum serum creatinine 0.8 mg/dL for male and 0.8 mg/dL for female\r\n* Age 6 to < 10 years: maximum serum creatinine 1 mg/dL for male and 1 mg/dL for female\r\n* Age 10 to < 13 years: maximum serum creatinine 1.2 mg/dL for male and 1.2 mg/dL for female\r\n* Age 13 to < 16 years: maximum serum creatinine 1.5 mg/dL for male and 1.4 mg/dL for female\r\n* Age >= 16 years: maximum serum creatinine 1.7 mg/dL for male and 1.4 mg/dL for female
+A serum creatinine based on age/gender as follows:\r\n* Age: 1 to < 2 years; maximum serum creatinine (mg/dL); male: 0.6 female: 0.6\r\n* Age: 2 to < 6 years; maximum serum creatinine (mg/dL); male: 0.8 female: 0.8\r\n* Age: 6 to < 10 years; maximum serum creatinine (mg/dL); male: 1 female: 1\r\n* Age: 10 to < 13 years; maximum serum creatinine (mg/dL); male: 1.2 female: 1.2\r\n* Age: 13 to < 16 years; maximum serum creatinine (mg/dL); male: 1.5 female: 1.4\r\n* Age: >= 16 years; maximum serum creatinine (mg/dL); male: 1.7 female: 1.4
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: 1 to < 2 years; maximum serum creatinine (mg/dL): male 0.6; female 0.6\r\n* Age: 2 to < 6 years; maximum serum creatinine (mg/dL): male 0.8; female 0.8\r\n* Age: 6 to < 10 years; maximum serum creatinine (mg/dL): male 1; female 1\r\n* Age: 10 to < 13 years; maximum serum creatinine (mg/dL): male 1.2; female 1.2\r\n* Age: 13 to < 16 years; maximum serum creatinine (mg/dL): male 1.5; female 1.4\r\n* Age: >= 16 years; maximum serum creatinine (mg/dL): male 1.7; female 1.4
+Serum creatinine >2.0 mg/dL.
+Serum creatinine =< 2.0 mg/dL
+Serum creatinine =< 1.5 mg/dL (133 umol/L)
+Patients must have adequate renal function defined as < 1.5 x normal serum creatinine as adjusted for age: \r\nAge: < 5 years; maximum serum creatinine: 0.8 mg/dL \r\nAge: > 5 and < 10 years; maximum serum creatinine: 1.0 mg/dL\r\nAge: > 10 and < 15 years; maximum serum creatinine: 1.2 mg/dL\r\nAge: > 15 years; maximum serum creatinine: 1.5 mg/dL
+Obtained =< 21 days prior to registration: Creatinine =< 1.5 mg/dl OR creatinine > 1.5 mg/dl, estimated creatinine clearance must be >= 55 mL/minute by Cockcroft Gault formula
+A serum creatinine based on age/gender as follows:\r\n* Age: 1 to < 2 years; maximum serum creatinine (mg/dl): 0.6\r\n* Age: 2 to < 6 years; maximum serum creatinine (mg/dl): 0.8\r\n* Age: 6 to < 10 years; maximum serum creatinine (mg/dl): 1.0\r\n* Age: 10 to < 13 years; maximum serum creatinine (mg/dl): 1.2\r\n* Age: 13 to < 16 years; maximum serum creatinine (mg/dl): 1.5 (male) 1.4 (female)\r\n* Age: >= 16 years; maximum serum creatinine (mg/dl): 1.7 (male) 1.4 (female)
+Creatinine =< 1.5 mg/dL
+Within 14 days of treatment initiation:\r\nAlbumin >= 2.5 mg/dL
+Serum creatinine < 2.0 mg/dl
+Creatinine < 2 mg/dL
+6 months to 3 years of age: serum creatinine ? 0.4mg/dL
+3 to 13 years of age: serum creatinine ? 0.7mg/dL
+> 13 years of age: serum creatinine ? 1mg/dL
+Serum creatinine concentration based on age as in the table below or glomerular filtration rate (GFR) > 70 ml/min/1.73 m^2\r\n* =< 5 years, 0.8 mg/dL\r\n* 5 < age =< 10 years, 1.0 mg/dL\r\n* 10 < age =< 15 years, 1.2 mg/dL\r\n* > 15 years, 1.5 mg/dL
+Serum creatinine =< 2.5 mg/dL x ULN
+Creatinine less than or equal to 2.0 mg/dL
+Creatinine ?1.5mg/dL
+Creatinine at or below IULN (males 0.7-1.30 mg/dl; females 0.6-1.10 mg/dl) OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+Serum creatinine =< 2.0 mg/dL
+Creatinine < 2 mg/dL
+Serum creatinine =< 2.0 mg/dL OR
+Corrected serum calcium < 11 mg/dL, and no evidence of symptomatic hypercalcemia; (corrected serum calcium is calculated by adding 0.8 mg/dL to the measured serum calcium for every 1 g/dL that the serum albumin falls below 4.0 g/dL)
+Serum creatinine < 2.0 mg/dL
+Serum creatinine >2.5 mg/dL
+Serum calcium >11 mg/dL
+Creatinine < 1.5 mg/dl
+Serum creatinine ? 2.0 mg/dL
+Have a serum creatinine level ?1.8 mg/dL
+Creatinine: within age adjusted normal institutional limits:\r\n* Age =< 5 years - maximum serum creatinine 0.8 mg/dL\r\n* Age 5 years < age =< 10 years - maximum serum creatinine 1.0 mg/dL\r\n* Age > 10 years - maximum serum creatinine 1.2 mg/dL OR
+Creatinine =< 2 mg/dL
+Serum creatinine > 2 mg/dL
+Serum creatinine ? 2.0 mg/dL
+Creatinine =< 2.0 mg/dL
+Creatinine =< 1.4 mg/dl
+Serum creatinine ? 3 mg/dL
+Adequate Renal and Metabolic Function defined as creatinine clearance or radioisotope Glomerular filtration rate (GFR) >= 70 millilitre (mL)/ (min)/1.73 meter (m)^2 or A serum creatinine based on age/gender as follows, age 1 to < 2 years (male-0.6 milligrams (mg)/dL, female-0.6 mg/dL), age 2 to < 6 years (male-0.8 mg/dL, female-0.8 mg/dL), age 6 to < 10 years (male-1 mg/dL, female-1 mg/dL), age 10 to < 13 years (male-1.2 mg/dL, female-1.2 mg/dL), age 13 to < 16 years (male-1.5 mg/dL, female-1.4 mg/dL), age >= 16 years (male-1.7 mg/dL, female-1.4 mg/dL), urine creatinine ratio of <1 or a urinalysis that is negative for protein; or, 24-hour urine protein level < 1000 mg/dL, adequate thyroid function ,no more than Grade 1 abnormalities of potassium, calcium (confirmed by ionized calcium), magnesium and phosphorous.
+A serum creatinine based on age/gender as follows:\r\n* Age: 1 to < 2 years; Male: 0.6 mg/dL; Female: 0.6 mg/dL\r\n* Age: 2 to < 6 years; Male: 0.8 mg/dL; Female: 0.8 mg/dL\r\n* Age: 6 to < 10 years; Male: 1 mg/dL; Female: 1 mg/dL\r\n* Age: 10 to < 13 years; Male: 1.2 mg/dL; Female: 1.2 mg/dL\r\n* Age: 13 to < 16 years; Male: 1.5 mg/dL; Female: 1.4 mg/dL\r\n* Age: >= 16 years; Male: 1.7 mg/dL; Female: 1.4 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows: \r\n* 1 to < 2 years: 0.6 mg/dL (male), 0.6 mg/dL (female)\r\n* 2 to < 6 years: 0.8 mg/dL (male), 0.8 mg/dL (female)\r\n* 6 to < 10 years: 1 mg/dL (male), 1 mg/dL (female)\r\n* 10 to < 13 years: 1.2 mg/dL (male), 1.2 mg/dL (female)\r\n* 13 to < 16 years: 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: 1.7 mg/dL (male), 1.4 mg/dL (female)
+A serum creatinine based on age/gender as follows:\r\n* 0.8 mg/dL (3 to < 6 years of age)\r\n* 1.0 mg/dL (6 to < 10 years of age)\r\n* 1.2 mg/dL (10 to < 13 years of age)\r\n* 1.5 mg/dL (male) or 1.4 mg/dl (female) (13 to < 16 years of age)\r\n* 1.7 mg/dL (male) or 1.4 mg/dl (female) (>= 16 years of age)
+Creatinine clearance or nuclear glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age as follows:\r\n=< 5 years: maximum serum creatinine 0.8 mg/dL\r\n5 years < age =< 10 years: maximum serum creatinine 1 mg/dL\r\n10 years < age =< 15 years: maximum serum creatinine 1.2 mg/dL \r\n> 15 years: maximum serum creatinine 1.5 mg/dL
+Documented within 14 days of registration: Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age as follows:\r\n* =< 5 years: maximum serum creatinine 0.8 mg/dL\r\n* > 5 but =< 10 years: maximum serum creatinine 1 mg/dL\r\n* > 10 but =< 15 years: maximum serum creatinine 1.2 mg/dL\r\n* > 15 years: maximum serum creatinine 1.5 mg/dL
+Creatinine ? 1.5 mg/dl
+Creatinine =< 2.0 mg/dL
+Within 14 days prior to registration: Serum creatinine =< 1.5 mg/dL
+Creatinine =< 2.0 mg/dL
+Creatinine ? 2.5 mg/dl,
+Have adequate renal function (Serum creatinine <3 mg/dL).
+Serum creatinine based on age/gender as noted below; patients that do not meet the criteria below but have a 24 hour creatinine clearance or glomerular filtration rate (GFR) (radioisotope or iothalamate) >= 70 ml/min/1.73 m^2 are eligible\r\n* 1 to < 2 years: 0.6 mg/dl\r\n* 2 to < 6 years: 0.8 mg/dl\r\n* 6 to < 10 years: 1 mg/dl\r\n* 10 to < 13 years: 1.2 mg/dl\r\n* 13 to < 16 years: 1.5 mg/dl (male), 1.4 mg/dl (female)\r\n* >= 16 years: 1.7 mg/dl (male), 1.4 mg/dl (female)
+INCLUSION CRITERIA FOR STRATUM C: Serum creatinine based on age/gender as noted below; patients that do not meet the criteria below but have a 24 hour creatinine clearance or GFR (radioisotope or iothalamate) >= 70 ml/min/1.73 m^2 are eligible\r\n* 1 to < 2 years: 0.6 mg/dl\r\n* 2 to < 6 years: 0.8 mg/dl\r\n* 6 to < 10 years: 1 mg/dl\r\n* 10 to < 13 years: 1.2 mg/dl\r\n* 13 to < 16 years: 1.5 mg/dl (male), 1.4 mg/dl (female)\r\n* >= 16 years: 1.7 mg/dl (male), 1.4 mg/dl (female)
+Serum creatinine =< 2.0 x mg/dL
+Normal creatinine OR creatinine clearance >= 60 mL/min/1.73 m2 for patients with creatinine levels above institutional normal\r\n* Age =< 5 years; maximum serum creatinine 0.8 mg/dL\r\n* Age 5 < age =< 10 years; maximum serum creatinine 1.0 mg/dL\r\n* Age > 10 years; maximum serum creatinine 1.2 mg/dL
+Creatinine < 2.0 mg/dl
+Clinically significant renal disease (creatinine > 2.0 mg/dL, urea > 100 mg/dL)
+Creatinine > 1.5 mg/dl at the present time; patients with a known history of creatinine > 1.5 mg/dl must have a current estimated creatinine clearance of > 40 ml/min
+Creatinine > 2.0 mg/dl at the present time; patients with a known history of creatinine > 1.5 mg/dl must have a current estimated creatinine clearance > 40 ml/min
+Creatinine 0.6-1.3: MG/DL
+Creatinine =< 1.5 mg/dL
+Serum creatinine less than or equal to 1.6 mg/dl
+Creatinine (Cr) > 2 mg/dL at the screening visit
+Serum creatinine < 2.5 mg/dL
+A baseline creatinine reported as > 2.0 mg/dL
+Adequate renal function defined as: a serum creatinine that is =< maximum based on age/gender\r\nAge: 1 to < 2 years; maximum serum creatinine (mg/dL): 0.6\r\nAge: 2 years < 6 years; maximum serum creatinine (mg/dL): 0.8\r\nAge: 6 to < 10 years; maximum serum creatinine (mg/dL): 1.0\r\nAge: 10 to < 13 years; maximum serum creatinine (mg/dL): 1.2\r\nAge: 13 to < 16 years; maximum serum creatinine (mg/dL):1.5 (male) 1.4 (female)\r\nAge: > 16 years; maximum serum creatinine (mg/dL): 1.7 (male) 1.4 (female)
+RETREATMENT WITH MODIFIED T-CELLS INCLUSION CRITERIA: Adequate renal function defined as: a serum creatinine that is =< maximum based on age/gender\r\nAge: 1 to < 2 years; maximum serum creatinine (mg/dL): 0.6\r\nAge: 2 years < 6 years; maximum serum creatinine (mg/dL): 0.8\r\nAge: 6 to < 10 years; maximum serum creatinine (mg/dL): 1.0\r\nAge: 10 to < 13 years; maximum serum creatinine (mg/dL): 1.2\r\nAge: 13 to < 16 years; maximum serum creatinine (mg/dL):1.5 (male) 1.4 (female)\r\nAge: > 16 years; maximum serum creatinine (mg/dL): 1.7 (male) 1.4 (female)
+Adequate renal function with serum creatinine ?2.5 mg/dL
+Serum creatinine =< to 1.6 mg/dl
+Serum creatinine levels =< 2 mg/dL
+Serum creatinine =< 2.0 mg/dL
+Serum phosphorus >= 2.3 and < 4.8 mg/dL
+Serum calcium > 8.5 and < 10.5 mg/dL
+PART I: Creatinine =< 1.5 mg/dL
+PART II: Creatinine =< 1.5 mg/dL
+Renal: Glomerular filtration rate > 50 cc/min/1.73 m^2, OR serum creatinine based on age as follows:\r\n* 0.6 mg/dL (age 1 to 2 years)  \r\n* 0.8 mg/dL (age 2 to 6 years) \r\n* 1 mg/dL (age 6 to 10 years) \r\n* 1.2 mg/dL (age 10 to < 13 years)\r\n* 1.5 mg/dL (male); 1.4 mg/dL (female) (age 13 to 16 years)\t\r\n* 1.7 mg/dL (male); 1.4 mg/dL (female) (age > 16 years)
+Serum creatinine < 1.5 mg/dL OR if serum creatinine > 1.5 mg/dL then calculate creatinine clearance (CrCL) > 30 mL/min
+Serum creatinine < 1.5 mg/dl
+Serum creatinine less than or equal to 1.6 mg/dl
+Serum creatinine < 2.0 mg/dL
+Calcium (Ca) < 10.5 mg/dl
+Creatinine =< 1.5 mg/dL is recommended; however, institutional norms are acceptable
+Creatinine clearance/glomerular filtration rate (GFR) > 70 cc/min/1.73 m^2 or serum creatinine based on age/gender as follows:\r\n* 1 month to < 6 months: 0.4 mg/dL\r\n* 6 months to < 1 year: 0.5 mg/dL\r\n* 1 to < 2 years: 0.6 mg/dL\r\n* 6 to < 10 years: 0.8 mg/dL\r\n* 10 to < 13 years: 1 mg/dL\r\n* 13 to < 16 years: 1.5 (male), 1.4 (female)\r\n* >= 16 years: 1.7 (male), 1.4 (female)
+Serum creatinine less than or equal to 1.6 mg/dl
+Creatinine =< 1.5 mg/dL OR
+Serum creatinine =< 1.6 mg/dl.
+Adequate renal function defined as glomerular filtration rate ? 60 cc/min/1.73 m^2 or serum creatinine based on age as follows:\r\n* Age: < 6 months; maximum serum creatinine (mg/dL): 0.4 (male, female)\r\n* Age: 6 months to < 1 year; maximum serum creatinine (mg/dL): 0.5 (male, female)\r\n* Age: 1 to < 2 years; maximum serum creatinine (mg/dL): 0.6 (male, female)\r\n* Age: 2 to < 6 years; maximum serum creatinine (mg/dL): 0.8 (male, female)\r\n* Age: 6 to < 10 years; maximum serum creatinine (mg/dL): 1 (male, female)\r\n* Age: 10 to < 13 years; maximum serum creatinine (mg/dL): 1.2 (male, female)\r\n* Age: 13 to < 16 years; maximum serum creatinine (mg/dL): 1.5 (male), 1.4 (female)\r\n* Age: ? 16 years; maximum serum creatinine (mg/dL): 1.7 (male), 1.4 (female)
+ARM I&II: Creatinine =< 1.7 mg/dl
+Creatinine less than or equal to 2.0 mg/dL (unless considered tumor related)
+Serum creatinine ? 2.0 mg/dl
+The patient has a serum creatinine value greater than 1.5 mg/dL
+Creatinine > 1.5 mg/dL
+Creatinine within for age and laboratory normal ranges OR creatinine clearance ? 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal\r\n* ? 5 years: maximum serum creatinine (mg/dL) ? 0.8\r\n* 5 years < age ? 10 years: maximum serum creatinine (mg/dL) ? 1.0\r\n* > 10 years: maximum serum creatinine (mg/dL) ? 1.2
+Serum calcium =< 12.0 mg/dL
+Serum phosphate less than 2.0 mg/dL
+Serum creatinine less than or equal to 1.6 mg/dl
+Creatinine < 1.6 mg/dL
+Research participant serum creatinine < 1.8 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: 1 to < 2 years; maximum serum creatinine (mg/dL): male 0.6; female 0.6\r\n* Age: 2 to < 6 years; maximum serum creatinine (mg/dL): male 0.8; female 0.8\r\n* Age: 6 to < 10 years; maximum serum creatinine (mg/dL): male 1; female 1\r\n* Age: 10 to < 13 years; maximum serum creatinine (mg/dL): male 1.2; female 1.2\r\n* Age: 13 to < 16 years; maximum serum creatinine (mg/dL): male 1.5; female 1.4\r\n* Age: >= 16 years; maximum serum creatinine (mg/dL): male 1.7; female 1.4
+Creatinine =< 2.0 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73m^2 or a serum creatinine based on age as follows, within 14 days of registration and within 7 days of the start of treatment:\t\t\t\r\n* =< 5 years: 0.8 mg/dL\r\n* > 5 years but =< 10 years: 1 mg/dL\r\n* > 10 years but =< 15 years: 1.2 mg/dL\r\n* > 15 years: 1.5 mg/dL
+To be performed within 14 days prior to day 1 of protocol therapy: creatinine =< 2.5 mg/dL
+Creatinine (Cr) > 2 mg/dL at the screening visit
+Within 4 weeks of day 1: Creatinine =< 2.0 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) > 70 mL/min/1.73 m^2, or a serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years maximum serum creatinine (mg/dL) 0.6 (male); 0.6 (female)\r\n* Age 2 to < 6 years maximum serum creatinine (mg/dL) 0.8 (male); 0.8 (female)\r\n* Age 6 to < 10 years maximum serum creatinine (mg/dL) 1 (male); 1 (female)\r\n* Age 10 to < 13 years maximum serum creatinine (mg/dL) 1.2 (male); 1.2 (female)\r\n* Age 13 to < 16 years maximum serum creatinine (mg/dL) 1.5 (male); 1.4 (female)\r\n* Age >=16 years maximum serum creatinine (mg/dL) 1.7 (male) 1.4 (female)
+Serum creatinine ? 1.5 mg/dl OR calculated creatinine clearance ? 50 for those patients with creatinine greater than 1.5 obtained ? 14 days prior to randomization
+Serum creatinine that is =< 1.5 X upper limit of normal (ULN) based on age/gender as listed below:\r\n* Age 1 to < 2 years, male 0.6 mg/dL, female 0.6 mg/dL\r\n* Age 2 years < 6 years, male 0.8 mg/dL, female 0.8 mg/dL\r\n* Age 6 to < 10 years, male 1.0 mg/dL, female 1.0 mg/dL\r\n* Age 10 to < 13 years, male 1.2 mg/dL, female 1.2 mg/dL\r\n* Age 13 to < 16 years, male 1.5 mg/dL, female 1.4 mg/dL\r\n* Age > 16 years, male 1.7 mg/dL, female 1.4 mg/dL
+Serum creatinine =< 1.5 mg/dL.
+Creatinine =< 2.0 mg/dL
+Serum creatinine =< 1.6 mg/dL
+Serum creatinine =< 1.5 mg/dl (prior to biopsy)
+Magnesium > 1.2 and < 2.5 mg/dL.
+Patients have normal organ function: Hemoglobin ? 8.5 gm/dL, Platelets ? 50,000 /µL, Creatinine ? 2 mg/dL, AST and ALT < 10 X upper normal limit of the current institution; bilirubin < 3.0 mg/dL
+Serum creatinine (adults) OR creatinine clearance \r\n* Adults: =< 1.5 mg/dL; \r\n* Minors: serum creatinine (Cr) =< age-adjusted normal (below) OR\r\n** Age: 12-15; Maximum serum creatinine (mg/dl): 1.2\r\n** Age: > 15; Maximum serum creatinine (mg/dl): 1.5\r\n* >= 40 ml/min/1.73 m^2
+Serum creatinine ? 1.5 mg/dL OR creatinine clearance ? 50 mL/min/1.73 m2 for subjects with creatinine >1.5 mg/dL
+A serum creatinine that is =< 1.5 X upper limit of normal (ULN) based on age/gender as listed in the table below:\r\n* Age 1 to < 2 years, male 0.6 mg/dL, female 0.6 mg/dL\r\n* Age 2 years < 6 years, male 0.8 mg/dL, female 0.8 mg/dL\r\n* Age 6 to < 10 years, male 1.0 mg/dL, female 1.0 mg/dL\r\n* Age 10 to < 13 years, male 1.2 mg/dL, female 1.2 mg/dL\r\n* Age 13 to < 16 years, male 1.5 mg/dL, female 1.4 mg/dL\r\n* Age > 16 years, male 1.7 mg/dL, female 1.4 mg/dL
+CHEMOTHERAPY/CELL INFUSION ELIGIBILITY: Serum creatinine less than or equal to 1.7 mg/dL
+Serum creatinine based on age/gender as follows:\r\n* Age 6 months to < 1 year: maximum serum creatinine 0.5 mg/dL for male and 0.5 mg/dL for female\r\n* Age 1 to < 2 years: maximum serum creatinine 0.6 mg/dL for male and 0.6 mg/dL for female\r\n* Age 2 to < 6 years: maximum serum creatinine 0.8 mg/dL for male and 0.8 mg/dL for female\r\n* Age 6 to < 10 years: maximum serum creatinine 1 mg/dL for male and 1 mg/dL for female\r\n* Age 10 to < 13 years: maximum serum creatinine 1.2 mg/dL for male and 1.2 mg/dL for female\r\n* Age 13 to < 16 years: maximum serum creatinine 1.5 mg/dL for male and 1.4 mg/dL for female\r\n* Age >= 16 years: maximum serum creatinine 1.7 mg/dL for male and 1.4 mg/dL for female
+Serum creatinine =< to 1.6 mg/dL
+Creatinine clearance >= 50 mg/dL within 30 days of registration
+Creatinine ? 1.7 mg/dL
+Total serum calcium (corrected for serum albumin) >= 8.5 mg/dL or ionized calcium >= 3.8 mg/dL
+Renal dysfunction defined as a serum creatinine >1.6 mg/dL.
+Creatinine < 2.0 mg/dL (a renal consult can override this criteria)
+Creatinine > 2.0 mg/dL (a renal consult can override this criteria)
+Creatinine =< 2.0 mg/dl
+Creatinine =< 2.0 mg/dL
+Creatinine =< 2.0 mg/dL obtained =< 14 days prior to registration
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) > 60 mL/min/1.73 m^2 by either Cockcroft-Gault formula or analysis normal serum creatinine based on age described below:\r\n* =< 5 years, 0.8 mg/dL\r\n* 5 < age =< 10 years, 1.0 mg/dL\r\n* 10 < age =< 15 years, 1.2 mg/dL\r\n* > 15 years, 1.5 mg/dL
+Creatinine =< 2.0 mg/dl
+Renal insufficiency, defined as serum creatinine > 2.0 mg/dL
+Creatinine =< 1.6 mg/dL obtained < 4 weeks prior to starting treatment
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender within 14 days of registration as follows:\r\n* Age 3 to < 6 years; maximum serum creatinine (mg/dL) 0.8 (male and female)\r\n* Age 6 to < 10 years; maximum serum creatinine (mg/dL) 1 (male and female)\r\n* Age 10 to < 13 years; maximum serum creatinine (mg/dL) 1.2 (male and female)\r\n* Age 13 to < 16 years; maximum serum creatinine (mg/dL) 1.5 (male) and 1.4 (female)\r\n* Age >= 16 years; maximum serum creatinine (mg/dL) 1.7 (male) and 1.4 (female)
+Adequate hematological, hepatic, and renal parameters; i.e., hemoglobin > 10 g/dL, creatinine < 3.5 mg/dL, bilirubin < 1.5 mg/dL , and aspartate aminotransferase, alanine aminotransferase < 50 U/L, and alkaline phosphatase < 130 U/L.
+Serum creatinine level ?2.5 mg/dL (221 ?mol/L)
+Creatinine <2 mg/dL
+Patients with serum creatinine levels less than 1.5 mg/dL
+Patients with serum creatine >= 1.5 mg/dL
+Creatinine =< 2.0 mg/dL obtained =< 7 days prior to registration
+Serum creatinine < 2 mg/dl, within 28 days prior to registration
+Creatinine =< 2.0 mg/dL
+Creatinine =< 2.0 mg/dL
+Serum creatinine < 1.8 mg/dl
+Serum creatinine less than or equal to 1.4 mg/dL
+Serum creatinine < 3.0 mg/dL
+DONOR: Serum creatinine < 1.8 mg/dl
+Obtained =< 14 days prior to registration: Creatinine =< 2.0 mg/dL
+Serum creatinine < 1.7 mg/dL
+Serum creatinine =< 2.0 mg/dL
+Creatinine =< 1.7 mg/dl
+No end organ damage attributable to a plasma cell disorder, defined as having ANY of the following:\r\n* Hypercalcemia: serum calcium > 1 mg/dL above the upper limit of normal or > 11 mg/dL\r\n* Renal insufficiency: serum creatinine > 2 mg/dL or creatinine clearance < 30 mL per min\r\n* Anemia: hemoglobin value > 2 g/dL below the upper limit of normal or a hemoglobin value < 10 g/dL\r\n* Bone lesions: one or more lytic lesions on skeletal radiography, computed tomography (CT), MRI, PET-CT, or PET-MRI
+Serum creatinine < 1.5 mg/dl
+Creatinine =< 2.0 mg/dl
+Serum creatinine =< 2.0 mg/dL (assessed within 14 days prior to registration)
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70mL / min / 1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 2 to < 6 years: Maximum serum creatinine for both male and female 0.8 mg/dL\r\n* 6 to < 10 years: Maximum serum creatinine for both male and female 1 mg/dL\r\n* 10 to < 13 years: Maximum serum creatinine for both male and female 1.2 mg/dL\r\n* 13 to < 16 years: Maximum serum creatinine for male 1.5 mg/dL and for female 1.4 mg/dL\r\n* >= 16 years: Maximum serum creatinine for male 1.7 mg/dL and for female 1.4 mg/dL
+Serum creatinine < 1.5 mg/dL
+Creatinine less than or equal to 2.0 mg/dL (unless considered tumor related)
+Creatinine (Cr) =< 1.5 mg/dL x ULN
+Patients with serum creatinine levels less than 1.5 mg/dL
+Patients with serum creatinine level greater than 1.5 mg/dL
+Serum calcium =< 12.0 mg/dL
+Serum Creatinine =< 3.0 mg/dL
+Serum creatinine that is at or below 2.0 mg/dL
+Serum creatinine =< to 1.6 mg/dL
+Creatinine =< 1.5 mg/dL
+Serum creatinine =< 2.0 mg/dL, within 14 day prior to registration
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: maximum serum creatinine (mg/dL)\r\n* 1 month to < 6 months: 0.4 mg/dL (male and female)\r\n* 6 months to < 1 year: 0.5 mg/dL (male and female)\r\n* 1 to < 2 years: 0.6 mg/dL (male and female)\r\n* 2 to < 6 years: 0.8 mg/dL (male and female)\r\n* 6 to < 10 years: 1 mg/dL (male and female)\r\n* 10 to < 13 years: 1.2 mg/dL (male and female)\r\n* 13 to < 16 years: 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: 1.7 mg/dL (male), 1.4 mg/dL (female)
+Serum creatinine =< to 1.6 mg/dl
+Serum creatinine > 1.4 mg/dl =< 30 days prior to study entry
+Creatinine level of 3 mg/dL or lower
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 2 to < 6 years: maximum serum creatinine 0.8 mg/dL (male and female)\r\n* 6 to < 10 years: maximum serum creatinine 1 mg/dL (male and female)\r\n* 10 to < 13 years: maximum serum creatinine 1.2 mg/dL (male and female)\r\n* 13 to < 16 years: maximum serum creatinine 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: maximum serum creatinine 1.7 mg/dL (male), 1.4 mg/dL (female)
+Serum creatinine >= 2.5 mg/dL
+Serum creatinine =< 2.0 mg/dL (assessed within 10 days prior to study day 0)
+Creatinine =< 2.5 mg/dL
+Adequate renal and hepatic function (creatinine ? 2.0 mg/dl, bilirubin ? 2.0 mg/dl, aspartate transaminase (AST) and alanine transaminase (ALT) ? 4X upper limit of normal range).
+Serum creatinine > 2.5 mg/dL
+EXCLUSION CRITERIA FOR TNBC: Serum creatinine > 2.5 mg/dL
+Serum creatinine =< 2.0 mg/dl
+Obtained =< 14 days prior to registration: Creatinine =< 1.0 mg/dL
+Serum creatinine < 1.5 mg/dL
+Serum creatinine above 2.0mg/dl
+Creatinine =< 1.6 mg/dl
+Creatinine =< 1.5 mg/dL
+Serum creatinine less than or equal to 1.4 mg/dL
+Corrected serum calcium > 11.5 mg/dl within 2 weeks of enrollment
+Creatinine: =< 2.0 mg/dl
+Serum creatinine =< 2.0 mg/dL
+Creatinine < 1.6 mg/dl
+Serum creatinine =< 2.0 mg/dL
+Creatinine < 1.6 mg/dl
+Serum creatinine =< to 1.6 mg/dl
+Serum creatinine =< 1.5 mg/dl
+Creatinine =< 1.6 mg/dl
+Creatinine =< 2.0 mg/dL
+Creatinine, creatinine clearance or radioisotope glomerular filtration rate (GFR) > 70 mL/min/1.73m^2 OR a serum creatinine (mg/dL) less than or equal to the following:\r\n* Age (years [yrs]):1-1.99; male (mg/dL): 0.6; female (mg/dL): 0.6\r\n* Age (yrs): 2-5.99; male (mg/dL): 0.8; female (mg/dL): 0.8\r\n* Age (yrs): 6-9.99; male (mg/dL): 1; female (mg/dL): 1\r\n* Age (yrs): 10-12.99; male (mg/dL): 1.2; female (mg/dL): 1.2\r\n* Age (yrs): 13-15.99; male (mg/dL): 1.5; female (mg/dL): 1.4\r\n* Age (yrs): >16; male (mg/dL): 1.7; female (mg/dL): 1.4
+Serum creatinine =< 2.0 mg/dL
+Magnesium >= 0.9 mg/dL
+Creatinine =< 2.0 mg/dL
+Creatinine =< 1.5 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) within 7 days prior to enrollment >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: 1 to < 2 years; maximum serum creatinine (mg/dL): male 0.6; female 0.6\r\n* Age: 2 to < 6 years; maximum serum creatinine (mg/dL): male 0.8; female 0.8\r\n* Age: 6 to < 10 years; maximum serum creatinine (mg/dL): male 1; female 1\r\n* Age: 10 to < 13 years; maximum serum creatinine (mg/dL): male 1.2; female 1.2\r\n* Age: 13 to < 16 years; maximum serum creatinine (mg/dL): male 1.5; female 1.4\r\n* Age: >= 16 years; maximum serum creatinine (mg/dL): male 1.7; female 1.4
+Creatinine < 1.5 mg/dl (= 132 umol/L) or
+Creatinine =< 1.5 mg/dl
+Within 6 weeks of day 1: Creatinine =< 2.0 mg/dL
+Creatinine =< 2.0 mg/dl
+Serum creatinine =< 1.5 mg/dL or 133 umol/L
+Creatinine < 1.5 mg/dl within 14 days of study entry
+Serum calcium =< 12 mg/dl within 14 days of study entry
+Creatinine =< 1.5 mg/dl
+Serum creatinine > 2.2 mg/dl or blood urea nitrogen (BUN) > 40 mg/dl; note: if creatinine is greater than 1.5 x upper limit of normal (ULN), creatinine clearance must be greater than 60ml/min
+ADDITIONAL CRITERIA FOR STUDY CONTINUATION: Serum creatinine =< 2 mg/dl
+Serum creatinine =< 3 mg/dL
+Serum creatinine ? 2.5 mg/dL;
+Creatinine < 2.5 mg/dl
+Creatinine < 2 mg/dL
+Serum creatinine < 2.0 mg/dl
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years: 0.6 mg/dL for males, 0.6 mg/dL for females\r\n* Age 2 to < 6 years: 0.8 mg/dL for males, 0.8 mg/dL for females\r\n* Age 6 to < 10 years: 1.0 mg/dL for males, 1.0 mg/dL for females\r\n* Age 10 to < 13 years: 1.2 mg/dL for males, 1.2 mg/dL for females\r\n* Age 13 to < 16 years: 1.5 mg/dL for males, 1.4 mg/dL for females\r\n* Age >= 16 years: 1.7 mg/dL for males, 1.4 mg/dL for females
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) > 70 ml/min/1.73 m^2 OR serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years, 0.6 mg/dL (male) and 0.6 mg/dL (female)\r\n* Age > 2 and < 6 years, 0.8 mg/dL(male) and 0.8 mg/dL (female)\r\n* Age > 6 and < 10 years, 1.0 mg/dL (male) and 1.0 mg/dL (female)\r\n* Age > 10 and < 13 years, 1.2 mg/dL (male) and 1.2 mg/dL (female)\r\n* Age > 13 and < 16 years, 1.5 mg/dL (male) and 1.4 mg/dL (female)\r\n* Age > 16 years, 1.7 mg/dL (male) and 1.4 mg/dL (female)
+Serum creatinine =< 3.0 mg/dL
+Creatinine > 1.5 mg/dL
+Creatinine =< 2.0 mg
+Patients must have an age-adjusted normal serum creatinine (see below) OR a creatinine clearance or glomerular filtration rate (GFR) >= or more than 60 mL/min/1.73 m^2\r\n* Age (years); maximum serum creatinine (mg/dl)\r\n* < 5 years; 0.8 mg/dl\r\n* 5 < age < 10 years; 1.0 mg/dl\r\n* 10 < age < 15 years; 1.2 mg/dl\r\n* > 15 years; 1.5 mg/dl
+Creatinine < 2.5 mg/dL
+Serum creatinine < or =< 2.0 mg/dl
+Creatinine =< 1.5 mg/dL
+Creatinine < 1.8 mg/dL
+Creatinine < 1.5 mg/dl, obtained within 30 days of study registration or
+Creatinine =< 1.5 mg/dl
+Serum creatinine (Cr) > 2 mg/dL, dialysis, or prior renal transplant
+Serum creatinine =< 1.5 mg/dL or 13 umol/L
+Serum creatinine less or equal to 2 mg/dl
+Creatinine < 1.6 mg/dL
+Research participant serum creatinine =< 1.8 mg/dL
+Serum creatinine =< 2 mg/dl
+Creatinine less than or equal to 2.0 mg/dL (unless considered tumor related)
+Within 2 weeks of enrollment: Creatinine =< 1.7 mg/dl
+Creatinine =< 1.5 mg/dL OR creatinine clearance >= 30 mL/min/1.73 m^2 for patients with creatinine levels above 1.5 mg/dL
+Serum creatinine > 2.0 mg/dL
+Serum creatinine =< 1.5 mg/dL or 133 umol/L
+Serum creatinine within 0.5-1.4 mg/dL, or if serum creatinine outside 0.5-1.4 mg/dL, then renal function (creatinine clearance or glomerular filtration rate [GFR]) > 40 mL/min/1.73 m^2
+Serum calcium < 11.6mg/dL
+Serum creatinine > 1.5 mg/dL
+Serum creatinine =< to 1.6 mg/dl
+Serum creatinine =< 3 mg/dL
+Serum creatinine =< 1.5 mg/dL
+Serum creatinine ? 2.0 mg/dL
+Serum creatinine > 2.0 mg/dl
+Serum creatinine =< to 1.6 mg/dl
+Creatinine =< 2.0 mg/dL
+Patients are required to have a serum creatinine =< 2.0 mg/dL; this value must be obtained within two weeks before protocol entry
+Serum creatinine =< 2.0 mg/dl
+Serum creatinine < 2 mg/dl
+Serum creatinine =< 2 mg/dl
+Creatinine =< 1.6 mg/dl
+Creatinine < 1.6 mg/dL
+Creatinine < 2.0 mg/dL
+Renal disease: serum creatinine > 2.0 mg/dl
+Serum creatinine =< 1.5 mg/dL
+Renal impairment with a creatinine > 1.4 mg/dl
+Serum creatinine =< 1.5mg/dl OR calculated creatinine clearance >= 50 for those patients with creatinine greater than 1.5
+Serum creatinine =< 2.0 mg/dL
+Serum creatinine =< to 1.6 mg/dl
+Serum creatinine > 2.0 mg/dl
+Serum creatinine less than or equal to 1.6 mg/dl (Turnstile II)
+Serum creatinine > 2 mg/dL
+Creatinine < 2.0 mg/dL
+Serum creatinine < 1.5 mg/dl
+Serum creatinine =< 1.5 mg/dL or 133 umol/L obtained =< 2 weeks prior to enrollment
+Creatinine (Cr) =< 1.6 mg/dL
+Serum creatinine < 3 mg/dl
+Total serum calcium (corrected for serum albumin) >= 8.5 mg/dL or ionized calcium >= 3.8 mg/dL
+Creatinine =< 2.0 mg/dL
+Serum creatinine > 2.5 mg/dL
+Serum creatinine > 2 mg/dL
+Creatinine =< 2.0 mg/dl
+Serum creatinine < 1.5 mg%
+Creatinine =< 1.7 mg/dl
+Creatinine =< 2.0 mg/dL
+Creatinine =< 2.5 mg/dL
+Serum creatinine =< 2 mg/dl or creatinine clearance greater or equal than 40 cc/min; creatinine for pediatric patients =< 2 mg/dl or =< 2 times upper limit of normal for age (whichever is less)
+Creatinine < 2.5 mg/dl
+Serum creatinine =< 2.0 mg/dL or 177 umol/L
+Serum creatinine =< 3 mg/dL
+Serum creatinine =< 2.0 mg/dl
+Serum creatinine =< 1.5 mg/dL (if > 1.5 mg/dL, then creatinine clearance should be > 60 mL/min)
+Serum creatinine less than or equal to 1.6 mg/dl (Turnstile II)
+Serum creatinine =< 1.6 mg/dL
+Serum creatinine < 2.0 mg/dl
+Have serum creatinine <1.6 mg/dL, INR < 1.5 U, absolute neutrophil count (ANC) > 1 x 109/L , platelets ? 100 x 109/L , hemoglobin ? 10 mg/dL, ALT and AST ? 3 x ULN, bilirubin ? 1.5 x ULN
+Serum creatinine < 1.6 mg/dL
+Serum creatinine (Cr) =< 1.5 mg/dl
+Creatinine =< 1.5 mg/dL
+Serum creatinine =< 1.5 mg/dl
+Serum creatinine =< 1.5 mg/dL (133 umol/L)
+Creatinine < 1.5 mg/dl in males and < 1.4 in females
+Creatinine =< 2.0 mg/dl
+Serum creatinine =< 1.6 mg/dl
+Serum creatinine based on age/gender; patients that do not meet the criteria but have a 24 hour creatinine clearance or glomerular filtration rate (GFR) (radioisotope or iothalamate) >= 70 ml/min/1.73 m^2 are eligible:\r\n* 2 to < 6 years: 0.8 mg/dL (male and female)\r\n* 6 to < 10 years: 1 mg/dL (male and female)\r\n* 10 to < 13 years: 1.2 mg/dL (male and female)\r\n* 13 to < 16 years: 1.5 mg/dL (male); 1.4 mg/dL (female)\r\n* >= 16 years: 1.7 mg/dL (male); 1.4 mg/dL (female)
+Creatinine > 177 ?mol/L (> 2 mg/dL) at screening
+Have a serum creatinine level ?1.8 mg/dL
+Creatinine =< 2 mg/dL
+Even if organ function abnormalities are considered due to tumor, the upper limit for bilirubin is =< 2.6 mg/dL and creatinine =< 3 mg/dL
+Serum creatinine > 2.0 mg/dl
+Serum creatinine =< 2 mg/dl
+Serum creatinine greater than 1.6 mg/dL
+Serum creatinine < 1.8 mg/dL
+Phosphorus >= 2.3 mg/dL
+Serum creatinine =< 2.0 mg/dl or creatinine clearance >= 60 ml/min/1.73 m^2 for patients with creatinine levels above 2.0 mg/dl
+Serum creatinine > 2.0 mg/dl
+Creatinine > 2.0 mg/dL
+Creatinine =< 2.5 mg/dL
+Creatine > 2.5 mg/dl
+Creatinine =< 2.0 mg/dl
+Serum creatinine > 2.0 mg/dl (unless using non iodinated contrast or on dialysis)
+Serum creatinine >= 2.0 mg/dl (unless using non iodinated contrast or on dialysis)
+Serum creatinine less than or equal to 2.0 mg/dL unless considered due to involvement by tumor when an upper limit of 2.5 mg/dL is acceptable
+Creatinine < 1.5 mg/dl or 125 u/L
+In adults: serum creatinine =< 1.5 mg/dl or creatinine clearance > 60 ml/min; and in children serum creatinine (Cr) =< age-adjusted normal\r\n* Age 12-15 years: 1.2 mg/dl\r\n* Age > 15 years: 1.5 mg/dl
+Creatinine: =< 2.0 mg/dL
+Creatinine<2mg/dl
+Adequate renal and hepatic function (creatinine ? 2.0 mg/dl, bilirubin ? 2.0 mg/dl, AST and ALT ? 4X upper limit of normal range).
+Serum creatinine =< 2.0 mg/dL
+Uncontrolled hypercalcemia (defined as serum calcium > 14 mg/dL)
+A serum creatinine ? 1.5 mg% obtained ? 2 weeks prior to entry
+Creatinine < 1.6 mg/dL
+Serum creatinine must be less than 2.0 mg/dl obtained within 2 weeks prior to study enrollment; if serum creatinine is greater than 1.5 mg/dl, the creatinine clearance calculated from a 24 hour urine collection must be greater than 40 ml/min
+Creatinine <1.5 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 OR a serum creatinine based on age/gender as follows:\r\n* 3 to < 6 years: 0.8 (male and female) maximum serum creatinine (mg/dL)\r\n* 6 to < 10 years: 1 (male and female) maximum serum creatinine (mg/dL)\r\n* 10 to < 13 years: 1.2 (male and female) maximum serum creatinine (mg/dL)\r\n* 13 to < 16 years: 1.5 (male), 1.4 (female) maximum serum creatinine (mg/dL)\r\n* >= 16 years: 1.7 (male), 1.4 (female) maximum serum creatinine (mg/dL)
+Serum creatinine ? 2.0 mg/dL (assessed within 14 days prior to study day 0)
+Creatinine =< 1.5 mg/dL or 133 umol/L
+Creatinine =< 1.5 mg/dL
+A serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years; 0.6 mg/dL (male) 0.6 mg/dL (female)\r\n* Age 2 to < 6 years; 0.8 mg/dL (male) 0.8 mg/dL (female)\r\n* Age 6 to < 10 years; 1.0 mg/dL (male) 1.0 mg/dL (female)\r\n* Age 10 to < 13 years; 1.2 mg/dL (male) 1.2 mg/dL (female)\r\n* Age 13 to < 16 years; 1.5 mg/dL (male) 1.4 mg/dL (female)\r\n* Age ? 16 years; 1.7 mg/dL (male) 1.4 mg/dL (female)\r\n** The threshold creatinine values in this table were derived from the Schwartz formula for estimating glomerular filtration rate (GFR) (Schwartz et al. J. Peds, 106:522, 1985) utilizing child length and stature data published by the Centers for Disease Control and Prevention (CDC)
+Serum creatinine =< 2.0 mg/dL within 21 days of RT fraction 1.
+Serum creatinine =< to 1.6 mg/dl
+Within 14 days of study registration: Serum creatinine =< 2 mg/dL
+Serum creatinine ? 2.0 mg/dL or 177 micromol/L ? 2 weeks
+DONORS: Serum creatinine < 1.8 mg/dl
+Creatinine =< 1.9 mg/dL
+Serum creatinine =< 2.0 mg/dl
+Serum creatinine < 1.8 mg/dl
+Serum creatinine =< 2.0 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years: male: 0.6 mg/dL; female: 0.6 mg/dL \r\n* Age 2 to < 6 years: male: 0.8 mg/dL; female: 0.8 mg/dL\r\n* Age 6 to < 10 years: male: 1 mg/dL; female: 1 mg/dL\r\n* Age 10 to < 13 years: male: 1.2 mg/dL; female: 1.2 mg/dL\r\n* Age 13 to < 16 years: male: 1.5 mg/dL; female: 1.4 mg/dL\r\n* Age >= 16 years: male: 1.7 mg/dL; female: 1.4 mg/dL
+Creatinine < 2 mg/dL
+Creatinine =< 2.0 mg/dL
+Creatinine < 2 mg/dl
+Serum creatinine <2 mg/dL, or creatinine clearance ?1.5 × ULN.
+Within 7 days prior to study registration: Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age 1 – 2 years - maximum serum creatinine (mg/dL) 0.6 (male and female)\r\n* Age 2 to < 6 years - maximum serum creatinine (mg/dL) 0.8 (male and female)\r\n* Age 6 to < 10 years - maximum serum creatinine (mg/dL) 1 (male and female)\r\n* Age 10 to < 13 years - maximum serum creatinine (mg/dL) 1.2 (male and female)\r\n* Age 13 to < 16 years - maximum serum creatinine (mg/dL) 1.5 male and 1.4 female\r\n* Age >=16 years - maximum serum creatinine (mg/dL) 1.7 male and 1.4 female
+Serum calcium or albumin-adjusted serum calcium >= 2.1 mmol/L (8.4 mg/dL) and =< 2.9 mmol/L (11.5 mg/dL) (reference range 8.5-10.8 mg/dL)
+Creatinine =< 2.0 mg/dL, obtained =< 7 days prior to registration
+Performed within 14 days prior to study: Creatinine =< 2.5 mg/dL
+A serum creatinine based on age/gender as follows:\r\n* 1 to < 2 years: maximum serum creatinine 0.6 mg/dL (both male and female)\r\n* 2 to < 6 years: maximum serum creatinine 0.8 mg/dL (both male and female)\r\n* 6 to < 10 years: maximum serum creatinine 1 mg/dL (both male and female)\r\n* 10 to < 13 years: maximum serum creatinine 1.2 mg/dL (both male and female)\r\n* 13 to < 16 years: maximum serum creatinine 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: maximum serum creatinine 1.7 mg/dL (male), 1.4 mg/dL (female)
+Creatinine =< 1.0 mg/dL
+Creatinine clearance or radioisotope glomular filtration rate (GFR) >= 70 mL/min/1.73 m^2 OR serum creatinine based on age/gender as follows:\r\n* 0.8 mg/dL (2 to < 6 years of age) \r\n* 1.0 mg/dL (6 to < 10 years of age)\r\n* 1.2 mg/dL (10 to < 13 years of age) \r\n* 1.5 mg/dL (male) and 1.4 mg/dL (female) (13 to < 16 years of age)\r\n* 1.7 mg/dL (male) and 1.4 mg/dL (female) (>= 16 years of age)
+Creatinine < 2.0 mg/dL
+Serum creatinine =< 2.0 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years: maximum serum creatinine 0.6 mg/dL (males and females)\r\n* Age 2 to < 6 years: maximum serum creatinine 0.8 mg/dL (males and females)\r\n* Age 6 to < 10 years: maximum serum creatinine 1.0 mg/dL (males and females)\r\n* Age 10 to < 13 years: maximum serum creatinine 1.2 mg/dL (males and females)\r\n* Age 13 to < 16 years: maximum serum creatinine 1.5 mg/dL (males) and 1.4 mg/dL (females)\r\n* Age >= 16 years: maximum serum creatinine 1.7 mg/dL (males) and 1.4 mg/dL (females)
+Creatinine =< 2.0 mg/dl
+Serum creatinine < 2.0 mg/dL
+Step 2: Serum creatinine < 2.0 mg/dL
+Serum creatinine ? 2.0 mg/dL.
+Serum creatinine > 3.0 mg/dl
+Creatinine =< 2.0 mg/dL
+Creatinine =< 2.0 mg/dl
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 OR a serum creatinine based on age/gender as follows:            \r\n* 0.8 mg/dL (2 to < 6 years of age)\r\n* 1.0 mg/dL (6 to < 10 years of age)\r\n* 1.2 mg/dL (10 to < 13 years of age)\r\n* 1.5 mg/dL (male) or 1.4 mg/dL (female) (13 to < 16 years of age)\r\n* 1.7 mg/dL (male) or 1.4 mg/dL (female) (>= 16 years of age)
+Age-adjusted serum creatinine =< 1.5 x normal for age or creatinine clearance or glomerular filtration rate (GFR) >= 60 cc/min/1.73 m^2\r\n* Age 1 month to < 6 months: 0.4 mg/dL for males and 0.4 mg/dL for females\r\n* Age 6 months to < 1 year: 0.5 mg/dL for males and 0.5 mg/dL for females\r\n* Age 1 to < 2 years: 0.6 mg/dL for males and 0.6 mg/dL for females\r\n* Age 2 to < 6 years: 0.8 mg/dL for males and 0.8 mg/dL for females\r\n* Age 6 to < 10 years: 1.0 mg/dL for males and 1.0 mg/dL for females\r\n* Age 10 to < 13 years: 1.2 mg/dL for males and 1.2 mg/dL for females\r\n* Age 13 to < 16 years: 1.5 mg/dL for males and 1.4 mg/dL for females\r\n* Age >= 16 years: 1.7 mg/dL for males and 1.4 mg/dL for females
+Within 14 days of registration: Serum creatinine =< 1.8 mg/dL; for patients with a creatinine > 1.5 mg/dL or a history of renal dysfunction, an estimated glomerular filtration rate >= 35 mL/min/1.73 m^2 is required
+Patient has symptomatic MM, as defined by any of the following:\r\n* Lytic lesions or pathologic fractures\r\n* Anemia (hemoglobin < 10 g/dL)\r\n* Hypercalcemia (corrected serum calcium > 11.5 mg/dL)\r\n* Renal insufficiency (creatinine > 1.5 mg/dL)\r\n* Other: symptomatic hyperviscosity, amyloidosis
+Creatinine =< 2.2 mg/dL.
+Serum creatinine =< 1.5 mg/dL
+Creatinine < 1.5 mg/dl
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70mL/min/1.73 m^2 or serum creatinine based on age/gender as follows:\r\n* 1 month to < 6 months: 0.4 mg/dL\r\n* 6 months to < 1 year: 0.5 mg/dL\r\n* 1 to < 2 years: 0.6 mg/dL\r\n* 2 to < 6 years: 0.8 mg/dL\r\n* 6 to < 10 years: 1 mg/dL\r\n* 10 to < 13 years: 1.2 mg/dL\r\n* 13 to < 16 years: 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: 1.7 mg/dL (male), 1.4 mg/dL (female)
+Serum creatinine > 1.5 mg/dl
+Creatinine =< 1.3 mg/dl
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years: maximum serum creatinine: 0.6 mg/dL in males and females\r\n* Age 2 to < 6 years: maximum serum creatinine: 0.8 mg/dL in males and females\r\n* Age 6 to < 10 years: maximum serum creatinine: 1 mg/dL in males and females\r\n* Age 10 to < 13 years: maximum serum creatinine: 1.2 mg/dL in males and females\r\n* Age 13 to < 16 years: maximum serum creatinine: 1.5 mg/dL in males and 1.4 mg/dL in females\r\n* Age >= 16 years: maximum serum creatinine: 1.7 mg/dL in males and 1.4 mg/dL in females
+Creatinine =< 2 mg/dL OR
+Creatinine =< 2.0 mg/dL
+DONOR: Serum creatinine < 1.8 mg/dl
+Serum creatinine =< 2mg/d
+Serum creatinine less than or equal to 1.3 mg/dL
+A serum creatinine based on age/gender as follows:\r\n* 6 months to < 1 year: 0.5 mg/dL\r\n* 1 to < 2 years: 0.6 mg/dL\r\n* 2 to < 6 years: 0.8 mg/dL\r\n* 6 to < 10 years: 1 mg/dL\r\n* 10 to < 13 years: 1.2 mg/dL\r\n* 13 to < 16 years: 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: 1.7 mg/dL (male), 1.4 mg/dL (female)
+Creatinine =< 1.6 mg/dL
+Age-adjusted normal serum creatinine according to the following table or a creatinine clearance >= 60 ml/min/1.73 m^2:\r\n* Age =< 5 years: maximum serum creatinine 0.8 mg/dL\r\n* Age > 5 =< 10 years: maximum serum creatinine 1.0 mg/dL\r\n* Age > 10 =< 15 years: maximum serum creatinine 1.2 mg/dL\r\n* Age > 15 years: maximum serum creatinine 1.5 mg/dL
+Creatinine: =< 2.0 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 1 month to < 6 months: 0.4 mg/dL\r\n* 6 months to < 1 year: 0.5 mg/dL\r\n* 1 to < 2 years: 0.6 mg/dL\r\n* 2 to < 6 years: 0.8 mg/dL
+Creatinine =< 2.0 mg/dL
+Serum creatinine =< to 1.6 mg/dl
+Creatinine =< 2.5 mg/dL
+Serum creatinine =< 1.5 mg/dL or 133 umol/L
+Serum creatinine\r\n* Male: =< 1.7 mg/dl\r\n* Female: =< 1.5 mg/dl\r\n* Or estimated creatinine clearance of >= 60 ml/min
+Serum creatinine =< 1.8 mg/dl
+Serum creatinine less than or equal to 1.7 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years: 0.6 mg/dL\r\n* Age 2 to < 6 years: 0.8 mg/dL\r\n* Age 6 to < 10 years: 1 mg/dL\r\n* Age 10 to < 13 years: 1.2 mg/dL\r\n* Age 13 to < 16 years: 1.5 mg/dL (males) and 1.4 mg/dL (females)\r\n* Age >= 16 years: 1.7 mg/dL (males) and 1.4 mg/dL (females)
+Creatinine =< 2.0 mg/dL
+Serum creatinine =< 1.7 mg/dL
+Serum creatinine > 2.0 mg/dL
+Serum creatinine < 1.5 mg/dL
+Age-adjusted normal serum creatinine according to the following or a creatinine clearance >= 60 ml/min/1.73 m^2\r\n* Age =< 5 years: maximum serum creatinine 0.8 mg/dl\r\n* Age > 5 and =< 10 years: maximum serum creatinine 1.0 mg/dl\r\n* Age > 10 and =< 15 years: maximum serum creatinine 1.2 mg/dl\r\n* Age > 15 years: maximum serum creatinine 1.5 mg/dl
+Creatinine =< 2.0 mg/dL
+Creatinine =< 2.0 mg/dl
+Serum creatinine less than or equal to 2.5 mg/dl
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min OR a serum creatinine based on age/gender as follows:            \r\n* =< 0.4 mg/dL (for patients aged 1 month to < 6 months)\r\n* =< 0.5 mg/dL (for patients aged 6 months to < 1 year)\r\n* =< 0.6 mg/dL (for patients aged 1 to < 2 years)\r\n* =< 0.8 mg/dL (for patients aged 2 to < 6 years)\r\n* =< 1 mg/dL (for patients aged 6 to < 10 years)\r\n* =< 1.2 mg/dL (for patients aged 10 to < 13 years)\r\n* =< 1.4 mg/dL (for female patients aged >= 13 years)\r\n* =< 1.5 mg/dL (for male patients aged 13 to < 16 years)\r\n* =< 1.7 mg/dL (for male patients aged >= 16 years)
+Serum creatinine =< 2 mg/dL
+Serum creatinine =< 2 mg/dL
+Creatinine =< 1.5 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 1 to < 2 years: 0.6 mg/dL\r\n* 2 to < 6 years: 0.8 mg/dL\r\n* 6 to < 10 years: 1 mg/dL\r\n* 10 to < 13 years: 1.2 mg/dL\r\n* 13 to < 16 years: 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: 1.7 mg/dL (male), 1.4 mg/dL (female)
+Creatinine < 2.0 mg/dL
+Creatinine =< 1.5 mg/dL is recommended; however, institutional norms are acceptable
+Creatinine =< 2.5 g/dl
+Creatinine less than or equal to 2.0 mg/dL
+Serum creatinine 6 months to 1 year: male 0.6 mg/dL (53 µmol/L) female 0.5 mg/dL (44 µmol/L)
+Serum creatinine 1 to < 2 years: male 0.6 mg/dL (53 µmol/L) female 0.6 mg/dL (53 µmol/L)
+Serum creatinine 2 to < 6 years: male 0.8 mg/dL (71 µmol/L) female 0.8 mg/dL (71 µmol/L)
+Serum creatinine 6 to <10 years: male 1 mg/dL (88 µmol/L) female 1 mg/dL (88 µmol/L)
+Serum creatinine 10 to <13 years: male 1.2 mg/dL (106 µmol/L) female 1.2 mg/dL (106 µmol/L)
+Serum creatinine 13 to <16 years: male 1.5 mg/dL (133 µmol/L) female 1.4 mg/dL (125 µmol/L)
+Serum creatinine ?16 years: male 1.7 mg/dL (150 µmol/L) female 1.4 mg/dL (125 µmol/L)
+Creatinine =< 1.5 mg/dL
+Subjects must have adequate renal function as evidenced by a serum creatinine of <2.0 mg/dl.
+Creatinine less than or equal to 1.5 mg/dL, or if > 1.5 mg/dL, creatinine clearance must be at least 50 ml/min
+Creatinine ?1.5mg/dL.
+Creatinine =< 1.5 mg/dL OR creatinine clearance >= 30 mL/min/1.73 m^2 for patients with creatinine levels above 1.5 mg/dL
+Serum creatinine ? 1.5 mg/dl
+Serum creatinine ? 1.5 mg/dl
+Serum creatinine ? 2.0 mg/dL
+Serum creatinine =< 1.3 mg/dL if male or =< 1.1 mg/dL if female or and calculated creatinine clearance >= 55 ml/min/1.73 m^2
+Creatinine less than 1.4 mg/dl
+Serum creatinine ? 2.0 mg/dL or 177 µmol/L
+Serum creatinine > 2.0 mg/dl
+Within 14 days prior to registration: Serum creatinine =< 2.0 mg/dL
+Subject has creatinine > 2 mg/dL (177 ?mol/L).
+Creatinine =< 1.5 mg/dL, obtained =< 21 days prior to registration
+Creatinine > 2 mg/dL (177 µmol/L) at screening;
+Serum creatinine < 2.0 mg/dl within 14 days prior to registration
+Serum creatinine < 2.0 mg/dl
+Serum/plasma creatinine ?1.5 mg/dL.
+Creatinine =< 1.5 mg/dl
+Serum creatinine ? 2.5 mg/dL x ULN.
+Serum creatinine ? 2.0 mg/dL.
+Serum creatinine level =< 1.5 mg/dL
+Creatinine =< 2.0 mg/dcL
+Creatinine up to and including 2 mg/dL
+Creatinine =< 1.6 mg/dl
+Serum creatinine =< 2 mg/dL
+Serum creatinine ? 1.5 g/dL
+Adequate renal function: serum creatinine <2.5mg/dL
+Creatinine =< 1.5 mg/dL
+Creatinine (Cr) =< 2 mg/dL
+Creatinine < 2.0 mg/dL
+Serum creatinine =< 1.7 mg/dl
+Serum creatinine =< 2.0 mg/dL
+Serum creatinine of =< 2 mg/dl
+Creatinine < 1.6 mg/dl
+Serum creatinine =< 1.5 mg/dL
+Serum creatinine =< 2.0 mg/dl
+Creatinine =< 2.0 mg/dL
+Magnesium 1.6 – 2.6 mg/dL
+Serum creatinine =< 2.0 mg/dL (assessed within 14 days prior to study day 0)
+Serum creatinine =< 2.0 mg/dL
+Creatinine =< 3.0 mg/dl, unless considered due to tumor
+If the patient is to be treated with cisplatin, the serum creatinine should be =< 1.5 mg%
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 OR serum creatinine based on age/gender as follows:\r\n* 1 month to < 6 months: 0.4 mg/dL\r\n* 6 months to < 1 year: 0.5 mg/dL\r\n* 1 to < 2 years: 0.6 mg/dL\r\n* 2 to < 6 years: 0.8 mg/dL\r\n* 6 to < 10 years: 1 mg/dL\r\n* 10 to < 13 years: 1.2 mg/dL\r\n* 13 to < 16 years: 1.5 mg/dL (male) or 1.4 mg/dL (female)\r\n* >= 16 years: 1.7 mg/dL (male) or 1.4 mg/dL (female)
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73m^2 OR a serum creatinine based on age and gender as follows:\r\n* =< 0.8 mg/dL (patients 2 to < 6 years)\r\n* =< 1 mg/dL (patients 6 to < 10 years)\r\n* =< 1.2 mg/dL (patients 10 to < 13 years)\r\n* =<1.4 mg/dL (female patients >= 13 years)\r\n* =< 1.5 mg/dL (male patients 13 to < 16 years)\r\n* =< 1.7 mg/dL (male patients >= 16 years)
+(140 - age) x (weight in kg) x (0.85 if female)/ 72 x (serum creatinine in mg/dL)
+Serum creatinine =< 2.0 mg/dL
+Creatinine > 2 mg/dL (177 µmol/L), dialysis or prior renal transplant;
+Serum creatinine =< 1.5 mg/dL
+Required Initial Laboratory Values: Leukocytes ?2000/ µl Hemoglobin >9.0 g/dL Platelets ?100,000/ µl ANC ?1,500/mcL Serum creatinine ? 1.5 x ULN or creatinine clearance (CrCl) ? 40 mL/min (if using the Cockcroft-Gault formula below): Female CrCl = (140 - age in years) x weight in kg x 0.85 72 x serum creatinine in mg/dL Male CrCl = (140 - age in years) x weight in kg x 1.00 Total Bilirubin <1.5 mg/dl (except for subjects with Gilbert Syndrome, who can have total bilirubin < 3.0 mg/dl) SGOT (AST) <2.5 x ULN ALP <2.5 x ULN in absence of liver metastases (<5 x ULN if liver metastases present PTT <1.5 x ULN
+Creatinine =< 3 mg/dL
+Creatinine less than or equal to 2.0 mg/dl
+Creatinine < 1.5 mg/dL
+Creatinine < 1.5 mg/dL is recommended; however, institutional norms are acceptable
+Creatinine =< 1.5mg/dl
+Serum calcium =< 12.0 mg/dL
+Serum creatinine =< 2 mg/dl
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: 11 to < 13 years old; 1.2 (male, female) maximum serum creatinine (mg/dL)\r\n* Age: 13 to < 16 years old; 1.5 (male), 1.4 (female) maximum serum creatinine (mg/dL)\r\n* Age: >= 16 years old; 1.7 (male), 1.4 (female) maximum serum creatinine (mg/dL)
+Creatinine =< 1.8 mg/dl
+Creatinine =< 2 mg/dL
+Serum creatinine < 2.0 mg/dl
+Serum creatinine based on age/gender as noted; patients that do not meet the criteria below but who have a 24-hour creatinine clearance or glomerular filtration rate (GFR) (radioisotope or iothalamate) >= 70 ml/min/1.73 m^2 are eligible\r\n* Serum creatinine for age/gender\r\n** 3 to < 6 years: 0.8 mg/dL\r\n** 6 to < 10 years: 1 mg/dL\r\n** 10 to < 13 years: 1.2 mg/dL\r\n** 13 to < 16 years: 1.5 mg/dL (male) and 1.4 mg/dL (female)\r\n** >= 16 years: 1.7 mg/dL (male) and 1.4 mg/dL (female)
+Creatinine =< 1.5 gm/dL
+Serum creatinine =< 1.5 mg/dl
+Creatinine =< 2.0 mg/dL
+serum creatinine ? 3 mg/dL
+Serum creatinine =< 1.3 mg/dL; patients with serum creatinine > 1.3 mg/dL may be eligible if creatinine clearance (CrCl) >= 55 mL/min based on the standard Cockcroft and Gault formula
+Serum creatinine < 1.4 mg/dl
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 OR a serum creatinine within normal limits based on age/gender as follows:\r\n* Maximum serum creatinine: 3 to < 6 years: 0.8 mg/dL for males and females\r\n* Maximum serum creatinine: 6 to < 10 years: 1 mg/dL for males and females\r\n* Maximum serum creatinine: 10 to < 13 years: 1.2 mg/dL for males and females\r\n* Maximum serum creatinine: 13 to < 16 years: 1.5 mg/dL for males and 1.4 mg/dL for females\r\n* Maximum serum creatinine: >= 16 years: 1.7 mg/dL for males and 1.4 mg/dL for females
+Creatinine =< 1.7 mg/dl within 21 days prior to study registration
+Creatinine =< 1.5 mg/dl
+Creatinine < 1.5 mg/dL
+Patients with proteinuria (3+ on dipstick or 300 mg/dL on urine analysis or > 500 mg/dL/24 hours)
+Serum creatinine =< 1.5 mg/dL
+Serum creatinine that is at or below 2.0 mg/dL
+Serum calcium =< 12.0 mg/dL
+Creatinine =< 1.5 mg/dl
+Adequate renal function defined as: creatinine clearance or radioisotope glomerular filtration rate (GFR) 70 mL/min/1.73 m^2 OR a serum creatinine based on age and gender as follows:\r\n* Maximum serum creatinine (mg/dL)\r\n** 1 month to < 6 months of age - 0.4 mg/dL (male), 0.4 mg/dL (female)\r\n** 6 months to < 1 year of age - 0.5 mg/dL (male), 0.5 mg/dL (female)\r\n** 1 to < 2 years of age - 0.6 mg/dL (male), 0.6 mg/dL (female)\r\n** 2 to < 6 years of age - 0.8 mg/dL (male), 0.8 mg/dL (female)\r\n** 6 to < 10 years of age - 1.0 mg/dL (male), 1.0 mg/dL (female)\r\n** 10 to < 13 years of age - 1.2 mg/dL (male), 1.2 mg/dL (female)\r\n** 13 to < 16 years of age - 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n** >= 16 years of age - 1.7 mg/dL (male), 1.4 mg/dL (female)\r\n*** The threshold creatinine values in this table were derived from the Schwartz formula for estimating GFR utilizing child length and stature data published by the Centers for Disease Control and Prevention (CDC)
+Creatinine =< 2.0 mg/dL
+Creatinine < 2.0 mg/dL
+Serum creatinine =< 1.5 mg/dL
+Serum calcium =< 12.0 mg/dL
+Serum creatinine =< 2.5 mg/dL
+Creatinine > 177 umol/L (2 mg/dL)
+Serum creatinine =< 2.0 mg/dL
+creatinine < 2 mg/dL
+Creatinine =< 2.0 mg/dL
+Serum creatinine < 2.0 mg/dL
+Serum creatinine >= 2.0 mg/dL
+Adequate renal function defined as creatinine within normal range for age or calculated glomerular filtration rate (GFR) > 100 ml/min/1.73 m^2\r\n* 1 to < 2 years; maximum serum creatinine (mg/dL) male 0.6, female 0.6\r\n* 2 to < 6 years; maximum serum creatinine (mg/dL) male 0.8, female 0.8\r\n* 6 to < 10 years; maximum serum creatinine (mg/dL) male 1, female 1\r\n* 10 to < 13 years; maximum serum creatinine (mg/dL) male 1.2, female 1.2\r\n* 13 to < 16 years; maximum serum creatinine (mg/dL) male 1.5, female 1.4\r\n* >= 16 years; maximum serum creatinine (mg/dL) male 1.7, female 1.4
+Participants must have an age-adjusted normal serum creatinine or a creatinine clearance of at least 50 ml/min/1.73 m^2\r\n* Age 3 to 5 years: .42 mg/dL\r\n* Age 5 to < 10 years: 1 mg/dL\r\n* Age 10 to < 13 years: 1.2 mg/dL\r\n* Age 13 to < 16 years: 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* Age 16 and older: 1.7 mg/dL (male), 1.4 md/dL (female)
+Creatinine ? 2.0 mg/dL
+Creatinine clearance >= 40 ml/min (estimated or measured creatinine clearance) or serum creatinine =< 1.6 mg/dl\r\n* Random urine protein < 20 mg/dL; if >= 20 mg/dL then a 24-hour urine protein collection will be performed to accurately demonstrate that the 24-hour total is < 1000 mg, the level acceptable for enrollment on study
+Serum creatinine less than or equal to 2.0 mg/dL
+Serum creatinine =< 1.5 mg/dL (133 umol/L) or, if > 1.5 mg/dL: calculated creatinine clearance (ClCR) >= 50 mL/min (tested within 14 days prior to registration)
+Creatinine =< 1.5 mg/dl
+Serum creatinine ?2.0 mg/dL
+Serum creatinine =< 2.5 mg/dL
+Creatinine =< 1.8 mg/dl
+Serum creatinine =< 1.5 mg/dL or 133 umol/L
+Creatinine =< 1.5 mg/dL (133 umol/L), or if > 1.5 mg/dL, calculated creatinine clearance >= 50 cc/min)
+Glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or serum creatinine adjusted for age and gender as follows: \r\n* Age 1 to < 2 years: maximum serum creatinine 0.6 mg/dL for males and 0.6 mg/dL for females\r\n* Age 2 to < 6 years: maximum serum creatinine 0.8 mg/dL for males and 0.8 mg/dL for females\r\n* Age 6 to < 10 years: maximum serum creatinine 1 mg/dL for males and 1 mg/dL for females\r\n* Age 10 to < 13 years: maximum serum creatinine 1.2 mg/dL for males and 1.2 mg/dL for females\r\n* Age 13 to < 16 years: maximum serum creatinine 1.5 mg/dL for males and 1.4 mg/dL for females\r\n* Age >= 16 years: maximum serum creatinine 1.7 mg/dL for males and 1.4 mg/dL for females
+Creatinine =< 2.0 mg/dL
+Creatinine > 1.5 mg/dl
+Creatinine =< 1.7 mg/dl
+Serum creatinine < 1.4 mg/dl in females and < 1.5 mg/dl in males, and creatinine clearance > 60 mL/min
+Serum creatinine =< 2 mg/dL
+Serum creatinine =< 2.0 mg/dL or 177 umol/L
+Creatinine >= 2.0 mg/dL
+Serum creatinine =< 2.0 mg/dL or 177 umol/L
+Serum creatinine less than 1.1 mg/dl for females and less than 1.4 mg/dl for males
+Serum creatinine < 2 mg/dL
+Creatinine =< 2.0 mg/dL
+Serum creatinine =< 1.5 mg/dl
+Serum creatinine =< 1.4 mg/dL
+Serum creatinine < 1.4 mg/dL (per manufacturer, metformin is contraindicated in the presence of renal dysfunction defined as a serum creatinine > 1.4 mg/dL in females and in patients with abnormal clearance)
+Serum creatinine =< 2.0 mg/dl
+Serum creatinine >= 2.0 mg/dL
+Patients must have a creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 60ml/min/1.73 m^2 or a normal serum creatinine based on age/gender:\r\nAge: 6 to < 10 years; maximum serum creatinine (mg/dL): 1\r\nAge: 10 to < 13 years; maximum serum creatinine (mg/dL): 1.2\r\nAge: 13 to < 16 years; maximum serum creatinine (mg/dL): 1.5 (male) 1.4 (female)\r\nAge: >= 16 years; maximum serum creatinine (mg/dL): 1.7 (male) 1.4 (female)
+Creatinine =< 2.0 mg
+Creatinine < 1.6 mg/dl
+Serum creatinine =< 2.0 mg/dL
+Creatinine =< 3.0 mg/dL
+Serum creatinine =< 1.8 mg/dL
+Serum creatinine =< 2.5 mg/dL
+Creatinine < 2.5 mg/dL
+Creatinine =< 1.5 mg/dL OR creatinine clearance >= 50 mL/min/1.73 m^2 for patients with creatinine levels > 1.5 mg/dL
+Creatinine =< 2.0 mg/dL
+Creatinine =< 1.5 mg/dL
+Serum creatinine < 2.0 mg/dL
+Creatinine > 177 umol/L (2 mg/dL)
+Serum creatinine level > 1.5 X institution’s ULN (University of California San Diego [UCSD] lab ULN = males 1.7 mg/dl; females 0.95 mg/dl)
+Serum calcium =< 12.0 mg/dL
+Normal serum creatinine based on age as shown below or glomerular filtration (GFR) > 70 ml/min/1.73m^2:\r\n* Age =< 5 years, maximum serum concentration 0.8 mg/dL\r\n* 5 < age < 10, maximum serum concentration 1.0 mg/dL\r\n* 10 < age < 15, maximum serum concentration 1.2 mg/dL\r\n* Age > 15, maximum serum concentration 1.5 mg/dL
+DONOR: Serum creatinine < 1.8 mg/dl
+Serum calcium =< 12.0 mg/dL
+Creatinine =< 1.8 mg/dL
+Serum creatinine =< 1.5 mg/dL (133 umol/L); or, if serum creatinine > 1.5 mg/dL: calculated creatinine clearance (ClCR) >= 50 mL/min
+Within one week of study entry: Serum creatinine =< 1.5 mg/dl
+Serum creatinine =< 1.5 mg/dl
+Creatinine =< 1.5 mg/dL
+creatinine ? 2.0 mg/dL OR
+Serum creatinine =< 2.0 mg/dL
+Serum creatinine < 2.0 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/m^2 OR a serum creatinine based on age/gender as follows:\r\n* 0.4 mg/dL (1 month to < 6 months of age)\r\n* 0.5 mg/dL (6 months to < 1 year of age)\r\n* 0.6 mg/dL (1 to < 2 years of age)\r\n* 0.8 mg/dL (2 to < 6 years of age)\r\n* 1.0 mg/dL (6 to 10 years of age)\r\n* 1.2 mg/dL (10 to < 13 years of age)\r\n* 1.5 mg/dL (male) or 1.4 mg/dL (female) (13 to < 16 years of age)\r\n* 1.7 mg/dL (male) or 1.4 mg/dL (female) (>= 16 years of age)
+Creatinine =< 2.0 mg/dL
+Creatinine =< 2.0 mg/dL
+Creatinine (Cr) =< 2.0 mg/dl
+Serum Creatinine < 1.5 mg/dL
+Serum creatinine =< 1.6 mg/dL
+Creatinine < 2.5 mg/dl
+Serum creatinine =< 2.0 mg/dl
+Serum creatinine =< to 1.6 mg/dl
+Serum creatinine =< 1.5 mg/dL (133 umol/L), OR if > 1.5 mg/dL: calculated creatinine clearance >= 30 mL/min
+Serum creatinine > 1.5 mg/dL
+Renal insufficiency creatinine > 2.5 mg/dl
+Serum creatinine =< 2.0 mg/dL (133 umol/L) OR, if > 2.0 mg/dL: calculated creatinine clearance (ClCR) >= 50 mL/min
+Creatinine < 1.5 mg/dL
+Serum creatinine < 2.0 mg/dl
+Serum creatinine > 1.4 mg/dl =< 28 days prior to study entry
+Serum creatinine =< 2.0 mg/dl or
+Normal serum creatinine for age (below) or creatinine clearance > 60 ml/min/1.73 m^2\r\n* 18 months (mon) < 2 years 0.6 mg/dL\r\n* 2 to < 6 years: maximum serum creatinine 0.8 mg/dL\r\n* 6 to < 10 years: maximum serum creatinine 1.0 mg/dL\r\n* 10 to < 13 years: maximum serum creatinine 1.2 mg/dL\r\n* 13 to < 16 years: maximum serum creatinine 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: maximum serum creatinine 1.7 mg/dL (male), 1.4 mg/dL (female)
+Serum calcium =< 12.0 mg/dL
+Creatinine =< 2 mg/dL
+Creatinine =< 2.0 mg/dL
+Creatinine less than or equal to 3.0 mg/dL (unless considered tumor related)
+Serum creatinine > 1.6 mg/dl
+Serum creatinine less than or equal to 2.0 mg/dL
+Creatinine < 3 mg/dl
+Serum creatinine =< 2 mg/dL
+Creatinine < 2 mg/dL
+Subject has renal insufficiency as defined by a serum creatinine > 2.2 mg/dl or blood urea nitrogen (BUN) > 40 mg/dl (Note: If creatinine is greater than 1.5 x upper limit of normal (ULN), creatinine clearance must be greater than 60ml/min)
+Serum creatinine =< 2 mg/dL
+Serum creatinine =< 1.5 mg/dL
+(continued from no. 17) The lab will measure protein concentration (mg/dL) and creatinine concentration (mg/dL). The UPCR is derived as follows: protein concentration (mg/dL)/creatinine (mg/dL).
+Creatinine =< 2.0 mg/dl
+Creatinine =< 2.0 mg/dL
+Creatinine =< 2.0 mg/dL
+Creatinine =< 2 mg/dL
+Creatinine =< 2.0 mg/dL
+PRIOR TO POST-TRANSPLANT IMMUNOTHERAPY: Creatinine =< 2.0 mg/dL
+Corrected calcium =< 10 mg/dL
+Creatinine within normal limits based on age as follows:\r\n* Age (years): maximum serum creatinine (mg/dL)\r\n** =< 5: 0.8 mg/dL\r\n** 5 < age =< 10: 1.0 mg/dL\r\n** 10 < age =< 15: 1.2 mg/dL\r\n** > 15: 1.5 mg/dL\r\nOR creatinine clearance >= 60 mL/min for adults or >= 60 mL/min/1.73m^2 for children with creatinine levels above institutional upper limit of normal
+Serum creatinine less than or equal to 1.6 mg/dl
+Serum Creatinine ? 2.0 mg/dL
+Creatinine =< 2.0 mg/dL
+Serum creatinine > 2.0 mg/dL
+Serum creatinine =< 1.5 mg/dl; if serum creatinine is 1.2-1.5 mg/dl, the creatinine clearance (either measured or calculated) must be 50 ml/min or greater
+Creatinine < 1.6 mg/dL (myeloablative regimen 4, reduced intensity regimen 3) or < 3.0 mg/dL (nonmyeloablative regimen 2)
+Creatinine =< 2.0 mg/dL
+An age-adjusted normal serum creatinine (see below) OR a creatinine clearance >= 70 mL/min/1.73 m^2 \r\n* Serum creatinine =< 0.8 mg/dl (age =< 5 years)\r\n* Serum creatinine =< 1.0 mg/dl (age > 5 and =< 10 years)\r\n* Serum creatinine =< 1.2 mg/dl (age > 10 and =< 15 years)\r\n* Serum creatinine =< 1.5 mg/dl (age > 15 years)
+Patients must have a calculated creatinine clearance or radioisotope glomerular filtration rate (GFR) 70ml/min/1.73 m^2 OR a normal serum creatinine based on age/gender in the chart below: \r\n* Age: 1 month to < 6 months; maximum serum creatinine: male 0.4 mg/dL; female 0.4 mg/dL\r\n* Age: 6 months to < 1 year; maximum serum creatinine: male 0.5 mg/dL; female 0.5 mg/dL\r\n* Age: 1 to < 2 years; maximum serum creatinine: male 0.6 mg/dL; female 0.6 mg/dL\r\n* Age: 2 to < 6 years; maximum serum creatinine: male 0.8 mg/dL; female 0.8 mg/dL\r\n* Age: 6 to < 10 years; maximum serum creatinine: male 1 mg/dL; female 1 mg/dL\r\n* Age: 10 to < 13 years; maximum serum creatinine: male 1.2 mg/dL; female 1.2 mg/dL\r\n* Age: 13 to < 16 years; maximum serum creatinine: male 1.5 mg/dL; female 1.4 mg/dL\r\n* Age: >= 16 years; maximum serum creatinine: male 1.7 mg/dL; female 1.4 mg/dL
+Renal dysfunction defined as creatinine ? 2.0 mg/dL.
+Serum creatinine < 2.0 mg/dL or 177 ?mol/L
+Serum creatinine =< 2.0 mg/dL
+Serum creatinine < 2 mg/dl
+Renal insufficiency (serum creatinine > 2 mg/dL).
+Serum creatinine =< 2.0 mg/dl
+Creatinine =< 1.5 mg/dL
+Patients must have a serum creatinine =< 2.0 mg/dL within 72 hours of initiating the induction cycle
+Creatinine =< 1.5 mg/dL
+Serum creatinine =< 1.8 mg/dl
+Creatinine > 177 ?mol/L (> 2 mg/dL) at screening.
+Serum creatinine > 1.7 mg/dL
+Creatinine should be < 3 mg/dL due to disease
+Creatinine > 2.0 mg/dl
+Serum creatinine levels =< 1.5 mg/dL
+Serum creatinine =< 1.5 mg/dL or 133 umol/L
+Creatinine =< 2.0 mg/dL
+Serum creatinine =< to 1.6 mg/dl
+Creatinine =< 2.0 X mg/dL
+Serum creatinine =< 1.5 mg/dl
+Serum creatinine < 2.0 mg/dl
+Creatinine =< 2.0 mg/dL; patients on renal replacement therapy are not eligible
+Serum creatinine > 2 mg/dl
+Serum creatinine =< to 1.6 mg/dl
+Serum creatinine=< 2.0 mg/dL
+Serum creatinine =< 1.5 mg/dL; if serum creatinine > 1.5 mg/dL, then the estimated glomerular filtrate rate (GFR) must be > 60 ml/min/1.73 m^2 as calculated by the Modification of Diet in Renal Disease equation
+Creatinine =< 1.5 mg/dL
+Creatinine ? 2.0 mg/dL
+Age-adjusted normal serum creatinine according to the following table or a creatinine clearance >= 60 ml/min/1.73 m^2:\r\n* =< 5 years: 0.8 mg/dl\r\n* > 5 years =< 10 years: 1.0 mg/dl\r\n* > 10 years =< 15 years: 1.2 mg/dl\r\n* > 15 years: 1.5 mg/dl
+Serum creatinine =< 1.5 mg/dl or calculated clearance >= 50 mL/min/1.73 m^2 for patients with serum creatinine levels > 1.5 mg/dl
+Serum creatinine =< 3 mg/dL
+Serum creatinine =< 1.5 mg/dl or calculated clearance >= 50 mL/min/1.73 m^2 for patients with serum creatinine levels > 1.5 mg/dl
+Serum creatinine less than or equal to 3 mg/dL within 24 hours of enrollment
+Corrected calcium ? 11.5 mg/dL
+No impairment of renal function (serum creatinine less than 1.1 mg/dl for females and less than 1.4 mg/dl for males)
+Serum creatinine =< 2.0 mg/dL
+Serum creatinine less than or equal to 1.6 mg/dl
+DONOR: Serum creatinine < 1.8 mg/dL
+Renal insufficiency (creatinine >= 2.0 mg/dl)
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Serum creatinine based on age/gender as noted below; patients that do not meet the criteria below but have a 24-hour creatinine clearance or glomerular filtration rate (GFR) (radioisotope or iothalamate) >= 70 ml/min/1.73 m^2 are eligible\r\n* 2 to < 6 years: 0.8 mg/dL\r\n* 6 to < 10 years: 1 mg/dL\r\n* 10 to < 13 years: 1.2 mg/dL\r\n* 13 to < 16 years: 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: 1.7 mg/dL (male), 1.4 mg/dL (female)
+NON-PROGRESSED DIPG (STRATUM 2): Serum creatinine based on age/gender as noted below; patients that do not meet the criteria below but have a 24-hour creatinine clearance or glomerular filtration rate (GFR) (radioisotope or iothalamate) >= 70 ml/min/1.73 m^2 are eligible\r\n* 2 to < 6 years: 0.8 mg/dL\r\n* 6 to < 10 years: 1 mg/dL\r\n* 10 to < 13 years: 1.2 mg/dL\r\n* 13 to < 16 years: 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: 1.7 mg/dL (male), 1.4 mg/dL (female)
+Creatine: =< 2 mg/dL
+Patients must have an adequate renal function as documented by serum creatinine less than or equal to 2.0 mg/dL.
+Serum creatinine greater than 2.0 mg/dl
+Renal dysfunction defined as serum creatinine ? 2.0 mg/dl.
+Patients with plasma creatinine level greater than 1.3 mg/dL
+Renal dysfunction: Creatinine levels >2 mg/dL or chronic dialysis.
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70mL/min/1.73 m^2or a serum creatinine based on age/gender as follows:\r\n* 1 to < 2 years: 0.6 mg/dL\r\n* 2 to < 6 years: 0.8 mg/dL\r\n* 6 to < 10 years: 1 mg/dL\r\n* 10 to < 13 years: 1.2 mg/dL\r\n* 13 to <16 years: 1.5 mg/dL (males), 1.4 mg/dL (females)\r\n* >= 16 years: 1.7 mg/dL (males), 1.4 mg/dL (females)
+Creatinine =< 2.0 mg/dL
+Creatinine < 1.6 mg/dL
+Serum creatinine =< 3 mg/dL
+Serum calcium =< 12.0 mg/dL
+Serum creatinine =< 2.9 mg/dL
+Serum creatinine =< 2 mg/dL (or, if creatinine > 2 mg/dL, then a creatinine clearance of at least 35 ml/min (measured or estimated by the Cockcroft formula
+Serum creatinine ? 1.5 g/dL
+Serum creatinine =< to 1.6 mg/dL
+Serum creatinine =< 2.0 mg/dL or creatinine clearance > 60 mL/min/1.73 m^2 for patients with creatinine levels above 2.0 mg/dL
+Serum creatinine equal to or less than 2.0 mg/dL
+Serum Creatinine ? 2.0mg/dL
+Adequate renal function as evidenced by serum creatinine ? 2.0 mg/dL (177 µmol/L)
+A serum creatinine based on age/gender as follows: (threshold creatinine values were derived from the Schwartz formula for estimating GFR)\r\n* Age (12 to < 13 years) - serum creatinine of 1.2 mg/dL\r\n* Age (13 to < 16 years) - serum creatinine of 1.5 mg/dL (male) and 1.4 mg/dL (female)\r\n* Age (>= 16 years) - serum creatinine of 1.7 mg/dL (male) and 1.4 mg/dL (female)
+Patients must have adequate renal function, defined as:\r\n* Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or\r\n* A serum creatinine based on age/gender as follows:\r\n** 1 month to < 6 months: 0.4 mg/dL\r\n** 6 months to < 1 year: 0.5 mg/dL\r\n** 1 to < 2 years: 0.6 mg/dL\r\n** 2 to < 6 years: 0.8 mg/dL\r\n** 6 to < 10 years: 1 mg/dL\r\n** 10 to < 13 years: 1.2 mg/dL\r\n** 13 to < 16 years: 1.5 mg/dL (male); 1.4 mg/dL (female) \r\n** >= 16 years: 1.7 mg/dL (male); 1.4 mg/dL (female)
+Creatinine =< 1.5 mg/dL
+Serum creatinine ? 1.5 g/dL
+Serum creatinine =< 1.5 mg/dl
+Serum creatinine =< 2.0 mg/dL
+Serum creatinine ? 1.5 mg/dl
+Creatinine < 2.5 mg/dl
+Serum creatinine =< 2.0 mg/dL
+Patients with a serum creatinine > 2 mg/dL (177 µmol/L) [Exception: Patients with a serum creatinine > 2 mg/dL (177 µmol/L) and being treated with continuous renal replacement therapy (Continuous Veno-Venous Hemodialysis and CVVHemoDiafiltration) or daily hemodialysis will receive the aerosol study drug treatment]
+Serum creatinine =< 3 mg/dL
+Creatinine < 1.5 gm/dL
+Serum creatinine =< 2.5 mg/dL
+Creatinine (Cr) > 2 mg/dL
+Creatinine =< 3 mg/dL
+Serum creatinine ?1.5 mg/dL
+Serum creatinine =< 2 mg/dL
+Creatinine =< 1.8 mg/dl
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 60 ml/min/1.73 m^2 or a normal serum creatinine based on age described in the table below:\r\n* Age: =< 5 years; maximum serum creatinine: 0.8 mg/dL\r\n* Age: 5 < age =< 10 years; maximum serum creatinine: 1.0 mg/dL\r\n* Age: 10 < age =< 15 years; maximum serum creatinine: 1.2 mg/dL\r\n* Age: > 15 years; maximum serum creatinine: 1.5 mg/dL
+Creatinine < 1.5 mg/dL
+Creatinine < 1.7 mg/dL
+Serum creatinine =< to 1.6 mg/dl
+Serum creatinine < 1.4 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 0.6 mg/dL (1 to < 2 years of age)\r\n* 0.8 mg/dL (2 to < 6 years of age)\r\n* 1.0 mg/dL (6 to < 10 years of age)\r\n* 1.2 mg/dL (10 to < 13 years of age)\r\n* 1.5 mg/dL (male) or 1.4 mg/dL (female) (13 to < 16 years of age)\r\n* 1.7 mg/dL (male) or 1.4 mg/dL (female) (>= 16 years of age)
+Creatinine =< 2.0 mg/dL
+Serum creatinine < 1.5 mg/dl
+Serum creatinine =/< 2.0mg/dL
+Creatinine =< ULN for institution mg/dL
+Corrected serum calcium > 14 mg/dL
+Creatinine =< 2.0 mg/dl
+Serum M ?500 mg/dL
+Serum M ?500 mg/dL
+Serum M ?500 mg/dL
+A history of renal dysfunction (serum creatinine > 1.8 mg/dL)
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 OR serum creatinine based on age and/or gender as follows:\r\n* =< 0.6 mg/dL (1 to < 2 years of age)\r\n* =< 0.8 mg/dL (2 to < 6 years of age)\r\n* =< 1.0 mg/dL (6 to < 10 years of age)\r\n* =< 1.2 mg/dL (10 to < 13 years of age)\r\n* =< 1.5 mg/dL (male) or 1.4 mg/dL (female) (13 to < 16 years of age)\r\n* =< 1.7 mg/dL (male) or 1.4 mg/dL (female) ( >= 16 years of age)
+Serum creatinine > 1.5 mg/dl
+Serum creatinine levels =< 1.5 mg/dL
+Adequate renal sufficiency (serum creatinine <1.5 mg/dL).
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73m^2 or serum creatinine based on age as follows:\r\n*Age (Years) - Maximum Serum Creatinine (mg/dL)\r\n** =< 5 years old - 0.8 mg/dL\r\n** =< 5 age < 10 years old - 1.0 mg/dL\r\n** 10 = < age < 15 years old - 1.2 mg/dL\r\n** >= 15 years old - 1.5 mg/dL
+Serum creatinine < 1.5 mg/dL
+Serum creatinine levels =< 1.5 mg/dL
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73m^2 OR serum creatinine based on age as follows:\r\n*Age (years) =< 5 - maximum serum creatinine 0.8 mg/dL\r\n* 5 < age =< 10 - maximum serum creatinine 1.0 mg/dL\r\n* 10 < age =< 15 - maximum serum creatinine 1.2 mg/dL\r\n* Age > 15 - maximum serum creatinine 1.5 mg/dL
+Myeloma-related organ dysfunction (at least one of the following) [C] Calcium elevation in the blood (serum calcium >10.5 mg/dl or upper limit of normal) [R] Renal insufficiency (serum creatinine >2 mg/dl) [A] Anemia (hemoglobin <10 g/dl or 2 g < laboratory normal) [B] Lytic bone lesions or osteoporosis AND have measurable disease by protein electrophoresis analyses as defined by the following:
+Serum creatinine < 2.0 mg/dL
+Creatinine > 1.5mg%
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:                        \r\n* No greater than 0.4 mg/dL (1 month to < 6 months)\r\n* No greater than 0.5 mg/dL (6 months to < 1 year)\r\n* No greater than 0.6 mg/dL (1 to < 2 years)\r\n* No greater than 0.8 mg/dL (2 to < 6 years)\r\n* No greater than 1.0 mg/dL (6 to < 10 years)\r\n* No greater than 1.2 mg/dL (10 to < 13 years)\r\n* No greater than 1.4 mg/dL (>= 13 years [female])\r\n* No greater than 1.5 mg/dL (13 to < 16 years [male])\r\n* No greater than 1.7 mg/dL (>= 16 years [male])
+Serum creatinine > 1.5 mg/dL
+Serum creatinine ? 2.0mg/dL.
+Serum creatinine =< 2.0 mg/dl
+Creatinine < 1.5 mg/dL
+Total creatinine =< 2.5 mg/dL
+Serum Creatinine =< to 1.6 mg/dl
+Serum creatinine =< to 1.6 mg/dl
+Serum creatinine < 2.5 mg/dL
+Magnesium >= 1.6 mg/dL
+Potassium >= 3.5 mg/dL
+Serum creatinine > 2 mg/dL
+Serum creatinine =< 1.5 mg/dL OR 1.5 x institutional normal
+Creatinine < 1.7 mg/dL
+Serum creatinine < 1.5 mg/dl
+Have serum creatinine < 2.0 mg/dl =< 120 days prior to registration
+Corrected serum calcium less than or equal to 10.5 mg/dL
+Serum creatinine > 2.5 mg/dL
+Serum creatinine >= 2.0 mg/dL
+Creatinine =< 3mg/dL
+Corrected calcium > 10.6 mg/dL
+Creatinine > 2 mg/dL
+A serum creatinine based on age/gender as follows:\r\n* 1 to < 2 years: maximum serum creatinine 0.6 mg/dL (both male and female)\r\n* 2 to < 6 years: maximum serum creatinine 0.8 mg/dL (both male and female)\r\n* 6 to < 10 years: maximum serum creatinine 1 mg/dL (both male and female)\r\n* 10 to < 13 years: maximum serum creatinine 1.2 mg/dL (both male and female)\r\n* 13 to < 16 years: maximum serum creatinine 1.5 mg/dL (male), 1.4 mg/dL (female)\r\n* >= 16 years: maximum serum creatinine 1.7 mg/dL (male), 1.4 mg/dL (female)\r\nOR
+Creatinine ? 1.5 mg/dl
+Patients with plasma creatinine level greater than 1.3 mg/dL
+Preoperative serum calcium levels >= 10.9 mg/dL
+Serum creatinine < 1.5 mg/dL
+Serum creatinine < 1.5 mg/dL
+Serum creatinine =< 2.0 mg/dl
+Serum creatinine =< 1.5 mg/dL
+Creatinine: =< 2.0 mg/dL
+Subjects with hypercalcemia (> 10.5 mg/dL)
+Serum creatinine < 1.5 mg/dl
+Serum creatinine =< 1.5 mg/dl
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 OR a serum creatinine based on age/gender as follows:\r\n* 0.4 mg/dL (1 month to < 6 months of age)\r\n* 0.5 mg/dL (6 months to < 1 year of age)\r\n* 0.6 mg/dL (1 to < 2 years of age)\r\n* 0.8 mg/dL (2 to < 6 years of age)\r\n* 1.0 mg/dL (6 to < 10 years of age)\r\n* 1.2 mg/dL (10 to < 13 years of age)\r\n* 1.5 mg/dL (male) or 1.4 mg/dL (female) (13 to < 16 years of age)\r\n* 1.7 mg/dL (male) or 1.4 mg/dL (female) (>= 16 years of age)
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) > 70 mL/min/1.73 m^2 OR serum creatinine based on age/gender as follows:            \r\n* 0.5 mg/dL (6 months to < 1 year of age)\r\n* 0.6 mg/dL (1 to < 2 years of age)\r\n* 0.8 mg/dL (2 to < 6 years of age)\r\n* 1.0 mg/dL (6 to < 10 years of age)\r\n* 1.2 mg/dL (10 to < 13 years of age)\r\n* 1.5 mg/dL (male)/1.4 mg/dL (female) (13 to < 16 years of age)\r\n* 1.7 mg/dL (male)/1.4 mg/dL (female) (>= 16 years of age)
+Serum creatinine =< 2 mg/dL
+Patients with plasma creatinine level greater than 1.3 mg/dL
+Serum calcium <9.8 mg/dL
+Severe renal failure (serum creatinine > 3.0 mg/dL) within 6 months of study registration
+Serum creatinine >1.2 mg/dL
+Creatinine < 2.0 mg/dl
+Creatinine =< 1.6 mg/dl (for patients with > 1.6 mg/dl, calculated or measured creatinine clearance must be >= 60 mL/minute [Cockcroft-Gault])
+Serum creatinine < 2.0 mg/dl
+Serum creatinine < 1.5 mg/dl
+Serum creatinine > 2 mg/dL
+Serum creatinine =< 2.0 mg/dL
+Creatinine ? 1.2 mg/dL
+Serum magnesium >= 1.8 mg/dL
+Serum creatinine =< 2.0 mg/dl
+Serum creatinine equal to or less than 2 mg/dl
+Serum creatinine =< 2 mg/dL
+Serum creatinine (Cr) =< 2 gm/dL
+Creatinine =< 1.5 mg/dl
+Serum creatinine > 1.6 mg/dL (141 umol/L) in females and > 1.9 mg/dL (168 umol/L) in males; patients with serum creatinine values exceeding these limits are eligible for the study if their estimated glomerular filtration rates (GFR) are > 30 ml/min/1.73 m^2
+GENERAL INCLUSION CRITERIA FOR SUBPROTOCOLS: Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: 1 to < 2 years; maximum serum creatinine (mg/dL): male 0.6; female 0.6\r\n* Age: 2 to < 6 years; maximum serum creatinine (mg/dL): male 0.8; female 0.8\r\n* Age: 6 to < 10 years; maximum serum creatinine (mg/dL): male 1; female 1\r\n* Age: 10 to < 13 years; maximum serum creatinine (mg/dL): male 1.2; female 1.2\r\n* Age: 13 to < 16 years; maximum serum creatinine (mg/dL): male 1.5; female 1.4\r\n* Age: >= 16 years; maximum serum creatinine (mg/dL): male 1.7; female 1.4
+Creatinine =< 1.4 mg/dL
+Creatinine < 2.0 mg/dl
+Creatinine < 1.5 mg/dL
+Serum creatinine =< 1.4 mg/dl
+Serum creatinine: =< 2.0 mg/dL
+Within 28 days prior to signing consent: Serum creatinine > 2.0 mg/dL or 177 umol/L
+Creatinine =< 2.0 mg/dl
+Serum creatinine < 1.5 mg/dl
+Creatinine < 2.0 mg/ld
+Creatinine >= 1.4 mg/dL
+Serum creatinine =< 115 umol/L (1.3mg/dL)
+Serum creatinine >= 1.4 mg/dl
+Serum creatinine =< 1.5 mg/dl
+Creatinine =< 3.0 mg/dL
+Creatinine < 2 mg/dL
+Patients with a blood creatinine level > 2.0 mg/dl within a month of this procedure
+Serum creatinine =< 1.5 mg/dL (133 umol/L), or, if greater than 1.5 mg/dL: calculated creatinine clearance >= 50 mL/min (evaluated within 28 days of randomization)
+Recent lab tests showing elevated serum creatinine (>= 1.5 mg/dL)
+Patients with impaired kidney function (creatinine >= 1.3 mg/dL or < 0.6 mg/dL)
+Creatinine > 1.3 mg/dl
+Serum creatinine > 2.5 mg/dL
+Serum calcium > 11 mg/dL
+Creatinine > 2.5 mg/dL
+Calcium > 11 mg/dL
+Serum creatinine > 3.0 mg/dL (270 uM/L)
+Creatinine =< 2.0 mg/dl
+Creatinine < 2.0 mg/dL
+Creatinine < 2.0 mg/ dL
+Serum creatinine based on age/gender as follows: (threshold creatinine values were derived from the Schwartz formula for estimating GFR)\r\n* 12 to < 13 years; 1.2 mg/DL (male and female)\r\n* 13 to < 16 years; 1.5 mg/DL (male) and 1.4 mg/DL (female)\r\n* >= 16 years; 1.7 mg/DL (male) and 1.4 mg/DL (female)
+Serum creatinine =< 2.0 mg/dL, within 2 weeks prior to study start
+Serum creatinine > 2.5 mg/dL
+Serum creatinine > 2.5 mg/dL
+Serum creatinine =< 2.0 mg/dL, obtained within 2 weeks prior to registration
+Serum creatinine < 1.6 mg/dL
+Creatinine <3.0 mg/dl
+Have a serum creatinine =< 1.0 mg/dL
+Creatinine =< 1.5 mg/dL
+Serum creatinine =< 1.5 mg/dL
+Creatinine < 1.4 mg/dl for females or < 1.5 mg/dl for males
+Creatinine < (1.5 mg/dL) at the screening visit
+Patients with plasma creatinine level greater than 1.3 mg/dL
+Serum/plasma creatinine ?1.5mg/dL.

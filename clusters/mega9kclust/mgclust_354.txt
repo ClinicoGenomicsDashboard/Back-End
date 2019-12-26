@@ -1,0 +1,3 @@
+Cluster 15: sites disease metastatic patients measurable radiation primary treatment prior site 
+Cluster 474: malignancy history prior kind primary metastatic patients hematopoietic exception underlying 
+Cluster 542: site primary disease tumor patients radiation biopsy prior measurable unknown 

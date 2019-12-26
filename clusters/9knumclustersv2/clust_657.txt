@@ -1,0 +1,101 @@
+the analysis of results
+Patients with inadequate tissue for analysis
+Patients must agree, as part of the informed consent, to provide blood for pharmacokinetics analysis
+Available tumor tissue for biomarker analysis
+Has an evaluable baseline tumor sample to submit for analysis.
+HLA A+ by deoxyribonucleic acid (DNA) sequence analysis (by history with documentation or as part of this study)
+Patients must consent to analysis on archival tissue
+Patient must consent to the access, review and analysis of previous medical and cancer history, including tumor archival tissue (if available) and imaging data by the sponsor or a third party nominated by the sponsor.
+Patients enrolled in the escalation and expansion phases will be required to have archival tissue available for analysis.
+Tumor tissue from the resected site of disease must be provided for biomarker analyses; in order to be treated, a patient must have tissue available for PD-L expression analysis by immunohistochemistry (ICH) as determined by the New York University Langone Medical Center (NYULMC) Pathology lab; if insufficient tumor tissue content is provided for analysis, acquisition of additional archived tumor tissue (block and/or slides) for the biomarker analysis is required
+Insufficient tissue on diagnostic core breast biopsy for analysis
+Histologically confirmed adenocarcinoma of the prostate (with previous diagnostic tissue available for tumor marker analysis)
+Patients must have analysis of PD-L expression in cancer cells quantitated by immunohistochemistry analysis
+Evaluable tumor tissue (archived or new biopsy) must be available for pre-treatment biomarker analysis and baseline immune monitoring studies
+At the time of biopsy, prior to administration of virus, the presence of recurrent tumor must be confirmed by histopathological analysis
+Availability of archival tissue for correlative analysis
+At the time of biopsy, prior to administration of virus, the presence of recurrent tumor must be confirmed by histopathological analysis
+Available tissue to perform protein and genomic analysis
+Has sufficient tumor tissue (slides or blocks) available for central confirmatory testing of IHC and/or cytogenetics/FISH and/or DNA mutation analysis (required for study entry but enrollment based on local results)
+No archival or newly biopsied tissue available for analysis
+If the patient consents to enroll, then blood will be drawn and stored for biomarker analysis
+Following biopsy, prior to administration of DC-IT, the presence of recurrent tumor must be confirmed by histopathological analysis
+Submit an evaluable tumor sample for analysis.
+Circulating peripheral blood myeloblasts or lymphoblasts on morphologic analysis from time of last treatment to time of enrollment
+>=  mm by imaging/pathology of core to ensure enough pre- and post-treatment tissue for analysis
+Availability of tumor tissue for mesothelin expression testing and for further biomarker analysis
+Genotyping data available or in process (data must be available at time of initial registration if randomization probabilities differ across biomarker subgroups as determined by the Dana-Farber Cancer Institute [DFCI] Coordinating Center) to assign biomarker subgroups through whole exome sequencing, whole genome copy number analysis, or a combination
+Sufficient pathologic material must be available for central analysis and review
+Sufficient tumor tissue for planned analysis
+Provides an archival or newly obtained tumor tissue sample and blood samples for biomarker analysis.
+analysis of results
+Tumor biopsy material must be provided for all patients for the purpose of biomarker analysis
+MPM tumor sample for determination of ASS status. ASS-deficiency is not required for study entry at study start, but tumor sample for ASS status is required. This study will employ an adaptive biomarker-driven design with an interim analysis to be conducted at the end of the phase  portion. The interim analysis will evaluate the treatment effect of ADI PEG  in combination with pemetrexed and cisplatin on overall survival (OS) in the overall population (biphasic and sarcomatoid histology patients) and pre-defined subpopulation of biomarker-positive patients (ASS-deficient subpopulation). Thus ASS deficiency may be required for the phase  portion of the study, pending the interim analysis. ASS-deficiency, demonstrated on tissue specimen (cytospin samples are not acceptable), will be defined in the laboratory manual. If archived tissue is not sufficient or not available, then tissue must be obtained by biopsy.
+Tumor tissue must be provided for biomarker analysis
+Patient must provide study specific informed consent prior to study entry, including consent for mandatory tissue submission for epidermal growth factor receptor (EGFR) analysis and for oropharyngeal cancer patients, human papilloma virus (HPV) analysis
+Patients must have Clinical Laboratory Improvement Act (CLIA) confirmed somatic KRAS GR mutation as determined by sequence analysis of matched normal deoxyribonucleic acid (DNA) from any specimen obtained from the individual; patients must provide tumor sample for KRAS analysis or be willing to undergo mandatory screening biopsy
+Have provided tissue from an archival or newly obtained tissue sample of a tumor lesion, sufficient for analysis of programmed cell death  ligand  (PD-L) and other biomarkers; patients who have had PD-L analysis previously performed at Merck can substitute earlier analysis results and are not required to submit additional tissue for PD-L testing; expression of PD-L is NOT required for study entry
+Adequate tumor content as determined by institutional pathologist for nucleic acid extraction and DNA sequence analysis
+Patients with confirmed p mutation by molecular analysis and/or evidence of p overexpression by immunohistochemistry (>= % of cells within tumor staining positive) will be eligible; this will be assessed semi-quantitatively by a Clinical Laboratory Improvement Act (CLIA) approved pathology core pathologist, using CLIA approved mutational analysis or immuno-histochemistry techniques on formalin-fixed paraffin-embedded tissue; in the case of equivocal immunohistochemistry (IHC) results, p involvement may be confirmed by detection of p molecular analysis on tumor deoxyribonucleic acid (DNA); patients on whom molecular analysis of p mutations is already available, will not require IHC analysis; molecular analysis may be performed as an additional research procedure at the end of the study (distinct from eligibility determination) if the principal investigator (PI) deems it of scientific value and research funding is available to cover the cost; patients must have PD-L positive ovarian cancer in order to be eligible for this clinical trial (defined as >= % PD-L expression within the tumor section, assessed by immunohistochemical staining)
+A cell block or core biopsy must be submitted for central review and analysis of SMAD status as soon as possible following step  registration
+Must have tumor tissue available for biomarker analysis. Biopsy should be excisional, incisional, punch, or core needle
+Participant must consent to provide archived tissue or cytology sample of NSCLC lesion for analysis.
+Available archival tumor tissue should be submitted to MSKCC for integrated mutation profiling of actionable cancer targets (IMPACT) analysis, but will not be required prior to registration; note: if tissue is depleted, patient will still be eligible after discussion with the principal investigator (PI)
+Patients must agree to blood samples during screening and at the end of treatment for cytogenetic analysis.
+analysis of results
+Available archived tumor tissue for central analysis
+Primary tumor is available for shipment to central laboratory for analysis of FR? expression by IHC.
+Have sufficient tumor tissue available for central analysis.
+Subjects must have archival tumor tissues or agree to a tumor biopsy for analysis of predictive biomarkers such as PD-L. (Fresh tumor biopsies are strongly recommended at baseline for biomarker analysis in subjects with readily accessible tumor lesions and who consent to the biopsies.)
+Have tumor tissue available for biomarker analysis.
+Have sufficient archival tumor tissue for analysis.
+Must consent to collection of blood samples for PK analysis.
+Availability of tumor tissue for biomarker analysis
+PART A: Patient has agreed to two newly obtained tumor biopsies and as required re-biopsies (that can be biopsied on investigators assessment) and to providing the acquired tissue for biomarker analysis; analysis of one of the fresh biopsy samples for PD-hiCD+CTLAhi in the CD+CD+ gate based on flow cytometry will be done; a second fresh biopsy sample is required for further biomarker analysis and confirmation at a later date of low PD-L expression using an immunohistochemistry (IHC) assay for PD-L expression; a valid flow cytometry result is not required for study participation, but repeated biopsy for reanalysis is strongly recommended for patient with insufficient TILs in the first tissue sample
+Patients unwilling to consent to analysis of their tumor tissue.
+Tumor tissues (archived or new biopsy) must be provided for biomarker analysis
+Mandatory provision of an unstained, archived tumour tissue sample in a quantity sufficient to allow for central analysis of EGFR mutation status.
+Available tissue for biomarker analysis
+Tumor tissue available for PD-L biomarker analysis
+Tumor not able to be reliably evaluated by volumetric analysis
+No deletion of p on cytogenetic analysis by FISH
+Must consent to collection of whole blood samples for genomic analysis
+analysis of results
+Archived tumor tissue must be available for all subjects for biomarker analysis and confirmation of the diagnosis before or during treatment; samples must be provided within  weeks of enrollment
+Enrolled in Human Research Protection Office (HRPO) #  (Tissue Acquisition for Analysis of Genetic Progression Factors in Hematologic Malignancies)
+Patient must be enrolled in Human Research Protections Office (HRPO) #  (\Tissue Acquisition for Analysis of Genetic Progression Factors in Hematologic Diseases\)
+Patient must have archival prostate tumor block available for analysis of correlatives
+At the time of biopsy, prior to administration of virus, the presence of recurrent tumor must be confirmed by histopathological analysis
+Blood and urine samples must be provided from all subjects for biomarker analysis before and during treatment with pazopanib
+Adequate tumor tissue available for KRAS mutational analysis or known KRAS wild-type status
+Archival paraffin-embedded invasive tumor tissue or newly obtained biopsy must be available prior to the first dose of study drug for biomarker analysis; patients must be offered sequential biopsies at baseline and  weeks unless in the opinion of the trial principal investigator (PI) this would be hazardous
+The participant must have tumor tissue from breast (preferred) or lymph node for exploratory biomarker analysis available prior to randomization.
+Ki index by central analysis of ?% on untreated breast tissue
+The tumor should be approximately at least  cm, to account for variability in imaging and imaging occult disease (physical exam, mammography, ultrasound); we recognize that from time to time because of this variation, there might not be enough tissue available for analysis after surgical excision but this will allow the greatest opportunity to capture as many eligible patients as possible
+Tumor tissue available and adequate for analysis at screening
+Has an archived, diagnostic tumor tissue available for analysis.
+Patients must provide a pretreatment saliva sample for genomic analysis
+Patient has diagnostic biopsy available for the analysis of PIKCA mutation and Ki level.
+Patients with confirmed p mutation by molecular analysis and/or evidence of p overexpression by immunohistochemistry (>= % of cells within the tumor staining positive) will be eligible; this will be assessed semi-quantitatively by a Clinical Laboratory Improvement Amendments (CLIA) approved pathology core pathologist, using CLIA approved mutational analysis or immunohistochemistry techniques on formalin-fixed paraffin-embedded tissue; in the case of equivocal immunohistochemistry (IHC) results, p involvement may be confirmed by detection of p molecular analysis on tumor deoxyribonucleic acid (DNA); patients on whom molecular analysis of p mutations is already available, will not require IHC analysis; molecular analysis may be performed as an additional research procedure at the end of the study (distinct from eligibility determination) if the principal investigator (PI) deems it of scientific value and research funding is available to cover the cost
+Subjects with cutaneous melanoma must provide either a fresh or archived tumor sample for genetic analysis including determination of or confirmation of BRAF and NRAS genetic status based on local laboratory results. To ensure prompt delivery of tumor samples, tissue shipment tracking information must be provided before administration of study treatment can be initiated.
+Must provide either a fresh or archived tumor sample for genetic analysis.
+Sufficient archival tumor specimen is available for HER immunohistochemistry (IHC) analysis, or subject is willing to undergo a fresh tumor biopsy for HER IHC analysis.
+Primary prostate cancer tissue available for analysis is not required for inclusion onto this study but is strongly encouraged
+Valid results from central molecular analysis confirming PIKCA/AKT/PTEN-altered status in tumor tissue by next-generation sequencing (NGS)
+For participants in Part B, C, D, E, and F, a tumor tissue sample is mandatory, when safe and feasible, for biomarker analysis
+Paraffin-embedded sections of tissue acquired from surgery at the time of suspected recurrence must be available for analysis
+Archival tissue available for Foundation One analysis
+Consent to allowing his/her archival tumor tissues to be requested and analyzed; however, the non-availability or inadequate amount samples for analysis will not exclude the patient
+Have normal urine analysis within  hours pre-surgery
+Results of CXCR immunohistochemistry or slides from biopsy of primary tumor or metastatic lesions available for study analysis
+Patients must document their willingness to be followed for up to  months after recruitment by signing informed consent documenting their agreement to have clinical endpoints and the results of histopathologic tissue analysis (when tissue becomes available from routine care) entered into a research database
+Patients must agree to have clinical and radiographic endpoints and the results of histopathologic tissue analysis and other laboratory information entered into a research database, as evidenced by signing the informed consent form
+The patients will be asked to consent to provide access to data obtained from molecular analysis that has been done on archived tumor tissue that will be correlated with Zr-DFO-trastuzumab imaging results
+Archived tumor blocks must be provided for all subjects for correlative analysis before or during treatment with pazopanib
+Patients must document their willingness to be followed for at least  months after recruitment by signing informed consent documenting their agreement to have clinical endpoints and the results of histopathologic tissue analysis (when tissue becomes available from routine care) entered into a research database
+Patients must document their willingness to be followed for a period of time; for the purposes of imaging data analysis this will ideally be for at least  months after completing the investigational or recently approved therapy, however this may not always be possible; by signing informed consent, the patients are documenting their agreement to have clinical and radiographic endpoints and the results of histopathologic tissue analysis and other laboratory information entered into a research database
+Tissue analysis demonstrating pathology other than glioblastoma
+Patients must document their willingness to be followed for up to  months following enrollment in this imaging trial; by signing informed consent, the patients will document their agreement to have clinical and radiographic endpoints and the results of histopathologic tissue analysis and other laboratory information entered into a research database
+Tissue specimen is inadequate for sampling and analysis
+Cohort A: Screening visit peripheral blood must be available for retrospective analysis of spliceosome mutations of interest.
+the analysis of results

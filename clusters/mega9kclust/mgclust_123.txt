@@ -1,0 +1,6 @@
+Cluster 118: gfr renal glomerular filtration rate insufficiency min ml patients contrast 
+Cluster 306: gfr glomerular filtration rate min ml estimated creatinine calculated uln 
+Cluster 871: glomerular filtration rate creatinine min ml gfr mg dl serum 
+Cluster 1585: min ml renal creatinine function gfr glomerular filtration rate adequate 
+Cluster 1964: estimated glomerular filtration rate egfr min ml creatinine renal cockcroft 
+Cluster 2484: radioisotope gfr creatinine glomerular filtration min clearance rate ml serum 

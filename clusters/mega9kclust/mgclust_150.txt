@@ -1,0 +1,4 @@
+Cluster 267: promyelocytic leukemia acute diagnosis aml patients classification pml favorable cytogenetics 
+Cluster 1406: world organization health diagnosis performance status classification aml criteria confirmed 
+Cluster 1589: apl promyelocytic leukemia acute aml diagnosis diagnosed world organization health 
+Cluster 1996: british french fab american promyelocytic leukemia classification aml acute mds 

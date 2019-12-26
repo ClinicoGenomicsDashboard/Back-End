@@ -1,0 +1,22 @@
+Patients with a history of toxic epidermal necrolysis (TEN) or Stevens-Johnson syndrome are excluded
+30.0
+Patients with Down syndrome
+608.0
+Active or a history of Tourette�s syndrome or tic disorder
+330.0
+No history of Steven�s Johnson�s syndrome, toxic epidermal necrolysis (TEN)s syndrome, or motor neuropathy
+189.0
+Patients with Down syndrome are not eligible
+140.0
+Diagnosis of Down syndrome (Trisomy 21)
+1400.0
+Patients must not have known Gilbert�s syndrome
+143.0
+No known Gilbert�s syndrome or known homozygosity for UGAT1A1*28 polymorphism
+124.0
+Patients with Down syndrome
+116.0
+Down syndrome
+700.0
+Patients with down syndrome are excluded from this study
+324.0

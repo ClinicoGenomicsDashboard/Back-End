@@ -1,0 +1,5 @@
+Cluster 246: pugh child score class liver function hepatic disease points ascites 
+Cluster 1448: pugh cirrhosis child liver class score classification present patients worse 
+Cluster 1532: pugh hepatic impairment child class severe moderate patients baseline liver 
+Cluster 1833: pugh child impairment hepatic classification according currently clinically significant class 
+Cluster 2296: childs cirrhosis pugh class score liver severe hepatic known disease 

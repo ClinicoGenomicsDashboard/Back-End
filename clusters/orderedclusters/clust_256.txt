@@ -1,0 +1,56 @@
+Patients must not have received immunization with an attenuated live vaccine (e.g., intranasal influenza, measles, mumps, and rubella [MMR], oral polio, varicella, zoster, yellow fever, and Bacillus Calmette�Guerin [BCG] vaccines) within seven days prior to registration nor have plans to receive such vaccination while on protocol treatment
+1900.0
+TREATMENT: Patients who have received live attenuated vaccines within 1 week of the start are ineligible to receive everolimus
+700.0
+Patients who have received any non-oncology live vaccine therapy used for prevention of infectious diseases (for up to one month prior to or after any dose of ipilimumab/vaccine)
+92.0
+Vaccinated with live, attenuated vaccines within 4 weeks of first dose of study drug
+52.0
+Has received a live vaccine within 30 days prior to the first dose of trial treatment
+36.0
+Patients are excluded for receiving any non-oncology vaccine therapy used for prevention of infectious diseases for up to four weeks (28 days) prior to or after any dose of ipilimumab; NOTE: Patients are permitted to receive the seasonal influenza vaccine; if seasonal influenza vaccine is considered, killed vaccines should be recommended
+400.0
+Patients who have received the last vaccination of a live vaccine =< 30 days prior to enrollment are ineligible; examples of live vaccines include, but are not limited to, the following: measles, mumps, rubella, varicella, yellow fever, rabies, bacillus Calmette-Guerin (BCG), and typhoid (oral) vaccine; seasonal influenza vaccines for injection are generally killed virus vaccines and are allowed; however, intranasal influenza vaccines (e.g. Flu-Mist) are live attenuated vaccines, and must meet timeline for live vaccine
+110.0
+EXCLUSION CRITERIA FOR STRATUM C: Patients who have received the last vaccination of a live vaccine =< 30 days prior to enrollment are ineligible; examples of live vaccines include, but are not limited to, the following: measles, mumps, rubella, varicella, yellow fever, rabies, BCG, and typhoid (oral) vaccine; seasonal influenza vaccines for injection are generally killed virus vaccines and are allowed; however, intranasal influenza vaccines (e.g. Flu-Mist) are live attenuated vaccines, and must meet timeline for live vaccine
+110.0
+Receipt of live or live attenuated vaccine within 12 weeks prior to enrollment
+46.0
+Patient who requires live vaccine administration
+45.0
+Patients should not receive immunization with attenuated live vaccine within one week of study entry or during study period
+50.0
+Receipt of live vaccines within 30 days before the first dose of trial treatment and while participating in the trial; examples of live vaccines include, but are not limited to, the following: measles, mumps, rubella, chicken pox, yellow fever, seasonal flu, H1N1 flu, rabies, bacillus Calmette-Gu�rin (BCG), and typhoid vaccine
+60.0
+Use of live vaccines against infectious disease (e.g. varicella) within 28 days of initiation of study therapy; killed vaccinations (e.g. influenza) are allowed at any appropriate time before and during the study
+29.0
+Receipt of live vaccination within 28 days before randomization; seasonal flu vaccines that do not contain live virus are permitted
+348.0
+Patients must not have received live vaccines within 42 days prior to registration; examples of live vaccines include, but are not limited to, the following: measles, mumps, rubella, chicken pox, shingles, yellow fever, rabies, Bacillus Calmette�Guerin (BCG), and typhoid (oral) vaccine; seasonal influenza vaccines for injection are allowed; however, intranasal influenza vaccines (e.g., Flu-Mist) are not allowed
+77.0
+Patients who have received a live vaccine within 30 days of planned start of study therapy; Note: seasonal influenza vaccines for injection are generally inactivated flu vaccines and are allowed; however intranasal influenza vaccines (e.g., Flu-Mist) are live attenuated vaccines, and are not allowed
+56.0
+Administration of a live, attenuated vaccine within 4 weeks before cycle 1, day 1 or anticipation that such a live, attenuated vaccine will be required during the study and up to 5 months after the last dose of atezolizumab * Influenza vaccination should be given during influenza season only (approximately October to March); patients must not receive live, attenuated influenza vaccine within 4 weeks prior to cycle 1, day 1 or at any time during the study
+35.0
+Administration of a live, attenuated vaccine within 4 weeks before cycle 1, day 1 or anticipation that such a live, attenuated vaccine will be required during the study and up to 5 months after the last dose of atezolizumab* Influenza vaccination should be given during influenza season only (approximately October to March); patients must not receive live, attenuated influenza vaccine within 4 weeks prior to cycle 1, day 1 or at any time during the study
+488.0
+Patients must not have received of a live, attenuated vaccine within 4 weeks before cycle 1, day 1 or anticipation that such a live, attenuated vaccine will be required during the study and up to 5 months after the last dose of atezolizumab* Influenza vaccination should be given during influenza season only (approximately October to March); patients must not receive live, attenuated influenza vaccine within 4 weeks prior to cycle 1, day 1 or at any time during the study
+148.0
+Administration of a live, attenuated vaccine within 4 weeks before cycle 1, day 1 or anticipation that such a live, attenuated vaccine will be required during the study and up to 5 months after the last dose of atezolizumab* Influenza vaccination should be given during influenza season only (approximately October to March); patients must not receive live, attenuated influenza vaccine within 4 weeks prior to cycle 1, day 1 or at any time during the study
+72.0
+Administration of a live, attenuated vaccine within 4 weeks before cycle 1, day 1 or anticipation that such a live, attenuated vaccine will be required during the study and up to 5 months after the last dose of atezolizumab* Influenza vaccination should be given during influenza season only (approximately October to March); patients must not receive live, attenuated influenza vaccine within 4 weeks prior to cycle 1, day 1 or at any time during the study
+40.0
+Administration of a live, attenuated vaccine within 4 weeks before cycle 1, day 1 or anticipation that such a live, attenuated vaccine will be required during the study and up to 5 months after the last dose of atezolizumab* Influenza vaccination should be given during influenza season only; patients must not receive live, attenuated influenza vaccine within 4 weeks prior to cycle 1, day 1 or at any time during the study
+60.0
+Receipt of live, attenuated vaccine within 30 days prior to the first dose of investigational treatment; Note: patients, if enrolled, should not receive live vaccine during the study and up to 30 days after the last dose of investigational treatment
+180.0
+Administration of a live, attenuated vaccine within 4 weeks before cycle 1, day 1 or anticipation that such a live, attenuated vaccine will be required during the study and up to 5 months after the last dose of atezolizumab* Influenza vaccination should be given during influenza season only (approximately October to March); patients must not receive live, attenuated influenza vaccine within 4 weeks prior to cycle 1, day 1 or at any time during the study
+22.0
+Patients must not have received live vaccines within 30 days prior to registration; examples of live vaccines include, but are not limited to, the following: measles, mumps, rubella, chicken pox, shingles, yellow fever, rabies, Bacillus Calmette-Guerin (BCG), and typhoid (oral) vaccine; seasonal influenza vaccines for injection are generally killed virus vaccines and are allowed; however, intranasal influenza vaccines (e.g., Flu-Mist) are live attenuated vaccines, and are not allowed
+1000.0
+Patients must not have received a live attenuated vaccination within 28 days prior to sub-study registration
+132.0
+Patients must not have received any live vaccine within 30 days prior to registration; seasonal flu vaccines that do not contain live virus are permitted
+64.0
+Administration of a live, attenuated vaccine within 4 weeks before cycle 1, day 1 or anticipation that such a live, attenuated vaccine will be required during the study and up to 5 months after the last dose of atezolizumab* Influenza vaccination should be given during influenza season only (approximately October to March); patients must not receive live, attenuated influenza vaccine within 4 weeks prior to cycle 1, day 1 or at any time during the study and until 5 months after the last dose of atezolizumab
+78.0

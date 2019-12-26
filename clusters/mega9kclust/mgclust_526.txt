@@ -1,0 +1,8 @@
+Cluster 55: adverse ae sodium potassium calcium values event terminology common version 
+Cluster 1073: unresolved toxicities grade criteria ctcae alopecia terminology common exception adverse 
+Cluster 1145: adverse events recovery supportive toxicities ctcae terminology common nonsignificant version 
+Cluster 1243: common terminology ctcae adverse events grade criteria version diarrhea toxicity 
+Cluster 1375: toxicities terminology common ctcae alopecia adverse grade events criteria version 
+Cluster 1808: unresolved toxicity common terminology ctcae adverse events alopecia grade cancer 
+Cluster 2032: adverse events ctcae terminology common grade criteria recovered prior alopecia 
+Cluster 2418: dehydration grade nci ctcae exacerbated ctc version conditions common opinion 

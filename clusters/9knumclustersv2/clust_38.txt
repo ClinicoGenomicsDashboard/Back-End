@@ -1,0 +1,61 @@
+Lansky >= % for patients =<  years of age or Karnofsky >= % for patients >  years of age
+Karnofsky >= % for patients >  years of age
+Adequate performance status: Karnofsky ?  for patients ?  years of age
+Adequate performance status: Lansky ?  for patients <  years of age
+Subjects >  years of age: Karnofsky >= %; Subjects =<  years of age: Lansky scale >= %
+Patients must have a Lansky or Karnofsky performance status score of >= ; use Karnofsky for patients >  years of age and Lansky for patients =<  years of age
+Subjects must have a performance status of > %; use Karnofsky for patients >  years of age and Lansky for patients =<  years of age
+Karnofsky ?  for patients ?  years of age, and Lansky ?  for patients <  years of age.
+Karnofsky >  for patients >  years of age and Lansky >  for patients =<  years of age
+Minimal limitation on activities of daily living as measured by Karnofsky ?  for participants >  years of age or Lansky ?  for participants ?  years of age.
+Karnofsky performance status >= % for patients >  years of age, or Lansky performance status >= % for patients =<  years of age.
+Patient must have Karnofsky >= % for patients >  years of age; Lansky Play Scale >=  for children =<  years of age
+Patients must have a performance status of ,  or ; use Karnofsky >=  for patients >  years of age and Lansky >=  for patients =<  years of age
+Performance status: Karnofsky >=  for patients >  years of age; Lansky >=  for patients =<  years of age
+Karnofsky performance status >=  for patients >=  years of age and a Lansky performance status >=  for patients aged <  years
+Patients must have a performance status of >= ; (Karnofsky if >  years and Lansky if =<  years of age)
+Karnofsky ? % for patients >  years of age and Lansky ?  for patients ?  years of age.
+Patients must have a performance status of >= ; (Karnofsky if >  years and Lansky if =<  years of age
+Patients must have a Lansky performance status of >=  for children =<  years of age or a Karnofsky performance status of >  for children >  years of age
+Patients must have a performance status of >= ; (Karnofsky if >  years and Lansky if <  years of age)
+Performance status: Karnofsky >= % (subjects >=  years of age); Lansky >= % (for subjects - years of age)
+Performance level: Lansky ? % for patients ?  years of age and Karnofsky ? % for patients >  years of age.
+PRE-REGISTRATION: Performance level as measured by Karnofsky >= % for patients >  years of age or Lansky >= % for patients =<  years of age.
+ENROLLMENT: Performance level as measured by Karnofsky >= % for patients >  years of age or Lansky >= % for patients =<  years of age.
+Patients must have a Lansky or Karnofsky performance status score of >= ; Karnofsky system will be used for patients >  years of age and Lansky system for patients <  years of age
+Patients must have a Karnofsky performance level of >=  for patients >  years of age or a Lansky performance scale of >=  for patients =<  years of age and life expectancy >  weeks
+Performance status - Karnofsky >=  ( years and older) or Lansky >=  (less than  years of age)
+ECOG ,  or , or for children =<  years of age, Lansky >= 
+If < years of age: Lanksy Performance Status >%
+If ? years of age: Karnofsky Performance Status >%
+Karnofsky (age ?  years) or Lansky (age <  years) performance status ?  at screening
+Karnofsky (age ?  years) or Lansky (age <  years) performance status ?  at screening.
+Have an ECOG performance status of - for ?  years of age and a Lansky performance status of - for <  years of age
+Lansky (age <  years at the time of assent/consent) or Karnofsky (age ?  years at the time of assent/consent) performance status ?  at screening
+Karnofsky performance status (KPS) must be >=  for patients >=  years of age and Lansky performance status must be >=  for patients <  years of age
+Must have a Lansky or Karnofsky performance status of >= ; use Karnofsky for patients >  years of age and Lansky for patients =<  years of age
+Patients must have a Lansky or Karnofsky performance status score of >= %; use Karnofsky for patients >  years of age and Lansky for patients =<  years of age
+Eastern Cooperative Oncology Group (ECOG) performance status =<  for adults, Karnofsky performance status >= % for pediatric patients >  years of age, and Lansky performance status >=  for pediatric patients =<  years of age
+Karnofsky > % for patients >  years of age and Lansky > % for patients ?  years of age.
+ECOG - or Karnofsky ? % for patients >  years of age; Lansky ? % for patients ? years of age.
+Subjects ?  years of age: Karnofsky ? % (Appendix A)
+Subjects <  years of age: Lansky scale ? % (Appendix A)
+Karnofsky performance status > % for patients  years and older and Lansky performance status > % for patients under  years of age
+Karnofsky > % for patients >  years of age and Lansky > % for patients less than or equal to  years of age. (See Appendix I for Performance Scales).
+Performance Level: Karnofsky > % for pts >  years; Lansky > % for pts <  years of age.
+Performance status: Karnofsky > % for >=  years of age; Lansky > % for children <  years of age
+Performance status: Karnofsky >=  for >  years of age; Lansky >=  for children =<  years of age
+Performance status: Karnofsky ? % for  to < years of age; Lansky play scale ? % for  to <  years of age.
+Performance status - Karnofsky -% (>  years of age)
+Performance status - Lansky -% (?  years of age)
+Karnofsky performance status >= % for patients >=  years of age and Lansky >= % for patients <  years of age
+Performance status must be >  from Lansky (age  to ) or Karnofsky (age > )
+Karnofsky >= % for patients >  years of age and Lansky >=  for patients =<  years of age
+Performance status by Karnofsky of >= % or Lansky > % for patients <  years of age
+ECOG -, or for children ? years of age, Lansky > 
+Karnofsky performance status >=  for patients >=  years of age; for children <  years of age, the Lansky play scale >= % can be substituted
+Karnofsky >=  for patients >=  years of age, and Lansky >=  for patients <  years of age
+PHASE I: Performance status >=  on Karnofsky scale for patients >  years of age and >  on Lansky scale for patients <  years of age
+EXPANSION COHORT: Performance status of >=  on Karnofsky scale for patients >  years of age and >  on Lansky scale for patients =<  years of age
+Patients must have a performance status of >=  using the Karnofsky scale for patients >  years of age and the Lansky scale for patients =<  years of age
+Karnofsky (patients ?  years)/Lansky (patients <  years) index ? .

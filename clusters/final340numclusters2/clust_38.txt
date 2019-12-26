@@ -1,0 +1,36 @@
+Serum creatinine =< 1.5 times ULN OR calculated creatinine clearance >= 70 mL/min
+Creatinine =< 1.5 x ULN OR calculated or measured creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine above institutional normal
+Creatinine =< upper limit of normal (ULN) or calculated creatinine clearance >= 60 mL/min
+Creatinine =< 1.5 times institutional upper limit of normal (ULN) OR calculated creatinine clearance >= 60 mL/min
+Serum creatinine =< 1.2 x ULN or creatinine clearance >= 60 mL/min; obtained within 14 days prior to study entry
+STEP I: Calculated creatinine clearance >= 30 mL/min (obtained within 28 days prior to randomization)
+Serum creatinine =< 1.5 mg/dL OR measured or calculated creatinine clearance >= 50 mL/min
+Serum creatinine =< 1.5 mg/dL OR creatinine clearance >= 50 mL/min/1.73 m^2
+Serum creatinine =< 1.5 mg/dL OR creatinine clearance >= 50 mL/min/1.73 m^2
+Serum creatinine =< 1.5 x mg/dL OR measured or calculated creatinine clearance >= 50 mL/min; creatinine measurements must be obtained within 28 days prior to registration
+Calculated (calc.) creatinine clearance >= 50 mL/min* Estimated creatinine clearance for patients >= 18 years old will be estimated by the Jelliffe equation modified for body surface area (BSA); patients with creatinine clearance estimated > 70ml/min by this formula are eligible; if the creatinine clearance estimated by the Jelliffe method is >= 50 mL/min but =< 70 mL/min, then a second method to confirm a creatinine clearance of >= 50 mL/min is required; methods of estimating glomerular filtration rate (GFR) that can be used for this confirmation consist of a 12 or 24-hour urine creatinine clearance or a nuclear creatinine clearance test; if the confirmatory creatinine clearance is < 50 mL/min, then the patient is not eligible; if the confirmatory creatinine clearance is >= 50 mL/min, the patient is eligible; if the cause of the patient�s renal dysfunction is tumor obstructing the ureters, then eligibility can be determined by the study chair even if it does not meet these minimal requirements; for patients < 18 years old, it is strongly suggested that a radioisotope estimation of GFR be obtained; if a radioisotope test is not possible, an estimated creatinine clearance using either a 12 or 24 hour urine creatinine clearance or the Schwartz formula can be used; patients will be considered eligible if the creatinine clearance is > 70 mL/min; if the creatinine clearance estimated by the Schwartz formula or urine creatinine clearance is >= 50 mL/min but =< 70 mL/min, then a second method to confirm a creatinine clearance of >= 50 mL/min is required; methods of estimating GFR that can be used for this confirmation consist of a 12- or 24-hour urine creatinine clearance if the Schwartz formula or radioisotope method was used as the primary method or a radioisotope estimation of GFR if the Schwartz formula or urine creatinine clearance method was used as the primary method; if the confirmatory creatinine clearance is < 50 mL/min, then the patient is not eligible; if the confirmatory creatinine clearance is >= 50 mL/min, the patient is eligible
+Serum creatinine =< 1.5 x upper limit of normal (ULN) or serum creatinine clearance (CrCl) >= 40 ml/min, obtained within 4 weeks prior to randomization
+Serum creatinine =< 1.5 mg/dL or creatinine clearance >= 40 ml/min/1.73 m^2 unless lymphoma related
+Serum creatinine =< 1.5 X ULN or measured or calculated creatinine clearance (CrCl) >= 60 mL/min for subject with creatinine levels > 1.5 X institutional ULN (glomerular filtration rate [GFR] can also be used in place of creatinine or CrCl); creatinine clearance should be calculated per institutional standard
+For patients who have creatinine clearance that meets > 50 ml/min they must not have received prior systemic doxorubicin
+Obtained within 28 days prior to registration: Serum creatinine =< 1.5 x IULN OR measured or calculated creatinine clearance >= 60 mL/min
+Serum creatinine =< 1.5 x upper limit of normal (ULN) or serum creatinine clearance (CrCl) >= 40 ml/min
+Serum creatinine =< 3 mg/dL (265 umol/L) and creatinine clearance >= 30 ml/min
+Serum creatinine =< 1.5 x ULN or a calculated creatinine clearance >= 60 ml/min/1.73 m^2 (Cockcroft-Gault method) for patients receiving combination of cisplatin and pemetrexed and >= 45 ml/min/1.73 m^2 for patients receiving pemetrexed; 24 hour urine for creatinine clearance is acceptable if the calculated creatinine clearance is insufficient
+Adequate renal function determined within 6 weeks prior to randomization defined as the most recent serum creatinine =< ULN or measured or calculated creatinine clearance > 60 mL/min
+Creatinine clearance >= 50 mL/min
+Creatinine clearance >= 50 mL/min
+Serum creatinine must be =< 2 x the institutional ULN OR creatinine clearance (either measured or calculated) must be > 30 mL/min; must be obtained within 28 days prior to registration
+Serum creatinine < 2.5 X institutional ULN OR measured or calculated* creatinine clearance (CrCl) (glomerular filtration rate [GFR] can also be used in place of creatinine or CrCl) >= 30 mL/min for subject with creatinine levels > 2.5 X institutional ULN* Creatinine clearance should be calculated per institutional standard
+Creatinine clearance >= 60 mL/min/1.73 m^2
+CLINICAL/LABORATORY CRITERIA: Serum creatinine =< 1.5 x IULN OR measured or calculated creatinine clearance >= 40 mL/min; this result must have been obtained within 28 days prior to registration
+Serum creatinine =< ULN for the lab and measured or calculated creatinine clearance > 60 mL/min within 28 days before randomization
+Serum creatinine =< 1.5 x upper limit of normal (ULN) or calculated creatinine clearance (CrCl) >= 40 mL/min, within 4 weeks of randomization
+Serum creatinine =< 1.5 ULN OR measured or calculated creatinine clearance >= 30 mL/min
+Within 28 days prior to administration of therapy: Creatinine clearance >= 50 mL/min
+Calculated creatinine clearance > 70 mL/min/1.73 m^2
+Calculated creatinine clearance by Modification of Diet in Renal Disease (MDRD) (CrCl) >= 60 ml/min/1.73 squared meter
+Serum creatinine =< IULN OR measured or calculated creatinine clearance >= 60 mL/min, obtained within 28 days prior to step 2 registration
+Creatinine clearance >= 60 mL/min/1.73 m^2
+Calculated creatinine clearance >= 45 mL/min/1.73 m^2
+Patients must have adequate renal function as documented by a calculated creatinine clearance >= 60 mL/min, within 28 days prior to registration

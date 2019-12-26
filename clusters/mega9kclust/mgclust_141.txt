@@ -1,0 +1,13 @@
+Cluster 327: products investigational treatment dose drug study days therapy weeks allergic 
+Cluster 360: agent investigational days received enrollment prior use randomization treatment therapeutic 
+Cluster 718: myelosuppressive nitrosourea chemotherapy weeks received prior days study enrollment dose 
+Cluster 1227: infusion lymphocyte donor dli days cell received prior infusions enrollment 
+Cluster 1302: experimental drug therapy study days use weeks treatment prior baseline 
+Cluster 1528: month prior treatment study enrollment therapy radiation use received past 
+Cluster 1684: drugs investigational days received enrollment patient study use prior dose 
+Cluster 1856: anticancer therapy investigational receipt treatment study systemic prior days drug 
+Cluster 2236: agent investigational type dose received days treatment study subject drug 
+Cluster 2258: infection requiring drug completed systemic recent dose days treatment study 
+Cluster 2315: bleomycin prior treatment radiosurgery chemotherapy use enrollment contraindicates morbid agent 
+Cluster 2350: sex having condom woman use drug study pregnant agrees dose 
+Cluster 2371: investigational drug days treatment study prior dose received enrollment use 

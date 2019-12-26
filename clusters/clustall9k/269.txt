@@ -1,0 +1,75 @@
+Patients must have a body surface area (BSA) of >= 0.2 m^2 at the time of study enrollment
+Patients must have a body surface area >= 0.35 m^2 at the time of study enrollment if enrolling on dose levels 1-5; patients must have a body surface area >= 0.46 m^2 at the time of study enrollment if enrolling on dose level 0
+Patients with a body surface area < 0.5 m^2 are not eligible
+Patients must have a body surface area >= 0.35 m^2
+Patients must have a body surface area >= 0.65 m^2 at enrollment
+Patients must have a body surface area >= 0.53 m^2 at enrollment
+Patients enrolled after the drug supply of the 120 mg strength has been exhausted must have a body surface area >= 0.73 m^2 at enrollment and follow the dosing nomogram
+Patients must have a body surface area >= 0.5 m^2 at enrollment
+Patients accruing to dose level 1 must have a body surface area >= 0.52 m^2 at the time of study enrollment; patients accruing to dose level 2 must have a body surface area >= 0.37 m^2 at the time of study enrollment; patients accruing to dose level -1 must have a body surface area >= 0.75 m^2 at the time of study enrollment
+Eligible patients have a body surface area >= 0.7 m^2 AND be able to swallow whole tablets at the time of study enrollment
+Patients must have a body surface area >= 0.35 m^2 at the time of study enrollment
+Arms C and D only: body surface area < 1.2 m2.
+Patients must have a body surface area (BSA) of >= 1.17 m^2 at time of study enrollment
+Patients must have a body surface area >= 0.87 m^2 at enrollment
+Body surface area (BSA): Subjects must have a body surface area ? 0.45 m2 at the time of the study enrollment, unless enrolled in Part E
+Patients with a body surface area >3.0 m2.
+Body surface area > 2.0
+Patients must have a body surface area >= 0.5 m^2 at enrollment
+Patients must have a body surface area (BSA) of >= 0.42 m^2 at the time of study enrollment
+Body surface Area (For Dose Level -1): Patients must be ? 0.38 m² at the time of study enrollment.
+Body surface area >= 1.4 m^2
+Patients must have a body surface area (BSA) of >= 0.53 m^2 at the time of study enrollment
+Body surface area (for Parts A, B and C): \r\n* Patients must have a body surface area (BSA) of >= 0.42 m^2 at the time of study enrollment
+Part C: Patients must have a body surface area (BSA) >= 1.07 m^2 at the time of study enrollment
+Patients receiving the formulated capsules must have a body surface area (BSA) >= 0.63 m^2 at the time of study enrollment
+Body surface area >= 1.8m^2 on dosage levels 3b, 4, and 5 of the original treatment design
+Body surface area < 0.55 m^2 for all dosage levels in the modified treatment design
+Patients must have a body surface area (BSA) >= 0.4 m^2 at the time of study enrollment
+Radiation to any area of the body < 28 days prior to randomization
+Patients with a creatinine clearance < 60 ml/min/1.73 m^2 body surface area
+Patients must have a body surface area >= 0.35 m^2 at the time of study enrollment
+In order to limit dose deviations due to rounding, patients must have a body surface area of at least 0.5 m^2
+Area to be irradiated representing 1-10% of total body surface area (TBSA)
+Chronic, current or recent (within the past three months) use of glucocorticoids (systemic, topical and/or nasal sprays or steroid topical creams to large body surface area); use of steroid topical creams for small body areas (=< 10% body surface) during study intervention is allowed
+Body Surface Area < 1.4 m2 at baseline, calculated by the Dubois or Mosteller method.
+Patients must have a body surface area (BSA) >= 0.84 m^2
+Body surface area (BSA) must be > 0.67 and < 2.5 m^2
+Body surface area (BSA)\r\n* Patients enrolled on dose level -1 must have BSA >= 0.55m^2\r\n* Patients enrolled on dose level -0.5 must have BSA >= 0.75m^2\r\n* Patients enrolled on dose level 0 must have BSA >= 0.55m^2\r\n* Patients enrolled on dose level 1 must have BSA >= 0.75m^2\r\n* Patients enrolled on dose level 2 and 3 must have BSA >= 0.45m^2
+BSA\r\n* Patients enrolled on dose level -1 must have BSA >= 0.55m2\r\n* Patients enrolled on dose level -0.5 must have BSA >= 0.75m2\r\n* Patients enrolled on dose level 0 must have BSA >= 0.55m2\r\n* Patients enrolled on dose level 1 must have BSA >= 0.75m2\r\n* Patients enrolled on dose level 2 and 3 must have BSA >= 0.45m2
+Body surface area (BSA) >= 0.5 m^2
+Body surface area (BSA) ? 1.2 m2
+Patients who will be receiving the tablet formulation must have a body surface area (BSA) >= 0.84 m^2 (square meter) at baseline.
+Specific body surface area (BSA) criteria depending on enrolling dose level: no restrictions for dose level 0, BSA >= 0.75 required for dose levels -1 and -2, BSA > 0.90 required for dose levels -3 and -4
+BSA (m2) of <0.5
+Body surface area (BSA):\r\n* Patients enrolled on dose level 1 (50 mg/m^2) must have BSA >= 1.20 m^2\r\n* Patients enrolled on dose level 2 (75 mg/m^2) must have BSA >= 0.93 m^2\r\n* Patients enrolled on dose level 3 (95 mg/m^2) must have BSA >= 0.70 m^2
+Patients with a BSA ? 1.17 m^2 at time of study enrollment are not eligible
+Patients must have a body surface area (BSA) >= 0.55 m^2
+Body surface area (BSA) greater than 0.3 m^2
+Body surface area (BSA) >= 0.55 m^2
+All races and ethnic groups will be included; for subjects between the ages of 12-18 years only, body surface area (BSA) must be >= 1.28 m^2
+Body surface area requirements varied by dose level: \r\n* Dose level: -1; body surface area (BSA): >= 0.82 m^2\r\n* Dose level: 1; BSA: >= 0.66 m^2\r\n* Dose level: 2; BSA: >= 0.52 m^2\r\n* Dose level: 3; BSA: >= 0.45 m^2
+BSA (m2) of <0.25
+For subjects between the ages of 12-18 years only, body surface area (BSA) must be >= 1.5 m^2
+Patients with a body surface area (BSA) =< 0.4 m^2 are excluded
+Rash must cover less than 10% of body surface area (BSA)
+Body surface area: the minimum body surface area (BSA) allowed for enrollment at dose level 1 to 0.85 m^2; the minimum for dose level 2 is BSA = 0.6 m^2 and the minimum for dose level 3 is BSA = 0.42 m^2
+To ensure that no patient will receive a dose of selinexor > 70 mg/m^2, body surface area (BSA) calculated by Dubois method must be > 1.43 m^2
+Patients must have body surface area (BSA) > 0.55 m^2 at the time of enrollment\r\n* In the event of de-escalation from dose level 1 to dose level 0, patients with BSAs < 0.67 m^2 are not eligible
+Serum creatinine =< 1.5 x the institutional upper limits of normal or corrected creatinine clearance of >= 50 mg/ml/hr/1.73 m^2 body surface area (BSA)
+Body surface area (BSA) greater than 0.3 m^2
+Body surface area (BSA) >= 0.5 m^2
+Participants must have a minimum body surface area (BSA) of 0.6 m^2 at study entry, with the exception of one study arm which requires a minimum BSA of 1.33 m^2.
+Obtained within 14 days prior to registration: Serum creatinine =< 1.5 x the institutional upper limits of normal or corrected creatinine clearance of >= 50 mg/ml/hr/1.73 m^2 body surface area (BSA)
+Body surface area (BSA) >= 1.04 m^2
+Rash must cover less than 10% of body surface area (BSA)
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Body surface area (BSA) \r\n* Patients must have a BSA >= 0.80 m^2 for dose 5 mg/m^2\r\n* Patients must have a BSA >= 0.65 m^2 for doses of 10 mg/m^2 - 22 mg/m^2 \r\n* Patients must have a BSA >= 0.50 m^2 for doses of 28 mg/m^2 - 36 mg/m^2
+NON-PROGRESSED DIPG (STRATUM 2): BSA\r\n* Patients must have a BSA >= 0.80 m^2 for dose 5 mg/m^2\r\n* Patients must have a BSA >= 0.65 m^2 for doses of 10mg/m^2 - 22 mg/m^2\r\n* Patients must have a BSA >= 0.50 m^2 for doses of 28 mg/m^2 - 36 mg/m^2
+Body surface area (BSA) ? 2.4 m2.
+Patients age 16-17 years are eligible only if they have a body surface area (BSA) >= 1.7 m^2 or weigh >= 60 kg
+PHASE II: >= 2 and =< 18 years; body surface area (BSA) >= 0.55 m^2, and able to swallow whole capsules
+All patients must have an accurate pre-op height and weight and BSA (body surface area) calculation for CO (cardiac output) monitoring on FloTrac
+BSA (Body Surface Area) of <0.25 m2.
+BSA (m2) of <0.25
+Body Surface Area (BSA) (m2) of <0.25
+Subjects whose body surface area (BSA) would expose them to < 75% or > 125% of the target dose

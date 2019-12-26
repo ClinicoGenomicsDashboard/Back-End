@@ -1,0 +1,51 @@
+Received JAK inhibitor therapy after allo-HSCT for any indication. Treatment with a JAK inhibitor before allo-HSCT is permitted.
+CRLF2 rearrangement with JAK1 or JAK2 mutation (JAK+)
+CRLF2 rearrangement without JAK mutation
+Other JAK pathway alterations (eg, JAK2 fusions, erythropoietin receptor (EPO-R) fusions, SH2B3 deletions, interleukin-7 receptor-alpha (IL7RA) mutations) with or without CRLF2 rearrangement
+Patients who have previously been treated with an IL-6, JAK or STAT inhibitor for any indication, such as ruxolitinib or tocilizumab
+Participants who were treated with prior JAK inhibitors for aGvHD; except when the participant achieved complete or partial response and has been off JAK inhibitor treatment for at least 8 weeks prior to Cycle 1 Day 1
+Patients previously treated with a Janus kinase (JAK) inhibitor
+Hypersensitivity to any JAK inhibitor
+Prior treatment with JAK2 inhibitor therapy is not excluded. Patients on a JAK2 inhibitor may continue through conditioning until day -3 then tapered at the discretion of the investigator.
+Patients must not have received prior JAK1 inhibitor therapy.
+Prior treatment with JAK2 inhibitor therapy is not excluded; a JAK2 inhibitor will need to be stopped 1-2 days prior to starting conditioning regimen
+Subjects who have previously received JAK inhibitor therapy
+Treatment with ruxolitinib or other JAK inhibitor in the past
+Any previous use of Janus kinase (JAK) inhibitor, osimertinib, or other EGFR-directed therapy for T790M-mt NSCLC.
+PART 2: Received JAK inhibitor for at least 8 weeks immediately prior to conditioning and be able to continue until Day -4 pre-transplant
+Patients cannot have any other form of chemotherapy for their MPN (other than hydroxyurea); specifically prior interferon or JAK2 inhibitors are prohibited
+Any previous Janus kinase 2 gene (JAK2) inhibitor treatment prior to study enrollment, with the exception of ruxolitinib
+Hypersensitivity to Janus kinase (JAK) inhibitor
+Documented progressive disease during or after JAK inhibitor therapy
+MF PATIENTS: Patients must be intermediate I risk or beyond and meet the following:\r\n* In need of treatment\r\n* Intolerant or refractory to ruxolitinib (or other investigational Janus kinase [JAK]-inhibitors) OR unlikely to benefit from ruxolitinib\r\n* Ineligible or refusal to undergo stem cell transplantation
+Any prior or concomitant use of another JAK inhibitor
+Previously received JAK inhibitor therapy for any indication.
+Prior use of a JAK1 or JAK2 inhibitor
+Patients must be resistant to, intolerant of, or ineligible for Janus kinase (JAK)2 inhibitor therapy, or have refused such therapy
+History of prior janus kinase (JAK) or STAT3 inhibitor treatment
+Previous allergic reactions to janus kinase (JAK) inhibitors or excipients
+Prior therapy with ruxolitinib or other JAK inhibitors
+Any chemotherapy (e.g., hydroxyurea), immunomodulatory drug therapy (e.g., thalidomide), immunosuppressive therapy, corticosteroids > 10 mg/day prednisone or equivalent, growth factor treatment (e.g., erythropoietin) or Janus kinase (JAK) inhibitor therapy =< 14 days prior to registration
+Any prior therapy with JAK2-tyrosine kinase inhibitor (TKI), hypomethylating agents, histone deacetylase inhibitor (HDACI), mechanistic target of rapamycin inhibitor (mTORi), or immunomodulatory drugs (iMiDs) is allowed as long as it is greater than 3 weeks since last dose of administration and in the case of a JAK2-TKI or HDACI that discontinuation was not due to non-hematologic drug toxicity; an exception to this criteria are patients currently on at least 10mg BID of ruxolitinib for greater than 3 months and who have not shown an optimal response (i.e. without 50% reduction in palpable splenomegaly or 50% reduction in symptom burden); with a reduction of ruxolitinib to 10mg BID these patients may enter onto the study without stopping ruxolitinib
+MF patients must have received prior JAK2 inhibitor therapy, and been found to be intolerant, or refractory/relapsed from prior JAK2 inhibitor therapy, based on investigator assessment
+Subjects previously treated with anagrelide or JAK inhibitors.
+Prior treatment with a JAK inhibitor for any indication.
+Subjects with any prior exposure to Janus kinase 2 (JAK2) inhibitor therapy (i.e. ruxolitinib or prior pacritinib therapy) are excluded
+Prior treatment with a JAK inhibitor for any indication.
+Prior treatment with more than 2 JAK2 inhibitors or with pacritinib
+There is no maximum cumulative prior JAK2 inhibitor treatment
+Treatment with a Janus kinase (JAK) inhibitor within 21 days of the planned first dose of MMB
+Hypersensitivity to Janus kinase (JAK) inhibitor
+Prior therapy with a janus kinase 2 (JAK2) or fms-related tyrosine kinase 3 (FLT3) inhibitor
+Prior therapy with a JAK inhibitor (other than ruxolitinib for less than 3 months duration and currently on it) or histone deacetylase inhibitor (HDACi); patients that are currently on ruxolitinib for less than 3 months of therapy are eligible
+Patients who have received prior treatment with JAK inhibitor
+Patients must be off myeloproliferative neoplasm (MPN) directed therapy, such as Janus kinase (JAK)-inhibitors, for at least 2 weeks prior to administration of the study drug; NOTE: This does not include supportive transfusion, or hydroxyurea; these must be stopped prior to first day of treatment, but no wash –out period is required
+Patients must be resistant to, intolerant of, or ineligible for JAK2 inhibitor therapy, based on severe anemia or thrombocytopenia
+Prior treatment with more than two Janus kinase 2 (JAK2) inhibitors or with pacritinib
+Moderate or severe cGVHD diagnosed and staged per National Institute of Health (NIH) criteria; responses to Janus kinase (JAK) inhibitors have not been restricted to specific organs, so any organ involvement is eligible
+Hypersensitivity to JAK inhibitors
+Subjects who have previously received JAK inhibitor therapy
+Part B only: Prior treatment with SYK or Janus Kinase (JAK) inhibitors, except MF subjects.
+Prior treatment with a JAK inhibitor or with an investigational agent, device, or procedure within 21 days of enrollment.
+Myeloproliferative neoplasms (MPN): must have < 5% peripheral / marrow blasts\r\n* Note: Prior use of a Janus kinase 2 (JAK2) inhibitor is allowed up to 4 weeks before day 0 of allogeneic hematopoietic cell transplantation (alloHCT)
+Any patient anticipating or scheduled to receive a tyrosine kinase inhibitor, FLT3 inhibitor, or JAK2 inhibitor (outside of this study) post-HCT

@@ -1,0 +1,12 @@
+Patients must provide study specific informed consent prior to study entry, including consent for mandatory tissue submission for EGFR and for oropharyngeal patients, HPV analyses
+700.0
+Patients must provide study specific informed consent prior to study entry, including consent for mandatory tissue submission for central review
+252.0
+Patient must provide study specific informed consent prior to study entry, including consent for mandatory tissue submission for epidermal growth factor receptor (EGFR) analysis and for oropharyngeal cancer patients, human papilloma virus (HPV) analysis
+660.0
+Patient must provide study specific informed consent prior to study entry, including consent for mandatory screening of tissue
+234.0
+Patient must provide study specific informed consent prior to study entry, including the mandatory pre-treatment plasma EBV DNA assay
+924.0
+The patient or a legally authorized representative must provide study-specific informed consent prior to study entry, including consent for mandatory tumor tissue, serum, and blood submission for immune correlatives (all patients) and p16 analysis (oropharyngeal cases only)
+56.0

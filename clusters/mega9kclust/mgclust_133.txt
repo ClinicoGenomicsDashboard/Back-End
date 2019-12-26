@@ -1,0 +1,6 @@
+Cluster 139: infectious interstitial pneumonitis lung non active evidence disease history known 
+Cluster 193: pneumonitis infectious steroids required non known history cohort current participants 
+Cluster 759: pregnancy current known female patient active exclusion patients required test 
+Cluster 822: infectious pneumonitis non evidence active known history patient process steroids 
+Cluster 1852: pneumonitis infectious steroids current required non history active known evidence 
+Cluster 2487: pneumonitis infectious interstitial non lung steroids required history disease evidence 

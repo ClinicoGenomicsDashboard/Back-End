@@ -1,0 +1,54 @@
+Patients must not have experienced a grade 3 or worse immune-related adverse event (irAE) (except asymptomatic nonbullous/nonexfoliative rash) or any unresolved irAE grade 2, nor have experienced a toxicity that led to permanent discontinuation of prior anti-PD-1/PD-L1 immunotherapy
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Patient has had a prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior >= grade 3 immune-related adverse event (irAE) while receiving immunotherapy, or any unresolved irAE > grade 1
+Any history of a prior >= grade 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent
+Patient has had a prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Have had any prior Grade ?3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, have any unresolved irAE Grade >1, or any irAE that led to the permanent discontinuation of prior immunotherapy.
+Experienced an immune-related adverse event (irAE) that led to permanent discontinuation of prior immunotherapy
+Any prior grade ? 3 immune-related adverse event (irAE) while receiving a prior immunotherapy agent, or any unresolved irAE > grade 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Participants with any prior >= grade 3 immune-related adverse event (irAE) which began while receiving immunotherapy
+Participants with any unresolved immune-related adverse event (irAE) at time of study entry\r\n* Note: Subjects with =< grade 2 thyroiditis and/or hypophysitis are an exception to this criterion and may qualify for the study
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior immune-related adverse event (irAE) >= grade 2 while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Patient has had a prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1.
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any unresolved toxicity (> CTCAE grade 2) from previous anti-cancer therapy; any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior grade ? 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved immune related adverse events (irAE) > grade 1
+Must not have had a grade >= 3 immune related adverse event (irAE) on nivolumab monotherapy (excluding endocrine toxicity managed with replacement therapy)
+PHASE I STUDY ELIGIBILITY CRITERIA:\r\nAny prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1; toxicities of prior therapy, excepting alopecia, should be resolved to less than or equal to grade 1 as per National Cancer Institute (NCI)-CTCAE v4.0; patients with greater than 1+ proteinuria at entry are ineligible
+PHASE II STUDY COHORT 1 OVARIAN CANCER ELIGIBILITY CRITERIA (MEDI+O, MEDI+C AND MEDI+O+C):\r\nAny prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1; toxicities of prior therapy, excepting alopecia, should be resolved to less than or equal to grade 1 as per NCI-CTCAE v4.0; patients with greater than 1+ proteinuria at entry are ineligible
+PHASE II STUDY COHORT 5 TRIPLE NEGATIVE BREAST CANCER ELIGIBILITY CRITERIA (MEDI+O ONLY):\r\nAny prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1; toxicities of prior therapy, excepting alopecia, should be resolved to less than or equal to grade 1 as per NCI-CTCAEv4.0
+PHASE II STUDY METASTATIC CASTRATE-RESISTANT PROSTATE CANCER COHORT 4 ELIGIBILITY CRITERIA (MEDI+O ONLY):\r\nAny prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+PHASE II COLORECTAL CANCER COHORT 6 (MEDI+C ONLY):\r\nAny prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1; toxicities of prior therapy, excepting alopecia, should be resolved to less than or equal to grade 1 as per NCI-CTCAEv4.0; patients with greater than 1+ proteinuria at entry are ineligible
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving immunotherapy (including anti-cytotoxic T-lymphocyte antigen 4 [CTLA-4] or anti-cluster of differentiation [CD]137 monoclonal antibody [MAb]) or any unresolved irAE of any grade (controlled irAE endocrinopathies are allowed)
+Must not have experienced an immune-related adverse event (irAE) where the irAE was the reason for permanent discontinuation of prior immunotherapy in the most recent prior treatment regimen
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Has any prior Grade ?3 immune-related adverse event (irAE) while receiving immunotherapy, including anti-CTLA-4 treatment, or any unresolved irAE >Grade 1.
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1 except for endocrine adverse events (AEs) managed with replacement therapy; any other AEs unresolved toxicities grade 2 or more from previous anti-cancer therapy, except alopecia, peripheral neuropathy or non-clinically significant lab abnormalities
+DOSE ESCALATION COHORT: Any prior ? grade 3 immune-related adverse event (irAE) while receiving immunotherapy, including anti-CTLA-4 and anti-PD-1/PD-L1 treatment, or any unresolved irAE > grade 1\r\n* Note: Previous immune-related ocular toxicity of any grade is excluded
+DOSE EXPANSION COHORT: Any prior ? grade 3 immune-related adverse event (irAE) while receiving immunotherapy, including anti-CTLA-4 and anti-PD-1/PD-L1 treatment, or any unresolved irAE > grade 1; Note: previous immune-related ocular toxicity of any grade is excluded
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Patients must not have any prior grade >= 3 immune-related adverse event (irAE) or any unresolved irAE > grade 1
+Patients must not have any prior grade >= 3 immune-related adverse event (irAE) or any unresolved irAE > grade 1 (MEDI4736 RE-TREATMENT)
+Any prior Grade ? 3 immune-related adverse event (irAE) or any prior corticosteroid-refractory irAE
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade1
+Any prior Grade ?3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE >Grade 1
+Any prior Grade ?3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE >Grade 1
+Any prior Grade ? 3 immune-related adverse event (irAE) or any prior corticosteroid-refractory irAE.
+Any prior Grade ? 3 irAE while receiving immunotherapy
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any prior Grade ? 3 immune-related adverse event while receiving immunotherapy
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Any clinically significant Grade ?3 immune-related adverse event (irAE)
+Any grade neurologic or ocular irAE
+For Arms L (pembrolizumab) and M (nivolumab), history of a prior grade 3 or 4 immune-related adverse event (irAE) or any grade ocular irAE from prior immunotherapy

@@ -1,0 +1,38 @@
+Platelets >= 100,000/mm^3, equivalent to CTCAE v 3.0 grade 0-1
+164.0
+Platelets >= 100,000/mm^3
+545.0
+Within 60 days prior to registration on study: Platelets >= 100,000/mm^3
+2580.0
+Platelets >= 100,000/mm^3
+130.0
+Platelets >= 100,000/mm^3
+110.0
+Platelets >= 100,000/mm^3
+52.0
+Platelets: >= 75,000/mm^3 within 90 days before enrollment
+5058.0
+Platelets >= 50,000 /mm^3
+84.0
+Platelets >= 100,000/mm^3
+44.0
+Platelets >= 30,000/mm^3
+NONE
+Platelets > 100,000 mm^3, must be obtained within 8 weeks prior to screening for protocol therapy
+562.0
+Platelets: >= 100,000/mm^3
+56.0
+Platelets >= 100,000/mm^3
+60.0
+Platelets >= 100,000/mm^3
+126.0
+Platelets >= 100,000/mm^3 within 4 weeks prior to randomization
+345.0
+Platelets >= 100,000/mm^3
+36.0
+Platelets >= 100,000/mm^3
+24.0
+Platelets: >= 100,000 / mm^3
+56.0
+Platelets >= 100,000 cell/mm^3
+612.0

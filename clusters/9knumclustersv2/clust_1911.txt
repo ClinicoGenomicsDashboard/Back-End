@@ -1,0 +1,16 @@
+Haemoglobin < g/L
+Haemoglobin >= . g/dL
+Hematology: Haemoglobin ? . g/dl; ANC ? .  /L; Platelet count ?   /L
+Acceptable haematological function defined as (Patients can be transfused to meet the haemoglobin entry criteria):
+Haemoglobin ? g/dL
+Haemoglobin < g/L (< g/dL)
+Haemoglobin ? g/dL;
+Adequate bone marrow function Haemoglobin (Hb) ?g/L and White Cell Count (WCC) ? . x /L and platelets ? x /L
+Haemoglobin ?  g/dL
+Haemoglobin >= g/dL.
+Adequate bone marrow function: Haemoglobin (Hb) ?g/L and White Cell Count (WCC) ? . x /L and platelets ? x /L.
+Haemoglobin ? g/dL
+Haemoglobin (Hb) < g/L
+Haemoglobin ? . g/dL (may have been transfused)
+Haemoglobin . g/dL
+Glycated haemoglobin (HbAc) < %

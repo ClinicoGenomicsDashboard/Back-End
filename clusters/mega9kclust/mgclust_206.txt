@@ -1,0 +1,6 @@
+Cluster 125: asct patients stem relapsed post prior therapy eligible autologous refractory 
+Cluster 143: relapsed refractory disease therapy patients prior line treatment aml cell 
+Cluster 217: myeloma multiple criteria symptomatic standard according diagnosis diagnosed crab damage 
+Cluster 314: myeloma multiple diagnosis relapsed confirmed refractory therapy treatment prior patients 
+Cluster 1083: myeloma imwg working international multiple group criteria diagnosis according diagnostic 
+Cluster 1673: aml secondary therapy relapsed patients prior chemotherapy diagnosis related refractory 

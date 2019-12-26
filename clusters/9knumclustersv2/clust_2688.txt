@@ -1,0 +1,94 @@
+Prior treatment with a MEK inhibitor or ERK inhibitor
+Prior systemic therapy with a MEK inhibitor
+Prior treatment with any RAF inhibitor, MEK inhibitor, cetuximab, panitumumab or other EGFR inhibitors
+Patients with BRAF-positive tumor(s) are eligible for the study if they received prior treatment with a BRAF inhibitor (alone of in combination with a MEK inhibitor) or declined targeted therapy.
+Progressing following PD- based checkpoint inhibitor therapy, with or without ipilimumab; tumors harboring BRAF V alterations must also have received prior therapy with BRAF inhibitors (with or without a MEK inhibitor) (for treatment phase)
+Prior therapy with BRAF/MEK agents within  weeks prior to first day of study treatment (for treatment phase)
+Prior treatment with a MEK, Ras or Raf inhibitor
+Prior therapy is allowed; for patients enrolled in the Phase II portion of the study, patients may have received prior immunotherapy (including high-dose IL-, ipilimumab, nivolumab, and other anti-PD/PDL antibodies) or chemotherapy; however prior navitoclax, BRAF inhibitor and/or MEK inhibitor therapy will not be allowed
+Prior navitoclax, BRAF inhibitor, and MEK inhibitor is prohibited; (exceptions for Phase I are described above)
+For enrollment to the phase II portion: participants who have not received prior BRAF or MEK inhibitor therapy
+Prior treatment with cobimetinib or a MEK inhibitor
+For enrollment to the phase I portion: there is no required washout period for BRAF or MEK inhibitor therapy
+For enrollment to the phase II portion: participants who have received prior BRAF or MEK inhibitor therapy
+The melanoma must harbor an activating BRAF V mutation; prior therapy with a BRAF and/or MEK inhibitor is allowed in the dose-escalation phase only; however, patients who discontinued previous RAF inhibitor due to intolerance of the drug rather than due to progression will not be eligible
+In the dose expansion phase of the trial, prior treatment with a BRAF inhibitor will be an exclusion criterion
+Prior treatment with selumetinib or another specific MEK / inhibitor
+The patients BRAF mutation status at position  must be known prior to enrollment; patients with VE mutations are eligible if they have failed an approved BRAF inhibitor or MEK inhibitor therapy or have been offered an approved BRAF inhibitor or MEK inhibitor therapy and refused
+Treatment-naive and previously treated patients will be included; however, patients may not have received a BRAF or MEK inhibitor in the past  weeks
+Subjects previously treated with BRAF/MEK inhibitor therapy in the past  weeks
+If BRAFV-mutant, refractory disease to at least one BRAF inhibitor and a MEK inhibitor (defined as progression while on treatment), or intolerance to these drugs
+STRATUM B: Previous exposure to a MEK inhibitor (i.e., trametinib, selumetinib)
+Prior therapy with a MEK inhibitor
+For Combination Therapy cohort only: Prior therapy with MEK inhibitors.
+Prior treatment with MEK inhibitor
+Prior MEK inhibitor therapy is allowed
+Previous MEK, retrovirus associated sequence (RAS), or RAF inhibitor use
+Prior treatment with a BRAF inhibitor or a MEK inhibitor; treatment by localized radiotherapy is not an exclusion criterion if an interval of at least two weeks between the end of radiotherapy and initiation of protocol therapy is observed
+Prior treatment with a BRAF inhibitor
+Prior treatment with selumetinib or another specific MEK / inhibitor
+Previous treatment with any MEK inhibitor
+Prior treatment with vemurafenib or other BRAF inhibitor within  days of Study Day  of Period A
+Any prior treatment with either a MEK, Ras, or Raf inhibitor for advanced or metastatic NSCLC.
+No prior treatment with agents targeting BRAF mutant tyrosine kinases or MEK inhibitors or radiation of target lesions
+Prior therapy is allowed; patients may have received any number of prior lines of therapy, including treatment with a BRAF and/or MEK inhibitor
+Prior therapy with a MEK inhibitor
+Part B: Prior treatment with a RAF or MEK pathway inhibitor, except BRAFmutant melanoma (Group )
+Approved BRAF and MEK inhibitors ?  weeks
+Methotrexate or non-BRAF/MEK non-cytotoxic anti-tumor drug ?  weeks
+Prior treatment with  BRAF inhibitor and/or  MEK inhibitor allowed
+No history of prior exposure to a MEK inhibitor
+Past treatment with any MEK or ERK inhibitor or with panitumumab
+Previous MEK, RAS, or RAF inhibitor use
+If BRAFV-mutant, documented refractory disease to at least one BRAF inhibitor (dabrafenib or vemurafenib) and/or a MEK inhibitor (trametinib or cobimetinib), defined as progression of measurable disease as per Response Evaluation Criteria in Solid Tumors (RECIST) criteria while on treatment; subjects with MAPK inhibitor-intolerance are eligible if they meet criteria
+Subjects who are unable to tolerate BRAF inhibitor and/or MEK inhibitor therapy due to grade >=  toxicity (Common Terminology Criteria for Adverse Events [CTCAE] version [v].) from these agents, irrespective of antitumor response, are eligible on condition that: (a) toxicities persisted despite change from doublet to singlet therapy (i.e. from concurrent BRAF inhibition plus MEK inhibition to BRAF inhibition alone), (b) toxicities are attributed to a class effect, and therefore switch from one drug to another is expected to induce the same type of toxicity (e.g. ocular toxicities or cardiac dysfunction from MEK inhibitor), (c) drug-specific toxicities that do not resolve with switch from one BRAF inhibitor to another (i.e. dabrafenib to vemurafenib, or vice versa), will be eligible for enrollment in ; in other words, patients will be allowed to enroll into the NCI study despite lack of progression to MAPK inhibitor treatments, on condition that grade  or higher toxicities attributed to MAPK inhibitors resolve to grade , or less, at the time of study enrollment
+Study participants with a history of prior treatment with BRAF or MEK inhibitors
+Patients who have prior therapy with trametinib or any other MEK inhibitor
+Patients who have had prior therapy with a MEK inhibitor or an inhibitor of mutant BRAF are ineligible; because sorafenib has low efficacy as a BRAF inhibitor, prior therapy with it is allowed
+Previous BRAF inhibitor treatment
+Subjects with B-Raf V (BRAFV) mutated tumors who have received prior BRAF inhibitor therapy either alone or in combination with MEK inhibitor as their only prior systemic therapy are eligible.
+For advanced disease, interleukin- at any dose and/or IFN-? (any formulation, no washout required); MEK and BRAF inhibitors: washout for at least  weeks prior to the start of dosing in this study
+BRAF/MEK inhibitors within  weeks prior to the first dose of study treatment.
+Patients must not have been treated with any of the following prior to Step  Randomization:\r\n* Cetuximab, panitumumab, or any other monoclonal antibody against EGFR or inhibitor of EGFR\r\n* BRAF inhibitor including, but not limited to, vemurafenib or dabrafenib; regorafenib is not considered a BRAF inhibitor for the purpose of determining trial eligibility\r\n* Mitogen-activated protein/extracellular signalregulated kinase (MEK) inhibitor including, but not limited to, trametinib or selumetinib
+If the patient has disease with a BRAF mutation, s/he must have received treatment with appropriate BRAF/MEK inhibitor as single agent therapy or in combination, or be intolerant to, or refuse such treatment.
+Prior BRAF or MEK inhibitor treatment is not required. However, for patients with known BRAF status:
+Prior BRAF or MEK inhibitor therapy
+Prior therapy with a BRAF inhibitor and/or a MEK- inhibitor
+Patients progressing on a prior BRAF inhibitor-based therapy will be eligible, as are patients nave to BRAF inhibitor therapy; resistance to BRAF inhibitor-based therapy will be defined as progressive disease by RECIST . criteria while receiving therapy with a BRAF inhibitor (vemurafenib or dabrafenib, alone or in combination with a mitogen-activated protein kinase [MEK] inhibitor); this may be innate resistance (patients who never achieved a tumor response while on BRAF inhibitor therapy) or acquired resistance (progression after having a tumor response to BRAF inhibitor therapy); there will not be a period of break between progression on the prior BRAF inhibitor-based therapy and the start of dabrafenib, trametinib and GSK
+Patients must have received prior BRAF inhibitor therapy (e.g. dabrafenib, vemurafenib) within  days prior to registration; prior trametinib therapy is permitted; patients are not required to interrupt BRAF or MEK inhibitor therapy prior to the initiation of three agent combination therapy on study
+Patients with prior exposure to BRAF or MEK inhibitors are not eligible
+Prior therapy with a MEK or BRAF inhibitor.
+Group : Patients with MEK mutated cancer
+Prior therapy with a MEK- inhibitor
+Prior treatment with a selective inhibitor of RAF or MEK
+Prior treatment with a BRAF inhibitor (including but not limited to dabrafenib [GSK], vemurafenib, and LX/BMS-) or a MEK inhibitor (including but not limited to trametinib [GSK], AZD, and RDEA); NOTE: there is no limit to the number of other prior therapies, and patients may be previously untreated
+Patients previously treated with potent BRAF inhibitor or MEK inhibitor, including PLX/vemurafenib, ARQ  for more than  days; previous treatment with sorafenib is permitted
+Prior treatment with MEK or BRAF inhibitors
+Any prior use of a BRAF or MEK inhibitor
+Dose Expansion phase: Previous treatment with RAF or MEK inhibitors
+Previous treatment with a BRAF inhibitor (including but not limited to dabrafenib, vemurafenib, LGX, and XL/BMS-) or MEK inhibitor (including but not limited to trametinib, AZD, and RDEA) prior to start of study treatment (Note: Prior treatment with dabrafenib is allowed for crossover subjects in Cohort A);
+Prior MEK inhibitor therapy is allowed
+Patients who have received prior treatment with a MEK inhibitor
+BRAF/MEK inhibitors within  weeks prior to first dose of study treatment.
+Prior systemic treatments with either ipilimumab or a BRAF inhibitor (such as vemurafenib or dabrafenib)
+Prior therapy with a MEK inhibitor
+Previous treatment with selective/specific BRAF or Methyl Ethyl Ketone (MEK) inhibitor (previous treatment with sorafenib is allowed)
+Patients who have had prior VEGF pathway inhibitor, BRAF or MEK inhibitor therapy are ineligible.
+History of prior significant toxicity from another MEK inhibitor or ERK inhibitor requiring discontinuation of treatment
+Prior therapy with a MEK- inhibitor
+Prior treatment with a BRAF inhibitor or MEK inhibitor
+History of prior significant toxicity from another MEK pathway inhibitor or combination of another MEK and epidermal growth factor receptor (EGFR) inhibitor requiring discontinuation of treatment
+Previous treatment with a combination of a MEK inhibitor with an EGFR inhibitor (applies only to the indication specific expansion cohorts in Stage )
+Previous treatment with a BRAF or MEK inhibitor
+Prior treatment with a BRAF inhibitor (including but not limited to dabrafenib, vemurafenib, and XL/BMS-) or a MEK inhibitor (including but not limited to trametinib, AZD, and RDEA) or ipilimumab or any other agent targeting a T-cell immunomodulatory pathway (including, but not limited to CTLA-, PD-, -BB, OX, GITR, CD, and CD)
+Prior therapy with a MEK inhibitor.
+Part B, Part C and Part D only: Previous treatment with dabrafenib or any BRAF inhibitor, trametinib or another MEK inhibitor, or and Extracellular signal-regulated kinase inhibitor (exception: prior treatment with sorafenib is permitted). Patients who have received prior dabrafenib or another BRAF inhibitor may enrol into Part B. Patients who have had prior dabrafenib or BRAF inhibitor therapy may enroll in Part C or Part D if they have had prior benefit to dabrafenib or BRAF inhibitor monotherapy, as determined by the investigator.
+Previous treatment with a BRAF or MEK inhibitor.
+Part A and Part B: Prior exposure to BRAF or MEK inhibitors unless approved by the GSK Medical Monitor.
+Part C: Prior exposure to BRAF or MEK inhibitors. Prior anti-cancer therapy in the metastatic setting, with the exception of up to one regimen of chemotherapy and/or interleukin- (IL-).
+Prior exposure to BRAF or MEK inhibitors
+Prior therapy with a BRAF inhibitor
+Prior treatment with vemurafenib or other BRAF inhibitor within  days of first dose of study drug
+Subjects who have not yet initiated but plan to undergo dosing with a tyrosine kinase inhibitor (TKI) or Raf inhibitor, either alone or with a MEK inhibitor, for treatment of metastatic melanoma, colon cancer, hepatic cell carcinoma, or thyroid cancer
+History of prior significant toxicity from another MEK or ERK inhibitor requiring discontinuation of treatment
+Previous treatment with dabrafenib, trametinib, other RAF inhibitor, other MEK or ERK inhibitor

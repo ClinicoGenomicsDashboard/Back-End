@@ -1,0 +1,124 @@
+Platelets >= 100,000/mm^3, equivalent to CTCAE v 3.0 grade 0-1
+Bilirubin =< 1.5 x ULN (CTCAE v 3.0 grade 1)
+Recovered to ? grade 1 NCI CTCAE version 4.0 from toxicity of prior chemotherapy or biologic therapy administered more than 4 weeks earlier.
+Presence of ? CTCAE grade 2 toxicity (except alopecia, peripheral neuropathy and ototoxicity, which are excluded if ? CTCAE grade 3) due to prior cancer therapy
+Neuropathy, grade 2 or greater by NCI-CTCAE, v 4.0
+Ongoing adverse effects from prior systemic treatment > NCI CTCAE Grade 1 (with the exception of Grade 2 alopecia)
+Ongoing cardiac dysrhythmias of NCI CTCAE v4.03 Grade 2 or prolongation of the QTcF interval to >480 msec.
+Presence of ? CTCAE grade 2 toxicity (except alopecia and ototoxicity, which are excluded if ? CTCAE grade 3) due to prior cancer therapy.
+Ongoing infection > grade 2 NCI-CTCAE v4.0
+Any Grade >1 (according to the NCI CTCAE 4.03) adverse reaction unresolved from previous treatments and not readily managed and controlled with supportive care.
+Grade 2 to 4 peripheral neuropathy (NCI CTCAE v 4.03).
+Any ongoing cardiac dysrhythmias of National Cancer Institute (NCI) CTCAE grade > 2, NCI CTCAE grade 4 atrial fibrillation, or corrected QC interval per Fridericia's formula (QTcF) interval > 470 msec, except for documented right bundle branch block, at screening
+History or presence of clinically significant ventricular or atrial dysrhythmia >Grade 2 per NCI CTCAE v4.0
+Significant recent bleeding history defined as NCI CTCAE grade ?2 within the last 3 months, unless precipitated by an inciting event (e.g., surgery, trauma, injury)
+Any history of CTCAE grade ?2 cardiac dysrhythmias within the last 6 months. Patients with non-QTc CTCAE grade 2 cardiac dysrhythmias may be considered for inclusion, with the approval of the medical monitor, if the dysrhythmias are stable, asymptomatic, and unlikely to affect patient safety.
+Ongoing infection > grade 2 NCI-CTCAE v4.0
+Ongoing infection > grade 2 NCI-CTCAE version (v) 4.0
+Patients cannot have experienced a significant (CTCAE Grade 3 or 4 with or without neutropenia) infection within 2 weeks of their first dose of MT-3724.
+Serum bilirubin less than or equal to 1.5 x ULN (CTCAE v3.0 grade 1)
+Have Grade 3 or 4 peripheral neuropathy per NCI-CTCAE Version 4.0.
+Subject has symptomatic cardiac disorders (CTCAE v. 4.03 Grade 3 and 4)
+Afebrile (<38°C per CTCAE v4.03);
+Patient has not recovered from toxicity from prior immune checkpoint inhibitor therapy. Recovery is defined as ? NCI-CTCAE Grade 1, except for liver function test levels which must be <Grade 1.
+Afebrile (<38°C per CTCAE v4.03);
+(Bevacizumab-related exclusion) Any previous venous thromboembolism > NCI CTCAE grade 3
+serum potassium NCI-CTCAE version 4.03 Grade <2;
+serum calcium NCI-CTCAE version 4.03 Grade <2;
+serum magnesium NCI-CTCAE version 4.03 Grade <2;
+Evidence of peripheral neuropathy > grade 1 by NCI-CTCAE version 4.03;
+Ongoing infection > grade 2 NCI-CTCAE v4.0
+Subjects with baseline symptoms of fever and/or cough and/or shortness of breath and/or wheezing and/or fatigue grade >= 2 (CTCAE version [v]4.0)
+Patients with hypertriglyceridemia defined as >1000 mg/dL (CTCAE Grade 4).
+Otherwise, all toxicity at study entry < Grade 1 by NCI CTCAE v4.00 (Patients with ? Grade 2 neuropathy are eligible).
+Grade 3-4 electrolyte abnormalities (CTCAE v 4.03) except sodium, which must be ?126 mmol/L.
+Serum creatinine =< 1.5 X ULN (CTCAE grade 1 baseline)
+Patients who have active clinically serious infection > CTCAE grade 2 are not eligible
+Serum creatinine =< 1.5 x ULN (CTCAE grade 1 baseline)
+Patients exhibiting baseline grade 3 or 4 by CTCAE criteria are excluded
+Ongoing infection > Grade 2 NCI-CTCAE v 4.03
+Creatinine less than 1.5 x ULN (CTCAE Grade 1)
+Bilirubin less than 1.5 x ULN (CTCAE Grade 1)
+Bilirubin less than or equal to 1.5 x ULN (CTCAE v4 grade 1)
+Cardiac dysrhythmias of NCI CTCAE grade >= 2 within the last 28 days
+Serious uncontrolled infection > grade 2 (CTCAE v4.0)
+Serious uncontrolled infection > grade 2 (CTCAE v4.0)
+At least one clinical symptom probably or definitely attributed to KSHV-MCD\r\n* Intermittent or persistent fever for at least 1 week (> 38 Celsius degree [C])\r\n* Fatigue (Common Terminology Criteria for Adverse Events [CTCAE] grade 2 or greater)\r\n* Gastrointestinal symptoms (includes nausea and anorexia) (CTCAE grade 1 or greater)\r\n* Respiratory symptoms (includes cough and airway hyperreactivity) (CTCAE grade 1 or greater)
+Clinical relevant AEs or laboratory results related to previous anti-neoplastic therapy have not resolved to a NCI-CTCAE grade ?1.
+Presence of neuropathy > Grade 1 (NCI CTC, Version 4.0)
+Presence of neuropathy > Grade 1 (NCI CTC, Version 4.0)
+Subjects with neuropathy grade ?2 based on CTCAE v4.03 at the time of study entry
+Presence of any CTCAE grade 2 or greater toxicity
+Ongoing infection > grade 2 NCI-CTCAE v4.0
+Recovery to baseline or ? Grade 1 CTCAE ver.4.0
+Patients with ataxia >= CTCAE grade 2 are ineligible
+Grade 3-4 electrolyte abnormalities (CTCAE, v. 4):
+Triglycerides < CTCAE grade 2
+Subjects who have an active clinically serious infection of CTCAE grade >= 2
+Bilirubin less than or equal to 1.5 x ULN (CTEP CTCAE version 4.0, grade 1)
+Ongoing acute adverse effects from prior anticancer or investigational therapy > NCI CTCAE Grade 1
+Serum creatinine ? 1.5 X ULN (CTCAE Grade 1 baseline)
+Ongoing clinical adverse events NCI CTCAE Grade >2 resulting from prior cancer therapies
+All prior treatment- related toxicities must be CTCAE (Version 4.0) <=Grade 1 (except alopecia and peripheral neuropathy) at the time of treatment allocation [NCI-CTCAE, 2009].
+Neuropathy >NCI-CTCAE Grade 1.
+Evidence of significant CNS haemorrhage i.e. CTCAE grade 2 or above;
+All AEs resulting from prior chemotherapy, surgery, or radiotherapy, must have resolved to at least NCI-CTCAE (v. 4.03) Grade 1 (except for laboratory parameters outlined below).
+Ongoing infection > grade 2 NCI-CTCAE v 4.0
+Ongoing infection > Grade 2 NCI-CTCAE v4.03.
+Neuropathy, grade 2 or greater by NCI-CTCAE, v. 4.0
+Presence of ? CTCAE grade 2 toxicity (except alopecia, peripheral neuropathy and ototoxicity, which are excluded if ? CTCAE grade 3) due to prior therapy.
+Presence of NCI CTCAE ? grade 2 toxicity (except alopecia, peripheral neuropathy and ototoxicity, which are excluded if ? NCI CTCAE grade 3) due to prior cancer therapy
+Subjects with known Gilbert's syndrome who have serum bilirubin ? 3 x ULN (NCI CTCAE v4.03 Grade 2) may be enrolled.
+Any reversible treatment-related toxicity that has not resolved to NCI CTCAE grade =< 1 except neuropathy
+Ongoing infection > grade 2 NCI-CTCAE v4.0
+? CTCAE Grade 3 anemia, OR
+? CTCAE Grade 3 hematoma (bleed)
+CTCAE v4.0 grade 3 or 4 anorexia or nausea related to metastatic disease.
+Clinically significant bleeding NCI-CTCAE version 4.0 Grade 3 or higher within 30 days before randomization.
+Current NCI CTCAE (Version 4.0) Grade >/= 2 peripheral neuropathy
+Neuropathy, grade 2 or greater by NCI-CTCAE, v. 4.0
+Bilirubin =< 1.5 x ULN, CTCAE grade 1
+Serum albumin greater or equal to 3 g/dl (CTCAE 4.0 grade 1 abnormality is acceptable)
+Serum electrolytes within normal limits (CTCAE 4.0 grade 1 abnormality is acceptable)
+Resolved acute effects of any prior therapy to baseline severity or Grade ?1 NCI CTCAE.
+Any toxicity from prior chemotherapy has resolved or Grade 1 (NCI-CTCAE, Version 4.0)
+Ongoing infection > Grade 2 NCI-CTCAE v4.0.
+Subject has an ongoing toxicity ? Grade 2 (NCI CTCAE Version 4.03) attributable to prior medication to treat solid tumor (except alopecia) at screening.
+Has peripheral neuropathy ? Grade 2 (NCI-CTCAE)
+Active, clinically serious infections of NCI CTCAE v4.0 Grade 2 or higher within 4 weeks prior to Cycle 1, Day 1
+Subject has an ongoing toxicity greater than or equal to grade 3 (NCI CTCAE version 4.03) attributable to prior NSCLC treatment at the time of screening.
+Bilirubin less than or equal to 1.5 x ULN (CTCAE v4.0 grade 1)
+Ongoing infection > grade 2 NCI-CTCAE v4.0
+Signs of peripheral neuropathy (PN) ? NCI CTCAE Grade 2.
+Signs of peripheral neuropathy (PN) ? NCI CTCAE Grade 2.
+Anxiety ? CTCAE grade 3
+Patients with active clinically serious infections defined as >= grade 2 according to NCI CTCAE, version 4.0
+Subjects with valvular heart disease CTCAE (version 4.0) grade 2
+Any peripheral neuropathy ? NCI CTCAE Grade 2.
+? CTCAE Grade 3 anxiety.
+Symptomatic peripheral neuropathy grade ?2 NCI CTCAE v4.0.
+Diarrhoea CTCAE v4.03 Grade ? 2
+Evidence of uncontrolled bradycardia or other cardiac arrhythmia defined as ?Grade 2 according to NCI CTCAE, version 4.0, or uncontrolled hypertension
+History of bronchopulmonary hemorrhage NCI CTCAE >/= Grade 2 within 2 months prior to randomization
+Evidence of CNS hemorrhage CTCAE ? grade 2 on baseline MRI.
+NCI CTCAE (version 4.03) Grade 3 or higher toxicities due to prior therapy that have not shown improvement and are considered to interfere with current study medication
+Active clinically serious infections defined as >= Grade 3 according to NCI CTCAE
+CTCAE Grade 2 or 3 fatigue.
+Any >=Grade 2 hypophosphatemia (per CTCAE v4.0) at the time of enrolment
+Active clinically serious infection > NCI-CTCAE grade 2
+? CTCAE grade 3 anxiety
+Active clinically serious infection > CTCAE v 4.0 grade 2
+Active clinically serious infections > Grade 2 (NCI-CTCAE Version 3.0)
+follicular lymphoma (NCI CTCAE grade 1 or 2)
+Ongoing infection > CTCAE grade 2
+Baseline alopecia (defined CTCAE v4.0 grade > 0)
+Ongoing infection > grade 2 NCI-CTCAE v4.0
+AST > 2.5 x ULN (CTCAE grade 2)
+Bilirubin > 1.5 x ULN (CTCAE grade 2)
+Presence of neuropathy > Grade 1 per NCI CTCAE version 5.0
+Current alopecia grade 2 or greater as per NCI-CTCAE v.4.0, or significant hair loss or hair breakage
+Hepatic toxicity >= grade 2 (using CTCAE version 4 standard definitions)
+Ongoing cardiac dysrhythmias of NCI CTCAE Grade ? 2, uncontrolled atrial fibrillation of any grade, or an average of triplicate QTc interval >470 msec.
+Not recovered from adverse reactions to prior myeloma treatment or procedures (chemotherapy, immunotherapy, radiation therapy) to NCI CTCAE Grade <=1 or baseline.
+Serum lipase ? 2 x ULN i.e. equivalent to ? Grade 2 NCI-CTCAE v.4.03
+For Adjuvant Treatment: All AEs resulting from surgery must have resolved to NCI-CTCAE (v. 4.03) Grade ? 1

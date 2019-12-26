@@ -1,0 +1,57 @@
+Creatinine =< . mg/dL OR creatinine clearance (calculated clearance permitted) >=  mL/min by Cockcroft-Gault formula
+Serum creatinine =< . mg/dL; if serum creatinine is > . mg/dL, calculate creatinine clearance using standard Cockcroft-Gault formula; creatinine clearance must be >=  mL/min to be eligible
+Obtained =<  days prior to registration: Creatinine =< . mg/dl OR creatinine > . mg/dl, estimated creatinine clearance must be >=  mL/minute by Cockcroft Gault formula
+Creatinine ?. mg/dL or calculated creatinine clearance using the Cockcroft-Gault formula ? mL/min or measured creatinine clearance
+Serum creatinine < . mg/dL or calculated creatinine clearance >=  mL/min within  days prior to registration estimated by the Cockcroft-Gault formula
+Serum creatinine =< . mg/dL or estimated creatinine clearance >=  ml/min using Crockcroft-Gault estimation
+Renal function: Estimated creatinine clearance by Cockcroft-Gault formula ?  mL/min and serum creatinine ?  mg/dL
+Patients must have a serum creatinine of less than or equal to . mg/dL or creatinine clearance >  ml/min as calculated by the Cockcroft-Gault formula
+Serum creatinine =<  mg/dL, or calculated creatinine clearance >  mL/min (per the Cockcroft-Gault formula)
+Serum creatinine =< . mg/dL, or calculated (using the formula of Cockcroft and Gault) or measured creatinine clearance >=  mL/min
+Creatinine clearance >  mL/min (or serum creatinine [SCr] =< . mg/dL), normal within  weeks prior to start of treatment; the standard Cockcroft and Gault formula or the measured glomerular filtration rate must be used to calculate creatinine clearance (CrCl) for enrollment or dosing
+Serum creatinine =< . mg/dL and /or calculated creatinine clearance (using Cockcroft-Gault formula) >=  mL/min
+Creatinine =< . mg/dL or creatinine clearance >=  mL/min using Cockcroft-Gault formula, within  days of study registration (within  days for pulmonary and cardiac assessments)
+Creatinine </=. milligrams per deciliter (mg/dL), with creatinine clearance (CrCl) using the Cockcroft-Gault formula >/= milliliters per minute (mL/min) or  mL/min for those who receive lenalidomide
+Serum creatinine < . mg/dl within  days prior to starting the study drug or creatinine clearance rate (CCr) ?  mL/min within  days prior to starting the study drug determined by -hour collection or estimated by Cockcroft-Gault formula: CCr male = [( - age) x (wt in kg)]/[(Serum Cr mg/dl) x ()] CCr female = . x (CrCl male)
+Creatinine < . mg/dL OR creatinine clearance (by Cockcroft Gault formula) >=  mL/min
+Serum creatinine =< . x mg/dL and/or calculated creatinine clearance (using Cockcroft-Gault formula) >=  mL/min
+Serum creatinine less than or equal to . mg/dL; if creatinine is >  mg/dL the creatinine clearance should be >  mL/min as calculated using the Cockcroft-Gault formula
+Creatinine < . mg/dl and/or creatinine clearance >  mL/min using the Cockcroft-Gault formula
+Serum creatinine < . mg/dL and/or calculated creatinine clearance (using Cockcroft-Gault formula) >=  mL/min
+Estimated serum creatinine clearance >=  ml/min (using the Cockcroft-Gault formula) and/or serum creatinine =< . mg/dL; renal function will be calculated using ideal body weight (IBW), unless a patient weighs > % of their IBW, then adjusted body weight will be utilized
+Creatinine =< . mg/dL or creatinine clearance by Cockcroft-Gault formula >=  mL/min
+Serum creatinine =< . mg/dL, or if serum creatinine is > . mg/dL, creatinine clearance must be >=  mL/min (calculate creatinine clearance using the Cockcroft-Gault formula
+Creatinine =< . mg/dl OR creatinine clearance >=  mL/min using the Cockcroft-Gault equation for patients with creatinine levels above . mg/dl
+Serum creatinine < . mg/dL and/or calculated creatinine clearance (using Cockcroft-Gault formula) >=  mL/min
+Serum creatinine level to be <  mg/dl or estimated creatinine clearance (CrCl) must be equal or greater than  mL/min/. m^ as calculated by the Cockcroft-Gault formula
+Serum creatinine of =< . mg/dL; if creatinine > . mg/dL creatinine clearance must be >  mL/min within  days prior to treatment either measured or calculated using a standard Cockcroft and Gault formula
+Serum creatinine > . mg/dL or  ?mol/L or creatinine clearance <  mL/min (using the Cockcroft-Gault formula)
+Creatinine =< . mg/dL; if over . then the calculated creatinine clearance must be >=  ml/min using the Cockcroft-Gault formula, obtained =<  days prior to registration
+Serum creatinine ? . x Upper Limit of Normal or creatinine clearance ?  mL/min (if using the Cockcroft-Gault formula below): Female Creatinine Clearance = [( - age in years) x weight in kg x .] / [ x serum creatinine in mg/dL] Male Creatinine Clearance = [( - age in years) x weight in kg x .] / [ x serum creatinine in mg/dL]
+Serum creatinine ? . mg/dL OR calculated creatinine clearance (crcl) ?  mL/min (if using the Cockcroft-Gault formula)
+Serum creatinine =<  mg/dL. The Cockcroft-Gault formula will be used to calculate creatinine clearance in all subjects.
+Obtained =<  days prior to registration: Creatinine =< . mg/dL or creatinine clearance >=  ml/min using the Cockcroft-Gault formula
+Serum creatinine levels =< . mg/dl and calculated (by Cockcroft-Gault formula) or measured creatinine clearance >=  mL/min, obtained within  days prior to registration for protocol therapy
+Serum creatinine =< . mg/dL OR calculated creatinine clearance (Cockcroft-Gault formula) >=  mL/min
+Blood creatinine =< . mg/dL (if blood creatinine is > . mg/dL, calculate creatinine clearance using standard Cockcroft and Gault method or using a  hour urine collection for creatinine; creatinine clearance must be >  mL/min), within  weeks of the first dose of study treatment
+Serum creatinine =< . mg/dL OR calculated creatinine clearance (Cockcroft-Gault formula) >=  mL/min
+Estimated creatinine clearance of <  mL/min, calculated using the formula of Cockcroft and Gault (-Age)  Mass (kg)/(  creatinine mg/dL); multiply by . if female.
+Renal insufficiency (serum creatinine levels > . mg/dL, calculated creatinine clearance [Crcl] with Cockcroft-Gault formula, <  ml/min)
+Serum creatinine =< . mg/dL; patients with serum creatinine > . mg/dL may be eligible if creatinine clearance (CrCl) >=  mL/min based on the standard Cockcroft and Gault formula
+Serum creatinine =< . mg/dL or calculated creatinine clearance (CrCL) >  mL/min using Cockcroft and Gault formula
+Serum creatinine < . mg/dL or calculated creatinine clearance >=  mL/min within  days prior to registration estimated by the Cockcroft-Gault formula
+Serum creatinine =< . mg/dL or creatinine clearance >  mL/min; use either measured or calculated with Cockcroft-Gault formula
+Creatinine =< . mg/dL or calculated creatinine clearance >=  mL/min per the Cockcroft and Gault formula
+Inadequate renal function defined as measured creatinine clearance less than  mL/min/. m^ based on the Cockcroft-Gault formula (adults) or Schwartz formula (age less than or equal to  years). Adults: estimated creatinine clearance rate (eCCr) (mL/min/) = ( - age) x mass (kg) x (. if female)/ x serum creatinine (mg/dL; Creatinine clearance (mL/min/.m^) = eCCr x ./Body Surface Area (BSA) (m^); Children: eCCr (mL/min/. m^) = k x height (cm) / serum creatinine (mg/dL) k = . (pre-term), . (full term to  year old), . (age - years).
+Serum creatinine =< . mg/dL OR calculated creatinine clearance (Cockcroft-Gault formula) >=  mL/min
+Serum creatinine ? mg/dL or Estimated Creatinine Clearance ? mL/min (Cockcroft-Gault).
+Creatinine =< . mg/dL to receive weekly intravenous cisplatin*; *patients whose serum creatinine is between . and . mg/dL are eligible for cisplatin if the estimated creatinine clearance is >=  ml/min; for the purpose of estimating the creatinine clearance, the formula of Cockcroft and Gault for females should be used
+Serum creatinine < . mg/dL or calculated creatinine clearance >=  ml/min (by Cockcroft-Gault formula) within  days prior to registration
+Serum creatinine =<  mg/dL (or, if creatinine >  mg/dL, then a creatinine clearance of at least  ml/min (measured or estimated by the Cockcroft formula
+Calculated creatinine clearance greater than  mg/dl using the Cockcroft-Gault formula
+Serum creatinine <=. mg/dL (If serum creatinine is >. mg/dL, calculate creatinine clearance using standard Cockcroft and Gault Method Creatinine clearance must be > mL/min)
+Clinical laboratory values should be as follows: WBC < ,/mL Blasts in PB ? ,. Treatment with Hydroxyurea is permitted up to  hrs prior to BL- administration to achieve blast counts < , prior to enrollment. Creatinine < . mg/dL; if Creatinine is >  mg/dL the Creatinine clearance should be >  mL/min as calculated using the Cockcroft-Gault formula.
+Creatinine =< . mg/dL or creatinine clearance >= mL/mon (using Cockcroft-Gault formula)
+Creatinine =< . mg/dl (for patients with > . mg/dl, calculated or measured creatinine clearance must be >=  mL/minute [Cockcroft-Gault])
+Serum creatinine ?. mg/dL, and creatinine clearance ?  ml/min as measured by Cockcroft and Gault formula
+Serum creatinine ? . mg/dL or calculated creatinine clearance ?  mL/min per the Cockcroft and Gault formula

@@ -1,0 +1,281 @@
+All women who undergo breast conserving therapy must receive concomitant radiotherapy; radiation after mastectomy is to be administered according to pre-specified institutional guidelines; radiation must be completed at least  days prior to registration
+Patients must have completed either breast-conserving surgery or total mastectomy, with negative margins and appropriate axillary staging; a negative margin is defined as no evidence of tumor or ductal carcinoma in situ (DCIS) at the line of resection; additional operative procedures may be performed to obtain clear margins\r\n* Patients who had breast-conserving surgery must have completed whole breast radiation; use of regional nodal basin radiation will be at the discretion of the investigator according to institutional guidelines\r\n* Patients with >=  positive lymph nodes must have completed breast/chest wall and nodal basin radiation therapy according to standard of care guidelines before randomization; omission of radiation therapy is not allowed in this high-risk population of patients\r\n* Patients must be registered at least  days after completion of radiation therapy and must have recovered (=< grade ) from any of the effects of radiation
+Prior radiotherapy must in general have been completed >=  weeks prior to randomization and patients must have recovered from the toxicity of the radiation\r\n* NOTE: Patients may receive concurrent radiation therapy to painful sites of bony disease or areas of impending fracture as long as sites of measurable or non-measurable disease outside the radiation therapy port are available to follow
+Patients cannot have had prior chemotherapy or biologic therapy for small cell lung cancer for front line treatment; patients receiving prior whole brain radiation cannot register within  days after completion of radiation, and must have resolved adverse events attributed to radiation to =< grade 
+Patients for whom radiation therapy (RT) to the affected breast or chest wall and regional nodal areas is clinically indicated as per NCCN treatment guidelines, should receive RT after randomization when possible, and receive MK- (pembrolizumab) concurrent with RT, if randomized to the experimental arm; however, RT administered, or initiated, prior to registration is also allowed; pembrolizumab may be added to ongoing radiation, or started after its completion, if randomized to the experimental arm, provided there are no > grade  radiation-related skin toxicities; patients who have not yet started radiation must specify at the time of screening registration whether or not they will receive RT and the extent of intended RT
+Participants may not have had radiation to the lung fields within four weeks ( days) of starting treatment; for patients receiving palliative radiation to thoracic vertebrae, ribs or other sites where the radiation field includes the lungs, radiation must be completed at least two weeks before starting treatment; for all palliative radiation to all other sites, at least  days must have elapsed prior to starting to treatment; at least six months ( days) must have elapsed from radiation given with curative intent
+Patients planning to receive EPP must also be evaluated for appropriateness of radiation therapy (RT) by a radiation oncologist within  days prior to step  registration
+Prior radiation therapy (RT) (any site) with concurrent lapatinib defined as  or more days on which the patient received both radiation therapy and lapatinib on the same day
+At least a  month interval since completion of prior radiation
+Receipt of radiation therapy within  weeks of scheduled CD dosing, unless the radiation comprised a limited field to non-visceral structures (e.g., limb bone metastasis).
+Patients must have histologically confirmed glioblastoma that is progressive or recurrent following radiation therapy and temozolomide according to the Response Assessment in Neuro-Oncology (RANO) criteria with:\r\n* New contrast-enhancing lesion outside of radiation field on decreasing, stable, or increasing doses of corticosteroids\r\n* Increase by >= % in the sum of the products of perpendicular diameters between the postradiotherapy scan with the smallest tumor measurement and a scan at least  weeks from completion of radiation therapy (RT) + temozolomide (TMZ), on stable or increasing doses of corticosteroids\r\n** Note: clinical deterioration not attributable to concurrent medication or comorbid conditions is sufficient to declare progression on current treatment but not for entry onto a clinical trial for recurrence
+Patients with a history of prior cranial radiation are ineligible
+Previous radiation in the current area of disease requiring radiation
+Prior radiation therapy (RT) of greater dose intensity than  Gy based on a biological effective dose (BED) calculation
+Cutaneous, subcutaneous soft tissue, or superficial lymphatic metastasis that is amenable to injection and irradiation and >  mm in longest dimension\r\n* Cutaneous metastasis in a region of previous radiation therapy is amenable to radiation therapy as part of this protocol if at least  months has elapsed since prior radiotherapy and the dose of radiotherapy previously administered did not exceed an equivalent dose of  Gy in  Gy equivalent fractions at the skin surface (using linear-quadratic modeling with alpha/beta = .)
+Must have failed previous radiation treatment or combined treatment with temozolomide and radiation.
+If progression of disease occurs within three months of conformal radiation, it must be outside of the radiation field or proven by biopsy/resection.
+Patient has completed chemo-radiation within the last three months, unless new contrast enhancement is outside of radiation field, or there is tissue proven recurrence or progression.
+Prior therapy:\r\n* There is no limit on the number of prior surgeries, radiation therapy, radiosurgery treatments or systemically administered therapeutic agents\r\n* Patients may have been treated with standard external beam radiation or radiosurgery in any combination, however, an interval of >=  weeks ( days) must have elapsed from the completion of the radiation therapy to start of study therapy unless there is histopathologic confirmation of recurrent tumor or there is new enhancing tumor outside the radiation field (beyond the high dose region or the % isodose line)\r\n** In addition, there must be subsequent evidence of tumor progression after completion of radiation therapy\r\n* An interval of >=  days and full recovery (no ongoing safety issues) from surgical resection (>=  days from stereotactic biopsy)\r\n* For prior systemic agents, participants must be at least  weeks (or  half-lives, whichever is shorter) from other prior cytotoxic chemotherapy ( weeks from nitrosoureas) or biologic therapies
+Participants must have developed progressive disease after receiving prior radiation therapy and must have an interval of at least  weeks from the completion of any radiation therapy to study entry (unless progressive tumor growth is outside the radiation field or there is histopathological confirmation of recurrent tumor)
+Prior radiation therapy is acceptable but there cannot be major overlap of the previously irradiated tissues with the new radiation treatment volumes anticipated to be delivered for the purposes of this protocol, in such a way that curative intent with radiation cannot be met; furthermore, the total dose from all radiation delivered and expected to be delivered should not exceed the suggested dose constraints given for normal structures
+Patients must have least  non-central nervous system (CNS) based lesion; palliative radiation must be potentially indicated for at least one lesion, and this lesion must be a reasonable candidate for radiation to a dose of  Gy in - fractions as deemed by a treating radiation oncologist in terms of the ability to meet standardly accepted radiation dose constraints; any unirradiated lesions must not require urgent palliative local treatment
+Radiation oncology consultation within  days to confirm that disease can be encompassed in the radiotherapy field and that normal tissue constraints can be met
+Prior adjuvant or salvage radiation or not a candidate for radiation based upon clinical assessment of disease characteristics and patient co-morbidities.
+No prior radiation therapy to the region for separate cancer
+Not pregnant per radiation oncology standard procedures
+? days for chemotherapy, targeted small molecule therapy, or radiation therapy. Subjects must also not have had radiation pneumonitis as a result of treatment, and cannot participate in the study if they are on chronic corticosteroids for radiation pneumonitis. A -week washout is permitted for palliative radiation to non-central nervous system (CNS) disease with sponsor approval. Note: Bisphosphonates and denosumab are permitted medications.
+Radiation w/in  wks, or limited field radiation w/in  wks, prior to study drug, or w/unresolved Grade ? side effects
+For patients following definitive radiation therapy or cryotherapy: a rise in PSA of >  ng/mL above the nadir (per Radiation Therapy Oncology Group [RTOG]-American Society of Therapeutic Radiation Oncology [ASTRO] consensus criteria)
+Patients that have been treated with prior mantle field radiation
+Patients with a history of prior cranial radiation are ineligible
+Prior radiation dose of at least  gray (Gy)
+Patients should be >  hours from radiation therapy (RT) treatment to areas of the neuro-axis and all effects of treatment should have resolved
+Has a known contraindication to radiation therapy, including inherited syndromes associated with hypersensitivity to ionizing radiation such as ataxia-telangiectasia and Nijmegen breakage syndrome.
+Prior history of radiation to the mediastinum
+History of prior whole brain radiotherapy (WBRT) other than prophylactic cranial radiation. Prophylactic cranial radiation with a maximum dose of  Gy delivered as  fractions is allowed. WBRT in excess of  Gy (anything over  Gy) is not allowed
+Cohort B\r\n* Rising PSA after RP with:\r\n** Extrapelvic metastases as documented by choline, fluciclovine F (FACBC) or prostate-specific membrane antigen (PSMA) PET which are:\r\n*** Amenable to treatment with a maximum of  radiation isocenters*\r\nAnd/Or\r\n*** Retroperitoneal nodes up to the level of the renal hilum with/without pelvic nodal metastasis\r\n** No evidence of local recurrence on MRI scan of the prostate bed\r\n** Prior salvage radiotherapy is permitted\r\n*Multiple lesions within one isocenter may be permitted upon review by the sponsors radiation oncologist
+Agreeable to consider radiation therapy (RT) for the urothelial cancer: patients have to be evaluated by a radiation oncologist and deemed to be candidates for RT
+History of radiation that would overlap with the intended treatment to the prostate bed
+History of grade >=  radiation proctitis
+Received definitive chemotherapy and radiotherapy prior to recurrence/progression or who are unable to receive radiation therapy due to genetic disorders that put them at significant risk for radiation-induced secondary malignancies (i.e. Gorlins syndrome or NF mutation)
+Patients who have had radiation to the lung fields within four weeks of starting treatment; for patients receiving palliative radiation to thoracic vertebrae, ribs or other sites where the radiation field includes the lungs, radiation must be completed at least two weeks before starting treatment; for all palliative radiation to all other sites, at least  days must have elapsed prior to starting to treatment; at least six months must have elapsed from radiation given with curative intent
+Participants must otherwise be indicated for proton radiation therapy
+Prior radiation to the same site deemed to be too high of level of radiation for retreatment
+Lactation and a radiation field which would include the breast or nipple or deemed to place the mother or child at elevated risk of radiation exposure (evaluated by MRP, ARM, WR, WW)
+Candidate for radiotherapy (as determined by treatment physician); these patients can have symptomatic disease and/or asymptomatic disease; a minimum of one site of radiation is required to any osseous and/or any extra-osseous disease; radiation to any bony parts of the head and neck, skull, spine, ribs, and/or extremities are allowed; radiation to any bony part for documented lytic disease is allowed; radiation to any soft tissue plasmacytoma (including osseous and extra-osseous plasmacytoma) is allowed; the only exclusion criteria for radiation, is central nervous system (CNS) metastases
+Prior history of scalp radiation or intolerance to standard course of radiation treatment
+Participants who have had prior liver directed radiation treatment, including selective internal radiation (SIRspheres or Theraspheres)
+Patients with prior radiation therapy to the same bronchopulmonary segment
+Unable to have TraceIT hydrogel placement <  weeks prior to beginning radiation treatment
+At least  days from prior definitive treatment of their CNS disease by surgical resection, stereotactic body radiation therapy (SBRT) or whole brain radiation treatment (WBRT) at the time of registration
+Clinical target volume (CTV) size must be <  cc, no more than  Gy of prior radiation in  Gy fractions previously administered
+History of symptomatic CTCAEv grade >=  pneumonitis following the initial course of definitive radiation therapy
+Prior history of radiation at the site of interest resulting in a critical neural tissue dose of EQD/ of >  Gy in a single session
+PRE-SCREENING: If prior radiation, measurable lesion outside radiation portal
+An interval of >=  weeks from the end of prior radiation therapy is required unless there is either:\r\n* Histopathologic confirmation of recurrent tumor, or\r\n* New enhancement on MRI outside of the radiation treatment field
+Radiation therapy (XRT) >=  months from involved field radiation to index plexiform neurofibroma(s); >=  weeks must have elapsed if patient has received radiation to areas outside index plexiform neurofibroma(s)
+Craniotomy site must be adequately healed and free of drainage or cellulitis, and the underlying cranioplasty must appear intact at the time of radiation; radiation must start within  weeks of surgery
+Prior history of HNSCC receiving radiation or chemo-radiation.
+Unable to meet radiation treatment plan parameters
+Subjects must have a least one site of disease that is accessible to radiation and multiple biopsies; subjects may have disease that is encompassed within the radiation field or may have known disease both inside and outside of the radiation field
+Prior radiation resulting in overlapping radiation fields
+cSCC that is curable via radiation or surgery; palliative radiation is allowed as long as measurable disease outside radiation field is present for study
+Patients must be assessed to be a suitable candidate for hemithoracic radiation therapy per the treating radiation oncologist; if the patient undergoes pleurectomy/decortication, they must initiate hemithoracic radiation therapy within  months of the surgery date; patients that do not meet the dose constraints outlined below will be removed from the study prior to radiation therapy
+Patients must be assessed to be a suitable candidate for radiation therapy by the treating radiation oncologist; patients that do not meet the dose constraints outlined below will be removed from the study prior to radiation therapy
+Prior radiation therapy allowed as long as completed in the following times prior to initiation of trial treatment:\r\n* Definitive curative intent radiation >=  weeks prior to trial treatment\r\n* Palliative body radiation >=  week prior to trial treatment\r\n* Stereotactic brain radiation >=  week prior to trial treatment\r\n* Whole brain radiation >=  weeks prior to trial treatment
+Radiation oncologist recommends radiation treatment to the supraclavicular and infraclavicular fossa (i.e. RNI)
+History of urological surgery or procedures predisposing to genitourinary (GU) complications after radiation, i.e., anastomoses, stricture repair, transurethral resection, etc. (will be determined by radiation oncologist)
+At least  weeks must have elapsed prior to enrollment since the patient received any prior radiation therapy, and the target cutaneous neurofibromas have to be in areas outside of a prior radiation field
+Prior radiation therapy within the field of the target lesion that in the opinion of the treating radiation oncologist would preclude further palliative radiation to a dose of  gray (Gy)
+Radiation oncology consultation at enrolling site to confirm that disease can be encompassed in a radiotherapy field =<  days prior to registration\r\n* NOTE: Radiotherapy quality assurance rapid review must be performed before the first fraction of radiation therapy (RT) is administered; if RT constraints cannot be met, the patient will be removed from the protocol prior to treatment
+Prior whole brain radiation or conventional radiation to the spine at the site of new lesion
+Have at least one site of metastatic disease amenable to radiation; all lesions amenable to radiation may be irradiated at the discretion of treating radiation oncologist, depending on the location, size and number of lesions
+We will allow prior radiation to other sites, with no washout period, prior to study entry as long as the high dose regions of the prior and proposed radiation fields do not overlap
+Has had prior radiation therapy within the past  months where the high dose area of the prior radiation would overlap with the high dose area of the intended radiation based on the judgment of the treating radiation oncologist
+Prior standard radiation therapy to a dose ranging from  to  Gy at . to  Gy per fraction
+Patient must have received one and only one previous course of radiation to the brain, delivered at . - . Gy/fraction, one fraction per day
+We will allow prior radiation to other sites, with no washout period, prior to study entry as long as the high dose regions of the prior and proposed radiation fields do not overlap; in patients where the prior high dose area would overlap with the high dose area of the intended radiation, a  month washout period will be required; the safety of such treatment will be at discretion of the treating radiation oncologist
+Prior central nervous system (CNS) radiation is allowed as long as cumulative radiation doses do not exceed tolerance of critical structures as judged by the treating radiation oncologist
+History of prior mediastinal radiation
+Prior radiation is allowed prior to study start (st dose of study medication) if at least  days must have elapsed since prior large-field radiation therapy and recovered from all treatment related toxicity; at least  months must have passed since radio-immunotherapy
+Evidence of potential delivery of\r\n* Greater than  Gy absorbed dose of radiation to the lungs during a single Y resin microsphere administration? or\r\n* Cumulative delivery of radiation to the lungs >  Gy over multiple treatments
+Previous therapeutic radiation therapy (RT) that exceeds critical structure tolerance doses as determined by a radiation oncologist
+Prior radiation to the index spine
+Patients receiving intraoperative radiation therapy (IORT)
+Prior radiation therapy to the same regional nodal basin
+Patients with a history of prior radiation to the orbit if re-treatment would exceed known orbital tolerance
+Use of systemic chemotherapy and/or radiation therapy after first registration; palliative radiation therapy is permitted for irradiating small areas of painful bony metastases that cannot be managed adequately using systemic or local analgesics
+Prior radiation to > % of the red marrow or to maximal tolerable level for any organ
+Patients should have histologically confirmed chordoma by the Laboratory of Pathology, National Cancer Institute (NCI), which is advanced and not considered resectable; if the original tissue cannot be retrieved, diagnostic documentation at an outside institution will be acceptable; they must have planned radiation therapy to at least one targeted lesion with evidence of growth prior to enrollment; the tentative radiation plan at enrollment must be in compliance with the required radiation doses; this can be given in standard or hypofractionated dosing with any technique deemed most appropriate by the treating radiation oncologist if other requirements are met
+Patients must have fully recovered from prior surgery before enrollment; prior radiation therapy is allowed provided the radiation field can safely be irradiated within the guidelines in the opinion of the treating radiation oncologist
+Radiation therapy (RT): patients must have had their last fraction of cranial or craniospinal radiation >=  months prior to study entry
+Prior abdominal radiation; any prior radiation must be approved by the radiation oncology principal investigator (PI)
+History of previous radiation therapy which would result in overlapping radiation fields
+If post-transplant consolidation radiation therapy is given, the patient must be at least  days between last radiation treatment and st dose of rituximab
+Interval from start of initial radiation therapy to enrollment >  months
+Prior radiation to liver in form of total body or involved field
+Evidence of potential delivery of greater than . mCi ( Gy absorbed dose) of radiation to the lungs in a single treatment
+Patients who will receive radiation therapy as their primary treatment after surgery
+Patients may have received previous radiation therapy, but it must have been completed at least  days prior to enrollment and the patient should have recovered from all associated toxicities. Measurable or non-measurable disease must be present outside the previous radiation field or a new lesion inside the radiation port must be present.
+If prior therapy with gamma knife or other focal high-dose radiation, must have subsequent histologic documentation of local relapse, or relapse with new lesion outside the irradiated field
+Able to cooperate with radiation safety restrictions during therapy period
+No prior radiation to the mediastinal structures
+Prior therapeutic radiation to target tissues for protocol radiation
+Nutritional and general physical condition must be considered compatible with the proposed radiation +/- chemotherapy treatment
+Patients must be at least  months from completion of radiation therapy (to be consistent with the \rechallenge\ group from Perry et al. Journal of Clinical Oncology [JCO]  where the median time from completion of adjuvant radiation therapy to the time of progression was . months)
+Prior radiation to the index breast
+Evidence of potential delivery of greater than . mCi ( Gy absorbed dose) of radiation to the lungs in a single treatment
+Able to cooperate with radiation safety restrictions during therapy period
+Documentation that either: ) the patients medical insurance company has certified that they will pay for the cost of radiation therapy treatments, or ) a letter from the patient indicating that they explicitly understand the costs of radiation therapy and that the sponsor (Principal Investigator) of this study will not be held responsible for these costs
+Unacceptable radiation therapy quality assurance parameters
+Patients with a breast technically unsatisfactory for radiation therapy
+Patients with tylectomies so extensive that the cosmetic result is low or poor prior to radiation
+Prior radiation therapy with c gray (Gy) or more of TBI
+Evidence of potential delivery of greater than . mCi ( Gy absorbed dose) of radiation to the lungs on either: ) first TheraSphere administration; or ) cumulative delivery of radiation to the lungs over multiple treatments
+Evidence of potential delivery of greater than . mCi ( Gy absorbed dose) of radiation to the lungs on either: ) first TheraSphere administration; or ) cumulative delivery of radiation to the lungs over multiple treatments
+Prior radiation therapy that prevents further TBI
+Prior treatment with the following agents: a) Tumor necrosis factor receptor (TNFR) agonists, including OX, cluster of differentiation (CD), CD (-BB), CD (glucocorticoid-induced TNFR family-related gene) at any time. b) TLR agonist at any time. c) Anticancer therapy or investigational therapy within  days or  half-lives of the drug, whichever is shorter. d) Prior radiation therapy: permissible if at least  non-irradiated measurable lesion is available for assessment according to RECIST version . or if a solitary measurable lesion was irradiated, objective progression is documented. A wash out of at least  days before start of study treatment for radiation of any intended use to the extremities for bone metastases and  days for radiation to the chest, brain, or visceral organs is required.
+Tooth extraction prior to radiation
+Previous inclusion in a research protocol involving nuclear medicine, positron emission tomography (PET) or radiological investigations with significant radiation burden (a significant radiation burden being defined as  mSv in addition to natural background radiation, in the previous  years). Exclusion Criteria for Group  Has any of the following:
+A minimum of  weeks prior to start of vorinostat is required following prior large field radiation therapy (i.e., craniospinal, whole abdominal, total lung, > % marrow space)
+Therapeutic radiation within  weeks of cycle  day ; exceptions are palliative radiation and/or stereotactic radiation to non-target lesions
+A maximum of one prior radiotherapy regimen, curative or palliative, to the head and neck is allowed; if the radiation is combined with chemotherapy and/or cetuximab, a minimum of  months must elapse between the end of radiotherapy and registration; if the radiation is given alone, a minimum of  weeks must elapse between the end of radiotherapy and registration; a minimum of  weeks must elapse between prior radiation to other areas and registration; treatment areas should be healed with no sequelae from radiation therapy (RT) that would predispose to fistula formation
+Prior radiation which overlaps and precludes hypofractionated treatment to the index lesion
+All sites of disease must be targetable with intensity-modulated radiation therapy (IMRT) with acceptable morbidity and without exceeding normal tissue dose constraints as assessed by a radiation oncologist
+Clinically safe to delay radiation for at least  weeks
+An interval of at least  weeks from the completion of radiation therapy to start of study drug unless there is a new area of enhancement consistent with recurrent tumor outside the radiation field (defined as the region outside the high-dose region or % isodose line) or there is unequivocal histologic confirmation of tumor progression
+Extensive prior therapy including >  months alkylator therapy or >  months alkylator therapy with extensive radiation as per the assessment of the radiation oncologist
+An interval of at least  months after the end of prior radiation therapy is required unless there is a new recurrence outside of the previous radiotherapy treatment field
+Patients who received prior neo-adjuvant, adjuvant chemotherapy or chemo-radiation or radiation with curative intent for non-metastatic NSCLC must have experienced a treatment-free interval of at least  months from signing the informed consent since the last chemotherapy or chemo-radiation or radiation treatment/cycle
+No prior intracranial radiation
+Radiation: \r\n* Patients must not have received radiation (small port) for a minimum of two weeks prior to protocol therapy\r\n* Except for patients with a history of progressive disease, patients whose only site(s) of disease have been radiated are eligible if at least one lesion meets at least one of the criteria listed in sites of disease above\r\n* A minimum of  weeks prior to start of protocol therapy is required following large field radiation therapy (i.e. total body irradiation, craniospinal, whole abdominal, total lung, > % marrow space)\r\n* A minimum of  weeks must have elapsed prior to start of protocol therapy for other substantial bone marrow radiation
+Prior brain surgery or radiation is allowed as long as the metastatic lesion(s) to be targeted in this study has not previously been treated with radiation
+Must have a skin lesion of at minimum  cm, in a location amenable to radiation and a minimum of  additional measurable skin lesions distant from the radiation site
+Prior radiation therapy, brachytherapy, or cryotherapy
+Prior radiation therapy (RT) >  Gray (Gy) to a critical organ within  year of enrollment
+Patients may have received prior radiation presuming >  weeks since last dose and measurable disease outside the radiation field
+Patients cannot have had prior chemotherapy or biologic therapy for SCLC or large cell neuroendocrine NSCLC, or small cell carcinoma of unknown primary or extrapulmonary origin; patients receiving prior radiation cannot register within  days after completion of radiation, and must have resolved adverse events attributed to radiation to =< grade ; no previous irradiation to the only site of measurable or evaluable disease, unless that site had subsequent evidence of progression
+Patients receiving prior radiation cannot register within  days after completion of radiation, and must have resolved adverse events attributed to radiation to =< grade ; no previous irradiation to the only site of measurable or evaluable disease, unless that site had subsequent evidence of progression
+PHASE II: Patients cannot have had prior chemotherapy or biologic therapy for small cell lung cancer; patients receiving prior radiation cannot register within  days after completion of radiation, and must have resolved adverse events attributed to radiation to =< grade ; no previous irradiation to the only site of measurable or evaluable disease, unless that site had subsequent evidence of progression
+Previous radiotherapy for palliation of recurrent disease is allowed if >  weeks have elapsed since completion of therapy; if radiation therapy was received exclusively for bony metastases the minimum interval between completion of radiation treatments and the first infusion of study drug is  days
+Prior radiation is allowed if the index lesion(s) remains outside of the treatment field or has progressed since prior treatment. Radiation therapy must have been completed at least  weeks prior to the baseline scan
+Other allowed prior treatment for mHSPC: a) Maximum of  course of radiation or surgical intervention; radiation therapy for metastatic lesions must be completed prior to randomization; b) Less than or equal to (<=)  months of ADT prior to randomization
+Prior treatment:\r\n* Must have completed standard radiotherapy and concomitant TMZ therapy as defined and determined by the study oncologist\r\n* Besides concomitant TMZ with radiation, no other therapy (neo-adjuvant or adjuvant) can be given prior to study registration, including chemotherapy (also including Gliadel/carmustine [BCNU] wafers), biologics, immunotherapy, radiation therapy; the only exception is the Optune device (NovoTTF-A), which may be started any time after end of radiation therapy up through the initiation of Cycle ; intent to use Optune must be declared at registration for stratification\r\n* No prior allogeneic bone marrow transplant or double umbilical cord blood transplantation
+Radiation therapy to lung > Gy within  months of first dose of study medication
+Patients who have operable disease with curable intent, and/or are candidates for radiation therapy for local control
+Timing of Radiation - radiation therapy must begin no later than  days after the date of radiographic diagnosis or definitive surgery, whichever is the later date.
+Previous definitive chemotherapy (chemo)-radiation is permitted for early stage tumors (cisplatin-based chemo-radiation is permitted but only if tumor progression/relapse occurs after  months from treatment completion)
+An interval of at least  months after the end of prior radiation therapy is required unless there is a new recurrence outside of the previous radiotherapy treatment field
+The patient must have completed chemoradiation (all cohorts) within standards of care established by prior Radiation Therapy Oncology Group (RTOG)/Network Radiotherapy Group (NRG) Oncology studies as follows:\r\n* Radiation therapy\r\n** Modality: either -dimensional (D) or intensity-modulated radiation therapy (IMRT), or proton therapy is allowed\r\n** Time to initiation: radiotherapy must be initiated within or equal to  days after surgery\r\n** Target volumes: target volume definition will be based upon postoperative-enhanced MRI; preoperative imaging should be used for correlation and improved identification, as necessary\r\n** Dose guidelines: the initial target volume will be treated to  Gray (Gy) in  fractions; after  Gy, the cone-down or boost volume will be treated to a total of  Gy, with seven additional fractions of  Gy each ( Gy boost dose)\r\n* Temozolomide during concomitant radiation therapy\r\n** Temozolomide must have been administered continuously from day  of radiotherapy to the last day of radiation (+/-  days to take into consideration holidays) at a daily oral dose of  mg/m^ for a maximum of  days (except missed doses due to toxicity)
+Patient must have consulted with a radiation oncologist who is planning radiation; radiation should be completed within a -week window from start to finish
+History of urological surgery or procedures predisposing to genitourinary (GU) complications after radiation (will be determined by radiation oncologist)
+Prior radiation therapy (RT) that precludes the delivery of SBRT
+Prior radiation therapy (RT) >  gray (Gy) to a critical organ within  year of enrollment
+History of urological surgery or procedures predisposing to genitourinary (GU) complications after radiation, i.e., anastomoses, stricture repair, etc. (will be determined by radiation oncologist)
+Prior radiation to maximally tolerated levels to any critical normal organ, or >  Gy prior radiation to large areas of the bone marrow (e.g., external radiation therapy to whole pelvis)
+No prior therapy for MCL, except: <  weeks of steroid therapy for symptom control or local radiation therapy for symptom control if there is measurable disease outside the radiation portal; patients may be on chronic steroids for non-malignant disease if on a stable dose equivalent to =<  mg prednisone per day
+Physician recommendation of mucosal radiation
+Have received prior radiation to maximally tolerated levels to any critical normal organ
+Has had prior radiation for other diagnoses to the expected treatment field
+Greater than  weeks from radiotherapy, to minimize the potential for MRI changes related to radiation necrosis that might be misdiagnosed as pseudoprogression of disease, unless the recurrence is a new lesion, outside the primary radiation field or the patient fulfills criteria for early progressive disease by RANO ((Wen et al., ); Appendix C).
+Prior radiation or surgery is allowed, but should be finished at least  weeks prior to study enrollment; if a participant has prior radiation therapy, at least one measurable lesion outside of the radiation field should be available for the evaluation of response to chemotherapy
+Prior radiation to any of the field required to treat the tumor
+An interval of at least  weeks from the completion of radiation therapy to start of study drug unless there is a new area of enhancement consistent with recurrent tumor outside the radiation field or there is unequivocal histologic confirmation of tumor progression
+No radiation within  weeks of mobilization attempt
+Tumor progression or recurrence within  months of last dose of platinum therapy in the adjuvant (ie with radiation after surgery), primary (ie, with radiation), recurrent, or metastatic setting
+Progressive disease if treated with chemotherapy, radiotherapy, surgery or immuno-therapy. If prior radiation was given, the measurable disease should be outside the radiation port.
+Radiation therapy (XRT): >=  months from involved field radiation to index plexiform neurofibroma(s); >=  weeks must have elapsed if subject has received radiation to areas outside index plexiform neurofibroma(s); subjects who have received radiation to the orbit at any time are excluded
+For radiation required prior to surgery, the participant must register within  days of surgery. Also, participants in this situation would not be required to have additional post-mastectomy radiation therapy.
+Prior radiation therapy precluding SBRT
+No prior chemotherapy or radiation therapy; emergent radiotherapy to preserve vital organ function is permitted; participants who receive emergent radiation will not be eligible for window therapy
+Patients must be greater than  weeks following completion of chemoradiation or any additional radiation to reduce the chance of pseudoprogression
+No prior radiation above the clavicles
+Patients who have undergone partial breast radiation (duration =<  days) prior to registration are eligible; partial breast radiation must be completed prior to  weeks before starting protocol therapy; patients who have undergone whole breast radiation are not eligible
+Prior treatment with embolization (including bland embolization, chemoembolization, and selective internal radiation therapy) or ablative therapies is allowed if measurable disease remains outside of the treated area or there is documented disease progression in a treated site; there is no limit on the prior number of procedures; prior liver-directed or other ablative treatment must be completed at least  weeks prior to registration; index lesions for the purpose of RECIST . measurements will not be selected from within the radiation therapy treatment field; however, if there is evidence of disease progression within the radiation treatment field, measurement of the progressing lesions will be documented
+Recipients of prior abdominal radiation therapy (focal splenic radiation is acceptable)
+Prior history of standard dose CNS radiation of  Gy in  fractions or . Gy in . Gy fractions, or equivalent or lower doses\r\n* Patients who have received prior treatment with non-standard radiation therapy (RT) dose and fractionation, interstitial brachytherapy, stereotactic radiosurgery, etc. are eligible as long as the criterion is met or approved by a principal investigator
+Currently receiving cancer therapy (chemotherapy, radiotherapy, immunotherapy, or biologic therapy) NOTE: palliative radiation therapy is permitted for non-target lesions that are either new or present at baseline provided total dose does not exceed  grays (Gy); however, radiation skin injury has been reported with concurrent use of dabrafenib and radiation
+STEP  ENROLLMENT AND RANDOMIZATION: concurrent chemoradiation is permitted as consolidative therapy; the following concurrent therapies are permitted: tyrosine kinase inhibitors (i.e. erlotinib) - can be delivered with both hypofractionated (>=  Gray [Gy] per fraction) and standard fractionated radiation therapy (<  Gy per fraction); platinum-based chemotherapy - standard fractionated radiation therapy (<  Gy per fraction)
+Any prior radiation for rectal cancer
+Prior radiation to the esophagus
+Prior mediastinal radiation
+Previous radiation treatment that includes the liver in the main radiation field
+Previous therapeutic radiation therapy (XRT) to the liver as part of involved-field radiation
+Information on previous radiation treatment, including total dose and fractionation must be available; additional information including radiation fields and dose-volume-histogram or isodose lines is preferable
+Prior radiation of greater than  Gy to > % of brainstem
+Patients who experience surgical complications which prevent radiation from starting for  months or more
+History of urological surgery or procedures predisposing to genitourinary (GU) complications after radiation (will be determined by radiation oncologist)
+DIPG patients only (enrollment plan  and )\r\n* Diagnosis of diffuse intrinsic pontine glioma (DIPG) by magnetic resonance imaging (MRI); biopsy will not be required for study enrollment\r\n* Completion of standard radiation therapy (not to exceed  centigray [cGy]) with a post radiation therapy (RT) MRI that shows no disease progression when compared with pre-RT MRI; all patients must be treated with intensity modulated radiation therapy (IMRT) or an equivalent conformal technique; the clinical target volume will be defined as the gross tumor volume (full extent of tumor visible on MRI) plus  cm margin; patients from an outside institution who are referred after the start of radiation therapy may complete initial radiation therapy at their home institution as long as dosage guidelines are met and the total dose does not exceed  cGy at the time of study registration\r\n* Able to begin vaccination  weeks (+/-  week) of completion of standard radiation therapy\r\n* Age  months and older
+In order to prevent registering patients with pseudo progression rather than true disease progression, patients must not have received any form of cranial radiation within  weeks of study entry; NOTE: patients who have received cranial radiation within  weeks of study entry will be allowed to register to trial only if either progressive disease is confirmed via biopsy or there is a new area of enhancement consistent with recurrent tumor outside the radiation field (defined as the region outside the high-dose region or % isodose line)
+Patients with no prior treatment with intracranial radiation therapy (ICR) may be included unless ICR is emergently indicated (in consultation with a local therapist, i.e. neurosurgeon or radiation oncologist)
+Prior radiation to maximally tolerated levels to any critical normal organ, or >  Gy prior radiation to large areas of the bone marrow (e.g., external radiation therapy to whole pelvis)
+Patients must be judged to be candidates for complete resection with free margins followed by radiation therapy (if radiation therapy is indicated)
+If radiation was previously received, the measurable disease must be outside the previous radiation field, unless this area has demonstrated evidence of radiographic growth
+A history of radiation pneumonitis in the radiation field (fibrosis) is permitted provided that symptoms have resolved
+Prior radiation therapy in excess of  Gy to the site of the current diagnosis of sarcoma. No overlap with prior radiation fields in excess of  Gy is allowed.
+Interval of at least  weeks from prior radiotherapy unless there is either: a) histopathologic confirmation of recurrent tumor, or b) new enhancement on MRI outside of the radiation treatment (RT) field
+No previous radiation treatment to the head (unless the ports for that radiation entirely excluded the brain) for any condition
+Prior radiation to maximally tolerated levels to any critical normal organ
+Patients who have already received >  gray (Gy) to the craniospinal radiation or >  Gy focal brain radiation
+Never received radiation therapy at index level(s) (following consult with radiation oncologist re: conventional treatment options) OR Received radiation therapy without adequate relief from metastatic bone pain as determined by the patient and treating physician, their treating physician would not prescribe additional radiation treatments, or refuse additional radiation therapy,
+History of radiation pneumonitis in the radiation field (fibrosis) is permitted.
+The time interval between CNS radiation, whole brain radiation, spinal cord radiation, or radiosurgery, and initiation of protocol specified chemotherapy must be at least  week
+Previous radiation allowed provided that  weeks has passed since radiation and/or the patient has recovered from the side effects
+Pts who have received prior mantle or extensive mediastinal radiation
+Patients must be clinically suitable for radiation therapy
+Patients who have undergone prior ablation treatment or radiation therapy of the index tumor
+Prior radiation treatment to the HN region
+Patients must have received prior chest radiation at least  months prior to enrollment in this trial; radiation treatment to other body sites not overlapping with current radiation fields are allowed within the  months period (example, brain radiation is allowed)
+Patients must be able to receive proton radiation treatment
+Receipt of radiation therapy within  weeks of scheduled dosing day , unless the radiation comprised a limited field to non-visceral structures (eg, a limb bone metastasis).
+Prior radiation therapy to the upper abdomen or liver at the discretion of the treating radiation oncologist could impair delivery of the prescribed radiation treatment
+Radiation is integral to the primary treatment of glioma; all participants on this study must have had prior radiation to the brain; radiation must have been completed  days prior to first study treatment
+At least  weeks from prior radiotherapy to the start of SL- unless there is new enhancement outside of the radiation field or unequivocal histopathologic evidence of recurrent tumor.
+Radiation therapy, local therapy (except for surgical re-resection), or systemic therapy following first recurrence/progressive disease. Excluded local therapies include stereotactic radiation boost, implantation of carmustine biodegradable wafers (Gliadel), intratumoral or convection-enhanced delivery administered agents, etc.
+Patients receiving palliative radiation to skeletal metastases may be registered as early as  week after completion of radiation therapy provided toxicities are =< CTC grade I at the time of registration
+Prior primary or salvage radiation or not a candidate for salvage radiation due to patient preference or clinical assessment based upon disease characteristics and/or patient co-morbidities
+Patients must have received prior external beam radiation therapy to the region proposed for HDR brachytherapy treatment; evaluation of doses previously delivered to spinal cord/cauda equina, pelvis, and other critical structures (bowel, kidneys, rectum) will be taken into consideration\r\n* If repeat irradiation would exceed any normal tissue constraint set by Memorial Sloan Kettering Cancer Center (MSKCC) Radiation Oncology Department dose constraint criteria, the patient will potentially be eligible\r\n* If the total prior radiation dose to the cord or pelvis exceeds  Gy biological equivalent dose (BED) equivalent, the patient will be potentially eligible, where a total of  BED Gy equivalent is determined by the biological equivalent dose (BED) calculation
+Unlimited prior treatment with radiation or chemoradiotherapy
+If GBM, greater than or equal to  weeks from radiotherapy, or  weeks if a new lesion, relative to the pre-radiation MRI, develops that is outside the primary radiation field.
+Prior radiation or surgery is allowed, but should be finished at least  weeks prior to study enrollment; if a participant has prior radiation therapy, at least one measurable lesion outside of the radiation field should be available for the evaluation of response to chemotherapy
+Patients must not receive concomitant radiation with chemotherapy if they do not have any measurable lesions outside of the radiation field
+Prior radiation for NHL, except for a single course of locally delimited radiation therapy with a radiation field not exceeding  adjacent lymph node regions
+Radiation therapy involving chest (axilla excluded), mediastinum, or abdomen (i.e., small or large bowel) completed within  weeks of transplant admission; radiation therapy shortly before the start of the preparative regimen is allowed
+Has completed pre-RE angiogram up to  weeks prior to Y- therapy\r\n* Lung shunt fraction =< % and anatomy amenable to intra-arterial radiation delivery\r\n* Extrahepatic vessels deemed at risk for radiation injury were successfully embolized
+Prior selective internal radiation to the liver
+Prior radiation of cholangiocarcinoma or gallbladder carcinoma; NOTE: adjuvant radiation therapy is allowed if completed >  months prior to the start of registration
+Prior dose of radiation overlapping the treatment field determined by a study Radiation Oncologist to represent unacceptable risk for additional radiation to be targeted to the field
+Men who have undergone radiation therapy alone will be excluded
+Prior mediastinal or mantle radiation >=  years prior to enrollment in the study
+those for whom their treating physician would not prescribe radiation or additional radiation treatments
+Prior radiation is permitted, provided it does not limit the ability to deliver per-protocol radiation in the opinion of the treating radiation oncologist
+Minimum interval since completion of radiation treatment at the time of registration is  days.
+Initiating focal cranial radiation therapy (photon or proton)
+With prostatic cancer at least  months after the end of their radiation therapy
+Radiation plan consisting of regional nodal radiation
+Patients who require immobilization with a thermoplastic mask for radiation treatment
+Patients receiving radiation therapy with chemo?sensitization
+The involved bone(s) is/are orthopedically stable and not in need of stabilization via either definitive radiation therapy (RT), surgical intervention, or both
+Patients whose physician-approved radiation treatment plan indicates a maximum prescription dose of less than  Gy
+Patients anticipated to receive radiation therapy with protons
+Radiation protocol of -dimensional conformal radiation therapy (D-CRT)/intensity-modulated radiation therapy (IMRT)/image-guided radiation therapy (IGRT)/stereotactic/proton/electron/accelerated fractionation/hyperfractionation/hypofractionation
+Patients must have CD =<  cells/mm^ in the last week ( days) of standard radiation + temozolomide treatment (- Gy radiation with temozolomide  mg/m daily during radiation)
+Prior radiation to the index spine
+Neurologic deterioration (long tract signs, cranial nerve signs or ataxia) consistent with radiation necrosis or radiation induced injury
+Must be referred to radiation oncology clinic
+Patients suffering from dysphonia after radiation therapy for glottic carcinoma will be included in the study
+Patient is not eligible if radiation was given to the only site of measurable disease unless there has been subsequent disease progression at that site, or a biopsy of that site showed viable tumor at least  weeks after radiation was completed. Patients must not have received small field (focal) radiation for a minimum of  weeks prior to study entry. A minimum of  weeks is required following prior large field radiation therapy (i.e. TBI, craniospinal therapy, whole abdomen, total lung, > % marrow space)
+Immediate reconstruction with tissue expander (Group ) or permanent implant (Group ) prior to radiation therapy (RT) performed at MSKCC
+For the esophagitis arm, any patient with thoracic malignancies, which will receive radiation alone or concurrent chemo/radiation; radiation dose must be >=  Gy; for the esophagitis arm, induction chemotherapy is allowed
+Patients must not have had previous radiation therapy to the mediastinum or lungs
+Undergoing definitive treatment with either radiation alone or in combination with systemic therapy
+Have a plan to receive a continuous course of conventional external beam irradiation delivered by intensity-modulated radiotherapy (IMRT) as single daily fractions of . Gy to . Gy with a cumulative radiation dose ? Gy and ? Gy. Planned radiation treatment fields must include at least two oral sites (buccal mucosa, floor of mouth, ventral/lateral tongue, soft palate). [Note: the independent RTQA consultant must confirm that the planned radiation treatment meets the protocol criteria]
+Telangiectasias in the radiation field of the treated breast
+Radiation to both breasts
+Women who have had radiation to both breasts
+Women who have had radiation to both breasts
+Prophylactic medication for the prevention of nausea and vomiting  hours prior to the start of radiation therapy through the full course of radiation therapy is prohibited, with the exception of the study drug; corticosteroids will be allowed for treatment of cerebral swelling
+Clinical treatment plan calls for a minimum of  Gy cumulative radiation dose administered via continuous course of external beam irradiation to the oral cavity and/or oropharynx via intensity-modulated radiation therapy [IMRT] and/or image-guided radiation therapy [IGRT], combined with conventional or weekly/tri-weekly cisplatin or carboplatin chemotherapy regimen.
+History of cranial radiation therapy
+Prior radiation to the cranium
+prior radiation to the sites to be treated
+Patients receiving stereotactic body radiation therapy
+Participants with prior mantle radiation
+Participants with prior mantle radiation
+Participants must be evaluated by radiation oncology and deemed to be a candidate for stereotactic body radiation therapy for NSCLC
+Patients who are offered radiotherapy using a -fraction stereotactic body radiation therapy course, at the recommendation of the treating radiation oncologist
+Patients not interested in pursuing surgical intervention for their disease (i.e. refusing treatment or requesting radiation oncology referral)
+Patient will have suspicion of recurrent prostate carcinoma as defined by: older American Society for Radiation Oncology (ASTRO) criteria of three consecutive rises of PSA or earlier if clinically appropriate, and/or nadir + . ng/ml (ASTRO-Radiation Therapy Oncology Group [RTOG] Phoenix criteria)
+Study participants must have histologically confirmed primary malignant bone tumor in the sacrum for which surgery and radiation or radiation alone are planned
+Radiotherapy is planned as definitive therapy for prostate cancer; for patients not treated at NCI Radiation Oncology Branch (ROB) patients must have a radiation oncologist who is willing to collaborate with the ROB and provide documentation of treatment
+The subject has had preoperative radiation therapy
+Previous radiation exposure precluding radiation therapy
+Prior abdominopelvic radiation or radiation for rectal cancer
+Prior therapies including involved field radiation therapy
+All patients who have gynecologic malignancies involving the middle third and the distal third of the vagina who will be receiving radiation therapy
+Patients will typically be enrolled on this trial prior to beginning the radiation treatment course; however, if a patient has had a SPECT/CT mTc-MAA and mTc-DTPA scan as part of routine medical care within  weeks prior to initiation of radiation treatment, he/she is eligible for trial enrollment up to the last day of the radiation treatment course
+Patients receiving <  Gy radiation
+Subject has had preoperative radiation therapy to the affected breast or axilla.
+Radiation oncology patients undergoing shorter courses of radiation or undergoing palliative courses of radiation
+Tumor progression or recurrence within  months of the last dose of platinum-based therapy in the adjuvant (that is, with radiation after surgery), primary (that is, with radiation), recurrent, or metastatic setting.

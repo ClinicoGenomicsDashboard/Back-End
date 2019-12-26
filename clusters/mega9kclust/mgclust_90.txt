@@ -1,0 +1,5 @@
+Cluster 375: mri ct scan disease measurable tumor imaging evidence days bone 
+Cluster 447: tomography ct computed pet emission positron measurable scan disease cm 
+Cluster 478: ct chest abdomen pelvis scan tomography imaging computed mri contrast 
+Cluster 1099: imaging resonance magnetic tomography computed ct mri scan measurable disease 
+Cluster 1451: tomography emission positron pet ct computed scan imaging disease mri 

@@ -1,0 +1,170 @@
+Patients who have received previously a high dose chemotherapy regimen and autologous transplant are excluded from this study
+Autologous stem cell transplant
+Subjects who are considered eligible to receive an autologous stem cell transplant
+Had an autologous transplant within  months of starting study drug treatment.
+Subjects with lymphoma must have progressed, had stable disease (SD), or recurred after initial treatment regimens that include an anthracycline and an anti-CD monoclonal antibody; subjects who relapse >=  months after therapy should have progressed after autologous transplant or been ineligible for autologous transplant
+Patients with primary plasma cell leukemia in VGPR or better at the time of enrollment with no prior disease progression and within  months prior to initiation of anti-myeloma therapy which may include single or planned tandem autologous transplant .
+Patients must have completed an autologous stem cell transplant after their first course of treatment; patients who have relapsed or progressed at any time prior to transplant are not eligible
+Chemo-sensitive disease; patients with relapsed plasma cell leukemia may have received systemic therapy including an autologous transplant but it is not required; patients with relapsed multiple myeloma (MM) must have received prior systemic therapy including an autologous transplant; patient must be in at least a PR at the time of transplant; early relapse (VGPR) from complete response will be allowed
+Prior autologous stem cell transplant ?  months prior to starting CC-.
+Patient must be >=  weeks since autologous bone marrow/stem cell transplant prior to enrollment
+Patients who have undergone autologous stem cell transplant >  months prior are eligible
+Prior autologous and/or allogeneic transplant is permitted although transplant must have occurred greater than  days prior to registration
+There is no upper limit for the number of prior therapies; patients may have relapsed after prior autologous or allogeneic stem cell transplant
+Patients with systemic T cell lymphomas who relapsed after autologous transplant are eligible
+Subjects with a history of autologous or allogenic stem cell transplantation must have adequate peripheral blood counts independent of any growth factor support, and have recovered from any transplant related toxicity(s) and be at least  days post-autologous transplant prior to first dose of study drug or at least  months post-allogenic transplant prior to first dose of study drug and not have active graft-versus-host disease (GVHD), i.e., requiring treatment.
+Patients may not have had a prior autologous or allogeneic transplant
+Inclusion Criteria:\n\n          . Subjects must be ?  years of age at the time of screening.\n\n          . Subjects must have a confirmed diagnosis of relapsed/refractory MM as per IMWG\n             criteria (Rajkumar et al, ) or intolerant to all established regimens with proven\n             clinical benefit, which include agents from the following  classes of anti myeloma\n             therapies: PIs, IMIDs, and mAbs and have measurable disease with at least one of the\n             following criteria:\n\n               . Serum M-protein ? . g/dL\n\n               . Urine M-protein ?  mg/ hours\n\n               . Serum free light chain (FLC) assay: involved FLC level ?  mg/dL provided serum\n                  FLC ratio is abnormal.\n\n          . Subjects must either be ineligible for or post-autologous stem cell transplant.\n\n          . Eastern Cooperative Oncology Group (ECOG) performance status of  to .\n\n          . Adequate organ and marrow functions as determined per protocol-defined criteria.\n\n        Exclusion Criteria\n\n        Any of the following would exclude the subject from participation in the study:\n\n        Target Disease Exceptions:\n\n          . Subjects who have previously received an autologous stem cell transplant if less than\n              days have elapsed from the time of transplant or the subject has not recovered from\n             transplant associated toxicities prior to the first scheduled dose of MEDI\n\n          . Subjects who have previously received an allogeneic stem cell transplant\n\n          . Central nervous system (CNS) disease (including meningeal involvement) by MRI or\n             cerebrospinal fluid exam\n\n          . Known history of polyneuropathy, organomegaly, endocrinopathy, monoclonal protein,\n             skin changes (POEMS) syndrome, plasma cell leukemia, Waldenstrom's macroglobulinemia,\n             or amyloidosis\n\n             Medical History and Concurrent Diseases:\n\n          . Any condition that, in the opinion of the investigator, would interfere with\n             evaluation of the investigational product or interpretation of subject safety or study\n             results
+Prior autologous stem cell transplant within  months of screening date
+Autologous transplant within  weeks of planned CAR-T cell infusion.
+One prior autologous stem cell transplant within the preceding  months.
+Patients with systemic T cell lymphomas who relapsed after autologous transplant are eligible
+Prior autologous stem cell transplant within  months of study entry
+Patients who have failed a prior autologous transplant are eligible; however, at least  days must have elapsed between the start of this reduced intensity conditioning regimen and the last transplant if patient had a prior autologous BMT
+Autologous transplant must have been done  days prior to the study enrollment
+Subject has been informed of the risks and benefits of intensive chemotherapy and autologous stem cell transplant for treatment of mantle cell lymphoma and has refused this option; this discussion must be clearly documented in the medical record at the time of enrollment
+Patients whom have undergone previous autologous stem cell transplant, and have recurrent or residual disease are eligible for this trial
+One or two prior lines of therapy (defined as either one non-transplant regimen such as MelDex, Vel-Dex or CyBorD, daratumumab, one autologous stem cell transplant, or one regimen of non-transplant induction therapy followed by a single autologous stem cell transplant (without hematologic progression between induction and autologous stem cell transplant [ASCT])
+Prior autologous stem cell transplant within  weeks of initiation of therapy
+>  months since previous autologous transplant (if applicable)
+After failure of allogeneic stem cell transplant (ASCT) or after failure of frontline therapy in subjects who declined or are not ASCT candidates
+Patients who have received autologous stem cell transplant (ASCT) =<  weeks prior to the first dose of study drug
+Prior autologous bone marrow or peripheral blood stem cell transplantation =<  days prior to registration or if recovery from the transplant is inadequate
+PHASE I: Histologically confirmed classical or lymphocyte predominant Hodgkins disease that is relapsed or refractory after at least one prior chemotherapy; patients who have not had prior high-dose therapy (HDT)/autologous stem cell transplant (ASCT) must be ineligible for transplant
+PHASE I: Patients must have received at least one prior therapy; prior autologous stem cell transplant is permitted; patients with DLBCL who have not had prior HDT/ASCT must be ineligible for transplant; prior lenalidomide is not permitted if patients have progressed on therapy
+PHASE IB DOSE EXPANSION: Patients must have received at least one prior therapy; prior autologous stem cell transplant is permitted; patients who have not had prior HDT/ASCT must be ineligible for transplant; prior lenalidomide is not permitted if patients have progressed on therapy
+PHASE II: Patients must have received at least one prior therapy; prior autologous stem cell transplant is permitted; patients with DLBCL who have not had prior HDT/ASCT must be ineligible for transplant; prior lenalidomide is not permitted if patients have progressed on therapy
+At least one prior therapy; prior autologous stem cell transplant is permitted; patients with aggressive lymphoma who have not received high-dose therapy (HDT)/autologous stem cell transplantation (ASCT) must be ineligible for HDT/ASCT; prior allogeneic stem cell transplant is not permitted
+Less than  months since prior myeloablative transplant (if applicable); less than  months since prior autologous transplant (if applicable)
+Patients with poor prognosis multiple myeloma by cytogenetics del, del p, t(;) or t(;) or hypodiploidy, with advanced disease (stage >= ) and /or relapsed after autologous stem cell transplant
+PART I: Patients must have received at least one prior therapy; prior autologous stem cell transplant is permitted; patients with DLBCL who have not had prior high-dose therapy (HDT)/autologous stem cell transplant (ASCT) must be ineligible for transplant; prior ibrutinib is not permitted if patients have progressed on therapy
+PART IB: Patients must have received at least one prior therapy; prior autologous stem cell transplant is permitted; patients with DLBCL who have not had prior HDT/ASCT must be ineligible for transplant; prior ibrutinib is not permitted if patients have progressed on therapy
+Prior treatments: patients must have had at least one prior therapy\r\n* Patients with previous autologous transplant are permitted\r\n* Patients who are eligible and willing to undergo autologous transplant should not be enrolled on this trial\r\n* Prior allogeneic transplant is NOT permitted\r\n* Prior treatment with Brutons tyrosine kinase (BTK) inhibitors is NOT permitted\r\n* Prior treatment with nivolumab is permitted
+Autologous hematologic stem cell transplant within  months of study entry
+Patients with histologically confirmed multiple myeloma that are being considered for high dose chemotherapy and autologous stem cell transplant
+PRIOR TO CELL PROCUREMENT: Diagnosis of recurrent HL or NHL in patients who have failed >  prior treatment regimens; patients relapsed after autologous or allogeneic stem cell transplant are eligible for this study
+Any autologous patient who underwent high dose melphalan (>=  mg/m^) therapy/peripheral blood stem cell (PBSC) rescue for any stage of multiple myeloma and did not participate in another clinical transplant trial whose primary endpoint is also evaluating long-term, disease-free survival or survival; consenting for study between  days to  days after transplant; earliest can start therapy is  days post transplant after recovered from acute toxicity of autologous stem cell transplant (ASCT)
+Subjects must be at least  days since autologous stem cell transplant, if performed
+Must have a confirmed diagnosis of DLBCL and have progressed following ? lines of previous therapy, after autologous stem cell transplant, or not a candidate for autologous stem cell transplant
+Autologous stem cell transplant within  weeks before enrollment or any history of allogenic transplant
+Autologous stem-cell transplant in the previous six months
+Patients may not have had a prior autologous or allogeneic transplant
+Failed  or more prior standard MM therapies, and > days post autologous bone marrow transplant prior to first dose for transplanted subjects. Prior lenalidomide is permitted.
+TREATMENT: Diagnosis of myeloma after receiving at least one treatment regimen; if patient has received an autologous or syngeneic stem cell transplant (SCT) they must be >  days post-transplant (Group A) OR\r\nfollowing autologous or syngeneic SCT (as adjuvant therapy) and <  days post-transplant (Group B)
+Patients are eligible  weeks after autologous stem cell transplant
+Must not have undergone a prior allogeneic donor (related, unrelated, or cord) transplant; prior autologous transplant is not exclusionary
+Patients must have relapsed after high-dose therapy and autologous transplantation or be ineligible for high-dose therapy and autologous transplantation; patients that have failed autologous transplantation are those with persistent disease >  days after transplant; those ineligible for autologous transplant include those with chemoresistant disease (i.e., patients who have not achieved a partial response or better with their most recent chemotherapy regimen), are expected to have a poor outcome from autologous transplant (e.g., DLBCL relapsing within one year of rituximab, cyclophosphamide, doxorubicin hydrochloride, vincristine sulfate, prednisone [R-CHOP]-like chemotherapy, double hit lymphoma, v-myc myelocytomatosis viral oncogene homolog (avian) positive [MYC+] lymphoma, persistent positron emission tomography [PET] positivity after chemotherapy), are unable to collect sufficient or tumor-free autologous stem cells per Seattle Cancer Care Alliance (SCCA) standard practice, are unable to tolerate the high-dose autologous conditioning regimens, or who refuse a high-dose autologous transplant regimen
+Prior autologous or allogeneic transplant
+>=  months prior to registration for autologous bone marrow/stem cell transplant
+Patient must have not received any prior high dose chemotherapy and autologous stem cell transplant
+Patients who have received previously a high dose chemotherapy regimen and autologous transplant are excluded from this study
+Chemotherapy-sensitive (at least stable disease) large cell, mantle cell or Hodgkin's lymphomas that have failed at least  prior regimen of multi-agent chemotherapy and are ineligible for an autologous transplant
+Immunoablative or myeloablative stem cell transplant (SCT): >=  months must have elapsed from prior autologous transplant; subjects must not have graft versus host disease post autologous transplant
+Bone marrow comprising of < % lymphoma on most recent biopsy/aspiration (within  months of Allo transplant; may have been performed prior to autologous transplant)
+One prior autologous stem cell transplant within the preceding  months
+Large-cell lymphoma and aggressive T-cell lymphoma: With chemotherapy sensitive disease that has failed autologous transplant or patients who are ineligible for an autologous transplant; chemotherapy sensitive disease is defined as >= % reduction in the size of the tumor with the chemotherapy regimen immediately preceding transplant
+Patients must be ineligible for autologous transplantation due to prior autologous transplant, an inadequate autologous stem cell harvest, inability to withstand a myeloablative preparative regimen, or clinically aggressive/high risk disease
+Patients who received an autologous stem cell transplant must be ?  months post-transplant and all associated toxicities must have resolved to ? CTCAE Grade .
+Patients who have had a prior autologous transplant are eligible
+Patients who have received autologous stem cell transplant (ASCT) ?  weeks prior to the first dose of study drug or no adequate count recovery
+Adequate organ function for high dose chemotherapy and autologous stem cell transplant (as per institution standard operating procedure [SOP])
+Treatment with prior autologous transplant is permitted
+Patients who are primarily eligible for autologous stem cell transplant
+Has received high-dose melphalan and autologous stem cell transplant (HDM-ASCT) within  weeks before the first infusion or are planning for HDM-ASCT
+Patient must be scheduled to receive high dose chemotherapy and autologous stem cell transplant for multiple myeloma
+Patients who have previously undergone autologous stem cell transplant are eligible for this study provided more than  months have elapsed from the prior transplant
+Have measurable or evaluable disease, as defined in  Revised Response Criteria for Malignant Lymphoma; HL patients must not be currently eligible for autologous stem cell transplant
+Demonstrate adequate organ function per institutional guidelines for high-dose melphalan and autologous transplant at the time of enrollment
+Patients who have received a prior autologous or allogeneic transplant are excluded
+Prior autologous bone marrow or stem cell transplant within  year of enrollment
+Patients with prior autologous or allogeneic transplant are eligible; patients must be >  days post transplant and have no evidence of active GVHD
+Prior autologous bone marrow or stem cell transplant or prior radiation therapy (RT) >  Gy to a critical organ within  year of enrollment
+Considered eligible for high-dose chemotherapy followed by autologous stem cell transplant (ASCT)
+Only non transplant candidates or those who opt to forgo autologous stem cell transplant (ASCT) during first line therapy are eligible
+Autologous or allogenic transplant within the  days prior to Screening.
+Eligible for allogenic or autologous stem cell transplant
+Prior autologous stem cell transplant within  weeks
+Autologous stem cell transplant less than  days prior to study day 
+Subjects must have histologically documented relapsed or refractory disease, with a diagnosis of one of the following lymphoid malignancies: diffuse large B-cell lymphoma, peripheral T-cell lymphoma (any subtype); subjects must have received at least one prior systemic chemotherapy and must have either received an autologous stem cell transplant, refused or been deemed ineligible for an autologous stem cell transplant
+Autologous or allogenic transplant within the  days prior to the Screening visit.
+Must have received prior high-dose conditioning chemotherapy followed by autologous stem cell transplant (ASCT) as a part of salvage therapy for cHL (cohort A, B & C - enrolment closed)
+Participant has previously received an allogenic stem cell transplant; or participant has received autologous stem cell transplantation (ASCT) within  weeks before Cycle  Day 
+Completion of autologous stem cell transplant within  days prior to Cycle , Day 
+Patients must have failed autologous stem cell transplant or at least  prior cytotoxic regimens for Hodgkin lymphoma; patients who have failed only  prior cytotoxic regimen for Hodgkin lymphoma are permitted to enroll as long as they are not eligible for autologous stem cell transplant
+Subjects who have previously received an autologous stem cell transplant are allowed if a minimum of  months has elapsed from the time of transplant and the subject has recovered from transplant-associated toxicities prior to the first dose of GSK.
+Patients must have history of symptomatic myeloma requiring treatment and meet one of the following requirements:\r\n* Have at least  high risk feature at diagnosis (including deletion  or hypodiploidy by conventional cytogenetics, t(;), t(;) or deletion  by fluorescence in situ hybridization [FISH], beta  microglobulin > ., lactate dehydrogenase [LDH] greater than . x upper limit of normal [ULN], history of plasma cell leukemia) (prior to chemotherapy); OR\r\n* Have progressive disease on primary therapy with or without prior autologous stem cell transplant; OR \r\n* Have persistent or progressive disease following autologous transplant; it is acceptable for these patients to have a second transplant for disease reduction
+Note: prior autologous stem cell transplant as well as radiation to the CNS is NOT an exclusion criterion; prior allogenic stem cell transplant IS an exclusion criterion
+Relapsed or refractory after an autologous stem cell transplant (ASCT) or at least two prior multi-agent chemotherapy regimens in patients not candidates for ASCT
+Patients are eligible if an autologous transplant is planned within approximately  months from the time of collection of cells
+Prior autologous stem cell transplant ? weeks prior to first dose of study drug
+Post autologous stem cell transplant bone marrow biopsy core that is consistent with morphologic remission
+Must have received induction and consolidation chemotherapy, and autologous stem cell transplant for AML
+Patient received another investigational agent after post autologous stem cell transplant
+Prior allogeneic transplant (prior autologous stem cell transplant > months prior to study entry is permitted)
+Must not be a candidate for autologous stem cell transplant (ASCT), has declined the option of ASCT, or has relapsed after prior ASCT
+Patients who have undergone autologous stem cell transplant more than  months prior are eligible
+Patients must have received at least one prior therapy; prior autologous stem cell transplant is permitted; patients with diffuse large B-cell lymphoma who have not received high-dose therapy (HDT)/autologous stem cell transplant (ASCT) must be ineligible for HDT/ASCT; prior allogeneic stem cell transplant is not permitted; prior ibrutinib is not permitted
+Prior autologous stem cell transplant =<  weeks prior to registration
+Prior autologous or allogeneic transplant
+Subjects with a history of autologous or allogenic stem cell transplant must have adequate bone marrow independent of any growth factor support, and have recovered from any transplant related toxicity(s); and either greater than  days post-autologous transplant (prior to first dose of study drug) or greater than or equal to  months post-allogenic transplant (prior to first dose of study drug) and not have active graft-versus-host disease (i.e., requiring treatment).
+Patients who have previously received an autologous stem cell transplantation must be at least  weeks post-transplant before study drug administration and must have exhibited a full haematological recovery
+One prior autologous stem cell transplant within the preceding  months
+Prior autologous stem cell transplant within previous  months
+Have received autologous stem cell transplant within  weeks before the first infusion
+Subject progressed during or within  months of completion of their last planned course of salvage therapy with chemotherapy (with or without rituximab, may include autologous stem cell transplant).
+Not a candidate for autologous stem cell transplant (ASCT) or declined option.
+Patients who meet previous criterion or have any of the following are eligible: \r\n* Less than partial response (PR) to salvage chemotherapy\r\n* Kinetic failure\r\n* Having received more than  lines of therapy\r\n* Failure to mobilize autologous stem cell\r\n* % or more marrow involvement\r\n*  months post autologous stem cell transplant
+If not previously transplanted, patient should be either ineligible for autologous stem cell transplant (ASCT), or must have declined the option of ASCT; patients who have previously had ASCT and have subsequently progressed are eligible, provided other entry criteria are met
+No autologous stem cell transplant within  months prior to registration for protocol therapy
+Patients with relapsed multiple myeloma following autologous stem cell transplantation must have achieved at least partial response following additional chemotherapy (cohort ):\r\n* Patients are eligible if relapse occurs with complex/high-risk cytogenetics or occurs with normal cytogenetics but within  months following the autologous transplant
+Previous autologous stem cell transplant, fludarabine therapy, or radioimmunotherapy in the past  months
+TIER I SUBJECTS: Patients who have had an autologous transplant must wait at least  days from day  of autologous transplant to be eligible; patients do not have to relapse following transplant to be eligible provided they meet the  day wait post day  of transplant requirement; transplant date is defined as the day of infusion of stem cells
+Patients must have a corrected diffusion capacity >= % prior to the autologous transplant and >= % prior to the allogeneic transplant
+Receipt of allogenic or autologous stem cell transplant
+Group : Have progressive active SSc after prior autologous transplant based on the presence of progressive pulmonary disease; this will be defined by a decrease in the FVC or DLCO adjusted since prior autologous transplant of  percent or greater of the pre-transplant percent predicted value, in addition to evidence of alveolitis as defined by chest CT changes or BAL; f patients had prior autologous HCT on the \Scleroderma: Cyclophosphamide Or Transplantation\ (SCOT) clinical trial, they must have failed based on the defined study endpoints and be approved by the protocol principal investigator (PI)
+Must be relapsed or refractory after autologous stem cell transplant (ASCT) and/or  or more prior chemotherapy regimens
+Autologous transplant <  months prior to enrollment.
+Prior autologous transplant for the disease for which the UCB transplant is being performed.
+Peripheral autologous stem cell transplant within  weeks prior to Baseline; prior allogeneic transplants within  weeks or chronic use of immunosuppressants.
+All patients must have received at least one prior regimen for CLL, including cytotoxic chemotherapy, anti-CD monoclonal antibodies, a BTK inhibitor, or a PIK inhibitor. Patients may have received high dose chemotherapy/autologous stem cell transplant (HDT/ASCT) or allogeneic hematopoietic stem cell transplant (allo SCT).
+Subjects with prior allogeneic transplant are excluded: however, subjects who have previously received an autologous stem cell transplant are allowed if a minimum of  days has elapsed from the time of transplant and the subject has recovered from transplant-associated toxicities prior to the first dose of GSK
+Prior autologous, peripheral stem cell transplant within  weeks of the first dose of study drug.
+Received autologous stem cell transplant (ASCT) within  months
+INCLUSION FOR AUTOLOGOUS STEM CELL COLLECTION (PHASE  - TRANSPLANT RECIPIENT):
+INCLUSION CRITERIA TO PROCEED WITH AUTOLOGOUS STEM TRANSPLANT (PHASE  - TRANSPLANT RECIPIENT):
+Eligible for autologous stem cell transplant
+Had an autologous transplant within  months of starting study drug treatment.
+Patients who have received a prior autologous stem cell transplant are eligible if the transplant occurred >  months ago.
+Prior treatment and relapse following chemotherapy and autologous bone marrow or stem cell transplant. Patients who are not transplant eligible or who did not respond to chemotherapy may be considered for the study following a single regimen of chemotherapy such as R-CHOP or R-EPOCH. There is no limit to number of prior therapies allowed.
+At least one prior therapy; patients with newly diagnosed tNHL are eligible at the time of transformation; prior autologous stem cell transplant is allowed
+Patients eligible for and willing to undergo autologous stem cell transplant with curative intent at the time of enrollment are not eligible
+Patients that received an autologous stem cell transplant must be at least  months post-transplant and recovered from acute transplant-related toxicities.
+Treatment with prior autologous transplant is permitted
+Patient either is not a candidate for autologous stem cell transplant (ASCT), has declined the option of ASCT, or has relapsed after prior ASCT.
+Prior peripheral autologous stem cell transplant within  wks of Baseline.
+Patients with poor prognosis multiple myeloma by cytogenetics (del, del p, t(;) or t(;) or hypodiploidy, with advanced disease (stage >= ) and/or relapsed after autologous stem cell transplant
+Received any previous autologous stem cell transplant at least  weeks ( months) prior.
+Prior autologous bone marrow or peripheral stem cell transplant less than  months prior to enrollment.
+Patients must have biopsy proven relapse of a solid tumor or leukemia (for diseases outlined); patients with solid tumors must have failed an autologous transplant or be considered ineligible to receive an autologous transplant because of organ dysfunction or inability to obtain a suitable autologous stem cell collection; in addition, patients will be eligible if their attending physician and transplant physician agree that autologous transplantation would not offer a significant chance of cure (i.e. > %); patients with solid tumors must be in complete remission or have minimal residual disease prior to transplant; patients with bulky disease (any single tumor mass measuring >  cm in greatest diameter) will not be eligible for this study; select patients with very high-risk solid tumors will be eligible in first complete or partial remission, as indicated below; all subjects with solid tumors who have not had stem cells collected for clinical purposes prior to enrolling on the study will undergo autologous stem cell harvest following standard clinical procedures before beginning the study conditioning regimen
+For post autologous stem cell transplant (ASCT) patients, salvage therapy plus ASCT just prior to MDV treatment must have resulted in a PR or stable disease;
+Prior autologous stem cell transplant (ASCT) within  months or prior ASCT at any time without full hematopoietic recovery before Cycle  Day , or allogeneic stem cell transplant any time.
+Patient may have had prior autologous or allogeneic transplant (family member, unrelated donor, or cord blood) if there is at least  days between transplant and study entry
+Patients who have previously received an autologous SCT, are excluded if less than  days have elapsed from the time of transplant or the patient has not recovered from transplant-associated toxicities prior to the first scheduled dose of MEDI.
+Prior autologous stem cell transplant (ASCT) within  months or prior ASCT at any time without full hematopoietic recovery before Cycle  Day  or allogeneic stem cell transplant any time.
+Patients planned for upfront consolidation with high-dose therapy and autologous stem cell transplant
+Patients with DLBCL: Cancer progression after transplant, or be unwilling, unable or not an appropriate candidate for an autologous stem cell or bone marrow transplant
+NOTE: Prior autologous stem cell transplant as well as prior radiation to CNS does NOT prevent patients from enrollment into the trial
+Patients admitted to the transplant unit for autologous stem cell transplant, donor lymphocyte infusions, mesenchymal cell infusions, a second stem cell transplant, graft versus host disease or other complications post SCT will not be included
+Parents of children admitted to the transplant unit for autologous stem cell transplant, donor lymphocyte infusions, mesenchymal cell infusions, a second stem cell transplant, graft versus host disease or other complications post SCT will not be included
+All transplant types will be eligible (autologous or allogeneic related or unrelated)
+Patients must have undergone an autologous transplant =<  months prior to allogeneic transplantation or have received multi-agent or immunosuppressive chemotherapy within  months of the preparative regimen
+Patients who have received an autologous transplant
+Patients who have failed a prior autologous or allogeneic transplant are eligible; however, at least  months must have elapsed between the start of this reduced intensity conditioning regimen and the last transplant if patient had a prior autologous or myeloablative allogeneic bone marrow transplant (BMT)
+Patients must have undergone an autologous transplant =<  months prior to transplant on this study or have received multi-agent or immunosuppressive chemotherapy within  months of the preparative regimen
+Prior autologous stem cell transplant (ASCT) ?  months before first dose.
+More than  weeks post-transplant of your own blood forming stem cells (autologous transplant)
+Suitable candidate for therapy with high-dose chemotherapy and autologous stem cell transplant (ASCT) as determined by the treating physician
+Autologous stem cell transplant <  days prior to study day .
+Prior autologous stem cell transplant (ASCT) within  months preceding Cycle  Day .
+Patients with prior autologous hematopoietic stem cell transplant who, in the investigator's judgment, have not fully recovered from the effects of the last transplant (e.g., transplant related side effects).
+Autologous or allogenic transplant within the  days prior to Screening.

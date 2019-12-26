@@ -1,0 +1,40 @@
+Patients must be able to swallow whole tablets; tablets must not be crushed or chewed
+55.0
+The subject is unable to swallow tablets
+55.0
+The participant is unable to swallow tablets that are whole (do not crush or chew or administer via nasogastric [NG]-tube)
+42.0
+The subject is unable to swallow tablets
+72.0
+Patients who are unable to swallow tablets
+73.0
+Patients must be able to swallow tablets
+600.0
+Patients who are unable to swallow whole tablets are not eligible
+340.0
+The subject is unable to swallow tablets
+90.0
+The subject is unable to swallow tablets
+135.0
+Patients must be able to swallow tablets whole
+81.0
+Patients must have the ability to swallow tablets
+82.0
+Patients must be able to swallow intact tablets
+36.0
+Patients who are not able to swallow intact tablets are not eligible
+36.0
+Patients must have the ability to swallow tablets
+24.0
+Patients who are unable to swallow intact tablets are not eligible
+146.0
+Patients must be able to swallow tablets and have no significant impairment in gastrointestinal absorption
+40.0
+Patients must be able to swallow tablets
+35.0
+Patients must be able to swallow intact tablets
+49.0
+Patients must be able to swallow intact tablets
+49.0
+Patients must be able to swallow intact tablets
+144.0

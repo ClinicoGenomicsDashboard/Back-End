@@ -1,0 +1,49 @@
+TURNSTILE I - SCREENING:
+TURNSTILE II - TREATMENT:
+TURNSTILE I - SCREENING
+TURNSTILE II - TREATMENT
+Patients must have a lesion amenable to resection for the generation of TIL (Turnstile I)
+Patients receiving cytotoxic agents will be evaluated by the PI or his designee for eligibility suitability (Turnstile I)
+Patients must have adequate TIL available (Turnstile II); pre-rapid expansion procedure (Pre-REP) TIL generated in the similar clinical trial 2004-0069 may also be utilized for Turnstile II
+Patients must have at least one biopsiable measurable metastatic melanoma, lesion > or = to 1 cm (Turnstile II)
+Patients may have brain lesions =< 1 cm each; the PI or designee will approve the treatment (Turnstile II)
+Clinical performance status of ECOG 0-2 within 30 days of signing informed consent (Turnstile II)
+Hemoglobin greater than or equal to 8.0 g/dl (Turnstile II)
+Serum creatinine less than or equal to 1.6 mg/dl (Turnstile II)
+MRI/CT/PET of the brain within 30 days of lymphodepletion (Turnstile II)
+Patients who are pregnant or nursing (Turnstile I)
+Women who are pregnant will be excluded (Turnstile II)
+TURNSTILE I INCLUSION CRITERIA:
+Patients must have a lesion amenable to resection for the generation of TIL (Turnstile I)
+Patients must have adequate TIL available (Turnstile II)
+Patients must have at least one biopsiable and measurable metastatic melanoma lesions >= 1 cm (Turnstile II)
+Patients may have brain lesions which measure =< 1 cm each (Turnstile II)
+Pregnancy testing will be performed within 14 days prior to treatment (Turnstile II)
+Clinical performance status of ECOG 0-2 within 14 days of lymphodepletion (Turnstile II)
+Hemoglobin greater than or equal to 8.0 g/dl (Turnstile II)
+Serum creatinine less than or equal to 1.6 mg/dl (Turnstile II)
+Patients who are pregnant or nursing (Turnstile I)
+Has had prior systemic cancer therapy within the past four weeks at the time of the start of the lymphodepletion regimen (Turnstile II)
+Women who are pregnant will be excluded (Turnstile II)
+Patients must be HLA-A2 for cohort A (Turnstile II-Chemotherapy/Cell Infusion-Inclusion Criteria)
+Patients must have adequate TIL available (Turnstile II)
+Patients must have measurable metastatic melanoma (Turnstile II - Chemotherapy/Cell Infusion -Inclusion Criteria)
+Pregnancy testing will be performed within 7 days prior to treatment (Turnstile II)
+Clinical performance status of ECOG 0 - 2 at the time of chemotherapy infusion (Turnstile II - Chemotherapy/Cell Infusion - Inclusion Criteria)
+Absolute neutrophil count greater than or equal to 750/mm^3 (Turnstile II - Chemotherapy/Cell\r\nInfusion- Inclusion Criteria)
+Platelet count greater than or equal to 75,000/mm^3 (Turnstile II - Chemotherapy/Cell Infusion-Inclusion Criteria)
+Hemoglobin greater than or equal to 8.0 g/dl (Turnstile II - Chemotherapy/Cell Infusion)
+Serum alanine aminotransferase (ALT) less than three times the upper limit of normal (Turnstile II - Chemotherapy/Cell Infusion- Inclusion Criteria)
+Serum creatinine less than or equal to 1.6 mg/dl (Turnstile II - Chemotherapy/Cell Infusion-Inclusion Criteria)
+Is not receiving B-RAF treatment (Cohort C) (Turnstile II - Chemotherapy/Cell Infusion Exclusion Criteria)
+Women who are pregnant or nursing will be excluded (Turnstile II - Chemotherapy/Cell Infusion Exclusion Criteria)
+{Turnstile 
+{Turnstile 
+{Turnstile 
+{Turnstile 
+{Turnstile 
+{Turnstile 
+{Turnstile 
+{Turnstile 
+{Turnstile 
+(Turnstile 1 & Turnstile 2) Willing and able to give informed consent.

@@ -1,0 +1,3 @@
+Cluster 204: diffusion capacity monoxide carbon dlco predicted lung corrected pulmonary hemoglobin 
+Cluster 902: diffusing monoxide carbon dlco capacity predicted corrected lung hemoglobin lungs 
+Cluster 1203: pulmonary carbon monoxide dlco oxygen capacity function diffusing saturation room 

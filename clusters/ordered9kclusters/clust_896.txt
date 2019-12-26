@@ -1,0 +1,96 @@
+Patient must have completed a minimum of 8 weeks of standard neoadjuvant chemotherapy consisting of an anthracycline and/or taxane-based regimen
+No prior taxane therapy =< 6 months, except as a radiosensitizer
+Planned neoadjuvant treatment with anthracycline and taxane containing chemotherapy
+Participants eligible for taxane monotherapy
+Prior taxane is allowed (as long as the patient is not experiencing grade > 1 neuropathy and had no history of disease progression on a taxane therapy within 3 months prior to study enrollment)
+Patients who were previously treated with standard anthracycline- and/or taxane-based chemotherapy will be recruited for this study
+Received any chemotherapy (including irinotecan) other than platinum and fluoropyrimidine with or without anthracycline or taxane for advanced gastric or GEJ adenocarcinoma
+Experienced disease progression after having received at least 1 but no more than 2 prior next-generation androgen receptor-targeted therapies, and 1 prior taxane-based chemotherapy, for castration-resistant disease
+At least 1 line of taxane-based chemotherapy for the treatment of prostate cancer with documented evidence of disease progression while on therapy or within 3 months after discontinuation of therapy in the castrate-resistant setting
+No prior treatment with an anthracycline and taxane
+Prior use of taxane-based chemotherapy for treatment of castrate resistant prostate cancer.
+Prior treatment with a taxane is not permitted in the dose-expansion phase. Patients in the dose escalation component may have received a taxane in the peri-operative setting, provided they developed disease recurrence >6 months after the completion of this therapy
+Previous treatment with 1 or 2 chemotherapy regimens including at least 1 taxane-based regimen for metastatic (non castrate or castrate) prostate cancer. Patients may have received radium-223 and/or cabazitaxel, or were deemed unsuitable, declined, or did not have access to these therapies.
+Last dose of any systemic non-taxane cytotoxic chemotherapy completed at least one day prior to Day 1. Last dose of any systemic taxane cytotoxic chemotherapy completed at least 4 weeks prior to Day 1
+Previous systemic cytotoxic treatment for prostate cancer (eg: taxane-based regimen);
+Patients who received prior taxane-based chemotherapy as neoadjuvant or adjuvant therapy for local disease, or who received taxane-based therapy in the PSA clinical (non-metastatic) state is allowable provided that the total duration of exposure was six cycles or less and chemotherapy was completed more than 6 months prior to registration
+Taxane-based chemotherapy that was aborted due to allergic reactions or intolerance to chemotherapy and therefore received 1 cycle of prior therapy is allowable
+Prior exposure to a taxane (paclitaxel or docetaxel)-based regimen in localized or advanced/metastatic setting.
+Previous treatment with any weekly taxane regimen.
+Previous therapy for any malignancy with an anthracycline or taxane for Cohorts A and B and carboplatin for Cohort A
+At least 1 line of prior taxane-based chemotherapy
+Have received standard of care frontline surgical and chemotherapy treatment (at least six cycles of platinum and taxane therapy); patients who received neoadjuvant therapy are included
+Taxane therapy within the past 3 months (90 days) prior to study day 1
+Patients previously treated with taxanes are excluded, unless the taxane therapy was part of an initially curative regimen (e.g. adjuvant) and was completed > 12 months from study enrollment; patients with previous intolerance to ramucirumab
+Prior severe infusion reaction (bronchospasm, stridor, urticaria and/or hypotension) to a taxane therapy
+Prior anthracycline, platinum salt, or taxane for any malignancy
+Patients must have received a taxane as part of their prior treatment
+Patients must have received at least one prior chemotherapy regimen for metastatic disease\r\n* NOTE: Patients who received anthracycline and taxane containing adjuvant or neoadjuvant therapy and progressed within 12 months may enter this trial as their first therapy for metastatic breast cancer (MBC)
+Patients previously treated with docetaxel for NSCLC or with known severe hypersensitivity to taxane therapies.
+History of hypersensitivity to a taxane
+Prior treatment with a taxane or other tubulin-targeted agent (eg, indibulin) other than a vinca alkaloid
+Subjects who have received prior taxane therapy in the metastatic setting
+More than one prior taxane regimen at any stage of the disease under study (“taxane” refers to paclitaxel, docetaxel, abraxane and cabazitaxel); adjuvant and/or neoadjuvant treatments are considered together as one prior regimen
+Prior treatment may include a taxane as per the following criteria:\r\n* Prior taxane (including paclitaxel) in the adjuvant or neoadjuvant setting is allowed, provided that the interval between the completion of (neo)adjuvant therapy and disease recurrence is > 12 months\r\n* Prior taxane in the metastatic setting is allowed, provided that the agent administered in the metastatic setting was not standard paclitaxel
+One to two line(s) of prior taxane-based chemotherapy allowed. If docetaxel chemotherapy is used more than once, this will be considered as one regimen.
+One prior regimen/line of a taxane-containing regimen for mCRPC or refusal or ineligibility of a taxane-containing regimen
+Patient with progressive disease during first line chemotherapy with a platinum/taxane combination will be excluded
+All patients must have previously received trastuzumab and a taxane, separately or in combination and have received prior therapy for metastatic disease
+Must have received prior anthracyline and taxane compound therapy unless clinically contraindicated
+Receipt of a taxane for adjuvant therapy or metastatic disease in the last 12 months
+Prior anthracycline or taxane
+Recurrent disease within 12 months after completion of adjuvant chemotherapy containing a weekly taxane
+Patients must be able to receive taxane and/or anthracycline based chemotherapy
+Patients must have had a complete response to front-line platinum-taxane therapy (at least three cycles)
+Eligible for treatment with a taxane-containing regimen (for example, docetaxel), unless taxane-containing regimen was declined after an informed decision
+The participant received combination chemotherapy, which must include a platinum and/or a fluoropyrimidine and must not include a taxane or antiangiogenic agent.
+Subjects must have received a platinum-taxane-based regimen as first-line therapy.
+Prior taxane therapy administered for the treatment of metastatic breast cancer with the below exceptions.
+Prior taxane therapy for metastatic breast cancer is allowed if the patient received ? 1 full cycle (i.e., therapy discontinued within 4 weeks for subjects receiving weekly paclitaxel or Abraxane; therapy discontinued within 3 weeks for subjects receiving paclitaxel or docetaxel every 3 weeks) in the absence of progression or if taxane therapy for metastatic disease was > 12 months prior to C1D-2.
+Prior treatment with a taxane and/or anthracycline in the neoadjuvant, adjuvant, locally advanced, or metastatic setting unless medically contraindicated
+must have received a taxane in any disease setting
+Previously treated with an anthracycline and/or taxane in the neoadjuvant/adjuvant or metastatic setting
+For gastric or GEJ adenocarcinoma, prior treatment with any taxane
+For RCC, at least two prior anticancer regimens (one must be a VEGF-targeted TKI), or are otherwise inappropriate candidates for all approved therapies. For OCCC, at least one line of prior therapy with a platinum and taxane regimen.
+For inclusion in Cohort 1, mCRPC patients must have progressed while receiving (or subsequent to receiving) abiraterone and/or enzalutamide but must not have previously received taxane-based systemic chemotherapy for mCRPC (previous treatment with six cycles of docetaxel for metastatic castration-sensitive prostate cancer (mCSPC) is permissible). NOTE: patients receiving fewer than 2 cycles of taxane based regimen due to intolerance are eligible for cohort 1.
+Patients who have received a taxane based treatment or abiraterone, within 4 weeks before start of study treatment.
+Patients that have received prior taxane-based chemotherapy or abiraterone in any setting will not be eligible for the expansion cohort. Additional exclusion criterion for patients undergoing tumour biopsy:
+Prior taxane or anthracycline chemotherapy for malignancy
+Progression of disease after the most recent anticancer treatment. At least 1 prior chemotherapy regimen must have included a taxane.
+Prior chemotherapy regimens must include a platinum and/or a fluoropyrimidine component and must not include a taxane or antiangiogenic agent.
+Prior therapy with an anthracycline and a taxane in either an adjuvant or metastatic setting.
+History of prior therapy with trastuzumab and a taxane, separately or in combination. For patients in dose escalation and MTD expansion cohorts, prior therapy with trastuzumab and a taxane must have been for metastatic disease. For patients in CNS disease expansion cohorts, trastuzumab and taxane (together or separately) may have been given at any time prior to study enrollment as part of neoadjuvant therapy, adjuvant therapy, or therapy for metastatic disease.
+No treatment with prior taxane-based chemotherapy for metastatic disease\r\n* Patients who received prior taxane-based chemotherapy as neoadjuvant or adjuvant therapy for local disease, or who received taxane-based therapy in the PSA clinical (non-metastatic) state is allowable provided that the total duration of exposure was six cycles or less and chemotherapy was completed more than 6 months prior to registration\r\n* Taxane-based chemotherapy that was aborted due to allergic reactions or intolerance to chemotherapy and therefore received 1 cycle of prior therapy is allowable
+If a patient has HER2-positive breast cancer, herceptin and pertuzumab will be given along with taxane therapy
+Prior taxane therapy for any indication
+Patients who will receive CXRT with platinum/taxane-based chemotherapy and with a total radiation dose of >or = 50 Gy, per treating physician's assessment
+Prior taxane therapy for metastatic breast cancer.
+EXPANSION COHORT ONLY: Previously treated with at least one and not more than 3 lines of systemic chemotherapy including at least one of the following: a platinum agent, a taxane, or gemcitabine
+Has received prior systemic treatment with a taxane for advanced/metastatic disease
+Patients with grade > 2 neuropathy attributable to previous administration of taxane chemotherapy
+More than 1 prior chemotherapy regimen (a subject who received first- line carboplatin and taxane and then receives the same taxane second- line will be considered to have had 1 prior chemotherapy regimen)
+Less than three months since last taxane-containing therapy.
+have not been treated with a taxane within six months of C1D1, AND
+Prior history of hypersensitivity to taxane or platinum therapy; if either agent was previously administered, the patient must have tolerated it well and have recovered from any adverse events
+Known significant dose delays during prior treatment with a taxane due to drug-related toxicities
+5. Patients with advanced, recurrent or metastatic endometrial cancer who have received one chemotherapeutic regimen with platinum and taxane (either as adjuvant or as first line treatment) and who have progressed.
+Subject must have had at least one prior cytotoxic chemotherapy regimen for unresectable or metastatic disease. Prior taxane therapy is allowed.
+Has received prior taxane therapy
+Patients must not have received any prior taxane or platinum based chemotherapy
+Currently receiving taxane-based chemotherapy (either adjuvant or neoadjuvant)
+Subjects receiving chemotherapy with concurrent anthracycline and taxane (AT or Taxotere-Adriamycin-Cytoxan [TAC])
+Allowable planned chemotherapy regimens (with or without ovarian suppression) are:\r\n* 6 cycles of a taxane (T) anthracycline (A) and cyclophosphamide (C)\r\n* 4 cycles of an anthracycline and cyclophosphamide plus 4 cycles of a taxane\r\n* 6 cycles of a taxane plus a platinum analogue with or without one or more human epidermal growth factor receptor 2 (HeR-2) targeted therapies such as trastuzumab +/- pertuzumab\r\n* 6 cycles of an anthracycline plus a taxane\r\n* 6 cycles of cyclophosphamide, an anthracycline and fluorouracil
+Has received a platinum compound and/or a taxane
+Relapsed after or are refractory to at least one prior line of chemotherapy which have not included a taxane (with the exception of Cohort 3 of the Lead-In Phase which will allow the enrollment of subjects with prior treatment with a taxane)
+Scheduled to undergo adjuvant taxane-based chemotherapy as single agents or in combination with platins or HER-2 directed therapy
+Treatment with any neuropathic agent including taxane, platinum, vinca alkaloid, or bortezomib chemotherapy in the past 6 months
+Treatment with any neuropathic agent including taxane, platinum, vinca alkaloid, or bortezomib chemotherapy in the past 6 months
+Patients not eligible for chemotherapy with taxane and/or anthracycline based chemotherapy regimens
+Prior treatment with a taxane in the metastatic setting
+Patients who are scheduled to receive a taxane-based regimen for a histologically confirmed solid tumor that is:
+Patient must have completed a minimum of 8 weeks of standard neoadjuvant chemotherapy consisting of an anthracycline and/or taxane-based regimen
+Previously or currently receiving taxane-based chemotherapy
+Clinical symptoms of peripheral neuropathy noted in medical record and suspected to be secondary to taxane-based therapy
+Patient must agree to receive standard or dose-dense adriamyacin, cyclophosphamide, and taxane-based\r\nchemotherapy given preoperatively
+Prior treatment must include an anthracycline and/or a taxane in the neoadjuvant, adjuvant, or metastatic setting with the exception for participants who are clinically contraindicated for these chemotherapies.
+Has received prior therapy with any taxane chemotherapy

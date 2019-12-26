@@ -1,0 +1,38 @@
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Absolute neutrophil count >= 1,000/mm^3
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Hemoglobin >= 8 g/dl (may receive transfusions)
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Albumin >= 3 g/dl
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Potassium >= lower limit of normal (LLN)
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Serum total calcium (correct for serum albumin) or ionized calcium >= LLN
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients must agree to avoid grapefruit or grapefruit juice and Seville (sour) oranges during the entire study
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): The patient or parent/guardian is able to understand the consent and is willing to sign a written informed consent document according to institutional guidelines
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients who have had > 60 Gy total radiation to the pons (e.g. patients who have received re-irradiation)
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients have had prior histone deacetylase (HDAC), deacetylase (DAC), heat shock protein 90 (HSP90) inhibitors for the treatment of their DIPG
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients have had valproic acid within 28 days prior to enrollment
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients have had prior bone marrow transplant
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients have significant acute deterioration in neurologic status in 72 hours prior to enrollment, in the opinion of the treating physician
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients have any other significant concurrent illness
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients have a history of any other malignancy
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients are known to be refractory to red blood cell or platelet transfusions
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients who are receiving any other anticancer or investigational drug therapy
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients who are required to receive any medication which can prolong the QTc interval
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Female patient is breastfeeding
+NON-PROGRESSED DIPG (STRATUM 2): Patients with DIPG who have not yet progressed by clinical or radiographic criteria* Please note: patients with a radiographically typical DIPG, defined as a tumor with a pontine epicenter and diffuse involvement of more than 2/3 of the pons, are eligible without histologic confirmation* Patients with pontine lesions that do not meet these radiographic criteria will be eligible if there is histologic confirmation of malignant glioma World Health Organization (WHO) II-IV
+NON-PROGRESSED DIPG (STRATUM 2): Patients must have recovered from the acute treatment-related toxicities (defined as =< grade 1) of radiotherapy prior to entering this study
+NON-PROGRESSED DIPG (STRATUM 2): Absolute neutrophil count >= 1,000/mm^3
+NON-PROGRESSED DIPG (STRATUM 2): Hemoglobin >= 8 g/dl (may receive transfusions)
+NON-PROGRESSED DIPG (STRATUM 2): ALT(SGPT) =< 3 x institutional upper limit of normal
+NON-PROGRESSED DIPG (STRATUM 2): Albumin >= 3 g/dl
+NON-PROGRESSED DIPG (STRATUM 2): Potassium >= LLN
+NON-PROGRESSED DIPG (STRATUM 2): Serum total calcium (correct for serum albumin) or ionized calcium >= LLN
+NON-PROGRESSED DIPG (STRATUM 2): Patient has no ventricular arrhythmias except for benign premature ventricular contractions
+NON-PROGRESSED DIPG (STRATUM 2): Patient has a QTc interval < 450 ms
+NON-PROGRESSED DIPG (STRATUM 2): Patients must agree to avoid grapefruit or grapefruit juice and Seville (sour) oranges during the entire study
+NON-PROGRESSED DIPG (STRATUM 2): The patient or parent/guardian is able to understand the consent and is willing to sign a written informed consent document according to institutional guidelines
+NON-PROGRESSED DIPG (STRATUM 2): Patients who have had > 60 Gy total radiation to the pons (e.g. patients who have received re-irradiation
+NON-PROGRESSED DIPG (STRATUM 2): Patients have significant acute deterioration in neurologic status in 72 hours prior to enrollment, in the opinion of the treating physician
+NON-PROGRESSED DIPG (STRATUM 2): Patients have diarrhea > CTCAE grade 2
+NON-PROGRESSED DIPG (STRATUM 2): Patients have a history of any other malignancy
+NON-PROGRESSED DIPG (STRATUM 2): Patients are known to be refractory to red blood cell or platelet transfusions
+NON-PROGRESSED DIPG (STRATUM 2): Patients who are receiving any other anticancer or investigational drug therapy
+NON-PROGRESSED DIPG (STRATUM 2): Patients who are required to receive any medication which can prolong the QTc interval
+NON-PROGRESSED DIPG (STRATUM 2): Female patient is breastfeeding

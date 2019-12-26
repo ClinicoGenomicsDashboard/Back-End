@@ -1,0 +1,32 @@
+White blood cell count >= 4000 cells/mm^3
+285.0
+White blood cell count (WBC) >= 4,000/ml
+37.0
+B-ALL patients must have an initial white blood cell count < 50,000/uL
+9483.0
+White blood cell (WBC) > 3.0
+224.0
+White blood cells (WBC) >= 3,000 cells/uL (3.0 x 10^9 L) or
+90.0
+Total white blood cells (WBC) >= 4.0 x 10^3/mcL within 28 days prior to registration
+491.0
+White blood cells (WBC) >= 3500/uL
+92.0
+White blood count >= 3,000/uL, obtained within 4 weeks prior to randomization
+300.0
+White blood count >= 3,000/uL
+400.0
+Patients with white blood cell (WBC) > 30,000 are not eligible to start therapy; however, it is permissible to use glucocorticoids and/or hydroxyurea to diminish peripheral WBC to less than 30,000 provided these agents are stopped at least 24 hours prior to the first dose of MLN0128 (TAK-228)
+35.0
+Total absolute phagocyte count (APC = [%neutrophils + %monocytes) x white blood cells [WBC]) is at least 1000/uL
+44.0
+White blood cell count (WBC) >= 2,000/mcL; must be obtained within 28 days prior to registration
+180.0
+White blood cell (WBC) >= 2000/uL
+714.0
+White blood cells >= 2000/uL, within 4 weeks of randomization
+766.0
+Within 28 days prior to administration of study treatment: White blood count (WBC) > 3 x 10^9/L
+90.0
+White blood cell count (WBC) >= 3 x 10^9/L
+132.0

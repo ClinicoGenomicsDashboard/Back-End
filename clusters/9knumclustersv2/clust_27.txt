@@ -1,0 +1,20 @@
+Hematology Hemoglobin ?  g/dL (SI Units:  g/L) Platelet count < /mm Absolute neutrophil count (ANC) < /mm
+Hemoglobin >  g/dL (standard international [SI] units:  g/L)
+Absolute neutrophil count (ANC) < ,/mm^ (Unit of International System of Units [SI] units /L)
+Platelets < ,/mm^ (SI units /L)
+Absolute neutrophil count (ANC) >=  x ^ (International System [SI] units ^/L) (with or without filgrastim [G-CSF])
+Platelets >=  x^ (SI units ^/L)
+AUA SI > 
+Absolute neutrophil count (ANC) >= , cells/mm^ (system international [SI] units . x ^/L)
+Platelets >= , cells/mm^ (SI units  x ^/L)
+Hemoglobin >=  g/dL (SI units  g/L) (in the absence of transfusion within  hours prior to dosing)
+Patients must have been assigned to SI
+Hemoglobin >  g/dL (International System [SI] units:  g/L) without transfusion support or growth factors within  days of starting INC
+Absolute neutrophil count (ANC) >= . x ^ (SI units ^/L)
+Platelets >=  x ^ (SI units ^/L)
+Hemoglobin >= . g/dL (SI units gm/L)
+Absolute neutrophil count (ANC) < ,/mm^ (International System of Units [SI] units /L)
+Platelets < ,/mm^ (SI units /L)
+Absolute neutrophil count (ANC) >= , cells/mm^ (International System of Units [SI] units . x ^/L)
+Platelets >= , cells/mm^ (SI units  x ^/L)
+Hemoglobin >= . g/dL (SI units  g/L)

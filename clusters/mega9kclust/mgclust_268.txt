@@ -1,0 +1,7 @@
+Cluster 113: creatinine serum uln times institutional concentration days prior equal levels 
+Cluster 303: creatinine upper limit normal times institutional serum uln institution age 
+Cluster 530: amylase lipase uln serum normal institutional days registration prior limits 
+Cluster 820: potassium limits normal meq serum range institutional institution wnl supplementation 
+Cluster 927: limits creatinine normal institutional upper serum uln times troponin days 
+Cluster 1700: limits bilirubin normal upper total uln serum institutional times ast 
+Cluster 1782: renal creatinine function uln serum adequate times defined normal mg 

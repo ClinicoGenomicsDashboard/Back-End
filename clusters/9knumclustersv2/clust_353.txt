@@ -1,0 +1,134 @@
+Creatinine =< . x upper limit of normal (ULN) OR calculated (calc.) creatinine clearance >=  mL/min
+Creatinine =< . x upper limit of normal (ULN) OR calculated (calc.) creatinine clearance >  mL/min using the lean body mass formula only
+Serum creatinine =< . x upper limit of normal (ULN) or serum creatinine clearance (CrCl) >=  ml/min, obtained within  weeks prior to randomization
+Creatinine =< upper limit of normal (ULN) or calculated creatinine clearance >=  mL/min
+Creatinine =< institutional upper limit normal (ULN), CTCAE v . grade ; NOTE: if creatinine > ULN, creatinine clearance must be >  mL/min
+Creatinine =< . x upper limit of normal (ULN) mg/dL OR calculated (calc.) creatinine clearance >=  mL/min
+Serum creatinine =< . x upper limit of normal (ULN) or calculated creatinine clearance (CrCl) >=  mL/min, within  weeks of randomization
+Creatinine =< . times institutional upper limit of normal (ULN) OR calculated creatinine clearance >=  mL/min
+Serum creatinine =< . x the upper limit of normal or calculated creatinine clearance >=  mL/min
+Serum creatinine ? . x upper limit of normal (ULN) or calculated creatinine clearance ?  mL/minute
+Serum creatinine ? .  upper limit of normal (ULN) or creatinine clearance (CrCl) ?  mL/min/. m
+Measured within  days prior to registration: serum or plasma creatinine =< . x institutional upper limit of normal (ULN) OR creatinine clearance >=  mL/min/. m^ for participants
+Creatinine =< . x the institutional upper limit of normal (ULN), or -hr clearance >=  mL/min, within  days of registration
+Creatinine =< . x upper limit of normal OR creatinine clearance >=  mL/min
+Serum creatinine >= . times the upper normal limit or calculated/measured creatinine clearance =<  mL/min
+Serum creatinine or creatinine clearance =< institutional upper limit or >=  mL/min creatinine clearance for patients with serum creatinine > institutional upper limit
+Serum creatinine =< . x institutional upper limit of normal (ULN) OR calculated creatinine clearance >=  mL/min for subjects with creatinine levels > . x institutional ULN within  days of treatment initiation and must be independent of hematopoietic growth factor support
+Creatinine within the institution's laboratory upper limit of normal (ULN) or calculated creatinine clearance > ml/min
+Serum creatinine ?.  institutional upper limit of normal (ULN) or calculated creatinine clearance > mL/min.
+Serum creatinine =< . x upper limit of normal (ULN) OR measured or calculated creatinine clearance >=  mL/min for subject with creatinine levels > . x institutional ULN
+Either creatinine < . x institutional upper limit of normal (ULN) or creatinine clearance >  mL/min as calculated by institutions standard formula
+Serum creatinine =<  x upper limit of reference range or creatinine clearance >=  ml/min
+COHORT : HORMONE RECEPTOR POSITIVE BREAST CANCER: Serum creatinine =< . X upper limit of normal (ULN), or measured creatinine clearance >=  mL/min/
+COHORT : TRIPLE NEGATIVE BREAST CANCER: Serum creatinine =< . X upper limit of normal (ULN), or measured creatinine clearance >=  mL/min/
+COHORT : ENDOMETRIAL CANCER: Serum creatinine =< . X upper limit of normal (ULN), or measured creatinine clearance >=  mL/min/
+Serum creatinine =< . x institutional upper limit of normal (IULN) and creatinine clearance >=  mL/min
+Creatinine OR calculated creatinine clearance =< . x upper limit of normal (ULN) OR >=  mL/min for subject with creatinine levels > . x institutional ULN. Creatinine clearance should be calculated per institutional standard.
+Serum creatinine <  x upper limit of normal (ULN) or estimated creatinine clearance >  ml/min as calculated using the method standard for the institution
+Within  days of the first dose of study drug: Serum creatinine =< . times the upper limit of normal or estimated creatinine clearance (CrCL) >  mL/min
+Creatinine within institutional normal limits or, clearance >  mL/ minute if serum creatinine is elevated above institution upper limit (UL)
+Creatinine =< . x the institutional upper limit of normal (ULN) OR creatinine clearance >  ml/min within  days of cycle  day 
+Cockcroft calculated creatinine clearance of >=  ml/min or . x the upper limit of normal (ULN)
+Serum creatinine =<  x upper limit of normal (ULN) or estimated creatinine clearance >=  mL/min as calculated using the method standard for the institution
+Serum creatinine >= . x upper limit of normal (ULN) OR calculated creatinine clearance =<  mL/min for patients with creatinine levels > . x institutional ULN\r\n* Creatinine clearance should be calculated per institutional standard
+Serum creatinine =< . x institutions upper limit of normal (ULN), or creatinine clearance >=  ml/min
+Creatinine level =< upper limit of normal (ULN): if creatinine > ULN, creatinine clearance must be >  ml/min
+Serum creatinine =< . x laboratory upper limit of normal or calculated creatinine clearance of >=  ml/min/. m^)
+Adequate renal function defined as:  Serum creatinine ? . x ULN (upper normal limit) or calculated creatinine clearance (determined by MDRD) >  mL/min/.m.
+Serum creatinine =< upper limit of normal (ULN) for the lab or a calculated creatinine clearance >=  mL/min
+Serum creatinine =< . x upper limit of normal (ULN) OR measured or calculated creatinine clearance >=  mL/min for patient with creatinine levels > . x institutional ULN
+Serum creatinine =< . X upper limit of normal (ULN), or measured creatinine clearance >=  mL/min/. m^
+Creatinine less than or equal to . x upper limit of normal (ULN) with calculated creatinine clearance greater than  ml/min
+Serum creatinine =< . x upper limit of normal (ULN) OR measured or calculated creatinine clearance >=  mL/min for subjects with creatinine levels > . x ULN within  days of treatment initiation
+Serum creatinine < . times the upper limit of normal (ULN) (or a calculated creatinine clearance >=  mL/min)
+Creatinine clearance >=  ml/min or serum creatinine =< . x upper limit of normal (ULN)
+Serum creatinine >= ULN and/or calculated or measured creatinine clearance < % lower limit of normal (LLN)
+Creatinine =< . x upper limit normal (ULN) or measured creatinine clearance (CrCl) of >= ml/m^/. m^
+Creatinine =< . x the upper limit of normal (ULN) OR \r\n* Estimated creatinine clearance of >  ml/min\r\n* Patients with renal dysfunction deemed to be the result of disease will be considered eligible
+Creatinine clearance >=  mL/min/.m^ for patients with creatinine >= . x upper limit of normal
+Serum creatinine =< . x the upper limit of normal or calculated creatinine clearance >=  mL/min
+Serum creatinine =< . times upper limit of normal or calculated creatinine clearance >=  ml/min
+Creatinine =< . x upper limit of normal (ULN) for the laboratory or calculated or actual creatinine clearance >=  mL/min
+Renal: Serum/plasma creatinine (sCr) ?. x upper limit of normal, or creatinine clearance (Ccr) ? mL/min.
+Biochemistry: Total bilirubin* ? institutional upper limit of normal Alkaline phosphatase ? . x institutional upper limit of normal AST(SGOT) and ALT(SGPT) ? . x institutional upper limit of normal Creatinine Clearance ?  ml/min * excluding Gilbert's syndrome Creatinine clearance to be measured directly by  hour urine sampling or as calculated by Cockcroft Formula: Females: GFR = . x (-age) x weight in kg serum creatinine in ?mol/L Males: GFR = . x (-age) x weight in kg serum creatinine in ?mol/L
+Serum creatinine =< . times the upper limit of normal or estimated creatinine clearance (CrCl) >  mL/min within  days of the first dose of study drug
+Calculated creatinine clearance (absolute value) of >=  mL/minute or creatinine < . mg/dl or <  times upper limit of normal for the research participant's age group
+Serum creatinine < . times upper limit of normal range (ULN) or creatinine clearance >=  ml/min
+Creatinine < . x the upper limit of normal (ULN) or calculated creatinine clearance of >= ml/min
+Serum creatinine =< . x upper limit of normal OR creatinine clearance on a -h urine collection of >=  mL/min
+Serum creatinine =< . x the upper limit of normal or calculated creatinine clearance >=  ml/min
+Serum creatinine =< . x upper limit of normal (ULN) OR calculated creatinine clearance >=  mL/min for patients with creatinine levels > . x institutional ULN
+Serum creatinine =< . x upper limit of normal (ULN) OR calculated creatinine clearance >=  mL/min for patients with creatinine levels > . x institutional ULN\r\n* Creatinine clearance should be calculated per institutional standard
+Serum creatinine =< . X upper limit of normal (ULN) or creatinine clearance >  mL/min
+Creatinine clearance >=  mg/dl OR serum creatinine =< . x upper limit of normal (ULN)
+Adequate renal function (creatinine =< . upper limit of institutional normal [ULIN] or calculated creatinine clearance >  ml/min)
+Serum creatinine =< . x institutional upper limit normal (ULN) and calculated creatinine clearance of >= mL/min
+Renal: serum creatinine within normal limits (WNL), defined as within % of the institution's stated reference range, or a calculated creatinine clearance > mL/min/. m for patients with abnormal, increased, creatinine levels. Patients with Multiple Myeloma (only): serum creatinine ? . the institutional upper limit of the normal range and a calculated creatinine clearance >  mL/min/. m.
+Renal insufficiency (creatinine clearance <  ml/min) or liver insufficiency (serum bilirubin >  times the upper normal range and/or serum transaminases (AST/SGOT, ALT/SGPT, but not gamma Glutamyl Transpeptidase) > times the upper normal range). Creatinine clearance may be calculated according to validated formulas (Crockoft's or MDRD)
+Creatinine ?. times the upper limit of normal (ULN) and/or creatinine clearance ? mL/min
+Serum creatinine > . x upper limit of normal or estimated creatinine clearance (CrCl) <  ml/min
+REGISTRATION TO TREATMENT (STEP ): Serum creatinine =< . X upper limit of normal (ULN) OR creatinine clearance (per institutional standards) >=  mL/min for patient with creatinine levels > . X ULN, within  days prior to first dose of pembrolizumab
+REGISTRATION TO TREATMENT (STEP ): Serum creatinine =< . X upper limit of normal (ULN) OR creatinine clearance (per institutional standards) >=  mL/min for patient with creatinine levels > . X ULN, within  days prior to first dose of pembrolizumab
+Creatinine =< . x upper limit of normal (ULN) OR >=  mL/min
+Within  days of treatment initiation: If serum creatinine concentration >= . x upper limit of normal (ULN), then estimated creatinine clearance must be >=  mL/min for subject with creatinine levels > . x institutional ULN
+Creatinine =< . x upper limit of normal (ULN) OR calculated (calc.) creatinine clearance >=  mL/min
+Creatinine OR =< . mg/dl x upper limit of normal (ULN) OR calculated (calc.) creatinine clearance >  mL/min
+Serum creatinine =< . x upper limit of normal (ULN) or serum creatinine clearance (CrCl) >=  ml/min
+Creatinine =< . x upper limit of normal (ULN) for the laboratory or calculated or actual creatinine clearance >=  mL/min
+Creatinine < . x ULN OR creatinine clearance measured >=  mL/minute for patients with creatinine levels >= . x upper limit of normal
+Creatinine =< . x upper limit of normal (ULN) for the laboratory or calculated or actual creatinine clearance >  mL/min
+Serum creatinine =< . x ULN or calculated or directly measured creatinine clearance (CrCl) >= % LLN (lower limit of normal)
+Creatinine =< . times the upper limit of normal (ULN) OR creatinine clearance >=  mL/min/. m^
+Serum creatinine >= . times the upper normal limit or calculated/measured creatinine clearance =<  mL/min
+Serum creatinine =< . x upper limit of normal OR creatinine clearance on a -h urine collection of >=  mL/min
+Serum creatinine =< . x upper limit of normal (ULN) or serum creatinine clearance (CrCl) >=  ml/min
+Creatinine =< institutional upper limit normal (ULN); note: if creatinine > ULN, creatinine clearance must be >  mL/min
+Creatinine < . x the upper limit of normal (ULN) or calculated creatinine clearance of >=  ml/min
+Serum creatinine =< . x upper limit of normal (ULN) or calculated creatinine clearance (CrCl) >=  mL/min obtained within  days prior to registration
+Serum creatinine =< . X upper limit of normal (ULN) OR measured or calculated creatinine clearance >=  mL/min for subject with creatinine levels > . X institutional ULN
+Creatinine =< . mg/dL x upper limits of normal (ULN) OR calculated (calc.) creatinine clearance >=  mL/min
+Creatinine > . x the upper limit of normal; patients with creatinine > . x the upper limit of normal who have creatinine clearance >=  cc/min (calculated using the Cockcroft and Gault equation) are eligible
+Serum creatinine =< . x upper limit of normal (ULN) for the lab, calculated creatinine clearance >=  mL/min or -hour creatinine clearance >=  mL/min
+Have calculated creatinine clearance (CrCL) ? mL/minute or serum creatinine ?. times below the upper limit of normal.
+Serum creatinine ? .  upper limit of normal (ULN) or creatinine clearance (CrCl) ?  mL/min/. m
+Serum creatinine ? . x upper limit of normal (ULN) or calculated creatinine clearance ?  mL/minute
+Serum creatinine =< . x institutional upper limit of normal concurrent with creatinine clearance >=  mL/min (measured or calculated by Cockcroft and Gault equation), confirmation of creatinine clearance is only required when creatinine is > . x upper limit of normal (ULN), within  days of study registration
+Creatinine <. X upper limit of normal or estimated plasma creatinine clearance of ? mL/min
+At least  weeks ( days) prior to registration: Serum creatinine =< . x ULN or calculated or directly measured creatinine clearance (CrCl) >= % LLN (lower limit of normal)
+Serum creatinine ? .  age-adjusted upper limit of normal (ULN) OR calculated creatinine clearance >  mL/min
+Serum creatinine =< . x the upper limit of normal range, or, if serum creatinine > . x the upper limit or normal range, then the creatinine clearance must be >=  mL/min
+Renal: Serum creatinine (sCr) ?. x upper limit of normal, or creatinine clearance (Ccr) ? mL/min.
+Creatinine =< . x upper limit of normal OR creatinine clearance >=  mL/min/.m^ for patients with creatinine >= . x upper limit of normal
+Serum creatinine =< . x upper limit of normal OR calculated creatinine clearance >=  ml/min
+Serum creatinine =< . x the upper limit of normal (ULN) or calculated creatinine clearance >=  mL/min
+Serum creatinine of ?.  the upper limit of normal (ULN)OR estimated creatinine clearance (CrCl) ?  ml/min/. m
+Serum creatinine =< . x upper limit of normal (ULN) or calculated creatinine clearance >=  mL/min
+Serum creatinine =< . x the upper limit of normal or creatinine clearance >=  mL/min (measured or calculated)
+Serum creatinine =< . x the upper limit of normal or calculated creatinine clearance >=  mL/min
+Serum creatinine ?. x upper limit of normal (ULN) or a calculated creatinine clearance > mL/min,
+Creatinine =< . x laboratory upper limit of normal or calculated creatinine clearance of >=  ml/min
+Serum creatinine =< . x upper limit of normal (ULN) or serum creatinine clearance (CrCl) >=  ml/min (drug is not cleared by the kidney)
+Serum creatinine <. x upper limit of normal (ULN) or estimated creatinine clearance  mL/min (as calculated using the standard method of the institution);
+Patient's serum creatinine must be ? . x institutional upper limit of normal (ULN) according to age. If the serum creatinine is greater than . times normal, the patient must have a calculated creatinine clearance or radioisotope GRF ? mL/min/.m.
+Adequate renal function defined as serum creatinine ? .x upper limit of normal (ULN) for age. If the serum creatinine is above these values, the calculated creatinine clearance or radioisotope GFR must be ?  mL/min/.m.
+Creatinine =< . x upper limit of normal (ULN); either lab result or calculated clearance
+Serum creatinine > . x ULN and/or measured or calculated creatinine clearance < % LLN (lower limit of normal) Bone marrow function:
+Creatinine =< . x laboratory upper limit of normal or calculated creatinine clearance of >=  mL/min (please use institutional formula)
+Calculated creatinine clearance (CrCl) of greater than or equal to  or serum creatinine less than  x ULN; even if organ function abnormalities are considered due to tumor, the upper limit for creatinine is less than or equal to  mg/dL
+Creatinine > . times upper normal limit and creatinine clearance <  ml/min/m^; patients with creatinine >  times upper limit of normal will have creatinine clearance estimated; at the discretion of treating physician, creatinine clearance can be measured and that value can be used instead of calculated creatinine clearance
+Creatinine =< . x laboratory upper limit of normal or calculated creatinine clearance of >=  ml/min
+Serum creatinine =< . x upper limit of normal (ULN), or, calculated creatinine clearance (CrCl) >=  mL/min
+Serum Creatinine < . x ULN (upper limit of normal) or estimated creatinine clearance ?  mL/min, as calculated using method standard for the institution (Appendix ).
+Patient's serum creatinine must be ? . x institutional upper limit of normal (ULN) according to age. If the serum creatinine is greater than . times normal, the patient must have a calculated creatinine clearance or radioisotope GRF ? mL/min/.m.
+Creatinine =< . x upper limit of normal (ULN) or creatinine clearance >=  ml for patients with creatinine levels . times above institutional ULN (calculated based on age, weight and sex)
+Serum creatinine ? . x upper limit of normal (ULN) or calculated creatinine clearance >  mL/min if the serum creatinine is > . x ULN
+Serum creatinine >= . times the upper normal limit or calculated/measured creatinine clearance =<  mL/min
+Serum creatinine =< . x upper limit of normal OR creatinine clearance on a -h urine collection of >=  mL/min
+Creatinine < . x upper limit of normal and/or a creatinine clearance >=  ml/min
+Serum creatinine less than . x upper limit of normal (ULN), OR -hour creatinine clearance = or  mL/min for subject with creatinine levels more than . x ULN; (Note: creatinine clearance need not be determined if the\r\nbaseline serum creatinine is within normal limits; creatinine clearance should be determined per institutional standard)
+Serum creatinine > . x upper limit of normal (ULN) or creatinine clearance <  mL/minute
+Creatinine value of =< . x upper limit of normal (ULN) or creatinine clearance value of >=  mL/min
+Serum creatinine < . x upper limit of normal (ULN) or a calculated creatinine clearance >=  mL/min
+Serum creatinine =< . x institutional upper limit of normal concurrent with creatinine clearance >=  mL/min (measured or calculated by Cockcroft and Gault equation), confirmation of creatinine clearance is only required when creatinine is > . x upper limit of normal (ULN) (within  days of study registration)
+Serum creatinine =< . x ULN or calculated or directly measured creatinine clearance (CrCl) >= % of LLN (lower limit of normal)

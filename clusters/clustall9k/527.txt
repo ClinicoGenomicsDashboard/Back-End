@@ -1,0 +1,267 @@
+For patient aged 2 years with known mild to moderate hepatic impairment: in the Investigator's opinion the impairment does not jeopardize patient's safety during the study.
+For patient aged 2 years with known mild to moderate renal impairment: in the Investigator's opinion the impairment should not jeopardize patient's safety during the study.
+Patient aged < 2 years with known hepatic impairment (any grade), or patient aged 2 years with known severe hepatic impairment.
+Patient aged < 2 years with known renal impairment (any grade), or patient aged 2 years with known severe renal impairment.
+Patients with renal abnormalities requiring modification of radiation field (pelvic kidney, renal transplant, etc.)
+Patients with renal abnormalities, such as pelvic kidney, horseshoe kidney, or renal transplantation, that would require modification of radiation fields
+Chronic renal failure or current evidence of moderate to severe renal impairment.
+Subjects in whom the required program of PO and IV fluid hydration is contraindicated, e.g., due to pre-existing pulmonary, cardiac, or renal impairment
+Pts in whom the required program of oral and intravenous fluid hydration is contraindicated, e.g. due to pre-existing pulmonary, cardiac, or renal impairment
+Pre-existing renal disease including glomerulonephritis, nephritic syndrome, Fanconi Syndrome or renal tubular acidosis.
+Any condition that could potentially alter immune function (AIDS, multiple sclerosis, diabetes, renal failure)
+Severe underlying cardiac or renal diseases
+Any condition that could potentially alter immune function (AIDS, multiple sclerosis, diabetes, renal failure)
+Imperative indication for nephron sparing surgery \r\n* Baseline chronic kidney disease (CKD) (stage 3, glomerular filtration rate [GFR]  < 60 ml/min/1.73m^2), or anatomically or functional solitary kidney (defined by renal scintigraphy of contralateral renal unit with < 15% function) or bilateral synchronous disease); and \r\n* Radius Exophytic/endophytic properties, Nearness of the tumor to the collecting system or sinus, Anterior/posterior, and Location relative to polar lines (RENAL) score >= 10 or proximity to renal hilum (defined as  < 2 mm away from at least 2 renal hilar vessels-the main artery/vein or first order branches); and\r\n* Radical nephrectomy would lead to severe CKD (stage 4, GFR < 45 ml/min/1.73m^2)
+Simple or intermediate renal mass on imaging (R.E.N.A.L score =< 9)
+History of any renal calculi or hyperoxaluria or any other preexisting renal disorder
+Obstructive renal failure that is not relieved with stents or nephrostomy tube/s
+Intestinal obstruction, uncontrolled gastrointestinal hemorrhage, pulmonary fibrosis, renal failure, liver failure, or cerebrovascular disorder
+Objective measurable (cardiac, renal or liver) organ amyloid involvement defined as follows (amyloid involvement of at least 1 required):\r\n* Mean wall thickness > 12 mm on echocardiogram, with no other cardiac cause or an elevated N-terminal pro b-type natriuretic peptide (NT-ProBNP) (> 332 ng/L) in the absence of renal failure or atrial fibrillation\r\n* Renal involvement is defined as proteinuria (predominantly albumin) > 0.5 g/day in a 24-hour urine collection\r\n* Total liver span > 15 cm in the absence of heart failure or alkaline phosphatase > 1.5 times institutional upper limit of normal (ULN)\r\n* NOTE: Amyloid involvement of other organ systems is allowed, but not required
+Creatinine > 1.5 or history of renal disease preventing use of ZA
+GROUP 1: \r\n* Patients must have 1) both a and b below; and 2) either c, or d\r\n** a) Diffuse cutaneous scleroderma as defined by skin thickening proximal to the elbows and knees and/or involving the torso in addition to distal extremity involvement; a skin score will be obtained but not used to determine eligibility\r\n** b) Duration of systemic sclerosis =< 7 years from the onset of first non-Raynaud's symptom; for those patients with disease activity between 5-7 years from the onset of first non-Raynaud's symptom, recent progression or activity of disease must be documented\r\n** c) Presence of SSc-related pulmonary disease with forced vital capacity (FVC) < 80% or hemoglobin-adjusted diffusing capacity for carbon monoxide (DLCO) < 70% of predicted AND evidence of alveolitis or SSc-related interstitial lung disease by high-resolution chest computed tomography (CT) scan and/or by bronchoalveolar lavage (BAL) (interstitial lung disease may be nonspecific interstitial pneumonia [NSIP] or usual interstitial pneumonia [UIP]; a bronchoalveolar lavage [BAL] should be done to confirm the findings of alveolitis only if the high resolution CT scan [HRCT] fails to show findings typically associated with systemic sclerosis changes [ground glass NSIP, UIP, SSc related interstitial lung disease]); alveolitis by BAL cell count will be defined based on a BAL cell differential count (> 3% neutrophils and/or > 2% eosinophils) from any lavaged lobe\r\n** d) History of SSc-related renal disease that may not be active at the time of screening; stable serum creatinine must be documented for a minimum of 3 months post-renal crisis at the time of the baseline visit; history of scleroderma hypertensive renal crisis is included in this criterion and is defined as follows:\r\n*** History of new-onset hypertension based on any of the following (measurements must be repeated and confirmed at least 2 hours apart within 3 days of first event-associated observation, with a change from baseline):\r\n**** Systolic blood pressure (SBP) >= 140 mmHg\r\n**** Diastolic blood pressure (DBP) >= 90 mmHg\r\n**** Rise in SBP >= 30 mmHg compared to baseline\r\n**** Rise in DBP >= 20 mmHg compared to baseline\r\n***AND one of the following 5 laboratory criteria: \r\n**** Increase of >= 50 % above baseline in serum creatinine\r\n***** Proteinuria: >= 2+ by dipstick confirmed by protein:creatinine ratio > 2.5\r\n***** Hematuria: >= 2+ by dipstick or > 10 red blood cell (RBC)s/hematopoietic-promoting factor (HPF) (without menstruation)\r\n***** Thrombocytopenia: < 100,000 platelets/mm^3\r\n***** Hemolysis: by blood smear or increased reticulocyte count\r\n*** The above definition of SSc hypertensive renal crisis is independent of whether concomitant anti-hypertensive medications are used\r\n*** Subjects who present with solely skin and renal disease in the absence of other organ involvement, except classic SSc renal crisis as described above and including non-hypertensive renal crisis, must see a nephrologist to confirm that their renal disease is secondary to only SSc\r\n*** Note: Subjects may be re-screened if they fail to meet inclusion criteria on initial evaluation
+Significant renal pathology defined as:\r\n* Estimated creatinine clearance (CrCl) < 40 mL/min (using Cockcroft-Gault formula based on actual body weight) and serum creatinine > 2.0 mg/dL; OR\r\n* Active, untreated SSc renal crisis at the time of enrollment; presence of nephrotic range proteinuria (defined as >= 3.5 gms/24 hours, or protein:creatinine ratio >= 3.5), active urinary sediment, urinary RBCs > 25 per HPF, or red cell casts require further investigation by a nephrologist to rule out glomerulonephritis, overlap syndromes, or other causes of renal disease in all subjects; subjects with glomerulonephritis or overlap syndromes will be excluded
+Documented hepatic insufficiency or renal failure
+Patients with renal abnormalities, such as pelvic kidney, horseshoe kidney, or renal transplantation, that would require modification of surgical lymph node assessments
+Renal
+Patients with chronic kidney disease who are on chronic renal replacement therapy are allowed; other tests, such as pulmonary function tests, cardiac echocardiogram or stress test, will be performed if clinically indicated
+Renal insufficiency, with creatinine greater than 1.5 mg/mL
+Renal mass =< 5 cm\r\n* The treating renal mass must be =< 5 cm; other renal masses (cysts etc.) of any size will not make the subject ineligible
+Biopsy proven renal neoplasm\r\n* All histology of renal cancers are included, including oncocytoma
+Growth of renal mass > 4 mm in radiographic scans must be demonstrated within a one year period
+Subject has received any treatment for the treating renal mass; such as radiofrequency ablation (RFA) or cryoablation\r\n* If other renal masses received RFA or cryoablation or surgery, then these patients are eligible
+Any medical history, concurrent disease or concomitant medication which could reasonably predispose the patient to renal insufficiency while on study treatment
+Concomitant disease or malformation severely affecting the cardiovascular, pulmonary, liver or renal function
+Patients with an organ confined renal mass planning to undergo a robotic assisted partial nephrectomy (RAPN)
+Patients with non-organ confined renal masses (invading renal vein, inferior vena cava, peri-renal tissue, ipsilateral adrenal gland, or metastasis)
+Patients with renal lesions determined to be too complex to perform a RAPN without clamp by the surgeon; (the renal mass may be deemed too difficult based on pre-operatively radiological findings; the surgeon’s decision to exclude a mass from a robotic assisted partial nephrectomy would be based on a higher risk of positive margin or complication if a RAPN was performed)
+Clinical evidence of significant renal impairment
+Severe renal disease (creatinine > x 3 normal for age)
+Patients with severe renal disease (i.e., creatinine clearance less than 40 cc/1.73 m^2)
+Patients in whom IV fluid hydration is contraindicated (e.g. due to pre-existing pulmonary, cardiac, or renal impairment) will NOT be eligible for participation
+Patients must not have any systemic illness which precludes them from being an operative candidate as determined by anesthesia preoperative evaluation. This includes but is not limited to, sepsis, liver failure, renal failure, cardiovascular failure, pulmonary failure
+Patients with renal abnormalities, such as pelvic kidney, horseshoe kidney, or renal transplantation, that would require modification of radiation fields
+Renal medullary carcinoma
+Renal medullary carcinoma
+Any clinically significant pre-existing severe renal disease (eg, glomerulonephritis, nephritic syndrome, Fanconi Syndrome or renal tubular acidosis) or high risk of developing severe renal impairment.
+Risk of hepatic or renal failure
+Have active metabolic or digestive illnesses such as malabsorptive disorders (Crohn’s, Celiac disease, irritable bowel syndrome [IBS]), renal insufficiency, hepatic insufficiency, cachexia, or short bowel syndrome
+Subjects with renal dysfunction defined as (a) Chronic renal failure requiring renal replacement therapy (RRT), or (b) Acute renal failure with onset of oliguria (urine output < 0.3 ml/kg/hr) > 48 hours prior to first dose of study drug whether receiving RRT or not
+Screening renal biopsy for RAIN confirming AL amyloidosis as exclusive or dominant cause of renal damage
+Patients whose screening renal biopsies for RAIN show dominant causes of renal damage not related to AL amyloidosis
+Pre-existing renal disease including glomerulonephritis, nephritic syndrome, Fanconi syndrome or renal tubular acidosis
+Renal
+Chronic renal disease / failure
+Subjects in whom the required program of PO and IV fluid hydration is contraindicated, eg, due to pre-existing pulmonary, cardiac, or renal impairment
+Any conditions that could potentially alter immune function (AIDS, multiple sclerosis, diabetes, renal failure)
+Patients with renal abnormalities, such as pelvic kidney, horseshoe kidney, or renal transplantation, that would require modification of surgical lymph node assessments
+Adequate renal and hepatic function (creatinine <2mg/dL and eGFR more than 30cc/minute, bilirubin <2mg/dL). Patients with renal or liver dysfunction due to organ infiltration by lymphocytes may be eligible after discussion with the study chairman. Patients with Gilbert's syndrome are eligible.
+Any conditions that could potentially alter immune function (AIDS, multiple sclerosis, diabetes, renal failure)
+Renal
+Severe liver or renal insufficiency
+DONOR: No history of significant cardiopulmonary, renal or neurologic disease
+History of renal disease or current evidence of renal disease
+Acute renal failure
+Patients in whom the required program of oral and IV fluid hydration is contraindicated, e.g. due to severe pre-existing pulmonary, cardiac, or renal impairment
+Renal:
+Patients in whom the required program of oral and IV fluid hydration is contraindicated, e.g. due to pre-existing pulmonary, cardiac, or renal impairment
+Patients with a history of renal disease
+Acute renal failure
+Significant renal impairment as determined per investigator discretion
+Acute or chronic severe renal insufficiency (glomoerular filtration rate <30 milliliters [mL]/minute/1.73 square meters) or acute renal insufficiency of any severity due to the hepato-renal syndrome.
+Patients with history of renal or hepatic insufficiency.
+Any current renal replacement therapy
+Patients with solitary kidneys, bilateral renal tumors, compromised renal function (baseline creatinine > 1.4)
+Renal insufficiency, defined as creatinine level greater than the upper limit of normal for age
+RENAL CANCER: Metastatic disease, in the opinion of the treating provider
+RENAL CANCER: Starting any systemic therapy for metastatic disease
+Chronic renal failure in renal replacement therapy
+Renal failure
+Patients with documented advanced cardiac or renal disease
+Patient must have a solitary, polar, clinical T1 renal mass
+Participants with renal insufficiency or failure, as determined by a point of care renal function blood test.
+EXCLUSION - PATIENT: Known or suspected renal insufficiency, rendering the participant unable to safely receive intravenous contrast based on institutional clinical protocol; renal insufficiency for the purposes of exclusion includes any of the following:\r\n* Known history of end stage renal disease with estimated glomerular filtration rate (eGFR) < 30 mL/min/1.73 m^2\r\n* Point of care (POC) measure of creatinine clearance (eGFR) prior to obtaining the MRI < 35; we will perform this POC test as needed per institutional policy for routine MRI if: (a) answered yes to any of the Choyke question AND no creatinine result is available in the optical mark recognition (OMR) software within 30 days of the MRI exam, regardless of patient age, or (b) the patient is > 60 years old, or (c) the patient is on hydroxyurea
+Renal function < 30% of normal for age and size as determined by the Schwartz formula
+Renal impairment
+Patients with renal failure are eligible; however, patients with pre-existing renal insufficiency will likely have further compromise in renal function and may require dialysis
+History of renal disease
+Individuals with uncontrolled renal insufficiency or renal failure
+Individuals with uncontrolled renal insufficiency or renal failure
+Renal impairment
+Patients with a history of renal lithiasis within the last 5 years or patients with evidence of kidney stones on entry evaluation
+Renal insufficiency with plasma creatinine > 1.6
+Renal insufficiency with recent (< 3 month old) creatinine > 2.0
+Women with renal failure or insufficiency
+Renal insufficiency with recent (< 3 month old) creatinine > 2.0 mg/dL
+Participants with renal insufficiency or failure, as determined by a point of care renal function blood test
+Medical condition\r\n* Renal transplant\r\n* Active or ongoing kidney disease or kidney failure, including but not limited to: functioning renal transplant, solitary kidney, proteinuria, multiple myeloma, acute and chronic nephropathies\r\n* Myasthenia gravis\r\n* Thyroid cancer or overactive thyroid\r\n* Severe congestive heart failure
+Acute renal dysfunction due to the hepato-renal syndrome or in the perioperative liver transplantation period
+Exposure to gadolinium-based contrast agents increases the risk for nephrogenic systemic fibrosis (NSF) in patients with acute or severe renal dysfunction; therefore, patients with the following conditions are excluded from the study:\r\n* Acute or chronic severe renal insufficiency (glomerular filtration rate < 30 mL/min/1.73 m^2)\r\n* Acute renal dysfunction due to the hepato-renal syndrome or in the perioperative liver transplantation period
+In order to identify subjects at risk for the development of NSF, the American College of Radiology (http://acr.org) recommends obtaining a medical history and a glomerular filtration rate (GFR) assessment within six weeks of MR imaging in the following patients: \r\n* Renal disease (including solitary kidney, renal transplant, renal tumor)\r\n* Age > 60\r\n* History of hypertension\r\n* History of diabetes\r\n* History of severe hepatic disease/liver transplant/pending liver transplant
+Individuals with renal disease or other contraindications to gadolinium will be excluded; the Brigham and Women’s Hospital (BWH) standard MRI contrast screening criteria will be used to establish renal status
+Pre-existing renal disease including glomerulonephritis, nephritic syndrome, Fanconi syndrome or renal tubular acidosis
+Renal insufficiency
+Patients with renal insufficiency such that they cannot get intravenous contrast as part of screening or follow-up
+Patients with known hepatic cirrhosis or severe pre-existing hepatic impairment are not eligible
+Have moderate or severe cardiovascular disease:
+Moderate or severe heart valve function defect including moderate or severe valve stenosis or regurgitation.
+Severe or moderate hepatic impairment
+Contraindication to hepatic arteriography (e.g. hepatic artery dissection and/or thrombosis, uncorrectable coagulopathy, severe allergy to iodinated contrast, severe vascular disease precluding safe hepatic artery catheterization)
+Have moderate or severe cardiovascular disease.
+Active or severe hepatic or renal disease.
+Patient may not have severe hepatic disease (direct bilirubin greater than 3 mg/dl OR aspartate aminotransferase [AST] greater than 500 IU/L), unless hepatic injury is due to LCH
+Known hepatic cirrhosis or severe pre-existing hepatic impairment
+Known hepatic cirrhosis or severe pre-existing hepatic impairment
+Has known hepatic cirrhosis or severe preexisting hepatic impairment.
+Liver cirrhosis or severe hepatic impairment with function test 3 times above ULN.
+Patients with known moderate or severe hepatic impairment, active hepatitis A, B, and/or C infection, due to the difficulty that would be faced in assessing the attribution of any events of hepatic toxicity while on cabozantinib therapy
+Known hepatic cirrhosis or severe pre-existing hepatic impairment
+Have moderate or severe cardiovascular disease.
+Have moderate or severe cardiovascular disease.
+Have moderate or severe cardiovascular disease:
+Subjects with moderate-severe renal disease
+Clinical evidence of severe hepatic impairment
+Known hepatic cirrhosis or severe pre-existing hepatic impairment
+Moderate to severe hepatic impairment.
+Known hepatic cirrhosis or severe pre-existing hepatic impairment
+28 or more reported moderate-to-very severe hot flashes per week
+Known hepatic cirrhosis or severe pre existing hepatic impairment.
+Moderate or severe hepatic impairment
+Patients with moderate to severe renal impairment.
+Patients with moderate or severe cardiac disease:
+Moderate hepatic impairment with total bilirubin greater than 1.5 to less than or equal to 3.0 × ULN
+Severe cardiovascular or hepatic disease
+Moderate to severe steroid-refractory cGVHD as defined by all following criteria:
+Known hepatic cirrhosis or severe pre-existing hepatic impairment
+Subjects with severe hepatic impairment\r\n* Bilirubin > 3 x ULN, regardless of any level of ALT
+Have moderate or severe cardiac disease:
+Moderate or severe cardiovascular disease
+Severe (CTCAE v 4.03 grade 3 or higher) concurrent hepatic impairment, renal impairment, heart disease, hematological disease, respiratory disease, or metabolic disease
+Severe renal impairment.
+Severe hepatic impairment.
+Moderate to severe hepatic impairment
+Central nervous system injury or severe neurological impairment
+Participants with moderate hepatic impairment: total bilirubin must be > 1.5 to 3 x ULN with any ALT level.
+Participants with severe hepatic impairment: total bilirubin must be > 3 x ULN with any ALT level.
+Moderate to severe aortic or mitral stenosis or other valvulopathy (ongoing).
+Known hepatic impairment including cirrhosis, known renal impairment including renal insufficiency or glomerulonephritis and severe cerebral or peripheral vascular disease;
+Known hepatic cirrhosis or severe pre-existing hepatic impairment
+Severe hepatic impairment
+Have severe hepatic impairment, severe renal impairment, or end-stage renal disease as determined by the treating physician
+Patients with severe hepatic impairment
+Severe visual or auditory impairment
+Severe renal impairment as measured eGFR less than 30 per institutional laboratory
+Have moderate to severe levels of fatigue
+Megacolon or moderate to severe ileus
+Moderate to severe fatigue (>= 4 on BFI)
+Moderate to severe sun damage
+Patient has a history of severe renal or hepatic impairment, severe bone marrow suppression, or systemic infection
+Patients with evidence of moderate or severe cardiac valvular disease on echocardiogram
+Moderate or severe aortic stenosis
+Have moderate or severe cardiac disease:
+Known moderate to severe aortic stenosis, moderate to severe mitral stenosis, or other valvulopathy (ongoing).
+Clinical diagnosis of chronic hepatic impairment that is stable with no acute worsening of liver failure within one month prior to enrollment. Hepatic impairment will be assessed as per National Cancer Institute Organ Dysfunction Working Group Criteria (NCI-ODWG) schema and will fall into one of the following three categories:
+Significant hearing loss that would prevent cisplatin administration
+Patients must not have a clinically relevant hearing impairment >= grade 2
+Has experienced prior or ongoing hearing impairment due to chemotherapy or radiotherapy as defined by one of the following: \r\n* Society of Pediatric Oncology (SIOP) grade 1 hearing loss\r\n* Subjective (patient-reported) hearing difficulties\r\n* Subjective (patient-reported) tinnitus
+Patients with hearing loss assessed to be primarily sensorineural in nature, requiring a hearing aid, or intervention (i.e. interfering in a clinically significant way with activities of daily living); a conductive hearing loss from tumor-related otitis media is allowed
+Significant pre-existing hearing loss, as defined by the patient or treating physician
+Patients requiring hearing aids or reporting hearing loss must have audiogram performed within 28 days prior to step 1 registration; if audiogram is performed, patient must not have hearing impairment >= Common Terminology Criteria for Adverse events (CTCAE) grade 2
+No signs of clinically significant hearing loss
+Patients ineligible for cisplatin based on any of the following criteria:\r\n* Estimated or calculated creatinine clearance >= 30ml/min but < 60 ml/min.\r\n* Grade 2 or above audiometric hearing loss (per CTCAE v4.0).\r\n* Grade 2 or above peripheral neuropathy (per CTCAE v4.0).
+Subject has recovered (i.e., to Grade ? 1 or to a baseline level) from the effects of surgery, radiotherapy, chemotherapy, hormonal therapy, or other therapies for cancer; with the exception of vitiligo, alopecia, neuropathy, partial hearing loss, and/or endocrinopathies (for which no resolution is required);
+Grade >= 2 sensorineural hearing loss
+COHORT I: No significant contraindications to cisplatinum chemotherapy (significant hearing loss, renal dysfunction or neuropathy)
+Cisplatin-ineligible as defined by at least one of the following:\r\n* Calculated creatinine clearance >= 30 but =< 60 mL/min (Cockcroft-Gault)\r\n* ECOG performance status of 2 or greater\r\n* CTCAE v4 grade >= 2 audiometric hearing loss
+Existing major organ dysfunction > Grade 2, with the exception of hearing loss, hematological status, kidney and liver function
+Existing severe major organ dysfunction, i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity >= grade 3 except for hearing loss, alopecia, anorexia, nausea, and hypomagnesemia from total parenteral nutrition (TPN), which may be grade 3
+Existing major organ dysfunction, i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity >= grade 3, with the exception of hearing loss and hematologic toxicity
+Patients with greater than grade 2 hearing loss
+Symptomatic altered hearing > grade 2 by NCI-CTC version (v)4 criteria
+Ineligible to receive cisplatin-based neoadjuvant chemotherapy based upon at least one of the following criteria:\r\n* Creatinine clearance < 60 ml/min \r\n* Eastern Cooperative Oncology Group (ECOG) performance status = 2\r\n* Grade ? 2 hearing loss \r\n* Grade ? 2 neuropathy\r\n* New York Heart Association class III heart failure
+Has clinically relevant hearing impairment > grade 2
+Existing severe major organ dysfunction, i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity > grade 3 except for hearing loss, alopecia, anorexia, nausea, hyperbilirubinemia and hypomagnesemia from total parenteral nutrition (TPN), which may be grade 3
+Documentation of pre-existing hearing deficits
+Existing major organ dysfunction > grade 2, with the exception of hearing loss and hematologic toxicity (defined as suppression of all subtypes of white blood cells [WBCs], red blood cells [RBCs], and platelets)
+Patients with >= grade 3 sensorineural hearing loss at baseline may receive radiation alone or radiation with carboplatin
+Existing major organ dysfunction > grade 2, with the exception of hearing loss and myelosuppression (defined as suppression of all types of white blood cells [WBCs], red blood cells [RBCs] and platelets)
+Pre-existing bilateral sensorineural hearing loss at >90dB at any frequency from 250-8000Hz as assessed by a comprehensive audiometric evaluation for patients receiving cisplatin. This criteria will not apply to patients receiving carboplatin.
+Severe major organ toxicity; specifically, renal, cardiac, hepatic, pulmonary, and gastrointestinal system toxicity should all be less than grade 2; patients with stable neurological deficits (because of their brain tumor) are not excluded; patients with =< 3 hearing loss are not excluded
+Normal auditory acuity: defined as a normal age-related audiogram without significant hearing loss.
+Symptomatic altered hearing > grade 2 by NCI-CTCv4 criteria
+Peripheral neuropathy >= grade 2 or clinically significant sensorineural hearing loss or tinnitus
+BLADDER: Subjects must be considered cisplatin ineligible as per treating physician due to renal dysfunction, hearing impairment, or co-morbidities
+Grade >= 2 sensorineural hearing loss
+Hearing loss >= grade 2
+Significant hearing loss that would prevent cisplatin administration
+Patients who are ineligible to receive cisplatin:\r\n* Creatinine clearance of less than 60 mL/minute, hearing loss of 25 decibels (dB) at two contiguous frequencies, grade 2 or higher peripheral neuropathy, or New York Heart Association class III or higher heart failure\r\n* Hearing test will not be routinely done, it will only be done if patients report hearing loss at baseline or during treatment
+Clinically significant sensorineural hearing impairment which may be worsened via cisplatin exposure (audiometric abnormalities without corresponding clinical deafness are not grounds for exclusion)
+Patients should have an audiogram at baseline, and patients with pre-existing hearing loss or hearing loss during treatment should be assessed frequently during cisplatin therapy
+Patients must not have a clinically relevant hearing impairment > grade 2
+Pre-existing hearing impairment
+Existing severe major organ dysfunction i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity >= grade 3 except for hearing loss, alopecia, anorexia, nausea, hyperbilirubinemia and hypomagnesemia from total parenteral nutrition (TPN), which may be grade 3
+Preexisting grade >= 2 hearing loss
+Pre-existing hearing impairment (patients who are willing to accept risk of further impairment will be considered after audiologic testing)
+Patients must be ineligible for treatment with cisplatin, based on one of:\r\n* Calculated creatinine clearance (CrCl) >= 30 and < 60 mL/min (Cockcroft-Gault)\r\n* CTCAE grade (Gr) >= 2 hearing loss\r\n* CTCAE Gr >= 2 neuropathy
+> grade 1 hearing loss or tinnitus
+COHORT II: Patients must not have >= grade 2 hearing deficits
+Symptomatic altered hearing > grade 2 by NCI-CTCv4 criteria
+Existing major organ dysfunction > grade 2, with the exception of hearing loss and hematologic toxicity (defined as suppression of all subtypes of white blood cells [WBCs], red blood cells [RBCs], and platelets)
+Patients must have recovered to =< grade 1 toxicity (except alopecia and hearing loss) from any prior chemotherapy, other investigational therapy, hormonal, biological, targeted agents
+Preexisting grade >= 2 hearing loss
+Hearing: a) No clinically significant hearing loss, defined in Section 6.2, number 9.
+Patients with significant hearing loss are not eligible for study participation defined as hearing loss that affects everyday life and/or for which a hearing aid is required.
+Serum creatinine > 1.3 or upper limit or normal (ULN), CCL < 60 cc/min, peripheral neuropathy > grade 1 and/or frequency hearing loss that interferes with activities of daily living are contraindications to cisplatin but not to carboplatin
+Clinically significant hearing loss or ringing in the ears
+Severe major organ toxicity; specifically, renal, cardiac, hepatic, pulmonary, and gastrointestinal system toxicity should all be less than or equal to grade 2; patients with stable neurological deficits (because of their brain tumor) are not excluded; patients with =< 3 hearing loss are not excluded
+Severe sensorineural hearing loss greater or equal to grade 2
+Hearing loss that would preclude participating in telephone sessions (determined by brief hearing assessment administered by research staff at each National Cancer Institute Community Oncology Research Program [NCORP] component); individuals who can compensate for hearing loss through the use of a hearing device or telecommunication device for the deaf (TDD) phone, and through the use of such devices are able to communicate with the study therapist by telephone, will be included; if the therapist cannot communicate with the participant by telephone, the participant will be excluded
+Neither has a significant hearing impairment precluding intervention session participation
+Hearing loss that would preclude participating in interventions; adequate hearing to participate will be determined via: (1) response of “no” to the question [“Do you have a hearing problem now?”]; participants with hearing aids will be allowed to enroll as long as their hearing is adequate to hear the sounds on the study devices; if necessary, potential study participants will receive a brief test trial with the RESPeRATE device; if they indicate inability to hear the guiding tones, they will not be enrolled in the study
+Visual or hearing impairment that would prevent ability to engage in the telephone session or study materials
+Caregiver is deaf or has significant hearing impairment and thus cannot use the telephone
+Adequate vision and hearing for valid completion of study measures
+No significant hearing impairment that would prevent participation in sessions
+Patients with communication barriers (e.g., hard of hearing)
+Hearing level threshold =< 25 dB at all frequencies in both ears to be evaluable for evaluation of pantoprazole's effect on cisplatin ototoxicity; patients with hearing loss can be enrolled but will not be evaluable for ototoxicity objective
+No hearing impairment
+Vision and hearing (eyeglasses and/or hearing aid permissible) sufficient for valid test administration and cooperation with examinations
+Hearing levels that interfere with following test instruction
+Are deaf or hearing-disabled.
+No hearing impairment in patient or partner
+Participant has a sensory impairment (vision, hearing) that prohibits completion of neurocognitive examination
+Uncorrected hearing impairments
+Severe hearing impairment that limits the ability to use audio-based guided imagery modules
+Prior history of hearing impairment
+Previous or existing pathology of the inner ear with or without hearing loss (i.e. sudden sensorineural hearing loss, Meniere’s disease, autoimmune inner ear disease)
+Having impairing hearing or speech
+Communication barriers (e.g. hard of hearing)
+Hearing loss greater than grade 1
+Subject has normal baseline auditory function, defined as ? 20 dB from 2000 to 8000 Hz, in both ears and does not have a history of sensorineural hearing loss.
+Patents must have no contraindication to cisplatin chemotherapy including no clinically significant hearing loss unless willing to accept the potential of further loss of hearing, no symptomatic peripheral neuropathy
+Hearing and vision impairments that would prevent ability to complete consent, interviews, or sample collection
+Patients with hearing and/or visual impairments
+OR Patients with impaired hearing or speech;
+Reasonably able to listen to radio, television (without hearing impairment)
+Pre-existing liver disease
+Patients with pre-existing history of or known cardiovascular risk
+Known pre-existing interstitial lung disease
+Known pre-existing interstitial lung disease
+Known pre-existing interstitial lung disease
+Pre-existing interstitial lung disease
+Known pre-existing interstitial or inflammatory lung disease.
+Known pre-existing interstitial lung disease
+Pre-existing liver disease
+Known pre-existing interstitial lung disease
+Patients with pre-existing history of or known cardiovascular risk
+Known pre-existing interstitial lung disease.
+Known pre-existing interstitial lung disease
+Patient with known pre-existing interstitial lung disease
+Known pre-existing interstitial lung disease
+Pre-existing carotid artery disease
+Known pre-existing interstitial lung disease.
+Known pre-existing interstitial lung disease
+Pre-existing carotid artery disease.
+Pre-existing or current interstitial lung disease
+Known pre-existing Interstitial Lung Disease (ILD)
+Known pre-existing interstitial lung disease (ILD)
+Ongoing treatment for pre-existing cardiovascular disease

@@ -1,0 +1,8 @@
+Cluster 214: bilirubin upper limit normal uln serum direct institutional equal institution 
+Cluster 332: total bilirubin uln institutional age concentration institution days equal liver 
+Cluster 410: creatinine upper limit normal uln serum institutional age equal registration 
+Cluster 433: lipase normal upper limit serum institutional limits iuln pancreas institution 
+Cluster 1069: total bilirubin upper limit normal stenting biliary institution laboratory age 
+Cluster 1306: bilirubin serum normal equal indirect count direct family fap fanconi 
+Cluster 1496: normal bilirubin upper limit range transaminases reference institution patients direct 
+Cluster 2015: normal upper alt limit ast uln institution range donor institutional 

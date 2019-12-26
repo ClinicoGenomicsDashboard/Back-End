@@ -1,0 +1,85 @@
+Patients must have a life expectancy of >= 8 weeks
+Patients must have a life expectancy >= 12 weeks
+Patients must have a life expectancy of >= 8 weeks
+Patients with life expectancy >= 12 weeks
+Patients must have a life expectancy of >= 12 weeks
+Patients must have a life expectancy of at least 12 weeks at the time of registration
+Patients must have a life expectancy ?12 weeks.
+PROCUREMENT: Patients with life expectancy >= 6 weeks
+TREATMENT: Patients with life expectancy >= 6 weeks
+Patients whose life expectancy is limited by illness other than their neurological condition
+Patients with life expectancy >= 6 weeks from time of CTL infusion
+Patients with life expectancy ? 12 weeks
+INCLUSION - INFUSION: Patients with life expectancy ? 6 weeks
+ELIGIBILITY CRITERIA AT TIME OF TREATMENT: Patients with life expectancy ? 6 weeks
+Patients with life expectancy ? 6 weeks
+Patients must have a life expectancy of >= 12 weeks
+Patients must have a life expectancy of > 8 weeks
+Patients must have a life expectancy of at least 12 weeks
+Patients with a life expectancy of less than 2 years
+Patients must have a life expectancy of >= 16 weeks
+Patients should have life expectancy >= 10 weeks.
+Patients with any severe concomitant disease that may limit their life expectancy to less than 5 years
+Patients must have a predicted life expectancy of at least 12 weeks.
+Patients must have a life expectancy of > 12 weeks
+Patients must have a life expectancy of at least 12 weeks
+Patients must have a life expectancy >= 16 weeks
+PROCUREMENT: Patients with life expectancy ? 6 weeks
+TREATMENT: Patients with life expectancy ? 6 weeks
+Patients must have a life expectancy of at least 4 weeks
+Patients must have a life expectancy of at least 8 weeks
+Patients with life expectancy >= 6 weeks
+Life expectancy severely limited by disease other than malignancy
+Patients with a life expectancy (=< 6 weeks) limited by diseases other than leukemia
+Patients must have a life expectancy of at least 12 weeks and an ECOG performance status of 0, 1 or 2
+Patients must have a life expectancy >= 16 weeks.
+Patients must have a life expectancy ? 16 weeks
+Patients must have a life expectancy of at least 6 weeks
+Patients must have a life expectancy >= 16 weeks.
+Patients must have a life expectancy >= 16 weeks
+Patients must have a life expectancy of at least 12 weeks
+Patients whose life expectancy is severely limited by illness other than CD
+Patients whose life expectancy is limited by diseases other than their malignancy
+Patients must have a life expectancy of at least 6 weeks
+Patients must have a life expectancy of >= 12 weeks
+PHASE II: Patients must have a life expectancy of >= 12 weeks
+Patients must have a life expectancy of >= 8 weeks
+With life expectancy severely limited by diseases other than malignancy
+Patients must have a life expectancy >= 16 weeks
+Patients must have a life expectancy of at least 12 weeks
+Patients must have a life expectancy of >= 8 weeks
+Patients with a life expectancy > 12 weeks
+Patients must have a life expectancy ? 16 weeks
+Life expectancy severely limited by diseases other than malignancy
+Patients must have a life expectancy of >= 90 days
+Patients must have a life expectancy ? 24 weeks.
+Patients must have a life expectancy of at least one year
+Patients must have a life expectancy of at least 8 weeks
+AT THE TIME OF INFUSION: Patients with life expectancy ? 6 weeks
+Patients must have a life expectancy >= 90 days
+Patients must have a life expectancy ?12 weeks.
+Patients must have a life expectancy >= 16 weeks.
+Patients must have a life expectancy of >= 12 weeks
+Patients must have a life expectancy of >= 8 weeks (>= 56 days)
+Patients with life expectancy >= 6 weeks
+Life expectancy severely limited by diseases other than malignancy
+Life expectancy severely limited by disease other than lymphoma
+Patients whose life expectancy is severely limited by illness other than autoimmune disease
+Patients must have a life expectancy of at least 10 weeks
+Patients must have a life expectancy of at least 8 weeks
+Patients must have a life expectancy of >= 8 weeks
+Patients must have a life expectancy of >= 8 weeks
+Patients must have a life expectancy of at least 12 weeks
+Patients must have a life expectancy of at least 12 weeks
+Patients must have a life expectancy of at least 12 weeks.
+Patient’s life expectancy is >= 10 years
+Patients must have a life expectancy > 11 weeks
+Patients must have a life expectancy > 8 weeks
+Patients must have a life expectancy > 12 weeks
+Patients must have a life expectancy of 100 days
+Patients are eligible regardless of life expectancy
+Patients with an expected life expectancy of less than 12 weeks
+Patients should have a life expectancy of at least 1 year
+Patients with a life expectancy of less than one year
+Patients with life expectancy >= 6 weeks
+Patients must have a life expectancy of >= 6 weeks

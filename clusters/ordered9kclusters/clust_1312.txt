@@ -1,0 +1,38 @@
+Clinically suspected Grade II to IV aGVHD as per MAGIC criteria, occurring after allo-HSCT and any GVHD prophylaxis regimen.
+Has received more than 1 allo-HSCT.
+Participants with evidence of relapsed primary disease, or participants who have been treated for relapse after the allo-HSCT was performed.
+Patients who received Allo-Stem cell Transplantation(Allo-SCT) within 12 months.
+Completed allogeneic stem cell transplant (allo-SCT) or are eligible for and willing to complete allo-SCT
+Any patients eligible for allogeneic stem cell transplantation (allo-SCT) and willing to undergo allo-SCT as determined at time of screening for trial; patients who are ineligible or not interested in undergoing allo-SCT will be eligible for the trial
+Patients who are receiving any other investigational agents, with the exception of virus-specific cytotoxic T-cells for the treatment of viral infection/reactivation prior to allo BMT
+PHASE I: For the post allo-HCT cohort, chimerism analysis must demonstrate > 95% either donor or recipient in peripheral blood CD3 cells, must be done within 1 month of enrollment (no mixed chimerism are eligible)
+Patients with Allo-SCT on active GVHD or immunosuppression therapy within 3 months prior to C1D1.
+Acceptable allogeneic stem cell donor with imminent plans to proceed with allo-SCT.
+Allo-HSCT within 90 days of leukapheresis
+Prior allo-HCT less than three months from the time of enrollment
+Previous allo-HSCT of any kind
+Allowed prior allogeneic hematopoietic stem cell transplantation (allo-HCT) regardless of stem cell source; patients must be at least 3 months post allo-HCT (at time of treatment start); mismatched transplantations would be allowed
+If post allo-HCT, then patient must have baseline donor T cell chimerism of >= 20% (from peripheral blood); evaluation can be made within 4 weeks of treatment start
+Acute Leukemia (AML or ALL) patient or allo-HCT recipient with a diagnosis of IA
+Prior allogeneic (allo)-hematopoietic cell transplantation (HCT) less than three months from the time of enrollment
+Previous allogeneic (allo)-transplant of any kind
+Has received more than 1 allo-HSCT.
+Subjects with evidence of relapsed primary disease, or subjects who have been treated for relapse after the allo-HSCT was performed.
+Unresolved toxicity or complications (other than acute GVHD) due to previous allo-HSCT.
+Received Janus kinase inhibitor therapy after allo-HSCT for any indication. Treatment with a JAK inhibitor before allo-HSCT is permitted.
+Inadequate recovery from toxicity and/or complications from the prior allo-HSCT.
+Patients underwent allo-SCT with intermediate risk and high risk AML and high risk MDS (defined by American Society for Blood and Marrow Transplantation [ASBMT] criteria), who are within 60 to 100 days after allo-SCT
+Prior AP, BC or allo-transplant
+Recipient of 1 allo-HSCT but not more than 1 allo-HSCT.
+Relapse of underlying malignant disease after allo-HSCT.
+For Pre-allo Part A (before stem cell transplant): Relapsed or refractory AML (greater than 5% blasts)
+For Post-allo Part B: Treatment must begin at least 60 days, but no more than 100 days post-transplant.
+For Pre-allo Part A (before stem cell transplant): Prior alloSCT
+For Post-allo Part B: Active GVHD Grade 2 or higher
+For Post-allo Part B:History of veno-occlusive disease requiring defibrotide
+For Post-allo Part B: History of Grade 2 or higher hepatic GVHD
+A patient is eligible for second enrollment (allo-cellular therapy) if all of the following inclusion criteria are met:
+At least a partial remission before allo-SCT
+Patients undergoing their first T-cell replete allogenic (allo)-HCT for CLL, MCL, follicular lymphoma (FL), Hodgkin disease (HD)
+Patient undergoing an allo-SCT
+Planned to undergo allo-HSCT

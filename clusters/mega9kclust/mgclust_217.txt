@@ -1,0 +1,4 @@
+Cluster 101: diabetes mellitus diagnosis type glucose fasting insulin patients hypoglycemic current 
+Cluster 607: type diabetes mellitus ii insulin controlled patients hypothyroidism autoimmune uncontrolled 
+Cluster 1431: diabetes uncontrolled mellitus hypertension unreasonably hazardous medical disease sugar hypothyroidism 
+Cluster 1704: diabetes controlled poorly insulin patients history uncontrolled diabetic diagnosed oral 

@@ -1,0 +1,195 @@
+Biological parent(s) of participant (child) enrolling on SJMB; these parents will be assigned to cohort P; the exclusion criteria below do not apply to this cohort
+COHORT B: Patients must have histologically or cytologically confirmed primary desmoplastic melanoma that is unresectable; patients in Cohort B must have measurable disease per RECIST .
+Cohort I, Ph-negative Patients Only
+Patient must have enrolled onto APECSC and must have been given a treatment assignment to Molecular Analysis for Therapy Choice (MATCH) to APECD based on the presence of an actionable mutation; note that treatment assignment may be to primary cohort A for patients with TSC or TSC loss of function mutations, primary cohort B for patients with other PIK/MTOR pathway mutations, a histology specific biomarker positive expansion cohort if the criteria to open such a cohort are met, or a biomarker negative expansion cohort if the criteria to open such a cohort are met
+Phase I (\untreated\ expansion cohort only): no prior HMA and/or lenalidomide treatment Patient has the evidence of symptomatic anemia according to the following criteria:
+Dose Expansion Cohort # - Patients will have first relapse of CD+ AML.
+Dose Expansion Cohort # - Patients will have relapse of CD+ ALL.
+Cohort A Dose Expansion (Ribociclib + PDR): Treatment with prior CDK/ inhibitors is prohibited
+Cohort A Dose Expansion (Ribociclib + PDR): Measurable disease by RECIST . is required
+Expansion Cohort B (Ribociclib + PDR + Fulvestrant): Treatment with prior CDK/ inhibitors are prohibited
+Expansion Cohort B (Ribociclib + PDR + Fulvestrant): Measurable disease by RECIST . is required
+COHORT I
+COHORT II
+Subcutaneous panniculitis-like T-cell lymphoma For enrollment into the AITL expansion cohort, subjects must have he diagnosis of AITL.
+PIKCA WILD TYPE COHORT (closed //): ECOG performance status of ,  or 
+PIKCA WILD TYPE COHORT (closed //): Leukocytes >= ,/mcL
+PIKCA WILD TYPE COHORT (closed //): Platelets >= ,/mcL
+For participants in MTD/OBD cohort expansion and Phase  only: participant has measurable disease.
+EXPANDED ACCESS COHORT: ECOG performance status =< 
+EXPANDED ACCESS COHORT: Platelets >= ,/mcL
+Cohort : Prior adverse reaction(s) to carboplatin
+Expansion cohort(s): Progression during or following at least , and up to , previous systemic therapies, consistent with the standard of care for the specific tumor type.
+SPECIFIC INCLUSION CRITERIA FOR EXPANSION COHORT:
+Cohort C: Patients in this cohort only will require a single tumor biopsy -H after the first administration of IMGN and gemcitabine on day , cycle  of treatment, providing it is safe/feasible and confers non-significant risk to patient
+For the dose expansion paired biopsy cohort:
+The study will include three primary cohorts, with any of the following EBV+ diseases: Cohort A - DLBCL, ) in first or subsequent relapse, not eligible for autologous transplantation following salvage therapy OR ) relapse following autologous transplantation. Cohort B - HL, brentuximab vedotin (BV) treatment failure or unable to tolerate BV. Cohort C - PTLD, rituximab treatment failure.
+AZD in a different cohort in this study.
+ADDITIONAL EXPANSION COHORT SUBJECT INCLUSION CRITERIA
+Expansion phase: Tumor-specific cohort(s) at the RD:
+Patients with congenital long QT syndrome (for cohort a and b [belinostat cohorts] only, electrocardiogram [ECG] not required for cohort )
+Patients taking valproic acid =<  weeks prior to initiation of belinostat therapy (for cohort a and b [belinostat cohort] only)
+No prior therapy for CLL for Cohorts ,  and . For Cohort , - prior treatments. For Cohort , patients must have failed to respond or relapsed after  or more treatment regimens. For Cohort , patients who have been receiving ibrutinib for at least  months, have not had a CR, and in whom no cysteine  mutation is detected. For Cohort , patients who are receiving ibrutinib with stable disease and now have the cysteine  mutant clone present at levels of >%. For Cohort , have refractory or relapsed PTCL after one or more prior therapies.
+For the dose expansion cohort patients with first-recurrence platinum-sensitive ovarian cancer must be excluded
+Expansion Phase Cohort B: Require urgent disease response or stabilization
+COHORT I ONLY: Patients are candidates for enrollment in cohort  if they have an indication for ruxolitinib based on splenomegaly or symptoms and are either on ruxolitinib already or going to start therapy with ruxolitinib
+Subject provides consent for fresh paired tumor biopsy samples to be obtained at screening and after  weeks of treatment (not required for run-in cohort or expansion of run-in cohort).
+ADDITIONAL INCLUSION CRITERIA FOR DOSE EXPANSION COHORT
+ADDITIONAL EXCLUSION CRITERIA FOR DOSE EXPANSION COHORT
+PARPi naive or prior exposure to PARPi therapy\r\n* Patients in Arm  of the Dose Expansion cohort cannot have prior exposure to PARPi therapy\r\n* Patients in Arm  of the Dose Expansion cohort cannot be PARPi naive
+SAFETY LEAD-IN COHORT
+Western Safety Cohort Only: Participants with Japanese heredity.
+Patients with TNBC may be enrolled in dose expansion cohort A with any number of prior lines of therapy (patients will be allowed to enroll in frontline setting)
+PHARMACODYNAMIC EXPANSION COHORT: Prior receipt of docetaxel is not permitted
+COHORT A
+COHORT B
+COHORT C
+Only patients with R/R ALL will be eligible for cohort C
+ADDITIONAL INCLUSION CRITERION FOR COHORT  (CUTANEOUS HNSCC):
+During cohort expansion, subjects with advanced cancer that either have received at least one prior therapy or are treatment naive, depending on the specified tumor type
+Sufficient recovery from first or second ASCT within - days of transplant (Cohort C)
+COHORT : Subjects in the post-operative setting (cohort ) are not required to have measurable disease and response rate will not be assessed in cohort 
+EXPANSION COHORT
+COHORT  (PATIENTS RECEIVING HEMITHORACIC RADIATION THERAPY)
+DOSE EXPANSION COHORT:
+Participants in cohort C must have completed systemic therapy (- cycles cisplatin or carboplatin + etoposides) and NOT be a candidate for consolidation thoracic radiotherapy or prophylactic cranial irradiation (PCI); participants in cohort C must initiate therapy with pembrolizumab within  weeks of the last dose of chemotherapy (therapy must not start within  weeks from the last dose); participants in cohort C must not have had progression of disease prior to the start of therapy
+Participants in cohort A may not have had prior therapy for their disease; participants in cohort B may not have had more than  cycle of systemic therapy (cisplatin or carboplatin + etoposide); participants in cohort C and D should not have had more than one prior regimen of chemotherapy
+LEAD IN COHORT
+History of radiation proctitis (for lead-in CRPC cohort only)
+Patients for the expansion cohort must have a CTC (TelomeScan) drawn in the screening phase if other eligibility criteria are met, and must be CTC-positive in order to be eligible for enrollment in the expansion cohort
+PK/PD/biomarker/metabolite expansion cohort(s) only: Subjects must consent to pre- and post-dose tumor biopsies and additional sample collection procedures.
+Patients should have demonstrated resistance, intolerance or treatment discontinuation for any other reason of at least  FDA-approved TKIs (other than bosutinib) if in CP (cohort ), or at least  Food and Drug Administration (FDA)-approved TKI (other than bosutinib) if in AP (cohort ); resistance will be defined as meeting the criteria for failure or warning by the European Leukemia Net (ELN); no prior therapy is necessary for patients in BP (cohort ); patients in CP who have failed <  TKIs, but are ineligible to receive other FDA-approved TKIs, may also be enrolled in cohort ; at least  CP patients with the TI mutation affecting the kinase domain of Bcr-Abl will be enrolled in cohort , as well as in the phase II portion of cohort 
+PHASE I AND II SCLC AND UROTHELIAL CARCINOMA EXPANSION COHORT: Patients who are receiving any other investigational agents
+UROTHELIAL CARCINOMA EXPANSION COHORT ONLY: Patients who have had prior treatment with olaparib or other camptothecin inhibitors
+PHASE I AND II SCLC AND UROTHELIAL CARCINOMA EXPANSION COHORT: Hypersensitivity to study therapies and its excipients
+PHASE I AND II SCLC AND UROTHELIAL CARCINOMA EXPANSION COHORT: Any chronic or concurrent acute liver disease
+UROTHELIAL CARCINOMA EXPANSION COHORT: Prior antiangiogenic therapy are permitted (-week washout from therapy is required)
+mCRPC EXPANSION COHORT: ECOG performance status =< 
+mCRPC EXPANSION COHORT: Leukocytes >= ,/mcL
+mCRPC EXPANSION COHORT: Hemoglobin >=  g/dL
+mCRPC EXPANSION COHORT: Patients who have had prior treatment with olaparib or other camptothecin inhibitors
+Prior liver-directed radiation therapy in cohort  (advanced cirrhosis group) or cohort  (low functional volume group)
+Phase Ib part: treatment-nave Stage III A/B NSCLC not eligible for surgical resection or concurrent chemoradiation (Arm A expansion cohort) or treatment-nave SCCHN eligible for fractionated curatively intended RT with concurrent cisplatin (Arm B expansion cohort)
+Cohort : Pre-treated patients with cMET GCN ?  or
+Cohort : Pre-treated patients with cMET GCN ? and < , or
+Cohort : Pre-treated patients with cMET GCN < , or
+Cohort : Treatment-nave patients with cMET dysregulation
+That has progressed within  months prior to study enrollment (Cohort  Expansion and Cohort  ONLY)
+Have provided written consent for mandatory pre- and post-treatment biopsy (expansion cohort only)
+COHORT I:
+COHORT II: Patient must be >=  years
+COHORT II: The surgical treatment must be intended to be a lumpectomy
+COHORT II:
+Patients enrolled in the expansion cohort must have biopsiable disease; there will be preferential enrollment of patients with pancreatic neuroendocrine tumors or ovarian cancer during the dose expansion cohort
+Patients in the tumor-specific endometrial carcinoma expansion cohort that have known mutation must be willing to provide consent for biopsies
+Refractory to standard available therapies. Expansion Cohort  Specific Inclusion Criteria:
+Not eligible for Expansion Cohort . Expansion Cohort  Specific Inclusion Criteria:
+Not eligible for Expansion Cohort . Expansion Cohort  Specific Inclusion Criteria:
+In expansion cohort only: patients kirsten rat sarcoma viral oncogene homolog (KRAS) mutational status must be known prior to enrollment
+Absolute neutrophil count (ANC) ? .x^/L for paclitaxel cohort, and ? .x^/L for endocrine therapy cohort
+Platelets (plt) ?  x ^/L for paclitaxel cohort, and ? ,  for endocrine therapy cohort
+Patients must undergo surgery and must not have further treatment. (For MTD expansion cohort only)
+THE PATIENT IS INELIGIBLE TO PARTICIPATE IN PART  IF ANY OF THE FOLLOWING OCCUR: In Cohort , if disease progression occurs before Part  data are available, then they will be transferred to Cohort .
+For Dose Expansion Cohort: HCC patients only: HCC confirmed by biopsy OR diagnosed by clinical and radiologic criteria; all of the following criteria must be met or a biopsy is required:\r\n* Known cirrhosis or chronic hepatitis B virus (HBV) or hepatitis C virus (HCV) infection\r\n* Hypervascular liver masses >  cm, and either serum alpha-fetoprotein (AFP) >  ng/ml\r\n* AFP > three times normal and doubling in value in the antecedent  months\r\n* In the expansion cohort, prior treatment with sorafenib as first-line therapy allowed
+DOSE EXPANSION COHORT: Prior treatment with at least one line of systemic therapy
+DOSE EXPANSION COHORT: ECOG performance status -
+DOSE EXPANSION COHORT: Platelets ? ,/mcL
+DOSE EXPANSION COHORT: Hemoglobin ?  g/dL
+DOSE EXPANSION COHORT: ALT(SPGT) ? . X ULN
+DOSE EXPANSION COHORT: ALP ? . X ULN
+DOSE EXPANSION COHORT: Brain metastases: symptomatic, unstable, or disease requiring use of steroid treatment
+DOSE EXPANSION COHORT: Pregnant or nursing
+Participants who have received or plan to receive any additional treatment for glioblastoma aside from surgical resection and conventional radiotherapy (cohort ), pembrolizumab (cohorts a and b) and temozolomide (cohort b) including but not limited to temozolomide (cohort  & a participants), stereotactic radiosurgery, placement of Gliadel (carmustine; BCNU) wafers, any other intratumoral or intracavitary treatment, brachytherapy, novo-tumor treating fields (Optune), or investigational therapeutic agents
+COHORT A & B PARTICIPANTS ONLY:
+pStat+ upon central testing of archival tumor specimen\r\n* Cohort A: pStat score of >=  by central testing\r\n* Cohort B: pStat score of - by central testing (Note, Cohort B will only open if there are at least  objective responses observed in the first stage of Cohort A)
+Dose expansion cohort: the inclusion and exclusion criteria for the expansion cohort are the same as above, except for the expansion cohort also required to express AR (score + or more) by IHC in archival bladder cancer samples or fresh biopsy specimens (if archival tissue not available)
+COHORT EXPANSION PHASE: Histological or cytopathological diagnosis of advanced/metastatic unresectable colorectal cancer with known rat sarcoma viral oncogene homolog (RAS) mutational status; patients with known B-Raf proto-oncogene, serine/threonine kinase (BRAF) mutations will not be eligible for the expansion cohort; all patients must have received and progressed or be intolerant of an oxaliplatin-containing regimen and an irinotecan-containing regimen
+OTHER ELIGIBILITY CRITERIA (APPLIES TO BOTH COHORT A AND COHORT B UNLESS SPECIFIED)
+Prior therapy with an anti-PD-, anti-programmed death-ligand (PD-L), anti-PDL-, or anti-cytotoxic T-lymphocyte antigen  (CTLA-) antibody (or any other antibody targeting T cell co-stimulation pathways)\r\n* In the fourth cohort at  mg/kg of BMS-, ten patients will be accrued that have had prior anti-CTLA- antibody at  or  mg/kg, and have not had any dose limiting immune-related adverse events (irAE) as defined in this protocol, i.e. none, or grades  or  non-dose limiting toxicity\r\n* In an additional fifth cohort, also at  mg/kg of BMS-, twenty patients will be accrued that have had prior anti-CTLA- antibody at  or  mg/kg, and may have had a dose limiting irAE of grades  or  as defined in this protocol\r\n* After amendment , grade  hepatotoxicity, skin toxicity or pancreatic enzyme elevations that did not require infliximab, mycophenolic acid, or any immune suppressive treatment beyond steroids will be allowed; those who experienced grade  colitis, hypophysitis, neurologic changes or any other grade  side effect other than liver, pancreatic or skin related will still be excluded from this cohort; after amendment , those with grades - side effects that required treatment with any immune suppressive in addition to steroids will be allowed in cohort ; those with grade  side effects other than GI, endocrine, skin, liver and pancreatic will still be excluded from entry to cohort \r\n* In the sixth cohort at  mg/kg of BMS-, an extension cohort of sixty patients will be accrued that have had prior anti-CTLA- antibody at  or  mg/kg, and have not had any dose limiting irAE as defined in this protocol, i.e. they would have had none, or grade  or grade  non-dose limiting toxicity from ipilimumab\r\n* Within cohort , up to ten patients may be included that have four or fewer untreated brain metastases, with no lesion larger than  cm, and no evidence of cerebral edema requiring steroids
+Cohort  - ATRT
+Subjects with microsatellite instability high (MSI-H) tumors will enroll in the MSI-H Cohort (mStage and cStage groups), the C Cohort, and the C Cohort.
+During cohort expansion, subjects with various solid tumors that have received at least one and no more than  prior treatment regimens
+For Cohort Expansion:
+For Combination Expansion cohort only: prior treatment with cetuximab or panitumumab
+For Cohort Expansion:
+Subjects in Cohort A may have asymptomatic LM detected by MRI. (Subjects with symptoms or signs attributed to LM will be enrolled in Cohort B whether or not they have brain metastases)
+Inclusion Criteria:\n\n        Phase a\n\n          -  Aged  years or older\n\n          -  Histologically or cytologically confirmed solid tumor or hematologic malignancy\n\n          -  Life expectancy of  weeks or longer\n\n          -  Must have received ?  prior treatment regimen\n\n          -  Must not be a candidate for potentially curative or standard of care approved therapy\n\n        Phase b\n\n          -  Aged  years or older\n\n          -  Cohort A: Histologically or cytologically confirmed pancreatic adenocarcinoma,\n             triple-negative breast cancer, urothelial cancer with at least  measurable or\n             evaluable target lesion\n\n          -  Cohorts B, C, D, E and G: Histologically confirmed multiple myeloma and\n             measureable/evaluable disease\n\n          -  Cohort F: Confirmed acute myeloid leukemia or myelodysplastic syndrome\n\n          -  Cohort H: Individuals diagnosed with lymphoma\n\n          -  Prior therapy:\n\n               -  Cohort A: No more than  prior chemotherapy regimen for advanced or metastatic\n                  disease (not including neoadjuvant and/or adjuvant therapy)\n\n               -  Cohorts B, C, D, E and G: Must have relapsed from or have been refractory to ? \n                  prior treatment regimens\n\n               -  Cohort F: May have received any number of prior treatment regimens or be\n                  treatment-nave\n\n               -  Cohort H: Must have relapsed from or have been refractory to available treatments\n\n        Phase \n\n          -  Aged  years or older\n\n          -  Cohorts I and J: Confirmed acute myeloid leukemia or high risk myelodysplastic\n             syndrome\n\n          -  Prior therapy:\n\n               -  Cohorts I and J: Must have failed prior therapy with a hypomethylating agent\n                  (HMA)\n\n        Exclusion Criteria:\n\n          -  Prior receipt of a JAK inhibitor (Phase a only)\n\n          -  Known active central nervous system metastases and/or carcinomatous meningitis\n\n          -  Eastern Cooperative Oncology Group (ECOG) performance status > \n\n          -  Any known contraindications to the use of gemcitabine, nab-paclitaxel, dexamethasone,\n             carfilzomib, bortezomib, lenalidomide, azacitidine, pomalidomide or PIK? inhibitor\n             (Phase b and Phase  only, as appropriate to treatment cohort)\n\n          -  Known human immunodeficiency virus infection, or evidence of hepatitis B virus (HBV)\n             or hepatitis C virus (HCV) infection or risk of reactivation
+Cohort : Participants must have cholangiocarcinoma.
+DLBCL- cohort:
+For PCNSL cohort:
+EPd Cohort:
+EN Cohort:
+Patients that have received prior enzalutamide in any setting will not be eligible. Exclusion criterion only for patients entering phase Ib expansion cohort:
+Patients that have received prior taxane-based chemotherapy or abiraterone in any setting will not be eligible for the expansion cohort. Additional exclusion criterion for patients undergoing tumour biopsy:
+COHORT  ONLY (BONE-ONLY)
+COHORT  (RARE HISTOLOGIES)
+METASTATIC SAFETY COHORT
+Patients in Phase  expansion cohort A will have experienced disease progression with  systemic treatment containing a checkpoint inhibitor. Any prior liver directed therapy is acceptable.
+Patients may not have been included in any prior IMCgp trial, regardless of treatment cohort
+Patients need to have biopsiable disease to enroll on cohort -; patients eligible for cohort  with a germline BRCA alteration can be enrolled even if they do not have biopsiable disease
+COHORT A (MEDICAL) SPECIFIC INCLUSION:
+COHORT B (SURGICAL) SPECIFIC INCLUSION:
+First diagnosis of unmethylated MGMT GBM (Cohort d and Cohort c Part B only)
+Participants for Cohort A:
+Subjects in the ibrutinib + JCAR combination therapy cohort must be either:
+Patients (with the exception of st line expansion cohort) must fulfil one of the following:
+Expansion cohort: a final expansion cohort for this study in a subset of interest utilizing the recommended dosing of combination; this cohort will include patients harboring characteristics that may predict response of combination or with clinical features that proved to derive most benefit of the study combination during preclinical studies; cancers with positive BRAF (V) mutation detected by a CLIA-certified laboratory
+PHASE I AND PK EXPANSION COHORT:
+Patient must not have a history of gastric resection (MTD expansion cohort only)
+ONLY APPLIES TO PATIENTS IN GROUP C (CORRELATIVE COHORT)
+FOR ALL (COHORT  AND COHORT ):
+Amendment (January ): only subjects with the following histologies will be eligible\r\n* Cohort #  (pancreatic cohort): locally advanced or metastatic pancreatic adenocarcinoma\r\n* Cohort # (biliary tract cohort): locally advanced or metastatic cholangiocarcinoma, gall bladder adenocarcinoma, or ampullary carcinoma; patients with adenocarcinoma of unclear primary that are most likely of biliary tract origin (in the opinion of the treating physician) will also be allowed on this cohort
+The use of the -alpha-reductase inhibitor dutasteride and systemic steroids must be discontinued within  weeks of degarelix injection for Cohort , , and , and within  weeks of surgery for Cohort 
+EXPANSION COHORT ONLY: Karnofsky >= % or ECOG =< 
+EXPANSION COHORT ONLY: Platelets >= ,/mm^
+EXPANSION COHORT ONLY: Participants may not be receiving any other study agents during the study or within  weeks of the start of the study
+EXPANSION COHORT ONLY: Current treatment on another clinical trial
+EXPANSION COHORT ONLY: Pregnant or breastfeeding
+EXPANSION COHORT ONLY: Female subjects who are pregnant or lactating are not eligible to participate in this study
+Efficacy Expansion Cohort (Second-Line Cervical Cancer)
+For patients who are Her positive and will be treated on the trastuzumab + mDCF cohort, left ventricular function < %
+Subjects enrolled in Expansion Cohort  must be willing to have  on-treatment tumor biopsies.
+Inclusion Criteria:\n\n        Part  and Part  cohort : Patients diagnosed with AML ( bone marrow (BM) or peripheral\n        blood (PB) blast counts >/= %) and have received prior chemotherapy and/or standard of\n        care and have relapsed, refractory or Minimal Residual Disease (defined as patients showing\n        residual blast - days post-induction chemotherapy).\n\n         Patients that are not candidates to receive standard of care and/or refusing the standard\n        care of therapies will also be considered.\n\n        Part  - Cohort  and : Newly diagnosed, previously untreated de novo or secondary AML\n        population (AML with bone marrow or peripheral blast counts %):\n\n          -  Cohort : Fit to receive intensive remission induction chemotherapy.\n\n          -  Cohort : Unfit to receive or not considered a candidate for intensive remission\n             induction chemotherapy.\n\n        Part  and :\n\n          -  Life expectancy at least  weeks.\n\n          -  Hydroxyurea is allowed on study to control total peripheral white blood cell count but\n             must be ceased  hours prior to first dose.\n\n          -  Off of prior therapy for - weeks prior to first dose.\n\n          -  ECOG performance status:  to .\n\n          -  Resolved acute effects of any prior therapy.\n\n          -  Adequate renal and hepatic function.\n\n        Exclusion Criteria:\n\n          -  Patients with acute promyelocytic leukemia, AML with known central nervous system\n             (CNS) involvement unless the patient has completed treatment for the CNS disease, has\n             recovered from the acute effects of therapy prior to study entry, and is\n             neurologically stable.\n\n          -  Patient is known refractory to platelet or packed red cell transfusions per\n             institutional guidelines.\n\n          -  Prior treatment with a compound targeting CXCR.\n\n          -  Chronic systemic corticosteroid treatment.\n\n          -  Known or suspected hypersensitivity to recombinant human proteins.\n\n          -  Chronic graft versus host disease (GVHD), active GVHD with other than Grade  skin\n             involvement, or GVHD requiring systemic immunosuppressive treatment (Part  and cohort\n             ).\n\n          -  Not recovered from stem cell transplant associated toxicities (Part  and cohort ).\n\n          -  Prior treatment with hypomethylating agents or chemotherapy for antecedent\n             myelodysplastic syndrome (MDS) (Part , cohort )\n\n          -  AML associated with favorable risk karyotypes, including inv(), t(;), t(;),\n             or t(;) (cohort )\n\n          -  Candidates for allogeneic stem cell transplant (Part , cohort )\n\n          -  Known hypersensitivity to cytarabine or daunorubicin (Part , cohort ) and decitabine\n             or azacitidine or mannitol (Part , cohort ).
+Cohort Expansion: Subjects must be determined to be HA-high based on tumor biopsy that meets the requirements noted in the previous inclusion criterion.
+EXPANSION COHORT ONLY:
+Candidate for neoadjuvant chemotherapy with a standard of care, anthracycline-based regimen (Cohort  preferred over Cohort )
+Histologically confirmed, Stage IB-IVB, invasive cervical carcinoma associated with HPV  and/or  and meeting the following eligibility criteria for either Cohort  or Cohort ;
+Cohort 
+Cohort 
+Has >= Grade  persistent non-hematological toxicity related to the transplant. Donor lymphocytes infusion (DLI) is not permitted <=  days prior to study registration or during the first cycle of treatment on the study in Cohort  and first two cycles of the treatment in Cohort 
+Prior treatment with NaPib- targeted therapy. Bevacizumab-Specific Exclusion Criteria (for Participants in Second Ovarian Expansion Cohort Only):
+DOSE EXPANSION COHORT:
+DOSE EXPANSION COHORT EXCLUSION:
+DOSE EXPANSION COHORT: GIST patients must have had progression on or have been intolerant to imatinib and sunitinib
+Women who are pregnant or lactating or who intend to become pregnant within a year of the last dose of study treatment in the rituximab cohort or within  months of last dose in the obinutuzumab cohort
+Cohort A: Eligible for chemotherapy
+Cohort B: Ta-NM who are not candidates for cohort A or who will not be treated with chemotherapy (due to patient preference or at the recommendation of the treating physician)
+For the fifth cohort during Part  Cohort Expansion, participants with solid tumors must have evidence of BCL- expression.
+Expansion cohort only: Advanced lymphoma confirmed by histopathology
+For participants in the second NSCLC cohort expansion, not more than two prior regimens in the metastatic setting
+For Cohort Expansion Phase (Part ) only: Patients who are positive for the D mutation at Screening are excluded.
+EXPANSION COHORT A ONLY: more than one prior cytotoxic chemotherapy regimen in the setting of recurrent and/or metastatic disease (cytotoxic chemotherapy given as part of neoadjuvant therapy, adjuvant therapy, or concurrent chemoradiation for curative intent is not included in this exclusion item); this does not apply to expansion cohort B
+Part B Expansion Cohort  (CRPC):
+Part B Expansion Cohort  (LY plus trametinib in participants with uveal melanoma with liver metastasis): Contra-indications for trametinib
+Dose expansion cohort (B): no prior chemotherapy is allowed
+For subjects assigned to take vorinostat, inability to take oral medications; vorinostat capsules must be administered whole; note: this criterion does NOT apply to subjects treated on the Expansion Cohort (accruals post February , )
+Patients with known primary or metastatic CNS disease, are eligible for participation in cohort B, but not in cohort A
+Enrollment on the St. Jude Lifetime Cohort (SJLIFE) protocol
+For Cohort , Cohort , and the Randomized Phase, tumor must be shown to have an FGFR mutation or gene fusion.
+COHORT A:
+COHORT B:
+DEFINITION OF RISK COHORT FOR CONSIDERATION OF RPFNA
+Surgical cohort (cohort A only): percutaneous or transjugular biopsy incomplete or not performed
+Breast cancer patients in the expansion cohort must be hormone sensitive or have refractory disease
+EXPANSION COHORT: Patients with diagnosis of NB (in accordance with the International Criteria, i.e., either histopathology or bone marrow involvement)
+EXPANSION COHORT: Cardiac, pulmonary, gastrointestinal and neurologic toxicity should all be =< grade 
+Meets the criteria below for the appropriate cohort:
+Cohort  only: discontinued lenvatinib due to toxicity
+Subject Exclusion Criteria for Cohort  and Cohort :
+Inclusion criterion for normal cohort
+Expansion cohort at the RD: All patients must have:
+Cohort  (moderate): ? .-  ULN; any AST
+To be enrolled in the TNBC expansion cohort, participants must have:
+To be enrolled in the NSCLC expansion cohort, participants must have:
+To be enrolled in the HNSCC expansion cohort, participants must have:
+Patients in the expansion cohort undergoing tumor biopsies may not be on anticoagulants

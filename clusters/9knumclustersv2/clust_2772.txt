@@ -1,0 +1,138 @@
+Feasibility Phase: Patients must be <  years of age at the time of enrollment; please note: the feasibility phase is complete, effective with amendment #
+Platelets >=  x ^/L (for treatment phase)
+Clinically significant cardiovascular disease, including:\r\n* Corrected QT (QTc) interval by Bazetts formula >  ms (for treatment phase)\r\n* Symptomatic bradycardia <  beats per minute (for treatment phase)\r\n* Other clinically significant electrocardiogram (ECG) abnormalities (e.g. bundle branch block) may be eligible after discussion with the principal investigator (for treatment phase)\r\n* Clinically uncontrolled hypertension in the investigators opinion (for treatment phase)\r\n* The following within  months prior to cycle  day :\r\n** Congestive heart failure (New York Heart class III or IV) (for treatment phase)\r\n** Cardiomyopathy (for treatment phase)\r\n** Arrhythmia or conduction abnormality requiring medication; note: patients with atrial fibrillation/flutter adequately controlled by medication in the opinion of the treating physician and arrhythmias controlled by pacemakers are eligible (for treatment phase)\r\n** Severe / unstable angina, coronary artery/peripheral bypass graft, or myocardial infarction (for treatment phase)\r\n** Cerebrovascular accident or transient ischemia (for treatment phase)
+Any serious, active infection at the time of treatment such as bacteremia (for treatment phase)
+Phase : Subjects who have received prior alectinib therapy
+Phase :
+Allowable prior therapy\r\n* Phase : Progressed on standard of care therapy, if one is available\r\n* Phase : MPNST with - prior cytotoxic systemic therapies (no prior radiotherapy is necessary)
+For phase  specifically, agree to pre- and on-treatment tumor biopsies
+For the phase I cohort, subjects with one prior systemic treatment are eligible
+PHASE I
+Phase b:
+Participant with bone-only disease (Phase  only). Note: Phase  participants may have predominantly lytic bone-only disease.
+PHASE I ONLY:
+Dose Escalation Phase and Expansion Phase Cohort A:
+The participant has adequate hematologic, organ, and coagulation function within  weeks ( days) prior to enrollment (Phase b) or randomization (Phase ).
+PHASE I
+Prior fulvestrant for metastatic breast cancer will be allowed for phase  portion but not for the phase  portion
+The inability to participate/complete phase  care due to:
+Phase b:
+FOR PHASE Ib PORTION OF THE STUDY:
+Hemoglobin >=  g/dL (phase Ib) or >=  g/dL (for phase II portion)\r\n* For phase Ib portion only: patients may receive erythrocyte transfusions to achieve this hemoglobin level at the discretion of the investigator; however, initial study drug treatment must not begin earlier than the day of the erythrocyte transfusion
+FOR PHASE Ib ONLY:
+Phase I: active dermatologic disease >= grade 
+Phase Ib (dose expansion
+PHASE I:
+No leukemic phase >,/L circulating tumor cells.
+PHASE I: Patients do not need to have measurable disease to enroll on phase I
+For the phase b study, patients may have had the diagnosis of BOS for any period of time; for the phase  study, patients must be within  years from the time of diagnosis; patients may be at any time interval after SCT as long as the criteria for chronic GVHD and BOS are met
+PHASE I: Any number of prior relapses
+PHASE I: Has known gliomatous meningitis, subependymal spread, or extracranial disease
+Life expectancy of ?  months (Phase Ia, Arm A) or ?  months (Phase Ia, Arm B and Phase Ib)
+Prior RT to the same region within  months (Phase Ia, Arm A; subjects with tumors localized in the head and neck region or thorax) or at any time previously (Phase Ia, Arm B; treatment-nave subjects with SCCHN and Phase Ib; treatment-nave subjects with Stage III A/B NSCLC or SCCHN)
+PHASE I:
+For phase b: HER negative, as defined for phase II; any ER/PR (negative or positive) can be enrolled in the phase b portion
+Phase Ib:  or 
+PHASE I (ARMS A, B, C, D, E, F, G, H, I, X, Y, Z)
+For Phase I/Ib enrollment, patients with a CLIA confirmed EGFR mutation may be treatment naive; all other patients must have received at least one previous line of therapy; there will be no limits to prior lines of treatment for the Phase  portion
+For the phase I portion of the study, patients may be included without a CCyR provided they remain in chronic or accelerated phase CML and have at least a CHR. For the Phase II portion of the study patients must be in complete cytogenetic remission (CCyR), regardless of the stage of disease they had at the time they started therapy with TKI.
+For the phase I portion of the study, patients in blast phase. For the phase II portion of the study, patients in accelerated or blast phase.
+Phase Ib: no restriction on prior therapy
+In the investigator's judgment, any other condition that jeopardizes the patient's participation in the treatment phase
+History of symptomatic Clostridium difficile infection within  month prior to dosing Additional phase specific exclusion criteria: Phase Ib Dose Escalation Arm A (Venetoclax and Cobimetinib)
+For Part C (Phase ): recurrent ALL patients with CNS  status are not eligible
+PHASE I:
+Phase  expansion: NSCLC
+Phase  expansion: Melanoma
+Phase  expansion: SCCHN
+Phase  expansion: TNBC
+Patients will be excluded from the Induction Phase and the Maintenance Phase if administration of their chemotherapy would be inconsistent with the current local labelling (SmPC) (e.g., in regard to contraindications, warnings/precautions or special provisions) for that chemotherapy. Investigators should check updated labelling via relevant websites at the time of entry into the Induction Phase and the Maintenance Phase
+Phase  and  (except Phase  subjects with known lymphoma) >= cells/mm
+Phase  and  (except Phase  subject with known lymphoma) >=, cells/mm
+adult Phase  Part A and Phase : ? years old at the time of screening
+Be eligible for commercial receipt of therapy to be used in this study in combination with RTA  (i.e., ipilimumab or nivolumab in the Phase b portion and nivolumab only in the Phase  portion);
+Have received prior treatment with therapy to be used in this study in combination with RTA  (i.e., ipilimumab or nivolumab) if enrolling in the Phase  portion of the study. This criterion does not apply to patients enrolling in the Phase b portion of the study.
+For institutions that have Phase  or Phase  protocols studying idelalisib (Zydelig) ; individuals with malignancies being studied in these protocols must have failed screening in the respective idelalisib protocol
+Patients planning to enroll in the phase I portion of this study must first have a slot reserved in advance of the registration; all site staff will use OPEN to create a slot reservation\r\n* NOTE: Phase I is closed to accrual effective //
+KEY INCLUSION CRITERIA\n\n          -  Histological confirmation of classical Hodgkin's Lymphoma (cHL) with relapsed or\n             refractory disease who, for the lead-in phase, either have had a prior autologous or\n             allogeneic HSCT or are not eligible for HSCT, and , for the expansion phase, have had\n             a prior allogeneic HSCT. In the expansion phase there must be a documented CD+ donor\n             chimerism of ?%.\n\n          -  Patients must be off previous cHL therapy for at least  days prior to randomization\n             in the lead-in phase/first dose of study treatment in the expansion phase.\n\n          -  At least  fluorodeoxyglucose (FDG) PET avid (Deauville /) measurable lesion >. cm\n             on PET-CT scan as defined by the Response Criteria for Malignant Lymphoma (for the\n             lead-in phase) and the Lugano Classification (for the expansion phase) that has not\n             previously been irradiated.\n\n          -  Expansion phase: Required \de novo\ or \archival\ tumor biopsy, as well as required on\n             treatment biopsy\n\n          -  Estern Cooperative Oncology Group (ECOG) Performance Status  or \n\n        KEY EXCLUSION CRITERIA\n\n          -  Patients with prior allogeneic Hematopoietic Stem Cell Transplantation (allo-HSCT) who\n             have had:\n\n               . Lead-in phase: allo HSCT performed < months prior to randomization. Expansion\n                  phase: allo-HSCT performed ? months prior to the first dose of study treatment.\n                  NOTE: Patients who have had allo-HSCT performed > months prior to the first dose\n                  of study treatment must have discontinued all immunosuppressive therapy, and must\n                  have no clinical evidence of GVHD; or\n\n               . Immunosuppressive treatment for acute or chronic GVHD within  months prior to\n                  randomization for the lead-in phase or prior to the first dose of study treatment\n                  for the expansion phase (with the exception of those patients who required \n                  mg/day oral prednisone or equivalent). Patients who required  mg/day oral\n                  prednisone or equivalent must have discontinued it within  days prior to first\n                  dose of study treatment; or\n\n               . Acute Grade  or Grade  GVHD at any time in the past (as defined by the modified\n                  Seattle Glucksberg criteria (Consensus Conference on Acute GVHD Grading\n                  Criteria); or\n\n               . Prior chronic GVHD (as defined by the NIH Consensus Development Project) that\n                  persisted for > months and required systemic immunosuppression (with the\n                  exception of those patients who required  mg/day oral prednisone or\n                  equivalent). Patients who required  mg/day oral prednisone or equivalent must\n                  have discontinued it within  days prior to the first dose of study treatment; or\n\n               . A donor lymphocyte infusion (DLI) within  months prior to randomization for the\n                  lead-in phase or first dose of study treatment for the expansion phase.\n\n          -  Prior therapy with an anti PD  or anti PD L mAb.\n\n               . Lead-in Phase: May be enrolled if patient stopped prior anti PD or anti-PD-L\n                  therapy more than one year prior to randomization and had a documented prior\n                  response.\n\n               . Expansion Phase: Prior therapy with an anti-PD- or anti-PD-L agent following\n                  allo-HSCT is prohibited unless the therapy was stopped more than one year prior\n                  to the first dose of study treatment, and the patient had a documented prior\n                  response. NOTE: Prior therapy with an anti-PD- or anti-PD-L agent prior to\n                  allo-HSCT is permitted with no time limits and irrespective of a documented\n                  response.\n\n               . Patients with a history of ?Grade  anti-PD- or anti-PD-L-related immune\n                  toxicity are not eligible.
+For dose escalation phase (Phase Ib) distant metastatic disease or unresectable disease and not a candidate for down staging to resection.
+Any comorbid condition that confounds the ability to interpret data from the study as judged by the Investigator or Medical Monitor. BEV-Specific Concerns (Note: These exclusion criteria apply to the Phase  portion of the study even though BEV is not administered so that the patient populations between Phase  and Phase  are similar):
+Any number of prior treatment regimens (in the phase I portion only); prior erlotinib is allowed in the dose finding phase and expansion cohort A; (only EGFR mutated patients are eligible)
+Phase Ib:
+For patients who will be entering the expansion phase of the trial, the patient must be able to safely delay radiation by at least  weeks
+Phase :
+Phase : any DLBCL subtype.
+Be in the survival follow-up phase of a previous duvelisib study
+FOR EXPANSION PHASE ONLY: For the expansion phase, patients must have measurable disease accessible for biopsy
+FOR EXPANSION PHASE ONLY: For the expansion phase, patients must have archival specimens from the time of primary or recurrence diagnosis
+PHASE I: Filgrastim (GCSF) is not allowed during screening or during the first cycle for phase I patients
+Patients agreeing to the optional biomarker study in the expansion phase only need to have an accessible primary tumor; (optional biomarker studies will be done in up to  patients in the expansion phase only)
+Phase  Arms -: Suitable to receive a -week course of BCG in the adjuvant setting within  weeks following TURBT. Phase  Arm : Suitable for monotherapy vaccine administration post-TURBT. For Phase  only: Has previously received - weekly doses of BCG.
+PHASE I
+For Phase  individuals either:
+Phase b Subjects only:
+For Phase  of the study, has a diagnosis of mixed squamous and nonsquamous (or adenosquamous) NSLC.
+For Phase  of the study:
+Patients who have failed nilotinib, including those who are refractory to nilotinib at any dose or have relapsed on nilotinib at any dose will be eligible for the study; patients currently on nilotinib will continue on their prescribed dose of nilotinib and MEK- will be added based on the current cohort level in phase I or at the established MTD in phase II; in the instance the nilotinib dose is greater than the current cohort (in phase ) or the MTD (in phase ) patients will be dose reduced to the dosage as prescribed by protocol and then dose escalated as allowed in protocol at the principal investigator's (PIs) discretion
+Criteria for the Phase b:
+Subjects in the Phase b portion and in Group  and Group  of the Phase a portion may have received any number of prior therapies for breast cancer. Subjects in Group  of the Phase a portion may have received up to  lines of therapy in the metastatic setting (not including adjuvant or neoadjuvant therapy)
+Patients must be considered good candidates for a phase  trial and the treating physician must intend to enroll the patient on a phase  clinical protocol, if possible; patients are not required to have progressed on their last line of therapy prior to enrollment\r\n* Other clinical trials are also acceptable; for example, an applicable phase  or phase  trial may exist for which the patient would be eligible and for which available information (inclusive of next generation sequencing [NGS]) would be relevant to such enrollment; regardless, the pertinent point is that it is the intent of the physician to use NGS data, to the degree possible, to select appropriate therapy, when selecting patients for this trial
+Bortezomib refractory patients are not permitted on the Phase  part of the study.
+Patient willingness to undergo tumor biopsy at baseline and on treatment (optional for Phase ; mandatory for Phase )
+Subject has been treated in the OXiGENE-sponsored Phase  study OXs
+Whole brain or focal radiation therapy within  days prior to Cycle  Day  (CD) for Phase b or prior to randomization for Phase 
+Eligibility for phase  and phase  components:\r\n* Phase   clinical T or T or N or M cancer which is untreated or previously treated with platinum based therapy with primary tumor still present in the bladder and amenable to sampling before and after treatment, as indicated\r\n* Phase   clinical T- N or N untreated with primary tumor still present in the bladder and amenable to sampling before and after treatment, as indicated
+Prior enrollment in the OncoGenex Phase  Study OGX--.
+Prior temozolomide is not required for the phase  component; prior radiation is required for the phase  arm.
+PHASE I PATIENTS:
+Patients must be >=  weeks since any investigational agent administered as part of a phase  study (also referred to as an early phase I study or pre-phase I study where a sub-therapeutic dose of drug is administered) at the coordinating center PIs discretion, and should have recovered to eligibility levels from any toxicities
+Participants with measurable disease per RECIST v. Additional Inclusion Criteria for Participants Who Backfill Cleared Cohorts of Phase a and Phase b:
+Prior treatment with immune checkpoint inhibitors, immunomodulatory monoclonal antibody (mAbs), and/or mAb-derived therapies is allowed provided that at least  weeks (Phase a) or  weeks (Phase b) have elapsed between the last dose and the proposed Cycle , Day , with the exceptions as specified in protocol Dose-Exploration/Expansion Cohorts in Phase b:
+Life expectancy of >  months for the run in phase and >  months for the randomized phase
+Current or previous participation in the treatment phase of another interventional clinical study within  weeks prior to randomization. Patients may continue in the follow-up phase of another interventional clinical study, but may not have undergone any treatment on the other study within  weeks prior to randomization.
+Corticosteroids initiated at the time of tumor diagnosis or recurrence for treatment of nerve compression or other symptoms is permitted during this phase of the trial, but will not be permitted during the immunotherapy phase, with the exception of a self-limited course of steroids
+Enrollment in a Phase I trial
+Enrolled on a phase I trial
+PHASE I: Off treatment
+PHASE I: Pregnant (per patient report)
+Phase -Diagnosis of advanced or metastatic solid tumor; Phase -Diagnosis of NSCLC
+PHASE : Ability to stand and walk unassisted
+PHASE  & : Ability to stand and walk unassisted
+PHASE : Not yet had surgery
+PHASE  & : Identified within two weeks of surgery
+Phase I: Not serving as the primary decision maker for their health-related decisions
+Currently undergoing phase I complete decongestive therapy (CDT)
+PHASE : PARENT ELIGIBILITY: Patient is at least . years from treatment
+PHASE : PEER MENTOR ELIGIBILITY: Age -
+PHASE : PEER MENTOR ELIGIBILITY: At least . years from treatment
+PHASE : PATIENT ELIGIBILITY: Age -
+PHASE : PATIENT ELIGIBILITY: At least . years from treatment
+PHASE A: AYA SURVIVOR ELIGIBILITY: Age -
+PHASE B: PEER MENTOR ELIGIBILITY: Age -
+PHASE B: PEER MENTOR ELIGIBILITY: At least  years from treatment
+PHASE B: PATIENT ELIGIBILITY: Age -
+PATIENTS AND PARTNERS: Prior enrollment in a couple-based mind-body intervention research study (protocols -, -, -) conducted by the principal investigator including phase  or phase  of the current study
+PHASE  (DEVELOPMENT OF NARRATIVE MESSAGES)
+Phase : In Phase , clinician participants will be the oncology clinician of record (i.e., oncologist, nurse practitioner) of the first five patients enrolled in the intervention group of the randomized trial
+Phase : The same four groups of stakeholders from Phase  will become involved as research collaborators/consultants for Phase  of the study and will not be considered study participants (i.e., will not be registered with Quality Assurance Office for Clinical Trials [QACT])
+MONITORING PHASE:
+Monitoring phase:
+RANDOMIZATION PHASE:
+Randomization phase:
+At least  months into the maintenance phase, with at least  months left of\n             maintenance therapy
+EVALUATION PHASE
+Participants must not be eligible only for phase I trial
+Plans to move from Kansas City (KC) during the treatment and follow-up phase
+RPFNA performed within  months of the study entry visit and in the follicular portion (day -) of the menstrual cycle; note that day  is defined as the first day of bleeding; for non-menstruating women, RPFNA during the follicular phase must be confirmed by hormone levels drawn on the day of RPFNA; either clinical laboratory results are sent to protocol chair for assessment of menstrual cycle phase; or an additional frozen serum aliquot is sent to University of Kansas Medical Center (KUMC) for assay of hormone levels and phase confirmation; confirmation of follicular phase will be included in the eligibility report for the potential subject
+Attend classes at either Houston Community College (HCC) Central Campus or Coleman Campus (Phase  and Phase ) or Spring Branch Campus (Phase )
+Own a smartphone capable of receiving texts from the study's text messaging resource (Phase  and Phase )
+Use phone text-messaging features on a regular basis (Phase  and Phase )
+Provide cell phone number (Phase  and Phase )
+Phase I:
+Phase Ib dose expansions Arms ,  and 
+PHASE I:
+PHASE I: Women who do not have capacity to participate
+Be a phase  trial in expansion, phase , or 
+PHASE I: Pregnant women will be eligible to participate
+USABILITY PHASE: Pregnant women will be eligible to participate
+Are eligible to participate in one of the phase III or IV BCCT open at the CTRC at the time of diagnosis

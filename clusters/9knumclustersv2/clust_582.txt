@@ -1,0 +1,153 @@
+the safety or well-being of the participant or study staff
+Participant has a history of major immunologic reaction to any Immunoglobulin G (IgG).
+Participant has a history of cholecystitis (subject with history of cholecystectomy will not be excluded), or has active gallbladder disease.
+Documentation of participant's willingness to use approved contraception method until discontinuation of all immunosuppressive medications is to be documented in the medical record corresponding with the consent conference.
+The participant has any known significant ophthalmologic abnormalities of the surface of the eye.
+For Part H: (abemaciclib + trastuzumab + pertuzumab): The participant must have received at least  chemotherapy regimen for metastatic disease. The participant may be receiving ongoing therapy with trastuzumab and/or pertuzumab at the time of study entry. The participant must have an estimated left ventricular ejection fraction (LVEF) within the normal range by either echocardiogram or multigated acquisition (MUGA) scan.
+Progressive disease during the antecedent protocol. If approval to treat beyond progression was already given in the antecedent protocol, the participant may roll over into the current protocol without sponsor approval. Under special circumstances, enrollment into this protocol and dosing beyond progression may be considered and will require approval of the sponsor Participants meeting any of the following exclusion criterion of the antecedent study at the time the participant is considered for the extension (rollover) study:
+Participant provides informed consent for prospective collection of relevant medical records for analysis of clinical outcome and treatment-planning techniques
+Significant allergy to a biological pharmaceutical therapy that, in the opinion of the Investigator, poses an increased risk to the participant.
+Participant must have progressed on the most recent therapy.
+Participant has had prior antineoplastic therapy within  days prior to starting study drug.
+Participant is ?  days and ?  days from hematopoietic cell infusion.
+Participant has achieved engraftment. Engraftment is defined as ANC ?  cells/?L and platelets ? /?L on  consecutive measurements (each occurring at least  day apart). The participant must not have had a platelet transfusion within  days prior to the first measurement.
+Participant has active hepatitis C infection as determined by NAAT. NAAT must be performed if the participant has positive serology for hepatitis C. Participants who have had past exposure and have no detectable virus either through spontaneous clearance or treatment are eligible.
+Participant has a lesion in the oral cavity or oropharynx that is not yet biopsied but is highly suspicious for cancer; (randomization will be placed on hold until the presence of cancer is histologically confirmed, and a treatment plan is established; if the presence of cancer is not confirmed, the participant will be considered a screen failure)
+Participant is scheduled for an end of study biopsy within  days of starting study agent and within  days of their study screening visit; (if the participant is scheduled for surgical excision of the tumor and the surgery is delayed for any reason after the participant has started taking the study agent, study agent dosing may be extended up to a maximum of  days without compromising the evaluability of the end of study biomarkers)
+Participant has received or will receive some form of treatment for their cancer prior to completing a minimum of  days of study agent dosing; (a biopsy is not considered a form of treatment)
+Participant has a history of hypoglycemia
+Participant has a history of macular edema
+Participant who is breastfeeding or planning to breastfeed for a month post last dose of study agent
+RETREATMENT WITH MODIFIED T-CELLS EXCLUSION CRITERIA: Research participant with current evidence of GVHD
+EXCLUSION - PARTICIPANT: Participant received prior chemotherapy or any other targeted therapies within the past , or palliative radiation within the past  days, prior to going on-study.
+Research participant has uncontrolled seizure activity and/or clinically evident progressive encephalopathy
+Research participant has a released cryopreserved CAR T cell product
+Research participant does not have uncontrolled seizure activity following surgery prior to starting the first T cell dose
+Participant has received treatment with the following:
+A female participant is eligible to participate if she is not pregnant , not breastfeeding, and at least one of the following conditions applies:
+Patient has a planned complete macroscopic cytoreduction (visual) (CC) cytoreduction  NOTE: registration occurs during surgery and not before; if, during surgery, the principal investigator (PI)/sub-investigator (SubI) discerns that all disease cannot be removed surgically, the participant will be considered a screen failure, HIPEC will not be performed, and the participant will be removed from the study
+The reason a participant is not eligible should be documented in the electronic case report form (eCRF).
+Total bilirubin: =< . institutional upper limit of normal (ULN); if potential due to lymphoma, the first cycle may be given without ibrutinib and if transaminitis and bilirubinemia improves to meet parameters, participant mat be enrolled on the clinical trial
+Participant already enrolled in the study who has received at least one S infusion.
+The participant meets any of the criteria for treatment discontinuation in the parent study.
+Participant requires, or is likely to require, more than a two-week course of corticosteroids for intercurrent illness; participant must complete the course of corticosteroids  weeks before screening to meet eligibility
+Participant is receiving medication(s) that might affect immune function
+Investigator considers participant ineligible for intensive induction therapy based on medical reasons, disease characteristics such as genetics, type of AML (de novo or secondary), or participant characteristics such as age, performance status, co-morbidities, organ dysfunctions, or patient election of low-intensity treatment.
+Participant has received no more than  other therapeutic regimen other than those listed above in ().
+Indications that participant is not appropriate for the study (e.g., aggressive, intoxicated, disruptive, visibly ill)
+ELIGIBILITY CRITERIA FOR T-CELL PRODUCT INFUSION: Research participant is not receiving systemically administered steroid therapy; glucocorticosteroid physiologic replacement therapy for management of adrenal insufficiency is allowed
+Be the only participant in his/her household
+Research participant has a released cryopreserved T cell product
+Research participant does not require pressor support and/or does not have symptomatic cardiac arrhythmias
+Research participant does not have a fever exceeding . Celsius (C); there is an absence of positive blood cultures for bacteria, fungus, or virus within -hours prior to T cell infusion and/or there arent any indications of meningitis
+Research participant serum total bilirubin does not exceed  x normal limit
+Research participant does not have uncontrolled seizure activity following surgery prior to starting the first T cell dose
+Research participant has uncontrolled seizure activity and/or clinically evident progressive encephalopathy
+Neurosurgeon finds the prospective participant is able to undergo neurosurgery
+Research participant must be at least  weeks from having received the last dose of immunosuppressant medications (e.g. calcineurin inhibitors, methotrexate, immunosuppressive antibodies, etc)
+Research participant has a released cryopreserved T cell product for T cell infusions on approximately day 
+If the research participant is to undergo leukapheresis, he/she must must have a serum bilirubin =< . mg/dl\r\n* Note: in the event a participant has elevated levels of liver enzymes possibly related to underlying disease, the participant will still be considered eligible
+If research participant is undergoing leukapheresis and the research participant has undergone prior alloSCT, two months must have elapsed since allogeneic stem cell transplant to undergo PBMC collection for T cell manufacturing
+Research participant has a released cryopreserved T cell product for T cell infusion on approximately day 
+Total bilirubin =< . mg/dL\r\n* Note: in the event a participant has elevated levels of liver enzymes possibly related to underlying disease/disease progression, the participant will still be considered eligible
+ALT and AST =< . times the institutional upper limits of normal\r\n* Note: in the event a participant has elevated levels of liver enzymes possibly related to underlying disease/disease progression, the participant will still be considered eligible
+Research participant has undergone lymphodepletion
+Liver function: total bilirubin =< . mg/dL\r\n* Note: in the event a participant has elevated levels of liver enzymes possibly related to underlying disease/disease progression, the participant will still be considered eligible
+Liver function: ALT and AST =< . times the institutional upper limits of normal\r\n* Note: in the event a participant has elevated levels of liver enzymes possibly related to underlying disease/disease progression, the participant will still be considered eligible
+Research participant is scheduled for an alloSCT
+Research participant has >= % chimeric antigen receptor (CAR) modified T cells in the peripheral blood
+Liver function criteria: total bilirubin =< . mg/dL\r\n* Note: in the event a participant has elevated levels of liver enzymes possibly related to underlying disease/disease progression, the participant will still be considered eligible
+Failure to confirm diagnosis of cancer in participant
+Participant has received prior therapy with a BH mimetic.
+Participant screening laboratory result must indicate HCV genotype , ,  or -infection if historical result is not available.
+Participant is not suitable for receiving ocular steroids with conditions as described in the protocol.
+Participant has had laser-assisted in situ keratomileusis (LASIK) procedure within the last  year or cataract surgery within the last  months.
+safety or well-being of the participant or offspring
+Patient re-enrollment: this study permits the re-enrollment of a participant who has discontinued the study due to pre-treatment failure (ie, participant has not been treated); if re-enrolled, the participant must be re-consented
+Written informed consent obtained from study participant or study participants legal representative and ability for study participant to comply with the requirements of the study
+The participant received combination chemotherapy, which must include a platinum and/or a fluoropyrimidine and must not include a taxane or antiangiogenic agent.
+The participant is receiving therapy with any of the following:
+The participant has either of the following:
+participant must have received trastuzumab emtansine (T-DM) in any disease setting
+Participant has a diagnosis of Waldenstrm's disease, or other conditions in which IgM M protein is present in the absence of a clonal plasma cell infiltration with lytic bone lesions
+The participant does not have:
+Eligibility based on prior treatment with immunomodulatory agents depends on the mechanistic class of the drug and the cohort for which the participant is being considered
+Given that the physician may select from an offered list of regimens to treat a specific participant, the participant may be refractory to an agent/s listed within the list of offered treatment choices
+safety or well-being of the participant or offspring
+Has fulfilled the following additional requirements regarding prior treatments for recurrent ovarian cancer (ROC) depending on the cohort participant is to be enrolled. Each participant must have documented evidence of clinical response or disease stabilization to the last regimen received.
+The participant has:
+Participant is amenable to compliance with protocol schedules and testing
+Participant has a history of chronic diarrheal disease within  months prior to randomization
+The participant has not received any previous treatment with anthracyclines.
+The participant is receiving chronic therapy with any of the following within  days prior to randomization:
+The participant has any condition (for example, psychological, geographical, or medical) that does not permit compliance with the study and follow-up procedures or suggests that the participant is, in the investigator's opinion, not an appropriate candidate for the study.
+Participant has a diagnosis of Waldenstrom's disease, or other conditions in which IgM M-protein is present in the absence of a clonal plasma cell infiltration with lytic bone lesions
+Participant has had plasmapheresis within  days of randomization
+If a participant has received subsequent anticancer therapy (salvage therapy), the participant must have a \wash-out period\ defined as  weeks or  pharmacokinetic half-lives of the treatment, whichever is longer, before the planned start date of daratumumab monotherapy. The only exception is the emergency use of a short course of corticosteroids (equivalent of dexamethasone  milligram per day for a maximum of  days) before Daratumumab monotherapy
+Research participant has a released cryopreserved T cell product
+safety and well-being of the participant or offspring
+The participant must have undergone definitive surgical treatment for the current malignancy.
+Written consent by the participant
+Participant with evidence of recurrent malignancy
+Participant with veno-occlusive disease (ie, sinusoidal obstruction syndrome)
+Participant with severe sepsis involving at least  organ failure
+The participant does not have significant side effects from previous anti-cancer treatment
+The participant has adequate organ and blood cell counts
+The participant has received anticoagulant therapy with the exception of aspirin within  week of starting the study
+Any disorder or disease, or clinically significant abnormality on laboratory or other clinical test(s) (eg, blood tests and ECG), that in medical judgment of the investigator may impede the participant's participation in the study, pose increased risk to the participant, and/or confound the results of the study
+Participant must have viable alternatives to the current ART regimen in the event of drug resistance related to study treatment
+If participant is HIV positive, participants must be on a stable antiretroviral regimen for at least  weeks prior to study enrollment
+Participant with leukemia has M or M marrow at the time of enrollment; participant with M marrow must have definite cytogenetic, molecular, or immunophenotypic evidence of recurrent/refractory disease
+For participants potentially receiving chemotherapy: if the participant has received prior bendamustine, response duration must have been greater than (>)  year
+Any disorder or disease, or clinically significant abnormality on laboratory or other clinical test(s), that in medical judgment may impede the participant's participation in the study, pose increased risk to the participant, or confound the results of the study
+The participant has superior vena cava syndrome contraindicating hydration.
+The participant is receiving depot octreotide therapy at the time of enrolling into the study
+The participant has received  -  systemic anticancer regimens in addition to depot octreotide, which may have included chemotherapy, interferon, antiangiogenic therapy, other targeted treatments, or a combination of such treatments
+The participant has received therapeutic radiolabeled somatostatin analogues
+The participant has a history of treatment with other agents targeting the IGF receptor
+Participant is not eligible if the surgeon does not plan to use a uterine manipulator
+Prior treatment with a regimen that includes the combination drug will not necessarily exclude a participant from that cohort if the investigator views treatment with that agent as appropriate. However, a participant who has a contraindication for a particular combination agent or who has been discontinued from prior therapy with a particular agent for toxicity will not be eligible for inclusion in that particular cohort.
+The participant does not have an active cancer diagnosis
+The participant has access to short message service (SMS) text messaging or email
+Co-parents must reside with the consenting eligible cancer participant (and child) at least % of the time and be actively participating in the care of the child
+WEBSITE VISITORS: Have visited the personal website of a PCO participant
+WEBSITE VISITORS: Have not visited the personal website of a PCA participant
+SUPPORT PROVIDER: Has been identified by the bereaved parent participant as a support or someone important to bereaved parent
+Participant had recent surgery (within two weeks)
+Participant is undergoing chemotherapy
+Participant has any metallic object in or around their head
+Sufficient proficiency and confidence to use the internet and follow video-based instructions, as determined by the eligibility questionnaire to be completed by the participant
+Any participant who has urologic cancer or is enrolled in a competing trial
+Participant must plan to receive follow up care at Dartmouth-Hitchcock
+Participant must be cognitively intact as judged by their responsible clinician
+Participant must not have already worked with the staff writer at Dartmouth Hitchcock prior to enrollment in this study
+Participant must not have physical symptoms that they feel would interfere with creative writing
+Current St. Jude LIFE participant
+Participant has ongoing hemolysis.
+Participant has history of major immunologic reaction to any auristatin-based and /or Immunoglobulin G (IgG) containing agent.
+Participant plans to relocate away from the study site during study participation
+Participant is  or more years from diagnosis
+Participant has a Full Scale Intelligence Quotient (FSIQ) score > 
+Female research participant of childbearing age and male research participant of child fathering potential must agree to use safe contraceptive methods
+Participant is employed in a position that requires night work (i.e.  pm to  am)
+Permission from participant's physician
+Participant not planning on remaining at St Jude for at least  weeks
+Participant is enrolled on Total XVI
+Participant is receiving gabapentin for another indication at the time of diagnosis of NP/PN or has received gabapentin previously
+Participant will not sign Waiver of Diagnosis form
+Clinician is comfortable that cancer has adequately been ruled out and is willing to follow the participant for up to  years without treatment of the HSIL
+Participant has symptoms related to HSIL and would benefit more from immediate treatment than from entry into the study and potential for randomization to active monitoring arm
+Participant must have a gynecology examination within the last  years (gynecology examination is not required if participant had a hysterectomy), with no atypical hyperplasia and no cancer
+Be the only participant in his/her household on active treatment in Protocol - at the time.
+Be the only participant in their household
+Participant is taking any anticoagulant agent (e.g. warfarin) or antiplatelet agent (e.g. clopidogrel)
+Be the only participant in their household
+Physical limitations that prevent participant from exercising
+Participant has
+the safety or well-being of the participant or study staff
+Report any level of cognitive difficulty to the question, Are you currently experiencing any cognitive problems (such as in your memory, attention, concentration, multi-tasking) since your cancer diagnosis? at chemotherapy cycle  or after; participant must answer YES to this question\r\n* NOTE: If a participant answers NO, you may re-approach them at a subsequent cycle
+STUDY PARTICIPANT ELIGIBLITY:
+Identification of cost being the primary reason why person does not smoke daily (so that the study outcome variable of smoking rate isnt influenced by participant receiving research cigarettes)
+The participant has a medical or psychological condition that would not permit the participant to complete the study or sign informed consent.
+The participant has a medical or psychological condition that would not permit the participant to complete the study or sign informed consent.
+Female participant is not eligible if the surgeon does not plan to use a uterine manipulator

@@ -1,0 +1,60 @@
+Serum creatinine =< 1.5 mg/dL within 14 days prior to study entry
+285.0
+If the patient is to be treated with cisplatin, the serum creatinine should be =< 1.5 mg%
+37.0
+Serum creatinine =< 2 mg/dL
+100.0
+Creatinine =< 1.5 mg/dL
+40.0
+Serum creatinine level =< IULN within 28 days prior to registration
+1900.0
+Serum creatinine =< 1.5 x IULN obtained within 28 days prior to registration
+491.0
+Serum creatinine of =< 1.5 mg/dL; if creatinine > 1.5 mg/dL, creatinine clearance must be >= 60 mL/minute
+70.0
+Serum creatinine < 2.0 mg/dl
+252.0
+Obtained =< 48 hours prior to registration: Serum creatinine =< 2.0 mg/dl
+509.0
+Creatinine less than 1.4 mg/dl
+540.0
+Creatinine =< 2.0 mg/dL
+63.0
+Creatinine =< 2.0 mg/dL
+600.0
+Patients must have serum creatinine =< 1.5 mg/dl within 14 days prior to registration
+44.0
+Serum creatinine =< 1.5 mg/dl within 14 days prior to registration
+44.0
+Registration Step 3 � Maintenance: Patients must have serum creatinine =< 1.5 mg/dl within 14 days prior to registration
+44.0
+Patients with serum creatinine > 3.0 mg/dL and patients on active dialysis for renal dysfunction are excluded
+158.0
+Within 14 days of registration: Serum creatinine < 2.0 mg/dL (176.8 umol/liter)
+110.0
+Within 14 days of registration: Serum calcium =< 11.5 mg/dL
+110.0
+Serum creatinine =< IULN within 14 days prior to registration
+150.0
+Creatinine =< 2.0 mg/dL
+50.0
+Creatinine < 1.5 mg/dl (= 132 umol/L) or
+46.0
+Creatinine < 1.7 mg/dL
+130.0
+Patients must have adequate renal function with serum creatinine level =< IULN within 21 days prior to registration
+333.0
+Within 14 days prior to registration: Serum creatinine =< 2.0 mg/dL
+143.0
+Within 28 days prior to registration: Serum creatinine =< 2.0 x IULN
+707.0
+Serum creatinine < 2.0 x IULN within 28 days prior to registration
+64.0
+Creatinine < 2 mg/dl
+186.0
+Creatinine =< 1.6 mg/dl
+50.0
+Serum creatinine =< 2.0 x IULN within 28 days prior to registration
+94.0
+Serum creatinine < 1.5 mg/dl
+120.0

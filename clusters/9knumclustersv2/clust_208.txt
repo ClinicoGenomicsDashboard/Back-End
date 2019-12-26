@@ -1,0 +1,7 @@
+Hematocrit (Hct) >= % within  days of enrollment to study
+DONOR: Has not developed a new malignancy requiring chemotherapy or radiation in the interval since apheresis for initial hematocrit (HCT)
+Hematocrit (Hct) less than or equal to %
+Prior to cyclophosphamide and T cell infusions: hematocrit (Hct) =< % or hemoglobin (Hb) =<  g/dL
+Hematocrit (Hct) =< % or hemoglobin (Hb) =<  g/dL
+Hematocrit (HCT) >= %
+Hematocrit (HCT) >= %

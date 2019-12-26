@@ -1,0 +1,116 @@
+Creatinine =< institutional upper limit normal (ULN), CTCAE v 3.0 grade 0; NOTE: if creatinine > ULN, creatinine clearance must be > 50 mL/min
+164.0
+Creatinine < 1.5 x ULN OR creatinine clearance measured >= 60 mL/minute for patients with creatinine levels >= 1.5 x upper limit of normal
+74.0
+Creatinine =< 1.5 times institutional upper limit of normal or creatinine clearance >= 60 mL/min/1.73 m^2
+130.0
+Obtained within 30 days of registration: Creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+24.0
+Creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+55.0
+Creatinine clearance >= 60 mL/min for patients with creatinine levels above 1.5 x institutional upper limit of normal
+165.0
+Creatinine clearance >= 50 mL/min/1.73 m^2 for participants with creatinine levels above institutional normal
+42.0
+Creatinine =< institutional upper limit of normal OR creatinine clearance >= 60 ml/min/1.73 m^2 for patients with creatinine levels above institutional normal
+36.0
+Creatinine =< 1.5 x institutional ULN OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels > 1.5 mg/dL
+140.0
+Creatinine =< 1.5 x ULN OR creatinine clearance >= 50 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+72.0
+Creatinine < 1.5 X institutional upper limit of normal OR creatinine clearance >= 60 mL/min for patients with creatinine levels above 1.5 X institutional upper limit of normal
+68.0
+Serum creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min for patients with creatinine levels above institutional normal, as determined by a measured 24-hour creatinine clearance
+80.0
+Creatinine < 1.5 x upper limit of normal OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels >= 1.5 x upper limit of normal
+72.0
+Creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min for patients with creatinine levels above institutional normal
+70.0
+Creatinine =< 1.5 x institutional upper limit of normal OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+72.0
+TUMOR BIOPSY SEQUENCING: Creatinine < 1.5 x institutional upper limit of normal OR creatinine clearance >= 60 mL/min for patients with creatinine levels >= 1.5 x institutional upper limit of normal
+700.0
+TREATMENT: Creatinine < 1.5 x institutional upper limit of normal OR creatinine clearance >= 60 mL/min for patients with creatinine levels >= 1.5 x institutional upper limit of normal
+700.0
+Creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+12.0
+Creatinine =< 1.5 � institutional upper limit of normal OR creatinine clearance >= 40 mL/min/1.73 m^2 for patients with creatinine levels above 1.5 x institutional limit of normal
+100.0
+Creatinine =< 1.5 x institutional ULN OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels > 1.5 mg/dL
+24.0
+Creatinine =< 1.5 x institutional ULN OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels > 1.5 mg/dL
+35.0
+Creatinine within normal institutional limits or creatinine clearance >= 60mL/min/1.73 m^2 for subject with creatinine levels above institutional normal
+182.0
+Creatinine clearance >= 50 ml/min/1.73 m^2 for patients with creatinine levels above institutional normal
+40.0
+Creatinine =< 1.5 x institutional upper limit of normal OR creatinine clearance >= 60 mL/min for patients with creatinine levels above institutional normal
+57.0
+Creatinine < 1.5 x normal institutional limits OR creatinine clearance >= 50 mL/min/1.73 m^2 for patients with creatinine level above institutional normal based either on Cockroft-Gault estimate or based on urine collection (12 or 24 hour)
+23.0
+Creatinine =< 1.5 x ULN OR creatinine clearance >= 50 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal (Cockcroft formula)
+90.0
+Creatinine =< institutional upper limit of normal OR creatinine clearance >= 60 ml/min/1.73 m^2 for patients with creatinine levels above institutional normal
+23.0
+Creatinine =< 1.5 x upper limit of normal OR creatinine clearance >= 50 mL/min
+66.0
+Creatinine within normal institutional limit for the reference lab OR creatinine clearance >= 60 mL/min/1.73 m^2 as calculated by Cockcroft-Gault formula for participants with creatinine levels above institutional normal
+42.0
+Within 2 weeks prior to screening step registration and within 4 weeks prior to treatment step registration: Creatinine clearance >= 45 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+6452.0
+Creatinine =< institutional upper limit of normal OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+35.0
+Creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+30.0
+Creatinine =< institutional upper limit of normal OR creatinine clearance >= 60 ml/min/1.73 m^2 for patients with creatinine levels above institutional normal
+75.0
+Creatinine =< upper limit of normal institutional limits or creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+50.0
+Creatinine within normal institutional limits OR creatinine clearance >= 50 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+30.0
+Creatinine =< the institutional upper limit of normal (ULN) OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+549.0
+Creatinine =< 1.5 x institutional upper limit of normal OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above 1.5 x institutional normal
+46.0
+Creatinine within normal institutional limits OR creatinine clearance >= 50 mL/min for patients with creatinine levels above institutional normal
+33.0
+Creatinine clearance >= 45 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+126.0
+Creatinine clearance >= 50 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+46.0
+Creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+15.0
+Creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+46.0
+Creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+45.0
+Creatinine =< 1.5 x ULN or a creatinine clearance >= 50 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+50.0
+Creatinine within normal institutional limits for age OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above ULN
+46.0
+Within 2 weeks prior to initiation of study treatment: Creatinine =< upper limit of institutional normal OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+70.0
+Creatinine within normal institutional limits OR creatinine clearance >= 50 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+150.0
+Creatinine =< 1.5 x ULN OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+48.0
+Creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+20.0
+Creatinine levels =< upper limit of institutional normal; or creatinine clearance >= 60 mL/min/1.73 m^2 for participants with creatinine levels above institutional normal
+36.0
+Creatinine =< 1.5 X institutional upper limit of normal or creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+60.0
+Serum creatinine =< 1.5 x institutional ULN OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with serum creatinine levels > 1.5 x higher than institutional normal
+38.0
+Creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+70.0
+Creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+24.0
+Creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+24.0
+Creatinine =< the institutional upper limit of normal OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+40.0
+Creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+70.0
+Creatinine =< institutional upper limit of normal OR creatinine clearance >= 60 ml/min/1.73m^2 for patients with creatinine levels above institutional normal
+35.0

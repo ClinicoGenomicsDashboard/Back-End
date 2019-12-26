@@ -1,0 +1,57 @@
+Patients with QTc interval >  milliseconds
+Patients with baseline prolongation of the rate-corrected QT interval (QTc) (e.g., repeated demonstration of QTc interval >  milliseconds, or history of congenital long QT syndrome, or torsades de pointes)
+Corrected QT (QTc) interval =<  milliseconds
+Corrected QT (QTc) interval =<  milliseconds
+Marked baseline prolongation of QT/corrected QT (QTc) interval (e.g. demonstration of a QTc interval greater than  milliseconds)
+Corrected QT interval (QTc) of <  milliseconds
+Prolongation of QT corrected (QTc) interval to > milliseconds (ms)
+Baseline QTc prolongation (e.g., repeated demonstration of QTc interval >  milliseconds or history of congenital long QT syndrome or torsades de pointes)
+History or presence of an abnormal ECG that, in the investigator's opinion, is clinically meaningful. Screening corrected QT (QTc) interval >  msec is excluded (corrected by Fridericia). If a single QTc is >  milliseconds, the subject may enroll if the average QTc for the  ECGs is <  milliseconds. For subjects with an intraventricular conduction delay (QRS interval >  milliseconds), the JTc interval may be used in place of the QTc with sponsor approval. The JTc must be <  milliseconds if JTc is used in place of the QTc. Subjects with left bundle branch block are excluded. Note: QTc prolongation due to pacemaker may enroll if the JTc is normal or with medical monitor approval.
+Corrected QT interval at screening greater than (>)  milliseconds (ms) (average of triplicate screening measurements)
+Any known cardiac abnormalities such as:\r\n* Congenital long QT syndrome\r\n* Corrected QT(QTc) interval >=  milliseconds
+Baseline corrected QT (QTc) interval >=  milliseconds
+History or presence of an abnormal electrocardiogram (ECG) that, in the investigator's opinion, is clinically meaningful; screening corrected QT (QTc) interval >  milliseconds is excluded; in the event that a single QTc is >  milliseconds, the subject may enroll if the average QTc for the  ECGs is <  milliseconds; for subjects with an intraventricular conduction delay (QRS interval >  milliseconds), the corrected JT (JTc) interval may be used in place of the QTc with sponsor approval; the JTc must be <  milliseconds if JTc is used in place of the QTc; subjects with left bundle branch block are excluded\r\n* Note: QTc prolongation due to pacemaker may enroll if the JTc is normal
+History or presence of an abnormal electrocardiogram (ECG) that, in the investigator's opinion, is clinically meaningful; screening corrected QT (QTc) interval >=  milliseconds is excluded; in the event that a single QTc is >=  milliseconds, the subject may enroll if the average QTc for the  ECGs is <  milliseconds; for subjects with an intraventricular conduction delay (QRS interval >  milliseconds), the corrected JT (JTc) interval may be used in place of the QTc with the approval of the principal investigator; the JTc must be <  milliseconds if JTc is used in place of the QTc; subjects with left bundle branch block are excluded; note: QTc prolongation due to pacemaker may enroll if the JTc is normal
+Baseline prolongation of the rate-corrected QT interval (QTc) >  milliseconds or history of congenital long QT syndrome or Torsades de pointes
+Prolongation of corrected QT (QTc) interval to > milliseconds (msec) when electrolyte balance is normal
+Marked baseline prolongation of QT/corrected QT interval (QTc) interval (e.g. demonstration of a QTc interval greater than  milliseconds)
+Abnormalities on -lead electrocardiogram (ECG) considered by the investigator to be clinically significant (such as acute ischemia, left bundle branch block, ventricular arrhythmias) or baseline prolongation of the rate-corrected QT interval (e.g., repeated demonstration of QTc interval >  milliseconds)
+Baseline prolongation of the rate-corrected QT interval (QTc) (e.g. repeated demonstration of QTc interval >  milliseconds, or history of congenital long QT syndrome, or torsades de pointes)
+Patients with the following cardiac diagnoses: ventricular tachycardia or fibrillation; Torsades de pointes; clinically significant bradycardia; sinus node dysfunction; heart block; prolonged corrected QT (QTc) interval (QTc >  milliseconds for males, QTc >  milliseconds for females); valvular, ischemic, or pulmonary heart disease; cardiomyopathy; history of heart failure
+Screening corrected QT interval (QTc) interval >  milliseconds
+Marked baseline prolongation of QT/corrected QC (QTc) interval (e.g. demonstration of a QTc interval greater than  milliseconds)
+Corrected QT interval (QTc) prolongation >  milliseconds (msec)
+Prolongation of QTc interval to > milliseconds (ms)
+History of non-pharmacologically induced prolonged QTc interval > milliseconds.
+Corrected QT (QTc) interval =<  milliseconds
+Prolonged corrected QT interval (QTc) >  milliseconds (ms) at the screening visit
+Baseline electrocardiogram (EKG) shows normal corrected QT interval (QTc) interval of =<  milliseconds (ms)
+Prolonged QT interval (corrected QT interval [QTc] >  milliseconds) on screening electrocardiogram (EKG) or congenital long QT syndrome
+Corrected QT interval less than  milliseconds by electrocardiogram (EKG)
+Marked baseline prolongation of QT/QT corrected (QTc) interval (e.g. demonstration of a QTc interval greater than  milliseconds)
+Corrected QT interval (QTc) >  milliseconds as corrected by the Fridericia formula
+A clinically significant electrocardiogram (ECG) abnormality, including a marked Baseline prolonged QT/QTc interval (e.g., a repeated demonstration of a QTc interval > milliseconds (msec)).
+History of prolonged QTc interval (e.g., repeated demonstration of a QTc interval >  milliseconds).
+Have a corrected QT interval > milliseconds as calculated be the Fredericia equation.
+Corrected QT interval (QTc) =<  milliseconds (ms)
+Participants with baseline QTc greater than (>)  milliseconds or symptomatic bradycardia
+Concurrent use of digoxin due to cardiac disease; corrected QT (QTc) interval >=  milliseconds in men and >=  milliseconds in women within  weeks of registration or known history of QTc prolongation or Torsades de Pointes
+Abnormalities on -lead electrocardiogram (ECG) considered by the investigator to be clinically significant or baseline prolongation of the rate-corrected QT interval (e.g., repeated demonstration of QTc interval >  milliseconds).
+Baseline corrected QT interval (QTc) =<  milliseconds (ms)
+Corrected QT interval (QTc)/QT Fridericia equation (QTf) interval >=  milliseconds; unless secondary to pacemaker or bundle branch block
+History of congenital long QT syndrome or corrected QT interval (QTc) greater than (>)  milliseconds at screening
+Corrected QT (QTc) prolongation, as defined by >  milliseconds on ECG
+Prolongation of corrected QT interval (QTc) >  milliseconds using Bazetts formula
+Corrected QT interval (QTc) >  milliseconds
+Corrected QT interval less than  milliseconds by electrocardiogram (EKG)
+Prolongation of corrected QT (QTc) interval to > milliseconds (ms)
+Clinically significant abnormality on electrocardiogram (ECG). The corrected QT interval (QTc, Fridericia) must be <  milliseconds for men and <  milliseconds for women (Must be confirmed by at least  additional -lead ECGs at least  minutes apart such that average manually over-read QTcF based on  ECGs exceeds stated thresholds)
+Patients must not have QTc prolongation defined as a QTc interval equal to or greater than  milliseconds (msecs)
+Baseline prolongation of the rate-corrected QT interval (QTc) >  milliseconds, or history of congenital long QT syndrome, or torsades de pointes
+Corrected QT (QTc) interval >=  milliseconds
+Prolongation of corrected QT interval (QTc) >  milliseconds (msec)
+Patients must not have a marked baseline prolongation of QT/corrected QT (QTc) interval (e.g., demonstration of a QTc interval >  milliseconds (ms)
+QTc interval <  milliseconds (msec) on the baseline electrocardiogram.
+Marked baseline prolongation of QT/corrected QT (QTc) interval (e.g. demonstration of a QTc interval greater than  milliseconds)
+Patients with baseline prolongation of the rate-corrected QT interval (QTc) (e.g., repeated demonstration of QTc interval >  milliseconds, or history of congenital long QT syndrome, or torsades de pointes) are ineligible
+Serious ventricular arrhythmias or high risk for arrhythmias, due to prolongation of the QT-interval (>  milliseconds [msec])

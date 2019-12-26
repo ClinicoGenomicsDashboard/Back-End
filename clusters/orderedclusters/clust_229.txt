@@ -1,0 +1,152 @@
+Hemoglobin >= 8 g/dl (may be transfused)
+400.0
+Hemoglobin >= 9.0 g/dL
+102.0
+Hemoglobin >= 8.0 g/dL
+276.0
+Hemoglobin >= 9.0 g/dl
+162.0
+Hemoglobin > 8.0 g/dL
+1120.0
+Hemoglobin > 11 g/dL
+224.0
+Hemoglobin >= 9.0 mg/dl
+107.0
+Hemoglobin >= 8.0 (may transfuse)
+62.0
+Hemoglobin >= 9 g/dL
+55.0
+Hemoglobin >= 9 g/dL
+42.0
+Hemoglobin >= 9 g/dL
+36.0
+Hemoglobin >= 12 g/dL
+140.0
+Hemoglobin >= 90 g/L
+72.0
+Hemoglobin >= 10 g/dL
+80.0
+Hemoglobin >= 9 g/dL
+97.0
+Hemoglobin >= 9 g/dL
+30.0
+Hemoglobin >= 9 g/dl
+104.0
+Hemoglobin >= 9 g/dL
+70.0
+Hemoglobin > 9 g/dL
+72.0
+Hemoglobin (Hg) >= 8g/dL (unsupported)
+52.0
+Hemoglobin >= 9 g/dL
+40.0
+Hemoglobin >= 9 g/dL, within 2 weeks of the first dose of study treatment
+18.0
+Hemoglobin >= 9 g/dl (patients may be transfused to this level)
+68.0
+Hemoglobin >= 9 g/dL
+92.0
+Hemoglobin >= 9 g/dL
+68.0
+Hemoglobin >= 9 g/dL
+130.0
+Hemoglobin >= 9 g/dl (patients may be transfused to this level)
+32.0
+Hemoglobin >= 9.0 g/dL
+250.0
+Hemoglobin >= 9.0 g/dL within 90 days before enrollment
+5058.0
+Hemoglobin >= 8 g/dl
+40.0
+Hemoglobin >= 9 g/dL
+230.0
+Hemoglobin >= 9 g/dL
+40.0
+Hemoglobin >= 9.0 g/dL
+44.0
+Hemoglobin >= 9 g/dL
+35.0
+Hemoglobin >= 9 g/dL
+57.0
+Hemoglobin >= 9.0 g/dL
+23.0
+Hemoglobin >= 9 g/dL
+280.0
+Hemoglobin >= 8.0 g/dL
+NONE
+Hemoglobin > 8.0 g/dL
+52.0
+Hemoglobin >= 9 g/dL
+90.0
+Hemoglobin >= 9 g/dL
+23.0
+Hemoglobin >= 9 g/dL
+18.0
+Hemoglobin >= 9 g/dL
+135.0
+Hemoglobin >= 9 g/dL
+66.0
+Hemoglobin >= 9 g/dL
+400.0
+Hemoglobin >= 9 g/dL
+209.0
+Hemoglobin >= 10.0 g/dl
+58.0
+Hemoglobin >= 9 g/dL
+75.0
+Hemoglobin >= 9 g/dL
+126.0
+Hemoglobin >= 10 g/dL
+549.0
+Hemoglobin >= 10 g/dL
+680.0
+Hemoglobin > 10 g/dL
+188.0
+Hemoglobin > 9 g/dL
+126.0
+Hemoglobin >= 90 g/L (or >= 9 g/dL)
+36.0
+Hemoglobin >= 9 g/dL
+150.0
+Hemoglobin >= 8.0 g/dL
+50.0
+Hemoglobin >= 90 d/L (or >= 9g/dL)
+46.0
+Hemoglobin >= 9.0 g/dL
+32.0
+Hemoglobin > 9 g/dL
+60.0
+Hemoglobin >= 9.0 g/dL (patients may be transfused to meet this criterion)
+29.0
+Hemoglobin >= 8 g/dL
+714.0
+Hemoglobin > 9 g/dL
+48.0
+Hemoglobin >= 9.0 g/dL, within 4 weeks of randomization
+766.0
+Hemoglobin >= 9 g/dL
+60.0
+Hemoglobin >= 8 g/dL
+35.0
+Hemoglobin >= 9 g/dL
+148.0
+Hemoglobin >= 8 g/dL
+72.0
+Hemoglobin >= 8 g/dL
+40.0
+Hemoglobin >= 10 g/dL
+60.0
+Hemoglobin >= 9 g/dL
+22.0
+Hemoglobin >= 9 g/dL
+40.0
+Hemoglobin < 90 g/L
+98.0
+Hemoglobin >= 9 g/dL
+21.0
+Hemoglobin >= 9 g/dL
+30.0
+Hemoglobin >= 9 g/dL
+35.0
+Hemoglobin >= 10 g/dL
+78.0

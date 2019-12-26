@@ -1,0 +1,64 @@
+Able to swallow whole capsules
+30.0
+Patients must be able to swallow whole capsules
+162.0
+Patients who cannot swallow capsules
+40.0
+Patients who are unable to swallow pills/capsules are ineligible
+107.0
+Inability to swallow lenalidomide capsules whole; capsules of 13-isotretinoin may be opened
+62.0
+Patients must be able to swallow capsules
+180.0
+Patients must be able to swallow whole capsules
+36.0
+Patients must be able to swallow whole tablets or capsules; nasogastric or gastrostomy tube (G-tube) administration is not allowed
+140.0
+Inability to swallow capsules, since capsules cannot be crushed or broken
+104.0
+Patients must be able to swallow whole tablets and capsules
+70.0
+Patients must be able to swallow whole tablets or capsules; nasogastric or gastrostomy tube (G-tube) administration is not allowed; any gastrointestinal disease which would impair ability to swallow, retain, or absorb drug is not allowed
+72.0
+Patients must be able to swallow capsules; nasogastric or gastrostomy feeding (G) tube administration is not allowed
+77.0
+Patients must be able to swallow capsules
+154.0
+Patients unable to swallow capsules whole are not eligible; nasogastric or gastric (G) tube administration is not allowed
+154.0
+Patients must be able to swallow capsules
+40.0
+Patients must be able to swallow capsules whole
+148.0
+Patients must be able to swallow whole capsules
+40.0
+Patients must be able to swallow whole capsules
+23.0
+Patients with malabsorption syndrome or other condition that would interfere with intestinal absorption; patients must be able to swallow capsules
+12.0
+Patients must be able to swallow tablets or capsules; a patient with any gastrointestinal disease that would impair ability to swallow, retain, or absorb drug is not eligible
+6452.0
+Patients must be able to swallow whole capsules; nasogastric or gastrointestinal (G)-tube administration is not allowed
+58.0
+Inability to swallow capsules, since capsules cannot be crushed or broken
+50.0
+Ability to swallow pills/capsules
+46.0
+Patients must be able to swallow whole capsules
+333.0
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patient must be able to swallow capsules whole
+50.0
+NON-PROGRESSED DIPG (STRATUM 2): Patient must be able to swallow capsules whole
+50.0
+Patients must be able to swallow whole tablets or capsules; nasogastric or g-tube administration is not allowed; any gastrointestinal disease which would impair ability to swallow, retain, or absorb drug is not allowed
+60.0
+Inability to swallow capsules, since capsules cannot be crushed or broken
+24.0
+Inability to swallow capsules, since capsules cannot be crushed or broken
+28.0
+Patients must be able to swallow whole capsules
+30.0
+Patients must be able to take oral medications; patients must be able to swallow capsules whole without crushing or altering them in any way
+64.0
+Patients must be able to swallow capsules
+120.0

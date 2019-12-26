@@ -1,0 +1,7 @@
+Cluster 97: echocardiogram ejection fraction left ventricular lvef echo muga assessed radionuclide 
+Cluster 265: gated muga acquisition multi echocardiogram fraction scan ejection cardiac echo 
+Cluster 479: gated muga acquisition echocardiogram lvef left fraction ejection ventricular scan 
+Cluster 677: fraction echocardiogram shortening ejection radionuclide angiogram gated muga study cardiac 
+Cluster 697: ejection fraction cardiac echocardiogram radionuclide echo normal angiogram muga function 
+Cluster 1463: multigated acquisition muga echocardiogram fraction ejection left scan ventricular echo 
+Cluster 1701: echocardiography ejection left fraction muga ventricular acquisition lvef gated scan 

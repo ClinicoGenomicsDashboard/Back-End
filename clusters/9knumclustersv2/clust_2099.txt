@@ -1,0 +1,30 @@
+Platelet count >= ,/uL, obtained within  weeks prior to randomization
+Obtained within  days prior to registration: Platelet count >= ,/uL
+OBTAINED =<  DAYS PRIOR TO REGISTRATION: Platelet (PLT) >= ,/uL
+Obtained =<  days prior to registration: Platelet (PLT) >= , uL
+Obtained within  days prior to randomization/registration: platelets >=  x ^/uL
+Obtained within  days of the first study treatment: Platelet count > ,/uL
+Platelet >=  x ^/uL within  days of registration
+Obtained within  days prior to randomization/registration: Platelets >=  x ^/uL.
+Obtained within  days of the first study treatment: Platelet count > ,/uL
+Platelet count (PLT) >= ,/uL obtained =<  days prior to registration
+Platelet count >= ,/uL, within  days of study registration (within  days for pulmonary and cardiac assessments)
+Platelet count (plt) >= ,/ uL (obtained within  days prior to first study treatment)
+FOR MULTIPLE MYELOMA ONLY: Obtained =<  days prior to registration: Platelet (PLT) >= ,/uL
+FOR TCL ONLY: Obtained =<  days prior to registration: ANC >= ,/uL
+FOR TCL ONLY: Obtained =<  days prior to registration: PLT >= ,/uL
+Platelet count (PLT) >= ,/uL obtained =<  days prior to registration
+Obtained =<  days prior to registration: Platelet (PLT) >= ,
+Platelets >=  x^/uL obtained within  days prior to randomization/registration
+Platelet (PLT) >= ,/uL, obtained =<  days prior to registration
+Platelet (PLT) >= ,/uL (obtained =<  days prior to registration)
+Obtained =<  days prior to registration: Un-transfused platelet count >= /uL (>= ,/uL if marrow plasma cells [PC]% > %)
+Obtained =<  days prior to registration: Platelet count >= ,/uL
+Platelet count (PLT) >= , /uL without transfusions obtained =<  days prior to registration
+Platelet count >= ,/uL obtained within  weeks prior to enrollment
+Obtained within  days prior to registration: Platelet count >= ,/ul
+Platelet count >= ,/uL within  days prior to registration
+Platelets (PLT) >= ,/uL obtained =<  days prior to registration with no platelet transfusion requirement for  days prior to enrollment
+Platelet count >= ,/uL (obtained within  days prior to the first study treatment)
+Platelet count >= ,/uL, obtained within  days prior to treatment start
+Obtained within  days prior to registration: Platelet count (plt) >= ,/uL

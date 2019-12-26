@@ -1,0 +1,29 @@
+PATIENT: They are already receiving PC or hospice services
+Patient is currently enrolled in hospice
+Currently receiving palliative or hospice care
+They are already receiving PC or hospice services
+Currently receiving hospice care (patients who enroll in hospice during the trial will have the option of continuing trial participation)
+Have a life expectancy of <  months or are receiving hospice services
+Patients will be excluded if they are enrolled in hospice at time of enrollment; however, they will be allowed to continue in the study if they enroll in hospice after beginning the study
+Parents will be excluded if they are enrolled in hospice at time of enrollment; (however, they will be allowed to continue in the study if they enroll in hospice after beginning the study)
+Patients with disposition to be transitioned to inpatient hospice or inpatient palliative care unit
+PATIENTS: In hospice care
+Patients discharged to another inpatient facility (hospice, skilled nursing facility, long term acute care hospital [LTACH], or acute rehab) or patients discharged home with hospice will be excluded
+Have already made a decision to not undergo any cancer treatment (e.g., being followed in best supportive care or hospice)
+They are already receiving PC or hospice services
+PATIENT: Currently receiving hospice care
+Histologically or cytologically confirmed cancer (hematologic or solid) who are not currently on hospice care
+Currently on hospice care
+Patient is receiving hospice care
+Note: Patients who enroll in hospice during the trial will have the option of continuing trial participation
+Receiving hospice care
+Life expectancy <  month or current hospice care
+Patients who were already seeing PC, or whose oncologists thought they needed to see PC or enroll in hospice
+Hospice care at enrollment
+Hospice/Nursing Home
+Subjects enrolled in hospice or whose life expectancy is less than  months
+Currently in hospice care
+Patients will be excluded if physicians/staff determine they will not be eligible for a trial during the study period (e.g., entering hospice; moving away)
+Enrolled in hospice
+Patient must have ongoing oncologic needs and plan to receive all care at the study institution and not already be in hospice or home-care
+PATIENTS: Already enrolled on hospice, or enrolling on hospice upon discharge from the hospital admission

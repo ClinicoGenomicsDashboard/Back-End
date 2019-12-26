@@ -1,0 +1,61 @@
+Serum creatinine =< the IULN OR measured or calculated creatinine clearance >=  mL/min using the following Cockcroft-Gault Formula within  days prior to sub-study registration
+Serum creatinine =< . x ULN or calculated creatinine clearance >  mL/min (using the Cockcroft-Gault formula) must be obtained =<  days prior to protocol registration
+Serum creatinine =< . x upper limit of normal (ULN) or calculated creatinine clearance using Cockcroft-Gault formula >=  mL/min
+Serum creatinine =< . x upper limit of normal (ULN) OR, for subjects with creatinine levels > . x ULN, an estimated creatinine clearance of >=  mL/min calculated using the Cockcroft and Gault formula must be met within  days of CD
+Creatinine =< . ULN or calculated creatinine clearance* >=  mL/min\r\n* Calculate creatinine clearance using standard Cockcroft-Gault formula; creatinine clearance must be >=  mL/min to be eligible
+Serum creatinine ? . X upper limit of normal (ULN) OR calculated clearance ?  mL/min/. m^; if using creatinine clearance, actual body weight should be used for calculating creatinine clearance (e.g., using the Cockcroft-Gault formula); for subjects with a body mass index (BMI) >  kg/m^, lean body weight should be used instead
+Obtained within  days prior to registration: Calculated creatinine clearance >=  cc/min (Cockcroft-Gault formula will be used to calculate creatinine clearance)
+Creatinine =< . times upper limit of normal OR calculated creatinine clearance >  mL/min\r\n* Using the lean body mass formula only (Modified Cockcroft Gault)
+Creatinine clearance ?  mL/min; the serum creatinine value used in the calculation must have been obtained within  days prior to registration using the modified Cockcroft-Gault formula
+Serum creatinine < . x upper limit of normal (ULN) or calculated creatinine clearance of >=  cc/min using the Cockcroft-Gault formula
+Serum creatinine =< . times institutional upper limit of normal (ULN), or calculated creatinine clearance >=  mL/min (per the Cockcroft-Gault formula) within  days prior to first dose of protocol-indicated treatment.
+Serum creatinine < . x ULN or measured creatinine clearance (calculated using Cockcroft-Gault formula) >  ml/min
+Within  days prior to registration: Calculated creatinine clearance >=  mL/min\r\n* Cockcroft-Gault formula will be used to calculate creatinine clearance
+Cockcroft-Gault calculated creatinine clearance of >=  ml/min or creatinine =< . x ULN obtained =<  days prior to study initiation
+Serum creatinine =< . X institutional ULN or creatinine clearance >  ml/min as calculated by the Cockcroft-Gault formula
+Serum creatinine =< . x the upper limit of normal (ULN) or calculated creatinine clearance (by Cockcroft-Gault formula) >=  mL/min
+Calculated creatinine clearance >=  mL/min using the Cockcroft-Gault formula for subjects with creatinine levels > . x institutional ULN (obtained within three days prior to study treatment)
+Serum creatinine =<  x upper limit of normal (ULN) or estimated creatinine clearance >/= ml/min as calculated using the Cockcroft-Gault formula.
+Creatinine ?. times the ULN and calculated creatinine clearance > mL/min (by Cockcroft Gault formula; see Appendix B);
+Serum creatinine ? . times the ULN or creatinine clearance >  mL/min by Cockcroft-Gault formula
+Serum creatinine =<  x upper limit of normal (ULN) or creatinine clearance (calculated with the Cockcroft-Gault formula) >=  mL/min, within  days before study registration
+Serum creatinine =< . x ULN or creatinine clearance (calculated with the Cockcroft-Gault formula) >=  mL/min, within  days before study registration
+Serum creatinine =< . x age-adjusted upper limit of normal (ULN) or calculated creatinine clearance (Cockcroft and Gault) >  mL/min/. m^
+Acceptable renal function within  days defined as serum creatinine ? . times the institutional upper limit of normal (ULN) or calculated creatinine clearance ?  mL/min (by the Cockcroft Gault formula).
+Serum creatinine =< . x upper limit of normal (ULN) OR calculated creatinine clearance >=  mL/min (obtained within  days prior to first study treatment)\r\n* Cockcroft-Gault formula will be used to calculate creatinine clearance
+Creatinine =< . x ULN OR creatinine clearance >=  mL/min calculated using the formula of Cockcroft and Gault
+plasma creatinine ? . x upper limit of normal (ULN) for the institution or calculated clearance ?  mL/min (Cockcroft-Gault formula)
+Creatinine =< . x ULN OR calculated creatinine clearance >=  mL/min calculated by the Cockcroft-Gault formula
+ARM A COHORT : Creatinine =< . x institutional ULN, or creatinine clearance >=  mL/min (calculated with the Cockcroft-Gault formula)
+ARM B COHORT : Creatinine =< . x institutional ULN, or creatinine clearance >=  mL/min (calculated with the Cockcroft-Gault formula)
+ARM B COHORT : Creatinine =< . x institutional ULN, or creatinine clearance >=  mL/min (calculated with the Cockcroft-Gault formula)
+ARM C COHORT : Creatinine =< . x institutional ULN, or creatinine clearance >=  mL/min (calculated with the Cockcroft-Gault formula)
+Must be met within  days of CD: Serum creatinine =< . x ULN or estimated creatinine clearance of >=  mL/min calculated using the formula of Cockcroft and Gault
+Creatinine =< . x ULN OR creatinine clearance >=  mL/min calculated using the formula of Cockcroft and Gault
+Creatinine > . times the upper limit of normal (ULN) (unless creatinine clearance normal), or calculated creatinine clearance <  mL/min (using Cockcroft-Gault formula)
+Patients must have a serum creatinine ? the institutional upper limit of normal OR a creatinine clearance ?  cc/min, measured or calculated (Cockcroft-Gault formula), obtained within  days prior to registration.
+Serum creatinine ? . x ULN and/or creatinine clearance (calculated using Cockcroft-Gault formula, or measured) <  mL/min
+Creatinine ? . x upper limits of normal (ULN) OR calculated creatinine clearance ?  mL/min by Cockcroft-Gault formula
+Obtained within  days prior to registration: Estimated creatinine clearance  cc/min OR serum creatinine =< . x upper limit of normal (ULN)\r\n* Cockcroft-Gault formula will be used to calculate creatinine clearance
+Serum creatinine =< . x institutional ULN (Cockcroft and Gault formula)
+Serum creatinine =< ULN or calculated creatinine clearance >=  mL/min using Cockcroft-Gault formula
+Creatinine =< . x ULN OR calculated creatinine clearance >=  ml/min using the Cockcroft-Gault formula (obtained =<  days prior to registration)
+For patients receiving chemotherapy:\r\n* Within  days prior to registration, serum creatinine =< . mg/dL and calculated creatinine clearance >=  cc/min; both tests must be within these limits; the creatinine clearance should be calculated using the Cockcroft-Gault formula\r\n* Aspartate aminotransferase (AST) =<  times upper limit of normal (ULN)\r\n* Bilirubin =<  times ULN\r\n* Alkaline phosphatase, magnesium, blood urea nitrogen (BUN), and electrolytes must be obtained and recorded
+Calculated creatinine clearance >=  mL/min; the serum creatinine value used in the calculation must have been obtained within  days prior to registration; use the modified Cockcroft-Gault formula
+Creatinine =< ULN (Common Toxicity Criteria [CTC] grade ) OR calculated creatinine clearance (Cockcroft-Gault formula) >=  mL/min OR >=  mL/min by ethylenediaminetetraacetic acid (EDTA) creatinine clearance
+Serum creatinine levels <= . * ULN, or calculated (by Cockcroft-Gault formula or other accepted formula) or measure creatinine clearance >= mL/min.
+Screening laboratory assessments outside the following limits: Absolute neutrophil count (ANC) <,/?l (<. x /L) Platelet count <,/?l (< x /L) Hemoglobin < g/dL Total bilirubin >. x institutional upper limit of normal (ULN) (i n case of known Gilbert's syndrome, < x ULN is allowed) Creatinine Creatinine clearance < mL/min (as calculated by Cockcroft-Gault formula or Modification of Diet in Renal Disease [MDRD] formula)
+Patients must have a serum creatinine =< the IULN OR measured or calculated creatinine clearance >=  mL/min using the Cockcroft-Gault formula
+Serum creatinine > . x upper limit of normal (ULN) and/or creatinine clearance (calculated using Cockcroft-Gault formula, or measured) <  mL/min
+Serum creatinine ?. x upper limit of normal or creatinine clearance > mL/min (measured or calculated by the Cockcroft-Gault formula) (Cockcroft DW et al, ).
+Within  h of initiating study treatment: Creatinine =< . x upper limit of normal (ULN) OR calculated creatinine clearance >=  mL/min for subject with creatinine levels > . x ULN (Cockcroft and Gault)
+Serum creatinine (sCr) =< . x ULN, or creatinine clearance (Ccr) >=  mL/min as calculated by the modified Cockcroft-Gault formula
+Serum creatinine =< . x ULN; or calculated creatinine clearance >=  mL/min (using Cockcroft Gault formula); or measured creatinine clearance >=  mL/min
+Cockcroft-Gault calculated creatinine clearance of >=  ml/min or creatinine =< . x ULN obtained =<  days prior to randomization
+Serum creatinine =< . x the ULN or calculated creatinine clearance >=  ml/min using Cockcroft-Gault formula
+Serum creatinine ?. x upper limit of normal (ULN) or creatinine clearance > mL/min calculated using Cockcroft-Gault
+Serum creatinine =< . x upper limit of normal (ULN) or calculated creatinine clearance >=  cc/min using the Cockcroft-Gault formula
+Serum creatinine > . x upper limit of normal (ULN); if creatinine .-. x ULN, creatinine clearance, calculated according to Cockcroft-Gault formula, <  ml/min will exclude the patient
+Obtained within  days prior to registration: Serum creatinine =< . x upper limit of normal (ULN) OR calculated creatinine clearance >=  mL/min (Cockcroft-Gault formula will be used to calculate creatinine clearance)
+Serum creatinine =< . x ULN or measured calculated creatinine clearance >=  ml/min for subject with creatinine levels > . x institutional ULN (per Cockcroft-Gault formula) obtained =<  days prior to registration
+Serum creatinine =< . X upper limit of normal (ULN) OR calculated creatinine clearance >=  mL/min as calculated by Cockcroft-Gault formula or by  hour urine collection, performed within  days of protocol enrollment

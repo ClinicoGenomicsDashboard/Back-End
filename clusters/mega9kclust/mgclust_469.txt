@@ -1,0 +1,8 @@
+Cluster 749: lymphocyte count absolute ul mm registration days cells obtained study 
+Cluster 835: granulocyte count mm absolute ul agc peripheral starting days platelets 
+Cluster 1141: plt platelet count ul mm registration obtained days prior peripheral 
+Cluster 1191: neutrophils ul absolute days obtained cells registration mm randomization count 
+Cluster 1294: alc lymphocyte absolute count ul mm cells blood cell product 
+Cluster 1748: cbc blood count differential complete obtained registration function days prior 
+Cluster 1906: ul lymphocyte count cycle day obtained days treatment study prior 
+Cluster 2331: lymphocyte count mcl mm absolute days total equal enrollment blood 

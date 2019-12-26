@@ -1,0 +1,362 @@
+No other experimental therapy is permitted while on study
+400.0
+Patients must not receive any other anti-cancer therapy (cytotoxic, biologic, radiation, or hormonal other than for replacement) while on this study except for medications that are prescribed for supportive care but may potentially have an anti-cancer effect (i.e. megestrol acetate, bisphosphonates); these medications must have been started 1 month prior to enrollment on this study; in addition, men receiving treatment for prostate cancer will be maintained at castrate levels of testosterone by continuation of luteinizing-releasing hormone agonists
+36.0
+Patients must have received < 3 lines of prior therapy and have relapsed less than a year from their last platinum regimen; regimens that are used twice (for example carboplatin and paclitaxel) can be counted as one; if a regimen is changed during the course of treatment due to side effect profile or allergy, the course of therapy is counted as one regimen; (for example, if docetaxel is substituted for paclitaxel due to a reaction during the initial course of adjuvant therapy, this is considered one regimen)
+102.0
+Patients that have been previously treated with chemotherapy for hepatoblastoma or other hepatoblastoma-directed therapy (eg, radiation therapy, biologic agents, local therapy [embolization, radiofrequency ablation, laser]) are not eligible
+253.0
+Recovery from effects of recent surgery, radiotherapy, or chemotherapy* Patients must be entered within 8 weeks after surgery performed for either 1) initial diagnosis, staging, and/or cytoreduction, or 2) (if done) management of recurrent disease in a chemonaive patient* Any hormonal therapy directed at the malignant tumor must be discontinued at least one week prior to registration; continuation of hormone replacement therapy is permitted
+128.0
+Patients must not have received any prior systemic therapy (chemotherapy or other biologic therapy) for lung cancer
+162.0
+With the exception of steroid pretreatment (defined below) or the administration of intrathecal cytarabine, patients must not have received any prior cytotoxic chemotherapy for either the current diagnosis of B-ALL or B-LLy or for any cancer diagnosed prior to initiation of protocol therapy on AALL0932* Patients receiving prior steroid therapy may be eligible for AALL0932
+9483.0
+Patients must not have begun chemotherapy or endocrine therapy for their breast cancer prior to registration
+10000.0
+Patients who are able to comply with the anti-emetic therapy
+NONE
+Patients must not receive any other anti-cancer therapy (cytotoxic, biologic, radiation, or hormonal other than for replacement) while on this study except for medications that are prescribed for supportive care but may potentially have an anti-cancer effect (i.e. megestrol acetate, bisphosphonates); in addition, men receiving treatment for prostate cancer will be maintained at castrate levels of testosterone by continuation of luteinizing-releasing hormone agonists
+130.0
+RCC patients only: Tumor progression after receiving standard/approved chemotherapy and/or targeted agent, where there is no approved therapy or for tumors where sorafenib based therapy would be standard therapy (Phase I)
+48.0
+First line advanced HCC (i.e., no prior systemic therapy)
+48.0
+PROCUREMENT: Diagnosis of Hodgkin�s or non-Hodgkin�s lymphoma:* GROUP A: ** With active disease *** In second or subsequent relapse*** In first relapse for indolent lymphoma after first line therapy for relapse*** Or first relapse if immunosuppressive chemotherapy contraindicated*** Primary refractory disease or if persistent disease after first line therapy of relapse** Or multiply relapsed patients in remission who are at a high risk of relapse or the lymphoma is a second malignancy e.g. a Richter's transformation of chronic lymphocytic leukemia (CLL) after failing frontline therapy OR* GROUP B:** After autologous or syngeneic stem cell transplant (SCT) (as adjuvant therapy)
+44.0
+TREATMENT: Diagnosis of Hodgkin�s or non-Hodgkin�s lymphoma:* GROUP A: ** With active disease *** In second or subsequent relapse*** In first relapse for indolent lymphoma after first line therapy for relapse*** Or first relapse if immunosuppressive chemotherapy contraindicated*** Primary refractory disease or if persistent disease after first line therapy of relapse** Or multiply relapsed patients in remission who are at a high risk of relapse or the lymphoma is a second malignancy e.g. a Richter's transformation of CLL after failing frontline therapy OR* GROUP B:** After autologous or syngeneic SCT (as adjuvant therapy)
+44.0
+TREATMENT: Patients should have been off other investigational therapy for one month prior to entry in this study
+44.0
+TREATMENT: Patients should have been off conventional therapy for at least 1 week prior to entry in this study, including rituximab
+44.0
+Treatment including radiation therapy, chemotherapy, biotherapy, or hormonal therapy for this cancer prior to surgery (i.e., any neoadjuvant chemotherapy or endocrine therapy is not allowed); patients who undergo surgical resection with breast conservation and then are treated with adjuvant systemic therapy are eligible to enroll prior to the start of radiotherapy
+265.0
+Patients on hormone-replacement therapy (HRT) =< 4 weeks prior to registration; this includes the use of vaginal estrogen therapy
+224.0
+No concomitant anti-cancer chemotherapy or other systemic drugs; palliative radiation therapy will be allowed as long as the patient meets all other eligibility criteria
+40.0
+Patients must have newly diagnosed active multiple myeloma (MM); except where otherwise indicated below that assessment is required within 14 days, all tests for establishing baseline disease status must be completed within 28 days prior to registration for patients with no prior therapy, or within 28 days prior to initiation of first Induction course for patients with prior therapy
+130.0
+Patients must have at least ONE of the following:* Recurrent/progressive disease at any time prior to enrollment - regardless of response to frontline therapy* Refractory disease: persistent sites of disease (after less than a partial response to frontline therapy, following a minimum of 4 cycles of induction therapy) AND patient has never had a relapse/progression* Persistent disease: persistent disease after achieving at least a partial response to frontline therapy after a minimum of 4 cycles of induction therapy and patient has never had a relapse/progression
+62.0
+A minimum of 6 weeks must have elapsed after 131I-MIBG therapy prior to start of protocol therapy
+62.0
+All cytokines or hematopoietic growth factors must be discontinued a minimum of 7 days prior to protocol therapy
+62.0
+More than 4 prior chemotherapy regimens; note: repeat use of regimens count as 1 prior regimen; switching front-line therapy regimens (for example, from intraperitoneal to intravenous therapy) for reasons other than progression will count as 1 prior therapy; bevacizumab and other �targeted� agents will count in the total number of prior regimens; vaccine therapies will not count in the total of prior therapies
+102.0
+Patients must start therapy within 7 calendar days of registration
+180.0
+Laboratory values must be no older than seven (7) days prior to the start of therapy; if a test that is repeated after registration and prior to therapy is outside the limits for eligibility, it must be rechecked within 48 hours prior to the start of therapy; if laboratory values still fail to meet eligibility criteria, the patient may not receive protocol therapy
+180.0
+Any continued use of sex hormonal therapy, e.g., birth control pills, ovarian hormone replacement therapy; patients are eligible if these medications are discontinued prior to randomization
+1636.0
+Patients must have completed planned local therapy (i.e., definitive surgery and radiation therapy) and adjuvant chemotherapy for breast cancer prior to registration; in addition, any prior local therapy and adjuvant chemotherapy should be completed prior to participant completion of baseline Patient Reported Outcomes (PRO) instruments (i.e., Health Assessment Questionnaire [HAQ], PROMIS Physical Function, Functional Assessment of Cancer Therapy [FACT] Breast and Endocrine Symptoms [ES], etc.) and collection of optional blood for banking for future research
+1000.0
+NOTE: concomitant treatment with ongoing trastuzumab (Herceptin) or other targeted/biologic agents is allowed; concomitant treatment with any other type of chemotherapy or hormonal therapy is not allowed
+1000.0
+Patients must not have received prior AI therapy with exemestane, letrozole, or anastrozole as preoperative/adjuvant therapy or for prevention of breast cancer; prior tamoxifen is allowed
+1000.0
+Patients going on Arm 1 or combination dose cohort must not have received prior radiation therapy, chemotherapy, immunotherapy or therapy with biologic agent (including immunotoxins, immunoconjugates, antisense, peptide receptor antagonists, interferons, interleukins, tumor infiltrating lymphocytes [TIL], lymphokine-activated killer [LAK] or gene therapy), or hormonal therapy for their brain tumor; glucocorticoid therapy is allowed
+36.0
+Patients going on Arm 2 must have received planned treatment with radiation therapy and concomitant temozolomide at least 28 days but no more than 49 days prior to starting treatment on this study; patients must have received at least 80% of planned temozolomide and radiation therapy with no grade 3 or grade 4 toxicity (except lymphopenia) attributed to the temozolomide; Arm 2 patients may not have received any other prior chemotherapy, immunotherapy or therapy with biologic agent (including immunotoxins, immunoconjugates, antisense, peptide receptor antagonists, interferons, interleukins, TIL, LAK or gene therapy), or hormonal therapy for their brain tumor; prior Gliadel wafers are allowed; glucocorticoid therapy is allowed
+36.0
+Patients may have an unlimited number of prior therapy regimens
+36.0
+Patients with HER-2 positive tumors must have received neoadjuvant trastuzumab, or trastuzumab + pertuzumab, or other approved anti-HER-2 therapy (either with all or with a portion of the neoadjuvant chemotherapy regimen); therapy must be Food and Drug Administration (FDA)-approved targeted anti-HER2 therapy, but additional therapies are allowed as are non-trastuzumab regimens if administered in the context of an Institutional Review Board (IRB)-approved clinical trial
+2918.0
+Phase II: histologically confirmed colorectal adenocarcinoma post at least two lines of therapy, NSCLC post at least two lines of therapy, or granulosa cell ovarian cancer post at least one line of therapy; patients must have measurable disease
+140.0
+Prior therapy: Eligible subjects must have had 1 line of systemic cytotoxic treatment; this may be adjuvant therapy with documented progression within 12 months of completion, or 1 line of cytotoxic therapy for metastatic disease; NOTE: eligible patients are allowed up to 2 lines of systemic cytotoxic treatment, of which only 1 line is allowed for metastatic disease; the acceptance of progression within 12 months of adjuvant is part inclusion to not require patient to re-challenge with chemotherapy (chemo) if they progressed soon after adjuvant therapy; prior hormonal therapy for metastatic/recurrent disease is also allowed; prior targeted therapy not directed against cMET or vascular endothelial growth factor (VEGF) pathways is allowed
+72.0
+No ongoing anti-androgen therapy; patients must be off anti-androgen therapy for at least 30 days
+80.0
+Active (as defined by requiring immunosuppressive therapy) or history of clinically significant autoimmune disease (as defined by previously requiring immunosuppressive therapy)
+80.0
+Relapsed or refractory after at least 1 front-line therapy
+42.0
+All prior therapy must have been completed at least 21 days prior to enrollment; no concomitant anti lymphoma therapy, including systemic corticosteroids for the purpose of treatment of lymphoma are allowed; topical steroids are allowed
+189.0
+Patients may have received prior systemic therapy (chemotherapy, immunotherapy, biologic therapy, or combination regimens); all adverse events associated with prior treatment must have resolved to =< grade 1 prior to registration
+97.0
+Treatment for this cancer including surgery, radiation therapy, chemotherapy, biotherapy, hormonal therapy or investigational agent prior to study entry
+2060.0
+Prior therapy with anti-angiogenic agents is permitted
+73.0
+Prior therapy with belinostat
+80.0
+Ongoing radiation therapy, chemotherapy, hormonal therapy directed at the tumor, immunotherapy, or biologic therapy
+104.0
+Patients on bisphosphonates for any cancer or on hormone therapy for prostate cancer will not need to discontinue this therapy to be eligible; however, patients with prostate cancer will need to have metastatic prostate cancer that has progressed despite hormonal therapy; castrate testosterone levels occur within hours after castration and within 2 to 3 weeks of a luteinizing hormone-releasing hormone agonist; the current standard is to continue androgen suppression despite progressive disease
+52.0
+Patients who have received any systemic corticosteroid therapy within 3 weeks prior to the start of therapy with the exception of physiological replacement doses of cortisone acetate or equivalent
+52.0
+Concurrent anticancer therapy (including other investigational agents), with the exception of hormone therapy for prostate cancer
+52.0
+1 prior line of systemic therapy for multiple myeloma, where a line of therapy for myeloma is defined as 1 or more planned cycles of single agent or combination therapy, as well as a planned series of treatment regimens administered in a sequential manner (e.g. lenalidomide, bortezomib and dexamethasone induction therapy for 4 cycles followed by autologous stem cell transplantation and then lenalidomide maintenance therapy would be considered 1 line of prior therapy); a new line of therapy begins when a planned therapy is modified to include other treatment agents (alone or in combination) as a result of disease progression, disease relapse or treatment-related toxicity (e.g. a patient is progressing in the face of lenalidomide maintenance therapy and has bortezomib and dexamethasone added into their regimen); a new line of therapy also begins when a planned treatment-free interval is interrupted by the need to start treatment due to disease relapse/progression (e.g. a patient with relapsed myeloma achieves a partial response after a planned 8 cycles of cyclophosphamide, bortezomib and dexamethasone, enjoys an 8-month period off therapy but then experiences disease progression requiring re-initiation of therapy)
+97.0
+Study participants must have completed any prior treatment at least 3 weeks prior to treatment on this protocol; prior treatments may have included chemotherapy however may not have included BRAF or MEK inhibitors or immunotherapies (interleukin-2, ipilimumab, anti-programmed death [PD]1 antibodies etc.) excluding vaccine therapy; prior treatment with interferon in the adjuvant setting is allowed, though prior treatment with ipilimumab in the adjuvant setting is not; prior radiation therapy is allowed though must have included no more than 3000 centigray (cGy) to fields including substantial marrow
+40.0
+Prior systemic anti-cancer therapy (chemotherapy with delayed toxicity, extensive radiation therapy, immunotherapy, biologic therapy, or vaccine therapy) within the last 3 weeks; chemotherapy regimens without delayed toxicity within the last 2 weeks preceding the first dose of study treatment
+40.0
+No recent treatment for thyroid cancer as defined as:* No radioactive iodine therapy is allowed if given < 3 months prior to initiation of this protocol therapy; a diagnostic study using < 10 mCi of radioactive iodine (RAI) is not considered radioactive iodine therapy* No external beam radiation therapy < 4 weeks prior to initiation of therapy on this protocol* No chemotherapy or targeted therapy (e.g., tyrosine kinase inhibitor) is allowed < 4 weeks prior to the initiation of therapy
+18.0
+Prior systemic anti-cancer therapy (chemotherapy with delayed toxicity, extensive radiation therapy, immunotherapy, biologic therapy, or vaccine therapy) within the last 3 weeks; chemotherapy regimens without delayed toxicity within the last 2 weeks preceding the first dose of study treatment
+18.0
+Prior administration of anthracyclines is acceptable if therapy was completed > 6 months prior to study enrollment
+278.0
+Current use of statin therapy
+278.0
+Prior therapy requirements:* At least one prior therapy using an agent with the potential for prolonged remission (generally includes interleukin-2, checkpoint-blocking antibodies, or adoptive cell therapy)* At least 4 weeks from last dose of prior chemotherapy or immunomodulator therapy with resolution of the acute toxicities; for patients coming off molecularly-targeted therapy, at least 2 weeks since last dose and recovery from laboratory and constitutional toxicities; patients must meet entry eligibility criteria* At least 2 weeks from completion of prior radiation therapy with no residual radiation toxicities* At least 4 weeks from last dose of prior investigational therapy with recovery to meet baseline eligibility criteria* Not receiving any current anticancer therapy* Note: any patient whose tumors carry a B-Raf proto-oncogene, serine/threonine kinase (BRAF) v600 mutation should either be excluded, or may be included after experiencing progression following treatment with BRAF inhibitor regimen or if they consent and agree to forgo Food and Drug Administration (FDA)-approved therapies that increase median survival
+12.0
+Chronic systemic or regular inhaled corticosteroid use within 7 days prior to initiation of protocol therapy
+12.0
+Immunosuppressive therapy within 30 days prior to initiation of protocol therapy
+12.0
+Patients who have had immunotherapy, chemotherapy or radiotherapy within 14 days prior to the first dose of navitoclax, or prior systemic anti-cancer therapy (chemotherapy with delayed toxicity, extensive radiation therapy, immunotherapy, biologic therapy, or vaccine therapy) within the last 3 weeks prior to first dose of dabrafenib and/or trametinib; chemotherapy regimens without delayed toxicity within the last 2 weeks preceding the first dose of study treatment; biologics will not be allowed within 30 days prior to, or during, navitoclax administration
+68.0
+Patients who have received any of the following concomitant therapy: interleukin (IL)-2, interferon; immunosuppressive agents; or chronic use of systemic corticosteroids (used in the management of cancer or non-cancer-related illnesses)
+92.0
+Patients may have received prior hormonal therapy for treatment of endometrial carcinoma; all hormonal therapy must be discontinued at least one week prior to the first date of study therapy
+540.0
+Concurrent systemic corticosteroids, cytokines, and immunomodulatory therapy (e.g. interferons)
+150.0
+All patients must have completed any prior chemotherapy, targeted therapy, radiotherapy (unless palliative doses which must be discussed with study principal investigator), surgery, anti-angiogenic therapy or interferon >= 28 days before study entry
+68.0
+Patients who received prior systemic anti-cancer therapy (chemotherapy with delayed toxicity, extensive radiation therapy, immunotherapy, biologic therapy, or vaccine therapy) within the last 3 weeks prior to day 1 of cycle 1; patients are permitted to be on dabrafenib and trametinib standard of care at start of therapy without wash-out period prior to day 1 of cycle 1; dosing will change to protocol determined dose levels on day 1 of cycle 1
+32.0
+There is no limitation in the number of prior lines of therapy
+100.0
+Prior treatment:* Patients may have received prior radiation therapy to index lesions >= 28 days prior to registration on this protocol if there has been documented progression by RECIST criteria; prior radiation therapy to the non-index lesions is allowed if >= 28 days prior to registration on this protocol* Prior RAI therapy is allowed if >= 90 days prior to registration on this protocol and evidence of progression (as defined above) has been documented in the interim (a diagnostic study using < 10 mCi of RAI is not considered RAI therapy)* Prior chemotherapy is allowed if >= 28 days prior to registration on this protocol* Patient may have received any number of prior lines of therapy* No prior use of sorafenib or an mammalian target of rapamycin (mTOR) (including phosphoinositide 3-kinase [PI3k] or protein kinase B [AKT]) inhibitor for the treatment of thyroid cancer
+34.0
+Patients must either be eligible to be screened at progression on prior treatment or to be pre-screened prior to progression on current treatment; patients will either consent to the screening consent or the pre-screening consent, not both; these criteria are:* Screening at progression on prior treatment: to be eligible for screening at progression, patients must have received at least one line of systemic therapy for any stage of disease (stages I-IV) and must have progressed during or following their most recent line of therapy; for patients whose prior systemic therapy was for stage I-III disease only (i.e. patient has not received any treatment for stage IV or recurrent disease), the prior systemic therapy must have been a platinum-based chemotherapy regimen and disease progression on the platinum-based chemotherapy must have occurred within one year from the last date that patient received that therapy; for patients whose prior therapy was for stage IV or recurrent disease, the patient must have received at least one line of a platinum-based chemotherapy regimen or checkpoint inhibitor therapy (e.g. nivolumab or pembrolizumab)* Pre-screening prior to progression on current treatment: to be eligible for pre-screening, current treatment must be for stage IV or recurrent disease and patient must have received at least one dose of the current regimen; patients must have previously received or currently be receiving a platinum-based chemotherapy regimen or checkpoint inhibitor therapy (e.g. nivolumab or pembrolizumab); patients on first-line platinum-based treatment are eligible upon receiving cycle 1, day 1 infusion; Note: patients will not receive their sub-study assignment until they progress and the S1400 Notice of Progression is submitted
+10000.0
+Patients must have progressed (in the opinion of the treating investigator) following the most recent line of therapy
+10000.0
+Patients must not be planning to receive any concurrent chemotherapy, immunotherapy, biologic or hormonal therapy for cancer treatment; concurrent use of hormones for non-cancer-related conditions (e.g., insulin for diabetes and hormone replacement therapy) is acceptable
+10000.0
+Prior therapy* Patients must have recurred or progressed following at least one platinum-based chemotherapy regimen* Patients may have received an unlimited number of prior therapy regimens* Patients may not have received all of the five choices in the �standard therapy� arm* Any hormonal therapy directed at the malignant tumor must be discontinued at least one week prior to registration* Any other prior therapy directed at the malignant tumor, including chemotherapy and radiation therapy, must be discontinued at least 4 weeks prior to registration; any investigational agent must be discontinued at least 28 days prior to registration
+250.0
+No waiting period for patients who relapse while receiving standard maintenance therapy
+598.0
+Cytotoxic therapy: at least 14 days since the completion of cytotoxic therapy with the exception of hydroxyurea, which is permitted up to 24 hours prior to the start of protocol therapy, or maintenance chemotherapy, or intrathecal chemotherapy (methotrexate strongly preferred) administered at the time of the required diagnostic lumbar puncture to establish baseline CNS status
+598.0
+No prior taxane therapy =< 6 months, except as a radiosensitizer
+20.0
+Patients must meet at least one of the following criteria:* Disease progression any time after non-steroidal aromatase inhibitor (AI) use in the advanced disease setting* Relapse while on or within =< 12 months of end of adjuvant non-steroidal AI therapy with or without prior endocrine therapy for advanced disease* NOTE: In either setting, treatment with any prior endocrine therapy must be completed >= 2 weeks prior to course 1 day 1 (C1D1) of study treatment with the exception of exemestane which is permitted in the advanced disease setting within =< 4 weeks immediately prior to C1D1; prior adjuvant exemestane is allowed if the disease free interval is > 12 months from the discontinuation of exemestane; prior faslodex, everolimus, palbociclib or other cyclin-dependent kinase (CDK) inhibitor (e.g. ribociclib, abemaciclib) use are allowed and must have been completed >= 2 weeks prior to C1D1; failure to adhere to this washout guideline will result in a protocol violation
+600.0
+Patients who are currently receiving other anti-cancer agents are not eligible (except leukemia patients receiving hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy); patients with acute lymphoblastic leukemia may receive intrathecal therapy
+148.0
+No recent treatment for thyroid cancer as defined as:* No prior RAI therapy is allowed < 6 months prior to initiation of therapy on this protocol; a diagnostic study using < 10 millicurie (mCi) of RAI is not considered RAI therapy* No external beam radiation therapy < 4 weeks prior to initiation of therapy on this protocol; (previous treatment with radiation for any indication is allowed if the investigator judges that the previous radiation does not significantly compromise patient safety on this protocol)* No chemotherapy or targeted therapy (e.g., tyrosine kinase inhibitor) is allowed < 4 weeks prior to the initiation of therapy on this protocol
+35.0
+At least 2 weeks have passed since prior chemotherapy, biological therapy, radiation therapy, major surgery, other investigational or anti-cancer therapy that is considered disease-directed
+52.0
+Concurrent systemic immunosuppressant therapy other than corticosteroids (e.g., cyclosporine A, tacrolimus, etc.) within 28 days of the first dose of study drug
+52.0
+Patients must be registered within 365 days of the initial metastatic breast cancer diagnosis; first-line standard systemic therapy (chemotherapy, anti-endocrine therapy, anti-HER2, or other standard targeted therapy) for metastatic breast cancer must be given or planned to be given; if given before study entry, it cannot have exceeded a duration of 12 months at the time of registration (Note: sequencing of ablative therapy [surgery or SBRT] relative to systemic therapy, for patients randomized to Arm 2, is at the discretion of the treating physician)
+360.0
+Ovarian cancer patients must be resistant to platinum therapy; therapy (i.e. within 6 months of last platinum therapy); patients who received greater than two prior platinum containing regimens will not be eligible
+36.0
+Has a diagnosis of immunodeficiency or is receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of trial treatment
+36.0
+Prior systemic anti-cancer therapy (chemotherapy with delayed toxicity, extensive radiation therapy, immunotherapy, biologic therapy, or vaccine therapy) within the last 3 weeks; chemotherapy regimens without delayed toxicity within the last 2 weeks preceding the first dose of study treatment
+18.0
+Patients may receive up to a maximum of 5 days of pre-treatment with ATRA prior to administration of protocol therapy
+158.0
+Treatment with hydroxyurea, corticosteroids (any route) and intrathecal cytarabine prior to beginning protocol directed therapy is allowed; however, it should be noted that lumbar puncture and intrathecal therapy at initial diagnosis of APL is not recommended
+158.0
+Patients must not have received any prior systemic anticancer therapy for advanced or metastatic disease including chemotherapy or EGFR tyrosine kinase inhibitor therapy (including gefitinib, erlotinib, afatinib, or any experimental EGFR tyrosine kinase inhibitors [TKI] agents); prior chemotherapy for non-metastatic disease (i.e. adjuvant therapy or concurrent chemo-radiotherapy) is allowed as long as > 12 months has passed since completion of therapy; adjuvant EGFR-directed therapy is not allowed; local therapy (i.e. palliative radiotherapy) is allowed as long as a period of 7 days has passed since the last dose was received and the patient has recovered from any associated toxicity at the time of registration
+223.0
+Patients are allowed to have received up to three prior cytotoxic regimens for treatment of their epithelial ovarian, fallopian tube, or primary peritoneal cancer; they must have had one prior platinum-based chemotherapeutic regimen for management of primary disease, possibly including intra-peritoneal therapy, consolidation, biologic/targeted (non-cytotoxic) agents or extended therapy (maintenance/consolidation) administered after surgical or non-surgical assessment; patients are allowed to have received, but are not required to have received, one to two cytotoxic regimens for management of recurrent or persistent disease; (for the purposes of this study poly adenosine diphosphate [ADP] ribose polymerase [PARP] inhibitors given for recurrent or progressive disease will be considered cytotoxic; PARP inhibitors given as maintenance therapy in continuation with management of primary disease will not be considered as a separate cytotoxic regimen); if two cytotoxic regimens had been received for management of recurrent or persistent disease, one of these regimens would have had to contain either a platinum or a taxane agent
+96.0
+No planned concomitant, non-protocol directed anti-cancer therapy
+96.0
+Patients may have had prior therapy for brain metastasis, including radiosurgery and surgical resection; patients must have completed prior therapy by at least 14 days prior to Step 2 for surgical resection and 7 days for radiosurgery
+510.0
+Concurrent neoplasia requiring cytotoxic therapy
+42.0
+Any prior therapy, radiotherapy (except palliative radiation therapy of 30 gray [Gy] or less), or major surgery must have been completed >= 4 weeks prior to start of treatment; all adverse events due to prior therapy have resolved to a grade 1 or better (except alopecia and lymphopenia) by start of treatment; palliative radiation therapy must have been completed at least 2 weeks prior to start of treatment; the radiotherapy must not be to a lesion that is included as measurable disease* NOTE: Prostate cancer patients may continue their luteinizing hormone-releasing hormone (LHRH) agonist* NOTE: Patients may receive non-protocol treatment after biopsy (if clinically indicated) until they receive notification of results; however, lack of response must be documented prior to registration to Step 1; new non-protocol treatment will NOT be permitted as intervening therapy after registration to Step 0; the decision to stop the intervening non-protocol treatment will be left up to the treating physician if patient has an aMOI; however, patients will need to be off such therapy for at least 4 weeks before receiving any MATCH protocol treatment* NOTE: For patients entering the study via a designated outside laboratory, no intervening systemic non-protocol treatment is permitted after Step 0 registration; all other eligibility requirements still apply to these patients, including the washouts for prior therapy noted above in this section, the time restrictions outlined, and the eligibility criteria for the intended subprotocol
+6452.0
+Any continued use of sex hormonal therapy, e.g., birth control pills, ovarian hormone replacement therapy; patients are eligible if these medications are discontinued prior to randomization
+990.0
+EXCLUSION CRITERIA FOR STRATUM C: Patients who are receiving any other anti-cancer or investigational drug therapy are ineligible
+110.0
+The study will be limited to patients who are chemotherapy naive; patients may have received prior systemic or liver-directed local therapies for advanced uveal melanoma as long as those treatments do not involve chemotherapy; this includes, but is not limited to: immunotherapy, targeted therapy, transarterial embolization, radiofrequency ablation, or cryoablation; treatment must be completed at least 28 days prior to initiation of study therapy; radiation therapy is also allowed and must be completed at least 28 days prior to initiation of study therapy; lesions treated via radiation or liver-directed therapy may not be used as target lesions unless they demonstrate growth over a minimum of 3 months on subsequent imaging
+35.0
+History of prior therapy with belinostat or AZD1775
+30.0
+>= 1 prior systemic therapy for sarcoma, including adjuvant systemic therapy
+195.0
+Children who have previously received chemotherapy, radiation therapy or any anti-leukemic therapy are not eligible for this protocol, with the exception of cytarabine for the treatment of TMD
+256.0
+Prior therapy* Patients =< 30 days from the last dose of cytarabine used for treatment of TMD
+256.0
+Patients� post-operative treatment must have included at least 80% of standard radiation and concomitant temozolomide; patients may not have received any other prior chemotherapy, immunotherapy or therapy with biologic agent (including immunotoxins, immunoconjugates, antisense, peptide receptor antagonists, interferons, interleukins, tumor infiltrating lymphocytes [TIL], lymphokine-activated killer [LAK] or gene therapy), or hormonal therapy for their brain tumor; prior Gliadel wafers are allowed; glucocorticoid therapy is allowed
+75.0
+Patient must NOT be planning to receive molecular targeted therapy (such as everolimus or palbociclib) nor HER2 directed therapy in addition to endocrine therapy
+99.0
+Patient is not now, and never has received adjuvant endocrine therapy OR patient is currently receiving or has received adjuvant endocrine therapy in the past, AND adjuvant endocrine therapy was initiated > 2 years prior to diagnosis of metastatic disease* Note: patients who developed metastatic disease while still receiving adjuvant endocrine therapy must have a planned change in the type of endocrine agent used for subsequent metastatic disease treatment; patient is not receiving blocking adjuvant therapy (such as toremifene or tamoxifen) OR patient is receiving blocking adjuvant therapy, but will stop this therapy a minimum of 60 days prior to FES-PET/CT while still complying with the study timeline
+99.0
+Prior therapy such as chemotherapy or radiation therapy or anti-tumor experimental therapy for pancreatic cancer
+23.0
+Patients who are receiving other cancer directed therapy at the time of enrollment
+90.0
+Patients must have completed at least 1 prior line of systemic therapy; patients who have declined first line therapy or for whom first-line therapy would be clinically inappropriate, will be considered eligible for the trial
+30.0
+Prior therapy:* Prior chemotherapy must have included a first-line platinum-based regimen with or without intravenous consolidation chemotherapy* Patients may have received an unlimited number of platinum-based therapies in the recurrent setting* Patients may have received up to 1 non-platinum-based line of therapy in the recurrent setting; prior hormonal therapy will not be considered to count as this non-platinum-based line* Patients may not have had a prior anti-angiogenic agent in the recurrent setting; prior use of bevacizumab in the upfront or upfront maintenance setting is allowed* Patients may not have previously received a poly adenosine diphosphate (ADP) ribose polymerase (PARP)-inhibitor* Prior hormonal-based therapy for ovarian, primary peritoneal, or fallopian tube cancer is acceptable
+549.0
+No more than 3 prior treatment regimens (including primary therapy; no more than 1 prior non-platinum based therapy in the platinum-resistant/-refractory setting); hormonal therapies used as single agents (i.e. tamoxifen, aromatase inhibitors) will not count towards this line limit
+680.0
+Recent initiation of bone modifying therapy with a bisphosphonate or denosumab unless it has been started more than 4 weeks prior to the first dose of the study regimen; patients who are already enrolled in this study can initiate bone modifying therapy after the first set of re-staging scans (>= 8 weeks from cycle 1, day 1)
+33.0
+No prior therapy with mTOR inhibitors except for rapalog treatment as part of graft-versus-host (GVH) prophylaxis or treatment
+35.0
+Concurrent anti-cancer therapy
+36.0
+Be receiving any form of treatment for cancer with the exception of hormonal or biologic therapy
+720.0
+The adjuvant endocrine therapy must have stopped within 1 month prior to enrollment
+500.0
+Patients must not have received prior surgery, radiation therapy, chemotherapy, targeted therapy, or any investigational therapy for pancreatic cancer
+150.0
+No systemic therapy within 2 weeks prior to registration or plan for systemic therapy within the first 8 weeks after study registration
+130.0
+Prior treatment with blinatumomab or CD-directed CAR T-cell therapy
+36.0
+Any number of prior lines of therapy
+45.0
+Biopsy-proven advanced stage follicular lymphoma, that have failed at least two lines of therapy multi-agent chemotherapy, but responds to salvage therapy (i.e., chemosensitive disease) (timeline 8 months prior to enrollment)
+18.0
+At least 4 weeks from end of monoclonal antibody therapy
+60.0
+At least 2 weeks from end of targeted therapy
+60.0
+Active systemic immunosuppressive therapy
+60.0
+Active tuberculosis (TB):* Patients who are undergoing first month of therapy (RIPE or equivalent) for active TB* Patients with TB immune reconstitution syndrome (IRIS) requiring corticosteroids** Note: patients who are receiving therapy beyond month one of initial therapy with no evidence of TB IRIS requiring corticosteroid therapy, or those receiving treatment for latent tuberculosis (INH or alternative) may be eligible after discussion with the protocol P.I.
+60.0
+Prior therapy: No line limit but no more than 1 prior regimens in the platinum resistant setting; no prior treatment targeting the ATR/checkpoint kinase 1 (CHK1) pathway and no prior gemcitabine as single agent; hormonal therapies immunotherapy, and antiangiogenic therapies (as single agents) do not count as lines; poly (adenosine diphosphate [ADP]-ribose) polymerases (PARP)-inhibitors count as a line of therapy unless given in the maintenance setting; PARP-inhibitors given as maintenance after platinum therapy do not count as a line of therapy; prior carboplatin/gemcitabine is allowed provided that there was no disease progression within 12 months after completion of the carboplatin/gemcitabine regimen; subjects may begin protocol treatment at least 4 weeks or 5 half-lives, whichever is shorter, after their last dose of chemotherapy or hormonal therapy, assuming they are otherwise eligible
+70.0
+No limit on prior lines of therapy for metastatic disease; prior adjuvant or neoadjuvant chemotherapy does not count as a prior line of therapy as long as completion of the adjuvant or neoadjuvant therapy was more than 1 year prior to patient enrollment
+51.0
+Patients with hormone receptor positive breast cancer as defined above must plan to receive at least 5 years of adjuvant hormonal therapy in the form of tamoxifen or an aromatase inhibitor, alone or in combination with ovarian suppression; (NOTE: for patients with ER and PR staining in less than 5% of cells, hormonal therapy for at least 5 years is strongly recommended but not required); hormonal therapy can be initiated prior to or during protocol therapy
+NONE
+PRIOR/CONCURRENT THERAPY CRITERIA: Patients must have documented progressive cancer following at least one but no more than two prior regimens of systemic therapy for lung cancer, one of which must have been platinum based combination chemotherapy; treatment with an immune therapy or targeted therapy for advanced disease will be considered a separate regimen and will count toward the prior regimens; maintenance therapy will not be counted as a separate regimen; adjuvant chemotherapy or chemotherapy administered as part of concurrent chemotherapy and radiation therapy for the treatment of lung cancer will not count as a prior regimen of systemic therapy as long as recurrence of patient�s lung cancer occurred more than 12 months after the last day of chemotherapy
+53.0
+Patients who have received any systemic corticosteroid therapy within 4 weeks prior to the start of therapy, or 12 weeks if given to treat graft versus host disease (GVHD), with the exception of physiological replacement doses of cortisone acetate or equivalent
+24.0
+Patients who have received any targeted therapy (including but not limited to vaccines, antibodies, tyrosine kinase inhibitors) or hormonal therapy for management of their epithelial ovarian, fallopian tube or peritoneal primary cancer
+147.0
+Concurrent anticancer therapy (e.g. chemotherapy, radiation therapy, biologic therapy, immunotherapy, hormonal therapy, investigational therapy)
+147.0
+Diagnosis of immunodeficiency or receiving systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of study therapy; the use of physiologic doses of corticosteroids may be approved after consultation with the study principal investigator (PI)
+348.0
+Any antineoplastic therapy for this cancer before randomization
+348.0
+Antineoplastic therapy (e.g. chemotherapy or targeted therapy) for other invasive cancer within 5 years before randomization; (for the purposes of this study, hormonal therapy is not considered chemotherapy)
+348.0
+Prior adjuvant treatment with chemotherapy and/or endocrine therapy, as determined by the treating physician, is allowed; the last dose of chemotherapy or radiation therapy must be at least 30 days prior to study registration; concurrent hormonal therapy will be allowed
+2936.0
+Patients must be registered prior to or on the same day as their first cycle of chemotherapy for their current disease and stage (or disease setting); patient must not have had any systemic therapy (chemotherapy or combination regimens) in the 180 days just prior to registration; prior biologic therapy, immunotherapy, and hormonal therapy are allowed
+3960.0
+Patients may have received prior hormonal therapy for treatment of endometrial carcinoma; all hormonal therapy must be discontinued at least 4 weeks prior to registration
+84.0
+Patients must not be planning to receive concomitant biologic therapy, hormonal therapy, chemotherapy, surgery, or other cancer therapy while on study
+969.0
+Patients must not be planning to receive concomitant other biologic therapy, radiation therapy, hormonal therapy, other chemotherapy, anti-cancer surgery or other anti-cancer therapy while on this protocol
+77.0
+Patients must have histologically documented metastatic solid tumors which have progressed after one line of therapy, or lymphoma which has progressed after all Food and Drug Administration (FDA)-approved therapy
+38.0
+Patients receiving denosumab or bisphosphonates for any cancer, or undergoing androgen deprivation therapy for prostate cancer, are eligible for this therapy
+38.0
+Prior therapy with topoisomerase I inhibitors is allowed
+38.0
+Ongoing radiation therapy, chemotherapy, hormonal therapy directed at the tumor, immunotherapy, or biologic therapy, including investigational agents for their disease
+70.0
+If primary disease in the thoracic cavity was previously treated with local therapy in the form of surgery, any local/regional disease recurrence should be technically treatable with SBRT or hypofractionated radiation after induction systemic therapy.
+186.0
+Patients must be registered within 35 days of administration of the last dose of first-line/induction systemic therapy.
+186.0
+Patients receiving targeted therapy (non-cytotoxic, non-immunotherapy based systemic therapy) for NSCLC in the first-line setting. Such designations would include but not be limited to treatments targeting EGFR mutant positive or ALK positive NSCLC in the first-line setting.
+186.0
+Patients with malignant pleural effusions that do not resolve after first-line systemic therapy. Patients with pleural effusions that have become too small for thoracentesis at the time of registration would be permitted on study, indicating a significant response to first-line systemic therapy.
+186.0
+Prior bevacizumab therapy is excluded.
+186.0
+Patients must not currently be receiving any other investigational agents or any other systemic anti-cancer therapy (including radiation, excluding RANKL inhibitors and bisphosphonates); in event patient recently received any other systemic anti-cancer therapy, patient must be off therapy at least 7 days prior to registration and any therapy-induced toxicity must have recovered to =< grade 1, except alopecia and =< grade 2 neuropathy which are allowed; any planned radiation therapy must be completed before enrollment onto S1609
+707.0
+Recurrent, platinum resistant ovarian cancer (defined as progression within < 6 months from completion of platinum based therapy; the date should be calculated from the last administered dose of platinum therapy)
+488.0
+1-2 prior regimens (including primary therapy); hormonal therapies (e.g., tamoxifen, aromatase inhibitors) will not count toward the prior regimen limit
+488.0
+Patients who have had systemic anticancer therapy (e.g., chemotherapy, targeted therapy) within 3 weeks prior to entering the study
+488.0
+Patients with prior treatment with bevacizumab (or any other anti vascular therapy, e.g., cediranib) for platinum resistant recurrence; (Note: prior bevacizumab in initial therapy and/or platinum sensitive recurrent setting is allowed)
+488.0
+At least 4 weeks must have elapsed since receiving medical therapy directed at NF1 related tumor manifestations
+24.0
+Patients who have received previous investigational agents or biologic therapy, such as tipifarnib, pirfenidone, Peg-Intron, sorafenib, imatinib or other targeted therapies are eligible for enrollment; at least 4 weeks must have elapsed since receiving medical therapy directed at the plexiform neurofibromas (PN) and patients who received previous GIST-directed therapy must either demonstrate progression as defined by RECIST, or be unable to tolerate their previous therapy; patients who received prior medical therapy for their PN must have recovered from the acute toxic effects of all prior therapy to =< grade 1 before entering this study
+28.0
+Ongoing radiation therapy, chemotherapy, hormonal therapy, immunotherapy, or biologic therapy directed at the tumor; those patients with a plexiform neurofibroma requiring treatment will be eligible
+28.0
+Patients must not be planning to receive concomitant other biologic therapy, radiation therapy, intravesical chemotherapy, surgery, or other therapy while on this protocol
+148.0
+No prior other anti-cancer therapy, including ACT, for 28 days prior to study administration of atezolizumab
+40.0
+No prior therapy for this disease
+60.0
+Any concurrent chemotherapy, immune therapy, biologic, hormonal therapy for cancer treatment
+180.0
+Prior hypomethylating agent (HMA) therapy is allowed, however this study excludes: (1) patients whose relapse occurred on HMA-based therapy immediately prior to this study and (2) patients who experience disease progression (see definition below) while receiving HMA-based therapy within the last 12 weeks prior to treatment start on study; disease progression is defined as either: (1) patients with MDS who have evidence of initial progression to AML (defined by the presence of >= 20% blasts in peripheral blood or bone marrow) while receiving HMA-based therapy within the last 12 weeks prior to treatment start on study; OR (2) patients with AML who have evidence of progressive disease according to European Leukemia Net (ELN) 2017 criteria (e.g. > 50% increase in marrow blasts over baseline or > 50% increase in peripheral blasts to > 25 x10^9/L [> 25,000/uL] [in absence of differentiation syndrome]) while receiving HMA-based therapy within the last 12 weeks prior to treatment start on study* (Note: Patients who relapse post-transplant who received HMA treatment prior to transplant are eligible for study)
+48.0
+Patients who have had chemotherapy, hormonal therapy (except LHRH agonist or antagonist), immunotherapy, radioisotope therapy, or RT within 21 days prior to start of the study agents
+90.0
+Prior or concurrent therapy with SSA is permitted; a stable dose at least 2 months prior to study start and must continue on the stable dose while receiving study treatment; SSA is not considered as systemic treatment
+40.0
+Patients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy and must meet the following minimum duration from prior anti-cancer directed therapy prior to enrollment; if after the required timeframe, the numerical eligibility criteria are met, e.g. blood count criteria, the patient is considered to have recovered adequately
+51.0
+Radiopharmaceutical therapy (e.g., radiolabeled antibody, 131 iodine metaiodobenzylguanidine [131I-MIBG]): >= 42 days after systemically administered radiopharmaceutical therapy
+51.0
+Not currently receiving anticoagulation therapy
+51.0
+No prior medical therapy (chemotherapy, immunotherapy, biologic or targeted therapy) or radiation therapy for the current colon cancer except for one cycle of mFOLFOX6
+700.0
+Patients must have had one prior systemic chemotherapeutic regimen for management of recurrent, persistent or metastatic carcinoma of the cervix (e.g.; paclitaxel/cisplatin, paclitaxel/cisplatin/bevacizumab), at least one which must have contained bevacizumab* NOTE: Patients are allowed to receive 1-2 prior regimens for management of recurrent, persistent or metastatic carcinoma of the cervix; patients who have received more than two prior systemic regimens for management of recurrent, persistent or metastatic carcinoma of the cervix are NOT eligible* NOTE: Prior adjuvant therapy is NOT counted as a systemic chemotherapeutic regimen for management of recurrent, persistent or metastatic carcinoma of the cervix; adjuvant therapy includes cisplatin given concurrent with primary radiation therapy (CCRT) and adjuvant chemotherapy given following the completion of concurrent chemotherapy and radiation therapy (e.g., paclitaxel and carboplatin for up to 4 cycles)
+22.0
+Patients who are currently receiving or plan to receive other anti-cancer agents (except hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy and intrathecal chemotherapy)
+53.0
+Patients must not be planning to receive concomitantly other biologic therapy, hormonal therapy, other chemotherapy, surgery or other anti-cancer therapy except radiation therapy while receiving treatment on this protocol; however, patients receiving extended adjuvant endocrine therapy for an earlier ER positive breast cancer treated with curative intent and without recurrence for at least 5 years may continue with their endocrine therapy
+1000.0
+Patients must not be planning to receive other biologic therapy, radiation therapy, hormonal therapy, chemotherapy, surgery, or other therapy while on this protocol; palliative radiation therapy or surgery can be considered for symptomatic non-target lesions after discussions with the study team
+64.0
+The use of anti-convulsants is allowed, as long as the patient is on a stable dose with no seizure activity for at least 2 weeks prior to initiating trial therapy
+98.0
+Androgen deprivation therapy started after prostatectomy and prior to step 1 registration for > 6 weeks (42 days)
+282.0
+Patients with non-melanoma skin cancers (NMSC) must have advanced or refractory tumors* Advanced/unresectable is defined by at least 1 of the following criteria: tumors 2 cm or more, tumors considered unresectable, tumors invading deep tissues such as muscle, cartilage or bone, tumors showing perineural invasion, and/or tumors metastatic to loco-regional lymph nodes and/or distant sites* Refractory is defined by persistent or recurrent tumor despite prior therapy consisting of at least 1 of the following: surgery, radiation therapy, intralesional therapy, topical therapy, or systemic therapy
+68.0
+Previous treatment with talimogene laherparepvec or other herpes virus based therapy; (prior therapy with checkpoint inhibitors and/or other immunotherapy is allowed)
+68.0
+Patients must be undergoing breast conserving therapy
+175.0
+Patients treated with neoadjuvant hormonal therapy only are not eligible
+175.0
+Patients must not have received prior radiation therapy (RT), chemotherapy, immunotherapy or therapy with a biologic agent (including immunotoxins, immunoconjugates, antisense, peptide receptor antagonists, interferons, interleukins, tumor-infiltrating lymphocytes, lymphokine-activated killer cells, or gene therapy), or hormonal therapy for their brain tumor; corticosteroid therapy is allowed
+30.0
+Patients who have received systemic cytotoxic chemotherapy or approved oral targeted therapy or immunotherapy for 2 weeks, or other investigational agents for 3 weeks (4 half-lives for any oral targeted agents), or radiotherapy to a non-brain site for 2 weeks before initiation of IPdR therapy; patients who have recovered from serious (Common Terminology Criteria for Adverse Events [CTCAE] grade 3 or more higher) to grade 1 or less adverse events from the previous therapies are eligible; prior/current/future hormonal therapy and/or bisphosphonates are permitted with no minimum interval to initiation of study therapy; if indicated, patients can receive palliative radiation therapy to a non-brain site concurrent or immediately post-study treatment with no minimum interval to initiation of study therapy
+47.0
+Single-dose intrathecal cytarabine is allowed prior to registration or prior to initiation of systematic therapy for patient convenience; systemic chemotherapy must begin within 72 hours of this intrathecal therapy
+324.0
+Completion of remission induction therapy
+324.0
+Patients must have either failed to achieve a complete remission, or must have relapsed within 2 years after completing first line bendamustine-containing chemoimmunotherapy (including an anti-CD20 monoclonal antibody), as measured from the last dose of bendamustine; relapsed patients must not have received any intervening chemotherapy; patients must have received at least 3 cycles of bendamustine as first line therapy; (note that no minimum dose of bendamustine is required); patients who additionally received any maintenance anti-CD-20 antibody based therapy or consolidative radioimmunotherapy within 2 years of the last dose of the bendamustine therapy are eligible; involved field or involved site radiation is not considered a line of therapy; patients who previously received anthracycline based therapy are excluded; examples of eligible 1st line treatment regimens (note this list is not all inclusive):* Bendamustine rituximab x 4 cycles* Bendamustine bortezomib rituximab x 6 cycles followed by rituximab maintenance* Bendamustine obinutuzumab x 3 cycles
+150.0
+Patients who have received prior progestin or anti-estrogen therapy during the 3 months before the diagnosis of endometrioid adenocarcinoma of the uterine corpus is established; estrogen therapy alone is allowed
+50.0
+Patients must not be planning to require any additional form of systemic anti-tumor therapy while on protocol treatment
+94.0
+Eligibility criteria to participate in group 1 of the pilot study of the AYA-Hears instrument Note: participants in group 1 will not receive protocol-directed therapy
+1680.0
+Patients must have had no prior systemic therapy
+1680.0

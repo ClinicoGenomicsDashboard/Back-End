@@ -1,0 +1,75 @@
+Subjects with radiographic signs of excessive intra-cranial mass effect with associated rapid neurologic deterioration, and/or spinal block, are unsafe to undergo BBBD chemotherapy and are not eligible
+Patients with MRI or clinical evidence of uncontrolled tumor mass effect are excluded; the assessment of mass effect should be made by the study chairs and study neurosurgeons prior to any planned CED treatment.
+Adequate renal function, as indicated by modified Cockcroft-Gault equation (estimated creatinine clearance [eCCR] with the use of ideal body mass [IBM] instead of mass)
+Simple or intermediate renal mass on imaging (R.E.N.A.L score =< )
+Patients must have no evidence of significant mass effect, no midline shift, and no uncontrolled clinical signs of mass effect
+Patients with either diffuse (>  quadrant or >  cm) suspicious microcalcifications on mammogram or diffuse non-mass-like enhancement on MRI
+Patients who have tumors for which the Gd-enhancing mass appears to be covered =< % using  catheters and assuming a . cm diameter based on pre-operative planning are unlikely to have adequate LITT and thus ineligible for the study
+Be scheduled for sub-lobar radioembolization therapy of a previously untreated HCC mass <  cm visible on grayscale ultrasound
+Patients with any high-risk features will also be eligible, including those who:\r\n* Fail to achieve complete remission with initial combination chemotherapy\r\n* Have bulky disease after initial therapy (chemotherapy or radiation) defined as residual mediastinal mass >=  cm or other residual mass >=  cm accompanied by other features of persisting disease (e.g., positron emission tomography [PET] scan positive; high LDH; enlarging on serial x-rays or biopsy positive) will be eligible - if feasible, persistent disease should be proven by biopsy
+Patients with MRI or clinical evidence of uncontrolled tumor mass effect are excluded; the assessment of mass effect should be made by the study chair(s) and study neurosurgeon prior to any planned CED treatment
+Patients must have measurable malignancy as defined by at least one of the criteria below\r\n* Lymphoma mass that is measurable (minimum . cm in largest diameter) by computed tomography (CT) scan is required unless bone marrow lymphoma is detectable\r\n* For a lymphoma mass to count as measurable malignancy, it must have abnormally increased metabolic activity when assessed by positron emission tomography (PET) scan\r\n* For lymphoma with only bone marrow involvement, no mass is necessary, but if a mass is not present, bone marrow malignancy must be detectable by flow cytometry
+Patients must not have symptoms attributed to mass effect of the tumor (despite corticosteroid treatment) that would be better treated with debulking surgery, or wherein surgical debulking in the first  days following LITT procedure would be anticipated for symptom management.
+Presence of bulky disease (defined as any single mass >  cm in its greatest dimension). Patients with a mass over  cm, but otherwise eligible, may be considered for enrollment after discussion and approval with the medical monitor.
+TCL ONLY: Any mass >=  cm
+Patients with the following high-risk features who are not candidates for traditional neoadjuvant chemotherapy will be included for this trial: micropapillary, sarcomatoid and plasmacytoid features; -dimensional (-D) mass on exam under anesthesia (EUA); lymphovascular invasion; hydronephrosis (unless in the opinion of the treating physician, this is not due to tumor); high grade (grade ) tumors of the ureter, renal pelvis, or tumors in these areas with radiographic abnormality large enough to recognize as an abnormal mass by computed tomography (CT) or magnetic resonance imaging (MRI) imaging; direct invasion of the prostatic stroma or the vaginal wall (i.e. cTa disease); patients who are candidates for but refusing conventional chemotherapy may be considered eligible; for patients in whom eligibility is unclear, final arbitration will be determined by the principal investigator
+No mass ? cm.
+Additional criteria for bulky disease (lymphomas):\r\n*If stable disease is best response, the largest residual nodal mass must <  cm (approximately)\r\n*If response to previous therapy, the largest residual mass must represent a % reduction and be < . cm (approximately)
+Supratentorial mass effect with greater than  mm of midline shift or hydrocephalus
+Must be scheduled for laparoscopic robot assisted partial nephrectomy of renal mass
+Must have measurable disease (e.g., a tumor mass >  cm)
+MAIN STUDY COHORT INCLUSION CRITERIA: Presence of a solid enhancing cT renal mass (i.e. =<  cm) diagnosed on cross-sectional imaging
+Renal mass =<  cm\r\n* The treating renal mass must be =<  cm; other renal masses (cysts etc.) of any size will not make the subject ineligible
+Growth of renal mass >  mm in radiographic scans must be demonstrated within a one year period
+The presence of cervical conglomerate nodal mass or extracapsular spread (ECS) on imaging
+Patients with an organ confined renal mass planning to undergo a robotic assisted partial nephrectomy (RAPN)
+Patients with renal lesions determined to be too complex to perform a RAPN without clamp by the surgeon; (the renal mass may be deemed too difficult based on pre-operatively radiological findings; the surgeons decision to exclude a mass from a robotic assisted partial nephrectomy would be based on a higher risk of positive margin or complication if a RAPN was performed)
+Brain edema and/or mass effect that causes midline shift or shift in wall of the third (rd) ventricle of more than -mm.
+The attending surgeon considers the mass to be amendable to robotic assisted surgery
+Patients with stable disease are eligible for transplantation if the largest residual nodal mass is <  cm (approximately); for patients who have responded to preceding therapy, the largest residual mass must represent a % reduction and be < . cm (approximately)
+LV mass on CMR >  grams (g) Inclusion Criteria for Group 
+Presence of bulky disease (defined as any single mass >  cm in its greatest dimension).
+Palpable mass
+Mass on mammography
+Measurable disease: a mass that can be reproducibly measured by physical examination and/or ultrasound and is at least  cm in size
+Patients are preferred to have either a tumor mass amenable to core needle biopsy during the dosimetry phase, or a measurable tumor mass with at least one site of involvement measuring . cm in largest dimension on computed tomography (CT) imaging for purposes of planar and/or single-photon emission computed tomography (SPECT)/CT tumor dosimetry
+Bulky disease by CT, defined as any single mass >  cm in its greatest diameter
+Patients are preferred to have either a tumor mass amenable to core needle biopsy during the dosimetry phase, or a measurable tumor mass with at least one site of involvement measuring . cm in largest dimension on computed tomography (CT) imaging for purposes of planar and/or single-photon emission CT (SPECT)/CT tumor dosimetry (patients with disease that does not allow tumor dosimetry will be allowed on study since they still can contribute toward achieving the primary endpoint, but these patients will be given a lower priority over those with evaluable disease)
+Patients with any high-risk features will also be eligible, including those who:\r\n* Fail to achieve complete remission with initial combination chemotherapy\r\n* Patients with bulky disease after initial therapy (chemotherapy or radiation) defined as residual mediastinal mass >=  cm or other residual mass >=  cm accompanied by other features of persisting disease (e.g., Gallium or positron emission tomography (PET) scan positive; high LDH; enlarging on serial x-rays or biopsy positive) will be eligible; if possible, persistent disease should be proven by biopsy
+Symptoms due to mass effect of the tumor including high intracranial pressure, marked edema or ?mm midline shift significant
+Patients must have high grade upper tract urothelial carcinoma proven by one of the following:\r\n* Biopsy;\r\n* Urinary cytology with a -dimensional upper urinary tract mass on cross-sectional imaging; or\r\n* Urinary cytology and a mass visualized during upper urinary tract endoscopy
+Any history of intracerebral arteriovenous malformation (AVM), cerebral aneurysm, or mass lesions of the central nervous system.
+Bulky disease - Lymph nodes or tumor mass (except spleen) >= cm LD (longest diameter)
+MRI demonstration of a stereotactically accessible enhancing mass of less than  cm^ that does not require resection to relieve clinically significant mass effect
+Bulky disease (defined as a mass measuring > . cm or one-third the maximal diameter of the thoracic cavity)
+Patient has measurable disease as defined by a tumor mass > . cm in one dimension.
+Extensive (invasive) loco-regional tumor mass and/or metastatic spread, rendering patient inoperable
+Patients must have a mediastinal mass > . maximum intrathoracic diameter on standing posterior-anterior chest x-ray or mass measuring >  cm in its largest diameter
+Must have measurable disease (e.g., a tumor mass >  cm)
+The presence of a mass in the pancreas, OR
+Stage IAX (bulk defined as single lymph node mass > cm in diameter), IB-IV disease
+If the index tumor is in the spine, there must be an intact cortex between the mass and the spinal canal and exiting nerve roots
+Subjects with radiographic signs of excessive intra-cranial mass effect with associated rapid neurologic deterioration, and/or spinal block, are unsafe to undergo blood-brain barrier disruption (BBBD) chemotherapy and are not eligible
+Patients must have measurable disease as defined by palpable lesion with both diameters >=  cm measurable with caliper and/or a positive mammogram or ultrasound with at least one dimension >=  cm; screening mammogram of the contralateral breast must be performed within past  months per standard practice guidelines; clip placement is required for study entry; baseline measurements of the indicator lesions must be recorded on the Patient Registration form; to be valid for baseline, the measurements on clinical exam must have been made within the  days if the mass is palpable; if the mass is not palpable, a mammogram or magnetic resonance imaging (MRI) must be done within  days; if the mass is palpable, a diagnostic mammogram of the affected breast or MRI must be done within  months prior to study entry
+large tumor mass (bulky disease)
+Presence of an enhancing solid renal mass =< . cm on radiological examination
+DCIS presentation as a palpable mass
+Low lean mass defined as either\r\n* Age- and sex- specific relative lean muscle mass standard deviation scores =< -. OR\r\n* Body fat content greater than or equal to % in males or greater than or equal to % in females
+Scheduled for partial nephrectomy of renal mass
+Multiple or bilateral renal masses when more than one mass is operated on at the same time or within -months of each other
+Patients with a paraspinal mass =<  cm in the greatest dimension and that is contiguous with spine metastasis are eligible
+Patient must have a solitary, polar, clinical T renal mass
+T stage >= T (mass extending outside the bladder)
+Patients with any clinical breast symptoms (palpable mass, nipple discharge, etc)
+Patients with any clinical symptoms (palpable mass, nipple discharge, etc)
+Hodgkin lymphoma beyond CR with chemosensitive disease, stable disease (SD) may be included if no mass >  cm
+Malignancy or mass that is non-gynecologic in origin (mass/tumor of origin other than reproductive organ such as rectal, abdominal, breast)
+Patients with one or more of the following imaging criteria from any of the  imaging modalities after completion of neoadjuvant chemotherapy (NCT) are not eligible:\r\n* Mammogram with malignant appearing calcifications or mass >  cm; or\r\n* Ultrasound with a hypoechoic area >  cm; or\r\n* Breast MRI demonstrating a residual mass with rapid rise and washout type III kinetics.
+Be diagnosed with an adnexal mass
+Diagnosis of a non-HCC liver mass with one or more of the following:\r\n* Liver mass (>=  cm) that has suggestive imaging findings of a benign liver mass (adenoma, hemangioma, focal nodular hyperplasia)\r\n* Liver mass (>=  cm) that is biopsy proven metastatic disease (metastatic colorectal cancer, metastatic pancreatic cancer)\r\n* Liver mass (>=  cm) that is a non-HCC primary malignancy (cholangiocarcinoma)
+The patient has an orbital mass which needs further diagnostic evaluation before treatment or for monitoring
+Previously untreated stage I or II non-bulky (defined as a mass measuring <  cm in the longest dimension by CT) Hodgkin lymphoma
+Bulky disease (defined as a nodal mass measuring >=  cm by CT)
+Be a female diagnosed by x-ray mammography (performed within  days prior to the study procedure) as having a solid breast mass or abnormal area without a mass
+Women with symptoms such as palpable mass or nipple discharge
+Study Arm : primary diagnosis of a pelvic or adnexal mass of presumed gynecologic origin who is scheduled for operative resection

@@ -1,0 +1,16 @@
+Patients with prior history of QTC prolongation or QTC >  ms on screening ECG will be excluded
+Corrected QT interval (QTc) prolongation (defined as a QTc > ms for males and > ms for females [Fridericia's correction]) or other clinically significant electrocardiogram (ECG) abnormalities as assessed by the investigator
+Prolongation of QT/ corrected QT (QTc) interval (QTc interval >  ms for males or >  ms for females) using the Fridericia method of QTc analysis.
+Patients must have an electrocardiogram (EKG) within  days prior to registration according to the following parameters:\r\n* Male patients must have a corrected QT (QTc) =<  ms\r\n* Female patients must have a QTc =<  ms
+Corrected QT (QTc) interval prolongation greater than  ms
+Evidence of corrected QT (QTc) prolongation as defined as QTc using Fredericia's formula (QTcF) >  ms (per Fridericias formula)
+Severe conduction abnormality including significant corrected QT (QTc) prolongation >  ms
+Prolongation of QTc interval to greater than  ms
+Corrected QT (QTc) interval >  ms for men or  ms for women, or known history of QTc prolongation or Torsades de Pointes
+Participant has a corrected QT (QTc) interval >  ms or known history of QTc prolongation or Torsade de Pointes
+QTc prolongation defined as a QTc greater than or equal to  ms or a prior history of cardiovascular disease, arrhythmias, or significant ECG abnormalities
+Prolongation of corrected QT interval of >  ms
+Previously documented and persistent corrected QT (QTc) prolongation (>  ms)
+Patient must have an electrocardiogram without evidence of arrhythmia, QT prolongation (corrected QT [QTc] >  ms in males and >  ms in females), or other severe dysfunction within  weeks of registration
+Evidence of corrected QT (QTc) prolongation on pre-treatment electrocardiography (ECG) (greater than  ms in males or greater than  ms in females)
+Evidence of corrected QT (QTc) prolongation on pretreatment electrocardiography (ECG) (greater than  ms in males or greater than  ms in females)

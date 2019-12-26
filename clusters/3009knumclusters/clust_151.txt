@@ -1,0 +1,289 @@
+Patients must meet one of the following criteria:\r\n* Patients must have tumor amenable to image guided or direct vision biopsy and be willing and able to undergo a tumor biopsy for molecular profiling; patients with multiple myeloma other than plasmacytomas are to have a bone marrow aspirate to obtain tumor cells; biopsy must not be considered to be more than minimal risk to the patient\r\n** NOTE: Registration to screening steps (Step 0, 2, 4, 6) must occur after stopping prior therapy; there is no specific duration for which patients must be off treatment prior to registration to the relevant screening step (and subsequently, the biopsy), as long as all other eligibility criteria are met OR\r\n* Patient will be undergoing a procedure due to medical necessity during which the tissue may be collected\r\n** NOTE: Registration to screening steps (Step 0, 2, 4, 6) must occur after stopping prior therapy; there is no specific duration for which patients must be off treatment prior to registration to the relevant screening step (and subsequently, the biopsy), as long as all other eligibility criteria are met OR\r\n* Formalin-fixed paraffin-embedded tumor tissue block(s) are available for submission following pre-registration (not applicable for bone marrow aspirate specimens); criteria for the submission of formalin-fixed paraffin-embedded (FFPE) tissue are:\r\n** Tissue must have been collected within 6 months prior to pre-registration to Step 0\r\n*** Patient may receive treatment after tissue collection; however, lack of response must be documented prior to Step 1; the following restrictions apply:\r\n**** Enrollment onto another investigational study is not permitted\r\n**** Intervening therapy that constitutes a new, molecularly targeted therapy is not permitted; please note, immunotherapy is not considered molecularly targeted\r\n***** Continuation of an agent/regimen for which disease progression has been observed prior to biopsy is permitted, including targeted therapy\r\n**** A new immunotherapy regimen is permitted; but, lack of response must also be documented prior to registration to Step 0\r\n** Formalin-fixed paraffin-embedded tumor tissue block(s) must meet the minimum requirements OR\r\n* Results from one of the designated outside laboratories indicate a “rare variant” that is an actionable mutation of interest (aMOI) for specific designated rare variant subprotocols; the following requirements apply:\r\n** The outside laboratory notified the site that patient may be a potential candidate for MATCH due to a detected “rare variant”\r\n** Patients with an applicable “rare variant” must be able to meet the eligibility criteria for the appropriate subprotocols within 4 weeks following entry on the EAY131 Step 0 screening step\r\n** Registration to Step 0 must occur after stopping prior systemic anti-cancer therapy; there is no specific duration for which patients must be off treatment prior to registration to Step 0, as long as all eligibility criteria are met\r\n*** NOTE: Other potential aMOIs that would be eligibility criteria for NON RARE arms, as determined by the above laboratories, are not applicable for direct treatment assignment on MATCH\r\n*** NOTE: Tumor tissue for the confirmation of “rare variant” by the MATCH assay is to be submitted, preferably from the same time of collection as that evaluated by the designated outside laboratory
+Within 2 weeks prior to screening step registration and within 4 weeks prior to treatment step registration: Leukocytes >= 3,000/mcL
+Within 2 weeks prior to screening step registration and within 4 weeks prior to treatment step registration: Absolute neutrophil count >= 1,500/mcL
+Within 2 weeks prior to screening step registration and within 4 weeks prior to treatment step registration: Platelets >= 100,000/mcL
+Within 2 weeks prior to screening step registration and within 4 weeks prior to treatment step registration: Total bilirubin =< 1.5 X institutional upper limit of normal (ULN) (unless documented Gilbert’s syndrome, for which bilirubin =< 3 x institutional ULN is permitted)
+Within 2 weeks prior to screening step registration and within 4 weeks prior to treatment step registration: Creatinine clearance >= 45 mL/min/1.73 m^2 for patients with creatinine levels above institutional normal
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): ECOG performance status 0 or 1 within 2 weeks prior to randomization
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Patients must have completed treatment with any investigational agent >= 30 days prior to randomization for protocol therapy, if applicable
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Patients must be randomized within 24 weeks from surgery
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Platelets > 100,000 mm^3
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Aspartate aminotransferase (AST, SGOT) =< 2.5 x ULN
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Alanine aminotransferase (ALT, SGPT) =< 2.5 x ULN
+STEP I: Hemoglobin >= 8 g/dL (obtained within 28 days prior to randomization)
+STEP I: Bilirubin =< 1.5 mg/dL (obtained within 28 days prior to randomization)
+STEP II: Step 2 registration must be within 6 weeks of completing step 1 therapy
+STEP II: Any adverse event related to step 1 therapy must have resolved to grade 2 or less
+STEP II: Hemoglobin >= 8 g/dL (within 28 days prior to randomization to Step II)
+STEP II: Platelet count >= 75,000 cells/mm^3 (within 28 days prior to randomization to Step II)
+STEP II: Absolute neutrophil count >= 1000 cells/mm^3 (within 28 days prior to randomization to Step II)
+STEP II: Calculated creatinine clearance >= 30 mL/min (within 28 days prior to randomization to Step II)
+STEP II: Bilirubin =< 1.5 mg/dL (within 28 days prior to randomization to Step II)
+STEP II: SGPT (ALT) and SGOT (AST) < 2.5 times the upper limit of normal (within 28 days prior to randomization to Step II)
+STEP 1 INITIAL REGISTRATION: HER-2 TESTING
+STEP 2 RANDOMIZATION
+Brain metastases are allowed if they have been adequately treated with radiotherapy or surgery and stable for at least 30 days prior to step 2 randomization; eligible patients must be neurologically asymptomatic and without corticosteroid treatment for at least 7 days prior to step 2 randomization
+Platelets >= 75,000/mcL within 14 days prior to step 2 randomization
+Hemoglobin >= 9 g/dL within 14 days prior to step 2 randomization
+Bilirubin =< 1.5 mg/dL within 14 days prior to step 2 randomization
+STEP 3 CROSSOVER REGISTRATION (OPTIONAL): Patients must have documented disease progression while on CETIRI (Arm 2) on this protocol; the Follow-up Tumor Assessment Form documenting disease progression must be submitted to Southwest Oncology Group (SWOG) prior to step 3 crossover registration; registration to step 3 crossover must be within 28 days of discontinuation of CETIRI protocol treatment; patients going off treatment for any other reason are not eligible
+STEP 3 CROSSOVER REGISTRATION (OPTIONAL): ANC >= 1,500/mcL within 14 days prior to step 3 crossover registration
+STEP 3 CROSSOVER REGISTRATION (OPTIONAL): Platelets >= 75,000/mcL within 14 days prior to step 3 crossover registration
+STEP 3 CROSSOVER REGISTRATION (OPTIONAL): Hemoglobin >= 9 g/dL within 14 days prior to step 3 crossover registration
+STEP 3 CROSSOVER REGISTRATION (OPTIONAL): AST and ALT both =< 5 x institutional upper limit of normal (IULN) within 14 days prior to step 3 crossover registration
+STEP 3 CROSSOVER REGISTRATION (OPTIONAL): Bilirubin =< 1.5 mg/dL within 14 days prior to step 3 crossover registration
+STEP 3 CROSSOVER REGISTRATION (OPTIONAL): Calculated creatinine clearance > 30 ml/min within 14 days prior to step 3 crossover registration
+STEP 3 CROSSOVER REGISTRATION (OPTIONAL): Patients must have left ventricular ejection fraction (LVEF) >= 50% or >= lower limit of normal for the institution by echocardiogram within 14 days prior to step 3 crossover registration
+STEP 3 CROSSOVER REGISTRATION (OPTIONAL): Patients must have a magnesium, potassium, calcium, sodium, bicarbonate, and chloride performed within 14 days prior to step 3 crossover registration
+STEP 3 CROSSOVER REGISTRATION (OPTIONAL): As a part of the OPEN registration process the treating institution's identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered in the system
+STEP 2: RANDOMIZATION
+After completing one cycle of therapy, patients will be registered for randomization between intermittent and continuous dosing, provided that they were eligible for the initial step 1 registration and satisfy the following criteria
+STEP 1
+STEP 2 (CROSSOVER ARM FOR PATIENTS WITH PROGRESSIVE DISEASE)
+The patient must have met all eligibility criteria (except as detailed below) at the time of crossover\r\n* RECIST defined measurable disease is not required\r\n* Only prior systemic therapy as part of step 1 is allowed; patients who received allowed systemic therapy in the adjuvant setting prior to Step 1 and were eligible for Step 1 are not excluded from proceeding to Step 2 if they meet other eligibility criteria\r\n* Malabsorption, swallowing difficulty, or other conditions that would interfere with the ingestion or absorption of dabrafenib or trametinib, or history of retinal vein occlusion are acceptable for patients crossing over to ipilimumab + nivolumab treatment\r\n* History of autoimmune disease, excluding interstitial lung disease or pneumonitis, is allowed in patients crossing over to dabrafenib/trametinib therapy\r\n* Patients crossing over from nivolumab/ipilimumab to dabrafenib/trametinib who underwent surgery or SRS to CNS metastases need not be off of steroids to start treatment \r\n* There is no restriction on serum LDH at crossover\r\n* Patients with a history of cardiovascular risks that developed during step 1 of therapy should be discussed with study principal investigator (PI) at time of crossover
+Patients must have discontinued radiation therapy prior to registering to Step 2 of the study and recovered from any adverse events associated with treatment; prior surgery must be >= 2 weeks from registration to Step 2 and patients must be fully recovered from post-surgical complications
+ELIGIBILITY CRITERIA FOR STEP 0
+ELIGIBILITY CRITERIA FOR STEP 1
+REGISTRATION STEP 1-SPECIMEN SUBMISSION
+Patients must have specimens submitted for FLT3 testing for randomization stratification; collection of pretreatment specimens must be completed within 1 day of registration to Step 1; specimens must be submitted via the Southwest Oncology Group (SWOG) Specimen Tracking System; FLT3 results will be used for stratification purposes at the time of randomization; E-mail notification of randomization assignment must be received prior to Step 2 registration
+REGISTRATION STEP 2-RANDOMIZATION: Patients must be registered to Step 2 no more than 42 days after registration to Step 1 and no more than 42 days after collection of specimens for FLT3 testing
+REGISTRATION STEP 2-RANDOMIZATION: Patients must not be known to have AML in the CNS
+REGISTRATION STEP 2-RANDOMIZATION: Pretreatment cytogenetics must be performed on all patients; collection of pretreatment specimens must be completed within 42 days prior to randomization (registration Step 2); reports of the results must be submitted
+REGISTRATION STEP 2-RANDOMIZATION: FLT3 results will be used for stratification purposes at the time of randomization; E-mail notification that FLT3 specimens have been processed must be received prior to randomization (registration Step 2)
+REGISTRATION STEP 2-RANDOMIZATION: Prior treatment with hydroxyurea is permitted; prior all-trans retinoic acid (ATRA) for suspected APL and prior intrathecal therapy are permitted, but must plan to be discontinued prior to initiating protocol therapy; patients with signs/symptoms of hyperleukocytosis or white blood cells (WBC) >= 50,000/mcL can be treated with leukapheresis prior to randomization (registration to Step 2)
+REGISTRATION STEP 2-RANDOMIZATION: Patients may have received non-intensive therapy for antecedent hematologic disorders, including lenalidomide; patients may have received prior chemotherapy for prior cancers; these therapies must be discontinued at least 5 days prior to randomization (registration to Step 2)
+REGISTRATION STEP 2-RANDOMIZATION: The following tests must be performed within 14 days prior to randomization (registration to Step 2) to establish baseline values:\r\n* Performance status\r\n* Complete blood count (CBC)/differential/platelets\r\n* Creatinine clearance (Cockcroft-Gault)\r\n* Total bilirubin\r\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT)\r\n* Lactate dehydrogenase (LDH)\r\n* Albumin\r\n* Glucose\r\n* Fibrinogen\r\n* Electrocardiogram (ECG)
+REGISTRATION STEP 2-RANDOMIZATION: Patients must have complete history and physical examination within 28 days prior to randomization (registration to Step 2); history must include autoimmune disease status (to determine whether patient is eligible for Arm B)
+All tests for establishing baseline values must be completed within 14 days prior to registration to Step 2 (randomization)
+PRE-REGISTRATION (STEP 0)
+RANDOMIZATION (STEP 1)
+STEP 1 REGISTRATION
+STEP 2 REGISTRATION
+Platelets >= 100,000/mcL, obtained within 28 days prior to step 2 registration
+Hemoglobin >= 9 g/dL, obtained within 28 days prior to step 2 registration
+Alkaline phosphatase =< 2.5 x IULN, obtained within 28 days prior to step 2 registration
+Site must verify that there is no known change in the step 1 eligibility since initial registration
+INDUCTION ELIGIBILITY CRITERIA-STEP 1
+RANDOMIZATION TO BLINATUMOMAB OR NO BLINATUMOMAB-STEP 3
+PRE-REGISTRATION ELIGIBILITY CRITERIA (STEP 0)
+REGISTRATION ELIGIBILITY CRITERIA (STEP 1)
+Baseline testosterone level obtained post prostatectomy prior to step 1 registration
+Prostatectomy performed greater than 365 days (1 year) prior to step 1 registration
+Patients must have met eligibility criteria for the screening step
+ELIGIBILITY CRITERIA FOR PREREGISTRATION (STEP 0):
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1):
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): ECOG performance status 0-2
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): Platelet count >= 50 x 10^9/L
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): AST and ALT < 2.5 x upper limits of normal (ULN)
+PRE-REGISTRATION ELIGIBILITY CRITERIA (STEP 0)
+ELIGIBILITY CRITERIA (STEP 1)
+PRIOR TO STEP 1 REGISTRATION
+Patients must provide study-specific informed consent prior to step 1 registration
+PRIOR TO STEP 2 REGISTRATION
+History/physical examination within 28 days prior to step 2 registration
+The patient must have recovered from effects of surgery, postoperative infection, and other complications within 28 days prior to step 2 registration
+Documentation of steroid doses within 28 days prior to step 2 registration
+Karnofsky performance status >= 70 within 28 days prior to step 2 registration
+Complete blood count (CBC)/differential obtained within 28 days prior to step 2 registration
+Severe, active co-morbidity, defined as follows:\t\r\n* Unstable angina at step 2 registration\r\n* Transmural myocardial infarction within the last 6 months prior to step 2 registration \r\n* Evidence of recent myocardial infarction or ischemia by the findings of S-T elevations of >= 2 mm using the analysis of an electrocardiogram (EKG) performed within 28 days prior to step 2 registration (Note: EKG to be performed only if clinical suspicion of cardiac issue)\r\n* New York Heart Association grade II or greater congestive heart failure requiring hospitalization within 12 months prior to step 2 registration\r\n* Serious and inadequately controlled arrhythmia at step 2 registration\r\n* Serious or non-healing wound, ulcer or bone fracture or history of abdominal fistula, intra-abdominal abscess requiring major surgical procedure, open biopsy or significant traumatic injury within 28 days prior to step 2 registration, with the exception of the craniotomy for surgical resection \r\n* Acute bacterial or fungal infection requiring intravenous antibiotics at the time of step 2 registration\r\n* Hepatic insufficiency resulting in clinical jaundice and/or coagulation defects; note, however, that laboratory tests for coagulation parameters are not required for entry into this protocol\r\n* Chronic obstructive pulmonary disease exacerbation or other respiratory illness requiring hospitalization or precluding study therapy at the time of step 2 registration\r\n* Acquired immune deficiency syndrome (AIDS) based upon current Centers for Disease Control and Prevention (CDC) definition; note, however, that human immunodeficiency virus (HIV) testing is not required for entry into this protocol\r\n* Any other severe immunocompromised condition\r\n* Active connective tissue disorders, such as lupus or scleroderma, that in the opinion of the treating physician may put the patient at high risk for radiation toxicity\r\n* End-stage renal disease (ie, on dialysis or dialysis has been recommended)\r\n* Any other major medical illnesses or psychiatric treatments that in the investigator’s opinion will prevent administration or completion of protocol therapy
+Patents treated on any other therapeutic clinical protocols within 30 days prior to step 2 registration
+Sites are required to complete Step 1 registration before submitting specimens for EBV DNA analysis\r\n* Patients must have detectable pretreatment plasma EBV DNA, determined by the central lab prior to Step 2 registration\r\n* For patients who have detectable plasma EBV DNA tested at one of the credentialed central labs within 28 days prior to Step 1 registration: that test result can be used for eligibility without the need for re-testing; to use this test result for eligibility, the central lab must enter the test result through the pathology portal
+History/physical examination within 90 days prior to Step 1 registration
+Karnofsky performance status of 70-100 within 90 days prior to Step 1 registration
+Serum albumin >= 3.0 g/dL within 90 days prior to Step 1 registration
+Concomitant medications known to lower the seizure threshold discontinued or substituted at least 4 weeks (30 days) prior to Step 1 registration
+History of any of the following:\r\n* Seizure or known condition that may pre-dispose to seizure (e.g. prior stroke within 1 year prior to Step 1 registration)\r\n* History of documented inflammatory bowel disease\r\n* Transmural myocardial infarction within the last 4 months prior to Step 1 registration\r\n* Unstable angina and/or congestive heart failure requiring hospitalization within the last 6 months prior to Step 1 registration\r\n* History of any condition that in the opinion of the investigator, would preclude participation in this study
+For patients who have not undergone prior Decipher analysis, submission of the specimen to GenomeDx should be as soon as possible after study registration (Step 1) as these results can take up 21 days after the specimen is received at GenomeDx; Step 2 registration must occur within 6 weeks (42 days) of Step 1 registration; if Decipher results have already been obtained, in lieu of tissue, results must be submitted to GenomeDx for validation
+STEP 1: NEOADJUVANT
+Patients must not have any anticancer therapy or investigational agent within 28 days prior to step 1 registration
+Hemoglobin >= 9 g/dl documented within 28 days prior to step 1 registration
+Platelets >= 100,000 documented within 28 days prior to step 1 registration
+STEP 2: SURGERY
+Patients must have postoperative oxygen consumption (VO2) max > 15 ml/kg/min prior to surgery obtained within 28 days prior to step 2 registration
+STEP 3: MAINTENANCE
+ANC > 1,500/mcl within 28 days documented prior to step 3 registration
+Hemoglobin > 9 g/dl documented within 28 days prior to step 3 registration
+Platelets > 100,000/mcl documented within 28 days prior to step 3 registration
+Creatinine < 1.5 x ULN documented within 28 days prior to step 3 registration
+REGISTRATION ELIGIBILITY CRITERIA (STEP 1)
+RANDOMIZATION ELIGIBILITY CRITERIA (STEP 2)
+Registration Step 1 – Induction/Re-Induction:
+Registration Step 2 – Post-Remission Therapy:
+Registration Step 3 – Maintenance: Patients must have serum creatinine =< 1.5 mg/dl within 14 days prior to registration
+Registration Step 3 – Maintenance: Patients must have AST and ALT =< 3.0 x institutional upper limit of normal (IULN) within 14 days prior to registration
+Registration Step 3 – Maintenance: Patients must have total bilirubin < 2.0 x institutional upper limit of normal (IULN) within 14 days prior to registration
+Registration Step 3 – Maintenance: Patients must have adequate marrow function as evidenced by ANC >= 750/mcl within 28 days prior to registration
+Registration Step 3 – Maintenance: Patients must have adequate marrow function as evidenced by platelets >= 75,000/mcl within 28 days prior to registration
+PRIOR TO STEP 1 REGISTRATION:
+Step 1 registration must occur within 180 days of the initial surgery; within this 180 day interval, a second surgery is permitted in order to achieve GTR, but even with a second surgery, step 1 registration must occur within 180 days of the initial resection
+For step 1 registration the operating neurosurgeon must provide the modified Simpson grade
+PRIOR TO STEP 2 REGISTRATION:
+Major medical illnesses or psychiatric impairments, which in the investigators opinion, will prevent administration or completion of the protocol therapy and/or preclude informed consent; these include, but are not restricted to:\r\n* Unstable angina and/or congestive heart failure requiring hospitalization at the time of step 2 registration\r\n* Transmural myocardial infarction within the last 6 months prior to step 2 registration\r\n* Acute bacterial or fungal infection requiring intravenous antibiotics at the time of step 2 registration\r\n* Chronic obstructive pulmonary disease exacerbation or other respiratory illness requiring hospitalization or precluding study therapy at the time of step 2 registration\r\n* Type II neurofibromatosis (NF2)\r\n* Ailments entailing substantial increases in sensitivity and side effect risk from radiation therapy (ataxia telangiectasia, Nijmegen breakage syndrome, and human immunodeficiency virus (HIV) with CD4 count < 200 cells/microliter); HIV testing is not required for eligibility for this protocol, and known HIV positive patients are eligible, provided they are under treatment with highly active antiretroviral therapy (HAART) and have a CD4 count >= 200 cells/microliter within 30 days prior to step 2 registration\r\n* Inability to undergo MRI with and without contrast (e.g. claustrophobia, non-MRI compatible implant or foreign body, etc) or receive gadolinium; note that patients with severe claustrophobia are permitted on this study if they are willing and able to undergo MRI with adequate sedation or anesthesia
+REGISTRATION
+PRIOR TO STEP 1 REGISTRATION
+After chemotherapy, patients must be restaged prior Step 1 registration using the same diagnostic work-up as required pre-chemotherapy; repeat PET/CT or bone scan is not required; patients must have:\r\n* History/physical examination within 30 days of Step 1 registration\r\n* No central nervous system (CNS) metastases (repeat MRI required) within 56 days prior to Step 1 registration\r\n* No progression in any site\r\n* Radiographic partial or complete response to chemotherapy in at least one disease site within 56 days prior to Step 1 registration\r\n** If PET/CT was obtained prior to chemotherapy, either a repeat PET/CT or CT of the chest and abdomen with contrast can be obtained for response assessment\r\n** Patients who underwent resection for limited-stage SCLC prior to chemotherapy and have no radiographically evident disease for response assessment remain eligible if post-chemotherapy imaging demonstrates no progression
+PRIOR TO STEP 2 REGISTRATION
+Karnofsky performance status >= 70 within 14 days prior to Step 2 registration
+Platelet count >= 100,000 cells/mm^3 based on CBC/differential within 14 days prior to Step 2 registration
+Hemoglobin > 9.0 g/dl (may be transfused to achieve this level) based on CBC/differential within 14 days prior to Step 2 registration
+Blood urea nitrogen (BUN) =< 30 mg/dl within 14 days prior to Step 2 registration and
+Serum creatinine =< 1.7 mg/dl within 14 days prior to Step 2 registration
+Severe, active co-morbidity defined as follows:\r\n* Unstable angina within the last 6 months prior to Step 2 registration\r\n* Transmural myocardial infarction within the last 6 months prior to Step 2 registration\r\n* Evidence of recent myocardial infarction or ischemia by the findings of S-T elevations of >= 2 mm using the analysis of an electrocardiogram (EKG) performed within 7 days prior to Step 2 registration\r\n* New York Heart Association grade II or greater congestive heart failure requiring hospitalization within 12 months prior to Step 2 registration\r\n* History of stroke, cerebral vascular accident (CVA) or transient ischemic attack within 6 months prior to Step 2 registration\r\n* Serious and inadequately controlled cardiac arrhythmia\r\n* Significant vascular disease (e.g., aortic aneurysm, history of aortic dissection) or clinically significant peripheral vascular disease\r\n* Evidence of bleeding diathesis or coagulopathy\r\n* Serious or non-healing wound, ulcer, or bone fracture or history of abdominal fistula, gastrointestinal perforation, intra-abdominal abscess major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to Step 2 registration, with the exception of the craniotomy for tumor resection\r\n* Acute bacterial or fungal infection requiring intravenous antibiotics at the time of registration\r\n* Chronic obstructive pulmonary disease exacerbation or other respiratory illness requiring hospitalization or precluding study therapy at the time of registration\r\n* Hepatic insufficiency resulting in clinical jaundice and/or coagulation defects;\r\n* Known acquired immune deficiency syndrome (AIDS) based upon current Centers for Disease Control and Prevention (CDC) definition; note, however, that human immunodeficiency virus (HIV) testing is not required for entry into this protocol\r\n* Active connective tissue disorders, such as lupus or scleroderma, which in the opinion of the treating physician may put the patient at high risk for immunologic toxicity
+REGISTRATION
+STEP I (IMAGING AND DOSIMETRY)
+STEP II (THERAPY)
+STEP I
+Tumor staging by standard imaging within the past 30 days (Step 1 subjects only)
+STEP 1 SUBJECTS ONLY:
+STEP 2 SUBJECTS ONLY:
+STEP 1 AND 2 SUBJECTS:
+PREREGISTRATION (STEP 0): Patient must be scheduled to undergo a standard of care bone marrow biopsy within 7 days of step 0 registration
+REGISTRATION TO TREATMENT (STEP 1): Institution has received central BCR-ABL test results confirming MRD positive status
+REGISTRATION TO TREATMENT (STEP 1): Patients must have been on a stable dose of the TKI for the last 3 months before prior to pre-registration
+REGISTRATION TO TREATMENT (STEP 1): Platelet count >= 100,000 /mcL, within 14 days prior to first dose of pembrolizumab
+REGISTRATION TO TREATMENT (STEP 1): Patients who received prior allogeneic transplant are not eligible
+REGISTRATION TO TREATMENT (STEP 2): Institution has received central BCR-ABL test results confirming MRD positive status following Step 1 treatment
+REGISTRATION TO TREATMENT (STEP 2): Patients have an ECOG performance status of 0-1
+REGISTRATION TO TREATMENT (STEP 2): Platelet count >= 100,000 /mcL, within 14 days prior to first dose of pembrolizumab
+REGISTRATION TO TREATMENT (STEP 2): Hgb >= 9.0 g/dL OR >= 5.6 mmol/L without transfusion of EPO dependency, within 14 days prior to first dose of pembrolizumab
+REGISTRATION TO TREATMENT (STEP 2): Patients who received prior allogeneic transplant are not eligible
+PRIOR TO STEP ONE RANDOMIZATION:
+PRIOR TO STEP TWO RANDOMIZATION:
+PRIOR TO STEP 1 REGISTRATION INCLUSION CRITERIA
+Patients must have a contraindication to cisplatin as defined in the following bullet points; sites must complete the online tool at comogram.org prior to step 1 registration to determine if the patient is eligible; the scores must be recorded on a case report form (CRF)\r\n* Age >= 70 with moderate to severe comorbidity or vulnerability to cisplatin, defined as having any one of the following conditions within 30 days prior to step 1 registration:\r\n** Modified Charlson Comorbidity Index >= 1\r\n** Adult Comorbidity Evaluation (ACE)-27 Index >= 1\r\n** Generalized Competing Event Model for Cancer Risk (GCE) omega PFS score < 0.60 \r\n** Geriatric screening (G-8) score =< 14\r\n** Cancer and Aging Research Group (CARG) toxicity score >= 30%\r\n** Cumulative Illness Rating scale for Geriatrics (CIRS-G) score >= 4 OR\r\n* Age < 70 with severe comorbidity or vulnerability to cisplatin, defined as having two or more of the following conditions within 30 days prior to step 1 registration \r\n** Modified Charlson Comorbidity Index >= 1\r\n** ACE-27 Index >= 1\r\n** GCE omega PFS-score < 0.60 \r\n** G-8 score =< 14\r\n** CARG Toxicity score >= 30%\r\n** CIRS-G score >= 4 OR\r\n* Age >= 18 with an absolute or relative contraindication to cisplatin, defined as one or more of the following within 30 days prior to Step 1 registration:\r\n** Creatinine clearance (CC) > 30 and < 60 cc/min; for this calculation, use the Cockroft-Gault formula\r\n** Zubrod performance status 2 prior to step 1 registration\r\n** Pre-existing peripheral neuropathy grade >= 1\r\n** History of hearing loss, defined as either: \r\n*** Existing need of a hearing aid OR \r\n*** >= 25 decibel shift over 2 contiguous frequencies on a pretreatment hearing test
+Within 14 days prior to step 1 registration: Platelets >= 100,000 cells/mm^3
+Within 14 days prior to step 1 registration: Serum bilirubin =< 1.5 x institutional upper limit of normal
+PRIOR TO STEP 2 REGISTRATION INCLUSION CRITERIA
+For patients with oropharyngeal or unknown primaries: p16 determination by immunohistochemistry (defined as greater than 70% strong nuclear or nuclear and cytoplasmic staining of tumor cells), confirmed by central pathology review\r\n* Note: for patients with oral cavity, laryngeal, and hypopharyngeal primaries, analysis of p16 status prior to step 2 registration/randomization is not required (p16 status will be analyzed centrally post-hoc); step 2 registration for these patients can be completed after step 1 registration
+PRIOR TO STEP 1 REGISTRATION EXCLUSION CRITERIA
+Within 14 days of step 1 registration, unless corrected prior to step 1 registration: Sodium < 130 mmol/L or > 155 mmol/L
+Within 14 days of step 1 registration, unless corrected prior to step 1 registration: Potassium < 3.5 mmol/L or > 6 mmol/L
+Within 14 days of step 1 registration, unless corrected prior to step 1 registration: Fasting glucose < 40 mg/dl or > 400 mg/dl
+Within 14 days of step 1 registration, unless corrected prior to step 1 registration: Serum calcium (ionized or adjusted for albumin) < 7 mg/dl or > 12.5 mg/dl
+Within 14 days of step 1 registration, unless corrected prior to step 1 registration: Magnesium < 0.9 mg/dl or > 3 mg/dl
+Transmural myocardial infarction within 3 months prior to step 1 registration
+Receipt of live attenuated vaccination within 30 days prior to step 1 registration
+STEP 1 (REGISTRATION)
+STEP 2 (REGISTRATION)
+REGISTRATION:
+STEP 1
+STEP 2
+STEP 2 TO GDC-0032 RE-REGISTRATION:
+Platelet count >= 100,000 mcl obtained within 28 days prior to Step 2 re-registration
+Hemoglobin >= 9 g/dL obtained within 28 days prior to Step 2 re-registration
+HbA1c < 7% obtained within 28 days prior to Step 2 re-registration
+STEP 2 TO AZD4547 RE-REGISTRATION:
+Platelet count >= 100,000 mcl obtained within 28 days prior to Step 2 re-registration
+Hemoglobin >= 9 g/dL obtained within 28 days prior to Step 2 re-registration
+STEP 2 PALBOCICLIB RE-REGISTRATION:
+Platelet count >= 100,000 mcl obtained within 28 days prior to step 2 re-registration
+Hemoglobin >= 9 g/dL obtained within 28 days prior to step 2 re-registration
+STEP 1: REGISTRATION
+STEP 2: RANDOMIZATION
+STEP 1 (REGISTRATION)
+A cell block or core biopsy must be submitted for central review and analysis of SMAD4 status as soon as possible following step 1 registration
+REGISTRATION STEP 1: INITIAL RANDOMIZATION
+REGISTRATION STEP 2: CROSSOVER
+PRIOR TO STEP 1 REGISTRATION BUT WITHIN 56 DAYS PRIOR TO STEP 2 REGISTRATION
+CONDITIONS FOR PATIENT ELIGIBILITY PRIOR TO STEP 2 REGISTRATION (HER2-POSITIVE PATIENTS ONLY)
+Surgical consultation to confirm that patient will be able to undergo curative resection after completion of chemoradiation within 56 days prior to step 2 registration
+Radiation oncology consultation to confirm that disease can be encompassed in a radiotherapy field within 56 days prior to step 2 registration
+Consultation with a medical oncologist within 56 days prior to step 2 registration
+Stage T1N1-2, T2-3N0-2, according to the AJCC 7th edition staging, based upon the following minimum diagnostic work-up:\r\n* History/physical examination, with documentation of the patient’s weight, within 14 days prior to step 2 registration\r\n* Whole-body PET/CT scan within 56 days prior to step 2 registration (if only CT performed prior to step 1 registration)\r\n* Endoscopic ultrasound within 56 days prior to step 2 registration, unless the patient is found to have adenopathy per CT or whole-body PET/CT scan\r\n* Electrocardiogram (EKG) within 56 days prior to step 2 registration\r\n* Serum creatinine =< 2 x the upper limit or normal within 14 days prior to step 2 registration
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines; for Step 1 registration of patients who have not yet submitted specimens for the Oncotype DX Breast Cancer Assay, the appropriate consent form is the Step 1 Consent Form; for both Step 1 and Step 2 registration of patients whose Recurrence Score is already known and is 25 or less, the appropriate consent form is the Step 2 Consent Form
+STEP 2 REGISTRATION
+Step 2 Registration must take place within 84 days after definitive surgery; patients must not have begun chemotherapy or endocrine therapy for their breast cancer prior to randomization
+SECOND REGISTRATION (STEP 2)
+STEP 1 REGISTRATION:
+STEP 2 REGISTRATION (RANDOMIZATION CRITERIA):
+No tests or exams are required to be repeated for step 2 registration (randomization); however, patients who are known to have a change in eligibility status after step 1 registration are not eligible for step 2 registration; for example, ANC is not required to be repeated between step 1 and step 2 registration, but the most recent ANC performed before step 2 registration is required to be >= 1,500 mcL
+STEP 2 TO MEDI4736 RE-TREATMENT REGISTRATION:
+Complete blood count (CBC)/differential obtained within 21 days of registration on study (or within 21 days prior to day 1 of chemotherapy post-surgery for those patients having started chemotherapy prior to first step registration)
+Serum total bilirubin =< twice the institutional upper limit of normal (ULN) within 21 days of registration on study (or within 21 days prior to day 1 of chemotherapy post-surgery for those patients having started chemotherapy prior to first step registration)
+Creatinine levels =< twice the institutional upper limit of normal within 21 days of registration on study (or within 21 days prior to day 1 of chemotherapy post-surgery for those patients having started chemotherapy prior to first step registration)
+Serum glutamic oxaloacetic transaminase (SGOT) must be =< 2.5 x institutional ULN within 21 days of registration on study (or within 21 days prior to day 1 of chemotherapy post-surgery for those patients having started chemotherapy prior to first step registration)
+PRE-REGISTRATION (STEP 0)
+RANDOMIZATION (STEP 1)
+PRIOR TO STEP 1 REGISTRATION
+PRIOR TO STEP 2 REGISTRATION
+The EPIC-26 must be completed in full and entered within 10 business days after step 1 registration; NRG Oncology Statistical and Data Management Center has 3 business days to score the results and send a notification to the site to proceed to step 2 randomization
+Androgen deprivation therapy started after prostatectomy and prior to step 1 registration for > 6 weeks (42 days)
+Previous chemotherapy for any other disease site if given within 3 years prior to step 1
+STEP I INITIAL REGISTRATION: BRAFV600E TESTING:
+Patients must have BRAFV600E mutant status documented by a Clinical Laboratory Improvements Amendments (CLIA) certified laboratory on a pathology report prior to Step 2 registration; use of an Food and Drug Administration (FDA)-approved test is preferred although other BRAF tests at a CLIA-certified laboratory will also be accepted \r\n* If a BRAFV600E mutation is known, then the patient must be registered to Step 2 Randomization immediately following Step 1 Initial Registration\r\n* If testing has not been performed locally, BRAFV600E testing must be completed by the central laboratory (lab) prior to Step 2 Randomization; if the specimen does not have a BRAFV600E mutation, the patient is ineligible for Step 2 Randomization
+Brain metastases are allowed if they have been adequately treated with radiotherapy or surgery and stable for at least 90 days prior to Step 1 Initial Registration; eligible patients should be neurologically asymptomatic and without corticosteroid treatment for at least 7 days prior to Step 1 Initial Registration
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines; for Step 1 Initial Registration of patients who have not yet submitted specimens for the central BRAFV600E testing, the appropriate consent form is the Step 1 Consent Form; for both Step 1 Initial Registration and Step 2 Randomization of patients whose BRAF mutation status is already known, the appropriate consent form is the Step 2 Consent Form
+STEP 2 RANDOMIZATION:
+Patients with known BRAF mutation must be registered to Step 2 Randomization immediately following Step 1 Initial Registration
+Serum creatinine =< 1.5 x IULN within 14 days prior to Step 2 Randomization OR
+Patients must have an electrocardiogram (ECG) within 14 days prior to Step 2 Randomization
+STEP 2 RANDOMIZATION REGULATORY CRITERIA:
+STEP 3 CROSSOVER REGISTRATION:
+Registration to Step 3 Crossover must be within 28 days of discontinuation of Arm 1 protocol treatment; patients going off treatment for any other reason are not eligible
+ANC >= 1,500/mcL within 14 days prior to Step 3 registration
+Platelets >= 100,000/mcL within 14 days prior to Step 3 registration
+Hemoglobin >= 9 g/dL within 14 days prior to Step 3 registration
+AST and ALT =< 2.5 x IULN or =< 5 x IULN if liver metastases are present within 14 days prior to Step 3 registration
+Total bilirubin =< 1.5 x IULN within 14 days prior to Step 3 registration
+Serum creatinine =< 1.5 x IULN within 14 days prior to Step 3 registration OR
+STEP 1 REGISTRATION:
+STEP 2 REGISTRATION:
+REGISTRATION
+Patients must register to Step 1 prior to surgery
+REGISTRATION/RANDOMIZATION TO STEP 2 - ARMS A, B, C AND D
+STEP 2 ENROLLMENT AND RANDOMIZATION: less than or equal to three metastatic lesions and no evidence of disease progression based on RECIST criteria; note that patients that had > 3 metastatic lesions in Step 1 may be eligible for enrollment in Step 2 if the number of metastatic sites is reduced to three or less
+STEP 2 ENROLLMENT AND RANDOMIZATION: hemoglobin >= 9 g/dL within 3 weeks of study entry
+Patients must not have experienced distant disease progression since the start of systemic therapy, as evidenced by clinical and radiographic documentation of disease status before treatment and within 6 weeks prior to randomization, including:\r\n* No new sites of disease\r\n* No enlargement of existing sites by 20% or more in longest diameter\r\n* No symptomatic deterioration\r\n* Imaging at step 2 should preferably be the same as at step 1 (baseline); it must address all previous sites of disease and all clinical signs and symptoms; if all step 1 imaging tests cannot be repeated, the reason should be documented (e.g. declined by insurance); step 2 imaging must evaluate all known sites of disease and address all signs/symptoms present at step 2
+STEP 1 (REGISTRATION)
+STEP 2 (RANDOMIZATION)
+PRIOR TO STEP 1 REGISTRATION INCLUSION CRITERIA
+PRIOR TO STEP 2 REGISTRATION INCLUSION CRITERIA
+PRIOR TO STEP 1 REGISTRATION EXCLUSION CRITERIA
+c-KIT mutation status determination, local versus central assessments; at least one must apply:\r\n* Performed locally by polymerase chain reaction (PCR) and sequencing prior to pre-registration: The melanoma harbors at least one mutation in exon 9, 11, 13, 17 or 18 of the c-KIT gene; NOTE: registration to step 1 may occur upon confirmation of pre-registration Or\r\n* Performed locally by PCR and sequencing prior to pre-registration: if the melanoma harbors at least one mutation in the c-KIT gene but is not in an exon listed or is uncertain whether it is in one of these exons then eligibility to register to step 1 requires approval of a designated central reviewer; submit the cKIT report within 24 hours after pre-registration as indicated Or\r\n* If local assessment is not possible, metastatic (preferred) or primary tumor tissue should be on hand PRIOR to pre-registration and will be submitted to Massachusetts General Hospital – Pathology (MGH) within 5 working days following pre-registration as outlined; if submission of tissue will be submitted more than 5 working days after pre-registration, immediately notify MGH (Massachusetts General Hospital) to discuss the potential submission timeline\r\n* IMPORTANT: if the c-KIT status will be determined by MGH, strict attention is to be paid to the timeframes dictated; specifically, clinical assessments which must fall within 4 weeks of registration to treatment (step 1) may be performed or repeated during pre-registration to fall within the required timeframe
+REGISTRATION
+PRE-REGISTRATION (STEP 0) ELIGIBILITY CRITERIA:
+REGISTRATION (STEP 1) ELIGIBILITY CRITERIA:
+CROSSOVER (STEP 2) REGISTRATION: Patients must have progressed systemically on Arm 2 of this study (pemetrexed monotherapy)
+CROSSOVER (STEP 2) REGISTRATION: Patients must be registered to crossover (Step 2) within 30 days of discontinuing treatment on Arm 2 of this study
+CROSSOVER (STEP 2) REGISTRATION: ANC >= 1,500/ul
+CROSSOVER (STEP 2) REGISTRATION: Hemoglobin >= 9 g/dL
+CROSSOVER (STEP 2) REGISTRATION: Serum bilirubin =< 2 X IULN
+CROSSOVER (STEP 2) REGISTRATION: SGOT (AST) or SGPT (ALT) =< 2.5 x IULN
+CROSSOVER (STEP 2) REGISTRATION: Male patients must have free and total testosterone level obtained within 28 days prior to crossover (Step 2) registration
+CROSSOVER (STEP 2) REGISTRATION: Patients must have Zubrod performance status 0-2 within 28 days prior to crossover (Step 2) registration
+STEP 1 - INDUCTION/RE-INDUCTION
+STEP 2 - CONSOLIDATION
+Patients cannot be receiving CYP3A4 inhibitors beginning at least 7 days prior to registration step 2
+STEP 1 ELIGIBILITY CRITERIA
+STEP 2 ELIGIBILITY CRITERIA
+PRIOR TO STEP 1 REGISTRATION
+Patients must have a FSFI desire subscale baseline score less than 3.3\r\n* NOTE-Both the PHQ4 and FSFI must be completed by the patient and data entered in Oncology Patient Enrollment Network (OPEN) at Step 1 registration to determine eligibility within 10 days prior to registration; both of these scores will be calculated in the OPEN system once submitted as part of Step 1 registration; an error message will appear once the patient begins Step 2 registration if one or both of the scores make the patient ineligible; in this situation, continue to complete Step 2 with the reason the patient will not continue on the study as “Other” and specify ineligible
+Completion of the FSFI and PHQ4; both questionnaires will be required and data entered at the time of step 1 registration
+PRIOR TO STEP 2 RANDOMIZATION
+Completion of the following baseline quality of life forms: PHQ4, FSFI, PROMIS sexual function and satisfaction, PROMIS fatigue short form 8a, impact of treatment scale, patient reported outcomes (PRO)-Common Terminology Criteria for Adverse Events (CTCAE) items, and revised dyadic adjustment scale; these quality of life forms will be required and data must be entered in RAVE at step 2 registration; if available at the time of step 1 registration, step 2 registration can take place immediately after step 1, but cannot occur more than 30 days after step 1; women who do not currently have a partner do not have to complete the revised dyadic adjustment scale; enter “no partner” for this form
+STEP 1 REGISTRATION
+Patients must not have taken within 21 days prior to step 1 registration, be currently taking at the time of step 1 registration, or planning to take once registered to step 1 a beta blocker, ARB, or ACE inhibitor in order to be randomized (Arms 1 and 2)\r\n* Patients currently taking a beta blocker, ARB, or ACE inhibitor at the time of step 1 registration are eligible to register for the non-randomized observational cohort (Arm 3)
+STEP 2 REGISTRATION (Randomization)
+Site must verify that there is no known change in the step 1 eligibility since initial registration
+STEP 1 REGISTRATION
+PRIOR TO STEP 2 REGISTRATION
+Financial clearance for proton therapy treatment prior step 2 registration
+For the part 2 randomized controlled trial (RCT), participated in part 1, step 1 or 2
+PRIOR TO STEP 1 REGISTRATION:
+PRIOR TO STEP 2 REGISTRATION:
+The following baseline neurocognitive assessments must be completed prior to Step 2 registration: HVLT-R, TMT, and COWA; the neurocognitive assessment will be uploaded into the NRG RAVE System for evaluation by Dr. Wefel; once the upload is complete, within one business day a notification will be sent to proceed to Step 2; NOTE: completed baseline neurocognitive assessments can be uploaded at the time of Step 1 registration
+History and physical examination within 28 days prior to Step 2 registration
+Karnofsky performance status of >= 70 within 28 days prior to Step 2 registration
+STEP 0: REGISTRATION (Optional)
+Patients with a primary colon or rectal cancer resection who are potentially eligible for S0820 may be pre-registered at Step 0; patients registered to Step 0 will appear on an institutional patient tracking report; patients registered to Step 0 are not registered to the S0820 protocol; to participate in S0820, patients must be registered to Step 1 after patient is consented and evaluation of eligibility; patients registered to S0820 at Step 0 continuing to Step 1 registration must use the same Southwest Oncology Group (SWOG) patient identification (ID) for registration to S0820 Step 1
+STEP 1: REGISTRATION
+REGISTRATION TO STEP 0
+REGISTRATION TO STEP 1
+Registration to Step 1:
+Registration to Step 2:
+Registration to Step 3:
+STEP 2: INCLUSION CRITERIA PRIOR TO RANDOMIZATION
+STEP 2: EXCLUSION CRITERIA PRIOR TO RANDOMIZATION
+STEP 3: ELIGIBILITY CRITERIA PRIOR TO TREATMENT OR OBSERVATION
+(STEP 1) - PRIMARY INTERVENTION STUDY (RANDOMIZED CONTROLLED TRIAL [RCT]):
+Patients must be registered to the first screening step (Step 0) for the National Cancer Institute (NCI)-MATCH trial (EAY131)

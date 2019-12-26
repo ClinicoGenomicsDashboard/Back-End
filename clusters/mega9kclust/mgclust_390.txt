@@ -1,0 +1,4 @@
+Cluster 1414: uncontrolled arrhythmia significant clinically cardiac condition symptomatic arrhythmias medical confounding 
+Cluster 1559: arrhythmias cardiac uncontrolled ventricular history symptomatic pressor significant disease known 
+Cluster 1813: ventricular pacemaker cardiac arrhythmias contractions medication requiring premature supraventricular pericarditis 
+Cluster 1978: uncontrolled hepatitis heart severe chronic congestive symptomatic disease quantifiable cardiac 

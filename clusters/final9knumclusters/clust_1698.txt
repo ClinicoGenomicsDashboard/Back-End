@@ -1,0 +1,118 @@
+Pathologically proven diagnosis of NSCLC, with metastases (stage IV disease) present prior to registration; this includes patients newly diagnosed with metastatic disease or those initially diagnosed and treated for stage I-III NSCLC who ultimately develop metastases.
+Prior systemic therapy as part of concurrent treatment approach for previously diagnosed stage III NSCLC, adjuvant therapy for stage III NSCLC, as adjuvant therapy for previously resected NSCLC, or for other previous cancers is permitted.
+Cutaneous metastasis of NSCLC.
+For NSCLC:
+Histological or cytological confirmation of NSCLC; a pathology report confirming the diagnosis of NSCLC must be obtained and reviewed by the treating physician prior to registration to study
+Histologically-confirmed stage IIIb or IV NSCLC by the enrolling institution\r\n* Patients who are highly suspected to have stage IIIb or IV NSCLC and who are planned for a standard-of-care diagnostic biopsy/resection may also be enrolled; patients who are confirmed to have stage IIIb or IV NSCLC will be eligible to continue with screening procedures; those who are found after surgery/biopsy to not have stage IIIb or IV NSCLC will not be eligible continue with screening procedures and may not receive study therapy
+Phase 2 Cohorts A & B: Subjects must have a histologically or cytologically confirmed diagnosis of locally advanced (AJCC stage IIIB) not amenable to curative therapy or metastatic (AJCC stage IV) NSCLC that carries a RET rearrangement, as determined by FISH, RT-PCR, or NGS via a CLIA-certified LDT
+Mandatory provision of adequate archived stage IV NSCLC tissue samples or tissue samples other than stage IV NSCLC may be acceptable (optional for part C).
+For patients with SCCHN or NSCLC, ongoing anticoagulant therapy
+Histological diagnosis of nonsquamous NSCLC.
+Has received prior systemic chemotherapy/other targeted or biological antineoplastic therapy treatment for their Stage IV metastatic NSCLC
+No prior systemic NSCLC treatment.
+Pathologically documented Stage IB, II, IIIA, or selected IIIB, including T3N2 or T4 (by size criteria, not by mediastinal invasion) NSCLC
+NSCLC that is clinically T4 by virtue of mediastinal organ invasion or Stage IIIB by virtue of N3 disease
+Histological diagnosis of squamous or non-squamous, inoperable, stage 4 NSCLC
+Has not received prior systemic treatment for metastatic NSCLC.
+Histologically or cytologically proven diagnosis of NSCLC or SCLC; in cases where the histology and cytopathology results are consistent with a carcinoma but immunohistochemistry stains are indeterminate and unable to support the lungs as the most likely site of origin, the diagnosis of NSCLC or SCLC may be established in conjunction with the radiographic and clinical picture
+Stage IIIB or IV NSCLC or relapsed locally advanced or metastatic NSCLC
+Histologic evidence of predominantly squamous cell NSCLC
+Cohort B: metastatic NSCLC
+Histopathologically confirmed diagnosis of metastatic NSCLC.
+Confirmed diagnosis of Stage III or Stage IV NSCLC and have received ? 1 line of prior systemic therapy in the locally advanced or metastatic setting
+NSCLC Expansion Cohort: Histologic or cytologic diagnosis of NSCLC (squamous or non-squamous or NSCLC-not specified)
+Any prior treatment for NSCLC
+Have a histologic diagnosis of stage IV NSCLC
+Patients must have advanced or metastatic NSCLC
+Histologically diagnosed or cytologically proven advanced or metastatic NSCLC patients, either Stage IIIB/Stage IV disease (according to Version 7 of the International Association for the Study of Lung Cancer Staging Manual in Thoracic Oncology), or recurrent disease following radiation therapy or surgical resection;
+Prior therapy with microtubule destabilizing agents for NSCLC (i.e. vinorelbine)
+Have a histologic or cytologic diagnosis of stage IV NSCLC
+Stage IIIB or IV NSCLC (any histology) at the time of study entry
+Individuals with stage IIIB or IV, unresectable non-small cell lung cancer (NSCLC) who have not received prior chemotherapy for stage IIIB or IV disease, and who are not candidates for curative surgery or radiation therapy
+Failed at least one standard chemotherapeutic treatment for NSCLC
+Eligible patients will have a histologic or cytologic diagnosis of NSCLC of the advanced stage (IV), with no known curative treatment options
+Participants in Part D must have NSCLC of any subtype.
+Group 4: KRAS mutant NSCLC (Part B)
+Stage IV NSCLC, or recurrent NSCLC that is not potentially curable by radiotherapy or surgery whether or not they have received prior chemotherapy. There is no limit to the number of prior chemotherapy regimens received.
+Stage IV pathologically proven NSCLC.
+Previous systemic therapy for stage IV NSCLC, including chemotherapy, radiation therapy or non-cytotoxic investigational agents.
+Has received prior systemic chemotherapy treatment for metastatic/recurrent NSCLC
+Phase I only: Diagnosis of advanced/metastatic NSCLC for which no standard treatment option; Phase II only: Advanced NSCLC patients who have received at least 1 platinum-based systemic chemotherapy regimen
+Have stage IV, metastatic or recurrent non-squamous non-small cell lung cancer (NSCLC) with progressive disease after platinum containing chemotherapy (EGFR mutant, ALK, or ROS-1 rearranged NSCLC must have progressed on prior approved tyrosine kinase inhibitor [TKI]’s)
+Have metastatic melanoma or NSCLC, or locally advanced NSCLC not suitable for curative-intent local therapy
+Histologic confirmation of NSCLC (if not already obtained)
+Patients with stage IIIB (not eligible for definitive chemo-radiotherapy), stage IV, or recurrent non-small cell lung cancer (NSCLC); patients with stage IV NSCLC should have previously received platinum based doublet chemotherapy; patients with a new diagnosis of stage IV NSCLC are eligible if they have an initial requirement for palliative (radiation therapy) XRT for symptomatic lesion (example: painful bone lesion or obstructive airway)
+Participants with prior chemotherapy or radiotherapy (RT) for current NSCLC. Participants curatively treated for past early stage NSCLC greater than 3 years ago may be included.
+No prior systemic treatment for unresectable stage IIIB or IV NSCLC
+Has not received prior systemic treatment for their advanced/metastatic NSCLC.
+Prior systemic therapy for metastatic or recurrent NSCLC.
+Part B: NSCLC
+Stage IIIb/IV NSCLC
+Cohort C: Histologically confirmed metastatic solid tumor of epithelial origin, including both NSCLC and non-NSCLC, with radiographic evidence by MRI of at least one measurable brain lesion as defined by RANO criteria that requires corticosteroids for symptomatic control
+Diagnosis of advanced or metastatic NSCLC. Group A must be ALK negative NSCLC and Group B must be ALK positive NSCLC
+Confirmed diagnosis of stage IV NSCLC.
+Histologically documented, locally advanced or recurrent (stage IIIB who are not eligible for combined modality treatment) or metastatic (Stage IV) NSCLC
+For Part A (abemaciclib + pemetrexed): Non-squamous subtypes only. The participant must have received at least one but no more than three prior therapies for advanced/metastatic NSCLC.
+For Part C (abemaciclib + ramucirumab): Any subtype. The participant must have received at least two but not more than three prior therapies for advanced/metastatic NSCLC.
+For Part E (abemaciclib + pembrolizumab): Any subtype. The participant must have received at least one but no more than three prior therapies for advanced/metastatic NSCLC.
+Participants with no prior systemic treatment for advanced or recurrent (Stage IIIB not amenable for multimodality treatment) or metastatic (Stage IV) NSCLC
+Subjects with histologically-or cytologically-documented NSCLC [squamous (SQ) or nonsquamous (NSQ)] who present with Stage IIIB/Stage IV disease (according to version 7 of the International Association for the Study of Lung Cancer Staging Manual in Thoracic Oncology), or with recurrent or progressive disease following multimodal therapy (radiation therapy, surgical resection or definitive chemoradiotherapy for locally advanced disease)
+NSCLC
+The participant has Stage IV NSCLC.
+Part A: NSCLC Stage IV (any type)
+Part B: NSCLC Stage IV (squamous and nonsquamous)
+Part C: NSCLC Stage IV in Japanese participants (squamous and nonsquamous)
+Bilirubin > 3 x ULN that cannot be attributed to NSCLC metastasis
+Documented evidence of NSCLC (Stage IIIB/ IV disease)
+Treatment with more than one prior line of treatment for advanced NSCLC
+Documented evidence of NSCLC (stage IIIB/IV disease)
+Patients must have biopsy proven metastatic NSCLC (stage IV)
+Patients with cutaneous metastasis of NSCLC
+Locally advanced or metastatic (Stage IIIB, Stage IV, or recurrent) NSCLC
+Patient has stage IIIB or IV diagnosis and must have received one or two prior regimens (including platinum- doublet) of cytotoxic chemotherapy for the treatment of locally advanced or metastatic NSCLC.
+Subjects with histologically or cytologically-documented non-squamous cell NSCLC who present with Stage IIIB/IV disease or recurrent or progressive disease following multimodal therapy (radiation therapy, surgical resection, or definitive chemoradiation therapy for locally advanced disease) and who will receive study therapy as second or third line of treatment for advanced disease
+Cytologic or histologically diagnosed NSCLC in stages IIIA (non-resectable) or IIIB or IV (TNM).
+Newly diagnosed and confirmed Stage IIIB/IV NSCLC
+Stage IIIB or Stage IV NSCLC who are not candidates for multimodality treatment and have received at least 1 line of standard platinum-based therapy:
+Has squamous NSCLC
+Histologically confirmed and documented previously treated Stage IIIB/IV NSCLC, having failed 1 previous platinum chemo regimen for locally advanced or metastatic disease.
+Patients selected for this study will have clinical stage I or II NSCLC; subjects with evidence of enlarged N2 nodes by routine computed tomography (CT) scan imaging or those with clinical stage III or IV NSCLC are excluded
+Patients with advanced stage NSCLC who are candidates for single or multi-agent first-line therapy
+Histological diagnosis of NSCLC or MPM; pts must have clinical and/or pathological evidence of pleural spread or stage III/IV MPM
+Prior treatment for NSCLC except for pleurodesis and/or standard frontline chemotherapy
+Patients with histologically confirmed advanced NSCLC, SCLC and thymic malignancies for whom surgical resection or multimodality therapy with curative intent is not feasible; for patients with stage III NSCLC, who can be encompassed by a radiation port, definitive external radiation therapy (XRT) should have been performed first when possible
+Has received prior treatment with chemotherapy or biologic therapy for stage IV NSCLC.
+Malignancies other than non-squamous NSCLC successfully treated within 3 years prior to randomization (with the exception of certain early-stage cancers)
+No prior treatment for Stage IV squamous NSCLC
+NSCLC that has failed crizotinib treatment
+Prior systemic treatment for Stage IIIB or IV non-squamous NSCLC
+Evidence of mixed NSCLC with a predominance of the squamous cell type
+Stage IV or Recurrent NSCLC (per the 7th International Association for the Study of Lung Cancer (IASLC) classification)
+NSCLC that has progressed on prior treatment
+Histologically documented recurrent or advanced (Stage IV) NSCLC
+No prior treatment for unresectable Stage IIIB or IV NSCLC
+Histologically or cytologically confirmed diagnosis: Arm A and B- stage IV recurrent metastatic squamous NSCLC with Fibroblast growth factor receptor 1 (FGFR1) gene amplification by central laboratory testing. Arm C- recurrent after local therapy or unresectable MPM with measurable lesions. For specific arms the following requirements: Arm A: Subjects who have received no prior therapy for Stage IIIB or Stage IV or recurrent metastatic disease. Note, to avoid any undue delay of initiating systemic chemotherapy for these subjects with newly diagnosed metastatic disease, it is allowed to initiate the first cycle of chemotherapy while eligibility for the study is still being determined, as long as the first dose of GSK3052230 is given no later than Cycle 2 Day 1 of chemotherapy. In addition, subjects with Stage IIIB or Stage IV disease and recurrence after previous NSCLC that has been treated with surgery and adjuvant chemotherapy or a radio- chemotherapy regimen with curative intent are eligible, provided 6 months has passed since this treatment ended. Arm B: Subjects who have documented tumor progression (based on radiological imaging) or intolerability after receiving at least one prior line of platinum containing combination chemotherapy for Stage IIIB or Stage IV or recurrent metastatic disease. Note: Prior treatment should not include docetaxel but may have included paclitaxel. Arm C: Subjects who have received no prior systemic therapy for MPM.
+Histological or cytological proven advanced (unresectable) or metastatic NSCLC as defined as stage IIIB (positive supraclavicular lymph nodes) not amenable to definitive chemoradiotherapy or stage IV NSCLC
+Participants must have histologically or cytologically confirmed non-small cell lung cancer (NSCLC) prior to fiducials placement and subsequent SBRT; because fiducials will be placed exclusively by ENB, which can also be used for pathological diagnosis of malignancy, there will be two categories of eligibility:\r\n* Participants already carry a histological or cytological diagnosis of NSCLC and will undergo an ENB procedure solely for the placement of fiducial tumor markers; participants in this category need not be newly diagnosed; a participant who was previously histologically or cytologically diagnosed with NSCLC and now presents with a new tumor confirmed by imaging may be treated on this protocol without an additional biopsy; in this case, the prior pathological diagnosis will be used to establish a NCLC diagnosis for this protocol\r\n* Participants present with an indeterminate lung tumor and undergo ENB for both NSCLC diagnosis and fiducials placement; in this setting, the subject will sign informed consent prior to the ENB procedure and be enrolled only after intraoperative histological or cytological confirmation of NSCLC and placement of fiducial markers
+Part A2: Histologic or cytologic diagnosis of advanced Non Small Cell Lung Cancer (NSCLC), Stage IIIB with malignant pleural effusion or Stage IV, completed at least 1 prior systemic regimen, and eligible for erlotinib therapy.
+NSCLC: --Histologic or cytologic diagnosis of advanced NSCLC, Stage IIIB with malignant pleural effusion or Stage IV
+The participant is currently or has previously received chemotherapy for advanced (Stage IV) NSCLC.
+Confirmed NSCLC
+Patients with stage II – IV non squamous cell NSCLC who received at least 54 Gy of total planned thoracic radiation dose will be eligible; patients must have received at least one cycle of chemotherapy concurrently during the course of thoracic radiation; regimens allowed are platinum combinations with either etoposide or a taxane regardless of histology subtype; platinum with pemetrexed for patients with non-squamous NSCLC only; patients with oligometastatic stage IV cancer are eligible if they have received only one line of systemic therapy for their stage IV cancer prior to the concurrent chemoradiation phase
+Squamous cell NSCLC
+Diagnosis of NSCLC
+Patient participants must have stage III, IV and/or recurrent NSCLC
+Histological or cytological confirmation of Stage IIIb or Stage IV (unresectable) NSCLC
+Subjects with stage IV NSCLC (not recurrent or re-staged).
+Subject must have a suspected SCLC or NSCLC
+No prior treatment for this diagnosis of NSCLC
+Patients must have pathologically documented advanced NSCLC (stage IV or recurrent)
+Patient has stage IIIB (and is not a candidate for definitive multimodality therapy) or has stage IV NSCLC or relapsed locally advanced or metastatic NSCLC as follows:
+Patient must be eligible for definitive surgical therapy for primary NSCLC
+On average, cares for at least 3 AA patients with early stage NSCLC per year (based on the last 3 years of cancer registry data)
+Locally advanced (stage IIIA-IIIB) or metastatic (stage IV) NSCLC
+Pathologically confirmed stage IV NSCLC (with any Eastern Cooperative Oncology Group [ECOG] performance status, and any NSCLC – adenocarcinoma, squamous cell, etc.) with available imaging OR patients who do not yet have their staging completed, but in the judgment of the physician are likely to be stage IV;\r\n* Patients may be enrolled if the recruiter cannot reach the patient by the first office visit, preferably prior to starting therapy and no later than one month after starting therapy; (NCCN guidelines allow for a switch to targeted therapy from chemotherapy if testing comes back positive after starting chemotherapy)
+Locally advanced or metastatic (stage IIIB, stage IV, or recurrent) NSCLC with measurable lesions per RECIST version 1.1.
+Have a Stage IV diagnosis of 1 of the following: Part A: NSCLC (Kirsten rat sarcoma mutant [KRAS mt], PD-L1+); Part B: NSCLC (squamous histology); or Part C: metastatic breast cancer (HR+, HER2-).
+Part A: must be chemotherapy naïve for metastatic NSCLC
+Histologically documented, metastatic NSCLC that has failed at least one standard therapy

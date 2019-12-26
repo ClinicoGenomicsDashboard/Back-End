@@ -1,0 +1,40 @@
+Baseline Fridericia's correction formula (QTcF) < grade 
+Standard -lead electrocardiography (ECG) with the following parameters at screening (defined as the mean of the triplicate ECGs):\r\n* Fridericia's correction formula (QTcF) interval at screening <  msec (using Fridericia s correction)\r\n* Resting heart rate  to  beats per minute
+Patients must have at screening a standard -lead electrocardiogram (ECG) with mean values that meet the following parameters:\r\n* Fridericia's correction QT (QtcF) interval at screening <  msec (using Fridericias correction)\r\n* Resting heart rate of - beats per minute (bpm)
+Patient with standard -lead electrocardiogram (ECG) with the following parameters at screening (defined as the mean of the triplicate ECGs):\r\n* Fridericia's correction formula (QTcF) interval at screening <  msec (using Fridericias correction)
+Cardiac Function: Fridericia's correction formula (QTcF) <  milliseconds (Fridericia correction), and ejection fraction (EF) >= %
+Corrected QT interval (QTc) <  msec (as calculated by the Fridericia correction formula [QTcF]).
+Corrected QT (QTc) interval <  ms (as calculated by the Fridericia correction formula)
+Corrected QT (QTc) interval (using Fridericias correction formula, QTcF, if prolonged) >  msec
+QTcF (Fridericia Correction Formula) >  on  out of  EKGs (if first EKG is =< , no need to repeat, if first electrocardiogram [EKG] is >  repeat twice for a total of  EKGs)
+COHORT : HORMONE RECEPTOR POSITIVE BREAST CANCER: Patients with a mean Fridericia's correction formula (QTcF) interval of >  msec or receiving therapeutic agents known to prolong the QT interval
+Corrected QT interval (QTc) >  ms, uncorrectable by managing electrolytes and medications, using the Fridericia's correction (QTcF) formula
+Screening -lead ECG with a measurable QTc interval according to Fridericia's correction > ms.
+Corrected QT (QTc) (Fridericia Correction Formula) >  ms on electrocardiogram (ECG)
+Prolonged corrected QT interval by the Fridericia correction formula (QTcF) on screening electrocardiogram (EKG) >  msec
+Patients with available standard -lead electrocardiography (ECG) with the following parameters at screening (defined as the mean of the triplicate ECGs):\r\n* Fridericia's correction formula (QTcF) interval at screening <  msec\r\n* Resting heart rate - beats per minute (bpm)
+QTcF interval at screening < msec (using Fridericia's correction)
+Fridericia's correction formula (QTcF) >  msec (males and females)
+Patients must not have corrected QT (QTc)F (Fridericia Correction Formula) >  on  out of  electrocardiograms (EKGs) (if first EKG is =< , no need to repeat, if first EKG is >  repeat twice for a total of  EKGs)
+Pre-treatment Fridericia's correction formula (QTcF) >  msecs
+Have chronic atrial fibrillation or QTc of greater than  msec, as calculated by Bazett's correction formula.
+Baseline QT Fridericia's correction formula (QTcF) ?  msec
+Fridericia's correction formula (QTcF) >  msec on screening electrocardiography (ECG) or congenital long QT syndrome
+Screening -lead ECG with measurable QTc interval (according to either Fridericia's or Bazett's correction) of >= msec).
+QTcF interval at screening <  msec (using Fridericia's correction).
+Corrected QT using Fridericia's correction formula (QTcF) =<  msec
+QTcF interval at screening > msec (using Fridericia's correction)
+Fridericia's formula (QTcF), or another method, machine or manual overread.
+For subject eligibility and withdrawal, QT correction formula QTcB will be used.
+Baseline Bazett's correction formula (QTcB) >=  msec
+Corrected QT interval (QTc) <  ms (as calculated by the Fridericia correction formula).
+Has marked prolongation of QTc interval at screening or baseline using the Fridericia method of correction for heart rate
+. Corrected QT interval (QTc) <  ms (as calculated by the Fridericia correction formula).
+Participants with a QTcF (Fridericia correction formula) >  ms on  out of  electrocardiograms (EKGs) (if first EKG is < , no need to repeat, if first EKG is >  repeat twice for a total of  EKGs)
+Subjects have a mean QT interval corrected by the Fridericia Correction formula value of > msec (in females) or > msec (in males)
+Prolonged corrected QT interval by the Fridericia correction formula (QTcF) on the Electrocardiogram (ECG) >  msec.
+Normal ejection fraction (echocardiogram [ECHO] or cardiac MRI) >= % (or the institutional normal; if a range is given then the upper value of the range will be used); corrected QT (QTC) or Fridericia's correction formula (QTcF) =<  msec
+Fridericia's Heart Rate Correction Formula (QTcF) interval > msec;
+Fridericia's correction formula (QTcF) =<  msec
+A history of clinically significant electrocardiography (EKG) abnormalities, including QT prolongation (QT interval by Fridericia's correction formula [QTcF] >  ms), a family history of prolonged QT interval syndrome, or myocardial infarction (MI) within  months of study entry; patients with rate-controlled atrial fibrillation/flutter will be allowed on study
+Baseline Fridericia's correction formula (QTcF) or corrected QT (QTc) >  ms.; NOTE: This criterion does not apply to patients with a left bundle branch block

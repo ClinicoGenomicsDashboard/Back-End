@@ -1,0 +1,8 @@
+Leukocytes >= 3,000/mm^3
+Leukocytes: >= 3,000/mm^3
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/mm^3
+Leukocytes >= 2,000/uL
+Leukocytes no lower limit
+Leukocytes >= 3,000/mm^3
+Within less than or equal to 14 days prior to registration: Leukocytes >= 3,000/mm^3

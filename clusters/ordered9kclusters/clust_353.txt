@@ -1,0 +1,80 @@
+Patients must not have any serious or unstable pre-existing medical conditions (aside from malignancy exceptions specified above), including but not limited to, ongoing or active infection requiring parenteral antibiotics on day 1, history of bleeding diathesis or need for concurrent anticoagulation (international normalized ratio [INR] =< 1.5 and partial thromboplastin time [PTT] within 1.1 x ULN), or psychiatric illness/social situations that would limit compliance with study requirements, interfere with subject’s safety, or obtaining informed consent; therapeutic level dosing of warfarin can be used with close monitoring of prothrombin time (PT)/INR by the site; exposure may be decreased due to enzyme induction when on treatment, thus warfarin dosing may need to be adjusted based upon PT/INR; consequently, when discontinuing dabrafenib, warfarin exposure may be increased and thus close monitoring via PT/INR and warfarin dose adjustments must be made as clinically appropriate; prophylactic low dose warfarin may be given to maintain central catheter patency
+Patients requiring warfarin are not eligible
+INR or prothrombin time (PT) < 1.5 x the ULN except for patients receiving anticoagulation, who must be on a stable dose of warfarin for 6 weeks prior to enrollment
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids; however, prophylactic anticoagulation as described below is allowed:\r\n* Low dose warfarin (1 mg orally, once daily) with prothrombin time (PT)-INR =< 1.5 x ULN is permitted; infrequent bleeding or elevations in PT-INR have been reported in some subjects taking warfarin while on regorafenib therapy; therefore, subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n* Low dose aspirin (=< 100 mg daily)\r\n* Prophylactic doses of heparin
+Any patients on warfarin therapy
+Patients being treated with Warfarin.
+Requires continued use of warfarin for anticoagulation and cannot stop warfarin to be safely switched to another anticoagulant
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids\r\n* However, prophylactic anticoagulation as described below is allowed:\r\n** Low dose warfarin (1 mg orally, once daily) with PT-INR =< 1.5 x ULN is permitted; subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n** Low dose aspirin (=< 100 mg daily)\r\n** Prophylactic doses of heparin
+Patients taking warfarin; if anticoagulation is required, the patient must be on a stable dose of a Food and Drug Administration (FDA) approved anticoagulant other than warfarin (e.g. enoxaparin, dalteparin, fondaparinux, apixaban, rivaroxaban) for at least 30 days
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids\r\n* However, prophylactic anticoagulation as described below is allowed:\r\n** Low dose warfarin (1 mg orally, once daily) with PT-INR =< 1.5 x ULN is permitted; infrequent bleeding or elevations in PT-INR have been reported in some subjects taking warfarin while on regorafenib therapy; therefore, subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n** Low dose aspirin (=< 100 mg daily)\r\n** Prophylactic doses of heparin
+Patients must not be receiving systemic anticoagulation with warfarin; patients must be off warfarin for 30 days prior to enrollment; patients who require anticoagulation with an agent other than warfarin will not be excluded, but must be reviewed by the principal investigator prior to enrollment
+Currently using warfarin.
+The patient is currently on warfarin or heparin therapy
+Requires therapeutic anticoagulation with warfarin at baseline\r\n* Patients must be off warfarin or warfarin-derivative anti-coagulants for at least 7 days prior to starting study drug, however, therapeutic or prophylactic therapy with low-molecular weight heparin is allowed
+Currently receiving anticoagulation therapy with warfarin;
+For patients requiring anti-coagulation with vitamin K antagonists, therapeutic level dosing of warfarin can be used with close monitoring of PT/INR by the site. Exposure may be decreased due to enzyme induction when on treatment, thus warfarin dosing may need to be adjusted based upon PT/INR. Consequently, when discontinuing dabrafenib, warfarin exposure may be increased and thus close monitoring via PT/INR and warfarin dose adjustments must be made as clinically appropriate. If clinically indicated, prophylactic low dose warfarin may be given to maintain central catheter patency.
+Participants receiving oral warfarin are not eligible for this study (unless warfarin is discontinued at least 7 days prior to commencement of treatment and for the duration of the study, or oral warfarin is converted to LMWH, where local clinical opinion considers this an acceptable option).
+Patients receiving therapeutic doses of warfarin
+Patients on warfarin
+Anticoagulation is permitted but patients may not be on warfarin
+Patients must not be on therapeutic anti-coagulation; prophylactic anticoagulation (i.e. low dose warfarin) of venous or arterial devices is allowed provided that the requirements for PT, INR, and PTT are met
+They must not require concomitant treatment with warfarin.
+International normalized ratio (INR) < 1.5, except for subjects receiving warfarin therapy; for subjects who are receiving warfarin for prophylaxis or treatment of thrombosis, INR values should be carefully monitored while patients are on study
+Anticoagulation with warfarin
+Therapeutic level dosing of warfarin can be used with close monitoring of PT/INR by the site; exposure may be decreased due to enzyme induction when on treatment, thus warfarin dosing may need to be adjusted based upon PT/INR; consequently, when discontinuing dabrafenib, warfarin exposure may be increased and thus close monitoring via PT/INR and warfarin dose adjustments must be made as clinically appropriate; prophylactic low dose warfarin may be given to maintain central catheter patency
+Requirement for anticoagulation with warfarin
+Currently receiving anticoagulation therapy with warfarin;
+Requires continued use of warfarin for anticoagulation and cannot stop warfarin or be safely switched to another anticoagulant
+Individuals who require therapy with warfarin
+Therapeutic level dosing of warfarin can be used with close monitoring of PT/INR by the site; exposure may be decreased due to enzyme induction when on treatment, thus warfarin dosing may need to be adjusted based upon PT/INR; consequently, when discontinuing dabrafenib, warfarin exposure may be increased and thus close monitoring via PT/INR and warfarin dose adjustments must be made as clinically appropriate; prophylactic low dose warfarin may be given to maintain central catheter patency
+Patients receiving chronic or acute warfarin treatment are not excluded, but should be monitored very closely or considered for switch to other therapies. P1446A-05 is both highly protein bound and a competitive inhibitor of CYP2C9 at higher concentrations and thus may potentiate the action of warfarin in patients
+Patients receiving warfarin anticoagulation, who cannot be transitioned to other agents such as enoxaparin or dabigatran, and for whom anticoagulants cannot be held for up to 24 hours
+Therapeutic level dosing of warfarin can be used with close monitoring of PT/INR by the site; exposure may be decreased due to enzyme induction when on treatment, thus warfarin dosing may need to be adjusted based upon PT/INR; consequently, when discontinuing dabrafenib, warfarin exposure may be increased and thus close monitoring via PT/INR and warfarin dose adjustments must be made as clinically appropriate; prophylactic low dose warfarin may be given to maintain central catheter patency
+Anticoagulation with warfarin
+Requirement for chronic anticoagulation with warfarin or with direct oral anticoagulants at the time of screening.
+Low dose warfarin (1 mg orally, once daily) with PT-INR ? 1.5 x ULN is permitted. Infrequent bleeding or elevations in PT-INR have been reported in some subjects taking warfarin while on regorafenib therapy. Therefore, subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR, or clinical bleeding episodes.
+Patients must not be receiving active systemic anticoagulation with heparin or warfarin; patients must be off warfarin therapy for at least 30 days prior to enrollment
+Patients taking warfarin or platelet inhibitors
+Requires therapeutic anticoagulation with warfarin at baseline; patients must be off warfarin or warfarin-derivative anti-coagulants for at least 7 days prior to starting study drug; however, therapeutic or prophylactic therapy with low-molecular weight heparin is allowed
+Treatment with warfarin or other vitamin K antagonist; patients with using warfarin who switch to another form of anticoagulation will be eligible
+Patients who require warfarin for anticoagulation (other anticoagulants are allowed)
+Partial thromboplastin time (PTT) =< 60, international normalized ratio (INR) =< 1.5 x institutional ULN unless on warfarin therapy (investigator would need to determine if safe for participant to stop warfarin prior to biopsy and warfarin therapy)
+Patients on warfarin for any reason
+Receiving warfarin treatment
+Patients must not be on phenytoin, warfarin or methadone
+International normalized ratio (INR) =< 1.5 institutional ULN unless on warfarin therapy (investigator would need to determine if safe for participant to stop warfarin prior to biopsy)
+Current treatment with warfarin
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids\r\n* However, prophylactic anticoagulation as described below is allowed:\r\n** Low dose warfarin (1 mg orally, once daily) with prothrombin time (PT)-international normalized ratio (INR) =< 1.5 x upper limit of normal (ULN) is permitted; subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n** Prophylactic doses of heparin
+Receiving warfarin
+Warfarin is not permitted
+Thrombolytics or treatment doses of warfarin within 28 days of initiating treatment; patients who require low dose warfarin for central venous catheter patency are allowed to enter if their dose is < 2 mg per day total AND their international normalized ratio (INR) is =< 1.5
+Patients with an active, bleeding diathesis or on oral anti-vitamin K medication (except low-dose warfarin and aspirin or equivalent, as long as the INR =< 2.0)
+Therapeutic anticoagulation with warfarin, heparins, or heparinoids
+Ongoing treatment with therapeutic doses of warfarin (low dose warfarin up to 2 mg orally [PO] daily for thromboembolic prophylaxis is allowed)
+Patients receiving warfarin anticoagulation, who cannot be transferred to other agents such as enoxaparin or dabigatran, and for whom anticoagulants cannot be held for up to 24 hours will be excluded
+Currently receiving treatment with therapeutic doses of warfarin sodium.
+PT INR > 1.5 unless the patient is on full-dose warfarin
+Patients receiving therapeutic doses of warfarin
+Patients on anticoagulant therapy with unstable dose of warfarin and/or having an out-of- therapeutic range INR (> 3) within the 4 weeks prior to study entry
+Requires therapeutic anticoagulation with warfarin at baseline; patients must be off warfarin or warfarin-derivative anti-coagulants for at least 7 days prior to starting study drug; however, therapeutic or prophylactic therapy with low-molecular weight heparin is allowed.
+Coagulopathies - patients requiring full dose anticoagulation with warfarin are excluded, however, patients stable and on other anticoagulants can be included.
+Able to take anticoagulation, warfarin or equivalent agent, as detailed in the treatment plan
+Receiving chronic anticoagulation therapy (e.g. warfarin, heparin) other than aspirin
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids; NOTE: Prophylactic anticoagulation as described below is allowed:\r\n* Low dose warfarin (1 mg orally, once daily) with prothrombin time PT-INR =< 1.5 x ULN is permitted; subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n* Low dose aspirin (=< 100 mg daily)\r\n* Prophylactic doses of heparin
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids; however, prophylactic anticoagulation as described below is allowed:\r\n* Low dose warfarin (1 mg orally, once daily) with prothrombin time (PT)-international normalized ratio (INR) =< 1.5 x ULN is permitted; infrequent bleeding or elevations in PT-INR have been reported in some subjects taking warfarin while on sorafenib or capecitabine therapy; therefore, subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n* Low dose aspirin (=< 100 mg daily)
+PT INR > 1.5 unless the patient is on full-dose warfarin
+Is receiving prophylactic or therapeutic anticoagulation with warfarin or any other oral anticoagulant
+Patients on warfarin or plavix
+Prior warfarin-based therapies within 7 days of capecitabine treatment
+Patients receiving warfarin anticoagulation, who cannot be transferred to other agents such as enoxaparin or dabigatran, and for whom anticoagulants cannot be held for up to 24 hours will be excluded
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids; however, prophylactic anticoagulation as described below is allowed:\r\n* Low dose warfarin (1 mg orally, once daily) with PT-INR =< 1.5 is permitted; infrequent bleeding or elevations in PT-INR have been reported in some subjects taking warfarin while on regorafenib therapy; therefore, subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n* Low dose aspirin (=< 100 mg daily)\r\n* Prophylactic doses of heparin
+International normalized ratio (INR) =< 1.5 ULN unless on warfarin therapy (investigator would need to determine if safe for participant to stop warfarin prior to surgery and warfarin therapy)
+Warfarin: In-range INR (usually between 2 and 3) within 14 days prior to registration
+Receiving warfarin at registration
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids; however, prophylactic anticoagulation as described below is allowed: 1. low dose warfarin (1 mg orally, once daily) with prothrombin time [PT]-INR =< 1.5 x ULN is permitted; subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes; we will monitor the PT/INR weekly for patients on warfarin and liver function test every 2 weeks (total bilirubin, and AST (serum glutamic oxaloacetic transaminase [SGOT]) and ALT (serum glutamic pyruvic transaminase [SGPT]) if hepatic metastases are present or if patients are on potentially hepatoxic agents such as acetaminophen or statins; 2. low dose aspirin (=< 100 mg daily); and 3. prophylactic doses of heparin
+Anticoagulation with warfarin
+Are being treated with warfarin anticoagulation therapy
+Receiving Warfarin
+Are on an anticoagulant (warfarin, apixaban, dabigatran, and rivaroxaban) regimen
+Warfarin is not permitted

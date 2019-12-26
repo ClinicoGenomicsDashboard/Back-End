@@ -1,0 +1,15 @@
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Leukocytes >= ,/mm^, within  weeks prior to enrollment
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Absolute neutrophil count >= ,/mm^, within  weeks prior to enrollment
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Platelets >= ,/mm^, within  weeks prior to enrollment
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Serum lipase and amylase < . x ULN, within  weeks prior to enrollment
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Creatinine < . UNL or creatinine clearance (CrCl) >  ml/min, within  weeks prior to enrollment
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Hemoglobin >=  g/dL, within  weeks prior to enrollment
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Serum albumin >= . g/dL, within  weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Leukocyte count: no lower limit, within  weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Absolute neutrophil count: > /mcL, within  weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Platelets: > ,/mcL, within  weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Hemoglobin: >=  g/dL unless bone marrow involvement secondary to Hodgkin lymphoma is present, within  weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Serum albumin: >= . g/dL, within  weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Serum lipase and amylase < . x ULN, within  weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: AST (SGOT) / ALT (SGPT): =<  x ULN
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Creatinine: < . x upper normal limit (UNL) or CrCl > ml/min, within  weeks prior to enrollment

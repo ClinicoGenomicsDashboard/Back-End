@@ -1,0 +1,51 @@
+Patients must have an acceptable MDS subtype:
+Therapy-related MDS (defined as the occurrence of MDS due to prior exposure to systemic chemotherapy and/or radiation for malignancy)
+Clinical indication for treatment with azacitidine for MDS or AML.
+Diagnosis of secondary MDS
+MDS associated with q(del) abnormality
+Ongoing treatment with an anticancer agent for MDS not contemplated in this protocol.
+Less than  weeks since any therapy for MDS
+Known history of MDS or AML
+MDS classified as follows:
+MDS:
+patients with previously treated MDS (with the exception of deletion q MDS) (US only)
+Diagnosis of MDS according to WHO  criteria
+Patients must have MDS, or MDS/MPN overlap defined by  World Health Organization (WHO) criteria; both newly diagnosed or previously treated MDS or MDS/MPN patients are eligible as long as the patient has never received prior treatment with azacitidine or decitabine
+Evidence of myelodysplasia (MDS); subjects with history of receiving any prior chemotherapy and/or radiotherapy for the treatment of malignant disease, history of greater than  months total prior cyclophosphamide for any condition (regardless of dose and route) and/or subjects presenting with abnormal peripheral blood counts require unilateral bone marrow aspiration for pathology, flow cytometry, cytogenetics, and fluorescence in situ hybridization (FISH) MDS panel (per institutional profile) to rule out MDS
+secondary to MDS treated at least by hypomethylating agent or
+Patients with Hypoplastic MDS defined as MDS with marrow cellularity of:
+Patients with MDS must be transplant candidates by current clinical standards
+Participant must have documented diagnosis of de novo MDS with:
+Therapy-related MDS (t-MDS)
+MDS at any stage; prior therapies allowed
+Patients diagnosed with AML or MDS per below:
+For patients with del(q) MDS, documented del(q) MDS by metaphase cytogenetics or FISH analysis with up to  additional cytogenetic abnormality other than  involving chromosome  or chromosome .
+Therapy related MDS.
+Diagnosis of MDS (participants with therapy-related MDS are eligible)
+Must not have received prior treatment for MDS with any hypomethylating agent
+Off all other treatments for MDS for at least  weeks prior to Screening.
+Hypoplastic MDS (cellularity < %).
+Subjects with AML evolving from MDS may have received prior MDS therapy with demethylating agents
+Known history of MDS.
+Have a documented diagnosis of MDS
+Secondary or hypoplastic MDS or other subtype with eligibility for treatment with immunotherapy
+AML secondary to prior MDS, or
+We will define subjects as high risk MDS and thus eligible if they have a MD Anderson Comprehensive Cancer MDS Risk Score >= 
+Prior hypomethylating agent treatment for MDS
+Patient must have non-M AML or MDS
+Subjects with MDS/AML or with features suggestive of MDS/AML;
+The patients' leukemia or MDS blasts must express the WT protein detectable by immunohistopathologic analysis, or if an adequate sample is not available for testing, must have a form of leukemia (ALL, AMLs other than M) or MDS ( degree MDS, RAEB, RAEBT) known to overexpress WT in a high proportion of cases (> %); for patients who develop a documented relapse of leukemia or MDS following transplant, marrow aspirates should be evaluated for the proportion of blasts expressing WT by immunohistology or fluorescence activated cell sorting (FACS) whenever possible
+Morphologically confirmed diagnosis of MDS/CMMoL according to FAB or WHO classification, including RAEB-t and MDS/MPN
+Previously untreated with hypomethylating agents for MDS/CMMoL
+Diagnosis of AML or MDS according to the WHO criteria
+MDS refractory to treatment with HMA therapy or with recurrence or progression of MDS following a response to an HMA
+Patients with MDS with isolated del(q)
+Patients must have received at least one prior therapy for MDS; patients could have received transplant for MDS
+Patients with secondary MDS/AML
+Known history of MDS or AML Cohort  Exclusion Criteria:
+Known history of MDS or AML
+Treatment-related MDS
+Treatment-related MDS
+Diagnosis of MDS or CMML
+Patients with either newly diagnosed AML or MDS who have either begun (within  days of starting study drug) or are planned to begin specific treatment for their AML/MDS; patients who are participating in other therapeutic clinical trials for their AML/MDS may participate in this trial
+AML secondary to MDS, chemotherapy, or radiation therapy

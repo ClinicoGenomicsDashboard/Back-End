@@ -1,0 +1,612 @@
+Children must commence Induction chemotherapy within 28 days of the most recent definitive surgical procedure and within 21 days of the most recent neuro-imaging studies (magnetic resonance imaging [MRI] of brain, performed with and without gadolinium contrast, and MRI of total spine, performed with gadolinium contrast) and lumbar cerebrospinal fluid (CSF) cytological examination; the required eligibility observations must be done within 21 days of the start date of treatment; the date protocol therapy is projected to start must be no later than 7 calendar days after the date of study enrollment
+Unequivocal evidence of progressive disease on contrast-enhanced brain computed tomography (CT) or MRI as defined by Response Assessment in Neuro-Oncology (RANO) criteria, or have documented recurrent glioblastoma on diagnostic biopsy
+Recurrence must be confirmed by diagnostic biopsy with local pathology review or contrast-enhanced MRI. If first recurrence of GBM is documented by MRI, an interval of at least 12 weeks after the end of prior radiation therapy is required unless there is either: i) histopathologic confirmation of recurrent tumor, or ii) new enhancement on MRI outside of the radiotherapy treatment field
+Patients who are unable to undergo MRI
+Patients must have eligibility confirmed by rapid central imaging review on APEC14B1; standard whole brain magnetic resonance imaging (MRI) with and without contrast (gadolinium) and spine MRI with contrast (gadolinium) must be performed at the following time points:\r\n* Pre-operative to include an MRI of the brain with and without contrast (including post-contrast three-dimensional [3D] T1-weighted image [T1WI] and post-contrast fluid-attenuated inversion recovery [FLAIR])\r\n* Pre-operative spinal MRI with gadolinium; post-operative staging spinal MRI may be obtained if pre-operative imaging is not possible or is suboptimal; pre-operative spine imaging is strongly preferred, due to the potential of post-operative sequelae, which could affect metastasis detection\r\n* Post-operative brain MRI within 72 hours of surgery
+A diagnostic contrast-enhanced magnetic resonance imaging (MRI) (no other scan type allowed) of the brain must be performed postoperatively; the residual enhancing tumor and/or resection cavity must have a maximal diameter of 5 cm or less; the tumor diameter will be the greatest diameter as measured on the contrast-enhanced postoperative MRI and will include residual disease and/or the postoperative surgical cavity as appropriate\r\n* The postoperative brain MRI should be obtained within 72 hours of resection; if it is not obtained within 72 hours post-resection, then an MRI obtained 2 weeks or longer after surgery is required and can be utilized to ensure maximal diameter of residual tumor and/or resection cavity is 5 cm or less\r\n* For cases where a gross total resection of enhancing tumor is performed, but postoperative surgical cavity is NOT identifiable, the patient will be excluded from the trial
+Inability to undergo MRI (e.g., due to safety reasons, such as presence of a pacemaker, or severe claustrophobia)
+MRI of pelvis within 90 days prior to registration
+Definitive T3 disease on MRI
+GTR must be confirmed on post-operative imaging following the most recent surgery; submission of both pre-operative and post-operative MRIs is required for patients; if a second surgery is performed, submission of post-operative MRI is required and pre-operative MRI is required only if obtained; all sequences obtained in the pre- and post-operative MR imaging are to be submitted to National Radiology Group (NRG) Oncology for study registration; imaging subsequent to enrollment must include pre and post gadolinium contrast-enhanced three-dimensional spoiled gradient (SPGR), magnetization-prepared rapid gradient echo (MP-RAGE), or turbo field echo (TFE) MRI scan and an axial T2 fluid attenuated inversion recovery (FLAIR) sequence; to yield acceptable image quality, the gadolinium contrast-enhanced three-dimensional SPGR, MP-RAGE, or TFE axial MRI scan should use the smallest possible axial slice thickness not exceeding 1.5 mm; the post-operative MRI must be completed within sufficient time to permit step 1 registration within 180 days of the initial resection; these same conditions apply in the setting of a second surgical procedure, although if a second surgery is completed, step 1 registration must still occur with 180 days of initial surgery; computed tomography (CT) imaging is not required, but may be obtained if desired clinically, for instance to assess calcifications or hyperostosis
+Measurable PVNS/dt-TGCT by RECIST 1.1 on MRI
+Contraindications to MRI and use of intravenous gadolinium-based contrast agents
+Subject has progressive disease with at least one measureable lesion on MRI.
+All patients who do not have surgery performed must have MRI scans obtained prior to induction
+Unable to undergo brain MRI
+Patients must be able to undergo MRI of the brain with gadolinium; patients must be maintained on a stable or decreasing dose of corticosteroid regimen (no increase for 5 days) prior to this baseline MRI
+Patients must be able to have MRI scans
+Unable to undergo MRI scans
+Unable to undergo brain MRI
+Lack of clinical or radiologic evidence of a recent neurologic event (such as stroke or transient ischemic attack) by Cerebral MRI/MRA within 30 days prior to initiating transplant conditioning. Subjects with clinical or radiologic evidence of a recent neurologic event will be deferred for ? 6 months with repeat cerebral MRI/MRA to ensure stabilization of the neurologic event prior to proceeding to transplantation
+Evidence of intratumoral or peritumoral hemorrhage on baseline MRI scan other than those that are grade =< 1 and either post-operative or stable on at least 2 consecutive MRI scans
+Lack of adequate (>= 2 mm) separation between the spinal cord and the tumor on post-operative CT myelogram or MRI perfusion
+Research MRI sequences performed at Massachusetts General Hospital Charlestown Navy Yard must be completed =< 7 days of cycle 1 day 1
+Patients unable to undergo gadolinium contrast-enhanced magnetic resonance imaging (MRI) or receive IV contrast for any reason (e.g., due to pacemaker, ferromagnetic implants, claustrophobia, extreme obesity, hypersensitivity)
+Patients unable to undergo gadolinium contrast-enhanced magnetic resonance imaging (MRI) or receive IV contrast for any reason (e.g., due to pacemaker, ferromagnetic implants, claustrophobia, extreme obesity, hypersensitivity)
+Subject who cannot undergo MRI.
+Participant is deemed to be an appropriate candidate for MRI-guided brachytherapy by the radiation oncologist and the patient elects to be treated with MRI-guided brachytherapy
+Patients not capable of getting PET study due to weight, claustrophobia, or inability to lie still for the duration of the exam\r\n* For patients in the imaging correlate sub-study: An MRI will not be performed if there is contraindication for undergoing MRI based on University of California San Francisco (UCSF) Radiology guidelines
+Recurrent lesion must be >= 1.0 cm in diameter as determined by MRI
+Ability to undergo MRI scanning with contrast
+CT or MRI of the neck to confirm staging
+Participants who cannot undergo a brain MRI
+1 inoperable brain metastasis or 2- 10 brain lesions per screening MRI, confirmed by contrast enhanced MRI amenable to SRS according to the following criteria:
+All subjects must have MRI scans of the brain within 28 days prior to registration; an MRI of the spine should be performed if clinically indicated
+Willing to undergo and able to tolerate frequent MRI or CT assessments during the study
+Prior MRI results dated within 120 days prior to ablation.
+Patients with renal insufficiency with an estimated glomerular filtration (EGF) <= 30 are excluded, due to they will not be able to undergo gadolinium enhance MRI.
+Patients must have a gadolinium contrast-enhanced three-dimensional (3D), spoiled gradient (SPGR), magnetization-prepared rapid gradient echo (MP-RAGE), or turbo field echo (TFE) magnetic resonance imaging (MRI) scan and an axial T2/fluid attenuation inversion recovery (FLAIR) sequence; to yield acceptable image quality, the gadolinium contrast-enhanced three-dimensional SPGR, MP-RAGE or TFE axial MRI scan should use the smallest possible axial slice thickness not exceeding 1.5 mm; sites may contact the Imaging Co-Chairs for further information or assistance if needed\r\n* This MRI must be obtained within 56 days of Step 1 registration.\r\n* Note: the MRI study is mandatory irrespective of randomization to the experimental or control arm of this study
+Note: the MRI study is mandatory irrespective of randomization to the experimental or control arm of this study
+Presence of T1 gadolinium (Gd) –enhancing lesions (on MRI) suggestive of high-grade glioma
+Must be able to undergo serial MRI scans for response evaluation
+Inability to undergo MRI and/or contraindication for MRI examinations following the MRI protocol; prosthesis or orthopedic or dental braces that would interfere with volumetric analysis of target PN on MRI
+Patients must have active brain metastases from NSCLC, confirmed by Gadolinium-enhanced MRI without concomitant leptomeningeal carcinomatosis. Dose of steroids must be stable for 5 days before the baseline brain MRI. Patients in Arm 5 must also meet the following inclusion criteria:
+Unequivocal evidence of tumor progression as documented by biopsy or brain MRI scan per Revised Assessment in Neuro-Oncology (RANO) criteria
+MRI evidence of progression (either as > 2 mm increase in maximum linear diameter on conventional MRI, or a > 20% volume increase by 3-dimensional [3D] volumetrics) over the past =< 18 months OR progressive hearing loss, defined as a decline in word recognition score below the 95% critical difference interval from baseline score related to VS (i.e., not due to prior interventions such as surgery or radiation)
+MRI-guided cryoablation criteria-cohort 1: \r\n* Participants must have a mass that is well-visualized under MRI; since PET-CT guidance requires the nuclear medicine department to administer a radionuclide material, either fluorodeoxyglucose (FDG) or a somatostatin analog (DOTATATE), the default will be to try to use MRI guidance which will be simpler
+Myometrial invasion > 50% or evidence of nodal or metastatic disease on baseline magnetic resonance imaging (MRI) (MRI only to be done for EC patients) or tumor size > 2 cm on MRI or pelvic ultrasound
+Patients should have no contraindications to having a contrast enhanced MRI scan; these contraindications will be assessed at the time of enrollment using the guidelines set up and in clinical use by the Institutional Standard Practice
+Patient must be able to undergo MRI and PET scans
+Phase I/II: CSF sampling required to document LM if not documented by MRI; NOTE: patients are still eligible if CSF is negative but LM disease is documented on MRI
+No evidence of in-transit, nodal or distant metastases as determined by clinical examination, CT or MRI
+Clinical and/or MRI evidence of a named cranial or cervical nerve involvement by tumour
+Patients who had clinical and/or radiographic (MRI) progression of tumor following external beam radiation therapy.
+Prior systemic therapy is allowed after diagnosis of brain metastases provided that restaging MRI shows measurable intracranial disease
+If first recurrence of GBM is documented by MRI, an interval of at least 12 weeks after the end of prior radiation therapy is required unless there is either:\r\n* histopathologic confirmation of recurrent tumor, or\r\n* new enhancement on MRI outside of the radiotherapy treatment field
+Brain MRI completed within 6 weeks of Screening.
+Cohort A (M0)\r\n* Clinically localized disease with a minimum of 3 or more cores involved with cancer on diagnostic biopsy (if T3 by magnetic resonance imaging [MRI] can have < 3 positive cores), or < 3 positive cores if there is > 1 cm tumor on prostate MRI:\r\n** With Gleason score 8 – 10 Or\r\n** Gleason 4+3 with one of the following features:\r\n*** PSA >= 20 ng/mL within 2 months prior to diagnostic biopsy\r\n*** MRI suspicious for radiographic T3 disease; defined as > 75% probability of extracapsular extension or seminal vesicle invasion in the opinion of the reading radiologist Or\r\n** Gleason 3+4 or 4+3 and Oncotype DX genomic prostate score of > 40\r\n* With or without clinical N1 (size > 1.5cm in the short axis) OR
+Patients that cannot tolerate MRI
+Patients with leptomeningeal metastases documented by MRI or cerebrospinal fluid (CSF) evaluation
+At least 2 measurable lesions as defined per modified RECIST 1.1 by CT or MRI performed after the last line of anti-cancer therapy within 28 days of enrollment
+A contrast-enhanced MRI must be obtained within 7 days of the first dose of study treatment
+Patients with > 1 cm midline shift on postoperative, baseline brain MRI
+Unable tolerate an MRI, or have a contraindication to MRI
+Patients with leptomeningeal disease (leptomeningeal enhancement on MRI/CT imaging and/or positive cerebrospinal fluid [CSF] cytology) are not eligible to enroll
+Patients consent to MRI studies at 3-4 week intervals until evidence of tumor regression on at least 2 imaging studies. In no case, will the interval between MRI studies be longer than 3 months. MRI study may be introduced at any time should the patients develop new or clearly worsening symptoms and/or introduction of steroids
+Has evidence of leptomeningeal disease on MRI or in cerebrospinal fluid (CSF)
+Patients who have had a multiparametric MRI of the prostate performed and have undergone transrectal systematic biopsy plus biopsy of any volumes considered suspicious per the MRI (PIRADS version 2 score of 4 or 5) within 6 months before signing consent.
+Contrast-enhanced CT or MRI within 14 days prior to start of study drug
+Tumor visible on multiparametric MRI
+Patients should have measurable disease by contrast CT or contrast-enhanced MRI.
+To document the degree of tumor at study baseline, the following scan(s) must be obtained: • A brain MRI with and without contrast (ie, gadolinium) and a spine MRI with contrast within 21 days prior to first dose of study treatment. For subjects on steroids, baseline MRI scans must be performed while on stable or decreasing dose of steroids for at least 5 days.
+Stenosis or occlusion in intended artery for treatment that precludes IA therapy as determined by CT or MRI
+Tortuosity preventing the delivery of the guide sheath and or RenovoCath™ catheter to intended site as determined by CT or MRI
+Inability to exclude major side branches in the area of the intended RenovoCath™ occlusion as determined by CT or MRI
+No suitable artery with a diameter greater than 4mm in proximity of at least one side of the tumor as determined by CT or MRI
+Unable to undergo MRI scans with contrast
+Diabetes\r\n* In addition, patients with glomerular filtration rate (GFR) < 15 ml/min/1.73 m^2 or who are on dialysis will not have dynamic contrast-enhanced (DCE)-MRI scan; these patients will have conventional anatomical MRI without contrast and diffusion weighted (DW)-MRI
+Inability to tolerate at least one modality of diagnostic anatomic imaging, such as CT or MRI
+Inability to undergo MRI secondary to: a) metal b) claustrophobia c) gadolinium contrast allergy
+Patients who are not able to receive an MRI scan
+Any contraindications to MRI (eg, participants with pacemakers, claustrophobia, excessive weight, etc).
+Subjects must not have a tumor > 2 cm as measured on prone contrast-enhanced breast MRI
+(For cohort B): Primary tumor size of at least 1.0 cm by imaging (ultrasound or MRI) or evidence of continued lymph node involvement by imaging (ultrasound or MRI) after adriamycin-based neoadjuvant therapy
+Patients consent to MRI studies at 3-4 week intervals until evidence of tumor regression on at least 2 imaging studies. In no case, will the interval between MRI studies be longer than 3 months. MRI study may be introduced at any time should the patients develop new or clearly worsening symptoms and/or introduction of steroids
+Unable to undergo MRI scan (e.g., pacemaker)
+Patients unable to undergo MRI are not eligible.
+Has a history of spontaneous or tumor-related cerebral hemorrhage; or has cerebral hemorrhage as determined by the screening fludeoxyglucose F-18 (FDG)-PET-computed tomography (CT) and MRI; this does not include stable post-operative blood products seen on a gradient echo MRI sequence
+For subjects enrolled for tumor progression, progression is defined as: \r\n* Presence of new plexiform neurofibroma on MRI or computed tomography (CT) (documented by comparison with prior MRI or CT), OR \r\n* A measurable increase in plexiform neurofibroma size (>= 20% increase in the volume, or a >= 13% increase in the product of the two longest perpendicular diameters, or a >= 6% increase in the longest diameter) documented by comparison of two scans (MRI or CT) in the time period of approximately one year or less prior to evaluation for this study
+Patient must have documented tumor progression during or following a gemcitabine containing regimen to treat metastatic disease as established by CT or MRI scan
+CT or MRI within 14 days prior of registration; NOTE: participants may be registered if screening CT or MRI is > 14 days of registration if prospective approval is received from overall principal investigator (PI), Dr. Patrick Wen (for prospectively approved circumstances an eligibility exception will not need to be filed)
+Pathology must be a GBM, MGMT promoter region determined to be unmethylated and IDH wild type; >= 80% resection of contrast enhanced tumor on post operative MRI is required for randomization, otherwise treatment will occur on the ancillary arm
+Able to undergo brain MRI with and without contrast
+Patients not eligible to obtain MRI with and without contrast
+Must be a candidate for MRI imaging
+Patients who are unable to obtain MRI
+An image-guided biopsy (via Artemis Ultrasound with MRI co-registration) is encouraged but not required if not performed as standard of care biopsy
+Maximal contiguous volume of tumor based on high b-value diffusion MRI < 1/3 volume of brain
+Multifocal disease (> 1 lobe of involvement) of discontiguous contrast enhancing disease as seen on conventional MRI
+Patient unable to have an MRI of the brain
+Patients who fail MRI screening
+Ability to undergo MRI evaluation.
+Participant has ? 1 site of bi-dimensionally measurable disease measured using contrast enhanced MRI.
+Contraindications to gadolinium contrast-enhanced MRI (e.g., non-compatible pacemaker, estimated glomerular filtration rate [eGFR] < 30, gadolinium allergy)
+Patients unable to undergo MRI of the brain
+Unable to undergo MRI of the spine
+Inability to undergo brain MRI due to medical or personal reasons.
+Subjects must have had a definitive resection with residual radiographic contrast enhancement on post-resection CT or MRI of less than or equal to 2 cm in any two perpendicular planes on any images
+Evidence of > grade 1 CNS hemorrhage on baseline MRI on CT scan
+Patients who are allergic to MRI contrast medium or unable to undergo MRI for any other reason.
+The subject must agree to 4 months (120 days) of neoadjuvant treatment with TAK-228 and letrozole, have blood draws and urine samples obtained, have research tumor biopsies performed at baseline and after 10 days of TAK-228 treatment, and have a repeat MRI performed prior to surgery (MRI is part of routine clinical care)
+Currently on dialysis (if receiving contrast for MRI)
+Prior allergic reaction to gadolinium-based contrast agents (if receiving contrast for MRI)
+All participants are screened before MR examination using a MRI safety screening questionnaire as part of Columbia University Medical Center/New York-Presbyterian (CUMC/NYP) MRI safety policy; any patient who would normally be excluded by this screening process would also be excluded from this study
+Patients with GBM or anaplastic astrocytoma must be at first or second recurrence (including this recurrence) or have progressed following initial definitive multimodal therapy with surgery, temozolomide, and radiation (confirmed by diagnostic biopsy with local pathology review or contrast-enhanced magnetic resonance imaging [MRI]). If first recurrence is documented by MRI, an interval of at least 12 weeks after the end of prior radiation therapy is required, unless there is either histopathologic confirmation of recurrent tumor or new enhancement on MRI outside the radiotherapy treatment field.
+Prostate volume: =< 80 cc on transrectal ultrasound\r\n* Measured from ultrasound, CT, or MRI within 3 months
+MRI (contrast is not required but strongly recommended) or CT myelogram of the involved spine within 1 week prior to registration to determine the extent of the spine involvement
+MRI or CT scan of the brain must be done prior to surgery as it is considered standard of care.
+Circumferential radial margin not involved with tumor on pelvic MRI
+Must be willing and able to undergo two research MRI scans, one before study treatment begins and another shortly after SBRT
+MRI demonstration of an enhancing mass of more than 1 cm^3 and less than 100 cm^3
+Magnetic resonance imaging (MRI) is required for radiation treatment planning on this study; a diagnostic MRI performed within 60 days of obtaining consent is acceptable and will not be repeated; subjects who have not had a diagnostic MRI will be required to have a research treatment planning MRI with contrast ordered by a radiation oncologist; these subjects must have a glomerular filtration rate (GFR) >= 60 ml/min
+FOR ARM A: Inability to obtain a planning MRI or a planning MRI of sufficient quality to allow identification of the peripheral zone and urethra, or inability to adequately fuse the MRI to the planning CT scan
+A diagnostic contrast?enhanced MRI of the brain must be performed within 60 days prior to registration; the contrast?enhancing intraparenchymal brain tumor must be well circumscribed and must have a maximum diameter of =< 4.0 cm in any direction on the enhanced scan; if multiple lesions are present and one lesion is at the maximum diameter, the other(s) must not exceed 3.0 cm in maximum diameter
+Inability to undergo MRI or SRS (e.g. due to safety reasons such as presence of a pacemaker)
+MRI MONITORING SUB-STUDY: Received orthodontic work involving ferromagnetic materials
+MRI MONITORING SUB-STUDY: Claustrophobia (a fear of enclosed spaces)
+MRI MONITORING SUB-STUDY: Previously had an allergic response to MR contrast agents (gadolinium)
+Equivalent tumor diameter =< 40 mm by CT or MRI measurement, at the time of consultation/screening (for each metastatic lesion present in the brain)
+Brain lesions with an equivalent diameter of > 40 mm in size on MRI imaging at the time of consultation/screening for protocol eligibility
+Unequivocal evidence of tumor progression by MRI
+Inability to undergo MRI due to personal or medical reasons
+Inability to undergo MRI due to personal or medical reasons (Arm B)
+All patients must have a brain MRI with and without contrast (gadolinium) within 30 days prior to study enrollment; all patients with history of spinal or leptomeningeal disease and those patients with symptoms suspicious of spinal disease, must have a spine MRI with contrast (gadolinium) performed within 30 days prior to study enrollment; lumbar puncture is necessary if there is evidence of tumor dissemination on the MRI of spine
+Patients with brain metastases. However, if radiation therapy and/or surgery has been completed and serial evaluation by CT (with contrast enhancement) or MRI over a minimum of one month demonstrates the disease to be stable and if the patient remains must have no need for treatment with steroids
+Tumor < 3 mm from the mesorectal fascia as seen on MRI or endorectal ultrasound
+Must be able and willing to undergo two MRI scans, before study treatment begins and shortly after first dose of radiation (only mandatory for first 10 patients who have no contra-indications for MRI
+Must be able to tolerate MRI scan with contrast
+COHORT II: Gross disease must be unifocal on Mammo/ MRI imaging
+COHORT II: Must be able to tolerate MRI scan with contrast
+Patients must be able to undergo an MRI with contrast
+Patients unable to undergo an MRI with contrast
+Subject is able to undergo either an MRI or administration of contrast agent for CT
+Eligibility for stereotactic radiosurgery using magnetic resonance imaging (MRI) targeting: The decision to treat with stereotactic radiosurgery will be made by a consensus of the radiation oncology, neurosurgery and neuro-oncology providers or their alternates at the weekly Brain Tumor or Stereotactic Radiosurgery Tumor Conferences; all patients must have no restrictions to obtaining MRI with and without paramagnetic contrast
+Inability to undergo MRI with and without contrast administration
+Standard contraindications to MRI: for example, MRI non-compatible cardiac pacemakers, intracranial clips, foreign metal objects in the body and others as defined in the University of Texas (UT) Southwestern Institutional MRI Safety Policy
+Equivocal bone scan findings are allowed if plain films (or CT or MRI) are negative for metastasis
+Patients must be able to have MRI brain imaging
+Contraindication to contrast enhanced MRI (i.e. unable to undergo follow-up imaging)
+Brain MRI with contrast demonstrates an enhancing tumor =< 8 cm in largest diameter within 30 days prior to registration
+Any significant CNS hemorrhage defined as > 1 cm diameter of blood seen on the pre-registration brain MRI with contrast scan; if > 1 cm of acute blood is detected, the patient will be ineligible for this trial
+History of prior allergic reactions attributed to compounds of CT/MRI contrast that cannot be managed with appropriate pre-medication prophylaxis and thereby preclude use of baseline/ follow-up or radiation planning imaging
+History of having MRI non-compatible metal (injury- or treatment-related) in the body will be an exclusion criteria specific to the MRI sub-study
+Subjects unable to maintain blood glucose less than 200 mg/dl may not be suitable for the PET/MRI substudy
+The subject is unable to undergo MRI scan (e.g., has pacemaker)
+Subjects unable to undergo an MRI with contrast
+Ability to have CT and/or MRI imaging with or without contrast and must be performed within 120 days prior to registration
+Inability to have contrast CT or MRI to help define tumor volume for radiation planning
+Inability to undergo MRI (e.g., due to safety reasons, such as presence of a pacemaker)
+Patients deemed as resectable by pancreatic protocol CT or MRI
+Patients with histologically proven intracranial glioblastoma, gliosarcoma or anaplastic astrocytoma will be eligible. Patients must have shown unequivocal radiographic evidence for tumor progression by MRI scan. A scan should be performed within 14 days prior to registration and on a steroid dose that has been stable for at least 5 days. If the steroid dose is increased between the date of imaging and registration, a new baseline MRI is required.
+Inability to tolerate PET and/or MRI
+Patients will be excluded if they are unable to obtain an MRI scan
+Exclusion criteria (MRI specific):\r\n* Patients who are ineligible to undergo an MRI scan for reasons such as claustrophobia or the presence of implanted devices or metallic foreign bodies that are not magnetic resonance (MR) compatible; patients with a known history of allergic reaction to gadolinium contrast agents; patients with a history of a glomerular filtration rate (GFR) of less than 60 or acute renal disease
+Clinical and/or radiographic (MRI) progression of tumor following external beam radiation therapy
+Tumor(s) are clearly defined on pre-therapy contrast enhanced MRI scans.
+Patients having undergone recent resection of recurrent or progressive tumor will be eligible as long as all of the following conditions apply:\r\n* They have recovered from the effects of surgery and be > 3 weeks from surgery\r\n* Residual disease following resection of recurrent malignant glioma is not mandated for eligibility into the study; to best assess the extent of residual disease post-operatively, a CT/ MRI should be done no later than 96 hours in the immediate post-operative period or at least 4 weeks post-operatively, within 14 days prior to registration; if the 96-hour scan is more than 14 days before registration, the scan needs to be repeated; if the steroid dose is increased between the date of imaging and registration, a new baseline MRI/CT is required on a stable steroid dosage for at least 5 days
+Patients for who clinical suspicion is present of metastatic disease in the cerebrospinal fluid (CSF) or spine must have magnetic resonance imaging (MRI) of spine and CSF obtained (lumbar puncture or through Ommaya, external ventricular drain [EVD] or shunt) with negative cytology; patients with CSF that is positive for tumor cells or metastatic disease found on MRI are ineligible
+Scans used to determine eligibility (CT scan of the chest/abdomen/pelvis and MRI of the liver) must be performed within 28 days prior to randomization. An MRI of the liver is required at screening to validate that CT accurately reflects the extent of disease in the liver. For patients with MRI intolerance, a 3-phase liver CT is to be done in place of liver MRI.
+Unable to undergo MRI scans (e.g., embedded ferromagnetic metal or pacemakers)
+All patients who do not have surgery performed must have MRI scans obtained prior to induction
+More than four metastases by baseline post-contrast MRI
+Allergy to acyclovir or inability to receive contrast for CT and MRI scans
+Patients with MRI evidence of LMD, with or without evidence of malignant cells in CSF (“positive cytology”), or; patients with evidence of malignant cells in the CSF (positive cytology), with or without MRI evidence of LMD, or; patients with surgically-proven LMD (leptomeningeal involvement on pathology review) +/- MRI or CSF evidence by MRI or CSF cytology (Cohort D)
+Any contra-indications to undergo MRI imaging.
+Contraindication for MRI scanning (as assessed by local MRI safety questionnaire), which includes but is not limited to:
+Palpable breast tumour of any size, or tumour with an ultrasound or MRI size of at least 1.0 cm
+Baseline LIC >7 mg/g dw (measured by MRI);
+Baseline LIC >30 mg/g dw (measured by MRI);
+Cardiac MRI T2* <10ms;
+Unable to undergo MRI
+RANO defined tumor progression by MRI in comparison to a prior scan
+Unequivocal radiographic evidence of tumor progression by MRI within 14 days prior to registration
+lesions assessed by follow-up scan (or MRI if MRI performed before brain therapy) ? 1 month after brain therapy are considered under control at baseline
+Targeted (most painful) tumors clearly visible by non-contrast MRI, and ExAblate MRgFUS device accessible
+Known intolerance or allergies to the MRI contrast agent (e.g. Gadolinium or Magnevist) including advanced kidney disease
+NOT visible by non-contrast MRI, OR
+Post-operative imaging (thoracic and whole abdominal CT with contrast medium or MRI) demonstrating no evidence of disease within 4 weeks from randomization
+Cranial MRI or contrast CT performed 14 days prior to study entry. Subjects without measurable or assessable disease are eligible.
+Tumor(s) are clearly defined on pre-therapy contrast enhanced MRI scans.
+Contraindications to MRI such as non-MRI-compatible implanted devices
+Large subjects not fitting comfortably into the MRI scanner
+Difficulty laying supine and still for up to 4 hours in the MRI unit or claustrophobia
+Pre-operative and post-operative brain magnetic resonance imaging (MRI) with and without contrast must be obtained. The requirement for a post-operative MRI is waived for patients who undergo biopsy only. A spine MRI is not required, but may be obtained if clinically indicated. If the spine MRI is positive, the patient would be considered to have M+ disease (defined as neuraxis dissemination) and would be ineligible
+MRI of the brain (or contrast CT scan of the brain if patients are unable to undergo MRI) must be obtained in patients with symptoms suggesting possible central nervous system (CNS) metastatic disease; neuroimaging is recommended but not required in asymptomatic patients
+Patients must be willing to undergo HIFU, CEUS, MRI and prostate biopsy pre-RP for research purposes
+Patients who are unable to undergo MRI
+Maximal contiguous volume of tumor based on high b-value diffusion MRI and perfusion MRI < 1/3 volume of brain.
+Multifocal disease (> 1 lobe of involvement) of discontiguous, contrast enhancing disease as seen on conventional MRI.
+Patients unable to undergo MRI exams.
+Patients with non-measurable disease < 10 mm on multiparametric MRI or CT scan will be excluded
+Patients must have measurable disease in the brain, defined as at least one lesion that can be accurately measured in at least one dimension as >= 10 mm by brain magnetic resonance imaging (MRI); MRI of the brain (with and without gadolinium enhancement) is to be performed using standard 5-mm slices with 2.5-mm spacing for comparison to subsequent MRI scans
+Willing and able to tolerate brain MRI's with contrast
+Subjects should have < 1 cm3 disease by MRI within the previous 4 weeks (by central read)
+Participants must have shown unequivocal evidence for tumor progression by magnetic resonance imaging (MRI) or computed tomography (CT) scan\r\n* For Cohort 2 subjects, CT or MRI within 14 days prior to study registration; for Cohort 2, corticosteroid dose must be stable or decreasing for at least 5 days prior to the scan; if steroids are added or the steroid dose is increased between the date of the screening MRI or CT scan and the start of treatment, a new baseline MRI or CT is required\r\n* For Cohort 1 subjects, CT or MRI should be performed ideally within 14 days prior to study registration, it is acceptable for this MRI/CT to have been performed greater than 14 days prior to registration if unavoidable; furthermore, fluctuation in corticosteroid dose around this MRI does not warrant repeat scan so long as there is documented unequivocal evidence of tumor progression available
+Participants having undergone recent resection or open biopsy or stereotactic biopsy of recurrent or progressive tumor will be eligible for Cohort 2 as long as the following conditions apply:\r\n* They have recovered from the effects of surgery\r\n* Residual disease following resection of recurrent tumor is not mandated for eligibility; to best assess the extent of residual disease post-operatively, an MRI or CT scan should ideally have been performed no later than 96 hours following surgery, or at least 28 days post-operatively, but scans performed outside of this window are considered acceptable if no alternative is available; in either case, the baseline/screening MRI must be performed within 14 days prior to registration; if the participant is taking corticosteroids, the dose must be stable or decreasing for at least 5 days prior to the scan; if steroids are added or the steroid dose is increased between the date of the screening MRI or CT scan and the start of treatment, a new baseline MRI or CT is required
+Brain tumor that is not measurable on MRI or persons who are unable to have MRIs
+Patients that cannot tolerate MRI
+Patients must have baseline MRI performed within the 21 days prior to starting treatment
+All patients must have a cranial MRI with and without gadolinium at diagnosis/prior to enrollment; if surgical resection is performed, patients must have pre-operative and post-operative cranial MRI with and without gadolinium; the post-operative brain MRI should be obtained within 72 hours of surgery; if patient has a biopsy only, post-operative cranial MRI is recommended but not required; all patients must have a spine MRI with gadolinium obtained at diagnosis/prior to enrollment; Note: if the spine study is performed for the first time after surgical resection or biopsy, it is recommended to be obtained with and without gadolinium
+Patients with metastatic disease by cranial or spinal MRI evaluation or CSF cytology (unless medically contraindicated) are not eligible
+Is unable (due to existent medical condition) or unwilling to have a contrast enhanced MRI of brain
+IMAGING CORRELATIVE STUDY: Patients will be eligible to participate in the FMX imaging study if the participating study center offers this test and they do not meet any of the following criteria:\r\n* Evidence of iron overload as determined by:\r\n** Fasting transferrin saturation of > 45% and/or\r\n** Serum ferritin levels > 1000 ng/ml\r\n* A history of allergic reactions to any of the following:\r\n** Compounds similar to ferumoxytol or any of its components as described in full prescribing information for ferumoxytol injection\r\n** Any IV iron replacement product (e.g. parenteral iron, dextran, iron-dextran, or parenteral iron polysaccharide preparations)\r\n** Multiple drugs\r\n* Unable to undergo MRI or for whom MRI is otherwise contraindicated (e.g. presence of errant metal, cardiac pacemakers, pain pumps or other MRI incompatible devices; or history claustrophobia or anxiety related to undergoing MRI)
+Patients at the National Cancer Institute (NCI) site and other selected centers who are willing to undergo an optional pre-treatment ferumoxytol MRI must not have evidence of iron overload, a known hypersensitivity to ferumoxytol or any other IV iron product, a documented history of multiple drug allergies, or those for whom MRI is otherwise contraindicated, including claustrophobia or anxiety related to undergoing MRI; this exclusion criterion applies only to patients enrolling at NCI and other selected sites; of note, the principal investigator (PI) will allow other centers to offer FMX MRI scans if the site in question is willing and the site PI can identify the necessary resources and expertise at their center
+Positive indication of disease on mammogram or MRI scan
+Presence of a medical device (pacemaker, stent) or allergy that precludes contrast enhanced MRI
+Inability to undergo MRI evaluation for treatment planning and follow-up
+A pre-operative magnetic resonance imaging (MRI) scan of the brain with and without contrast is required; NOTE: computed tomography (CT) scans are NOT sufficient for study eligibility\r\n* Post-operative head MRI scan with and without contrast (preferably within 72 hours post-surgery); for patients who undergo stereotactic biopsy only, either a pre or post-operative MRI is sufficient; for patients with M2 and M3 disease, a post-op MRI is strongly encouraged, but not mandatory\r\n* Spinal MRI imaging with and without gadolinium is required within 10 days of surgery if done pre-operatively or within 28 days of surgery if done post-operatively; for posterior fossa tumors, pre-operative MRI scans are preferred
+Cranial MRI (with and without gadolinium) must be done pre-operatively; post-operatively, cranial MRI (with and without gadolinium) must be done, preferably within 48 hours of surgery; entire spinal MRI must be obtained either pre-operatively (with gadolinium) or post-operatively (at least 10 days following surgery) prior to study enrollment (with and without gadolinium); patients with MRI evidence of spinal disease are eligible for this study
+Patients must be able to undergo MRI of the brain with gadolinium; patients must be maintained on a stable or decreasing dose of corticosteroid regimen (no increase for 5 days) prior to this baseline MRI
+Patients who have been off bevacizumab for < 30 days prior to baseline MRI
+Able to undergo MRI evaluation with gadolinium contrast
+Multi-parametric MRI at University of California, Los Angeles (UCLA) within 6 months of study treatment, demonstrating a\r\n* Region of interest (ROI) of MRI suspicion level 3 or higher \r\n* MRI-calculated prostate volume 25 cc to 100 cc
+Transrectal ultrasound-guided biopsy with >= 10 systematic biopsy cores and >= 2 MRI-ultrasound fusion targeted biopsy cores from above MRI-derived ROI\r\n* Histologically-confirmed adenocarcinoma from targeted biopsy cores \r\n* Overall Gleason score not to exceed 3 + 4
+Any significant cancer outside of MRI target (ROI) area, defined as Gleason score >= 3 + 4
+Any contraindication to MRI (contrast allergy severe claustrophobia, MRI-incompatible prosthesis)
+PHASE II: Patients must be able to tolerate CT, MRI or PET imaging including contrast agents
+Evidence of any significant intracranial hemorrhage, as determined by the treating investigator, within 6 weeks from registration or as seen on most recent MRI prior to screening/baseline MRI
+Patients must have:\r\n* Pre-operative cranial magnetic resonance imaging (MRI) (recommended with gadolinium) or pre-operative computed tomography (CT) (recommended with contrast)\r\n* Post-operative cranial MRI with and without gadolinium within 72 hours of surgery\r\n* Spinal MRI pre-op with and without gadolinium or post-op with and without gadolinium preferably within 72 hours of surgery
+Patients with metastatic disease by either MRI evaluation (brain and spine) or lumbar CSF cytology are not eligible
+CT scan of the brain (contrast is recommended unless medically contraindicated) or MRI of the brain within 6 weeks prior to registration
+No contraindications to breast MRI
+All patients must have a brain MRI with and without gadolinium and a spine MRI with gadolinium performed within 2 weeks prior to study enrollment
+Patients must not have evidence of new CNS hemorrhage on baseline MRI obtained within 14 days prior to study enrollment
+Evidence of urethral or upper tract transitional cell carcinoma (TCC) within the past 2 years. Subjects with T1 disease must have no evidence of upper or lower tract disease or a more advanced stage of disease by CT urogram or MRI urogram of the abdomen and pelvis performed within 8 weeks of the first dose of study treatment. If intravenous contrast is contraindicated, retrograde ureteropyelography, or CT or MRI without intravenous contrast may be performed.
+A minimum of 1 measurable lesion by CT or MRI
+Patients with glioma must have a baseline brain MRI scan
+Unable to undergo imaging by either CT scan or MRI
+No new bleeding on day 28 (D28) (+/-3) MRI (or CT if MRI is contraindicated)
+Eligible for MRI [Form GCP-10131]
+Prostate volume ? 90 cc, on Baseline MRI
+Prostate size ? 5.0 cm in sagittal length, and ? 6.0 cm in axial diameter, on Baseline MRI
+Suspected tumour on Baseline MRI within 3 mm of the prostatic urethra, or in the prostate apex within 3 mm from the sphincter plane
+Cysts > 1 cm in largest diameter, on Baseline MRI
+Contraindications to administration of gadolinium-based MRI contrast agent (e.g. Magnevist), such as chronic, severe kidney disease, acute kidney injury, history of Sickle Cell Disease, history of anemia, or intolerance/allergy to the contrast agent
+Radiographic demonstration of disease progression by MRI following prior therapy.
+Evidence of sphincter invasion on MRI
+Contraindication for safe MRI, implants, or other conditions that interfere with imaging required for the study (e.g., pacemaker or non-MRI compatible hip prostheses); Note: subjects with bilateral hip implants are not eligible for the study; subjects with a unilateral hip implant may be eligible assuming the implant is MRI compatible and does not present artifact on MRI in the areas of interest
+At least one lesion that can be accurately assessed at baseline by CT/MRI and is suitable for repeated assessment.
+MRI of the brain with contrast (or CT with contrast if MRI is medically contraindicated) within 60 days prior to registration; note: the use of intravenous contrast is required for the MRI or CT (unless medically contra-indicated).
+No evidence of a local recurrence in the prostate fossa based on a digital rectal examination (DRE) within 60 days prior to step 1 registration\r\n* Patients with equivocal or questionable DRE findings should have an MRI of the pelvis to exclude the presence of a prostate fossa mass\r\n* Patients with equivocal or questionable exam findings by DRE or MRI are eligible if a biopsy of the lesion is negative for tumor
+Must have epidural metastasis to be treated with MRI-guided laser ablation
+Unable to undergo MRI of the spine
+If resection occurred at an outside institution, eligibility and treatment MRI evaluations in addition to Rb testing must be completed at CCHMC.
+All subjects must have a radiographic assessment (chest or abdominal/pelvic CT or MRI) within 28 days prior to registration but do not need to have measurable disease.
+Tumour Clinical stage T3 or T4 on MRI
+Radiographic stability should be determined by comparing contrast-enhanced CT or MRI scans at screening to scans obtained by the same method at least 4 weeks earlier
+Is unable (due to existent medical condition) or unwilling to have a contrast enhanced MRI of brain
+Ability to have MRI as part of post-implant assessment
+Any subject who cannot be evaluated by either triphasic liver CT or triphasic liver MRI because of allergy or other contraindication to both CT and MRI contrast agents
+Low grade tumors may or may not be visible by multi-parametric MRI. Thus, in case of MRI-visible tumor, tumor should be in capsular contact of less than 5 mm, on axial images.
+No definite evidence of extracapsular extension or seminal invasion by MRI
+Contraindications to MRI 2.1. Claustrophobia 2.2. Implanted ferromagnetic materials or foreign objects 2.3. Known intolerance to the MRI contrast agent (e.g. Gadolinium or Magnevist) 2.4. Known contraindication to utilization of MRI contrast agent
+Participants must have a progression by MRI or computed tomography (CT) scan; a scan must be performed within 21 days prior to cycle 1, day 1 (C1d1) and on a steroid dose that has been stable for at least 5 days; if the steroid dose is increased between the date of imaging and C1d1, a new baseline MRI/CT is required; the same type of scan, i.e., MRI or CT must be used throughout the period of protocol treatment for tumor measurement; a patient who develops a contraindication to undergo an MRI scan during study treatment may remain on study and undergo contrast enhanced CT scans
+MRI of the brain with contrast (or CT with contrast if MRI is medically contraindicated)
+Evidence of recent hemorrhage on baseline MRI of the brain with the following exceptions:
+Patients unable to undergo an MRI of the brain with contrast.
+Patients must have measurable disease, defined as at least one meningioma >= 1.0 ml (on volumetric analysis performed by the Tumor Imaging Metric Core at Dana Farber [DF]/Harvard Cancer Center [HCC]) that can be accurately measured by contrast-enhanced cranial MRI scan, performed within 28 days of study registration
+Clinical stage T3 or less (pelvic MRI shows no rectal and ureteral invasion)
+Clinical stage T4 (pelvic MRI shows rectal and/or ureteral invasion)
+Inability to get brain MRI +/- contrast
+Patients must have evaluable disease on MRI imaging
+MRI contraindications.
+MRI post radiation therapy (RT) does not show progressive disease at time of randomization
+The subject is unable to undergo MRI scan (eg, has pacemaker)
+CT or MRI within 14 days prior to start of study drug; MRIs should include vascular imaging when possible; corticosteroid dose must be stable or decreasing for at least 5 days prior to the scan; if steroids are added or the steroid dose is increased between the date of the screening MRI or CT scan and the start of treatment, a new baseline MRI or CT is required
+Participants having undergone recent resection of recurrent or progressive tumor will be eligible as long as the following conditions apply:\r\n* They have recovered from the effects of surgery\r\n* Residual disease following resection of recurrent tumor is not mandated for eligibility; to best assess the extent of residual disease post-operatively, an MRI or CT scan should be done no later than 96 hours following surgery or at least 4 weeks post-operatively, in either case within 14 days prior to start of study drug; if the participant is taking corticosteroids, the dose must be stable or decreasing for at least 5 days prior to the scan; if steroids are added or the steroid dose is increased between the date of the screening MRI or CT scan and the start of treatment, a new baseline MRI or CT is required
+Has evidence of intratumoral or peritumoral hemorrhage on baseline MRI scan other than those that are grade =< 1 and either post-operative or stable on at least 2 consecutive MRI scans
+Patients must be able to tolerate MRI scans
+Patients unable to undergo MR imaging because of non-compatible devices can be enrolled, provided pre- and post-operative contrast-enhanced CT scans are obtained and are of sufficient quality
+Patients must have shown unequivocal evidence for contrast enhancing tumor progression by MRI (or CT for patients who cannot tolerate MRI) in comparison to a prior scan; the same type of scan, i.e., MRI (or CT for patients who cannot undergo MRI) must be used throughout the period of protocol treatment for tumor measurement; criteria defined for progression on this study are not mandatory for eligibility if the disease progression is obvious in the opinion of the investigator and the Sponsor
+MRI/CT must demonstrate measurable enhancing tumor of at least 1 cm^2 in cross-sectional area to allow assessment of radiographic response
+The baseline brain MRI/CT must be performed less than 15 days prior to initiation of study treatment; otherwise it must be repeated
+An MRI/CT scan showing progression is required; stable corticosteroids are not required
+A brain MRI/CT must be performed less than 15 days prior to initiation of study treatment; otherwise it must be repeated
+Inability to undergo MRI
+For subjects enrolled for tumor progression, progression is defined as:\r\n* Presence of new plexiform neurofibroma on MRI or computed tomography (CT) (documented by comparison with prior MRI or CT), OR\r\n* A measurable increase in plexiform neurofibroma size (>= 20% increase in the volume, or a >= 13% increase in the product of the two longest perpendicular diameters, or a >= 6% increase in the longest diameter) documented by comparison of two scans (MRI or CT) in the time period of approximately one year or less prior to evaluation for this study
+Subjects must have progressive glioma that is solely non-enhancing on MRI.
+At least one site of measurable disease on CT/MRI scans as defined by RECIST 1.1. Baseline imaging must be performed within 30 days of dosing.
+Unequivocal evidence of tumor progression by MRI scan
+Inability to undergo MRI due to personal and medical reasons
+At least one measurable lesion on screening CT or MRI
+Subjects with metastatic disease limited to bone are ineligible unless at least one lytic lesion with identifiable soft tissue components that can be evaluated by MRI or CT, that is measurable (>= 15 mm at baseline) and can be followed serially by RECIST v 1.1
+Patient must be willing and able to undergo MRI as outlined in protocol
+A diagnostic contrast-enhanced MRI or CT scan of the brain must be performed preoperatively and postoperatively prior to the initiation of radiotherapy, within 28 days (preferably 14 days) prior to C1D1.
+Patients unable to undergo MR imaging because of non-compatible devices can be enrolled, provided pre- and post-operative contrast-enhanced CT scans are obtained and are of sufficient quality.
+Unresectable, locally advanced measurable (at least bidirectional) adenocarcinoma of the pancreas (regardless of site) proven by biopsy or cytology and confirmed by surgical consultation\r\n* Unresectability is defined as dual phase CT or magnetic resonance imaging (MRI) evidence of direct extension to the superior mesenteric artery (SMA) and/or celiac axis with absence of a fat plane between the low-density tumor and these arterial structures, or loss of patent and/or thrombosed superior mesenteric-portal vein confluence; if CT or MRI performed at the outside hospital is not of acceptable quality according to review of study radiologist (i.e. if it is not a triple phase contrast-enhanced CT with isotropic reformations in all three orthogonal planes, or a contrast-enhanced MRI with at least two post-contrast three-dimensional T1-weighted phases), it will be repeated at Indiana University Simon Cancer Center (IUSCC); if the CT or MRI is of sufficient quality for the study radiologist, a repeat interpretation will be done by the study radiologist to ensure accurate staging; CT scan will be preferred over MRI for study entry when possible, but either is permissible; the same study modality used for entry will be used to follow patients throughout the study\r\n* Patient has not received previous treatment for PC\r\n* Patients who have been surgically explored and deemed unresectable on that basis are eligible, provided other entry criteria are met\r\n* The tumor must be measurable (bidirectional) and measure between 25 mm and 70 mm in maximal diameter\r\n* All patients with a dilated bile duct or elevated total bilirubin will have a biliary stent or transhepatic stent placed before consideration for the trial; when possible, a metal biliary stent will be placed before study treatment
+Inability to tolerate periodic MRI scans or gadolinium contrast
+T2*MRI cardiac evaluation with T2* >= 20 milliseconds
+Patient with known incompatibility to CT Scans with I.V. contrast due to allergic reaction or renal insufficiency. If such a patient can be imaged with MRI, then the patient would not be excluded.
+Patients cannot have known hepatic or peritoneal metastases detected by ultrasound (US), CT scan, MRI or laparotomy
+To document the degree of residual tumor, the following must be obtained:\r\n* All patients must have a brain MRI with and without contrast (gadolinium) within 1 week prior to study enrollment; for patients on steroids, baseline MRI scans must be performed after at least 1 week at a stable or decreasing dose of steroids\r\n* All patients with a history of spinal or leptomeningeal disease, and those patients with symptoms suspicious of spinal disease, must have a spine MRI with and without contrast (gadolinium) performed within 2 weeks prior to study enrollment
+Tumor must be well visualized (as defined above) on MRI
+Clinical progression of symptoms with any radiographic progression on MRI within 21 days prior to registration (any progression in size or enhancement on MRI along with worsening symptoms, will be defined as progression prior to enrollment); radiographic progression is defined as any increase in tumor size (in axial or sagittal images) or progressive contrast enhancement and abnormal T2/FLAIR signal by MRI
+Able to undergo brain MRI scans
+MRI scan with gadolinium contrast showing geographically-circumscribed tumor =< 40 cc incorporating both enhancing and non-enhancing volume; this is calculated by the product of maximum measurements in 3 dimensions divided by 2; tumors exceeding this limit may be eligible and any question should be directed to a radiation oncology investigatory and the MSK principal investigator (PI); (the MRI must be performed on a steroid dosage that has been stable or decreasing for at least 5 days; patients on no steroids are eligible; if the steroid dose is increased between date of imaging and registration, a new baseline MRI is required)
+Inability to complete a MRI or CT scan with contrast of the head
+For patients enrolled in Part 2 (surgical substudy), CT or MRI should be performed ideally within 14 days prior to study registration, but because the screening MRI for this subset of subjects will not be used for evaluation of response, it is acceptable for this MRI/CT to have been performed greater than 14 days prior to registration if unavoidable; furthermore, for this same reason, fluctuation in corticosteroid dose around this MRI does not warrant repeat scan so long as there is documented unequivocal evidence of tumor progression available
+All active liver lesions must be discrete on CT or MRI imaging
+Other metastatic lesions not previously treated with radiation therapy are allowed providing they are measurable by CT or MRI
+Patients with disseminated intrinsic diffuse brainstem gliomas in either brain or spine; spine MRI should be performed prior to biopsy if clinically indicated
+Cranial MRI or contrast CT must have been performed within 21 days of study entry; the use of MRI rather than CT is preferred; the same type of scan, i.e., MRI or CT, must be used throughout the period of protocol treatment for tumor measurement; if the surgical procedure was a resection, cranial MRI or contrast CT performed within 96 hours of resection is preferred, but not required; patients without measureable or assessable disease are eligible
+Progressive disease on contrast-enhanced brain computed tomography (CT) or magnetic resonance imaging (MRI) as defined by MacDonald Criteria, or have documented recurrent glioblastoma on diagnostic biopsy; patients who have been previously treated with bevacizumab therapy that have T2-weighted or fluid attenuation inversion recovery (FLAIR) MRI sequences considered to be progressive disease by the study investigator but have no contrast-enhancing areas of recurrent disease are eligible for Arm C; Arm A patients may continue treatment in the post-operative period even if there is no residual contrast-enhancing tumor after surgery
+Diagnostic imaging: Baseline magnetic resonance imaging (MRI) of the brain and spinal axis with gadolinium and prior to any chemotherapy is required; if surgical resection is performed, a post operative MRI is required; if the patient receives chemotherapy prior to radiation, a post-chemotherapy MRI of the brain is required; if spinal involvement was seen on initial MRI and prior to chemotherapy, a MRI of the spine is required after chemotherapy and prior to radiation
+Patient must be able to undergo MRI with and without contrast; patients who are unable to undergo MRI are ineligible
+MRI and chest x-ray within 6 weeks prior to pre-registration; a postoperative MRI is required for all patients who underwent open biopsy, or resection, but is not mandatory following stereotactic biopsy
+The baseline on-study MRI should be performed within 14 days (+ 3 working days) prior to registration and on a steroid dosage that has been stable or decreasing for at least 5 days. If the steroid dose is increased between the date of imaging and the initiation of therapy (or at that time), a new baseline MRI is required. The same type of scan, i.e., MRI, must be used throughout the period of protocol treatment for tumor measurement.
+Specific eligibility criteria stratum 3:\r\n* Disease status: \r\n** Patients must have a radiographically progressive plexiform neurofibroma(s) with or without clinical symptoms; progression at the time of study entry is defined as: \r\n*** Presence of new plexiform neurofibromas on MRI within the last 12 months OR\r\n*** A measurable increase of the plexiform neurofibroma (>= 20% increase in the volume, or a >= 13% increase in the product of the two longest perpendicular diameters, or a >= 6% increase in the longest diameter) over the last two consecutive scans (MRI or computed tomography [CT]), or over the time period of approximately one year prior to evaluation for this study
+Must be able to undergo MRI of abdomen (spleen and liver). Patients who are contra indicated for MRI may be enrolled and evaluated by CT scan at the discretion of the Sponsor.
+Cohort Expansion: One or more tumors measurable on CT/MRI scan per RECIST v 1.1 (Eisenhauer 2009; Appendix C).
+Result from a post-operative contrast-enhanced brain MRI within 72 hours after surgery or biopsy.
+No increase in steroid dose during the week prior to screening brain MRI
+Measurable contrast-enhancing disease by MRI of brain and or spine (with gadolinium contrast).
+Able and willing to undergo frequent MRI or CT assessments and complete symptom assessments using a patient-reported outcome instrument
+Able to safely undergo MRI exam and receive mild sedation for the treatment
+Patient is able to tolerate being in the MRI scanner for the duration of the study
+Targeted tumor is clearly visible by non-contrast MRI
+Targeted tumors:\r\n* NOT visible by non-contrast MRI,\r\nOR\r\n* NOT accessible to ExAblate device
+Patients must have measurable disease as defined by palpable lesion with both diameters >= 1 cm measurable with caliper and/or a positive mammogram or ultrasound with at least one dimension >= 1 cm; bilateral mammogram and clip placement is required for study entry; baseline measurements of the indicator lesions must be recorded on the Patient Registration Form; to be valid for baseline, the measurements must have been made within the 14 days if palpable; if not palpable, a mammogram or magnetic resonance imaging (MRI) must be done within 14 days; if palpable, a mammogram or MRI must be done within 2 months prior to study entry; if clinically indicated, x-rays and scans must be done within 28 days of study entry
+Has a prior history or current evidence of intracranial (CNS) metastatic RCC, except for ?3 lesions treated by CyberKnife or excisional surgery, clinically stable for at least 4 weeks, and without evidence of recurrence on MRI imaging at screening.
+MRI with a contrast-enhancing tumor of at least 1 cm (10 mm) in the longest diameter.
+Patients unable to undergo contrast-enhanced MRI.
+Patient willing and able to provide written informed consent, including willingness to undergo both endorectal multiparametric MRI and transrectal MRI-guided biopsy at Oregon Health & Science University (OHSU)
+Previous inclusion in the study (e.g., a patient who has had negative TRUS and MRI-guided biopsies but continues to have a rising PSA)
+Patients must have abnormal enhancement on contrast enhanced MRI of the brain; they must be patients for whom bevacizumab is indicated and appropriate, as drug will be charged to insurance
+People who progress with only nonenhancing tumor on MRI are ineligible; patients must have some component of abnormal enhancement on contrast enhanced MRI of the brain; combinations of nonenhancing and enhancing tumor are eligible
+Uneqivocal evidence of a first tumor recurrence or progression on the initial treatment regimen (prior to enrollment on this study), consisting of surgical intervention (biopsy and/or resection), radiation, and temozolomide chemotherapy, as assessed by MRI or CT scan of the brain with or without contrast within 14 days prior to the start of SL-701. If receiving corticosteroids, the dose must be stable or decreasing for at least 5 days prior to the scan. Patients unable to undergo MRI because of non-compatible devices can be enrolled, provided CT scans are obtained and are of sufficient quality. For each patient, the same imaging technique should be performed throughout the study, for purposes of assessing tumor response or PD.
+No evidence of hemorrhage on the baseline MRI or CT scan other than those that are Grade ? 1 and either post-operative or stable on at least two consecutive scans.
+Has evidence of intratumoral or peritumoral hemorrhage on baseline MRI scan other than those that are ?Grade 1 and either post-operative or stable on at least 2 consecutive MRI scans
+Must be able to undergo MRI and have at least one measurable intracranial lesion for which specific criteria have to be met.
+Has the subject had histologically proven HGG with recurrence or progression following initial definitive therapy(s) such as surgery with or without adjuvant radiation therapy and/or chemotherapy (confirmed by diagnostic biopsy or contrast-enhanced MRI and evaluable by Macdonald criteria)? Note, if first recurrence of HGG is documented by MRI, an interval of at least 12 weeks after the end of prior radiation therapy is required unless there is either: i) histopathologic confirmation of recurrent tumor, or ii) new enhancement on MRI outside of the radiotherapy treatment field.
+For patients who have undergone or will undergo stereotactic biopsy of recurrent or progressive tumor, a post-operative magnetic resonance imaging (MRI) is not required, provided that the pre-biopsy MRI is within 21 days of registration; if the preoperative scan is more than 21 days before registration, the scan needs to be repeated; if the steroid dose is increased more than 50% between the date of biopsy and registration, a new baseline MRI is required on a stable or decreasing steroid dosage for at least 3 days even if the previous MRI was within 21 days of registration
+For patients who have undergone or will undergo open resection of recurrent or progressive tumor, residual disease following resection is not mandated for eligibility into the study; to best assess the extent of residual disease post-resection, a MRI scan should be done no later than 96 hours in the immediate post-resection period and within 21 days prior to registration; if the 96-hour scan is more than 21 days before registration, the scan needs to be repeated; if the steroid dose is increased more than 50% between the date of imaging and registration, a new baseline MRI is required on a stable or decreasing steroid dosage for at least 3 days
+Unable to undergo brain MRI due to medical or personal reasons
+At least one measurable lesion defined as lesion(s) that can be accurately measured in at least two dimensions and is ? 10 mm in each dimension by Gadolinium (Gd)-MRI, irrespective of slice thickness/reconstruction interval, for CNS lesions and CT or MRI (with or without contrast) for non-CNS lesions. All patients with CNS lesions must have a brain MRI with and without gadolinium and a spine MRI with gadolinium within 2 weeks prior to first dose of study treatment.
+Measurable or evaluable disease by gadolinium MRI or contrast CT scan; note: patients who have had a gross total resection (GTR) are eligible on the basis of evaluable disease
+Unequivocal radiographic evidence for tumor progression by MRI. It is understood that some patients may be resected prior to enrolling onto protocol
+Patients must have measurable contrast-enhancing progressive or recurrent glioblastoma by MRI within 21 days of starting treatment; patient must be able to tolerate MRIs
+Inability to undergo MRI and/or contraindication for MRI examinations following the MRI protocol; prosthesis or orthopedic or dental braces that would interfere with volumetric analysis of target PN on MRI
+The presence of at least one lesion that can be accurately assessed at baseline by CT, MRI or plain X-ray and is suitable for repeated assessment. Estimated life expectancy of more than 12 weeks.
+Additionally, patients will be required to meet the following criteria:\r\n* Karnofsky Performance Scale (KPS) >= 80\r\n* Prostate size =< 60 cc\r\n* Presence of a prostatic lesion with maximum dimension of >= 0.5 cm and no more than two additional disease foci, each with a maximum dimension less than that of the dominant lesion\r\n* International Prostate Symptom Score =< 15\r\n* Subjects must fill out the standard magnetic resonance imaging (MRI) screening form and satisfy all MRI screening criteria.
+Pelvic MRI or CT (MRI preferred) evidence of radiographic T3, T4 or N1 disease
+Evidence of recent hemorrhage on baseline MRI of the brain.
+Evidence of leptomeningeal disease by MRI and/or cerebrospinal fluid (CSF) cytology
+Inability to undergo MRI evaluation for treatment planning and follow-up
+Patients with primary central nervous system tumors or brain metastases. However, if radiation therapy and/or surgery has been completed and serial evaluation by CT (with contrast enhancement) or MRI over a minimum of 3 months demonstrates the disease to be stable and if the patient remains asymptomatic, then the patient may be enrolled. Such patients must have no need for treatment with steroids or anti-epileptic medications.
+Patients must have measurable disease as defined by palpable lesion with both diameters >= 1 cm measurable with caliper and/or a positive mammogram or ultrasound with at least one dimension >= 1 cm; screening mammogram of the contralateral breast must be performed within past 12 months per standard practice guidelines; clip placement is required for study entry; baseline measurements of the indicator lesions must be recorded on the Patient Registration form; to be valid for baseline, the measurements on clinical exam must have been made within the 14 days if the mass is palpable; if the mass is not palpable, a mammogram or magnetic resonance imaging (MRI) must be done within 14 days; if the mass is palpable, a diagnostic mammogram of the affected breast or MRI must be done within 2 months prior to study entry
+History or evidence of brain metastases on MRI or head CT if MRI is not able to be performed.
+Patients must have measurable disease as defined by palpable lesion with both diameters >= 1 cm measurable with caliper and/or a positive mammogram or ultrasound with at least one dimension >= 1 cm; bilateral mammogram and clip placement is required for study entry; baseline measurements of the indicator lesions must be recorded on the patient registration form; to be valid for baseline, the measurements must have been made within the 14 days if palpable; if not palpable, a mammogram or magnetic resonance imaging (MRI) must be done within 14 days; if palpable, a mammogram or MRI must be done within 2 months prior to study entry; if clinically indicated, x-rays and scans must be done within 28 days of study entry
+If the steroid dose is increased between the date of the MRI and registration on the trial, a new baseline MRI is required; this MRI must be performed after >= 5 days on a stable dose of steroids
+An MRI must be used throughout the period of protocol treatment for tumor measurement
+History and/or current evidence of CNS metastases. Baseline MRI scan by Independent Reviewer to confirm no brain mets;
+Centrally located tumors with radiographic evidence (CT or MRI) of local invasion of major blood vessels
+Must be able to tolerate MRI scan procedure
+No evidence of extraprostatic extension or seminal vesicle invasion by MRI,
+Inability to undergo MRI (e.g., due to safety reasons, such as presence of a pacemaker)
+Post-operative MRI imaging with contrast is mandatory obtained for radiation therapy planning and must be 30 days prior to the start of radiation therapy; enrolling sites are not mandated although highly encouraged to obtain thin-slice (< 1.5 mm) 3 dimensional (D) axial T2/FLAIR and T1 pre and post contrast sequences for planning purposes
+Inability to undergo MRI with and without contrast (e.g. claustrophobia, non-MRI compatible implant or foreign body, gadolinium allergy or renal dysfunction preventing the patient from receiving gadolinium- institutional guidelines should be used to determine if patients are at risk for renal dysfunction); note that patients with severe claustrophobia are permitted on this study if they are willing and able to undergo MRI with adequate sedation or anesthesia
+Targeted (treated) tumor clearly visible by non-contrast MRI, and ExAblate MRgFUS device accessible
+Known intolerance or allergies to the MRI contrast agent (e.g. Gadolinium or Magnevist) including advanced kidney disease
+Targeted (most painful) tumor NOT visible by non-contrast MRI,
+Patients must be able to undergo contrast enhanced MRI scans (or contrast enhanced computed tomography [CT] scans for patients unable to tolerate MRI)
+Patients must have shown unequivocal evidence for tumor progression by MRI (or CT for patients who cannot tolerate MRI) in comparison to a prior scan; the same type of scan, i.e., MRI (or CT for patients who cannot undergo MRI) must be used throughout the period of protocol treatment for tumor measurement
+Confirmation of tumor recurrence or progression on contrast MRI (with and without gadolinium contrast) as determined by RANO criteria within 14 days prior to registration for patients who did not have recent resection of their glioblastoma or only had a stereotactic biopsy.
+Residual disease of recurrent glioblastoma is not mandated for eligibility into the study. To best assess the extent of residual disease post-operatively, a post-operative MRI scan must be performed prior to registration and is recommended to be within 96 hours post-surgery (although 24-48 hours would be optimum). Note: Patients who did have surgery with a post-operative contrast-enhanced scan falling outside the 5-week window prior to registration, must have a repeat MRI scan within 14 days prior to registration.
+Failure on bevacizumab (either as a monotherapy or a combination) as most recent regimen confirmed by tumor recurrence on MRI.
+> 1 cm diameter of blood seen on contrast MRI (with and without gadolinium contrast)
+Ever been told not to get an MRI
+MRI-incompatible metal implant\r\n* If a potential participant reports implanted metal objects, which might be affected by MRI magnets, the study personnel or MRI technologist will screen over the phone or in person to determine whether the potential participant would be safe during the MRI scan; a current list of implants compatible with MRI will be consulted
+MRI (contrast is not required but strongly recommended) of the involved spine within 4 weeks prior to registration to determine the extent of the spine involvement; an MRI is required as it is superior to a CT scan in delineating the spinal cord as well as identifying an epidural or paraspinal soft tissue component; note: if an MRI was done as a screening imaging study for eligibility, the MRI can be used as the required MRI for treatment planning
+Patients for whom an MRI of the spine is medically contraindicated
+Patients must have a post-gadolinium contrast-enhanced three-dimensional spoiled gradient (SPGR), magnetization-prepared rapid gradient echo (MP-RAGE), or turbo field echo (TFE) MRI scan and an axial T2/FLAIR sequence; to yield acceptable image quality, the gadolinium contrast-enhanced three-dimensional SPGR, MP-RAGE, or TFE axial MRI scan should use the smallest possible axial slice thickness not exceeding 1.5 mm; this MRI must be obtained =< 21 days prior to step 1 registration
+Patients must be able to tolerate MRI/CT scans
+Inability to get brain MRI
+Patients with 1-10 measurable brain metastases on a diagnostic-quality contrast-enhanced MRI obtained within 30 days prior to registration
+Pain from the reported one or two metastatic sites must correlate with an identifiable tumor on CT, MRI, or ultrasound (US) imaging
+Have not had both a breast MRI and mammogram in the previous 24 months
+Inability to undergo breast MRI (e.g. claustrophobia)
+INCLUSION - RADIOLOGIST READER: Must have clinical experience in interpreting breast MRI
+INCLUSION - RADIOLOGIST READER: Must have interpreted at least 10 breast MRI exams with RSI interpretation
+EXCLUSION - PATIENT: Known or suspected renal insufficiency, rendering the participant unable to safely receive intravenous contrast based on institutional clinical protocol; renal insufficiency for the purposes of exclusion includes any of the following:\r\n* Known history of end stage renal disease with estimated glomerular filtration rate (eGFR) < 30 mL/min/1.73 m^2\r\n* Point of care (POC) measure of creatinine clearance (eGFR) prior to obtaining the MRI < 35; we will perform this POC test as needed per institutional policy for routine MRI if: (a) answered yes to any of the Choyke question AND no creatinine result is available in the optical mark recognition (OMR) software within 30 days of the MRI exam, regardless of patient age, or (b) the patient is > 60 years old, or (c) the patient is on hydroxyurea
+EXCLUSION - PATIENT: History of adverse or allergic-like reaction to gadolinium MRI intravenous contrast, rendering the participant unable to safely receive intravenous contrast based on institutional clinical protocol
+EXCLUSION - PATIENT: Body weight exceeds that allowable by the MRI table
+Recommendation for biopsy will result from an imaging work-up originating with a screening exam (mammogram, tomosynthesis, ultrasound, or MRI) that was within 3 months of biopsy
+CESM and MRI exam performed within 3 months of one another
+CESM and breast MRI exams must be performed as part of imaging work-up based on a screening exam of any type (mammography, tomosynthesis, ultrasound, and MRI)
+MRI exams will include at least fluid sensitive sequence, multi-phase T1-weighted images
+Imaging sets in which a biopsy or surgical intervention was performed since the most recent screening exam, prior to acquisition of the study MRI or CESM
+Diagnosis of cirrhosis based on one or more of the following: histology, US, computed tomography (CT) or MRI showing cirrhosis, +/- lesions seen on CE-MRI
+No contraindications to undergo MRI
+Contraindications to MRI
+Patients scheduled to undergo screening breast MRI with contrast
+Patients unable to complete their scheduled breast MRI
+Patients should have no contraindications to having a contrast enhanced MRI scan; these contraindications will be assessed at the time of enrollment using the guidelines set up and in clinical use by the Radiology Department
+Patient must not have previously had a breast MRI
+Patient must be able to undergo breast MRI with contrast enhancement; patients unable to undergo breast MRI with contrast enhancement for any reason are ineligible\r\n* No history of untreatable claustrophobia\r\n* No presence of non MR compatible metallic objects or metallic objects that, in the opinion of the radiologist, would make MRI a contraindication\r\n* No history of sickle cell disease\r\n* No contraindication to intravenous contrast administration\r\n* No known allergy-like reaction to gadolinium or moderate or severe allergic reactions to one or more allergens as defined by the American College of Radiology (ACR); patient may be eligible if willing to undergo pre-treatment as defined by the institution's policy and/or ACR guidance\r\n* No known or suspected renal impairment; requirements for glomerular filtration rate (GFR) prior to MRI as determined by local site standard practice\r\n* Weight less than or equal to the MRI table limit\r\n* No women who have had prior contrast enhanced mammography (contrast enhanced spectral mammography [CESM] or contrast enhanced digital mammography [CEDM])\r\n* No women who have breast prosthetic implants (silicone or saline)
+No patients will be enrolled that require sedation for the MRI
+Patients with contraindications to MRI will not be enrolled
+Women too claustrophobic to undergo MRI
+Enrollment in National Cancer Institute (NCI) protocol #: WF 98213; patients must receive fast MRI and 3D ECHO along with baseline (98213) MRI prior to first chemotherapy treatment
+Most breast tissue expanders are not allowed; (if uncertain, inform the MRI tech to confirm eligibility status)
+Have had an abdominal imaging test (CT, MRI, or ultrasound) within the past 7 months
+Must have a negative mammogram or negative breast magnetic resonance imaging (MRI) within 1 year of protocol-required baseline core biopsy\r\n* Patients positive for BRCA mutations must have a negative breast MRI within 1 year of protocol-required baseline core biopsy
+Participant is able to undergo radiographic evaluation with CT or MRI
+Breast patients with tissue expanders are not allowed with the exception of tissue expanders made of material that are MRI compatible; check with the MRI technician to confirm
+Evidence of tumor recurrence/progression by MRI (RANO criteria) post standard initial therapy.
+Able to undergo standard MRI scans with contrast agent
+Single hemilateral index Gleason 7 lesion, identified in the prostate based on biopsy mapping with supporting MRI; may have secondary Gleason 6 lesion on ipsilateral or contralateral side confirmed with biopsy and/or MRI.
+Gleason 7 tumors must be MRI visible:
+No definite evidence of extracapsular extension or seminal invasion by MRI
+Contraindications to MRI 2.1 Claustrophobia 2.2 Implanted ferromagnetic materials or foreign objects 2.3 Known intolerance to the MRI contrast agent
+Upon clinical exam and pre-operative imaging by mammogram +/- MRI, two or three foci of biopsy proven breast cancer separated by >= 2 cm of normal breast tissue; foci must include at least one focus of invasive breast carcinoma with another focus of either invasive breast carcinoma or ductal carcinoma in situ (DCIS); no more than 2 quadrants with biopsy proven breast cancer; Note: the shortest distance between lesions must be reported on mammogram +/- MRI and eligibility criteria must be met on both, if both are obtained; Note: patient is eligible for study if lesion is not visualized on all imaging modalities (i.e., any of the lesion (s) is/are visualized on MRI but not on mammogram OR visualized on mammogram but not on MRI); ultrasound cannot be used to determine patient eligibility; eligibility to be determined by bilateral mammogram +/- MRI only; fine needle aspirate of the second or third lesion to document malignancy is allowed if the first focus is shown to be invasive by core needle biopsy; patient may remain on study if, upon pathological assessment, two or three lesions identified on pre-operative imaging represent one contiguous lesion
+Measurable tumor by CT or MRI
+Patient not eligible for sequential MRI evaluations are not eligible for this study.
+Arm 1: Evidence of recurrent or progressive supratentorial tumor, which has shown a > 25% increase in bi dimensional measurements by MRI or is refractory with significant neuro deterioration that is not otherwise explained with no known curative therapy. Arm 2: Clinical presentation of DIPG and compatible MRI with approximately 2/3 of the pons included. Subject should be ? 2 weeks and ? 10 weeks post standard focal radiotherapy (ie, dose of 5400 to 5960 cGy and maximum dexamethasone of 1 mg/m2/day)
+Able to undergo standard MRI scans with contrast agent before enrollment and after treatment
+Patients must have achieved a complete or near complete radiologic tumor response on breast imaging with mammogram, ultrasound, and MRI
+Patients who did not undergo trimodality imaging after completion of neoadjuvant chemotherapy (breast ultrasound, MRI, and mammography)
+No prior MRI of study breast within the 12 months prior to registration
+Patients must be able to tolerate brain MRI scans with dynamic intravenous gadolinium-based contrast agent injections\r\n* Ability to withstand 22-gauge intravenous (IV) placement\r\n* No history of untreatable claustrophobia\r\n* No magnetic resonance (MR) incompatible implants/devices or metallic foreign bodies\r\n* No contraindication to intravenous contrast administration\r\n** Adequate organ function, including adequate renal function defined as estimated glomerular filtration rate (eGFR) >= 40 mL/min/1.73 m^2 as calculated per institution standard of care, and meeting local site requirements for intravenous administration of gadolinium-based MRI contrast agents\r\n* No known allergy-like reaction to gadolinium or moderate or severe allergic reactions to one or more allergens as defined by the American College of Radiology (ACR); patient may be eligible if willing to undergo pre-treatment as defined by the institution's policy and/or ACR guidance\r\n* Weight compatible with limits imposed by the MRI scanner table
+Patients with contraindications to both CT and MRI
+Has known contraindications to MRI
+Baseline MP-MRI, which is obtained at Memorial Sloan-Kettering Cancer Center (MSKCC) main campus on the 3-tesla Philips MRI unit as part of the standard (clinical) staging assessment demonstrates at least one dominant or visible lesion which measures >= 0.5 cm in maximum axial diameter as assessed on T2-weighted images
+Patients who are unwilling or unable to undergo MRI including patients with contraindications to MRI such as the presence of cardiac pacemakers or non-compatible intracranial vascular clips, claustrophobia, inability to lie flat for the duration of the study etc
+Patients who are unwilling or unable to undergo MRI including patients with contraindications to MRI such as the presence of cardiac pacemakers or non-compatible intracranial vascular clips, claustrophobia, inability to lie flat for the duration of the study etc
+Known allergic reaction to gadolinium; patient may be eligible if the referring physician determines that the MRI is medically necessary and if the patient is willing to undergo pre-medication for contrast allergy
+Known or suspected renal impairment; requirements for GFR prior to MRI as determined by local site standard practice
+Women who have already had their standard of care post-NAT mammogram and/or breast MRI
+Patient is not able to undergo magnetic resonance (MR) imaging due to any contraindication to MRI based on departmental MR questionnaire (e.g. past gadolinium allergies, failure of metallic screening, claustrophobia, inability to lay flat for duration of the study, inability to hold breath, etc.)
+Patient must be able to undergo MRI and PET scans
+Patient must meet standard MRI guidelines and be able and willing to undergo MRI
+Participants who are unable to undergo MRI because of documented contra-indications for contrast-enhanced MRI, including but not limited to renal failure
+Participants who exceed the weight limit for the operative surgical table, 350 lbs or who will not fit into the 60 cm diameter bore of the MRI scanner
+Ability to remain motionless in MRI scanner for approximately 40 minutes
+Patient must meet standard MRI guidelines and be able and willing to undergo MRI
+Participants who have documented contra-indications for contrast-enhanced MRI, including but not limited to renal failure
+Participants who exceed the weight limit for the surgical table at Advanced Multimodality Image Guided Operating (AMIGO), 350 lbs or who will not fit into the 70 cm diameter bore of the MRI scanner at AMIGO or the 60 cm diameter bore of the pre-procedure imaging MRI scanner
+Subjects with contraindications to MRI
+Patient must be able to undergo MRI and PET scans
+Ability to lie still during DCE-MRI which may last for up to 60 minutes
+Patients with evidence of iron overload, hemosiderosis/hemochromatosis will be excluded for the bone sarcoma study; however, they can undergo MRI exam without ferumoxytol enhancement for the ON study
+Patients who have implantable devices that are contraindicated for MRI
+(Part 3, suspected recurrent GBM patients ONLY): Has already begun non surgical therapy for any recurrence, prior to the first [18F]DASA 23 PET/MRI scan
+Patients not capable of undergoing a PET/MRI study due to weight, claustrophobia, or inability to lie still for the duration of the exam
+Successful completion of MRI screening form
+Have non-MRI compatible metallic objects on/in body
+Unable to cooperate for MRI
+CT or MRI must demonstrate at least one lesion (primary or metastatic) present 1.5 cm or larger in any dimension on cross-sectional imaging (CT or MRI) obtained within 3 months of study enrollment
+Patient can be reliably reached for post-MRI follow up adverse event (AE) check
+Any condition including, metallic implants or cardiac pacemakers that makes the candidate ineligible for MR imaging; (MRI research screening form will be completed prior to each MRI scan)
+Subjects must be able to undergo MRI imaging without anesthesia
+Undergoing diagnostic breast MRI ordered by the referring clinician for staging and extent of disease
+Patients planning to receive neoadjuvant chemotherapy/endocrine therapy after the clinical breast MRI and before the research breast PET/MRI examination, those currently undergoing neoadjuvant chemotherapy/endocrine therapy, or those who have received chemotherapy/endocrine therapy within 6 months prior to the MRI
+Patient girth exceeds the bore of the PET/MRI scanner
+Patients with standard contraindications to MRI, including claustrophobia and metallic implants incompatible with MRI
+Radioiodine (RAI)-refractory and/or metastatic disease on structural imaging (CT, MRI) with RAS or RET mutations or BRAF-wild type thyroid cancer
+Weight greater than that allowable by the MRI table
+Unable to tolerate MRI without anesthesia
+Patient with suspected intracranial neoplasm scheduled for routine MRI with GBCA (gadolinium naive patients)
+Contraindications for MRI or GBCA (standard of care)
+Patients able to tolerate PET/MRI scans
+Patients who are unable to undergo MRI scanning due to exclusion by University Hospitals Case Medical Center (UHCMC) MRI restriction policies as mentioned in the standard UHCMC MRI informed consent form
+Patients with a known allergy against any component of the contrast enhancing MR agent will not receive MR contrast agents; (exclusion criterion only for contrast enhanced MRI)
+Subjects with contraindications for receiving HIDA scans and MRI scans will not be eligible to participate in this study
+Inability to undergo or cooperate with an MRI or PET scan (e.g., claustrophobia, metal implant)
+Participants must be able to undergo MRI scan
+An MRI performed within 72 hours after surgery is needed
+Image quality acceptable for comparison with later MRI as read by a neuroradiologist
+Patients, whose MRI at post operative 48-72 hours are not readable due to artifacts or disease process shall not be included in the study
+Patient not able to tolerate MRI scan due to claustrophobia or severe pain or allergic reaction to contrast
+Patients who due to severe claustrophobia cannot tolerate MRI scanning
+At least one lesion by CT or MRI ? 2 cm
+Patients must have MRI findings reporting intraprostatic lesions suspicious for malignancy
+Metallic implants (contraindicated for MRI)
+Must have an MRI scan ordered by a treating physician
+Multiparametric MRI of the pelvis (performed or planned) as routine care
+Able to undergo contrast enhanced MRI
+Planned radical prostatectomy at UCSF within 12 weeks following protocol MRI/MRSI
+MRI is contraindicated based on responses to MRI screening questionnaire
+Respiratory illness of a bacterial or viral etiology within 30 days of MRI
+Subject does not fit into 129-Xe vest coil used for MRI
+Ability to detect lesions within prostate on MRI for biopsy
+Able to tolerate MRI
+Any contraindication to MRI (contrast allergy, severe claustrophobia, MRI-incompatible prosthesis)
+Anyone who would be normally excluded from undergoing an MRI examination as per Memorial Hospital for Cancer and Allied Diseases Screening Questionnaire
+Participants/volunteers who are unable to comply or complete the MRI exam due to claustrophobia or high levels of anxiety
+Unable to lie flat during or tolerate PET/MRI
+Subject does not meet institutional MRI safety screening requirements
+Subjects who require sedation for WB MRI will be excluded if they have: \r\n* An acute cardiopulmonary process including, but not limited to, croup, reactive airways disease, pneumonia, clinical or radiological evidence of pericardial effusion or other cardiopulmonary disease\r\n* Vomiting within 24 hours of the MRI or substantial nausea that may preclude sedation as determined by the anesthesiologist or certified registered nurse anesthetist
+Patients who would be normally excluded from undergoing an MRI examination as per Memorial Hospital for Cancer and Allied Disease Screening Questionnaire for MRI
+Patients with inability to cooperate for an MRI exam due to claustrophobia or high levels of anxiety
+Measurable disease on MRI defined as tumor measuring at least 1 cm in two perpendicular dimensions
+Patients undergoing PET/MRI: contraindication to gadolinium contrast enhanced brain MRI (i.e., allergy to gadolinium contrast, MRI-incompatible implantable devices, GFR =< 30 mL/min/1.73, and severe claustrophobia); at the discretion of the responsible physician, FDOPA-PET/CT may be performed if PET/MRI is contraindicated or unavailable; if FDOPA-PET/CT is performed, the patient must have undergone a contrast-enhanced MRI for fusion with FDOPA-PET no more than 4 weeks before the FDOPA-PET/CT
+Patients who are too claustrophobic to undergo MRI or PET imaging
+Evidence of stroke or mass lesion on CT or MRI scan
+Patients must agree to undergo serial multiparametric MRI and MRI-guided biopsy
+Extracapsular extension suspected on digital rectal exam with confirmation on MRI; suspicion of extracapsular extension on MRI alone is not an exclusion for study enrollment
+Subject is not a candidate for multiparametric MRI with contrast; some reasons may include (but are not limited to): renal insufficiency, foreign body or pacemakers
+Study Note: a patient with a contraindication to MRI will be excluded from the MRI portion of the study, but will still be asked to continue with the biopsy and C13 glucose infusion portion of the trial
+No contraindications to getting contrast enhanced MRI examinations
+Contraindications to undergo MRI
+Claustrophobia or inability to tolerate MRI examination (lay still for approximately 1 hour and hold breath intermittently)
+Previously known allergies against MRI contrast agents (exclusion criterion only for contrast enhanced MRI)
+Adult patients who require monitored anesthesia for MRI scanning
+3Tesla (T) multiparametric MRI of the prostate performed at City of Hope (COH) within 6 week time period prior to surgery; MRI without evidence of bladder neck involvement, rectal wall involvement, or pelvic lymphadenopathy with no nodes > 1 cm
+Unable to undergo MRI scans with contrast (e.g. cardiac pacemaker, defibrillator, kidney failure)
+Unable to undergo MRI scans with contrast (e.g. cardiac pacemaker, defibrillator, kidney failure)
+Patient with metastatic brain tumors greater than or equal to 1.0 cm that will be treated with stereotactic radiosurgery and scheduled for an MRI scan as part of their routine care
+Patients who are unwilling or unable to undergo MRI including patients with contra-indications to MRI such as the presence of cardiac pacemakers or non-compatible intracranial vascular clips
+Able to undergo MRI without general anesthesia
+Any prior adverse events associated with prior MRI that are not related to injection of contrast agents or other medicines
+Patients needing general anesthesia for MRI
+Prostate biopsy within 6 weeks prior to PET or MRI imaging
+Unable to tolerate MRI and/or perform fMRI tasks (e.g., severe claustrophobia or pacemaker or aneurysm clip that precludes MRI scan)
+Adult patients who require monitored anesthesia for PET scanning or MRI imaging
+Patients who are too claustrophobic to undergo MRI or PET imaging
+Patients who cannot undergo MRI imaging due to MRI exclusion criteria
+Patient has no contraindications to the MRI
+Extreme claustrophobia that precludes MRI scan
+Unable to cooperate for MRI and/or radiation therapy planning
+Three different adult patient groups will be eligible for inclusion in this study: \r\n* Group 1: Adult patients with compelling evidence of primary brain tumor based on clinical and magnetic resonance imaging (MRI) or computed tomography (CT) imaging characteristics that have not yet received surgery, histological diagnosis, or any tumor-directed therapy; such evidence will include: MRI or CT scan-documented mass lesion within the brain, accompanied by anatomically appropriate neurological signs and symptoms, in the absence of a probable competing diagnosis such as brain abscess or primary intracranial hematoma\r\n* Group 2: Newly diagnosed primary malignant brain tumors (World Health Organization [WHO] grade II-IV glial-based tumors) who have not had a complete surgical resection and by contrast MRI or CT have residual tumor >= 1.0 cm in diameter and will be receiving radiotherapy and/or chemotherapy\r\n* Group 3: Patients with probable or possible recurrent primary brain tumor as determined by standard clinical criteria or MRI or CT imaging; the abnormality must be >= 1.0 cm in diameter by contrast MRI or CT or show changes on non-enhancing MRI sequences (T2 or fluid-attenuated inversion recovery [FLAIR])
+Age and mental status wherein he/she is unable to cooperate for MRI study
+Patients who are unable to undergo MRI
+Patients with contraindications for MRI
+Male or female patients with metastatic non- hematological solid tumors, with one or more brain metastases, of which at least one lesion has a diameter ?1.5 cm, as confirmed by anatomical imaging (GBCA-enhanced MRI), wherein this lesion (or lesions) is scheduled to be treated by SRS.
+Any indication of a risk for an imminent brain herniation, as evaluated by the Principal Investigator, based on the findings on brain MRI.
+and can lie still in a prone position for 30 minutes in an MRI scanner.
+Adult patients who require monitored anesthesia for MRI scanning
+Patient is unable to have a MRI or transrectal ultrasound
+Metallic implants (contraindicated for MRI)
+Renal function impairment preventing administration of MRI contrast
+Subjects for whom an MRI is technically not feasible (e.g. breast volume, obesity)
+Subjects undergoing MRI evaluation of the brain
+Metallic implants (contraindicated for MRI)
+Renal function impairment preventing administration of MRI contrast
+Requirement for sedation or anesthesia of any kind in order to undergo MRI scanning
+Bilateral mammography and hand-held ultrasound (if clinically indicated) performed prior to the MRI and ABUS
+If a breast MRI is advised and there is no contraindication to MRI, a breast MRI and ABUS will performed at KUCC (study Arm 1)
+If a breast MRI is not performed, an ABUS exam without MRI will be performed (study Arm 2)
+The MRI and ABUS exam must be obtained in a timely manner after the consult, and the imaging exams will be obtained within 2 weeks of each other
+Patients with known urologic cancer who are scheduled to undergo MRI with gadolinium for their routine care
+Able to lie still for PET and MRI scanning
+Patients with contraindications to MRI (e.g., pacemaker, claustrophobia, etc.) (MR/TRUS only) ---Patients with renal dysfunction are excluded due to their inability to undergo contrast enhanced MRI
+Unable to receive a PET-MRI scan due to renal function (glomerular filtration rate [GFR] < 30 mL/min/1.73 m^2), allergy, or other problem with receiving or tolerating an MRI scan, etc. all patients will fill out a standard MRI screening form
+Participant must successfully complete the MRI screening form if receiving an MRI
+If agreeing to MRI contrast, participant must not be on dialysis
+If agreeing to MRI contrast, participant must not have had a prior allergic reaction to gadolinium-based contrast agents
+Baseline MRI studies for participants receiving ferumoxytol must be performed within 16 weeks of study entry
+Able to tolerate an MRI examination
+Subjects who have contraindication to contrast enhanced MRI examination; contraindications to MRI examinations include:\r\n* Medically unstable\r\n** Heart failure\r\n** Unstable angina\r\n** Child bearing\r\n** Lactating\r\n* Any contraindication per MRI screening form \r\n** Implants contraindicated at 3T, pacemakers\r\n** Poorly controlled diabetes\r\n** Body weight greater than 300 pounds\r\n** Claustrophobic\r\n* Since each patient is receiving a gadolinium based contrast agent intravenously:\r\n** Estimated glomerular filtration rate (eGFR) < 30 mL/min/1.73 m^2\r\n** Sickle cell disease\r\n** Hemolytic anemia
+Patients must be judged to be suitable to undergo MRI and receive the contrast agent gadolinium (exclusions follow):\r\n* No history of untreatable claustrophobia\r\n* No presence of metallic implants that, in the opinion of the radiologist, would make MRI a contraindication\r\n* No history of sickle cell disease\r\n* No contraindication to intravenous contrast administration;\r\n* No known allergy-like reaction to gadolinium or moderate or severe allergic reactions to one or more allergens as defined by the American College of Radiology (ACR); patient may be eligible if willing to undergo pre-treatment as defined by the institution's policy and/or ACR guidance\r\n* No findings consistent with renal failure, as determined by glomerular filtration rate (GFR) < 30 mL/min/1.73 m^2 based on a serum creatinine level obtained within 28 days prior to registration\r\n* Weight lower than that allowable by the MRI table
+No prior MRI of the breasts within the 6 months prior to registration
+MRI has been performed in Step 1, and additional imaging studies and biopsies performed if indicated
+FINAL ENROLLMENT BIOPSY PARAMETERS: 12 standard biopsy cores plus targeted regions based upon MRI
+Clinical criteria required to be eligible: \r\n* One of the following: \r\n** Pre-treatment prostate specific-antigen (PSA) >= 10 ng/dL, OR \r\n** Clinical T-stage assessed by digital rectal exam of >= T2a, OR\r\n** Radiographic >= T3a on MRI, OR \r\n** Gleason score of >= 3+4=7 \r\n* Visible intraprostatic tumor foci >= 1 cm in largest dimension on T2-weighted images based on initial pre-treatment MRI
+Any contraindication to baseline MRI based on departmental magnetic resonance (MR) questionnaire, or inability to cooperate for an MRI scan
+Patients with tumor size greater than 5 cm in diameter as measured at imaging (ultrasonography or MRI) before treatment
+Patients who are unwilling or unable to undergo MRI including patients with contraindication to MRI such as the presence of cardiac pacemakers or non-compatible intracranial vascular clips, claustrophobia, inability to lie flat for the duration of the study etc
+Patient must not have evidence of a new CNS hemorrhage greater than 0.5 cm on baseline MRI obtained =< 14 days prior to study enrollment
+Patient must not have any contra-indications to MRI imaging including implanted medical devices and metal objects which may be adversely affected by MRI imaging; all subjects will be required to complete a standard MRI screening form prior to imaging
+Patients unwilling or unable to undergo the ecoil placement or multiparametric MRI exam
+Individuals with renal disease or other contraindications to gadolinium will be excluded; the Brigham and Women’s Hospital (BWH) standard MRI contrast screening criteria will be used to establish renal status
+The tumor is visible and enhances on prone MRI
+At least 1 measurable lesion on CT or MRI
+Contraindications for MRI
+History of renal insufficiency (only for MRI contrast administration)
+Patient is unable to undergo contrast-enhanced CT
+Patients should have no contraindications to having a contrast enhanced MRI scan; these contraindications will be assessed at the time of enrollment using the guidelines set up and in clinical use by the Radiology Department
+Unable to comply with breathing or other imaging related instructions resulting in inability to obtain diagnostic quality CT or MRI studies (OPTN Class 0)
+Subjects with a known contraindication to the standard MRI contrast agent (Gadavist, a gadolinium-based contrast agent) and/or a recent estimated glomerular filtration rate (eGFR) of 30 or less will be excluded from all DCE-MRIs, and will instead receive non-contrast MRIs at the DCE-MRI time points.
+No treatment affecting the status of liver between MRI/MRE and post-imaging biopsy
+Contraindications for MRI
+Subjects who require monitored anesthesia for MRI scanning
+Previous MRI imaging of the prostate
+Patients must be scheduled to receive a 3-Tesla (3T) MRI exam as part of their standard of care (this exam will be\r\nmodified to also include pulse sequences which are for research only)
+Patients who are scheduled to receive a 1.5T MRI exam
+Must be able to undergo MRI scans
+Patients who require sedation prior to MRI scans
+Men in whom artifact would reduce the quality of the MRI
+Patient with known or highly suspected primary intracranial tumors (intra-axial or extra-axial) detected by previous CT or MRI examination who are scheduled to undergo a routine contrast-enhanced MRI
+Patient with rapidly evolving brain tumor that could change in appearance between the time of the two study MRI examinations.
+Subjects with contraindications to MRI
+Subjects who will have a delay in clinically indicated radiation therapy due to the interval between Eovist MRI imaging and biopsy
+Tumors of or involving the midline, basal ganglia, or brain stem as assessed by MRI
+Have electrically, magnetically, or mechanically activated implants that would preclude MRI
+NORMAL VOLUNTEERS: Have electrically, magnetically, or mechanically activated implants that would preclude MRI
+Does not meet any standard contraindications for MRI (such as being claustrophobic, having metal objects within the body that cannot be removed or having large tattoos), confirmed by completion of our clinical MRI questionnaire form
+Electronic version of pre-surgery MRI must be available for co-registration purposes
+Patients must have no contra-indications to PET/CT or MRI (patients will NOT be receiving either CT or MRI contrast and thus, those contraindications are not exclusionary)
+Participants must be scheduled to undergo an Eovist-enhanced MRI of the liver as a part of their standard of care
+Patients who are unable to undergo MRI imaging
+No findings of pancreatic disorder as documented by CT or MRI or EUS
+Contraindications to fMRI, including severe claustrophobia, presence of tissue expanders for breast reconstruction, and presence of a port-a-cath that is incompatible with MRI
+Patients need not undergo a baseline MRI prior to enrollment
+Patients who have undergone a sedated MRI 5-7 days prior, can be re-sedated for post-ferumoxytol MRI
+For patients who choose to undergo MRI imaging, hypersensitivity to MRI IV contrast media not suitable for pre-medication
+For patients who choose to undergo MRI imaging, patients who are ineligible for an MRI with contrast based on radiology department screening
+Patient should pass MRI screening questionnaire
+Participants with standard contraindications to non-contrast MRI will be excluded, including claustrophobia and metallic implants incompatible with MRI
+Participants whose girth exceeds the bore of the MRI scanner
+Prostate volume > 20cc and height at least 22mm (at the area(s) to be biopsied) as verified by ultrasound or MRI
+Patients with contraindications to having a contrast enhanced MRI scan
+mammography and/or US and/or MRI abnormality(ies) consistent with malignancy.

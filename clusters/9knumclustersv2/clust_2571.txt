@@ -1,0 +1,92 @@
+No G-CSF (filgrastim) or GM-CSF (sargramostim) within  days of registration or pegfilgrastim within  days of registration to meet eligibility criteria
+. Receipt of G-CSF, GM-CSF or erythropoietin within  days prior to study entry or receiving TAB;
+Has received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including G-CSF, GM-CSF or recombinant erythropoietin) within  weeks prior to study Day .
+G-CSF:  days
+GM-CSF or Neulasta:  days
+Received G-CSF within  days prior to anticipated first dose of G-CSF.
+Received Pegfilgrastim (GM-CSF or Nulesta) within  weeks prior to anticipated first dose of G-CSF.
+Received erythrocyte of platelet stimulating agents within  days prior to anticipated first dose of G-CSF
+Recent use of hematopoietic colony-stimulating growth factors (e.g. G-CSF, GMCSF, M-CSF) Additional exclusion criteria for Combination arm PDR+canakinumab and single-agent canakinumab
+Transfusion of blood products (including platelets or red blood cells[RBCs]) or administration of colony stimulating factors (including G-CSF, GM-CSF or recombinant erythropoietin) within  week of the NGS blood sample during screening, and  weeks of the first dose of mRNA- or pembrolizumab
+Use of hematopoietic colony-stimulating growth factors (eg, G-CSF, GM-CSF, M-CSF) ?  weeks prior to start of study drug
+Patients who have received G-CSF since the time of diagnosis of the current disease
+DONOR: Known allergy to filgrastim (G-CSF)
+History of clinical hypersensitivity to the designated combination immunotherapy, GM-CSF, Interferon-alpha-b (Merck), yeast, beef, or to any components used in the preparation of the experimental vaccine.
+Has received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including G-CSF, GM-CSF, or recombinant erythropoietin) within  weeks prior to the first dose of study treatment
+Received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including G-CSF, GM-CSF or recombinant erythropoetin) within  weeks prior to the first dose of study treatment.
+History of clinical hypersensitivity to GM-CSF, Interferon-alpha-b (Merck), yeast, beef, or to any components used in the preparation of the experimental vaccine.
+Patients must have radiographic and/or CSF cytological evidence of LMD
+Known allergy or hypersensitivity to Keyhole Limpet Hemocyanin (KLH), sargramostim (GM-CSF) or yeast derived products, or a history of anaphylactic reactions to shellfish proteins
+Patients may not have any known allergy to CYP and/or GM-CSF.
+Patients with contraindications to CYP and/or GM-CSF.
+Patients treated with growth factors targeting the myeloid lineage (e.g. G-CSF, GM-CSF and M-CSF) within  weeks of starting study treatment. (applicable to combination part only).
+Hematopoietic growth factors- At least  days must have elapsed since the last dose of G-CSF or GM-CSF. At least  days must have elapsed since last dose of pegfilgrastim (Neulasta).
+Patients with a history of allergic reactions to filgrastim (GM-CSF) or the tetanus vaccine
+Patients with a known or suspected hypersensitivity to GM-CSF (sargramostim), Cytoxan, pentastarch or hetastarch, corn, or dimethyl sulfoxide (DMSO)
+Cytokine therapy (e.g. filgrastim [G-CSF], sargramostim [GM-CSF], interleukin [IL]-, IL-): must be discontinued a minimum of  hours prior to MIBG therapy
+Known allergy to sargramostim (GM-CSF)
+History of allergy to GM-CSF
+Known hypersensitivity to AC or GM-CSF
+Off all colony forming growth factor(s) >=  weeks prior to registration (filgrastim [G-CSF], sargramostim [GM-CSF], erythropoietin)
+Received the last irradiated GM-CSF transfected allogeneic pancreatic cell lines Panc . and Panc . at least six months prior (+/-  month) (not applicable to the vaccine-nave cohort patients)
+Previous vaccination with the allogeneic GM-CSF-secreting breast tumor vaccine
+DONOR: No contraindication to the administration of filgrastim (G-CSF)
+White blood cell (WBC) > . x ^/L with an absolute neutrophil count (ANC) > . x ^/L and off G-CSF or sargramostim (GM-CSF_ for  days or pegfilgrastim (Neulasta) for  days
+Concurrent or prior bone marrow factors (e.g. G-CSF, GM-CSF or erythropoietin) within  weeks prior to Day  of treatment.
+Patients may not have any known allergy to CYP and/or GM-CSF.
+Patients with contraindications to CYP and/or GM-CSF.
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =<  weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least  weeks prior to enrollment, may be continued; packed red blood cell (PRBC) transfusion at least four weeks prior to start of therapy is allowed
+Previous treatment with CSF-R kinase inhibitor or CSF-R blocking antibody.
+Have received cancer therapies including chemotherapy, radiation, biologic, or kinase inhibitors, G-CSF, or GM-CSF within  weeks prior ot the first scheduled dose of CMB
+Known hypersensitivity reaction to GM-CSF
+Patient must not have received filgrastim (G-CSF, Neupogen) within  days of enrollment
+Patients must be newly diagnosed with localized primary CNS NGGCT (Stratum ) or localized primary CNS germinoma (Stratum ); germ cell tumors located in the suprasellar, pineal, bifocal (pineal + suprasellar) and ventricles are eligible; tumors present in the above mentioned locations and with unifocal parenchymal extension are eligible\r\n* Stratum (NGGCT): Patients must have one of the following criteria:\r\n** Patients with serum and/or CSF hCGbeta >  mIU/mL or any elevation of serum and/or CSF alpha-fetoprotein (AFP) >  ng/mL or greater than the institutional normal are eligible, irrespective of biopsy results\r\n** Patients with any of the following elements on biopsy/resection are eligible, irrespective of serum and/or CSF hCGbeta and AFP levels: endodermal sinus tumor (yolk sac), embryonal carcinoma, choriocarcinoma, malignant/immature teratoma, and mixed GCT with malignant GCT elements\r\n* Stratum  (Germinoma): Patients must have both serum and CSF markers obtained (unless obtaining CSF is medically contraindicated) and must have one of the following criteria to be eligible:\r\n** Patients with institutional normal AFP (or =<  ng/mL if no institutional normal exists) in both serum and CSF (unless medically contraindicated) AND hCGbeta  to =<  mIU/mL in serum and/or CSF (unless medically contraindicated) (only  is required to be elevated) are eligible; no histologic confirmation required\r\n** Patients with bifocal (pineal + suprasellar) involvement or pineal lesion with diabetes insipidus (D) AND hCGbeta =<  mIU/mL in serum and/or CSF AND institutional normal AFP (or =<  ng/mL if no institutional normal exists) in both serum and CSF (unless medically contraindicated) are eligible; no histologic confirmation required\r\n** Patients with histologically confirmed germinoma or germinoma mixed with mature teratoma and hCGbeta =<  mIU/mL in serum and/or CSF and institutional normal AFP (or =<  ng/mL if no institutional normal exists) in both serum and CSF (unless medically contraindicated) are eligible
+Patients must have CSF tumor markers obtained prior to enrollment unless medically contraindicated; ventricular CSF obtained at the time of CSF diversion procedure (if performed) is acceptable for tumor markers but lumbar CSF is preferred; in case CSF diversion and biopsy/surgery are combined, CSF tumor markers should be collected first
+Patients must not have received chemotherapy within  weeks, pegfilgrastim (PEG-G-CSF) (Neulasta) within  weeks or filgrastim (G-CSF) (Neupogen) within  weeks prior to enrollment
+Blood transfusion will be allowed for patients with hemoglobin less than  g/dl and filgrastim (G-CSF) is allowed for neutropenic patients at time of enrollment; chemotherapy treatment can only be administered  hours post G-CSF therapy
+Subjects must complete the filgrastim (G-CSF)/plerixafor mobilization of peripheral blood progenitor cells
+Use of hematopoietic colony-stimulating growth factors (e.g. filgrastim [G-CSF], sargramostim [GMCSF], lanimostim [M-CSF]) =<  weeks prior to starting study drug; erythropoietin, darbepoetin and erythropoietin-biosimilars are allowed for as long as they have been initiated at least  weeks prior to study enrollment
+Absolute neutrophil count (ANC) >= . x ^/L without use of pegfilgrastim in the preceding  days and without non-pegylated filgrastim (G-CSF) or sargramostim (GM-CSF) within  days prior to study entry
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =<  weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least  weeks prior to enrollment, may be continued
+Cancer therapies, including chemotherapy, radiation, biologics or kinase inhibitors, G-CSF or GM-CSF within  weeks prior to the first scheduled CMB dosing
+No prior G-CSF, GM-CSF or plerixafor within  days of study drug dosing
+Cancer therapies, including chemotherapy, radiation, biologics or kinase inhibitors, G-CSF or GM-CSF within  weeks prior to the first scheduled LV dosing. For patients enrolled in Part , Site-specific Amendment, erythropoietin, G-CSF, and GM-CSF will be allowed and anti-PD- therapy may be given within  weeks if it follows their prior treatment schedule.
+Known hypersensitivity reaction to the GM-CSF adjuvant; Any known contra-indication to GM-CSF or Cyclophosphamide treatment;
+Cancer therapies, including chemotherapy, radiation (non-study regimen related), biologics or kinase inhibitors, G-CSF or GM-CSF within  weeks prior to the first scheduled G dose
+Has received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including G-CSF, GM-CSF or recombinant erythropoetin) within four weeks prior to study Day .
+Patients must not have known allergic reactions to GM-CSF or the tetanus vaccine
+DONOR: Unable to participate in a leukopheresis procedure or receive G-CSF (filgrastim)
+Known hypersensitivity to GM-CSF
+For patient with LM, inability to undergo collection of CSF
+Known hypersensitivity reaction to the GM-CSF adjuvant
+Previous use of pexidartinib or any biologic treatment targeting CSF- or the CSF-R; previous use of oral tyrosine kinase inhibitors, eg, imatinib or nilotinib, are allowed.
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =<  weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least  weeks prior to enrollment, may be continued
+Patients who have received any hemopoietic growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) within  weeks prior to study start
+Current treatment with lenalidomide, thalidomide, imiquimod, interferon, cytokines (filgrastim [G-CSF], sargramostim [GM-CSF], interleukin  receptor alpha [IL-Ra]), tumor necrosis factor alpha [TNFa] antagonists, or lithium
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =<  weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least  weeks prior to enrollment, may be continued
+Concurrent use of sargramostim (GM-CSF); filgrastim (G-CSF) could be used for the short-term management of neutropenic infection; stable doses of erythropoietin stimulating agents that were started >  weeks from first ruxolitinib dose or corticosteroids that were being administered prior to screening are allowed
+Patients must have recovered from the acute toxicity of all prior chemotherapy; patients may not have received cytotoxic chemotherapy within  weeks of first dose of G-CSF (filgrastim) therapy, with exception of hydroxyurea, which is allowed for up to  hours prior to first dose of G-CSF, and intrathecal chemotherapy, which is allowed prior to, or in the st  hours after start of G-CSF therapy
+No prior treatment with cytarabine or clofarabine; prior hydroxyurea for control of leukocytosis or use of hematopoietic growth factors (eg, filgrastim [G-CSF], sargramostim [GM-CSF], Procrit, Aranesp, thrombopoietins) is allowed at any time prior to or during study if considered to be in the best interest of the patient
+Patients must not have known allergic reactions to GM-CSF
+Treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =<  weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least  weeks prior to enrollment, may be continued
+Concurrent use of filgrastim (G-CSF) except for the short-term management of neutropenic infection; stable doses of erythropoietin stimulating agents or corticosteroids that were being administered prior to screening are allowed
+Has received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including G-CSF, GM-CSF, or recombinant erythropoietin) within  weeks prior to Study Day 
+Known hypersensitivity to GM-CSF, yeast-derived products or any component of the GM-CSF drug product (e.g., mannitol) or poly-ICLC (e.g., carboxymethylcellulose).
+Cytology and tumor markers: serum and lumbar CSF must be obtained to evaluate for alpha fetoprotein (AFP) and beta human chorionic gonadotropin (HCG); any patient with elevated AFP (serum >  IU/L and CSF > than institutional norm) or elevated B-HCG (serum or CSF >  IU/dL) will be considered to have a nongerminomatous germ cell tumors (NGGCT) regardless of histology; lumbar CSF will also be evaluated for dissemination of tumor cells; if elevated, serum and CSF should be repeated after chemotherapy until these values are within normal range; all patients with elevation of AFP or HCG at any time prior to RT will have serum HCG and AFP repeated within  days before radiation therapy (RT) or within  days of initiation of RT
+DONOR: Known allergy to filgrastim (G-CSF)
+Donor is not allergic to G-CSF
+Immunotherapy, such as interferon, interleukin-, GM-CSF, ipilimumab, anti-PD or other experimental agent.
+Absolute neutrophil count (ANC) >=  x ^/L unsupported by G-CSF or GM-CSF for  days or Neulasta for  days; the hematologic requirements are waived for patients with inadequate counts due to known bone marrow involvement by disease who are otherwise eligible
+Patients treated with hematopoietic colony-stimulating growth factors e.g., G-CSF, GM-CSF, M-CSF) ?  weeks prior to start. Erythropoietin or darbepoetin is allowed if it was initiated at least  weeks prior to entry
+Treatment with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =<  weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least  weeks prior to enrollment, may be continued
+Condition (such as transfusion dependent anemia or thrombocytopenia), therapy, or laboratory abnormality that might confound the study results, or interfere with the patient's participation for the full duration of the study treatment. Patients who received colony stimulating factors (eg, G-CSF, GM-CSF or recombinant erythropoietin) within  weeks prior to the first dose of study treatment are not eligible
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =<  weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least  weeks prior to enrollment, may be continued
+Known allergy or hypersensitivity to KLH, GM-CSF or yeast derived products, or a history of anaphylactic reactions to shellfish proteins.
+The use of growth factors other than erythropoiesis stimulating agents or G-CSF (filgrastim) (Neupogen or Neulasta) during the study period
+Receiving a G-CSF after the institution practice change
+Must have achieved neutrophil engraftment (defined as an absolute neutrophil count [ANC] >  for three consecutive days) and be off daily filgrastim (G-CSF) prior to starting romiplostim; intermittent G-CSF is allowed
+Anticipated use of filgrastim (G-CSF) or sargramostim (GM-CSF) within  days after receiving auranofin
+Anemia (hemoglobin [Hgb] < . gm/dl) or leukopenia (absolute neutrophil count [ANC] < ,/mcL); use of red cell transfusions, erythropoietin, or filgrastim (G-CSF), as ordered by the managing oncology service, is acceptable and does not preclude participation
+Patients with a known hypersensitivity to GM-CSF, yeast-derived products, or any component of the GM-CSF product (e.g., mannitol)
+DONOR: related donors and unrelated adult donors, who are harvested at Columbia University Medical Center (CUMC), will receive filgrastim (G-CSF) - ug/kg/d subcutaneously x  days (or, if unable to tolerate G-CSF, sargramostim [GM-CSF] - mcg/m^/day subcutaneously x  days) and then undergo leukapheresis; if necessary, plerixafor may be included for mobilization
+Have received treatment with agents specifically targeting colony stimulating factor  (CSF-) or CSF-R, including imatinib, nilotinib, and sunitinib.

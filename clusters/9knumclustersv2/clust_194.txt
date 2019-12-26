@@ -1,0 +1,154 @@
+Creatinine < . x ULN
+Creatinine =< .
+Creatinine ? .x ULN
+Creatinine =< . x ULN
+Creatinine (Creat) =< . X ULN
+Creatinine < ULN
+Creatinine ? .  ULN.
+Creatinine ?. ULN.
+Creatinine ? . ULN
+Creatinine =< . x ULN
+Creatinine ?. ULN OR
+Creatinine ? . x ULN
+Creatinine ?. ULN.
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine up to . x ULN.
+Creatinine > . x ULN
+Creatinine < 
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine < . X baseline, < . X ULN OR
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine ? .x ULN;
+Creatinine =< . x ULN prior to biopsy
+Creatinine =< ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN OR
+Creatinine =< . x ULN
+Creatinine ? .  ULN
+Creatinine < . x ULN
+Creatinine < or = 
+Creatinine < . x ULN
+Creatinine > . x ULN
+Creatinine up to . ULN, or
+Creatinine > . ULN, or
+Creatinine =< .
+Creatinine > . x ULN
+Creatinine < . x ULN
+Creatinine =<  x ULN
+Creatinine =< . x ULN
+Creatinine =< .
+Creatinine =< .
+Creatinine =< .
+Creatinine =<. x ULN
+Creatinine =< . x ULN
+Creatinine <  x ULN
+Creatinine < . x ULN
+Creatinine =< . x ULN
+Creatinine < .
+creatinine ? .  ULN,,
+Creatinine =< . x ULN
+Creatinine <  X ULN
+Creatinine > . x ULN.
+Creatinine =< . x ULN
+Creatinine =< . ULN
+Creatinine < . x ULN
+Creatinine =< . x ULN
+Creatinine < .
+Creatinine =< . x ULN OR
+Creatinine < .
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine < .
+Creatinine =< . x ULN
+Creatinine < .
+Creatinine =< . x ULN
+Creatinine =<  x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN OR
+Creatinine < .  ULN
+Creatinine < . x ULN
+Creatinine =< . x the ULN
+Creatinine ? . x ULN
+Creatinine <= . x ULN.
+Creatinine < or equal to . x ULN
+Creatinine < . x ULN
+Creatinine < .
+Creatinine =< .
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN for age
+Creatinine =< . x ULN
+Creatinine <  X ULN
+Creatinine less than . x ULN
+Creatinine > . x ULN
+Creatinine =< . X ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine =< . X ULN
+COHORT B: Creatinine =< . x ULN
+Creatinine ? .  ULN
+Creatinine =< . x ULN
+Creatinine =< ULN x .
+Creatinine < . x ULN
+Creatinine =<  x ULN
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine < .
+Creatinine < .
+Creatinine =< . x ULN
+Creatinine =< . x ULN
+Creatinine <  x ULN
+Creatinine =< .
+Creatinine <  x ULN
+Creatinine =< . x ULN
+Creatinine . x ULN
+Creatinine < . x ULN
+Creatinine less than .
+Creatinine =< . x ULN
+Creatinine < . x ULN
+Creatinine >.x ULN
+Creatinine =<  X ULN
+Creatinine =< . X ULN
+Creatinine > .  ULN
+Creatinine =< ULN
+Creatinine <  x ULN
+Creatinine < .
+Creatinine > .
+Creatinine =< . x ULN
+Patients with creatinine more than . x the ULN
+Creatinine less than . X ULN
+Creatinine =< . X ULN
+Creatinine =<  X ULN
+Creatinine =< . x ULN
+Creatinine > . x ULN
+Creatinine =< . x ULN
+Creatinine > .
+Creatinine =<  x ULN
+Creatinine =< . x ULN
+Creatinine =< .
+Creatinine <  x ULN
+Creatinine =< .
+Creatinine =< ULN
+Creatinine < .
+Creatinine <  x ULN
+Creatinine kinase =< . x the ULN, within  days prior to enrollment
+Creatinine within  x ULN
+Creatinine > . x ULN
+Creatinine <. X ULN
+Greater than . x the ULN for creatinine
+Creatinine < .
+Creatinine >. x ULN

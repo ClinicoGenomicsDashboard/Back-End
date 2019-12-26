@@ -1,0 +1,10 @@
+Peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+77.0
+Peripheral absolute neutrophil count (ANC) >= 750/mm^3
+484.0
+* Peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+81.0
+Peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+67.0
+Peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+36.0

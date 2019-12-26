@@ -1,0 +1,40 @@
+Platelets >= ,/uL unless related to bone marrow involvement by HIV-cHL
+Platelets >= ,, unless due to direct bone marrow involvement of disease
+Platelets >= ,/mcL (>= , if there is bone marrow involvement with lymphoma)
+Platelets >= ,/mm^\r\n* Exception: unless documented bone marrow involvement by lymphoma
+Platelets >= ,/mcL, unless due to marrow involvement by lymphoma in which case a platelet count of >= ,/mcL will be used
+Patients with blood or platelet transfusion within  week prior to signing Consent A, or with platelets < ,/mm^, neutrophils < /mm^, or hemoglobin < . g/dL, unless the cytopenias are considered by the treating physician to be largely due to marrow involvement by lymphoma
+Platelets >= ,/mcL (unless dysfunction is secondary to lymphoma involvement)
+Platelets: >= ,/mm^, unless decreased due to bone marrow involvement with lymphoma
+Platelet >= ,/mm^\r\n*Unless related to bone marrow involvement with disease, in which case platelets must be >= ,/mm^
+Platelets >=  x ^/L:\r\n* Unless due to bone marrow infiltration then eligible if platelets >  x ^/L)
+Platelets > ,/mm^ unless deemed related to lymphoma involvement in the bone marrow and felt potentially reversible by the treating physician
+Platelets >= ,/mcL except in cases of marrow infiltration by lymphoma
+Platelets > ,, unless due to direct bone marrow involvement of disease
+To be performed within  days prior to day  of protocol therapy: platelets >= ,/mm^\r\n* NOTE: Platelet transfusions are not permitted within  days of platelet assessment unless cytopenia is secondary to disease involvement\r\n* Exception: Unless documented bone marrow involvement by lymphoma
+Platelets > ,, unless due to direct bone marrow involvement of disease
+Platelets >= ,/mcL, OR >= ,/mcL if lymphomatous bone marrow involvement; patients with documented marrow involvement may be transfused to this value, performed within  days of treatment initiation
+Platelets >= , / mcL if no bone marrow involvement, platelets >= , / mcL if documented bone marrow involvement
+Platelets >= ,/mm^ (unless these parameters are abnormal secondary to lymphomatous involvement of bone marrow); all participants must cease colony-stimulating factor therapy at least  hours prior to institution of cycle  chemotherapy
+Part : platelets >= ,/mcl; Part : platelets >= ,/mcl if there is bone marrow involvement by lymphoma; platelets >= ,/mcl if there is no bone marrow involvement
+Platelets >= ,/mm^ ( x ^/L) (unless due to marrow involvement) obtained within  weeks prior to registration
+Platelets >= ,/mcl unless in the opinion of the treating physician, thrombocytopenia is due to splenomegaly or bone marrow involvement
+Platelets >= ,/ul (unless these abnormalities are due to bone marrow involvement)
+Platelets >= , total (>= , if bone marrow involvement)
+Platelets >= ,/uL (unless significant bone marrow involvement with MCL)
+Platelets >= ,/uL (unless documented bone marrow involvement with lymphoma)
+Platelets >=  x ^/L, unless cytopenias are deemed due to disease
+Platelets > , unless impairment due to organ involvement by lymphoma
+Hemoglobin >=  g/dl unless cytopenias are related to bone marrow involvement with disease
+Platelets >= , unless cytopenias are related to bone marrow involvement with disease
+Platelets >=  x ^/L without platelet transfusion dependency, unless due to bone marrow involvement with lymphoma
+Platelets >= ,/mcL (unless due to lymphoma involvement of the bone marrow)
+Platelets >= ,/uL, unless due to bone marrow involvement by lymphoma
+platelets ?,/?L in absence of bone marrow involvement
+Platelets ?,/L (unless due to documented leukemic involvement of the bone marrow at the time of study entry).
+Platelets >= ,; patients with bone marrow involvement are allowed at the investigators discretion regardless of cytopenias
+Screening laboratory values: Neutrophils < . x /L (unless due to NHL involvement of the bone marrow). Platelets <  x /L (unless due to NHL involvement of the bone marrow). Serum creatinine ?. mg/dL; subjects with serum creatinine ?. mg/dL are eligible if the creatinine clearance (Cockcroft Gault equation [Cockcroft, ]) is ? mL/min. Total bilirubin > . times ULN [upper normal limit] (unless due to liver involvement by NHL or Gilbert's disease). Transaminases >  times ULN (unless due to NHL involvement).
+Neutrophils < . x ^/L (unless due to iNHL involvement of the bone marrow)
+Platelets <  x ^/L (unless due to iNHL involvement of the bone marrow)
+Platelets >= ,/?L unless due to marrow involvement by lymphoma
+Hemoglobin > . g/dL unless due to marrow involvement by lymphoma

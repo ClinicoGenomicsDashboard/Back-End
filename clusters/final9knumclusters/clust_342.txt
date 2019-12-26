@@ -1,0 +1,78 @@
+Patients must have an electrocardiogram (ECG) within 8 weeks prior to registration to screening step and must meet the following cardiac criteria:\r\n* Resting corrected QT interval (QTc) =< 480 msec\r\n** NOTE: If the first recorded QTc exceeds 480 msec, two additional, consecutive ECGs are required and must result in a mean resting QTc =< 480 msec; it is recommended that there are 10-minute (+/- 5 minutes) breaks between the ECGs\r\n* The following only need to be assessed if the mean QTc > 480 msec\r\n** Check potassium and magnesium serum levels\r\n** Correct any identified hypokalemia and/or hypomagnesemia and may repeat ECG to confirm exclusion of patient due to QTc\r\n** For patients with heart rate (HR) 60-100 beats per minute (bpm), no manual read of QTc is required\r\n** For patients with baseline HR < 60 or > 100 bpm, manual read of QT by trained personnel is required, with Fridericia correction applied to determine QTc\r\n** Patient must not have hypokalemia (value < institutional lower limit of normal)\r\n* No factors that increase the risk of QTc prolongation or risk of arrhythmic events such as heart failure, congenital long QT syndrome, family history of long QT syndrome or unexplained sudden death under 40 years of age or any concomitant medication known to prolong the QT interval\r\n** NOTE: Patient must be taken off prohibited medication prior to registration to the screening step (Step 0, 2, 4, 6) and remain off these medications thereafter, unless permitted on a subprotocol for the management of treatment related toxicity; patient must be off the drug for at least 5 half-lives prior to registration to the treatment step (Step 1, 3, 5, 7); the medication half-life can be found in the package insert for Food and Drug Administration (FDA) approved drugs
+Prolongation of QTc interval to greater than 480 msec
+Subjects showing an average QTc interval over 3 consecutive electrocardiograms (ECG) >450 msec in males and >470 msec in females at screening (? 480 msec for subjects with bundle branch block (BBB) are not eligible.
+Baseline QTc exceeding 450 msec (using the Bazett's formula) and/or patients receiving class 1A or class III antiarrythmic agents.
+Patients with QTc interval > 450 msec.
+Patients with QTc interval >450 msec for male and >470 msec for female.
+Subjects with baseline QT prolongation > 470 msec
+INCLUSION CRITERIA FOR REGISTRATION (HER2 MUTATION IDENTIFIED AT AN OUTSIDE CLIA CERTIFIED LOCATION): QTc interval =< 450 msec for men or =< 470 msec for women within 2 weeks of registration
+ECG with correctd QT interval (QTc) >450 msec in males or >470 msec in females at screening
+No QTc with Bazett’s correction that is unmeasurable, or >= 480 msec on screening electrocardiogram (ECG) obtained within 7 days prior to registration for protocol therapy; if a subject has QTc >= 480 msec on screening ECG, the screen ECG may be repeated twice (at least 24 hours apart); the average QTc from the three screening ECGs must be < 480 msec in order for the subject to be eligible for the study; NOTE: co-administration of drugs that in some reports might be associated with Torsades de Pointes but at this time lack substantial evidence of Torsades de Pointes should be avoided within 2 weeks of randomization and during study; however, these drugs will be allowed, at the discretion of the investigator, if considered\r\nabsolutely necessary; in such cases, the subject must be closely monitored including regular checks of QTc and electrolytes; for patients who start on the drugs in this group while on the study treatment, the ECG must be checked within 24 hours of commencing the concomitant medication and then at least once per week while the patient remains on the medication; the frequency of ECG monitoring could revert to the standard schedule if no QTc prolongation has been noted during 4 weeks of co-administration of a drug; the electrolytes should be maintained within the normal range using supplements if necessary
+STRATUM B: Participants with QTc interval of > 450 msec on screening ECG
+STRATUM C: Participants with QTc interval of > 450 msec on screening ECG
+Unstable cardiac dysrhythmias or persistent prolongation of the corrected QT interval (QTc) (Fridericia) to >480 msec for males or >500 msec for females, based on ECG at screening (patients with stable atrial fibrillation on treatment are allowed provided they do not meet any other cardiac or prohibited drug exclusion criterion);
+Patients with QTc interval > 480 msec or those known to have congenital long QTc syndrome.
+Baseline QTc exceeding 450msec (470msec for females) and / or patients receiving class 1A or class III anti-arrhythmic agents.
+QTc interval of ? 450 msec (males) or 470 msec (females) calculated according to Fridericia's formula (QTc = QT/RR0.33; RR=RR interval)
+A QTc interval outside of normal. (Normal: < 450 msec for males and < 460 msec for females)
+Baseline prolongation of QT/QTc interval (repeated demonstration of QTc ? 450 msec for men and 470 msec for women, or LVEF ? 40% by MUGA or ECHO).
+Baseline electrocardiogram demonstrating all of the following: corrected QT (QTc) < 450 milliseconds (msec) (men) and < 470 msec (women), PR < 240 msec, QRS < 100 msec
+QTc prolongation >470 msec or other significant ECG abnormality noted within 14 days of treatment
+Baseline prolongation of QT/QTc interval (repeated demonstration of QTc ? 450 msec for men and 470 msec for women), or LVEF ? 40% by MUGA or ECHO.
+History of serious ventricular arrhythmia (VT or VF, ? 3 beats in a row), QTc ? 450 msec for men and 470 msec for women, or LVEF ? 40% by MUGA or ECHO.
+History of or ongoing cardiac dysrhythmias requiring treatment, atrial fibrillation of any grade, or persistent prolongation of the QTc (Fridericia) interval to > 450 msec for males or > 470 msec for females.
+Patients with QTc > 480 msec.
+QTc interval > 450 msec
+Screening ECG QTc interval 470 msec for females, 450 msec for males.
+Screening ECG QTc interval 470 msec for females, 450 msec for males.
+Screening corrected QT (QTc) interval >= 450 msec for males or >= 470 msec for females; PR interval > 250 msec for males and females within 4 weeks prior to start of any therapy
+On ECG a QTc(F) interval >480 msec or any clinically significant cardiac rhythm abnormalities.
+QT intervals of QTc ? 500 msec
+Baseline QTc > 470 msec or previous history of QT prolongation while taking other medications
+QTc interval >460 msec (males) or >470 msec (females); or repeated demonstration of a QTc interval >450 msec.
+Patients with mean QTc interval >450 msec at screening and patients taking drugs known to prolong the QTc interval (see Section 9, Appendix D) who cannot be switched to an alternative drug
+Subjects with baseline QTc interval >470 msec at screening
+QTc > 470 msec (including subjects on medication);
+Screening 12-lead ECG with measurable QTc interval (according to either Fridericia's or Bazett's correction) of >=470 msec).
+Patients with baseline QTc > 480 msec.
+QTc >480 msec
+Has marked prolongation of QTc(F) interval at screening or baseline (QTc[F] interval > 470 msec) using the Fridericia method of correction for heart rate.
+Has marked prolongation of QTc(F) interval at screening or baseline (QTc[F] interval > 470 msec) using the Fridericia method of correction for heart rate
+Electrocardiogram (ECG) showing clinically significant abnormality at Screening or showing an average QTc interval ?450 msec in males and ?470 msec in females (?480 msec for subjects with Bundle Branch Block (BBB) over 3 consecutive ECGs).
+Parts A, B, C, and E: Have QTc interval of > 470 millisecond (msec) on screening electrocardiogram (ECG). Part D participants have QTc interval of >450msec on screening ECG. Additional Exclusion Criteria For Part C
+QTc <450 msec on screening ECG.
+QTc interval ? 470 msec at Baseline
+Patients taking drugs that can cause significant QTc/QTf prolongation unless able to be switched to non-QTc/QTf prolonging medication or on a stable dose without significant QT prolongation (> 470 msec)
+Screening ECG QTc interval ?470 msec for females, ?450 msec for males.
+Patients must have QTc interval less than 450 msec
+Normal corrected QT (QTc) interval defined on electrocardiogram (EKG) as QTc =< 440 msec\r\n* Note: patients who are assigned to arm B must have QTc =< 440 msec on day (D)1 and D8 of cycle 1 of eribulin treatments for continued eligibility\r\nPostmenopausal women defined as women with:\r\n* Prior bilateral surgical oophorectomy, or\r\n* Medically confirmed post-menopausal status defined as spontaneous cessation of regular menses for at least 12 consecutive months with no alternative pathological or physiological cause
+Mean resting QTc >470 msec obtained from 3 ECGs
+Subjects with a QTc > 480 msec (QTc > 510 msec for subjects with Bundle Branch Block) at baseline
+Patients with QTc prolongation (defined as a QTc interval equal to or greater than 500 msec) or other significant echocardiogram (ECG) abnormalities are excluded
+QTc > 450 msec
+QTc > 470 msec on electrocardiogram
+Mean QTc >= 450 msec (for males) or QTc >= 470 msec (for females)
+Appropriately corrected screening ECG QTc interval 470 msec for females, 450 msec for males.
+Currently receiving medications known to cause QT prolongation AND corrected QTc of 450 msec for females, 430 msec for males.
+QT/QTc interval > 450 msec, as determined by screening ECG performed no earlier than 1 week before C1D1
+Screening ECG with a QTc > 450 msec.
+Baseline QTc >470 msec and/or previous history of QT prolongation while taking other medications.
+Baseline ATc>470 msec and/or previous history of QT prolongation.
+Mean QTc interval >= 480 msec at screening
+Baseline QTc exceeding 450 msec (470 msec for females) using the Bazetts formula and/or patients receiving class 1A or class III antiarrythmic agents.
+QTc interval <= 300 msec
+Screening ECG QTc interval ? 470 msec for females, ? 450 msec for males.
+Baseline QTc > 470 msec or previous history of QT prolongation while taking other medications
+Grade > 1 QTc prolongation at baseline (> 450 msec by Bazett formula) confirmed by a repeat electrocardiogram (ECG)
+QTc greater than 470 msec.
+Have a QTc interval greater than 470 msec
+QTc with Fridericia’s correction that is not measurable, or >= 480 msec on screening electrocardiogram (ECG); (Note: if a patient has a QTc interval >= 480 msec on screening ECG, the screen ECG may be repeated twice [at least 24 hours apart]; the average QTc from the three screening ECGs must be < 480 msec in order for the patient to be eligible for the study); patients who are receiving a drug that has a risk of QTc prolongation are excluded if QTc is >= 460 msec
+Baseline QTc ?470 msec and no previous history of QT prolongation while taking other medications.
+Subject has electrocardiogram (ECG) showing clinically significant abnormality at screening or an average QTc interval (Fridercia's or Bazett's formula) >450 msec in males and >470 msec in females (>480 msec for subjects with Bundle Branch Block (BBB)).
+Has an 12-lead ECG obtained at screening visit which shows medically significant abnormality(ies) (e.g. left bundle branch block, frequent premature ventricular contractions, QTc interval prolongation > 450 msec for males and > 470 msec for females)
+Screening ECG with a QTc > 450 msec. If QTc > 450 and electrolytes are not within normal ranges, electrolytes should be corrected and then the patient rescreened for QTc.
+QTc with Fridericia's correction that is unmeasurable, or ? 480 msec on screening ECG. The average QTc from the screening ECG (completed in triplicate) must be < 480 msec in order for the patient to be eligible for the study;
+Has QTc (QT interval corrected for rate) prolongation defined as: a) Symptomatic QTc prolongation >450 msec (males) or >470 msec (females) OR b) Any QTc prolongation of >500 msec
+QTc with Bazett’s correction that is unmeasurable or >= 450 msec on screening electrocardiogram (ECG); (Note: if a subject has a QTc interval >= 450 msec on screening ECG, the screen ECG may be repeated twice [at least 24 hours apart]; the average QTc from the three screening ECGs must be < 450 msec in order for the subject to be eligible for the study)
+QTc interval <480 millisecond (msec).
+QTc prolongation >480 msec.

@@ -1,0 +1,5 @@
+Cluster 401: ekg electrocardiogram qtc qt interval corrected significant msec clinically patients 
+Cluster 747: ecg electrocardiogram clinically significant lead abnormal investigator abnormalities findings screening 
+Cluster 1048: qt points resting ecg msec family qtc long electrocardiogram hour 
+Cluster 1258: electrocardiogram qtc msec qt corrected interval ecg screening ekg baseline 
+Cluster 1409: prolonged qtc interval qt corrected msec history electrocardiogram calculated rate 

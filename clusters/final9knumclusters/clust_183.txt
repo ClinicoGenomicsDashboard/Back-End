@@ -1,0 +1,69 @@
+Patients may have received up to one prior systemic therapy for advanced or metastatic renal cell carcinoma with the exception of another VEGF inhibitor Food and Drug Administration (FDA)-approved for advanced RCC (i.e., pazopanib, bevacizumab, sorafenib or axitinib); if a patient develops metastatic disease within six months of discontinuation of adjuvant therapy, this will constitute one prior systemic therapy for advanced or metastatic renal cell carcinoma (RCC); if a patient develops metastatic disease and more than six months has elapsed since discontinuation of adjuvant therapy, this will not constitute prior systemic therapy for advanced or metastatic RCC; patients may have also received prior immunotherapy; patients must not have received a MET/hepatocyte growth factor (HGF) inhibitor or sunitinib as prior therapy; at least 14 days must have elapsed since completion of prior systemic therapy; patients must have recovered from all associated toxicities at the time of registration
+Documented evidence of advanced RCC
+More than 1 prior VEGF-targeted treatment for advanced RCC
+During dose escalation only, an additional population with unresectable advanced and/or metastatic 2nd line RCC patients is allowed
+Patients must have histologically or cytologically confirmed papillary RCC\r\n* Patients with bilateral multifocal disease can have tumors localized to the kidney or have metastatic disease\r\n* Patients with sporadic papillary RCC (but without multifocal disease) should have advanced disease that is considered unresectable
+Diagnosis of advanced RCC associated with HLRCC (cohort 1) or sporadic/non-HLRCC papillary RCC (cohort 2)
+Cohort C: advanced or metastatic (stage 4) RCC
+Prior systemic treatment of any kind or radiotherapy for RCC
+Has at least 1 measurable solid RCC tumor and no RCC tumor that requires immediate surgical intervention. The diagnosis of RCC can be radiologic (histologic diagnosis not required). Patients may have VHL disease-associated tumors in other organ systems
+Has received no prior systemic therapy for advanced RCC.
+Has received prior radiotherapy for RCC.
+Advanced or metastatic RCC
+No more than three total prior systemic treatment regimens in the advanced or metastatic RCC setting
+Prior systemic therapy for advanced RCC; however, treatment with immunotherapy (i.e., high-dose bolus IL-2, ipilimumab + nivolumab, etc.) is allowed
+Metastatic RCC
+Prior use of systemic checkpoint inhibitors for the management of metastatic RCC is excluded; prior IFN-alpha or IL-2 is allowed
+Radiotherapy for RCC within 14 days of first study treatment with the exception of a single fraction of radiation administered for palliation of symptoms
+Patient has received prior treatment for RCC including surgery, radiation, thermoablation or systemic therapy
+Prior systemic therapy directed at advanced or metastatic RCC
+Must not have had prior systemic therapy for stage IV RCC (except for nivolumab as part of part A of this protocol)
+PHASE I: Histologically confirmed advanced RCC of any subtype
+PHASE II: Advanced RCC associated with 1) HLRCC or SDH (Cohort 1); OR 2) advanced non HLRCC-related papillary RCC (Cohort 2)
+RENAL CELL CARCINOMA (RCC) COHORT INCLUSION CRITERIA: History of histologically-proven locally advanced or metastatic (cT2a-T4NanyMany) chromophobe RCC
+(Dose levels 1 and 2) - may have received one or more systemic treatments or regimens for metastatic RCC; (dose level 3) - cannot have received prior systemic treatment for RCC
+Metastatic RCC
+Recurrent, unresectable, or metastatic RCC or STS (any histologic type) for which pazopanib is an appropriate therapy
+Advanced or metastatic RCC
+Histologically confirmed, previously untreated (treatment-naive) RCC
+No prior systemic therapy for RCC except for one prior adjuvant or neoadjuvant therapy for completely resectable RCC
+Phase 2 expansion: RCC
+Patient must not have received any prior or concurrent systemic therapy for RCC; adjuvant placebo administration is permitted
+For RCC:
+Has received no prior systemic therapy for advanced RCC. Prior neoadjuvant/adjuvant therapy for RCC is acceptable if completed >12 months prior to allocation.
+Has received no prior systemic therapy for advanced RCC.
+Subjects with metastatic RCC who have failed 2 or 3 prior systemic regimens, one of which includes a VEGFR TKI other than sorafenib or tivozanib.
+More than 3 prior regimens for metastatic RCC.
+RCC subjects must have received ?1 prior line of therapy for metastatic disease (Part 1A)
+Prior systemic therapy directed at advanced RCC.
+No prior systemic therapy for RCC with the following exception:
+Prior treatment with systemic therapy for advanced RCC
+For subjects with metastatic RCC who have had no prior systemic treatment for RCC and are considered a poor risk according to Motzer criteria, defined by having >= 3 of the following 5 risk factors for short survival: Karnofsky performance score < 80%, lactate dehydrogenase (LDH) > 1.5 X of ULN, hemoglobin < lower limit of normal (LLN), corrected serum calcium > 10 mg/dL (2.5mM), a time from initial diagnosis of RCC to initiation of systemic therapy of < 1 year
+Advanced/metastatic RCC
+Subjects enrolled in the I-1, I-3 expansion arms and IN-3 addition arms must not have received any prior systemic therapy for RCC with the following exceptions:
+Subjects must have a pathologic diagnosis of advanced renal cell carcinoma (RCC), with histological or cytological confirmation of RCC and must have failed at least 1 prior line of anti-VEGF therapy (including but not limited to sunitinib, and/or sorafenib, and/or bevacizumab and/or pazopanib, and/or axitinib) and must not have received prior therapy with a TORC1 inhibitor (such as temsirolimus or everolimus); or
+Subjects must have a pathologic diagnosis of advanced renal cell carcinoma (RCC) and must have progressed on treatment with a TORC1 inhibitor (such as temsirolimus or everolimus).
+Have localized non-metastatic renal cell carcinoma (RCC) (< pT2, NO, MO), as per the American Joint Committee on Cancer (AJCC) seventh (7th) edition criteria; patients who have not had a biopsy must have a solid renal mass suggestive of RCC with confirmation of RCC at screening biopsy
+Have metastatic RCC with primary tumor in place
+1-2 lines of prior therapy for advanced or metastatic RCC including at least one antiangiogenic therapy or nivolumab + ipilimumab
+Phase 2: Subjects with advanced or metastatic urothelial carcinoma or RCC.
+Patients must not have received systemic therapy for RCC within four weeks prior to registration
+Renal Cell Carcinoma (RCC): --Histologic diagnosis of either clear-cell or papillary RCC (metastatic and unresectable, or bilateral, multifocal, unresectable RCC localized to kidneys).
+Metastatic or locally advanced unresectable RCC. NOTE: Prior nephrectomy is not mandatory.
+Radiotherapy for RCC within 14 days of first study treatment with the exception of a single fraction of radiation administered for palliation of symptoms
+LOCALIZED RCC TREATED WITH PARTIAL NEPHRECTOMY:\r\nHave primary or suspected diagnosis of RCC, with presence of cT1-2 renal mass by diagnostic computed tomography (CT) assessment
+LOCALIZED RCC TREATED WITH PARTIAL NEPHRECTOMY:\r\nScheduled for partial nephrectomy of renal mass
+LOCALIZED RCC TREATED WITH PARTIAL NEPHRECTOMY:\r\nExpected survival of at least 3 months
+LOCALIZED RCC TREATED WITH PARTIAL NEPHRECTOMY:\r\nWritten informed consent available
+LOCALIZED RCC TREATED WITH PARTIAL NEPHRECTOMY:\r\nEastern Cooperative Oncology Group (ECOG) =< 1
+LOCALIZED RCC TREATED WITH PARTIAL NEPHRECTOMY:\r\nNegative serum or urine pregnancy test within 24 hours for females of child bearing age
+LOCALIZED RCC TREATED WITH PARTIAL NEPHRECTOMY:\r\nRecovered from toxicity of any prior therapy to >= grade 1
+ADVANCED RCC TREATED WITH RADICAL NEPHRECTOMY:\r\nHave pathologic or suspected diagnosis of RCC with presence of cT1-4 renal mass and evidence of nodal or metastatic involvement by diagnostic CT assessment
+ADVANCED RCC TREATED WITH RADICAL NEPHRECTOMY:\r\nScheduled for radical nephrectomy and lymph node dissection
+ADVANCED RCC TREATED WITH RADICAL NEPHRECTOMY:\r\nExpected survival of at least 3 months
+ADVANCED RCC TREATED WITH RADICAL NEPHRECTOMY:\r\nECOG =< 2
+ADVANCED RCC TREATED WITH RADICAL NEPHRECTOMY:\r\nNegative serum or urine pregnancy test within 24 hours for females of child bearing age
+ADVANCED RCC TREATED WITH RADICAL NEPHRECTOMY:\r\nRecovered from toxicity of any prior therapy to >= grade 1
+ADVANCED RCC TREATED WITH RADICAL NEPHRECTOMY:\r\nWritten informed consent available
+Previously received cryotherapy of RCC
+Advanced or Metastatic renal cell carcinoma (RCC)

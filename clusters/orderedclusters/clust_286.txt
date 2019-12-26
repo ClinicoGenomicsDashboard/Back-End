@@ -1,0 +1,34 @@
+Any major surgery, extensive radiotherapy, chemotherapy with delayed toxicity, biologic therapy, or immunotherapy within 21 days prior to enrollment
+30.0
+No major surgery within 28 days prior to registration
+97.0
+Any major surgery, extensive radiotherapy, chemotherapy with delayed toxicity, biologic therapy, or immunotherapy within 28 days prior to enrollment and/or daily or weekly chemotherapy without the potential for delayed toxicity within 14 days prior to enrollment
+68.0
+Any major surgery, extensive radiotherapy (> 15 days of treatment), chemotherapy with delayed toxicity, biologic therapy, or immunotherapy within 21 days prior to first dose of study treatment and/or daily or weekly chemotherapy without the potential for delayed toxicity within 14 days prior to first dose of study treatment
+130.0
+No history of major surgery =< 14 days prior to registration
+440.0
+No history of major surgery =< 28 days of registration
+34.0
+No major surgery =< 14 days prior to registration
+20.0
+Patients must not have received any major surgery or immunotherapy within 28 days prior to registration
+280.0
+Ibrutinib must be discontinued 7 days before (when possible) until 7 days after major surgery, and 3 days before (when possible) until 3 days after minor surgery; thus, patients to be enrolled on an ibrutinib trial must have completed major surgery > 7 days before initiating treatment, and/or must have completed minor surgery > 3 days before initiating treatment
+52.0
+Patients must not have had major surgery within 28 days prior to registration or be scheduled for surgery during the projected course of protocol treatment; tumor biopsy is allowed
+223.0
+No major surgery within 21 days of registration with stabilization or resolution of surgical adverse events
+110.0
+No major surgery =< 7 days prior to registration and no minor surgery =< 3 days prior to registration (with the exception of intravenous access placement, e.g. Hickman or peripherally inserted central catheter [PICC])
+302.0
+Major surgery within 21 days of starting protocol treatment
+82.0
+Major surgery within 21 days of starting protocol treatment
+50.0
+Major surgery within 30 days prior or during the study period
+46.0
+No major surgery within 28 days prior to randomization
+766.0
+Any major surgery, extensive radiotherapy, chemotherapy with delayed toxicity (e.g. doxorubicin), biologic therapy, or immunotherapy within 21 days prior to enrollment and/or daily or weekly chemotherapy (e.g. sunitinib, sorafenib and pazopanib) without the potential for delayed toxicity within 14 days prior to enrollment
+27.0

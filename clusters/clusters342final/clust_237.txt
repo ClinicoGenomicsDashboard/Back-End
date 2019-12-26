@@ -1,0 +1,16 @@
+Patients with a serum creatinine > 1 are eligible if they have a calculated glomerular filtration rate (GFR) of >= 60 ml/min (i.e. class I or class II chronic kidney disease ) using the Modification of Diet in Renal Disease (MDRD) formula* Note: Daily creatinine and MDRD formula are only for the 1st induction cycle
+Patients must have a serum creatinine =< the IULN AND measured or calculated creatinine clearance >= 60 cc/min using the Cockroft-Gault formula
+REGISTRATION #2 - PRIOR TO CONSOLIDATION CHEMOTHERAPY: Patients must have a serum creatinine =< (IULN) AND measured of calculated creatinine clearance >= 60 cc/min using the Cockroft-Gault formula
+Calculated creatinine clearance by Cockcroft-Gault formula >= 30 ml/min obtained within 2 weeks prior to registration
+RANDOMIZED PHASE II (ARMS K AND L): Calculated creatinine clearance by Cockroft-Gault formula >= 30 ml/min, obtained within 2 weeks prior to registration
+Serum creatinine =< the IULN OR measured or calculated creatinine clearance >= 50 mL/min using the following Cockcroft-Gault Formula within 28 days prior to sub-study registration
+Calculated creatinine clearance >= 60 mL/min; the serum creatinine value used in the calculation must have been obtained within 28 days prior to registration; use the modified Cockcroft-Gault formula
+Calculated creatinine clearance of > 50 mL/min using the Cockcroft-Gault formula, must be obtained within 8 weeks prior to screening for protocol therapy
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Calculated creatinine clearance of > 50 mL/min using the Cockcroft-Gault formula
+Creatinine =< 1.5 x ULN OR creatinine clearance >= 40 mL/min/1.73 m^2 (calculated using the Chronic Kidney Disease-Epidemiology Collaboration [CKD-EPI] equation or Cockroft-Gault formula) for patients with creatinine levels above institutional normal
+Creatinine within normal institutional limits OR creatinine clearance >= 60 mL/min using the modified Cockcroft-Gault formula
+Creatinine clearance >= 50 mL/min by either measured (using the Cockcroft-Gault, Modification of Diet in Renal Disease [MDRD] or Chronic Kidney Disease Epidemiology [CKD-EPI] formula) or calculated clearance (i.e. glomerular filtration rate [GFR])
+Creatinine clearance >= 60 mL/min by the modified Cockcroft-Gault formula; timeline: within 3 weeks prior to enrollment
+Calculated creatinine clearance must be > 60 ml/min using the Cockcroft-Gault formula within 4 weeks prior to randomization
+Measured creatinine clearance (CL) > 40 mL/min OR calculated creatinine clearance (CL) > 40 mL/min as determined by Cockcroft-Gault (using actual body weight)
+Within 28 days prior to administration of study treatment: Creatinine clearance >= 51 mL/min, calculated using Cockcroft-Gault formula

@@ -1,0 +1,20 @@
+Serum triglyceride level =< 300 mg/dL (=< 3.42 mmol/L)
+Serum cholesterol level =< 300 mg/dL (7.75 mmol/L)
+Fasting cholesterol =< 300 mg/dL and triglycerides =< 2.5 x IULN obtained within 28 days prior to registration; patients may be on lipid lowering agents to reach these values
+Serum triglyceride =< 300 mg/dL (applicable only for dose levels that include isotretinoin) (note that a non-fasting triglyceride value could be obtained, if this is > 300 mg/dL then a fasting triglyceride should be obtained and patient will be eligible if the fasting level is =< 300 mg/dL)
+TREATMENT: For patients on everolimus, fasting serum cholesterol =< 300 mg/dL OR =< 7.75 mmol/L AND fasting triglycerides =< 2.5 x upper limit of normal (ULN); NOTE: in case one or both of these thresholds are exceeded, the patient can receive everolimus on study only after initiation of appropriate lipid lowering medication with follow up documentation of values below the above cut-off
+Fasting serum cholesterol =< 300 mg/dL
+Fasting triglycerides =< 300 mg/dL
+Fasting triglycerides =< 300 mg/dL
+Patients with a prior cumulative cisplatin dose > 300 mg/m^2 (pertains to Arm A only)
+Fasting triglyceride =< 200 mg/dL; ONLY APPLICABLE for patients with NF2 mutation (GSK2256098)
+Fasting cholesterol =< 240 mg/dL; ONLY APPLICABLE for patients with NF2 mutation (GSK2256098)
+Fasting triglycerides =< 300 mg/dL (3.42 mmol/L)
+Cholesterol =< 300 mg/dL (7.75 mmol/L)
+Fasting cholesterol less than or equal to 300 mg/dl; fasting triglycerides less than or equal to 300 mg/dl
+Within less than or equal to 14 days prior to registration: Fasting triglycerides =< 300 mg/dL
+Serum triglyceride level =< 300 mg/dL
+Serum total cholesterol level =< 300 mg/dL
+Patients must have a serum triglyceride level =< 300 mg/dL and serum cholesterol level =< 300 mg/dL; if an initial random draw (i.e. non-fasting) is out of range, it is acceptable to repeat this test as a fasting draw
+Serum triglyceride level =< 300 mg/dL within 7 days prior to enrollment
+Serum total cholesterol level =< 300 mg/dL within 7 days prior to enrollment

@@ -1,0 +1,179 @@
+Patients must have had histologic verification of malignancy at original diagnosis or relapse\r\n* Parts A & C: patients with recurrent or refractory solid tumors, without central nervous system (CNS) tumors or known CNS metastases, are eligible; note: CNS imaging for patients without a known history of CNS disease is only required if clinically indicated\r\n* Part B: patients with relapsed or refractory neuroblastoma\r\n* Part B: patients with relapsed or refractory osteosarcoma\r\n* Part B: patients with relapsed or refractory rhabdomyosarcoma\r\n* Part B: patients with relapsed or refractory Ewing sarcoma or peripheral primitive neuroectodermal tumor (PNET)\r\n* Part B: patients with relapsed or refractory Hodgkin lymphoma\r\n* Part B: patients with relapsed or refractory non-Hodgkin lymphoma\r\n* Part B: patients with unresectable melanoma or metastatic melanoma or relapsed melanoma or refractory melanoma\r\n* Part B: Patients with relapsed or refractory neuroblastoma (MIBG evaluable disease without Response Evaluation Criteria in Solid Tumors [RECIST] measurable lesion)\r\n* Once the dose-escalation portion of Part A is completed, cohorts that are open concurrently for eligible patients (including Parts B and C and potential pharmacokinetic [PK] expansion cohorts) may be selected at the treating physicians discretion pending slot availability; in the event a disease group cohort in Part B is completed after the initial stage of Simons optimal two-stage design, for selected disease cohorts, a corresponding cohort in the same disease group for select disease types will be open in Part D:\r\n* Part D: Patients with relapsed or refractory neuroblastoma\r\n* Part D: Patients with relapsed or refractory osteosarcoma\r\n* Part D: Patients with relapsed or refractory rhabdomyosarcoma\r\n* Part D: Patients with relapsed or refractory Ewing sarcoma or peripheral PNET \r\n* Part D: Patients with relapsed or refractory non-Hodgkin lymphoma\r\n* Part D: Patients with relapsed or refractory neuroblastoma (MIBG evaluable disease without RECIST measurable lesion)\r\n* Part E: Patients with relapsed or refractory rhabdomyosarcoma\r\n* Part E: Patients with relapsed or refractory Ewing sarcoma or peripheral PNET
+Part B: Patients with relapsed or refractory neuroblastoma
+Part C: Patients with relapsed or refractory medulloblastoma or CNS PNET
+Part D: Patients with relapsed or refractory rhabdomyosarcoma
+Relapsed or refractory acute myelocytic leukemia (AML) with nucleophosmin- (NPM) mutations and no available therapies.
+Relapsed or refractory mantle cell lymphoma (MCL) with no adequate therapies.
+Confirmed diagnosis of a relapsed or refractory malignancy in  of  treatment groups:
+Diagnosis of relapsed or refractory lymphoid malignancy for which there are no available therapies.
+Pathologically confirmed relapsed or refractory lymphoma
+Confirmed evidence of relapse/disease progression from immediately prior MM therapy or relapsed and refractory to the immediately prior treatment; relapsed and refractory disease is defined as those who are non-responsive (< minimal response) on salvage therapy or experience disease progression within  days of last therapy in patients who have achieved an MR or better to previous therapy; relapsed disease is defined as previously treated myeloma that progresses and requires the initiation of salvage therapy but does not meet IMWG criteria for relapsed and refractory
+Relapsed or refractory to the most recently received therapy.
+All pts must have received prior lenalidomide therapy and been determined to be refractory, relapsed, or intolerant.
+For Daratumumab + lenalidomide + dexamethasone (D-Rd) regimen: relapsed or refractory disease
+Relapsed or refractory disease after at least  prior regimen, defined using the  Lugano classification
+Patient must have disease that has either relapsed or is refractory to prior therap
+Part D only: Patients diagnosed with CLL who are intolerant to, or have disease that is relapsed/refractory after, at least two prior therapies
+Part F only: Patients with documented HTLV- infection and histologically or cytologically proven ATLL of any stage, and who are intolerant to, or have disease that is relapsed/refractory after, at least one prior therapy
+The patient has confirmed relapsed or refractory MM
+Previous treatment with nelarabine for relapsed or refractory disease
+requiring treatment for relapsed or relapsed/refractory disease
+AML relapsed or refractory to prior therapy, or ?  years of age and not a candidate for other therapies Phase a:
+Patients must have relapsed or refractory disease following at least two prior platinumcontaining chemotherapy regimens
+Patients with T-cell lymphoma (untreated, relapsed or refractory) (Phase II)
+Patients with previously untreated or relapsed/refractory disease will be eligible
+Patients must have histologic evidence of relapsed or refractory B-cell ALL
+Patient must have relapsed/refractory disease with an indication for treatment
+Relapsed or relapsed/refractory disease
+Relapsed or refractory B-precursor ALL defined as one of the following:
+Relapsed or refractory disease after first or later salvage therapy
+Relapsed or refractory after at least one prior treatment regimen
+AML that is refractory to or relapsed after standard induction therapy.
+Disease status defined as refractory to or relapsed after >= prior treatment lines.
+Relapsed or refractory AML, who require salvage therapy
+Relapsed and/or refractory disease on at least  prior treatment regimen, as follows:\r\n* Aggressive B-cell lymphoma: relapsed after and/or refractory to at least  prior doxorubicin-containing regimen\r\n* Indolent B-cell lymphoma: relapsed after and/or refractory to at least  prior rituximab-containing regimen
+Patients >=  years of age with relapsed/refractory Ph-positive ALL.
+Patients must have CD+ B cell malignancy with relapsed or refractory disease, defined as below:\r\n* Patients with chronic lymphocytic leukemia (CLL):\r\n** Refractory to or relapsed after at least  prior chemo or chemoimmunotherapy (e.g. fludarabine, cyclophosphamide, rituximab [FCR], bendamustine plus rituximab [BR]) requiring further treatment \r\n** Refractory to or relapsed after at least  prior biologic agent (e.g. ibrutinib, idelalisib, venetoclax, except a single agent anti-CD monoclonal antibody) requiring further treatment\r\n* Patients with indolent non-Hodgkin lymphoma (iNHL) (follicular lymphoma [FL], marginal zone lymphoma [MZL], Waldenstrom macroglobulinemia [WM]):\r\n** Refractory or relapsed after at least  lines of chemoimmunotherapy (including at least one course of anti-CD antibody)\r\n** Refractory or relapsed after at least  prior biologic agent (e.g. lenalidomide, ibrutinib, idelalisib)\r\n** Patients must have measurable disease (for WM patients, measurable disease is demonstrable monoclonal paraprotein and bone marrow involvement)\r\n* Patients with diffuse large B cell lymphoma (DLBCL), transformed B cell lymphoma, or high grade B cell lymphoma:\r\n** Refractory to or relapsed after  or more prior chemoimmunotherapies with at least one containing an anthracycline and CD directed therapy\r\n** Transplant ineligible\r\n** Biopsy proven relapsed disease\r\n* Patients with acute lymphoblastic leukemia (ALL), chronic myeloid leukemia (CML) in lymphoid blast crisis or Burkitts lymphoma:\r\n** Refractory to at least  prior induction chemotherapy\r\n** Relapsed after at least  prior multiagent systemic chemotherapy that included induction and consolidation\r\n** Patients with Philadelphia chromosome-positive ALL must have failed a second generation tyrosine kinase inhibitor
+Diagnosis of acute myeloid leukemia (AML) (other than acute promyelocytic leukemia [APL]) with refractory/relapsed disease; patients with relapsed/refractory high-risk ([intermediate- or higher by International Prognostic Scoring System [IPSS] and/or >= % blasts]). Myelodysplastic syndrome (MDS) will also be eligible. (Treatment approach for relapsed/refractory AML is very similar to that of high risk MDS)
+Relapsed or refractory B-cell NHL, including
+Refractory to or relapsed after at least two prior standard therapeutic regimens for advanced/metastatic TNBC. Prior use of cisplatin (or carboplatin) is permitted.
+Patients must have relapsed or refractory cancers for which there is no known curative option
+Evidence that the endometrial cancer is advanced, recurrent, or persistent and has relapsed or is refractory to curative therapy or established treatments.
+Part A: Relapsed or refractory extracranial solid tumors and (Phase b expansion) relapsed or refractory extracranial solid tumors with molecular alterations, non-gene fusions;
+Part C: Relapsed or refractory neuroblastoma;
+Relapsed/refractory disease
+with relapsed or refractory disease without established alternative therapy or
+Relapsed, refractory, or recurrent malignancy; all solid tumor diagnoses will be eligible
+All patients with histologically or cytologically confirmed relapsed or refractory AML (except acute promyelocytic leukemia); relapsed disease or refractory (refractory to a non-high-dose cytarabine-containing regimen only); receiving st, nd or rd salvage; any cytogenetic or molecular abnormality; patients with secondary AML (after prior myelodysplasia or therapy for other cancers) will be included
+Patients must meet one of the following disease criteria within  months of registration; salvage therapy is allowed between the patient meeting one of the below criterion and registration; patients will be considered eligible regardless of their current disease status (i.e. complete remission, partial remission, stable disease, progressive disease) unless otherwise noted below as long as one of the below criterion has been met within the previous  months :\r\n* Relapsed/refractory Hodgkin lymphoma after autologous stem cell transplant (ASCT)\r\n* Relapsed/refractory Hodgkin lymphoma, deemed ineligible for ASCT due to refractory disease\r\n* Relapsed/refractory diffuse large B cell lymphoma after ASCT (history of transformed lymphoma is acceptable); disease must be in at least complete remission or partial remission with the use of salvage therapy before study treatment commences\r\n* Relapsed/refractory diffuse large B cell lymphoma, deemed ineligible for ASCT due to refractory disease (history of transformed lymphoma is acceptable); disease must be in at least complete remission or partial remission with the use of salvage therapy before study treatment commences\r\n* Relapsed/refractory T cell lymphoma relapsed after at least  prior line of therapy\r\n* Relapsed/refractory follicular lymphoma relapsed after at least  prior line of therapy\r\n* Relapsed/refractory mantle cell lymphoma relapsed after at least  prior line of therapy\r\n* Relapsed/refractory small lymphocytic lymphoma/chronic lymphocytic leukemia relapsed after at least  prior line of therapy\r\n* Relapsed/refractory non-Hodgkin lymphoma, if not specified above, relapsed after at least  prior line of therapy
+Relapsed/refractory lymphoma after CTL
+Participants who are either refractory to or relapsed within  days of receiving a regimen containing a cumulative dose of greater than or equal to (>/=)  g/m^ of cytarabine
+Refractory to or relapsed after at least  prior treatment regimen
+Patients with malignancy that is suspected or proven to have progressed, relapsed, or be persistent since progressive, relapsed or persistent malignancy documented since BMT
+PHASE II COMPONENT: The population will be restricted to relapsed/refractory sarcomas
+Must have relapsed or refractory acute lymphoblastic leukemia (ALL) or relapsed or refractory lymphoblastic lymphoma (LL). Refractory is defined as persistent disease after at least  courses of chemotherapy.
+Patients must have histologically confirmed relapsed/refractory or previously untreated mantle cell lymphoma (any stage)
+Patients with previously treated B-cell ALL (relapsed and/or refractory after prior therapy)
+Patients must have relapsed or refractory acute leukemias or high-risk MDS for which no standard therapies are anticipated to result in a durable remission
+Relapsed/refractory disease that has failed conventional therapy and other therapies of higher priority
+Relapsed or refractory to no more than  course of a systemic therapy regimen and is incurable by either surgery or radiation.
+Burkitts or Burkitt-like leukemia/lymphoma, either previously untreated, or relapsed/refractory, or human immunodeficiency virus (HIV)-related; patients HIV positive will be described and reported separately or relapsed/refractory acute lymphoblastic leukemia (ALL)
+Patients who are not candidates for, intolerant, or relapsed/refractory to ruxolitinib
+Refractory to or relapsed after at least  prior treatment regimen
+Relapsed/refractory MCL: Patient has relapsed and or refractory MCL and must have received at least one prior treatment regimen for their disease; patient with leukemia phase (peripheral blood involvement), leptomeningeal disease, cerebral spinal fluid (CSF) MCL, central nervous system (CNS) MCL, non-measurable disease, gastrointestinal (GI) MCL, or bone marrow (BM) MCL are also eligible
+Relapsed/refractory MCL: Patients with bone marrow or gastrointestinal (GI) only involvement are acceptable
+Relapsed/refractory MCL: The patient has a prior or concurrent malignancy that in the opinion of the investigator, presents a greater risk to the patients health and survival, than of the MCL, within the subsequent  months at the time of consent
+Relapsed/refractory MCL: Prior treatment with ibrutinib
+Relapsed or refractory AML
+Relapsed or refractory to the most recently received therapy; refractory disease is defined as =< % response or progression during therapy or within  days after completion
+Relapsed/refractory to at least one prior standard systemic treatment regimen, but no more than .
+Relapsed disease
+Primarily refractory or relapsed disease
+Relapsed ALL PATIENT CHARACTERISTICS:
+Patients with relapsed/refractory CMML.
+Refractory to or relapsed after at least  prior treatment regimen
+Pathologically confirmed relapsed or refractory (primary refractory and relapsed refractory) Acute Myeloid Leukemia (AML) (defined by World Health Organization (WHO) criteria) for which no further conventional therapy is suitable for the patient, or confirmed myelodysplastic syndrome defined according to WHO classification, with an International Prognostic Scoring System (IPSS) risk category of intermediate- or high risk, that is relapsed, refractory or intolerant to conventional therapy within  weeks of registration.
+Relapsed/refractory disease
+The subject must have precursor B-cell or T-cell acute lymphoblastic leukemia. B-cell: relapsed or refractory after first or subsequent salvage therapy; or T-cell: relapsed or refractory with first remission duration less than or equal to  months in first salvage; or relapsed or refractory after first or subsequent salvage therapy
+Histological confirmation of relapsed or refractory AML after prior anti-leukemic therapy by WHO Classification
+Patients with relapsed/refractory CLL defined as having received ? treatment regimens that included:
+Phase I: Pathologically confirmed relapsed or refractory B cell lymphoma; must have relapsed after initial therapy; no restriction in number of prior lines of therapy
+Phase II: Pathologically confirmed relapsed or refractory HL; no restriction in number of prior lines of therapy
+Biopsy proven WM with relapsed/refractory symptomatic disease are eligible for\n             enrollment.
+Refractory or relapsed HL patients that are also candidates for ASCT
+Medulloblastoma or PNET of childhood that has relapsed or become refractory to standard chemotherapy; patients with pineoblastoma are eligible
+* Phase  (Part B): Patients with ALK+ relapsed or refractory neuroblastoma
+* Phase  (Part C): Patients with ALK+ relapsed or refractory ALCL (excluding patients with primary cutaneous ALCL)
+Relapsed, refractory, or progressive disease following at least  prior systemic therapies
+Portion B: Histological confirmed relapsed or refractory CD positive NHL for which no curative therapy is available. Patients enrolled in the expansion cohort must have archival tissue available, sampled within  months of study entry. The Expansion cohort includes patients with FL or DLBCL with relapsed or refractory disease.
+Relapsed or refractory Richter syndrome and has received ? previous treatment for RS.
+Phase  expansion: Relapsed or refractory DLBCL
+Relapsed or refractory pediatric B-cell ALL:
+Must be relapsed or refractory after  or  prior therapies. For this protocol, relapsed is defined as progressive disease (PD) documented more than  days after last dose; refractory is defined as documented absence of hematologic response or hematologic progression on or within  days after last dose of prior therapy.
+Relapsed or relapsed and refractory MM after receiving at least  previous therapies, including an immunomodulator and bortezomib and had either no response or documented disease progression (according to IMWG criteria) to the most recent treatment regimen
+T-ALL or T-LBL participants with relapsed/refractory disease.
+Relapsed or refractory pediatric B-cell ALL.
+For relapsed/refractory subjects only:
+Relapsed following, or refractory to, previous ASCT
+Relapsed and refractory patients must have achieved at least a partial response to previous treatment with proteosome inhibitor or lenalidomide, or both, but progressed within  months, and were refractory to their last treatment
+Follicular low-grade NHL: either treatment nave (except for France) or relapsed or refractory following at least one prior treatment. In Part  Dose Escalation only, in addition to follicular NHL, marginal zone B cell lymphomas: either treatment nave or relapsed or refractory following at least one prior treatment.
+Male or female patients, ages  years or older with pathologically confirmed relapsed or refractory B-cell lineage NHL who have failed or are intolerant to established therapy, or for whom no other treatment options are available. Refractory or relapsed B-cell NHL (per World health Organization [WHO] Classification system)
+Must have a documented diagnosis of MM and have relapsed or relapsed-and-refractory disease. All patients must have relapsed after having achieved at least stable disease (SD) for at least  cycle of treatment to at least  prior regimen and then developed progressive disease (PD). Relapsed-and-refractory patients also have documented evidence of PD during or within  days of completing last treatment
+relapsed and/or refractory disease
+Pathologically confirmed, relapsed or refractory acute myelogenous leukemia
+Subject who has documented active relapsed or refractory disease requiring therapeutic intervention.
+Treatment Naive MCL patients requiring treatment with no exposure to prior therapies. Relapsed/Refractory patients defined as disease relapsed or been refractory to ?  prior therapies for MCL and requiring further treatment. Patient who discontinued any prior treatment for MCL for tolerability reasons can also be enrolled.
+Subjects must have received prior treatment with a lenalidomide-containing regimen for at least  consecutive cycles (full therapeutic dose) and must have been deemed as relapsed, refractory, or intolerant. Refractory is defined as progressing on-treatment or within  days of the last dose.
+Relapsed or refractory with at least one (FL) or two (MCL), but not more than four, prior lines of antineoplastic regimens.
+Relapsed, refractory or previously untreated CLL
+For relapsed disease:
+Patients with relapsed or refractory AML\r\n* Patients without a response after two cycles of a -day course of decitabine\r\n* Patients with primary refractory AML (persistent disease after standard induction with +) or relapsed AML\r\n* Patients who have relapsed post-allogeneic transplant
+Documented relapsed, refractory or progressive disease after treatment with systemic therapy and must not be Rituximab-refractory.
+Need of treatment for relapsed, progressed or refractory disease as assessed by the investigator.
+Part I: Subjects must have relapsed or refractory B cell NHL
+Dose Escalation: Patients with relapsed or refractory AML
+Have active, relapsed or refractory Acute Myeloid Leukemia (AML). Active, relapsed or refractory AML is defined as either () primary induction failure (PIF) after  or more cycles of chemotherapy, ( first early relapse after a remission duration of fewer than  months, () relapse refractory to salvage combination chemotherapy containing high-dose AraC, and () second or subsequent relapse
+Relapsed or refractory B-precursor ALL defined as one of the following:
+Relapsed or refractory disease after first or later salvage therapy
+Relapsed or refractory CLL patients must meet the following requirements:\r\n* Received at least  prior therapy\r\n* Require treatment in the opinion of the investigator\r\n* Relapsed patients must have developed progressive disease following a response to a prior therapy\r\n* Refractory patients must have failed to respond or relapsed within  months to the last prior therapy
+Relapsed refractory disease after at least  but not more than  lines of previous systemic therapy
+Patients must have relapsed/refractory PCNSL or relapsed/refractory SCNSL
+Active refractory or relapsed acute leukemia
+Subject has relapsed/refractory disease with an indication for treatment
+Relapsed or refractory disease
+Patients with relapsed or refractory AML
+Confirmation of relapsed or refractory DLBCL or transformed lymphoma (TL)
+Disease that has relapsed or was refractory after prior chemo-immunotherapy
+Histologically documented relapsed or refractory (defined as having relapsed within  months to the previous treatment) follicular lymphoma grade I-IIIA
+Diagnosis of Myelodysplastic syndrome (MDS) according to WHO classification with refractory anemia with excess blasts (subtype RAEB- or RAEB-), or considered high-risk by the Revised International Prognostic Scoring System (IPSS-R), that is recurrent or refractory, or the subject is intolerant to established therapy known to provide clinical benefit for their condition (i.e., subjects must not be candidates for regimens known to provide clinical benefit), according to the treating physician and with approval of the Medical Monitor. Phase /Part  Expansion: Arm : Relapsed or refractory AML and age greater than or equal to  years or any subject with AML regardless of age who has relapsed following a Bone marrow transplant (BMT). Arm : Relapsed or refractory AML and age < years, excluding subjects with AML who have relapsed following a BMT. Arm : Untreated AML and age greater than or equal to  years that decline standard of care chemotherapy. Arm : Isocitrate dehydrogenase protein,  (IDH)-mutated advanced hematologic malignancies not eligible for Arms  to . Phase : Diagnosis of AML according to World Health Organization (WHO) criteria and disease relapsed or refractory as defined by:
+Refractory to or relapsed after at least  prior treatment regimen;
+Relapsed or Relapsed/Refractory MM with progressive disease (PD) according to IMWG.
+Patients must have relapsed or progressed after at least one prior therapy
+B-cell CLL: Relapsed from or refractory to ?  prior lines of treatment, ?  of which must have contained rituximab
+Relapsed or refractory B-ALL, defined as:
+Relapsed or refractory AML
+Must have histologically confirmed DLBCL that is relapsed or refractory to previous therapy.
+Relapsed or refractory to hypomethylating agents
+Relapsed/refractory disease failing >=  prior therapies; an exception is patients with KS, where patients can be previously untreated, relapsed/refractory to one or more prior therapies, or intolerant of a prior therapy
+Patients must have relapsed or refractory MCL
+Patients with previously treated ALL (relapsed and/or refractory after prior therapy); patients with relapsed/refractory biphenotypic leukemia expressing the appropriate antigen (CD) are also eligible to participate; pediatric patients younger than  may be considered with sponsor approval once the MTD has been established in the adult population
+Subject must be either resistant to or intolerant of (ie., treatment failures) the last BCR PI and/or venetoclax. Resistant is defined as relapsed or refractory per
+Relapsed, refractory, or progressive disease following at least  prior systemic therapies
+Adults with pathologically confirmed, relapsed or refractory acute myelogenous leukemia OR those  and older who are not candidates for, or decline, conventional frontline chemotherapy
+Patients must have relapsed or refractory disease following:
+Relapsed/refractory MDS
+Patients with relapsed/refractory AML regardless of cytogenetic risk
+Patients with relapsed/refractory ALL
+Patients must have measurable disease, documented by clinical, radiographic, or histologic criteria, and have relapsed or become refractory to conventional therapy
+Confirmed diagnosis of relapsed/refractory AML (WHO criteria) Refractory subjects, up to second consecutive salvage . Relapsed subjects including first and second relapse.
+Adult patients must be relapsed or refractory to at least  prior multi-agent systemic therapy. Pediatric patients must be relapsed or refractory to at least  prior multi-agent systemic therapies. Patients with acute lymphoblastic leukemia who are Philadelphia chromosome-positive must have failed a second generation tyrosine kinase inhibitor.
+Patient has relapsed or refractory disease and received at least one prior therapy.
+Patients with relapsed /refractory AML, ALL, or MLL with rearrangement of the MLL gene, including q or PTD, are eligible for the expanded cohort:
+Histologically confirmed relapsed or refractory FL (Grades , , or a) or relapsed or refractory DLBCL
+B: Refractory or relapsed neuroblastoma
+Relapsed/refractory, pathologically confirmed EBV+ lymphoid malignancy or lymphoproliferative disease
+Participants must have relapsed or refractory cancer.
+Part I: Patients with one of the following histologically- or cytologically-proven conditions: relapsed/refractory AML, relapsed/refractory MDS, or advanced CML in AP or BP (i.e., Acute Group patients).
+Relapsed or refractory AML with poor prognostic features
+Subjects must have either refractory or relapsed and refractory disease defined as documented disease progression during or within  days of completing their last myeloma therapy
+Previously treated relapsed or refractory B-cell iNHL
+Diagnosis of relapsed or refractory chronic lymphocytic leukaemia.
+Patients with relapsed/refractory AML regardless of cytogenetic risk
+Patients with relapsed/refractory ALL
+Patients with relapsed or persistent malignancy requiring immunosuppressive withdrawal or modulation (an example of this may be a patient who relapsed and was being treatment with DLI and then developed GvHD)
+Relapsed or refractory to the most recently received therapy. Relapsed is defined as documented evidence of PD after achieving at least SD for ?  cycle. Refractory disease is defined as ? % response (i.e., patients never achieved minimal response or better) or progression during therapy or within  days after completion of therapy.
+Expected chronic thrombocytopenia in patients with relapsed or refractory hematological malignancies or;
+Relapsed/refractory disease within a prior radiation field
+Confirmed relapsed/refractory diagnosis of select hematologic malignancies for which no standard/salvage therapies are available.
+Subjects who have relapsed or refractory MDS.
+Patients must have relapsed/refractory PCNSL or relapsed/refractory SCNSL
+Patients with a relapsed and/or refractory underlying hematologic malignancy
+Disease Status: Refractory or first or multiple relapsed neuroblastoma, or medulloblastoma that has relapsed after, or is refractory to, a chemotherapy-containing treatment regimen.
+Relapsed or is refractory to previous therapy, or
+Relapsed/persistent malignancy
+Relapsed/Refractory Cohorts: Pathologically confirmed relapsed or refractory (primary refractory and/or relapsed refractory) AML or confirmed intermediate, high, or very high risk MDS that is relapsed, refractory or intolerant to conventional therapy
+Patients must have had evidence of having relapsed, progressed or become refractory to conventional therapy
+Participants who are relapsed after or refractory to regimens containing venetoclax or other BCL inhibitors.
+In the Dose Escalation Segment, patients who are refractory, relapsed, or unresponsive to standard treatment.
+Relapsed or refractory AML (Acute Myeloid Leukemia) (Parts A and B) or relapsed or refractory high-risk MDS (Myelodysplastic Syndrome) (Part B only) as defined by World Health Organization criteria who are not suitable for other established therapies.
+Patients with relapsed or refractory disease with no available standard therapy

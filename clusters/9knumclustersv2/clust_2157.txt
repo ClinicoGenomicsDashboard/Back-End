@@ -1,0 +1,42 @@
+Platelet count >= ,/mcL
+Platelet count > ,/mcl
+Platelet count >  k/mcL
+Platelet count > , cells/mcL
+Platelet count >= ,/mcL
+Platelet count >= ,/mcL
+Platelets ?,/mcL (non-transfused platelet count)
+Platelet count >= ,/mcL
+Platelet count >= ,/mcL, within  days of starting therapy
+Platelet < ,/mcL
+Platelet count >=  k/mcl, obtained within  days prior to first study treatment
+Thrombocytosis defined as platelet count > ,,/mcL
+Platelet >= , / mcL
+Platelet count >= /mcL
+Platelet count >/=, cells/mcL, or >/=, cells/mcL if more than % bone marrow involvement (Cohorts A, B, D, E, F)
+Platelet count >= ,/mcL
+PHASE II: Platelet count >= ,/mcL
+Platelet count >= ,/mcL
+Platelet count >= ,/mcL
+Platelet > , mcL
+Platelet count <  K/mcL
+REGISTRATION TO TREATMENT (STEP ): Platelet count >= , /mcL, within  days prior to first dose of pembrolizumab
+REGISTRATION TO TREATMENT (STEP ): Platelet count >= , /mcL, within  days prior to first dose of pembrolizumab
+Platelet count > ,/mcL
+Platelet count > ,/mcL
+Platelet count >= , cells/mcL
+Platelet count <  K/mcL at time of enrollment
+Platelet count > , cells/mcL (  ^/L)
+Platelet count >= ,/mcL
+Platelet count >= ,/mcl
+Platelet count >=  K/mcL
+Platelet count >= ,/mcL
+Platelet count >= ,/mcL
+Platelet count >= ,/mcl
+Platelet count of at least , per mcL
+Platelet count >= ,/mcL
+Most recent platelet count prior to surgery < ,/mcl
+Platelet count > ,/mcL
+Thrombocytopenia:\r\n* Defined as platelet count < ,/mcL\r\n* The patient will have had at least  complete blood counts (CBC) with platelet counts < ,/mcL separated by at least  weeks, and no platelet count >= ,/mcL in the prior  week period, despite () delay or () modification of chemotherapeutic regimen\r\n* A platelet count of > ,/mcL, that follows within  days of a platelet transfusion, will not make the patient ineligible, as long as one or more subsequent platelet counts confirms thrombocytopenia (< ,/mcL)\r\n* Patients have undergone bone marrow aspirate and biopsy, or peripheral blood test in the prior  months, without evidence of leukemia or myelodysplasia by fluorescent in situ-hybridization (FISH)\r\n* Dysplastic changes, based on morphology only, will not exclude the patient if FISH panel for myelodysplastic syndrome (MDS) is normal
+Platelet count >= ,/mcL
+Platelet count >= ,/mcL
+Platelet count <,/mcL.

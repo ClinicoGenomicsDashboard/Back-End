@@ -1,0 +1,7 @@
+Cluster 522: calculated creatinine clearance min ml measured serum uln days obtained 
+Cluster 886: creatinine clearance min ml estimated serum uln renal cc measured 
+Cluster 1017: creatinine range serum normal min ml clearance outside renal reference 
+Cluster 1039: creatinine mg clearance min ml dl serum calculated measured estimated 
+Cluster 1173: crcl creatinine min ml clearance calculated serum uln measured renal 
+Cluster 1717: creatinine clearance hour urine min ml collection calculated serum measured 
+Cluster 1963: creatinine normal age patients clearance grade biopsy renal serum prior 

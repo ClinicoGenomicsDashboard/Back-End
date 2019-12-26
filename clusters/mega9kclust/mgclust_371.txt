@@ -1,0 +1,6 @@
+Cluster 385: prostate cancer prior chemotherapy diagnosis therapy treatment resistant metastatic castration 
+Cluster 1323: adjuvant neo chemotherapy therapy prior treatment months cancer received completion 
+Cluster 1971: chemotherapy received prior patients radiation therapy cancer radiotherapy previous adjuvant 
+Cluster 2149: fulvestrant treatment prior combination endocrine cohort therapy received study dose 
+Cluster 2413: endocrine therapy breast cancer prior adjuvant chemotherapy metastatic treatment received 
+Cluster 2470: remains received chemotherapy prior localized pelvic adjuvant years abdominal cancer 

@@ -1,0 +1,35 @@
+Patients must have an estimated survival greater or equal to  months
+Participants with active infection(s) for which they are receiving drug treatment unless the clinical status is judged to be stable and survival is estimated to be at least  weeks
+ECOG performance status of  -  and estimated survival of at least  months
+Estimated survival of at least  weeks;
+Patients must have at least one of the following for a diagnosis/disease status:\r\n* Unresectable disease\r\n* Metastatic disease\r\n* Medically unfit for surgical resection but with an expected survival of >  months, Eastern Cooperative Oncology Group (ECOG) <  and New York Heart Association (NYHA) status =< II\r\n* Disease where no conventional therapy leads to a survival benefit >  months in the respective cohort and line of therapy for which the patient is otherwise eligible\r\n* Actionable alterations determined by FoundationOne
+Presence of any other medical complication that implies survival of less than six months
+For known primary, disease-specific graded prognostic assessment (ds-GPA) estimated median survival no less than  months
+For unknown primary, graded prognostic assessment (GPA) estimated median survival no less than  months
+Patients who have a known primary and have an estimated median survival less than  months per ds-GPA
+Patients who have an unknown primary and have an estimated median survival less than  months per GPA
+Estimated survival >=  months
+Participants with a serious medical illness that may limit survival to less than  months
+No known Food and Drug Administration (FDA) -approved therapy available that is expected to prolong survival by greater than  months
+Predicted survival of >  months
+Surgeon's estimated survival >=  month
+Estimated survival <  month
+Patients with an estimated survival of less than three months.
+Estimated survival of at least  weeks
+Estimated survival of at least  months
+Patients must have a reasonable expectation of ?  months survival
+Estimated survival ?  months.
+An estimated progression-free survival of less than one year
+Survival expectation of  weeks or longer after starting study drug
+Similar condition with an expectation of > % five-year disease-free survival
+Survival expectation of  weeks or longer after starting study drug.
+Patients must have an estimated survival greater than or equal to  months
+Presence of any other medical complications that imply a survival of less than six months
+No known Food and Drug Administration (FDA)-approved therapy available thats expected to prolong survival by greater than  months
+Patients with an estimated survival of less than one year are not eligible
+Have a -year survival rate of % or greater as deemed by their oncologist, surgeon, or other relevant attending physician (suggesting a reasonable rate of cure or prolonged medical survival with state-of-the-art medical care).
+Survival less than  months after surgery (either predicted survival before surgery or actual survival after surgery <  months)
+Patients with an ECOG performance status of , , or , and estimated survival of >  weeks.
+If survival is deemed less than  months for any medical condition
+Estimated survival of at least  months.
+Patient may have distant metastatic disease provided the estimated survival is at least  year

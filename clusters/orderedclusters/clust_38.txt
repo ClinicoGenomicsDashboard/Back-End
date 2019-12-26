@@ -1,0 +1,16 @@
+Patient must have a left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO) or multigated acquisition (MUGA) within 28 days prior to registration
+97.0
+Left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO)
+40.0
+Left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO), within 2 weeks of the first dose of study treatment
+18.0
+Left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO)
+68.0
+Left ventricular ejection fraction (LVEF) >= institutional lower limit of normal (LLN) by echocardiogram (ECHO) or multigated acquisition scan (MUGA)
+68.0
+Left ventricular >= institutional lower limit of normal (LLN) by echocardiogram (ECHO) ejection fraction
+32.0
+Left ventricular ejection fraction >= institutional lower limit of normal (LLN) by echocardiogram (ECHO)
+18.0
+Left ventricular ejection fraction (LVEF) >= institutional lower limit of normal (LLN) by echocardiogram (ECHO) or multigated acquisition scan (MUGA) within 30 days of day 1 of study
+27.0

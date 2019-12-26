@@ -1,0 +1,144 @@
+Albumin >= 2.8 g/dL
+Albumin >= 2 g/dl
+Albumin >= 2.0 g/dL
+Albumin ? 2.0 g/dL
+Albumin ?3 g/dL
+Albumin >= 2.5 g/dL
+Albumin > 3.0 g/dL.
+Albumin > 3 g/dL
+Albumin >= 2.8 g/dL
+Albumin >= 2 g/dL
+Albumin >= 2.4 g/dL
+Albumin ? 3.0 g/dL.
+Albumin >= 2 g/dl
+Albumin >= 2.5 g/dl
+Albumin > 2.8 g/dL.
+Albumin ? 3.0 g/dl
+Albumin at least 2.8 g/dL
+Albumin > 2.7 g/dL
+Albumin >= 2.8 g/dL
+Albumin >= 3.0 g/dL
+Albumin >= 2.5 g/dL
+Albumin level ?3 g/dL
+Albumin >= 2.0 g/dL
+Albumin >= 2.5 g/dL
+Albumin >= 3 g/dL.
+Albumin >= 2.5 g/dL
+Albumin >= 2.0 g/dL
+Albumin ? 2 g/dL
+Albumin > 2.8 g/dl
+Albumin >= 2.5 g/dL
+Albumin > 2.7 g/dL
+Albumin ? 3g/dL
+Albumin > 2.8 g/dL.
+Albumin > 3.0 g/dl
+Albumin > 2.5 g/dL
+Albumin >= 2.5 g/dL
+Albumin < 2.0 g/dL or < 20 g/L
+Albumin >= 2.5 g/dL
+Albumin < 2.0 g/dL or < 20 g/L
+Albumin > 2.5 g/dL
+Albumin >= 2.5 g/dL
+Albumin >= 2.5 g/dL
+Albumin > 2.4 g/dL
+Albumin > 2.4 g/dL
+Albumin > 2 g/dL
+Albumin >= 2 g/dl
+Albumin < 30 g/L (3.0 g/dL) at screening
+Albumin >= 2.5 g/dL
+Albumin >= 2 g/dL
+Albumin >= 2g/dL
+Low baseline albumin < 3.5 g/dl
+Albumin ? 2.5 g/dL
+albumin ? 2.8 g/dL.
+Albumin >= 3 g/dl
+Albumin >= 2.0 g/dL
+Albumin >= 2.5 g/dL
+Albumin >= 2.5 g/dL
+Albumin > 2.7 g/dL
+Albumin >= 2.5 g/dL
+Albumin >= 3 g/dl
+Albumin >= 2.5 g/dl
+Albumin > 2 g/dL
+Albumin >= 2.5 g/dL
+Albumin > 2.5 g/dL
+Albumin >= 3.0 g/dL
+Albumin >= 2.5 g/dL
+Albumin >= 2.5 g/dL
+Albumin >= 2.5 g/dL
+Albumin >= 2.5 g/dL
+Albumin < 2.0 g/dL or < 20 g/L
+Albumin >= 2.8 g/dL
+Albumin >= 2.5 g/dL
+Albumin greater than or equal to 3.0 g/dL
+Albumin ? 3.0 g/dL
+Albumin > 3.0 g/dL
+Albumin >= 2.5 g/dL
+Subject has albumin < 3.0 g/dL (30 g/L).
+Albumin < 3.0 g/dL (30 g/L) at screening;
+Albumin > 2.5 g/dL
+Albumin ? 2.5 g/dL.
+Albumin >2.7 g/dL.
+Albumin ? 2 g/dl
+Albumin >= 2.8 g/dL
+Albumin greater than or equal to 2.8 g/dL
+Albumin >= 2.5 g/dL
+Albumin >= 2.8 g/dL
+Albumin greater than or equal to 2.8 g/dL
+Albumin < 3 g/dL
+Albumin < 2.8 g/dL (< 28 g/L)
+Albumin >= 2.5 g/dL
+Albumin >= 3 g/dl
+Albumin >= 3 g/dL
+Albumin >= 2.5 g/dL
+Albumin levels < 2.5 g/dl
+Albumin >= 2 g/dl
+Albumin >= 3.0 g/dL
+Albumin >=2.5 g/dL
+Albumin >= 2.5 g/dL
+Severe hypoalbuminemia (albumin < 3.0 g/dL);
+Albumin >= 2.5 g/dL
+Albumin >= 3 g/dl
+Albumin > 3.0 g/dL or > 30 g/L
+Albumin > 2 g/dL
+Albumin ? 2.8 g/dL
+Albumin >= 2.5 g/dL
+Albumin >= 2.5 g/dL
+Albumin < 30 g/L (3.0 g/dL)
+Albumin =< 2.5 g/dL
+Albumin >= 2 g/dL
+Albumin: > 2.5 g/dL
+Albumin >= 2.5 g/dl
+Albumin > 3.0 g/dl
+Albumin > 3.0 g/dl
+Albumin > 3.0 g/dl
+Albumin ? 2.8 g/dL
+Albumin >= 2.6 g/dL
+Albumin < 30 g/L (3.0 g/dL) at screening.
+Albumin ? 3g/dL
+Albumin ? 3g/dL
+Albumin < 2.0 g/dL or < 20 g/L
+Albumin >= 2.5 g/dL
+Albumin >= 2.5 g/dL
+Albumin > 3.0 g/dl
+Albumin >= 2 g/dL
+Albumin ? 2.5 g/dL
+Albumin >= 3.0 g/dL
+Albumin >= 2 g/dL
+Albumin >= 3 g/dL
+Albumin > 2.8 g/dl
+Albumin > 2.5 g/dl
+Albumin >= 2.5 g/dL
+Albumin of >= 2.5 g/dl
+Plasma albumin >= 3 g/dL
+Plasma albumin < 3 g/dL
+Albumin >= 2.5 g/dl
+Albumin < 3 g/dl
+Albumin < 2 g/dl
+Albumin < 2 g/dl
+Albumin < 2 g/dl
+Albumin < 2 g/dL
+Albumin >= 2.5 g/dL
+Albumin >= 2.5 g/dL
+Hypoalbuminemia (albumin < 3.5 g/dL)
+Albumin ? 2.5 g/dl.

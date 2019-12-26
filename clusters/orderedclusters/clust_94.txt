@@ -1,0 +1,32 @@
+For patients who have not started their chemotherapy prior to registration, the interval between definitive tumor-related surgery and 1st step registration must be between 21-70 days; for patients entering on the study who have already received up to 3 months of adjuvant chemotherapy as per the treating institution, the interval between definitive tumor-related surgery and day one of adjuvant chemotherapy must be between 21-77 days
+545.0
+Step 2 Registration must take place within 84 days after definitive surgery; patients must not have begun chemotherapy or endocrine therapy for their breast cancer prior to randomization
+10000.0
+Patients must have completed standard neoadjuvant or adjuvant taxane and/or anthracycline based chemotherapy prior to randomization; completion of chemotherapy will be determined by the treating oncologist, but should include a minimum of 4 cycles (a cycle of weekly paclitaxel is considered 3 doses); patients must be registered within 42 weeks after the last dose of chemotherapy; patients may have started endocrine therapy at any time after the diagnosis of the current breast cancer
+1900.0
+For patients who receive adjuvant chemotherapy after surgery, a maximum of 12 weeks of intended chemotherapy may be administered but must be completed before randomization; (if treatment delays occur, chemotherapy must be completed within 14 weeks); the dose and schedule of the adjuvant chemotherapy are at the investigator's discretion; Note: it is preferred that all intended chemotherapy be administered in the neoadjuvant setting
+1636.0
+The interval between the last surgery for breast cancer (including re-excision of margins) and randomization must be no more than 70 days; also, if adjuvant chemotherapy was administered, the interval between the last chemotherapy treatment and randomization must be no more than 70 days
+1636.0
+Patients must have completed all chemotherapy prior to surgery; sandwich chemotherapy is not allowed (i.e. chemotherapy planned to be given after surgery); patients must have completed at least 4 cycles of neoadjuvant chemotherapy consisting of an anthracycline and/or taxane-based regimen without evidence of disease progression in the breast or the lymph nodes* Note: Delays/dose modifications due to toxicities/adverse events are allowed as long as a minimum of 4 cycles of neoadjuvant chemotherapy is administered; more than 4 cycles of neoadjuvant chemotherapy (NAC) may be administered at the discretion of the treating medical oncologist
+2918.0
+Breast surgery (lumpectomy or mastectomy) and sentinel lymph node surgery must be completed within 56 days of the completion of the last dose of neoadjuvant chemotherapy
+2918.0
+Completed at least 6 cycles of neoadjuvant or adjuvant chemotherapy containing anthracyclines, taxanes or the combination of both; prior platinum as potentially curative treatment for prior cancer (e.g. ovarian) or as adjuvant or neoadjuvant treatment for breast cancer is allowed; (for neoadjuvant patients all chemotherapy should be delivered prior to surgery; no further cycles of chemotherapy post-surgery are allowed)
+1500.0
+The minimum time requirement between date of surgery and randomization must be at least 4 weeks (28 days)
+NONE
+The maximum time requirement between surgery and randomization must be:* 3 months (90 days) if no adjuvant chemotherapy was administered* 8 months (240 days) if adjuvant chemotherapy was administered* 10 months (300 days) if adjuvant chemotherapy and radiation therapy were administered
+NONE
+Complete recovery from surgery and standard post-operative therapy (if required); patients must be completely recovered from surgery at the time of randomization; the minimum time requirement between date of surgery and randomization must be at least 28 days, the maximum time requirement between surgery and randomization must be 90 days if no adjuvant chemotherapy was administered, 240 days if adjuvant chemotherapy was administered, and 300 days if adjuvant chemotherapy and radiation therapy was administered
+450.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): No specific timeframe between registration and randomization needs to be observed, as long as:* Patients randomized to the chemotherapy arms have their cycle 1/ day 1 (platinum based or capecitabine) start within 3 weeks (15 working days) following randomization date* Randomization occurs no more than 24 weeks from surgery date
+562.0
+The interval between the last surgery for breast cancer (including re-excision of margins) and randomization must be no more than 60 days
+990.0
+Chemotherapy administered for the currently diagnosed breast cancer prior to randomization
+990.0
+Patient must NOT have a history of > 1 line of administered chemotherapy for metastatic disease and must be off chemotherapy for a minimum of 2 weeks; prior chemotherapy in the adjuvant setting is allowed
+99.0
+Patients must have adequately recovered from surgery and any administered chemotherapy/radiotherapy at the time of randomization (NOTE: adjuvant chemotherapy and/or radiation is not required)* Minimum time between date of surgery and randomization is 4 weeks (28 days)* Maximum time allowed between surgery and randomization:** 3 months (90 days) if no chemotherapy is administered** 8 months (240 days) if adjuvant chemotherapy was administered** 10 months (300 days) if adjuvant chemotherapy and radiation therapy was administered
+714.0

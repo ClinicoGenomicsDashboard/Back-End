@@ -1,0 +1,24 @@
+Neuropathy (sensory and motor) =< CTCAE v 3.0 grade 1
+164.0
+Neuropathy (sensory and motor) less than or equal to CTCAE grade 1
+128.0
+Patients must have < grade 2 neuropathy (sensory/motor) within 7 days prior to registration
+38.0
+>= Grade 2 peripheral sensory neuropathy (CTCAE, v. 4.0)
+924.0
+Sensory/motor neuropathy >= grade 2
+24.0
+Pre-existing >= grade 2 sensory or motor peripheral neurotoxicity
+1400.0
+Sensory/motor neuropathy >= grade 2
+35.0
+Patients must not have Common Terminology Criteria for Adverse Events (CTCAE) >= grade 2 neuropathy (cranial, motor or sensory) within 14 days prior to registration
+44.0
+Nervous system disorder (paresthesia, peripheral motor neuropathy, or peripheral sensory neuropathy) >= grade 2, per the Common Terminology Criteria for Adverse Events (CTCAE) version (v)4.0
+990.0
+Neurologic function: neuropathy (sensory and motor) less than or equal to Common Terminology Criteria for Adverse Events (CTCAE) grade 1
+147.0
+Sensory or motor neuropathy >= grade 2
+348.0
+No grade >= 2 peripheral motor or sensory neuropathy
+700.0

@@ -1,0 +1,50 @@
+Total bilirubin =< 2 x institutional upper limit of normal
+107.0
+Total bilirubin < 1.5 x institutional upper limit of normal
+165.0
+Total bilirubin =< institutional upper limit of normal
+36.0
+Total bilirubin =< 1.5 X institutional upper limit of normal
+68.0
+Total bilirubin < 1.5 X institutional upper limit of normal
+73.0
+Total bilirubin within =< 1.5 x institutional upper limit of normal
+72.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+72.0
+TUMOR BIOPSY SEQUENCING: Total bilirubin < 1.5 x institutional upper limit of normal
+700.0
+TREATMENT: Total bilirubin < 1.5 x institutional upper limit of normal
+700.0
+Total bilirubin =< x 1.5 upper limit of institutional normal
+52.0
+Total bilirubin =< 1.5 x institutional upper limit of normal OR > 1.5 x institutional upper limit of normal allowed if direct bilirubin is within normal range
+68.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+54.0
+Total bilirubin < 1.5 x institutional upper limit of normal OR > 1.5 x institutional upper limit of normal allowed if direct bilirubin is within normal range
+32.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+57.0
+Total bilirubin =< institutional upper limit of normal
+23.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+35.0
+Total bilirubin =< institutional upper limit of normal
+75.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+46.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+35.0
+Total bilirubin =< 1.5 X institutional upper limit of normal
+37.0
+Total bilirubin =< 1.5 institutional upper limit of normal
+36.0
+Total bilirubin =< 1.5 x institutional upper limit of normal
+36.0
+Total bilirubin within institutional upper limit of normal
+90.0
+Total bilirubin =< 1.5 X institutional upper limit of normal
+60.0
+Total bilirubin =< institutional upper limit of normal
+35.0

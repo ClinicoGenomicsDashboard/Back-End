@@ -1,0 +1,56 @@
+Inadequately controlled hypertension (systolic blood pressure of > 150 mmHg or diastolic pressure > 100 mmHg on anti-hypertensive medications)
+48.0
+Uncontrolled blood pressure and hypertension: systolic blood pressure (SBP) > 140 mm Hg or diastolic blood pressure (DBP) > 90 mm Hg within 14 days prior to registration; patients are permitted to be receiving multiple anti-hypertensive medications (unless otherwise indicated in the study); all blood pressure measurements within the 14 days prior to registration and on day 1 of cycle 1 must be SBP =< 140 and DBP =< 90; an exception can be made by a healthcare provider for a patient with a single blood pressure elevation who upon rechecking has a normal blood pressure
+130.0
+Hypertension:* Patients, 3-17 years of age must have a blood pressure that is =< 95th percentile for age, height and gender at the time of registration** The normal blood pressure by height, age and gender tables can be accessed in the Generic Forms section of the Pediatric Brain Tumor Consortium (PBTC) members� webpage* Patients who are >= 18 years of age must have a blood pressure that is < 140/90 mm of Hg at the time of registration* Note: if a blood pressure (BP) reading prior to registration is above the 95th percentile for age, height and gender it must be rechecked and documented to be =< the 95th percentile for age, height and gender prior to patient registration
+180.0
+Patients must not have uncontrolled hypertension (defined as systolic blood pressure > 140 mm Hg and/or diastolic blood pressure > 90 mm Hg which cannot be controlled by anti-hypertensive therapy)
+97.0
+Adult patients with hypertension not controlled by medical therapy (hypertension defined as systolic blood pressure > 150 mmHg or diastolic pressure > 90 mmHg despite optimal medical management); pediatric patients must have blood pressure (BP) within normal limits (WNL) for age; NOTE: blood pressure within the upper limit of normal is defined as: blood pressure =< the 95th percentile for age, height, and gender, and not be receiving medication for treatment of hypertension
+73.0
+Adequate blood pressure defined as:* A blood pressure (BP) =< the 95th percentile for age, height, and gender measured; adequate blood pressure can be achieved using medication for treatment of hypertension
+104.0
+Patients not achieving adequate blood pressure in spite of antihypertensive therapy for control of blood pressure
+104.0
+Inability to home monitor blood pressure
+12.0
+Inadequately controlled hypertension (systolic blood pressure of > 150 mmHg or diastolic pressure > 90 mmHg on anti-hypertensive medications)
+44.0
+History of uncontrolled hypertension, defined as blood pressure > 150/95 mmHg, or systolic blood pressure > 180 mmHg when diastolic blood pressure < 90 mmHg, on at least 2 repeated determinations on separate days within 3 months prior to study enrollment
+57.0
+Significant active cardiovascular or pulmonary disease at the time of study entry, including:* Uncontrolled high blood pressure (i.e., systolic blood pressure > 150 mm Hg, diastolic blood pressure > 95 mm Hg)* Pulmonary hypertension* Uncontrolled asthma or oxygen (O2) saturation < 90% by pulse oximetry on room air* Significant valvular disease; severe regurgitation or stenosis by imaging independent of symptom control with medical intervention, or history of valve replacement* Medically significant (symptomatic) bradycardia* History of arrhythmia requiring an implantable cardiac defibrillator
+57.0
+Uncontrolled high blood pressure (i.e., systolic blood pressure >= 160 mmHg, diastolic blood pressure >= 90 mmHg)
+23.0
+Patients with uncontrolled hypertension are ineligible; uncontrolled hypertension is defined as follows:* Patients aged =< 17 years: greater than 95th percentile systolic and diastolic blood pressure based on age and height which is not controlled by one anti-hypertensive medication* Patients aged > 17 years: systolic blood pressure >= 140 mmHg and/or diastolic blood pressure >= 90 mmHg that is not controlled by one anti-hypertensive medication
+340.0
+Participants with uncontrolled sustained hypertension which will be defined as systolic blood pressure > 140, and diastolic blood pressure > 90, even with use of anti-hypertensive medications
+42.0
+Significant active cardiovascular or pulmonary disease at the time of study entry, including* Uncontrolled high blood pressure (i.e., systolic blood pressure > 180 mm Hg, diastolic blood pressure > 95 mm Hg) * Pulmonary hypertension  * Uncontrolled asthma or oxygen (O2) saturation < 90% by ABG (arterial blood gas) analysis or pulse oximetry on room air   * Significant valvular disease; severe regurgitation or stenosis by imaging independent of symptom control with medical intervention, or history of valve replacement  * Medically significant (symptomatic) bradycardia
+209.0
+Uncontrolled hypertension (despite medical therapy); blood pressure should be < 140/90 in accordance with American Heart Association definition of hypertension
+50.0
+Patients must be willing and able to check and record daily blood pressure readings; blood pressure cuffs will be provided to patients randomized to Arm III
+549.0
+Patients who are receiving anti-hypertensive medications for control of blood pressure at the time of enrollment are not eligible for this trial
+67.0
+No uncontrolled hypertension (systolic blood pressure =< 160 millimeters of mercury [mmHg] or diastolic =< 100 mmHg); patients with hypertension must be adequately controlled with appropriate anti-hypertensive therapy or diet
+130.0
+Patients must not have inadequately controlled hypertension; patients must have documented blood pressures of systolic blood pressure (SBP) < 150 and diastolic blood pressure (DBP) < 90 within 14 days of starting randomization; blood pressure medications (any number) are permitted
+180.0
+Low resting systolic blood pressure: < 90 mmHg
+250.0
+Use of any other blood pressure lowering medication for treatment of hypertension within 30 days of enrollment except calcium channel blockers and diuretics
+250.0
+Patients with hypertension on medical management must have systolic blood pressure < 150 mmHG or diastolic pressure < 90 mmHG at study entry
+84.0
+Patients must be willing and able to check and record daily blood pressure readings when randomized to cediranib containing arm
+90.0
+Patients with known significant active cardiovascular or pulmonary disease at the time of study entry are INELIGIBLE including:* Uncontrolled hypertension (i.e., systolic blood pressure >180 mm Hg, diastolic blood pressure > 95 mm Hg); use of anti-hypertensive agents to control hypertension before cycle1 day 1 is allowed* Pulmonary hypertension* Uncontrolled asthma or oxygen (O2) saturation < 90% by arterial blood gas analysis or pulse oximetry on room air* QT syndrome, or torsades de pointes* Significant valvular disease; severe regurgitation or stenosis by imaging independent of symptom control with medical intervention, or history of valve replacement* Medically significant (symptomatic) bradycardia* History of arrhythmia requiring an implantable cardiac defibrillator* Baseline prolongation of the rate-corrected QT interval (QTc) (e.g., repeated demonstration of QTc interval > 480 milliseconds, or history of congenital long
+40.0
+Patients must be willing and able to check and record daily blood pressure readings if receiving cediranib
+132.0
+Patients with clinically significant cardiovascular disease are excluded* Inadequately controlled hypertension (HTN) (systolic blood pressure [SBP] >= 160 mmHg and/or diastolic blood pressure [DBP] >= 90 mmHg despite antihypertensive medication)* History of cerebrovascular accident (CVA) within 6 months* Myocardial infarction or unstable angina within 6 months* New York Heart Association class II or greater congestive heart failure * Serious and inadequately controlled cardiac arrhythmia* Significant vascular disease (e.g. aortic aneurysm, history of aortic dissection)* Clinically significant peripheral vascular disease
+22.0
+Patients with clinically significant cardiovascular disease are excluded* Inadequately controlled hypertension (HTN) (systolic blood pressure [SBP] > 160 mmHg and/or diastolic blood pressure [DBP] > 90 mmHg despite antihypertensive medication)* History of cerebrovascular accident (CVA) within 6 months (see additional requirement for adjuvant protocols)* Myocardial infarction or unstable angina within 6 months (see additional requirement for adjuvant protocols)* New York Heart Association grade II or greater congestive heart failure * Serious and inadequately controlled cardiac arrhythmia* Significant vascular disease (e.g. aortic aneurysm, history of aortic dissection)* Clinically significant peripheral vascular disease
+98.0

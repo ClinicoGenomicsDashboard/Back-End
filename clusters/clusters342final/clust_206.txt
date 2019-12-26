@@ -1,0 +1,29 @@
+Patients must have an estimated survival greater or equal to 3 months
+Must have completed radiotherapy at least 12 months prior to entry
+Child Pugh class A or B7 liver disease
+Parent/caregiver and patient (if 12 years and older) must be willing to use a cellular telephone to receive medication reminders via text messaging during study period
+Women who are postmenopausal by surgery, radiotherapy, or presence of natural amenorrhea >= 12 months
+Patients must not be in status, coma, or assisted ventilation prior to study enrollment
+Plan to treat with anastrozole for at least 12 months
+Patients receiving sorafenib at the time of enrollment and those who are scheduled to receive sorafenib as part of a treatment plan are ineligible
+Patients using prophylactic antimicrobial locks in the CVC at the time of enrollment and those who are scheduled to receive antimicrobial locks in the CVC as part of a treatment plan are ineligible
+Patients must not receive metformin for at least 5 days prior to enrollment and for the duration of study treatment
+Stratum 2: patients must have received radiation therapy, which may include gamma knife or phosphorus-32 (P32)* More than 6 months from the time of enrollment if the recurrence is predominantly solid* More than 12 months from the time of enrollment if the recurrence is predominantly cystic
+Prior administration of anthracyclines is acceptable if therapy was completed > 6 months prior to study enrollment
+Plan to be on chemotherapy or other allowable treatment for at least 3 months (minimum 70 days) and be willing to come in for study visits* The plan for treatment should be for at least 3 months at time of study enrollment; the treatment can stop earlier during the study at the discretion of the physician and patient (e.g., due to progression as noted through imaging, toxicity, or patient preference)
+HCC patients only: Child Pugh class A or B7 liver disease
+Angina pectoris =< 12 months prior to starting drug
+Parts B1-B6, B8, D1-D6, E3, E4: patients must be >= 12 months and =< 30 years of age at the time of study enrollment
+Young patient age between 12  15 could be included in only 6 centers (Bordeaux, Lyon, Villejuif, Lille, Marseille and Paris)
+Presence of malignancy other than the study indication under this trial within 3 years of study enrollment
+There should be no evidence for improvement in KS in the 3 months prior to study enrollment, unless there is evidence for progression of KS in the 4 weeks immediately prior to study enrollment
+Patients must have completed study drug on arm 1 of A091401 (i.e., last dose of nivolumab) =< 12 months of re-registration to crossover dual agent therapy
+Subjects with known hepatic insufficiency (i.e. Child-Pugh score A [mild], Child-Pugh score B [moderate] or Child-Pugh score C [severe]) according to Child-Pugh criteria
+Relapse of pneumocystis carinii pneumonia within the past year before enrollment
+Cirrhosis with Child-Pugh score of B or C
+Patient must have completed cancer treatment >= 2 years prior to study enrollment
+Patients with a BSA ? 1.17 m^2 at time of study enrollment are not eligible
+Subjects may receive palliative radiotherapy for symptomatic metastases prior to enrollment provided that there is at least one other non-irradiated lesion amenable to LCT at the time of enrollment.
+Infants must be > 36 weeks gestational age at the time of enrollment
+Must have Child-Turcotte-Pugh (CTP) A or B7
+>= 11 and < 25 years old at enrollment

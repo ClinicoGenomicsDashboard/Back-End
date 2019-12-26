@@ -1,0 +1,50 @@
+Creatinine =< 1.5 x ULN
+102.0
+Creatinine =< 1.5 x ULN obtained =< 21 days prior to registration
+360.0
+Serum creatinine =< grade 1
+747.0
+Creatinine =< grade 1
+747.0
+Creatinine =< 1.5 x ULN
+48.0
+Creatinine =< 1.5 times ULN
+1120.0
+Obtained =< 7 days prior to registration: Creatinine =< 1.5 x institutional ULN
+102.0
+Creatinine =< 1.5 x institutional ULN
+113.0
+Creatinine =< 1.5 x ULN
+42.0
+Creatinine < 1.5 x ULN
+2060.0
+Creatinine kinase =< 2.5 x the ULN, within 30 days prior to enrollment
+278.0
+Serum creatinine < 1.5 x ULN; the values must be obtained within 48 hours prior to randomization
+509.0
+Creatinine =< 2.0 x ULN
+92.0
+Serum or plasma creatinine =< 1.5 x ULN measured within 28 days prior to randomization
+1500.0
+Serum creatinine =< 1.5 times the ULN
+44.0
+Serum creatinine =< 2 x ULN
+NONE
+Serum creatinine =< 1.5 x ULN
+450.0
+Creatinine =< 1.5 x the institutional ULN
+680.0
+Creatinine =< 1.5 x ULN OR
+82.0
+Creatinine =< 1.5 x ULN OR
+126.0
+Serum creatinine =< 2 times ULN; timeline: within 3 weeks prior to enrollment
+18.0
+Serum creatinine =< 2 x ULN
+714.0
+Serum creatinine =< 2.0 x local institutional ULN
+48.0
+Creatinine =< 1.5 x ULN
+22.0
+Creatinine =< 1.5 x ULN OR
+30.0

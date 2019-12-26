@@ -1,0 +1,71 @@
+Albumin >= . g/dL (within  days of treatment initiation)
+Within  days of treatment initiation: Albumin >= . g/dL
+Albumin >= . mg/dL (up to  days before treatment initiation)
+Within  days of treatment initiation:\r\nAlbumin >= . mg/dL
+Within  days of treatment initiation: Albumin >= . mg/dL
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Albumin >= . g/dL, performed within  days of treatment initiation
+COHORT : Albumin > . mg/dL within  days of treatment initiation
+COHORT : Albumin > . mg/dL within  days of treatment initiation
+Within  (except as noted) days of planned treatment initiation: Albumin >= . mg/dL (may be within  days)
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Albumin >= . mg/dL within  days of treatment initiation
+Albumin >= . mg/dL (performed within  days of treatment initiation)
+Albumin >= . mg/dL, performed within  days of study registration
+Performed within  business days of treatment initiation with the exception of beta- HCG ( hours), if applicable: Albumin > . mg/dL.
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Albumin >= . mg/dL, should be performed within  days of treatment initiation
+Albumin >= . mg/dL, performed within  days of treatment
+Albumin > . mg/dL within  days of treatment initiation
+Albumin >= . mg/dL within  days of treatment initiation
+Should be performed within  days of treatment initiation: albumin ? . mg/dL
+Albumin >= . mg/dL (performed within  days of treatment initiation)
+Albumin >=  g/dL, within  days of registration and within  days of the start of treatment
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Albumin >= . mg/dL, performed within  days of treatment initiation
+To be performed within  days of treatment initiation: albumin ? . mg/dL
+Albumin ? . mg/dL within  days of treatment initiation
+Within  days of treatment initiation: Albumin >= . mg/dL.
+Within  days of treatment initiation: Albumin >= . mg/dL
+Within  days of treatment initiation: Albumin >= . mg/dL
+Performed within  days of treatment initiation: Albumin >= . mg/dL
+Within  days of treatment initiation: Albumin >= . mg/dL
+Within  days of treatment initiation: Albumin ? . mg/dL
+Albumin >= . mg/dL (performed within  days of treatment initiation)
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Performed within  days of treatment initiation: Albumin >= . mg/dL
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Performed within  days of treatment initiation: Albumin >= . mg/dL
+Determined within  weeks of treatment initiation: Albumin >= . mg/dL
+Albumin >= . mg/dL within  days of treatment initiation
+Within  days of treatment initiation: Albumin >= . mg/dL
+Within  days of treatment initiation: Albumin > . mg/dL
+Albumin >= . mg/dL, performed within  days of registration
+Performed within  days of treatment initiation: Albumin >= . mg/dL
+Albumin >= . mg/dL (performed within  days of registration)
+Albumin >= . mg/dL performed within  days of treatment initiation
+Albumin >= . mg/dL (within - days of treatment initiation)
+Albumin >= . mg/dL within  days of treatment initiation
+Albumin >=  g/dL performed within  days of treatment initiation
+Albumin >= . mg/dL within  days of treatment initiation
+Albumin >= . mg/dL in the absence of dehydration (performed within  days of treatment initiation)
+Within  days of treatment initiation: Albumin >= . mg/dL
+Completed within  days of SBRT treatment initiation: Albumin >= . mg/dL
+Albumin >= . g/dL within  days of treatment initiation
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Performed within  days of treatment initiation: Albumin >= . mg/dL
+Within  days of treatment initiation: albumin >=  mg/dL. Creatinine clearance should be calculated per institutional standard
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Within  days of treatment initiation: Albumin >= . mg/dL
+Albumin >= . mg/dL (performed within  days of treatment initiation)
+Within  days prior to treatment initiation: Albumin >= . mg/dL
+Serum albumin >= . g/dL, obtained within  days prior to initiation of study treatment
+Albumin >= . mg/dL (performed within  days of treatment initiation)
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Albumin >= . g/dL (within  days of treatment initiation)
+Albumin >= . mg/dL, should be performed within  days of treatment initiation, unless otherwise indicated
+Albumin >= . mg/dL within  days of treatment initiation
+Albumin >= . mg/dL, performed within  days of treatment initiation
+Albumin >= . mg/dL, performed within  days of protocol enrollment

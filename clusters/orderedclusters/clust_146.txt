@@ -1,0 +1,10 @@
+Dependency on intravenous (IV) hydration or total parenteral nutrition (TPN)
+549.0
+Dependency on IV hydration or total parenteral nutrition (TPN)
+680.0
+Patients may not have current dependency on intravenous (IV) hydration or total parenteral nutrition (TPN)
+126.0
+Current dependency on intravenous (IV) hydration or total parenteral nutrition (TPN)
+90.0
+Participants may not have a dependency on IV hydration or total parenteral nutrition (TPN)
+70.0

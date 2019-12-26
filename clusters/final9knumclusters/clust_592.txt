@@ -1,0 +1,64 @@
+For patients treated with external beam radiation, interstitial brachytherapy or radiosurgery, an interval >= 24 weeks must have elapsed from completion of radiation therapy (XRT) to registration
+Participants who have received prior treatment with interstitial brachytherapy, stereotactic radiosurgery, or implanted chemotherapy sources, such as wafers of polifeprosan 20 with carmustine
+Participant is deemed to be an appropriate candidate for MRI-guided brachytherapy by the radiation oncologist and the patient elects to be treated with MRI-guided brachytherapy
+Must have completed and recovered from all prior definitive therapy (surgery, brachytherapy, cryotherapy or radiotherapy) for the primary tumor, or other definitive-intent local therapy
+Received prior local therapy (stereotactic radiosurgery, brachytherapy, or carmustine wafers) to the proposed area of MLA treatment
+For brachytherapy, an IPSS ? 21, or ? 17 if patient is on medications to improve urination.
+For brachytherapy, prostate volume must be less than 55cc prior to AS.
+Pathologically confirmed malignancy for which high-dose rate brachytherapy is appropriate as a component of their therapeutic regimen
+Cervical cancer\r\n* Patients who are unable to undergo surgery and must have treatment for an inoperable primary cervical cancer\r\n* Patients with locally advanced cervical cancer in whom brachytherapy will be integrated as a boost to external beam radiation either a palliative or curative setting (definitive or postoperative setting)
+Prostate cancer\r\n* Patients with localized prostate cancer (T1b-T3b) in whom brachytherapy will be integrated as a boost to external beam radiation or used as monotherapy for definitive management
+Any patient or tumor/anatomical factors that may prevent brachytherapy apparatus from being properly and safely inserted and positioned and from radiation therapy being administered per American Brachytherapy Society (ABS) guidelines
+Any prior or current treatment for prostate cancer, including surgery, radiation therapy (external or brachytherapy) or chemotherapy;
+Patients must have histologically confirmed locally recurrent adenocarcinoma of the prostate after prior radiation (external beam radiation therapy [EBRT] or brachytherapy)
+Prior local non-surgical therapy to treat prostate cancer (e.g. radiation therapy, brachytherapy)
+Patients must not have had prior treatment of glioblastoma with stereotactic radiosurgery, brachytherapy, or carmustine-impregnated wafers (Gliadel).
+Has received prior interstitial brachytherapy, implanted chemotherapy, stereotactic radiosurgery or therapeutics delivered by local injection or convection enhanced delivery
+Prior local therapy to treat prostate cancer (e.g. radical prostatectomy, radiation therapy, brachytherapy)
+Prior local therapy to treat prostate cancer (e.g. radical prostatectomy, radiation therapy, brachytherapy)
+Prior local therapy to treat prostate cancer (e.g. radical prostatectomy, radiation therapy, brachytherapy)
+Patients with previous history of radiosurgery, brachytherapy, Gliadel implantation, or radiolabeled monoclonal antibodies
+Has received prior interstitial brachytherapy, implanted chemotherapy, or therapeutics delivered by local injection or convection enhanced delivery; prior treatment with Gliadel wafers will be excluded
+Prior radiation of any kind to the prostate gland or pelvis\r\n* Prior brachytherapy is not allowed
+Prior cryosurgery, high intensity focused ultrasound (HIFU) or brachytherapy of the prostate
+Patients assessed at presentation as requiring interstitial brachytherapy treatment
+Prior cryosurgery, high-intensity focused ultrasound ablation (HIFU) or brachytherapy of the prostate
+Patients may not be receiving any other investigational agents or have received any definitive prostate cancer (PCa)-specific treatment (en-bloc resection of bladder tumors [EBRT], Brachytherapy etc) prior
+Has received prior interstitial brachytherapy, implanted chemotherapy, or therapeutics delivered by local injection or convection enhanced delivery. Prior treatment with Gliadel wafers will be excluded. Concomitant use of the Optune device will also be excluded.
+Any prior treatment for prostate cancer \r\n* Radical prostatectomy \r\n* Radiation therapy (external beam or brachytherapy) \r\n* Cryotherapy \r\n* High intensity focused ultrasound treatment \r\n* Photodynamic therapy \r\n* Androgen deprivation therapy
+Prior radiation therapy, brachytherapy, or cryotherapy
+Patients assessed at presentation as requiring interstitial brachytherapy treatment
+No prior interstitial brachytherapy or stereotactic radiosurgery unless area of assessment and planned resection is outside the region previously treated.
+Prior placement of Gliadel wafer or local brachytherapy
+The patient has decided to undergo brachytherapy (or brachytherapy plus external beam radiation) as a treatment modality for his prostate cancer
+Histologically confirmed recurrent adenocarcinoma of the prostate =< 1 year prior to registration and >= 18 months following localized treatment of: \r\n* EBRT or\r\n* Permanent prostate brachytherapy or\r\n* High dose rate brachytherapy or\r\n* Any combination of the above radiotherapy treatments or\r\n* Prostatectomy; patients who have a localized recurrence following prostatectomy with a discernible mass identifiable on trans-rectal ultrasound that can be readily accessed as judged by the treating urologist or radiation oncologist
+Has received prior interstitial brachytherapy, implanted chemotherapy, or therapeutics delivered by local injection or convection enhanced delivery
+Has received prior interstitial brachytherapy, implanted chemotherapy, stereotactic radiosurgery or therapeutics delivered by local injection or convection enhanced delivery
+Patients should have any of the below to be eligible\r\n* Are not candidates for intracavitary brachytherapy due to poor geometry or poor response to external beam radiation therapy (RT)\r\n* Patients with co-morbid medical conditions, bleeding disorders, poor anesthetic risk precluding brachytherapy\r\n* Patients who refuse brachytherapy or prefer external beam hypofractionated approach\r\n* Patients requiring interstitial brachytherapy\r\n* Note: patients may be discovered during standard therapy and enrolled prior to boost
+Patients must have received prior radiotherapy for meningioma; patients may have received standard external beam radiation, interstitial brachytherapy, or radiosurgery in any combination; an interval of >= 4 weeks (28 days) must have elapsed from the completion of radiotherapy to study entry and there must be subsequent evidence of tumor progression; patients with prior interstitial brachytherapy or stereotactic radiosurgery must have confirmation of true progression disease rather than radiation necrosis based on positron emission tomography (PET), MR-perfusion, MR-spectroscopy, or surgical documentation of disease; if there is any question, investigators should discuss with the MSKCC principal investigator (PI)
+Patients previously treated with stereotactic radiosurgery, stereotactic radiotherapy, brachytherapy, Gliadel wafers or other intratumoral chemotherapy are eligible
+Patients who have had prior stereotactic radiotherapy, convection enhanced delivery or brachytherapy as gliosis/scarring from these modalities may limit delivery; however, if a patient has a resection or biopsy at the site of prior stereotactic radiotherapy, convection enhanced delivery, or brachytherapy and the biopsy specimen shows recurrent GBM and EGFR amplification by FISH, the patient will be eligible; patients with recurrence outside the radiosurgery field will be considered for eligibility if the recurrence is clearly documented to be outside the field and more than 3 months have lapsed since the last dose of radiosurgery
+Patient has either metastatic disease (M1; stage IVB), is medically unable to receive brachytherapy, or refuses brachytherapy
+Patients who have received prior hormonal or surgical therapy for prostate cancer; including prior brachytherapy or radiation therapy
+Patient has had surgery or initiated radiation therapy (brachytherapy or external beam radiation) or initiated pre-radiation androgen deprivation therapy within the last 12 months
+Treatment with primary radiation (brachytherapy or external beam therapy), radiation + androgen deprivation therapy (ADT) or salvage prostatectomy
+Completed either radical prostatectomy (Group 1 or Group 3) or radiation therapy (external beam radiation therapy or brachytherapy; Group 2 or Group 3) within the past 12 months
+Completed either radical prostatectomy or radiation therapy (external beam radiation therapy or brachytherapy) within the past 12 months
+Within one year completion of either radical prostatectomy or radiation therapy (external beam radiation therapy or brachytherapy)
+Undergone or is planning to undergo brachytherapy with transpapillary or percutaneous implantation of intracavitary radiation sources
+Use of pulmonary airway stents and/or ongoing or initiation of local external beam or brachytherapy radiation
+Received prior radical prostatectomy (with or without post-operative radiation) or definitive local radiation for prostate cancer (either external beam radiation, brachytherapy, or combination)
+History of orchiectomy, PCa-specific chemotherapy, brachytherapy, cryotherapy, Photodynamic therapy or radical prostatectomy for treatment of prostate cancer; any prior radiation therapy to the pelvis for prostate cancer or any other malignancy.
+Patients with biopsy proven (completed and/or reviewed at Memorial Sloan-Kettering [MSK]) adenocarcinoma of the prostate, who will undergo external beam radiotherapy using conventional fractionation image-guided radiotherapy (IGRT) including moderate hypofractionated radiation, low rate brachytherapy alone, low dose brachytherapy combined with supplemental image guided radiation (including IGRT, external beam radiation therapy [EBRT], and stereotactic body radiation therapy [SBRT]), SBRT, or proton radiotherapy
+In the case of cryotherapy, external beam radiation, or high-intensity focused ultrasound therapy (HIFU) the procedure will have occurred at least one year in the past; in the case of brachytherapy, treatment will have occurred at least 2 years in the past to eliminate patients with so-called “prostate-specific antigen (PSA) bump”
+Less than 1 year since cryotherapy, external beam radiation therapy, or HIFU, or 2 years since brachytherapy; does not meet above criteria of suspicious PSA elevation
+Prior treatment of prostate cancer including brachytherapy, radiation therapy, cryosurgery, high-intensity focused ultrasound (HIFU), or vaccine therapy
+Radiotherapy (external beam irradiation alone or in combination with hormonal therapy and/or brachytherapy) was delivered as definitive therapy for prostate cancer and documentation is available
+Patient is unable to receive high dose rate prostate brachytherapy
+Prior prostate cancer-directed therapy including:\r\n* Androgen deprivation therapy\r\n* Radiation therapy to the prostate (external beam or brachytherapy)\r\n* Cryotherapy\r\n* High-intensity focused ultrasound (HIFU)\r\n* Chemotherapy for prostate cancer
+In the case of cryotherapy, external beam radiation, or high intensity focused ultrasound (HiFU) the procedure will have occurred at least one year in the past; in the case of brachytherapy, treatment will have occurred at least 2 years in the past to eliminate patients with so-called “PSA bump”
+Less than 1 year since cryotherapy, external beam radiation therapy, or HiFU, or 2 years since brachytherapy
+Salvage radical prostatectomy, i.e., patients having surgery due to failure of previous therapy (radiation, brachytherapy, cryotherapy, etc.)
+Previous brachytherapy treatment will have occurred at least 2 years in the past
+Salvage radical prostatectomy, i.e., patients having surgery due to failure of previous therapy (radiation, brachytherapy, cryotherapy, etc.)
+Brachytherapy with EBRT in subjects whose prostate volume is >60cc

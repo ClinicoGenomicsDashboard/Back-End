@@ -1,0 +1,14 @@
+Haemoglobin <90 g/L
+Haemoglobin >= 9.0 g/dL
+Hematology: Haemoglobin ? 9.0 g/dl; ANC ? 1.5 × 109/L; Platelet count ? 100 × 109/L
+Acceptable haematological function defined as (Patients can be transfused to meet the haemoglobin entry criteria):
+Haemoglobin ?9 g/dL
+Haemoglobin <90 g/L (<9 g/dL)
+Haemoglobin ?9 g/dL;
+Haemoglobin ? 9 g/dL
+Haemoglobin >=9 g/dL.
+Haemoglobin ?9 g/dL
+Haemoglobin (Hb) <100 g/L
+Haemoglobin ? 8.0 g/dL (may have been transfused)
+Haemoglobin 9.0 g/dL
+Glycated haemoglobin (HbA1c) < 8%

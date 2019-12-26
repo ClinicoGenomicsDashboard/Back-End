@@ -1,0 +1,35 @@
+ADDITIONAL INDUCTION ELIGIBILITY CRITERIA:
+Patients treated with prior surgery are eligible for this study if they otherwise meet eligibility criteria
+Patients are eligible >= 6 weeks after therapeutic 131I-MIBG provided that all other eligibility criteria are met
+ELIGIBILITY CRITERIA FOR ENROLLMENT ON THE RE-TREATMENT STUDY
+INTRA-OPERATIVE REGISTRATION/RANDOMIZATION CRITERIA
+POST-OPERATIVE REGISTRATION/RANDOMIZATION CRITERIA
+Note: G-CSF and platelet transfusions cannot be used to increase counts to meet eligibility criteria
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): Patients randomized to Arm 1 may opt to switch to the 3-drug regimen following disease progression; these patients must be re-registered to the study and meet the eligibility criteria below
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): Platelet count >= 50 x 10^9/L
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): AST and ALT < 2.5 x upper limits of normal (ULN)
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): Note: G-CSF and platelet transfusions cannot be used to increase counts to meet eligibility criteria
+INDUCTION ELIGIBILITY CRITERIA-STEP 1
+POST-INDUCTION THERAPY ELIGIBILITY CRITERIA (PRIOR TO INTENSIFICATION-STEP 2)
+Patients should meet the eligibility criteria for RANDOMIZATION TO BLINATUMOMAB OR NO BLINATUMOMAB-STEP 3
+ELIGIBILITY CRITERIA FOR SCREENING AND MOLECULAR PROFILING (STEP 0)
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): ECOG performance status 0 or 1 within 2 weeks prior to randomization
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Patients must have completed treatment with any investigational agent >= 30 days prior to randomization for protocol therapy, if applicable
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Patients must be randomized within 24 weeks from surgery
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Platelets > 100,000 mm^3
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Aspartate aminotransferase (AST, SGOT) =< 2.5 x ULN
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Alanine aminotransferase (ALT, SGPT) =< 2.5 x ULN
+STUDY SITE ELIGIBILITY:
+REGISTRATION ELIGIBILITY CRITERIA:
+REGISTRATION ELIGIBILITY CRITERIA (STEP 1)
+ELIGIBILITY CRITERIA (STEP 1)
+REGISTRATION/RANDOMIZATION ELIGIBILITY CRITERIA
+ELIGIBILITY CRITERIA FOR PREREGISTRATION (STEP 0):
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1):
+REGISTRATION ELIGIBILITY CRITERIA
+INCLUSION CRITERIA FOR SCREENING (STEP 0 - PREREGISTRATION)
+INCLUSION CRITERIA FOR TREATMENT ASSIGNMENT (STEP 1)
+Patients must have met eligibility criteria for the screening step
+Site must verify that there is no known change in the step 1 eligibility since initial registration
+REGISTRATION ELIGIBILITY CRITERIA (STEP 1)
+RANDOMIZATION ELIGIBILITY CRITERIA (STEP 2)

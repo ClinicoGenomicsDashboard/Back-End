@@ -1,0 +1,90 @@
+Albumin >  mg/dl
+Albumin >= . mg/dL
+Albumin > . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin > . mg/dL
+Albumin > . mg/dL
+Albumin >= . mg/dl
+Albumin >= . mg/dL.
+Within  days of treatment registration: Albumin >= . mg/dL
+Albumin >=  mg/dL
+Albumin >= . mg/dL
+Must have serum albumin > . mg/dL without intravenous supplementation
+Albumin >= . mg/dL
+Within  days of cycle  day : Albumin >= . mg/dL
+Within  days prior to the start of study treatment: Albumin: >= . mg/dL.
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin > . mg/dL.
+Albumin > . mg/dL
+Albumin >= . mg/dL.
+Obtained =<  days prior to registration: Albumin >= . mg/dL
+Within  days prior to on-study date: Albumin ? . mg/dL
+Albumin > . mg/dL
+Albumin ? . mg/dL
+Serum albumin >= . mg/dL
+Albumin >= . mg/dL
+Obtained =<  days prior to registration: Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL, during screening and on cycle , day 
+Has laboratory evidence of hypercalcemia (>= mg/dl [in presence of normal albumin]) and/or hyperphosphatemia (>= .)
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin: > . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Serum albumin >= . mg/dL without intravenous supplementation
+Must have serum albumin > . mg/dL without intravenous supplementation
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin > . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin > . mg/dl
+Albumin ? . mg/dL
+Albumin ?.mg/dL
+Albumin >= . mg/dL
+Serum albumin ? . mg/dL.
+Albumin ? . mg/dL
+Albumin ? . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >=  mg/dl
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL (within  days prior to day  of protocol therapy)
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin ? . mg/dL;
+Albumin >=  mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dl
+Albumin >= . mg/dl
+Albumin >= . mg/dL
+Albumin >= . mg/dL
+Albumin ? . mg/dL;
+Albumin >= . mg/dL
+Albumin of >= . mg/dl
+Albumin >= . mg/dL, obtained within  days prior to C-AMT PET scan
+Albumin >= . mg/dL, obtained =<  days prior to registration
+Albumin ? . mg/dL
+Albumin >= . mg/dL
+Albumin >= . mg/dL

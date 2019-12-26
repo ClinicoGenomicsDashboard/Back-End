@@ -1,0 +1,28 @@
+Patients must have total bilirubin =< . x IULN
+Patients must have total bilirubin =< . x IULN
+Direct bilirubin =< . x IULN (=<  x IULN if secondary to lymphoma) within  days prior to registration
+Patients must have total bilirubin =< . x IULN within  days prior to registration
+Total bilirubin =< . x IULN within  days prior to registration
+Patients must have bilirubin =<  x IULN within  days prior to registration (unless the bilirubin is primarily unconjugated)
+Total bilirubin =< . x the IULN
+Serum total bilirubin =< . x IULN OR direct bilirubin =< IULN for patients with total bilirubin > . x IULN
+Total bilirubin =< . x institutional upper limit of normal (IULN) OR direct bilirubin =< IULN for patients with total bilirubin > . x IULN
+Bilirubin =< . x IULN
+Bilirubin .- x IULN
+Total bilirubin =< . x international upper limit of normal (IULN) OR direct bilirubin =< IULN for patients with total bilirubin > . x IULN
+Total bilirubin =< . x institutional upper limit of normal (IULN) OR direct bilirubin =< IULN for patients with total bilirubin > . x IULN
+ARM B COHORT : Total bilirubin =< . x IULN
+ARM C COHORT : Total bilirubin =<  X IULN
+Total bilirubin <  x IULN
+Total bilirubin =< . x IULN
+Total bilirubin =< . x IULN
+Total bilirubin =< . x IULN
+Total bilirubin =< . x IULN
+Total bilirubin < . x IULN
+REGISTRATION # - PRIOR TO CONSOLIDATION CHEMOTHERAPY: Total bilirubin =< IULN
+Total bilirubin =< . x IULN
+Total bilirubin =< . x IULN within  days prior to Step  registration
+Total bilirubin =< IULN; or total bilirubin =< . x IULN or direct bilirubin =< . ULN in patients with well documented Gilberts syndrome
+Total bilirubin =< . x IULN
+Total bilirubin =< . x institutional upper limit of normal (IULN) OR direct bilirubin =< IULN for patients with total bilirubin > . x IULN
+Total bilirubin >=  x IULN

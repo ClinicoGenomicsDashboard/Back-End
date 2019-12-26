@@ -1,0 +1,99 @@
+Patients with renal abnormalities requiring modification of radiation field (pelvic kidney, renal transplant, etc.)
+Patients with renal abnormalities, such as pelvic kidney, horseshoe kidney, or renal transplantation, that would require modification of radiation fields
+Chronic renal failure or current evidence of moderate to severe renal impairment.
+Subjects in whom the required program of PO and IV fluid hydration is contraindicated, e.g., due to pre-existing pulmonary, cardiac, or renal impairment
+Pts in whom the required program of oral and intravenous fluid hydration is contraindicated, e.g. due to pre-existing pulmonary, cardiac, or renal impairment
+Pre-existing renal disease including glomerulonephritis, nephritic syndrome, Fanconi Syndrome or renal tubular acidosis.
+Any condition that could potentially alter immune function (AIDS, multiple sclerosis, diabetes, renal failure)
+Severe underlying cardiac or renal diseases
+Any condition that could potentially alter immune function (AIDS, multiple sclerosis, diabetes, renal failure)
+Imperative indication for nephron sparing surgery \r\n* Baseline chronic kidney disease (CKD) (stage 3, glomerular filtration rate [GFR]  < 60 ml/min/1.73m^2), or anatomically or functional solitary kidney (defined by renal scintigraphy of contralateral renal unit with < 15% function) or bilateral synchronous disease); and \r\n* Radius Exophytic/endophytic properties, Nearness of the tumor to the collecting system or sinus, Anterior/posterior, and Location relative to polar lines (RENAL) score >= 10 or proximity to renal hilum (defined as  < 2 mm away from at least 2 renal hilar vessels-the main artery/vein or first order branches); and\r\n* Radical nephrectomy would lead to severe CKD (stage 4, GFR < 45 ml/min/1.73m^2)
+Simple or intermediate renal mass on imaging (R.E.N.A.L score =< 9)
+History of any renal calculi or hyperoxaluria or any other preexisting renal disorder
+Obstructive renal failure that is not relieved with stents or nephrostomy tube/s
+Intestinal obstruction, uncontrolled gastrointestinal hemorrhage, pulmonary fibrosis, renal failure, liver failure, or cerebrovascular disorder
+Objective measurable (cardiac, renal or liver) organ amyloid involvement defined as follows (amyloid involvement of at least 1 required):\r\n* Mean wall thickness > 12 mm on echocardiogram, with no other cardiac cause or an elevated N-terminal pro b-type natriuretic peptide (NT-ProBNP) (> 332 ng/L) in the absence of renal failure or atrial fibrillation\r\n* Renal involvement is defined as proteinuria (predominantly albumin) > 0.5 g/day in a 24-hour urine collection\r\n* Total liver span > 15 cm in the absence of heart failure or alkaline phosphatase > 1.5 times institutional upper limit of normal (ULN)\r\n* NOTE: Amyloid involvement of other organ systems is allowed, but not required
+Creatinine > 1.5 or history of renal disease preventing use of ZA
+GROUP 1: \r\n* Patients must have 1) both a and b below; and 2) either c, or d\r\n** a) Diffuse cutaneous scleroderma as defined by skin thickening proximal to the elbows and knees and/or involving the torso in addition to distal extremity involvement; a skin score will be obtained but not used to determine eligibility\r\n** b) Duration of systemic sclerosis =< 7 years from the onset of first non-Raynaud's symptom; for those patients with disease activity between 5-7 years from the onset of first non-Raynaud's symptom, recent progression or activity of disease must be documented\r\n** c) Presence of SSc-related pulmonary disease with forced vital capacity (FVC) < 80% or hemoglobin-adjusted diffusing capacity for carbon monoxide (DLCO) < 70% of predicted AND evidence of alveolitis or SSc-related interstitial lung disease by high-resolution chest computed tomography (CT) scan and/or by bronchoalveolar lavage (BAL) (interstitial lung disease may be nonspecific interstitial pneumonia [NSIP] or usual interstitial pneumonia [UIP]; a bronchoalveolar lavage [BAL] should be done to confirm the findings of alveolitis only if the high resolution CT scan [HRCT] fails to show findings typically associated with systemic sclerosis changes [ground glass NSIP, UIP, SSc related interstitial lung disease]); alveolitis by BAL cell count will be defined based on a BAL cell differential count (> 3% neutrophils and/or > 2% eosinophils) from any lavaged lobe\r\n** d) History of SSc-related renal disease that may not be active at the time of screening; stable serum creatinine must be documented for a minimum of 3 months post-renal crisis at the time of the baseline visit; history of scleroderma hypertensive renal crisis is included in this criterion and is defined as follows:\r\n*** History of new-onset hypertension based on any of the following (measurements must be repeated and confirmed at least 2 hours apart within 3 days of first event-associated observation, with a change from baseline):\r\n**** Systolic blood pressure (SBP) >= 140 mmHg\r\n**** Diastolic blood pressure (DBP) >= 90 mmHg\r\n**** Rise in SBP >= 30 mmHg compared to baseline\r\n**** Rise in DBP >= 20 mmHg compared to baseline\r\n***AND one of the following 5 laboratory criteria: \r\n**** Increase of >= 50 % above baseline in serum creatinine\r\n***** Proteinuria: >= 2+ by dipstick confirmed by protein:creatinine ratio > 2.5\r\n***** Hematuria: >= 2+ by dipstick or > 10 red blood cell (RBC)s/hematopoietic-promoting factor (HPF) (without menstruation)\r\n***** Thrombocytopenia: < 100,000 platelets/mm^3\r\n***** Hemolysis: by blood smear or increased reticulocyte count\r\n*** The above definition of SSc hypertensive renal crisis is independent of whether concomitant anti-hypertensive medications are used\r\n*** Subjects who present with solely skin and renal disease in the absence of other organ involvement, except classic SSc renal crisis as described above and including non-hypertensive renal crisis, must see a nephrologist to confirm that their renal disease is secondary to only SSc\r\n*** Note: Subjects may be re-screened if they fail to meet inclusion criteria on initial evaluation
+Significant renal pathology defined as:\r\n* Estimated creatinine clearance (CrCl) < 40 mL/min (using Cockcroft-Gault formula based on actual body weight) and serum creatinine > 2.0 mg/dL; OR\r\n* Active, untreated SSc renal crisis at the time of enrollment; presence of nephrotic range proteinuria (defined as >= 3.5 gms/24 hours, or protein:creatinine ratio >= 3.5), active urinary sediment, urinary RBCs > 25 per HPF, or red cell casts require further investigation by a nephrologist to rule out glomerulonephritis, overlap syndromes, or other causes of renal disease in all subjects; subjects with glomerulonephritis or overlap syndromes will be excluded
+Documented hepatic insufficiency or renal failure
+Patients with renal abnormalities, such as pelvic kidney, horseshoe kidney, or renal transplantation, that would require modification of surgical lymph node assessments
+Renal
+Patients with chronic kidney disease who are on chronic renal replacement therapy are allowed; other tests, such as pulmonary function tests, cardiac echocardiogram or stress test, will be performed if clinically indicated
+Renal insufficiency, with creatinine greater than 1.5 mg/mL
+Renal mass =< 5 cm\r\n* The treating renal mass must be =< 5 cm; other renal masses (cysts etc.) of any size will not make the subject ineligible
+Biopsy proven renal neoplasm\r\n* All histology of renal cancers are included, including oncocytoma
+Growth of renal mass > 4 mm in radiographic scans must be demonstrated within a one year period
+Subject has received any treatment for the treating renal mass; such as radiofrequency ablation (RFA) or cryoablation\r\n* If other renal masses received RFA or cryoablation or surgery, then these patients are eligible
+Any medical history, concurrent disease or concomitant medication which could reasonably predispose the patient to renal insufficiency while on study treatment
+Concomitant disease or malformation severely affecting the cardiovascular, pulmonary, liver or renal function
+Patients with an organ confined renal mass planning to undergo a robotic assisted partial nephrectomy (RAPN)
+Patients with non-organ confined renal masses (invading renal vein, inferior vena cava, peri-renal tissue, ipsilateral adrenal gland, or metastasis)
+Patients with renal lesions determined to be too complex to perform a RAPN without clamp by the surgeon; (the renal mass may be deemed too difficult based on pre-operatively radiological findings; the surgeon’s decision to exclude a mass from a robotic assisted partial nephrectomy would be based on a higher risk of positive margin or complication if a RAPN was performed)
+Clinical evidence of significant renal impairment
+Severe renal disease (creatinine > x 3 normal for age)
+Patients with severe renal disease (i.e., creatinine clearance less than 40 cc/1.73 m^2)
+Patients in whom IV fluid hydration is contraindicated (e.g. due to pre-existing pulmonary, cardiac, or renal impairment) will NOT be eligible for participation
+Patients must not have any systemic illness which precludes them from being an operative candidate as determined by anesthesia preoperative evaluation. This includes but is not limited to, sepsis, liver failure, renal failure, cardiovascular failure, pulmonary failure
+Patients with renal abnormalities, such as pelvic kidney, horseshoe kidney, or renal transplantation, that would require modification of radiation fields
+Renal medullary carcinoma
+Renal medullary carcinoma
+Any clinically significant pre-existing severe renal disease (eg, glomerulonephritis, nephritic syndrome, Fanconi Syndrome or renal tubular acidosis) or high risk of developing severe renal impairment.
+Risk of hepatic or renal failure
+Have active metabolic or digestive illnesses such as malabsorptive disorders (Crohn’s, Celiac disease, irritable bowel syndrome [IBS]), renal insufficiency, hepatic insufficiency, cachexia, or short bowel syndrome
+Subjects with renal dysfunction defined as (a) Chronic renal failure requiring renal replacement therapy (RRT), or (b) Acute renal failure with onset of oliguria (urine output < 0.3 ml/kg/hr) > 48 hours prior to first dose of study drug whether receiving RRT or not
+Screening renal biopsy for RAIN confirming AL amyloidosis as exclusive or dominant cause of renal damage
+Patients whose screening renal biopsies for RAIN show dominant causes of renal damage not related to AL amyloidosis
+Pre-existing renal disease including glomerulonephritis, nephritic syndrome, Fanconi syndrome or renal tubular acidosis
+Renal
+Chronic renal disease / failure
+Subjects in whom the required program of PO and IV fluid hydration is contraindicated, eg, due to pre-existing pulmonary, cardiac, or renal impairment
+Any conditions that could potentially alter immune function (AIDS, multiple sclerosis, diabetes, renal failure)
+Patients with renal abnormalities, such as pelvic kidney, horseshoe kidney, or renal transplantation, that would require modification of surgical lymph node assessments
+Adequate renal and hepatic function (creatinine <2mg/dL and eGFR more than 30cc/minute, bilirubin <2mg/dL). Patients with renal or liver dysfunction due to organ infiltration by lymphocytes may be eligible after discussion with the study chairman. Patients with Gilbert's syndrome are eligible.
+Any conditions that could potentially alter immune function (AIDS, multiple sclerosis, diabetes, renal failure)
+Renal
+Severe liver or renal insufficiency
+DONOR: No history of significant cardiopulmonary, renal or neurologic disease
+History of renal disease or current evidence of renal disease
+Acute renal failure
+Patients in whom the required program of oral and IV fluid hydration is contraindicated, e.g. due to severe pre-existing pulmonary, cardiac, or renal impairment
+Renal:
+Patients in whom the required program of oral and IV fluid hydration is contraindicated, e.g. due to pre-existing pulmonary, cardiac, or renal impairment
+Patients with a history of renal disease
+Acute renal failure
+Significant renal impairment as determined per investigator discretion
+Acute or chronic severe renal insufficiency (glomoerular filtration rate <30 milliliters [mL]/minute/1.73 square meters) or acute renal insufficiency of any severity due to the hepato-renal syndrome.
+Patients with history of renal or hepatic insufficiency.
+Any current renal replacement therapy
+Patients with solitary kidneys, bilateral renal tumors, compromised renal function (baseline creatinine > 1.4)
+Renal insufficiency, defined as creatinine level greater than the upper limit of normal for age
+RENAL CANCER: Metastatic disease, in the opinion of the treating provider
+RENAL CANCER: Starting any systemic therapy for metastatic disease
+Chronic renal failure in renal replacement therapy
+Renal failure
+Patients with documented advanced cardiac or renal disease
+Patient must have a solitary, polar, clinical T1 renal mass
+Participants with renal insufficiency or failure, as determined by a point of care renal function blood test.
+EXCLUSION - PATIENT: Known or suspected renal insufficiency, rendering the participant unable to safely receive intravenous contrast based on institutional clinical protocol; renal insufficiency for the purposes of exclusion includes any of the following:\r\n* Known history of end stage renal disease with estimated glomerular filtration rate (eGFR) < 30 mL/min/1.73 m^2\r\n* Point of care (POC) measure of creatinine clearance (eGFR) prior to obtaining the MRI < 35; we will perform this POC test as needed per institutional policy for routine MRI if: (a) answered yes to any of the Choyke question AND no creatinine result is available in the optical mark recognition (OMR) software within 30 days of the MRI exam, regardless of patient age, or (b) the patient is > 60 years old, or (c) the patient is on hydroxyurea
+Renal function < 30% of normal for age and size as determined by the Schwartz formula
+Renal impairment
+Patients with renal failure are eligible; however, patients with pre-existing renal insufficiency will likely have further compromise in renal function and may require dialysis
+History of renal disease
+Individuals with uncontrolled renal insufficiency or renal failure
+Individuals with uncontrolled renal insufficiency or renal failure
+Renal impairment
+Patients with a history of renal lithiasis within the last 5 years or patients with evidence of kidney stones on entry evaluation
+Renal insufficiency with plasma creatinine > 1.6
+Renal insufficiency with recent (< 3 month old) creatinine > 2.0
+Women with renal failure or insufficiency
+Renal insufficiency with recent (< 3 month old) creatinine > 2.0 mg/dL
+Participants with renal insufficiency or failure, as determined by a point of care renal function blood test
+Medical condition\r\n* Renal transplant\r\n* Active or ongoing kidney disease or kidney failure, including but not limited to: functioning renal transplant, solitary kidney, proteinuria, multiple myeloma, acute and chronic nephropathies\r\n* Myasthenia gravis\r\n* Thyroid cancer or overactive thyroid\r\n* Severe congestive heart failure
+Acute renal dysfunction due to the hepato-renal syndrome or in the perioperative liver transplantation period
+Exposure to gadolinium-based contrast agents increases the risk for nephrogenic systemic fibrosis (NSF) in patients with acute or severe renal dysfunction; therefore, patients with the following conditions are excluded from the study:\r\n* Acute or chronic severe renal insufficiency (glomerular filtration rate < 30 mL/min/1.73 m^2)\r\n* Acute renal dysfunction due to the hepato-renal syndrome or in the perioperative liver transplantation period
+In order to identify subjects at risk for the development of NSF, the American College of Radiology (http://acr.org) recommends obtaining a medical history and a glomerular filtration rate (GFR) assessment within six weeks of MR imaging in the following patients: \r\n* Renal disease (including solitary kidney, renal transplant, renal tumor)\r\n* Age > 60\r\n* History of hypertension\r\n* History of diabetes\r\n* History of severe hepatic disease/liver transplant/pending liver transplant
+Individuals with renal disease or other contraindications to gadolinium will be excluded; the Brigham and Women’s Hospital (BWH) standard MRI contrast screening criteria will be used to establish renal status
+Pre-existing renal disease including glomerulonephritis, nephritic syndrome, Fanconi syndrome or renal tubular acidosis
+Renal insufficiency
+Patients with renal insufficiency such that they cannot get intravenous contrast as part of screening or follow-up

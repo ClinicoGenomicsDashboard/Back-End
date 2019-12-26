@@ -1,0 +1,40 @@
+Creatinine =< . times ULN
+Serum creatinine =< . times ULN
+Creatinine less than . times the ULN
+Serum creatinine =<  times ULN; timeline: within  weeks prior to enrollment
+Within  days prior to enrollment: Creatinine less than . times the ULN
+Renal: Serum creatinine ? . times ULN.
+Serum creatinine < . times ULN
+Serum creatinine < . times ULN
+Creatinine < . times ULN.
+Serum creatinine =< . times ULN
+Creatinine =< . times ULN
+Creatinine < . times ULN
+Creatinine =< . times ULN
+PRIOR TO CELL PROCUREMENT: Serum creatinine ? . times ULN
+PRIOR TO INFUSION OF ATLCAR.CD CELLS: Serum creatinine ? . times ULN
+Serum creatinine =<. times the ULN or
+Failure to meet the following laboratory levels on preoperative screening:\r\n* Platelet count >= , mm^\r\n* Hemoglobin >=  g/dl\r\n* Prothrombin time (PT) =< . times upper limit of laboratory normal (ULN)\r\n* Activated partial thromboplastin time =< . times ULN\r\n* Serum creatinine < . times ULN
+Serum creatinine < . times ULN, OR
+Creatinine =< . times ULN
+Serum creatinine < . times the institutional ULN
+Serum creatinine < . times ULN
+Serum creatinine =< . times the ULN
+Creatinine =< . times ULN
+Renal: Serum creatinine . times ULN.
+Serum creatinine < . times ULN
+Renal Status (within  days prior to randomization): a) Creatinine no greater than . times ULN
+Serum Creatinine < . times the institutional ULN
+Serum creatinine</=. times the ULN
+Serum creatinine =<  times ULN
+Creatinine >= . times ULN
+Renal: Serum creatinine less than or equal to . times ULN.
+Urea and serum creatinine < . times ULN
+Serum creatinine =< . times the ULN
+Obtained within  days prior to initiation of treatment: Serum creatinine =< . times ULN
+DONOR: Total creatinine kinase >  times the ULN
+Serum creatinine =< . times institutional ULN
+Serum creatinine =< . times ULN
+Required prior to infusion of ATLCAR.CD cells: Serum creatinine =< . times ULN
+DONOR: Total creatinine kinase >  times the ULN
+Serum creatinine within . times the institutions ULN

@@ -1,0 +1,1034 @@
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin ? g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin - g/dL (patients with hemoglobin >  g/dL are excluded)
+Hemoglobin >= . g/dL
+Hemoglobin <  g/dL
+Hemoglobin >=  g/dL (for treatment phase)
+Hemoglobin >  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin < . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= /dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dl
+Hemoglobin >= . g/dL
+Hemoglobin  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . gr/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+hemoglobin must be ? g/dL.
+Hemoglobin ?  g/dL
+Hemoglobin  g/dl or more
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+hemoglobin: ?  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin <  g/L (<  g/dL).
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin ? g/dL
+Hemoglobin >  g/dL
+Hemoglobin > . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= g/dL (women) or >= g/dL (men)
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin > . g/dL
+ARM  - A: Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dl
+Hemoglobin ? g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ?. g/dL;
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dL.
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >. g/dl
+Hemoglobin > . g/dl
+Hemoglobin ? g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >  g/dl
+Hemoglobin >= .g/dL
+Hemoglobin > . g/dL
+Hemoglobin ? .g/dL
+Hemoglobin >= . g/dL.
+Hemoglobin >= g/dl.
+Hemoglobin >= . g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL.
+Hemoglobin above  g/dl
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL.
+Hemoglobin ?  g/dL
+Hemoglobin ? . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin less than  g/dL
+Hemoglobin >= . g/dL.
+Hemoglobin >=  g/dL
+Hemoglobin at least  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin concentration ? . g/dL.
+Hemoglobin >= .g/dL.
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin < . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin* ? . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >= . g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ?  g/dL.
+Hemoglobin >  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dl
+Hemoglobin > . g/dl
+Hemoglobin >=  g/dl
+Hemoglobin >  g/dL.
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL (may be supported)
+Hemoglobin ?  g/dL
+Hemoglobin >=  g/dL.
+Hemoglobin >= . g/dl (prior to biopsy)
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= g/dL
+Hemoglobin >=  g/dL
+Patient has a hemoglobin value < g/dL at Screening
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL.
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL, at the time of enrollment
+Hemoglobin >= . g/dl
+Hemoglobin >= . g/dL.
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+STUDY TREATMENT: Hemoglobin >= . g/dl
+Hemoglobin >= . g/dl
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin (Hg) >=  g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >= . g/dL
+hemoglobin ?  g/dL;
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin =<  g/dL
+Hemoglobin >= g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL.
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin <  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= g/dL
+Hemoglobin < . g/dL
+Hemoglobin ? g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ? . g/dl;
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Patients must have a hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? g/dL
+Hemoglobin > . g/dL
+Hemoglobin < . g/dL
+Hemoglobin   < . g/dl
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dl
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin <  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin =< . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dl
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin <  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin < . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ?  g/dL ( g/L)
+Hemoglobin >= to  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >= g/dl
+Hemoglobin >=  g/dL
+Hemoglobin < . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+PHASE I: Hemoglobin >  g/dL
+Hemoglobin ? . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  gr/dL
+Hemoglobin <  gr/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  d/L (or >= g/dL)
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL (untransfused)
+Hemoglobin < . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin above  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin of >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL or >=  g/L
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin <  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dl
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin of >= . g/dL
+Hemoglobin > . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dl
+Hemoglobin >= . g/dl
+Hemoglobin >= . g/dL
+Hemoglobin (Hbg) >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL or >=  g/L
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin < . g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >/= .g/dL
+Hemoglobin ?  g/dL
+hemoglobin ?  g/dL
+Hemoglobin ? g/dl
+Hemoglobin >  g/dL
+. g/dL,
+hemoglobin >  g/dl
+Hemoglobin <g/dL
+Hemoglobin > g/dL.
+Hemoglobin >  g/dL during screening evaluation
+Hemoglobin <  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >  g/dL.
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dL
+Hemoglobin < . g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin ?. g/dL
+Hemoglobin ?  g/dL
+Hemoglobin > . g/dL
+Hemoglobin ?. g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ? g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin > . g/dl
+Hemoglobin >/=  g/dL prior to initial treatment
+Hemoglobin >= . g/dL
+Hemoglobin ?  g/dL ?  weeks
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL.
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin^ g/dL
+Hemoglobin >= . g / dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL or equivalent
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin  g/dl or more
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Minimum hemoglobin of  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin > g/dL
+Hemoglobin >=  g/dL
+Hemoglobin must be >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL, within  weeks of the first dose of study treatment
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ?. g/dL;
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dl
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dl
+Hemoglobin ?  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin ? g/dL
+hemoglobin >. g/dL
+Hemoglobin >  g/dL (>  g/L)
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ? g/dL
+Hemoglobin at least  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dL
+Hemoglobin ? . g/dl
+Hemoglobin ? . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? g/dL
+Hemoglobin <  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dl
+Hemoglobin less than . g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ? . g/dL
+Hemoglobin* > . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dl
+Hemoglobin <  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >= . g/dL.
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin < . g/dl
+Hemoglobin > . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Subjects with a hemoglobin < . g/dL
+Hemoglobin: ?  g/dL
+Hemoglobin <  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dl
+Hemoglobin >. g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin > . g/dL
+hemoglobin ?  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ?. g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin =< . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? g/dL
+Hemoglobin >=  g/dl
+Hemoglobin <  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? g/dl.
+Hemoglobin > . g/dL
+Hemoglobin >= g/dL
+Hemoglobin ?  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin < . g/dL
+Hemoglobin >= ./dL
+Hemoglobin >=  g/dL within  weeks of enrollment
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+PART B: Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL or >=  g/L
+Hemoglobin >=  g/dL or >=  g/L
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin < . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin at least . g/dL
+Hemoglobin > . g/dl
+Hemoglobin: >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >  g/dL
+Hemoglobin (Hg) >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >= . g/dl
+Hemoglobin ?. g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin < . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? g/dL,
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL\r\n* For patients enrolled to the Phase -T portion of the protocol, the hemoglobin should be >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >  g/dl
+Hemoglobin =< . g/dl
+Hemoglobin < . g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dL
+Hemoglobin ? g/dL
+Hemoglobin ?  g/dL
+Hemoglobin of at least  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin > . g/dL
+Hemoglobin ? g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin < . g/dl
+Hemoglobin > . g/dL
+Hemoglobin >  g/dL
+Hemoglobin > . g/dL
+Hemoglobin ? . g/dL
+Hemoglobin ?  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/L (>=  g/dL)
+Hemoglobin > . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin: >=  g/dL
+Hemoglobin > . g/dl
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin > . g/dl
+Minimum hemoglobin of  g/dL
+Hemoglobin: >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin <  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dl
+Hemoglobin <. g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin < g/dL
+Hemoglobin >=  g/dL
+Hemoglobin: >=  g/dl
+Hemoglobin > . g/dl
+Hemoglobin >= . g/dL
+Hemoglobin less than . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin < g/dL,
+Hemoglobin >= . g/dL
+A hemoglobin <  g/dL and ?  g/dL
+Hemoglobin ? . g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ? . g/dL;
+Hemoglobin ?  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin <. g/dL.
+Hemoglobin >= . g/dl
+Hemoglobin > . g/dL
+Hemoglobin < . g/dL
+Hemoglobin ?  g/dL
+Hemoglobin must be ?  g/dL.
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dl
+Hemoglobin >  g/dl
+Hemoglobin ? . g/dL
+Hemoglobin <. g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dl
+hemoglobin ? g/dL
+Hemoglobin >= . g/dL
+Hemoglobin < . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin ?  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dl
+Hemoglobin ? g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dl
+Hemoglobin >=. g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >  g/dL
+Hemoglobin =< . g/dl
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+hemoglobin >  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dl
+hemoglobin of >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin > . g/dl
+Hemoglobin > . g/dl
+Hemoglobin >=  g/dl
+Hemoglobin > . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin < . g/dl
+Hemoglobin >= . g/dl
+Hemoglobin >= . g/dL
+Hemoglobin <  g/dL
+Hemoglobin >= g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= .g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin > . g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL (>=  g/L)
+Hemoglobin >=  g/dL
+Hemoglobin < g/dL
+Hemoglobin >=  g/L (or >=  g/dL)
+Hemoglobin levels <  g/dL
+Hemoglobin >= . g/dL and =<  g/dL
+Hemoglobin ? . g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Blood hemoglobin >= . g/dL
+Hemoglobin >  g/dL
+Hemoglobin <  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin of =<  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >  g/dL
+Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL
+Hemoglobin <  g/dL
+Hemoglobin >=  g/dl
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >  g/dl
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >= .g/dL
+Hemoglobin <  g/dL
+Hemoglobin ?  g/dL
+Hemoglobin >  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dL (? . g/dL for hematologic malignancy) Renal function
+Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL
+Anemia (hemoglobin < . g/dL)
+Hemoglobin >=  g/dL
+Hemoglobin ? . g/dL
+Hemoglobin ? . g/dL;
+Hemoglobin >=  g/dL
+Hemoglobin ?. g/dL
+Hemoglobin >=  g/dl
+hemoglobin ? . g/dL,

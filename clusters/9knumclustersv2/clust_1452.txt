@@ -1,0 +1,35 @@
+Serum creatinine level =< IULN within  days prior to registration
+Within  days prior to registration: Serum creatinine =< . x IULN
+Patients must have adequate renal function with serum creatinine level =< IULN within  days prior to registration
+Serum creatinine =< . x IULN within  days prior to registration
+Patients must have creatinine clearance =< . x IULN
+Patients must have serum creatinine =<  x institutional upper limits of normal (IULN) within  days prior to registration
+Serum creatinine =< . x the IULN
+Creatinine =< . x IULN OR creatinine clearance >=  mL/min/. m^ for patients with creatinine levels > . x IULN (that is, if serum creatinine is > . x IULN, a -hour urine collection to calculate creatinine clearance must be performed)
+Serum creatinine =< . x institutional upper limit of normal (IULN) OR creatinine clearance by Cockcroft-Gault >=  mL/min for patients with serum creatinine > . x IULN
+Serum creatinine =< . x IULN OR creatinine clearance by Cockcroft-Gault >=  mL/min/. m^ for patients with creatinine levels > . x IULN
+Adequate renal and hepatic function (creatinine ? . x IULN, bilirubin ? . IULN, AST and ALT ? . x IULN or  x IULN if known liver metastases).
+Serum creatinine =< . x IULN OR creatinine clearance by Cockcroft-Gault >=  mL/min/. m^ for patients with creatinine levels > . x IULN
+Serum creatinine =< . x IULN OR creatinine clearance by Cockcroft-Gault >=  mL/min/. m^ for patients with creatinine levels > . x IULN
+Serum creatinine <  x IULN
+Adequate renal and hepatic function (creatinine ? . x IULN, bilirubin ? IULN, AST and ALT ? . x IULN or  x IULN if know liver metastases).
+Creatinine =< . x IULN OR measured or calculated creatinine clearance >=  mL/min for patients with creatinine levels > . x IULN
+Adequate renal and hepatic function (creatinine ? . x IULN, bilirubin within normal limits, AST and ALT ? . x IULN or  x IULN if know liver metastases)
+Creatinine =< . x IULN
+Within  days of subject registration: Serum creatinine =< . X IULN
+Baseline BNP >  x IULN
+Serum creatinine =< . x IULN
+Serum creatinine =<  x institutional upper limit of normal (IULN), unless due to lymphoma, within  day prior to registration
+Performed within  days of patient registration: Serum creatinine =< . x IULN
+Serum creatinine =< IULN within  days prior to registration
+Serum creatinine =< . x IULN within  days prior to Step  Randomization OR
+Serum creatinine =< . x IULN within  days prior to Step  registration OR
+Patients must have adequate organ and bone marrow function prior to registration, as defined below: \r\n* Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) <  x institutional upper         limit of normal (IULN)\r\n* Total bilirubin < . x IULN (unless Gilbert syndrome has been diagnosed); if leukemia infiltration of the liver is suspected to be causing liver function abnormalities the patient will still be eligible with principal investigator (PI) approval\r\n* Creatinine <  x IULN\r\n* Creatinine clearance >  mL/min (measured by Cockroft-Gault)
+Baseline troponin I or T > IULN and b-type natriuretic peptide > IULN
+Serum creatinine level =< IULN
+Serum creatinine =< . x IULN (assessed within  days prior to study day )
+Serum creatinine =< . x IULN OR creatinine clearance by Cockcroft-Gault >=  mL/min/. m^ for patients with creatinine levels > . x IULN
+Serum creatinine < . x IULN within  days prior to registration
+Serum creatinine =< . x IULN
+Serum creatinine =< . x IULN obtained within  days prior to registration
+Adequate baseline hematological and organ function, assessed by laboratory values prior to study treatment as follows: absolute neutrophil count (ANC) > . x /L; hemoglobin >  g/dL; serum creatinine <  x institutional upper limit of normal (IULN); aspartate transaminase (AST) < . x IULN; alanine transaminase (ALT) < . x IULN; (if liver metastases are present, ALT and AST <  x IULN); total bilirubin < . x IULN.

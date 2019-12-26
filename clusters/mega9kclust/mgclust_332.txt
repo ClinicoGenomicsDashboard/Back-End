@@ -1,0 +1,4 @@
+Cluster 309: dihydropyrimidine deficiency dehydrogenase dpd known fluorouracil fluoropyrimidine hypersensitivity capecitabine severe 
+Cluster 722: gpd phosphate deficiency dehydrogenase glucose known history patients hereditary normal 
+Cluster 1551: deficiency phosphate glucose dehydrogenase known history pd patients porphyria phosphatase 
+Cluster 2437: oxaliplatin irinotecan fluoropyrimidine fluorouracil fu leucovorin bevacizumab capecitabine chemotherapy therapy 

@@ -1,0 +1,6 @@
+Cluster 781: liver function disease patients metastases tests tumor lfts burden volume 
+Cluster 794: organ function marrow bone adequate defined days laboratory registration patients 
+Cluster 1325: organ function marrow normal defined patients bone tests days subjects 
+Cluster 1499: reserve marrow bone adequate inadequate demonstrated function organ evidenced laboratory 
+Cluster 2179: liver function adequate defined acceptable demonstrated subjects normal bilirubin participant 
+Cluster 2295: marrow bone function adequate defined evidenced subject lymphodepleting patient participants 

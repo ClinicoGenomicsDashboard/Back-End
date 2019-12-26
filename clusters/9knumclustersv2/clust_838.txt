@@ -1,0 +1,10 @@
+Serum amylase =< . x institutional upper limit of normal
+Baseline amylase above the upper limit of normal
+Serum amylase =< . x institutional upper limit of normal
+Amylase =<  x upper limit of normal
+Serum amylase =< upper limit of normal
+Obtained =<  days prior to registration:\r\nSerum amylase and lipase =< . x upper limit of normal (ULN)
+Serum amylase =< upper limit of normal
+Normal serum amylase =< (ULN) OR normal
+Obtained =<  days prior to registration: Serum amylase =< . x upper limit of normal (ULN)
+Amylase =<   upper limits of normal

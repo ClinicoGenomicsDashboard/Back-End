@@ -1,0 +1,12 @@
+The subject has tumor invading or encasing any major blood vessels
+55.0
+The participant has tumor invading or encasing any major blood vessels
+42.0
+The subject has tumor in contact with, invading or encasing any major blood vessels
+72.0
+The subject has tumor in contact with, invading or encasing any major blood vessels
+90.0
+The subject has tumor invading any major blood vessels
+135.0
+Patient�s baseline imaging must not indicate the presence of tumor invading or encasing any major blood vessels
+180.0

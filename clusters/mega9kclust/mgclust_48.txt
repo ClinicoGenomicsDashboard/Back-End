@@ -1,0 +1,9 @@
+Cluster 256: donors hla matched siblings unrelated donor related haploidentical allele drb 
+Cluster 349: hla typing resolution drb donor high unrelated matched allele dqb 
+Cluster 724: dr donor matched hla unrelated loci allele dq antigen related 
+Cluster 1091: hla matched leukocyte donor antigen human unrelated related drb sibling 
+Cluster 1443: donor age years matched related haploidentical sibling morbidity score yr 
+Cluster 1883: resolution match donor typing drb hla dna high unrelated using 
+Cluster 1911: matched donor unrelated related hla available donate mismatched allele suitable 
+Cluster 2099: sibling donor hla matched identical offspring parent transplant available haploidentical 
+Cluster 2332: donors donor marrow blood related meet apheresis unrelated nmdp guidelines 

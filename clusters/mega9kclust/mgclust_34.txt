@@ -1,0 +1,4 @@
+Cluster 205: carcinoma skin cell cancer situ basal curative cervical squamous potentially 
+Cluster 290: malignancy cell recurrence deemed years basal free low carcinoma investigator 
+Cluster 572: diagnosed malignancy nonmelanoma residual type undergone resection situ skin carcinoma 
+Cluster 1342: malignancy carcinoma cell curative basal low squamous prostate situ resection 

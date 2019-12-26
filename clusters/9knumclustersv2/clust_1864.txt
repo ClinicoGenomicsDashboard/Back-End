@@ -1,0 +1,11 @@
+Participants with AML (%-% blasts) must have a treatment-related mortality (TRM) score >= for intensive, induction chemotherapy as calculated using the simplified model described by Walter and coworkers. Calculation of TRM score:
+Patients eligible for intensive induction chemotherapy and medically unfit based on a treatment related mortality (TRM) score >= .\r\n* TRM score= a scoring model which predicts early death following intensive induction chemotherapy in newly diagnosed AML; \r\n** Model looks at ECOG performance status (PS), age, platelet count, albumin, second (nd) AML, white blood cells (WBC), percentage (%) peripheral blasts, creatinine\r\n** Score above . associated with %+ chance of death after induction
+Treatment-related mortality (TRM) score >= . as calculated with simplified model
+Treatment-related mortality (TRM) score =< . as calculated with simplified model
+Treatment-related mortality (TRM) score =< . as calculated with simplified model
+Treatment-related mortality (TRM) score < . corresponding to a TRM rate of % when chemotherapy of similar intensity as proposed here is administered to inpatients
+Medically fit, as defined by treatment-related mortality (TRM) score ?. calculated with simplified model
+Treatment-related mortality (TRM) score =< . as calculated with simplified model
+Treatment related mortality (TRM) score < .; patients with TRM scores > ., in whom the risk of death within  days of beginning induction therapy has averaged %, will preferentially be placed on protocol 
+Treatment-related mortality (TRM) score >= . as calculated with simplified model
+Treatment-related mortality (TRM) score =< . as calculated with simplified model

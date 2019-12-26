@@ -1,0 +1,61 @@
+Absolute neutrophil count (ANC) >= /mcL, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= ,/mcL, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= ,/mm^, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= ,/mcL, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment initiation
+Absolute neutrophil count >= /mm^ (performed within  days of treatment initiation)
+Absolute neutrophil count (ANC) >= ,/mcL (performed within  days of treatment initiation)
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of study registration
+Should be performed within  days of treatment initiation: absolute neutrophil count (ANC) ? . x ^/L (? per mm^)
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment initiation
+Performed within  days of treatment initiation: Absolute neutrophil count (ANC) ? ,/mcL
+Absolute neutrophil count (ANC) >= , /mcL, should be performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment
+Performed within  days of treatment initiation: absolute neutrophil count (ANC) >= , /mcL
+Should be performed within  days of treatment initiation: absolute neutrophil count (ANC) ? , /mcL
+Absolute neutrophil count (ANC) >= , /mcL (performed within  days of treatment initiation)
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= ,/mcL, performed within  days of treatment initiation
+To be performed within  days of treatment initiation: absolute neutrophil count (ANC) ? , /mcL
+Performed within  days of treatment initiation: Absolute neutrophil count (ANC) >= /mcL
+Absolute neutrophil count (ANC) >= , /mcL (performed within  days of treatment initiation)
+Performed within  days of treatment initiation: Absolute neutrophil count (ANC) >= , /mcL
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment initiation
+Performed within  days of treatment initiation: Absolute neutrophil count (ANC) >= ,/mcL
+Performed within  days of treatment initiation: Absolute neutrophil count (ANC) >= ,/uL
+Absolute neutrophil count (ANC) >= ,/mcL, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= /mcL, performed within  days of protocol registration
+Performed within  days of treatment initiation: Absolute neutrophil count (ANC) >= ,/mcL
+Absolute neutrophil count (ANC) >= ,/mcL, performed within  days of registration
+Performed within  days of treatment initiation: Absolute neutrophil count (ANC) >= ,/mcL
+Absolute neutrophil count (ANC) >=  /mcL performed within  days of treatment initiation
+Absolute neutrophil count >= /uL performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= , /mcL (performed within  days of treatment initiation)
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment initiation
+Performed  days prior to study registration up to the first dose of study drug: absolute neutrophil count (ANC) >= , /mcL
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment initiation
+Performed within  days (+ working days) of treatment initiation: Absolute neutrophil count (ANC) >= , /mcL
+Performed within  days of treatment initiation: Absolute neutrophil count (ANC) >= ,/mcL
+Performed within  days prior to study registration up to the first dose of study drug: Absolute neutrophil count (ANC) >= , /mcL
+Absolute neutrophil count (ANC) >= ,/mcL, performed within  days of treatment initiation
+Performed within  days of treatment initiation; absolute neutrophil count (ANC) ? , /mcL
+Absolute neutrophil count (ANC) >= ,/mcL, should be performed within  days of treatment initiation
+All screening labs should be performed within  days (+ working days) of treatment initiation: absolute neutrophil count (ANC) >= , /mcL;
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= ,/mcL (performed within  days of treatment initiation)
+Absolute neutrophil count (ANC) >= ,/mcL, OR >= ,/mcL if lymphomatous bone marrow involvement, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= , /mcL (performed within  days of treatment initiation)
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= . K/mcL, should be performed within  days of treatment initiation, unless otherwise indicated
+Absolute neutrophil count (ANC) >= . x ^/L, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= ,/mcL, performed within  days prior to registration
+Performed within  days of radiation therapy: Absolute neutrophil count (ANC) >= ,/mcL
+Absolute neutrophil count (ANC) >= ,/mcL, performed within  days of treatment initiation
+Absolute neutrophil count >= ,/mcL (labs should be performed within  days of treatment initiation)
+Performed within  days of treatment initiation: Absolute neutrophil count >= ,/mcL
+Performed within  days of treatment initiation: Absolute neutrophil count (ANC) >= /mcL
+Absolute neutrophil count (ANC) >= ,/mcL (performed within  days of treatment initiation)
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of treatment initiation
+Absolute neutrophil count (ANC) >= , /mcL, performed within  days of protocol enrollment

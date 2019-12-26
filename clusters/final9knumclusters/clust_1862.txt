@@ -1,0 +1,38 @@
+ECOG < 2
+ECOG of 0-1 at screen
+ECOG ? 2
+ECOG ? 1
+Patient with ECOG ? 2
+ECOG 0-2
+ECOG 0 or 1
+ECOG 0 or 1
+ECOG 0-2
+PART II: ECOG 0-1
+ECOG 3 - 4
+ECOG 0 or 1
+ECOG 0 or 1
+ECOG of 0 or 1
+ECOG 0-2
+ECOG ?2.
+Patient with ECOG ? 2
+ECOG 0,1
+ECOG 3 or 4
+ECOG ? 1
+ECOG of 0 to 1
+ECOG ?2.
+ECOG 0 or 1
+ECOG ? 2
+ECOG 0 or 1
+ECOG 0 to 2
+ECOG=2 or better
+ECOG of 0 or 1
+ECOG of 0 or 1.
+ECOG ? 2.
+ECOG 0-1
+ECOG 0 or 1
+ECOG ? 2
+ECOG 0, 1 or 2
+ECOG of 0 or 1
+ECOG > 2
+ECOG 0 or 1 at enrolment.
+ECOG 0, 1, or 2

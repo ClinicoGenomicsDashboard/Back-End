@@ -1,0 +1,25 @@
+INCLUSION CRITERIA FOR ENROLLMENT: The patient has been off all immunosuppression for at least  weeks at the time of PTCy-MILs collection
+EXCLUSION CRITERIA FOR ENROLLMENT: The use of immunosuppression for grade II-IV acute GVHD within  days prior to the infusion of PTCy-MILs
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Confirmation of active relapse involving the bone marrow of a hematologic malignancy >=  months after alloHCT employing PTCy as GVHD prophylaxis and more than  days after PTCy-MILs infusion
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Donor CD+ chimerism >= % measured in peripheral blood or bone marrow
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Eastern Cooperative Oncology Group (ECOG) performance status =<  or Karnofsky performance scale (KPS) >= %
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: No active acute infections
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: No requirement for systemic steroids
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: White blood cell count (WBC) >= ,/uL
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Absolute neutrophil count (ANC) >= ,/uL
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Platelets >= ,/uL (transfusions are permitted)
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Hemoglobin >= . g/dL (transfusions are permitted)
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: AST (aspartate aminotransferase) =<  x ULN
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: ALT (alanine aminotransferase) =<  x ULN
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Bilirubin =< . x ULN
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Serum creatinine =< . x ULN or creatinine clearance (CrCl) >=  mL/min (if using the Cockcroft-Gault formula)
+INCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Expectation of ability to safely undergo salvage treatment appropriate for the patients malignant disease type
+EXCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: More than  years have elapsed since the patients initial PTCy-MILs infusion
+EXCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Most recent alloHCT performed did not utilize PTCy GVHD prophylaxis
+EXCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: The presence of active GVHD requiring treatment
+EXCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: The use of immunosuppression for grade II-IV acute GVHD within  days prior to the infusion of PTCy-MILs
+EXCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Creatinine >= .
+EXCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: Total bilirubin >  times the upper limit of normal (ULN)
+EXCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: AST (aspartate aminotransferase)/ALT (alanine aminotransferase) >  times the ULN
+EXCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: HIV-/ or HTLV-/ positivity
+EXCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: The patients life expectancy is =<  days even with aggressive treatment and/or supportive care, as determined by the treating hematologist/oncologist

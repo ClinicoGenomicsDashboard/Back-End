@@ -1,0 +1,26 @@
+If applicable, patient with >= grade 2 peripheral neuropathy within 14 days before enrollment
+Grade 3 peripheral neuropathy within 14 days before enrollment.
+> Grade 1 peripheral neuropathy within 14 days before enrollment.
+Patient with peripheral neuropathy Grade >2
+Patient has >= grade 2 peripheral neuropathy within 14 days of trial enrollment
+Patient has >= grade 2 peripheral neuropathy within 14 days before enrollment and at D60-180 after AHCT; patients who had >= grade 2 peripheral neuropathy within 14 days before enrollment but resolves to grade 1 or lower peripheral neuropathy at D60-D180 after AHCT can be enrolled at this time
+Patient has >= grade 2 peripheral neuropathy
+Patient has >= grade 2 peripheral neuropathy
+The patient has peripheral neuropathy >= grade 2
+Patient has >= grade 2 peripheral neuropathy within 14 days before enrollment
+Patient has >= grade 2 peripheral neuropathy within 14 days before enrollment
+Grade >= 2 peripheral neuropathy within 21 days before enrollment
+Patient must not have >= grade 2 peripheral neuropathy within 14 days before enrollment
+Patient has >= grade 2 peripheral neuropathy
+Patient has >= grade 2 (CTCAE v 4.0) peripheral neuropathy within 14 days before enrollment
+Patient has >= grade 2 peripheral neuropathy within 14 days before enrollment
+Patient has > = Grade 2 peripheral neuropathy within 14 days before enrollment.
+Subject has > grade 2 peripheral neuropathy within 14 days before enrollment
+Grade >= 2 peripheral neuropathy within 14 days before enrollment
+Patient has >/= Grade 2 peripheral neuropathy within 14 days before enrollment.
+No grade 2 >= peripheral neuropathy within 14 days before enrollment
+Patient has >= grade 2 peripheral neuropathy
+If applicable, patient has >= Grade 2 peripheral neuropathy within 14 days before enrollment
+Patient has >= grade 2 peripheral neuropathy
+If applicable, patient has >= grade 2 peripheral neuropathy within 14 days before enrollment
+Patient has >= grade 2 peripheral neuropathy within 14 days prior to treatment initiation

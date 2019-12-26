@@ -1,0 +1,65 @@
+Patients must have corrected QT interval calculated by the Fridericia formula (QTcF) =<  ms within  days before registration
+Prolonged Fridericia's corrected QT interval (QTcF) >  ms for men and >  ms for women at Screening.
+Baseline corrected Fridericia QT (QTcF) >=  ms (males) or >=  ms (females)
+Prolongation of corrected QT interval by Fridericia's method (QTcF) at rest, where the mean QTcF interval is >  milliseconds (ms) for males and >  ms for females based on triplicate ECG.
+Prolonged Fridericia's corrected QT (QTcF) >  ms for men and >  ms for women at screening.
+Baseline QT interval corrected with Fridericia's method (QTcF) >  ms Part  Only:
+QTc Fridericia (QTcF) > ms
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from an electrocardiogram (ECG) using Fridericias Correction (QTcF)\r\n* At screening, a single ECG will be obtained on which QTcF must be <  ms; in case of clinically significant ECG abnormalities, including a QTcF value >  ms,  additional -lead ECGs should be obtained over a brief period (eg,  minutes) to confirm the finding
+Subjects must have a -lead electrocardiogram (EKG) showing no active ischemia and Fridericia's corrected QT interval (QTcF) less than  ms.
+Prolongation of corrected QT using Fridericia's formula (QTcF) interval to >  ms
+Has a medical history of symptomatic congestive heart failure (New York Heart Association classes II-IV) or a serious cardiac arrhythmia requiring treatment Has a corrected QT by Fridericia's formula (QTcF), of > ms based on a triplicate -lead ECG
+Mean QT interval corrected for heart rate using Fridericias formula (QTcF) >=  ms; abnormality must be confirmed on  electrocardiography (ECG)s
+QT interval corrected for heart rate using Fridericias formula (QTcF) >=  ms; (any clinically significant abnormalities detected require triplicate electrocardiogram [ECG] results and a mean QT interval corrected for heart rate using Fridericias formula (QTcF) >=  ms calculated from  ECGs)
+QT interval corrected for heart rate using Fridericias formula (QTcF) >=  ms. Any clinically significant abnormalities detected, require triplicate electrocardiogram (ECG) results and a mean QT interval corrected for heart rate using Fridericias formula (QTcF) >=  ms calculated from  ECGs.
+Has history or presence of an abnormal electrocardiogram (ECG) which, in the investigator's opinion, is clinically significant\r\n* Corrected QT Fredericia's formula (QTcF) >=  ms or presence of a left bundle branch block (LBBB); if the QRS duration > ms, the JTc can be used in place of the QTcF; the JTc must be <  ms
+Have normal QT interval on electrocardiogram (ECG) evaluation QT corrected Fridericia (QTcF) of =<  ms in males or =<  ms in females
+?lead electrocardiogram (ECG) demonstrating QT interval corrected by Fridericia's formula > ms in males or > ms in females at screening or history of long QT interval corrected syndrome.
+Baseline corrected QT interval (corrected QT interval by Fridericia's formula [QTcF]) <  ms
+Subjects with prolongation of corrected QT interval by Fridericias method (QTcF) at rest, where the mean QTcF interval is >  milliseconds (ms) for males and >  ms for females based on triplicate electrocardiogram (ECG)
+Have normal QT interval corrected (Frederica) (QTcF) interval on screening electrocardiogram (ECG) evaluation, defined as QTcF of ?  ms in males or ?  ms in females.
+Fridericia corrected QT (QTcF) correction unmeasurable or >  ms on screening ECG (Note: If a patient has a QTcF interval >  ms on screening ECG, the screening ECG may be repeated twice [at least  hours apart] for a total of  ECGs; the average QTcF from the three screening ECGs must be =<  ms in order for the patient to be eligible for the study)
+Prolongation of corrected QT interval by Fridericia's method (QTcF) at rest, where the mean QTcF interval is > ms for males or > ms for females based on triplicate electrocardiograms (ECGs).
+Corrected QT interval using Fridericia's formula (QTcF) interval less than or equal to  ms (Phase II only)
+Corrected QT for Fridericia (QTcF) interval greater than  ms that is not correctable to less than  ms such as with cessation of a causative medication, etc
+History or presence of an abnormal electrocardiogram (ECG) that, in the Investigator's opinion, is clinically meaningful. Screening QTcF interval > ms is excluded. In the event that a single QTcF is > ms, the subject may enroll if the average QTcF for the  ECGs is < ms. For patients with an intraventricular conduction delay (QRS interval >ms), the JTc interval may be used in place of the QTcF with Sponsor approval. The JTc must be < ms if JTc is used in place of the QTcF. Patients with an intraventricular delay due to a left bundle branch block are excluded; Note: QTcF prolongation due to pacemaker may enroll if the JTc is normal.
+QTcF interval > ms on screening ECG.
+For screening electrocardiographs (ECGs), exclude patients with a Fridericia's corrected QT interval (QTcF) >  ms, or JTc >  ms for those with an intraventricular conduction delay. If the screening ECG has a QTcF >  ms, eligibility can be confirmed if the average of  ECGs done  minutes apart have an average QTcF <  ms
+Corrected QT using Fridericia's formula (QTcF) =<  ms
+The subject has a corrected QT interval calculated by the Fridericia formula (QTcF) >  ms =<  days before the first dose of study treatment
+Cardiac ejection fraction >= %, and Fridericia's formula corrected QT (QTcF) <  ms (male) or <  ms (female) on electrocardiogram (ECG) at baseline
+DOSE ESCALATION COHORT: History or presence of an abnormal electrocardiogram (ECG) which, in the investigator's opinion, is clinically meaningful; screening corrected QT using Fridericias formula (QTcF) interval > ms is excluded; subjects with left bundle branch block are excluded
+Subjects who have a corrected QT (Fridericia's correction formula [QTcF]) interval >  milliseconds (ms) (CTCAE grade > ) determined by the electrocardiogram (ECG) recorders algorithm on the screening ECG
+Subjects with mean of triplicate Fridericia-corrected QT interval (QTcF) >  ms at Screening based on central reading.
+For participants receiving alectinib: baseline Fridericias corrected QT interval (QTcF) greater than (>)  milliseconds (ms) or symptomatic bradycardia.
+QTcF values higher than  ms at screening
+Subjects with mean QTcF interval >  ms.
+Fridericias Corrected QT interval (QTcF) prolongation >  ms or QT prolongation deemed clinically relevant by the investigator (e.g., congenital long QT syndrome). The QTcF will be calculated as the mean of the  ECGs taken at screening.
+The subject has a corrected QT interval calculated by the Fridericia formula (QTcF) >  ms within  days before treatment initiation
+Subject with mean Fridericia-corrected QT interval (QTcF) >  ms at screening based on central reading.
+A screening Fridericia corrected QT interval (QTcF) >=  ms (men) or >=  ms (women)
+A screening Fridericia corrected QT interval (QTcF) ?  ms (men) or ?  ms (women).
+Baseline corrected QT interval using Fridericia's formula (QTcF) >  ms; NOTE: this criterion does not apply to patients with a left bundle branch block
+Have normal QT interval on screening electrocardiogram (ECG) evaluation, defined as QT interval corrected (Fridericia) (QTcF) of ? ms in males or ? ms in females.
+QT interval corrected for heart rate by Fridericia's formula (QTcF) ? ms
+Subject has Fridericia-corrected QT interval (QTcF) >  ms at Screening based on central reading.
+Patient has a corrected QT interval (QTcF) >  ms at screening
+Corrected QT interval corrected for Fridericia's formula (QTcF) <  ms
+Corrected QT interval according to Fridericia (QTcF) prolongation >  ms or QT prolongation deemed clinically relevant by the investigator (e.g., congenital long QT syndrome).The QTcF will be calculated as the mean of the  Electrocardiogram (ECGs) taken at screening.
+The subject has a corrected QT interval calculated by the Fridericia formula (QTcF) >  ms within  days before randomization
+The patient has a corrected QT interval (corrected QT using Fridericia formula [QTcF]) >  ms within  days before randomization; if QTcF is >=  ms by Bazett formula, this must be confirmed by the Fridericia formula
+Normal QT Fridericia-corrected interval (QTcF) ? ms for males and ? ms for females
+QT-interval corrected according to Fridericia's formula (QTcF) ?  ms on electrocardiogram (ECG) at Screening
+Clinically significant abnormal -lead ECG, QT interval corrected using Fridericia's method (QTCF) >  ms
+Subject has QTcF interval >  ms on -lead ECG at screening.
+Normal QT interval corrected (Fridericia) (QTcF) on screening electrocardiogram (ECG) evaluation, defined as QTcF of =<  ms in males or =<  ms in females
+Clinically significant abnormal -lead ECG, QT interval corrected using Fridericia's method (QTcF) > ms
+Corrected QT interval (QTc) of >  milliseconds (ms) in males and >  milliseconds (ms) in females on baseline electrocardiogram (ECG) (using Fridericia [QTcF] corrected QT interval
+Prolongation of corrected QT interval by Fridericia's method (QTcF) at rest, where the mean QTcF interval is >  ms for males and >  ms for females based on triplicate electrocardiogram (ECG).
+The subject has a corrected QT interval calculated by the Fridericia formula (QTcF) >  ms within  days before week  day 
+QT interval corrected for heart rate using Fridericias formula (QTcF) >=  ms; any clinically significant abnormalities detected, require triplicate electrocardiography (ECG) results and a mean QT interval corrected for heart rate using Fridericias formula (QTcF) >=  ms calculated from  ECGs
+Fridericia's corrected QT (QTcF) prolongation >  ms or QT prolongation deemed clinically relevant by the investigator (e.g., congenital long QT syndrome); the QTcF will be calculated as the mean of the  electrocardiograms (ECGs) taken at screening\r\n* NOTE: The formula used to calculate QTcF can be physicians choice, but it must be used consistently throughout the study
+Subject has a QTcF >  ms (corrected) in the screening or baseline ECG.
+A history of clinically significant electrocardiography (EKG) abnormalities, including QT prolongation (Fridericia corrected QT interval [QTcF] >  ms), a family history of prolonged QT interval syndrome, or myocardial infarction (MI) within  months of study entry; patients with rate-controlled atrial fibrillation/flutter will be allowed on study
+Has a mean corrected QT interval using Fridericia's Correction Formula (QTcF) prolongation to >  ms for females and >  ms for males in three successive Screening measurements
+Has prolonged corrected QT interval by Fridericia's method (QTcF) at rest, where the mean QTcF interval is >  milliseconds (ms) based on triplicate electrocardiograms (ECGs)

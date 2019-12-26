@@ -1,0 +1,10 @@
+Positive serology for hepatitis C (HC) defined as a positive test for HC antibody (HepC Ab), in which case reflexively perform an HC recombinant immunoblot assay (RIBA) or hepatitis C viral load to confirm the result; if the confirmatory test is negative the subject will be eligible
+Positive serology for hepatitis C (HC) defined as a positive test for hepatitis C antibody (HCAb), in which case reflexively perform a HC recombinant immunoblot assay (RIBA) on the same sample to confirm the result
+Positive serology for hepatitis C (HC) defined as a positive test for hepatitis C antibody (HCAb) and confirmed by HC recombinant immunoblot assay (RIBA) or hepatitis C virus (HCV) ribonucleic acid (RNA) viral load
+Positive serology for hepatitis C (HC) defined as a positive test for hepatitis C antibody (HCAb), in which case reflexively perform a hepatitis C virus (HCV) PCR to confirm the result
+Positive serology for hepatitis C (HC) defined as a positive test for HBcAb, in which case reflexively perform a HC recombinant immunoblot assay (RIBA) on the same sample to confirm the result
+Positive serology for hepatitis C (HC) defined as a positive test for HC antibody (Ab) if confirmed by HC recombinant immunoblot assay (RIBA) immunoblot assay (for positive HCAb reflexively perform a HC RIBA immunoblot assay on the same sample)
+Positive serology for hepatitis C (HC) defined as a positive test for hepatitis C antibody (HCAb), in which case reflexively perform a HC radioimmunoblotting assay (RIBA) immunoblot assay on the same sample to confirm the result
+Positive serology for hepatitis C (HC) defined as a positive test for hepatitis C antibody (HCAb)
+Active hepatitis C infection; if positive serology for hepatitis C (HC) defined as a positive test for hepatitis C virus antibody (HCAb), HC quantitative polymerase chain reaction (PCR) will be performed; if PCR is positive the subject will be excluded
+Positive serology for hepatitis C (HC) defined as a positive test for hepatitis C antibody (HCAb)

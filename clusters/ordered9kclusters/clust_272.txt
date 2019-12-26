@@ -1,0 +1,49 @@
+DONOR: HLA-identical sibling
+Patients with age =< 10 years undergoing HSCT with a matched sibling donor; these patients are at very low risk of acute GVHD and do not receive gut decontamination per our institutional standard practice
+DONOR: HLA genotypically identical sibling matched relative
+Available HLA identical matched sibling donor (unless having failed a prior allogeneic transplant from an HLA identical matched sibling)
+DONOR: HLA-matched sibling bone marrow in combination with HLA-matched sibling umbilical cord blood if the HLA-matched sibling umbilical cord blood was collected and stored; the HLA-matched sibling bone marrow and cord blood would be matched for HLA-A, B, C, DRB1, and DQB1
+Patient in CR or has a bone marrow failure disorder or non-malignant hematologic or immune disorder: Does NOT have a sibling donor or 12/12 HLA matched unrelated donor available OR treating clinician considers haploidentical transplant preferable (despite sibling donor availability or 12/12 HLA matched donor availability) due to patient’s clinical status
+Availability of an 8 of 8 (HLA-A, B, C and DRB1) HLA matched sibling or matched unrelated donor
+Recipients must have received an human leukocyte antigen (HLA)-identical sibling allogeneic hematopoietic stem cell transplant, or an 8/8-matched (HLA-A, B, C, DR) other-than-sibling related donors, or a 8/8-matched (HLA-A, B, C, DR) unrelated donor (URD) allo-hematopoietic stem cell transplantation (HSCT) for an eligible CD30+ lymphoma
+Must have no 7/8 or 8/8 HLA-matched sibling donor - patients >= 70 and =< 75 years of age may be eligible if they have a co-morbidity score =< 2
+Persons with a HLA matched sibling donor
+DONOR: Related donor (parents, sibling, offspring, or offspring of sibling)
+DONOR:\r\n* PART 1: Donor must be a 5/6 or 6/6 human leukocyte antigen (HLA)-matched sibling willing to donate PBSC for transplant\r\n* PART 2: Donor must be a 5/6 or 6/6 HLA-matched sibling or >= 3/6 HLA haploidentical donor willing to donate PBSC for transplant; haploidentical donors will be allowed to participate upon investigator decision and based on the data reached from 5/6 or 6/6 HLA matched transplant done during Part 1 of the study
+DONOR: HLA-matched or single allele mismatched sibling of enrolled transplant patient
+Patients must be medically ineligible for allogeneic stem cell transplant (alloSCTx) or not have a known fully HLA matched sibling for planned sibling transplant
+Patients for whom an human leukocyte antigen (HLA) matched sibling donor bone marrow transplant is being actively pursued will not be eligible for study until it is determined that no sibling donor is available or that a stem cell transplant is not feasible during the time the patient might be on study\r\n* No patient will be included in this study as an alternative to a clinically indicated HLA matched sibling donor stem cell transplant\r\n* If an HLA matched sibling donor is identified, but stem cell or marrow collection is not feasible (e.g., donor is in utero, is a newborn from whom cord blood was not collected, or is unable to undergo a donation procedure because of ill health), a patient may be included in the study at the discretion of the investigators
+Patients with an available 5-6/6 HLA-A, B, DRB1 matched sibling donor
+HLA-identical sibling
+Patients who are ineligible for or refuse BMT from a HLA-matched, sibling donor
+< 70 years with an available 5-6/6 HLA-A, B, DRB1 matched sibling donor
+DONOR: A sibling donor–fully matched
+DONOR: A sibling donor–haploidentical
+Patients must have a 10/10 matched sibling peripheral blood progenitor cell donor
+Availability of a genetic child, genetic parent or sibling as a potential HLA haploidentical donor
+No 10/10 matched sibling donor available or not financially eligible for allogeneic stem cell transplantation
+DONOR: Must be the same sibling donor from whom the recipient’s blood and marrow graft was collected for the original allogeneic transplant that is HLA 7/8 or 8/8 or haploidentical matched at the HLA-A, B, C, and DRB1
+DONOR: Related donor (sibling, parent, offspring, parent or offspring of an HLA identical sibling) >= age 14 years (if < 18 years, > 40 kg)
+DONOR: Must be 6/6 matched sibling donor as determined by HLA typing
+Identification of a HLA-matched hematopoietic cell donor without a history of a disorder that can be transmitted by hematopoietic cells, including but not limited to inflammatory bowel disease, and without nucleotide-binding oligomerization domain containing 2 (NOD2) mutations in the case of a HLA matched sibling
+DONOR: Related donors (sibling, parent, offspring, parent or offspring of an HLA identical sibling)
+Matched sibling or un-related donor (A, B, C, and DR) available to undergo leukopheresis
+Available HLA-haploidentical donor that meets the following criteria:\r\n* Blood-related family member (sibling [full or half], offspring, parent, cousin, niece or nephew, aunt or uncle, or grandparent) \r\n* At least 18 years of age\r\n* HLA-haploidentical donor/recipient match by at least low-resolution typing per institutional standards\r\n* In the investigator’s opinion, is in general good health, and medically able to tolerate leukapheresis required for harvesting hematopoietic stem cells (HSC)\r\n* No active hepatitis\r\n* Negative for human T-lymphotropic virus (HTLV) and human immunodeficiency virus (HIV)\r\n* Not pregnant\r\n* NOTE: The HLA-matched sibling and HLA-matched unrelated donor cohorts are closed to enrollment
+Suitable, 6/6 HLA matched related sibling donor available
+DONOR: Human leukocyte antigen (HLA) identical sibling donor
+DONOR: Donors must be an HLA matched sibling
+The patient has an available NK cell donor who is a HLA haploidentical first-degree (parent, child, or sibling) or second-degree (child of a sibling) relative; minimum testing will be for HLA-A, HLA-B, and HLA-DR with donors matched for 3/6, 4/6 or 5/6 antigens
+DONOR: Related donors (sibling, parent, offspring, parent or offspring of an HLA identical sibling)
+DONOR: Related donor (sibling, parent, offspring, parent or offspring of an HLA identical sibling) 12-75 years of age (it is recognized individual institutions may have differing donor age guidelines; this is acceptable as long as no donor is younger than 12 years or older than 75 years)
+DONOR: HLA-matched or -haploidentical, parent, child, sibling, or half-sibling of the recipient
+Must have a potential haploidentical donor (parent, sibling, child)
+DONOR: Related donors (sibling, parent, offspring, parent or offspring of an HLA identical sibling) age 12 to 75 years
+Donor must be a 6/6 HLA-matched sibling willing to donate PBSC for transplant.
+Recipient must have a 6/6 HLA-matched sibling willing to donate PBSC for transplant.
+DONOR: Sibling who is 6/6 HLA-matched with recipient
+Must have an human leukocyte antigen (HLA)-matched sibling, HLA-matched unrelated donor, or a related haploidentical donor:\r\n* Available HLA-matched sibling or unrelated donor must meet the following criteria:\r\n** At least 18 years of age\r\n** HLA donor/recipient match based on at least low-resolution typing per institutional standards (syngeneic donors [identical twins] are excluded)\r\n** In the investigator’s opinion, is in general good health, and medically able to tolerate leukapheresis required for harvesting stem cells\r\n** No active hepatitis\r\n** Negative for human T-cell lymphotropic virus (HTLV) and human immunodeficiency virus (HIV)\r\n** Not pregnant OR\r\n* Available haploidentical donor must meet the following criteria:\r\n** Blood-related family member (sibling [full or half], offspring, parent, cousin, niece or nephew, aunt or uncle, or grandparent)\r\n** At least 18 years of age\r\n** HLA-haploidentical donor/recipient match by at least low-resolution typing per institutional standards\r\n** In the investigator’s opinion, is in general good health, and medically able to tolerate leukapheresis required for harvesting stem cells\r\n** No active hepatitis\r\n** Negative for HTLV and HIV\r\n** Not pregnant
+DONOR: HLA genotypically identical sibling
+DONOR: HLA genotypically identical sibling
+Availability of a suitable HLA-matched sibling or unrelated donor in a donor search
+Presence of a readily available 6/6 matched sibling donor who is a candidate for donation
+Sibling Donor Transplant

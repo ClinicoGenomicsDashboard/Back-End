@@ -1,0 +1,8 @@
+Cluster 655: transplantation stem allogeneic cell hematopoietic prior undergone autologous patients history 
+Cluster 740: transplantation stem autologous cell hematopoietic patients eligible prior high chemotherapy 
+Cluster 1428: sct autologous allogeneic stem cell prior transplant transplantation auto days 
+Cluster 1586: transplantation allogeneic prior autologous organ hematopoietic liver patients cell history 
+Cluster 1599: hematopoietic stem allogeneic transplant cell hsct transplantation prior previous autologous 
+Cluster 1770: hct allogeneic autologous prior patients days post disease relapse cell 
+Cluster 2122: marrow transplantation bone stem cell prior allogeneic hematopoietic reserves extensive 
+Cluster 2300: transplantation organ history allogenic stem prior including cell major liver 

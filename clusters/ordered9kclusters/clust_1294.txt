@@ -1,0 +1,46 @@
+Failure to have fully recovered (i.e., =< grade 1 toxicity or to patient’s clinical baseline) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (i.e. no toxicities > Grade 1) from the reversible effects of prior chemotherapy.
+Failure to have fully recovered (ie, > grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy, except for laboratory abnormalities which are addressed above
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Recovered (i.e., ?Grade 1 nonhematologic toxicity) from the reversible effects of prior anticancer therapy.
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior ASCT chemotherapy
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Recovered (i.e., =< grade 1 toxicity) from the reversible effects of autologous stem cell transplant
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the effects of prior chemotherapy regardless of the interval since last treatment
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (i.e., ? grade 1 toxicity) from the reversible effects of prior chemotherapy or endocrine therapy, except for grade 2 or greater anemia
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (that is, less than or equal to [<=] Grade 1 toxicity) from the reversible effects of prior chemotherapy.
+Failure to have fully recovered (i.e., ? grade 1 toxicity) from the reversible effects of prior treatment for WM
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy, excluding alopecia
+Must have recovered (ie, ? Grade 1 toxicity or participant's baseline status) from the reversible effects of prior therapy
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failed to have recovered from the reversible effects of previous anticancer therapies
+Patients must have recovered from any reversible effects of prior therapies to no more than grade 1 toxicity, with the exception of alopecia
+Recovered (i.e., =< grade 1 toxicity) from the reversible effects of autologous stem cell transplant
+Failure to have fully recovered (ie, Grade 1 toxicity) from the effects of prior chemotherapy (except for alopecia) regardless of the interval since last treatment.
+The patient has recovered from reversible toxicity from prior therapy. Permanent and stable side effects or changes are acceptable if ? Grade 1 (CTCAE, v4.03)
+Recovered (i.e., < grade 1 toxicity) from the reversible effects of prior antineoplastic therapy
+Failure to have fully recovered from the reversible effects of prior anti-cancer therapy
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy, radiation therapy or targeted therapy
+Has recovered (ie, <= Grade 1 toxicity or eligibility per this protocol is met) from the reversible effects of prior anticancer therapy.
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Recovered (=< grade 1 toxicity) from the reversible effects of prior antineoplastic therapy
+Participants who have not recovered from any reversible side effects (except alopecia) to Grade 0 or 1 toxicity attributed to the administration of an investigational therapeutic agent, chemotherapy, immunotherapy, radiotherapy, or other agents previously used to treat the cancer.
+Recovered from the reversible effects of prior antineoplastic therapy (ie, ? Grade 1 toxicity or baseline).
+Recovered (that is, less than or equal to (<=) Grade 1 toxicity) from the effects of prior antineoplastic therapy.
+Failure to have recovered from clinically significant effects of prior chemotherapy (defined as toxicity greater than Grade 1 with the exception of alopecia)
+Recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior antineoplastic therapy
+Recovered (that is, <= Grade 1 toxicity) from the reversible effects of prior anticancer therapy.
+Recovered from the reversible effects of prior antineoplastic therapy (with the exception of alopecia and Grade 1 neuropathy).
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Recovered (that is, grade less than or equal to [<=] 1 toxicity) from the reversible effects of prior anticancer therapy.
+Recovered (that is, less than or equal to [<=] Grade 1 toxicity) from the reversible effects of prior anticancer therapy.
+Recovered (that is, less than or equal to (<=) Grade 1 toxicity) from the effects of prior antineoplastic therapy.
+Recovered (that is, <=Grade 1 toxicity) from the reversible effects of prior anticancer therapy.

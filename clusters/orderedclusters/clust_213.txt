@@ -1,0 +1,16 @@
+Patients will be staged according to the 6th edition American Joint Committee on Cancer (AJCC) staging system with pathologic stage T1-3, N0-1, M-0 being eligible
+545.0
+Pathologic stage T3-4 or N1-3 or T1-2, N0 with a close (=< 1 mm) or microscopically positive surgical margin (American Joint Committee on Cancer [AJCC], 7th edition); patients must be free of distant metastases based upon the following minimum diagnostic workup:* History/physical examination within 8 weeks prior to registration* Radiologic confirmation of the absence of hematogenous metastasis within 12 weeks prior to registration; at a minimum, contrast computed tomography (CT) imaging of the chest is required; positron emission tomography (PET)/CT is acceptable
+252.0
+Clinical stage T1-3 N1 M0 breast cancer at diagnosis (prior to the start of neoadjuvant chemotherapy) by American Joint Committee on Cancer (AJCC) staging 7th edition
+2918.0
+Patients must have undergone complete surgical resection of their stage IB (>= 4 cm), II, or non-squamous IIIA NSCLC per American Joint Committee on Cancer (AJCC) 7th edition and have had negative margins; N3 disease is not allowed
+NONE
+Patients must have histologically or cytologically confirmed stage IV (American Joint Committee on Cancer [AJCC] 7th Edition) or recurrent non-small cell lung cancer (NSCLC)
+223.0
+No evidence of metastases other than regional lymphadenopathy as assessed by imaging of the chest, abdomen and pelvis with CT of the chest and CT or MRI of the abdomen; regional lymph nodes, per 7th edition American Joint Committee on Cancer (AJCC) staging manual (2010) for kidney cancer, include the following positions: renal hilar, precaval, paracaval, retrocaval, interaortocaval, paraaortic, preaortic, and retroaortic
+29.0
+Patients must have undergone complete surgical resection of their stage IB (>= 4 cm), II or IIIA NSCLC according to the American Joint Committee on Cancer (AJCC) 7th edition and have had negative surgical margins
+714.0
+Clinical stage T2-T4c, any N, M0 primary tumor by American Joint Committee on Cancer (AJCC) 7th edition clinical staging
+60.0

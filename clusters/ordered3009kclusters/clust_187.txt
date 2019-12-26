@@ -1,0 +1,558 @@
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: Maximum serum creatinine (mg/dL)\r\n** 2 to < 6 years: 0.8 (male) 0.8 (female)\r\n** 6 to < 10 years: 1 (male) 1 (female)\r\n** 10 to < 13 years: 1.2 (male) 1.2 (female)\r\n** 13 to < 16 years: 1.5 (male) 1.4 (female)\r\n** >= 16 years: 1.7 (male) 1.4 (female)
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/sex as follows:\r\n* 1 to < 2 years: male = 0.6; female = 0.6\r\n* 2 to < 6 years: male = 0.8; female = 0.8\r\n* 6 to < 10 years: male = 1; female = 1\r\n* 10 to < 13 years: male = 1.2; female = 1.2\r\n* 13 to < 16 years: male = 1.5; female = 1.4\r\n* >= 16 years: male = 1.7; female = 1.4
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: maximum serum creatinine (mg/dL)\r\n* 1 to < 2 years: 0.6 (male and female) \r\n* 2 to < 6 years: 0.8 (male and female) \r\n* 6 to < 10 years: 1 (male and female) \r\n* 10 to < 13 years: 1.2 (male and female) \r\n* 13 to < 16 years: 1.5 (male), 1.4 (female) \r\n* >= 16 years: 1.7 (male), 1.4 (female)
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: maximum serum creatinine (mg/dL)\r\n* 1 to < 2 years: 0.6 (male and female) \r\n* 2 to < 6 years: 0.8 (male and female) \r\n* 6 to < 10 years: 1 (male and female) \r\n* 10 to < 13 years: 1.2 (male and female) \r\n* 13 to < 16 years: 1.5 (male), 1.4 (female) \r\n* >= 16 years: 1.7 (male), 1.4 (female)
+40 years of age or older at time of DCIS diagnosis
+A serum creatinine based on age/gender as follows: (mg/dL)\r\n* 1 month to < 6 months male: 0.4 female: 0.4\r\n* 6 months to < 1 year male: 0.5 female: 0.5\r\n* 1 to < 2 years male: 0.6 female: 0.6\r\n* 2 to < 6 years male: 0.8 female: 0.8\r\n* 6 to < 10 years male: 1 female: 1\r\n* 10 to < 13 years male: 1.2 female: 1.2\r\n* 13 to < 16 years: male: 1.5 female: 1.4\r\n* >= 16 years male: 1.7 female: 1.4
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) > 70mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: Maximum Serum Creatinine (mg/dL)\r\n* 1 to < 6 months: 0.4 (male) 0.4 (female)\r\n* 6 months to < 1 year: 0.5 (male) 0.5 (female)\r\n* 1 to < 2 years: 0.6 (male) 0.6 (female)\r\n* 2 < 6 years: 0.8 (male) 0.8 (female)\r\n* 6 to < 10 years: 1.0 (male) 1.0 (female)\r\n* 10 to < 13 years: 1.2 (male)\t1.2 (female)\r\n* 13 to < 16 years: 1.5 (male)\t1.4 (female)\r\n* > 16 years: 1.7 (male) 1.4 (female)
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or\r\n* A serum creatinine based on age/gender as follows:\r\n** Age: maximum serum creatinine (mg/dL)\r\n** 1 month to < 6 months: 0.4 (male and female)\r\n** 6 months to < 1 year: 0.5 (male and female)\r\n** 1 to < 2 years: 06 (male and female)\r\n** 2 to < 6 years: 0.8 (male and female)\r\n** 6 to < 10 years: 1 (male and female)\r\n** 10 to < 13 years: 1.2 (male and female)\r\n** 13 to < 16 years: 1.5 (male), 1.4 (female)\r\n** >= 16 years: 1.7 (male), 1.4 (female)
+Age of 18 years or older
+Male or female subjects, age 18 years or older
+Must be 18 years or older
+Male or female, aged 18 years and older
+Serum creatinine based on age/gender; patients that do not meet the criteria but have a 24 hour creatinine clearance or glomerular filtration rate (GFR) (radioisotope or iothalamate) >= 70 mL/min/1.73 m^2 are eligible\r\n* Age: Maximum serum creatinine (mg/dL)\r\n* 1 to < 2 years: 0.6 (male and female)\r\n* 2 to < 6 years: 0.8 (male and female)\r\n* 6 to < 10 years: 1 (male and female)\r\n* 10 to < 13 years: 1.2 (male and female)\r\n* 13 to < 16 years: 1.5 (male) 1.4 (female)\r\n* >= 16 years: 1.7 (male) 1.4 (female)
+Aged 18 years and older on the day of signing informed consent
+Subjects must be 18 years of age or older at the date of consent.
+Male or female, age 18 years or older
+Male or female patients, age 18 years or older at the time of signing the informed consent form (ICF).
+Aged 18 years or older.
+Female and male subjects ?18 years of age with one of the following:
+Male or female ? 18 years of age.
+Male or female patients 18 years of age or older
+Male or female patients age 18 years and older, inclusive, at the time of informed consent
+Must be age 18 or older
+Adults 18 years of age or older
+Male or female patients aged ?18 years
+Age 18 years or older
+Patients must be a male or female ? 18 years of age on the day of signing informed consent.
+Serum creatinine based on age/gender as follows:\r\n* Age 0 month to < 6 months; male 0.4; female 0.4\r\n* Age 6 months to < 1 year; male 0.5; female 0.5\r\n* Age 1 to < 2 years; male 0.6; female 0.6\r\n* Age 2 to < 6 years; male 0.8; female 0.8\r\n* Age 6 to < 10 years; male 1; female 1 \r\n* Age 10 to < 13 years; male: 1.2; female: 1.2\r\n* Age 13 to < 16 years; male: 1.5; female: 1.4\r\n* Age >= 16 years; male: 1.7; female: 1.4
+Age 18 years or older, male or female.
+Male and female subjects, age >=18 years (at the time consent is obtained).
+Is male or female, aged 18 years or older at the time of consent; preferably non-Asian.
+Male or female age 18 years or older.
+Female aged ? 18 years.
+Male and female patients of any race, 18 years or older
+Male and female who are 18 yrs or older
+Male or female patient, age >18 years
+Age 18 years or older
+Male or female subjects who are at least 18 to 70 years of age
+Male subjects must:
+18 years of age and older.
+Male or Female at least 18 years of age
+Male or female subjects at least 18 years of age.
+18 years of age or older
+Male or female patients aged ? 18 years.
+Male or female ? 18 years of age at time of consent.
+18 years of age and older
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: Maximum serum creatinine (mg/dL)\r\n* 3 to < 6 years: 0.8 (male and female)\r\n* 6 to < 10 years: 1 (male and female)\r\n* 10 to < 13 years: 1.2 (male and female)\r\n* 13 to < 16 years: 1.5 (male) 1.4 (female)\r\n* >= 16 years: 1.7 (male) 1.4 (female)
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 3 to < 6 years: 0.8 (male and female)\r\n* 6 to < 10 years: 1 (male and female)\r\n* 10 to < 13 years: 1.2 (male and female)\r\n* 13 to < 16 years: 1.5 (male) 1.4 (female)\r\n* >= 16 years: 1.7 (male) 1.4 (female)
+Female or male ? 18 years of age.
+22 years of age and older
+Female subject aged ? 18 years.
+Male or female aged 18 or older
+Creatinine clearance (CrCl) or radioisotope glomerular filtration rate (GFR) ? 70 mL/min/1.73 m^2 OR a serum creatinine based on age/gender as follows:\r\n* 1 month to < 6 months (male) 0.4 (female) 0.4\r\n* 6 months to < 1 year  (male) 0.5 (female) 0.5\r\n* 1 to < 2 years (male) 0.6 (female) 0.6\r\n* 2 to < 6 years (male) 0.8 (female) 0.8\r\n* 6 to < 10 years (male) 1 (female) 1\r\n* 10 to < 13 years (male) 1.2 (female) 1.2\r\n* 13 to < 16 years (male) 1.5 (female) 1.4\r\n* ? 16 years (male) 1.7 (female) 1.4
+Male or female ? 12 years of age
+Patient (male or female) ?12 years of age
+18 years or older
+Male or female patients >/= 18 years of age with relapsed or refractory AML
+Male or female patients >/= 65 years of age with previously untreated AML ineligible for receiving standard intensive therapy
+Male or female aged ? 18 years
+18 years or older
+Older than 18 years of age at time of consent
+Age 18 years or older
+Sarcoma Patients must be 14 years of age or older. All other patients must be 18 years of age or older.
+Male or female ? 18 years of age
+Men or women, age 18 years or older Part 1:
+Male or female patient ? 18 years of age
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* 1 to < 2 years: 0.6 (male), 0.6 (female)\r\n* 2 to < 6 years:\t0.8 (male), 0.8 (female)\r\n* 6 to < 10 years: 1 (male), 1 (female)\r\n* 10 to < 13 years: 1.2 (male), 1.2 (female)\r\n* 13 to < 16 years: 1.5 (male), 1.4 (female)\r\n* >= 16 years: 1.7 (male), 1.4 (female)
+Male or non-pregnant and non-lactating female, and ?18 years of age.
+Female or male patients ?18 years-of-age
+18 years of age or older
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) 70 mL/min/1.73 m^2 or maximum serum creatinine (mg/dL) based on age/gender as follows:\r\n* 1-1.99 years, male 0.6, female 0.6\r\n* 2-5.99 years, male 0.8, female 0.8\r\n* 6-9.99 years, male 1, female 1\r\n* 10-12.99 years, male 1.2, female 1.2\r\n* 13-15.99 years, male 1.5, female 1.4\r\n* >= 16 years, male 1.7, female 1.4
+Aged 18 years or older
+A serum creatinine (mg/dL) based on age/gender as follows:\r\n* Age: 3 to < 6 years; Male: 0.8; Female: 0.8\r\n* Age: 6 to < 10 years; Male: 1; Female: 1\r\n* Age: 10 to < 13 years; Male: 1.2; Female: 1.2\r\n* Age: 13 to < 16 years; Male:1.5; Female: 1.4\r\n* Age >= 16 years; Male: 1.7; Female: 1.4
+Male or female at least 18 years of age.
+Male or female patients, ? 18 years of age at the time of obtaining informed consent.
+Male or female, age 18 years or older
+Male or female subjects age 18 or older.
+STRATUM A: Creatinine clearance >= 70 mL/min/1.73 m^2 or serum creatinine =< the maximum serum creatinine (mg/dL) based on age/gender as listed below:\r\n* 3 to < 6 years: 0.8 (male and female)\r\n* 6 to < 10 years: 1 (male and female)\r\n* 10 to < 13 years: 1.2 (male and female)\r\n* 13 to < 16 years: 1.5 (male), 1.4 (female)\r\n* >= 16 years: 1.7 (male), 1.4 (female)
+STRATUM B: Creatinine clearance >= 70 mL/min/1.73 m^2 or serum creatinine =< the maximum serum creatinine (mg/dL) based on age/gender as listed below:\r\n* 3 to < 6 years: 0.8 (male and female)\r\n* 6 to < 10 years: 1 (male and female)\r\n* 10 to < 13 years: 1.2 (male and female)\r\n* 13 to < 16 years: 1.5 (male), 1.4 (female)\r\n* >= 16 years: 1.7 (male), 1.4 (female)
+STRATUM C: Creatinine clearance >= 70 mL/min/1.73 m^2 or serum creatinine =< the maximum serum creatinine (mg/dL) based on age/gender as listed below:\r\n* 3 to < 6 years: 0.8 (male and female)\r\n* 6 to < 10 years: 1 (male and female)\r\n* 10 to < 13 years: 1.2 (male and female)\r\n* 13 to < 16 years: 1.5 (male), 1.4 (female)\r\n* >= 16 years: 1.7 (male), 1.4 (female)
+Male or female, ? 18 years of age
+Subject is male or female and at least 18 years of age.
+Age 18 or older
+Male or female subjects
+18 years and older (Japan-20 years and older)
+Female or male, age ? 18 years.
+Age 18 years or older
+Be 18 years of age or older and female
+Male or female patients, ? 18 years of age at the time of obtaining informed consent.
+Male and non-pregnant female patients 16-70 years of age (inclusive)
+Adult male or female participants aged >=20 years (Japan) or >=18 years (United States).
+Age >18 year at the time of obtaining informed consent, male or female.
+Men and women, aged 18 years or older (except in South Korea, aged 19 or older).
+Male or female subjects must be at least 18 years of age.
+The first 3 subjects enrolled on this study will be 18 years of age or older
+A serum creatinine =< upper limit of normal (ULN) based on age/gender as listed below:\r\n* 1 to < 2 years: Male & Female: 0.6 mg/dL\r\n* 2 years < 6 years: Male & Female: 0.8 mg/dL\r\n* 6 years < 10 years: Male & Female: 1.0 mg/dL\r\n* 10 years < 13 years: Male & Female: 1.2 mg/dL\r\n* 13 years < 16 years: Male: 1.5 mg/dL; Female: 1.4 mg/dL\r\n* > 16 years: Male: 1.7 mg/dL; Female: 1.4 mg/dL
+Male and non-pregnant females who are aged 18 years or older at the time of provision of informed consent.
+Aged ? 18 years.
+Male or female patients aged ? 18 years at time of informed consent;
+Male or female patients ?18 years of age.
+Male and female patients ? 18 years of age;
+Creatinine =< 1.5 mg/dL for patients 12 years old and older and =< 1 for patients younger than 12 years old.
+Must be 18 years of age or older.
+Male; 18 years of age and older
+Be 18 years of age or older and female
+Aged at least 18 years
+Female or male patients, >18 years of age, able to understand and give written informed consent.
+Female participants 18 years or older.
+CELL PROCUREMENT: Serum creatinine =< 1.5 x upper limit of normal (ULN), obtained within 72 hrs prior to procurement\r\n* For pediatric patients, adequate renal function is defined as below:\r\n** Age: Maximum Serum Creatinine (mg/dL)\r\n** 3 to < 6 years: =< 0.8 (male and female)\r\n** 6 to < 10 years: =< 1 (male and female)\r\n** 10 to < 13 years: =< 1.2 (male and female)\r\n** 13 to < 16 years: =< 1.5 (male), =< 1.4 (female)\r\n** 16 to < 18 years: =< 1.7 (male), =< 1.4 (female)
+LYMPHODEPLETION: Serum creatinine =< 1.5 x ULN, obtained within 72 hrs prior to lymphodepletion\r\n* For pediatric patients, adequate renal function is defined as below:\r\n** Age: Maximum Serum Creatinine (mg/dL)\r\n** 3 to < 6 years: =< 0.8 (male and female)\r\n** 6 to < 10 years: =< 1 (male and female)\r\n** 10 to < 13 years: =< 1.2 (male and female)\r\n** 13 to < 16 years: =< 1.5 (male), =< 1.4 (female)\r\n** 16 to < 18 years: =< 1.7 (male), =< 1.4 (female)
+Female ? 18 years old.
+Adults 18 years of age or older.
+Male or female aged ? 18 years;
+Subjects at least 18 years of age or older at the time of consent.
+Women age 21 or older who have:
+PART 2 GROUP 1 INCLUSION CRITERIA: Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 OR a serum creatinine based on age/gender normal as follows:\r\n* 1 to < 2 years: Male and female: 0.6\r\n* 2 to < 6 years: Male and female: 0.8\r\n* 6 to < 10 years: Male and female: 1\r\n* 10 to < 13 years: Male and female: 1.2\r\n* 13 to < 16 years: Male: 1.5; Female: 1.4\r\n* 16 years and above: Male: 1.7; Female: 1.4
+PART 2 GROUP 2A INCLUSION CRITERIA: Creatinine clearance or radioisotope GFR >= 70 mL/min/1.73 m^2 OR a serum creatinine based on age/gender normal as follows:\r\n* 1 to < 2 years: Male and female: 0.6\r\n* 2 to < 6 years: Male and female: 0.8\r\n* 6 to < 10 years: Male and female: 1\r\n* 10 to < 13 years: Male and female: 1.2\r\n* 13 to < 16 years: Male: 1.5; Female: 1.4\r\n* 16 years and above: Male: 1.7; Female: 1.4
+PART 2 GROUP 3 INCLUSION CRITERIA: Creatinine clearance or radioisotope GFR >= 70 mL/min/1.73 m^2 OR a serum creatinine based on age/gender normal as follows:\r\n* 1 to < 2 years: Male and female: 0.6\r\n* 2 to < 6 years: Male and female: 0.8\r\n* 6 to < 10 years: Male and female: 1\r\n* 10 to < 13 years: Male and female: 1.2\r\n* 13 to < 16 years: Male: 1.5; Female: 1.4\r\n* 16 years and above: Male: 1.7; Female: 1.4
+18 years of age and older
+Male or female patients, age ?18 years (?19 years for South Korea)
+PRIOR TO CELL PROCUREMENT: For patients < 18 years old use the following table for serum creatinine requirements:\r\n* Age (years): Maximum serum creatinine (mg/dL)\r\n* 3 to < 6: ? 0.8 (male and female)\r\n* 6 to < 10: ? 1.0 (male and female)\r\n* 10 to < 13: ? 1.2 (male and female)\r\n* 13 to < 16: ? 1.5 (male), ? 1.4 (female)\r\n* ? 16 and < 18: ? 1.7 (male), ? 1.4 (female)
+PRIOR TO INFUSION OF ATLCAR.CD30 CELLS: For patients < 18 years old use the following table for serum creatinine requirements:\r\n* Age (years): Maximum serum creatinine (mg/dL)\r\n* 3 to < 6: ? 0.8 (male and female)\r\n* 6 to < 10: ? 1.0 (male and female)\r\n* 10 to < 13: ? 1.2 (male and female)\r\n* 13 to < 16: ? 1.5 (male), ? 1.4 (female)\r\n* ? 16 and < 18: ? 1.7 (male), ? 1.4 (female)
+Male or female at least 22 years of age or older.
+Male or female aged ?18 years.
+Female or male, 18 years of age or older.
+Aged ? 18 years.
+Male or female patients ? 18 years of age
+Patients (male or female) ? 18 years of age.
+Male or female patients ?18 years of age
+18 years or older
+18 years of age or older
+Female
+18 years of age or older
+Male or female, aged at least 18 years.
+Female or male patients 18 years of age or older
+18 years of age or older at screening; outside the U.S. and European Union, an older limit could apply depending on local regulation (eg, 19 years and older for South Korea and 20 years and older for Taiwan).
+Male or Female ? 18 years of age
+18 years or older
+DONOR: Must be 18 years of age or older
+18 years and older
+Patients must be 18 years of age or older.
+18 years of age or older
+Male or female participants age 2 years to less than18 years and less than or equal to 25 years for osteosarcoma subjects at the time of informed consent.
+Male or female ? 18 years of age
+Male or female patients ? 18 years of age
+Male or female ? 18 years of age
+Male or female participants 18 years or older.
+Age ?18 years male or female.
+Aged ? 18 years.
+Male or female ? 18 years of age.
+Patient is 18 years and older.
+Are 18 years of age or older.
+Patients must be 18 years of age or older.
+Gender: male and female
+Serum creatinine based on age or creatinine clearance or radioisotope glomerular filtration rate (GFR) > 70 ml/min/ml/min/1.73 m^2\r\n* Age 1 to < 2 male 0.6 female 0.6\r\n* Age 2 to < 6 male 0.8 female 0.8\r\n* Age 6 to < 10 male 1 female 1\r\n* Age 10 to < 13 male 1.2 female 1.2\r\n* Age 13 to < 16 male 1.5 female 1.4\r\n* Age > 16 male 1.7 female 1.4
+Age 18 or older
+Must be female.
+Male or female children, <13 years of age
+Age 18 years or older
+Male or female subjects, age 18 years or older.
+Male or female patients ? 18 years of age.
+Aged 18 years or older
+Male or female, age 18 years or older.
+Male and female patients must be at least 18 years of age.
+Male/female sterilization
+Serum creatinine based on age or creatinine clearance or radioisotope GFR > 70 ml/min/ml/min/1.73 m^2\r\n* Age 1 to < 2 maximum serum creatinine for male is 0.6; female is 0.6\r\n* Age 2 to < 6 maximum serum creatinine for male is 0.8; female is 0.8\r\n* Age 6 to < 10 maximum serum creatinine for male is 1; female is 1\r\n* Age 10 to < 13 maximum serum creatinine for male is 1.2; female is 1.2\r\n* Age 13 to < 16 maximum serum creatinine for male is 1.5; female is 1.4\r\n* Age >= 16 maximum serum creatinine for male is 1.7; female is 1.4
+patients who are age 18 or older
+Age 70 years or older for AML and 60 years or older for MDS
+Male patients, 18 years of age or older
+Male or female patients, ? 18 years of age at the time of obtaining informed consent.
+Male or female patients from 6 months to ? 21 years old at the time of study enrollment
+Be male or female at least 18 years of age (at the time consent is obtained);
+Male or non-pregnant, non-lactating female patient at least 18 years of age at the time of consent;
+Male or female ?18 years of age
+Participant must be male or female at least 18 years of age at time of screening
+Patients aged 18 years or older
+Male or female age 21 years or older
+Male or female age ?18 years old;
+Is 18 Years and older in the United States or 20 Years and older in Japan
+Male or female, Age ? 18 years.
+Female, aged ?18 years
+Men and women 18 years of age or older
+Age 18 years or older;
+Male or female patients ? 18 years of age.
+18 years of age or older.
+Is a male or female ? 18 years of age, that has provided written informed consent.
+Male or female ? 2 years of age;
+Male or female patients, ? 18 years of age, able to understand and give written informed consent.
+Female
+Men and women age 18 and older
+Male or female patient with age ? 18 years
+Female
+18 years of age or older
+Male or female outpatient of ? 18 years of age or ? country's legal age for adult consent
+18 years and older.
+18 years of age or older
+18 years of age or older
+Male or female, 18 years or older.
+Male or female patients ? 18 years of age on day of signing informed consent.
+Male or female at least 12 years of age;
+Male or female patients, ? 18 years of age at the time of obtaining informed consent.
+Male or female, 18 years or older (at the time consent is obtained).
+Women and men at least 18 years of age or older.
+Male or female patients, ? 18 years of age, able to understand and give written informed consent
+Serum creatinine based on age/gender; patients that do not meet the criteria but have a 24 hour creatinine clearance or glomerular filtration rate (GFR) (radioisotope or iothalamate) >= 70 mL/min/1.73 m^2 are eligible\r\n* Age: maximum serum creatinine (mg/dL)\r\n** 1 to < 2 years: 0.6 (male and female)\r\n** 2 to < 6 years: 0.8 (male and female)\r\n** 6 to < 10 years: 1 (male and female)\r\n** 10 to < 13 years: 1.2 (male and female)\r\n** 13 to < 16 years: 1.5 (male) 1.4 (female)\r\n** >= 16 years: 1.7 (male) 1.4 (female)
+Female or male subjects ?18 years-of-age.
+Patient is male or female 18 years or older
+Adults, age 60 years or older at the time of diagnosis
+A serum creatinine based on age/gender as follows:\r\n* 1 month to < 6 months: 0.4 (male) 0.4 (female)\r\n* 6 months to < 1 year: 0.5 (male), 0.5 (female)\r\n* 1 to < 2 years: 0.6 (male), 0.6 (female)\r\n* 2 to < 6 years: 0.8 (male), 0.8 (female)\r\n* 6 to < 10 years: 1 (male), 1 (female)\r\n* 10 to < 13 years: 1.2 (male), 1.2 (female)\r\n* 13 to < 16 years: 1.5 (male), 1.4 (female)\r\n* >= 16 years: 1.7 (male), 1.4 (female)
+A serum creatinine based on age/gender as follows: maximum serum creatinine (mg/dL)\r\n* 3 to < 6 years: 0.8 (male and female)\r\n* 6 to < 10 years: 1 (male and female)\r\n* 10 to < 13 years: 1.2 (male and female)\r\n* 13 to < 16 years: 1.5 (male)\t1.4 (female)\r\n* 16 to < 18 years: 1.7 (male)\t1.4 (female)
+Male or female 18 years of age or older
+Eighteen years old or older
+Performance status - Karnofsky >= 60 (16 years and older) or Lansky >= 50 (less than 16 years of age)
+Male or female, age ? 18 years
+Aged 18 years or older at the time of consent
+Adult aged 18 years or older
+Male or non-pregnant, non-breastfeeding female, age 18 years or older at date of consent.
+Male 18 years and older
+Male or female subjects, age 18 years or older
+Male and female subjects
+18 years and older
+Age 18 years or older.
+Male or female ? 21 years of age at Screening Visit.
+Subjects must be 18 years or older (? 15 years for PMBL)
+Men and women 18 years of age or older.
+Male and female subjects
+18 years and older
+Male or female patients age 18 years and older, inclusive, at the time of informed consent
+Male or female participants 18 years or older.
+Must be male or female, 18 years of age or older, and of any ethnic or racial group
+Age of 12 years or older (patient must weigh ? 40 kg)
+Subject is age 18 years or older;
+Male subjects must :
+Male or female ?18 years of age
+Adult patients age 18 years or older.
+18 years of age or older.
+Male or female subjects ? 55 years of age
+18 years or older
+Male or female ? 18 years of age at time of consent
+Age 18 years and older
+Female patient, age 18 years or older;
+Females, 18 years of age or older
+Male or female 16 years or older, at the time of signing the informed consent.
+12 years and older unless not permitted by local regulations; in that case 18 years old and older
+Male or female ?18 years of age
+Age 18 years or older
+18 years and older.
+Are a male or female patient ?18 years old.
+18 years or older
+18 years of age or older
+Male or female subjects aged ?18 years
+Men and women 18 years old or older (or local age of majority)
+Male or non-pregnant, non-breastfeeding female at least 18 years of age. Patients aged at 12~18 years may be recruited but only at the site principle investigator's request and subject to IRB approval.
+Male or female, age 18 years or older
+Age of 18 years or older
+Male or female patients over 18 years of age
+Male or female ? 18 years of age.
+Male or female participants aged 18 years or older.
+Male or female participants 18 years or older.
+Female or male ?18 years of age
+Male or female and ?18 years of age on day of signing informed consent.
+Male or female ?18 years of age
+18 years of age or older
+18 years or older
+Be 18 years of age or older on day of signing informed consent.
+Male or Female
+Male or female aged at least 18 years. Aged at least 20 if Japanese.
+Male or female patients aged 18 - 75 years.
+Postmenopausal females, 18 years of age or older.
+Is 18 years of age or older
+Aged 18 years or older, with lymphoid malignancies of B-cell origin including:
+Female subjects ? 21 years of age with histological or cytological diagnosis of breast carcinoma.
+Participant is female and ? 18 years of age or older if required by local laws or regulations
+Subject is male or female and at least 18 years of age.
+Male or Female at least 18 years of age
+12 years of age or older (*Restrictions apply. Not all therapies are available for patients <18)
+Male or female subjects, age 18 years or older on day of signing consent
+18 years of age or older
+Male or female subjects aged ?18 years
+Be 22 years of age or older
+Subject is 21 years of age or older.
+Adult, at least 18 years of age, male or female
+Subjects may be male or female, and must be aged =/>18 years on the date of signing the informed consent form.
+Male or female subjects aged ?18 years
+Male or female patients 18 years of age or older.
+Male or female ? 18 years of age
+Male aged 18 or older with metastatic adenocarcinoma of the prostate
+Patients must be 18 years or older at time of consent.
+Male or female subjects aged >/= 18 years.
+Aged at least 18 years
+Male or female ? 18 years of age at time of consent.
+Patient is male or female aged ?18 years.
+Male or female, aged at least 18 years.
+Age 18 or older at time of study entry
+Male and female subjects; age ? 18
+Female >=18 years
+Men or women participants 18 years or older.
+Aged at least 18 years.
+Are a male or female participants ?18 years old.
+Male or female aged 18 years and older.
+Aged at least 18 years.
+Female patients age 18 and older;
+18 years or older
+Male or Female patients at least 18 years of age
+Male or non-pregnant female
+Male aged 18 years and older.
+Sex: male or female.
+Male or Female ? 18 years old at the time of signing the informed consent.
+Male or female, aged 18 years or older
+Male or female patients 18 years or older
+the patient is 65 years of age or older
+18 years of age or older
+18 years of age or older
+Male or female patients ?18 years old.
+Male or female, aged 18 years or older
+Aged ? 18 years.
+Male or female patients >= 18 years of age
+Age 18 or older.
+male or female patients ? 18 years of age.
+Patients 18 or older
+Male or female patients > 18 years of age
+Be older than or be 18 years of age
+Male or female participants 18 years of age or older.
+The patient is male or female, age 18 years or older
+Patients aged 20 years and older at the time of tentative registration (with no upper age limit)
+Male or female patients 18 years or older
+Male and female subjects aged greater than 18 years
+Male or female patients aged >/= 18 years old
+Male or female subjects of the age defined in the original protocol they were enrolled.
+Male or female patients 18 years of age or older
+18 years of age or older
+Age eighteen years or older on the day of consent.
+Men and women, aged 18 or older (except in South Korea, aged 19 or older).
+Patients must be 18 years of age or older.
+Male or female at least 18 years of age.
+18 years or older
+Age 18 and older
+Men or women at least 18 years of age or older at time of study entry
+Male subjects must:
+age 18yrs or older
+Patients must be 3 years of age or older
+Females, aged 18 years or older
+Patients must be 18 years old or older.
+DONOR: Age 18 years or older
+Male or female subjects, age 18 years or older
+Patients aged 18 years or older, inclusive
+Male or female ?18 years old
+Be 18 years of age or older.
+Male or female age 18 years or older
+Male or female patient is ? 18 years old,
+Male or female participants aged ?18 years at the time of screening
+Age 18 years or older
+Male or female, at least 18 years of age at time of screening
+Female or male, 18 years of age or older
+Men and women, aged 18 years or older
+Male or female patients ? 18 years old
+Male and female subjects 18 years of age and older at the time of screening
+Male or female subjects aged > 18 years
+Male and female subjects aged 1 to 18 years, inclusive.
+Male and female ? 18 years of age.
+Eligible study subjects in Part 1 and Part 2 must be 18 years or older
+Male or female patients of at least 18 years of age
+18 years of age or older
+Male or female aged ? 18 years
+Male or female participants 18 years of age or older when written informed consent is obtained.
+Male or female participants 18 years of age or older when written informed consent is obtained.
+Male or female patients ? 18 years of age (only female patients in breast cancer cohort of Phase 2).
+Male or female subjects aged ?18 years (or country-specific legal age of maturity, if >18 years)
+Male or female, and:
+60 years of age or older, or
+18 years of age or older and decline methotrexate-based treatment.
+Male or female outpatients (except where inpatient stay is required for medical need at the Investigator's discretion) at least 18 years of age at the time of informed consent
+Eighteen years old or older
+18 years or older, of either sex, and of any race
+Male or female 18 years of age or over.
+Subject is 22 years of age or older
+Male or female patients 18 years or older
+Aged ? 18 years
+Age ? 18 years, male or female subjects.
+22 years of age or older
+Age of 18 years or older
+Male or female, age 18 years or older.
+Male or female
+Men and women of age 18 or older
+Male or female ?18 years old.
+Age 18 or older
+Patient should be 15 years of age or older
+Patients must be 18 years or older.
+Male or female subjects aged =/> 18 years
+Adult male or female ? 18 years of age at the time of signing the informed consent form (ICF).
+Male or female subjects with age ? 18 years or the otherwise legal lower age according to the country of residence;
+Age 18 years or older
+Age 18 and older
+Subjects (male and female for Part A and female for Part B) will be at least 18 year of age.
+Age 18 years and older.
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age 1 to < 2 years (male and female: 0.6 mg/dL)\r\n* Age 2 to < 6 years (male and female: 0.8 mg/dL)\r\n* Age 6 to < 10 years (male and female: 1 mg/dL)\r\n* Age 10 to < 13 years (male and female: 1.2 mg/dL)\r\n* Age 13 to < 16 years (male: 1.5 mg/dL and female: 1.4 mg/dL)\r\n* Age >= 16 (male: 1.7 mg/dL and female: 1.4 mg/dL)
+Aged 18 years and older
+Male and female subjects
+18 years and older
+18 years of age or older
+18 years of age or older, female, any race
+Age eighteen years or older
+Age 18 years or older
+Male or Female (non-pregnant)
+Non-pregnant female adults at least 18 years of age at time of informed consent
+Male or female subjects aged >/=18 years
+Male or female aged ? 18 years
+Male or female participants 18 years of age or older.
+Aged 18 years or older
+Age 18 years and older.
+Patient is 18 years of age or older
+Male or female ?18 years of age
+Male or female participants 18 years of age or older.
+Male or female, 18 years of age or older
+Male or female, at least 18 years of age
+Male or female between 18 to 65 years of age, inclusive, at the time of signing the informed consent form;
+18 years of age or older.
+Age ?15 years (US only), and 18-80 (rest of world (ROW)), male or female.
+The age limit - 18 or older. Gender is not a criterion.
+Adult male and female patients (18 to 75 years of age, inclusive);
+Age 18 years or older; male or female
+Male or female at least 18 years of age
+Male or female patients ? 18 years of age
+Male or female of 18 to 85 years of age (inclusive);
+Male or female subjects aged >/=21 years
+Male and female patients at least 18 years of age
+Male or female patients, >= 18 years of age at the time of obtaining informed consent.
+Male or female ?18 years of age
+Male or female >=18 years of age.
+Male or female patients 18 years of age or older
+Male or female ?18 years of age.
+Male or female subject ? 18 years of age
+Male or female patients 18 years or older
+Eighteen (18) years of age or older
+Male or female patients, > 18 years of age.
+Men or women 18 years of age or older
+Male and female patients aged ? 18 years.
+Age 18 years or older, male or female
+Male or female >=12 months and <18 years of age at the time of signing the informed consent form.
+Aged at least 18 years.
+Male or female at least 18 years of age
+Male or female aged 18 years or older.
+Patients 18 years or older
+Men, 18 years of age or older;
+Aged 18 years or older
+Male or female participants aged 2 to <18 years (5 to <18 years for Hodgkin lymphoma [HL])
+Male or female patients 18 years or older
+Male or female patients ?18 years old.
+Age 18 years or older.
+Age 18 years or older
+Patients must be 18 years of age or older
+Male or female aged 16 years; a female is eligible to enter and participate in the study if she is:
+Subjects must be 18 years of age or older
+Patient's age is 18 years or older, both genders.
+Male or female patient aged 18 years or older.
+18 years or older
+Male and female patients from 1 month to less than 18 years of age.
+Age 18 years or older.
+Be older than 21 years of age.
+Creatinine clearance OR radioisotope glomerular filtration rate >= 70 mL/min/1.73m^2 or a serum creatinine based on age/gender as follows:\r\n                 Age                     Maximum Serum Creatine (mg/dL)\r\n* 1month to < 6 months          male: 0.4  female: 0.4\r\n* 6 months to <1 year             male: 0.5  female: 0.5\r\n* 1 year to < 2 years               male: 0.6  female: 0.6     \r\n* 2 to < 6 years                       male: 0.8  female: 0.8\r\n* 6 to < 10 years                     male: 1     female: 1\r\n* 10 to < 13 years                   male: 1.2  female: 1.2\r\n* 13 to < 16 years                   male: 1.5  female: 1.4\r\n* >= 16 years                          male: 1.7  female: 1.4
+Male or female ?18 years of age at the time of informed consent
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:\r\n* Age: maximum serum creatinine (mg/dL)\r\n1 to < 2 years: 0.6 (male), 0.6 (female)\r\n2 to < 6 years: 0.8 (male), 0.8 (female)\r\n6 to < 10 years: 1 (male), 1 (female)\r\n10 to < 13 years: 1.2 (male), 1.2 (female)\r\n13 to < 16 years: 1.5 (male), 1.4 (female)\r\n>= 16 years: 1.7 (male), 1.4 (female)
+Male or female cigarette smokers, 18-75 years
+Male or female patients >= 18 years old
+Male or female age ?18 years
+NOTE: patients 80 years of age or older must have approval from an oncologist or their designee to participate in this study
+Age 18 years and older
+Men and women age 18 and older
+21 year of age or older
+Male and female subjects 18 years and older
+Female patients 18 years of age or older;
+Female or male at least 18 years of age.
+Female or male of at least 18 years of age.
+Male or female participants aged 18 years or older.
+Men and women 18 years old or older
+Subject is female and is at least 18 years old
+Male or female, age >=18 years (at the time consent is obtained).
+Qualitative interviews will be conducted in patients (age 10 years or older) with their assent/consent; patients (age 10-17.9 years) will be asked to complete surveys that have been validated in this age group and that offer insight into the usefulness of the BMT Roadmap; patients (18 years or older) will be asked to complete surveys
+Serum creatinine at or below the upper limit of normal (ULN) for age and gender (mg/dL): \r\n* 1 month (mo) to < 6 months: male: 0.4; female: 0.4\r\n* 6 mo to < 1 year: male: 0.5; female: 0.5\r\n* 1 year to < 2 years: male: 0.6; female: 0.6\r\n* 2 to < 6 years: male: 0.8; female: 0.8\r\n* 6 to < 10 years: male: 1; female: 1\r\n* 10 to < 13 years: male: 1.2; female: 1.2\r\n* 13 to < 16 years: male:1.5; female: 1.4\r\n* >= 16 years: male: 1.7; female: 1.4
+18 years of age or older
+Women age 18 years or older who self-identifies as African-American
+Age 18 years or older
+Male or female, at least 18 years of age, inclusive. 2. Subject has a symptomatic MPE requiring intervention. For an effusion to be defined as malignant, at least one of the following must be true:
+Male or female patients aged >18 years
+Male or female subjects at least 18 years of age at the time of consent;
+Age 18 years or older
+Age 18 or older
+18 years of age or older at screening.
+65 years of age or older
+Age 21 or older;
+21 years of age or older
+Be female.
+Be 18 years of age or older and give written informed consent.
+18 years of age or older
+Age 30 or older
+Female
+1) 18 years of age and older
+Male and female patients aged 18 to 70 years, inclusive;
+18 years or older
+Male or female in- or out-patient from birth to < 18 years at the time of randomization.
+Female aged ?18 years of age.
+Male or female, age ? 18 years and ? 70 years. Patients aged ? 65 years must have a Sorror score ? 3
+Male or female, age ? 18 years and ? 65 years
+Male or female, age ? 16 and ? 75 years (If applicable, local legal requirements for donors under the age of 18 will be followed)
+Male subjects 40-70 years of age diagnosed with adenocarcinoma of the prostate;
+Are 50 years of age or older
+Aim 5: 18 years or older
+Male or female, ? 18 years of age at the time of signing the informed consent document
+Male subjects must:
+Male subjects must:
+Male or female, 18 years or older (at the time consent is obtained)
+Male or female subjects ? 18 and ? 75 years of age
+Male subjects age 50 and older.
+Male or female subjects ? 21 years-of-age with the demonstrated ability to swallow capsules whole and who are willing to provide access to previously obtained biopsy results
+Female or male patients at least 18 years of age
+Male or Female
+LHW: age 18 or older
+Male 18 to 60 years old
+Female 18 to 50 years old
+Age 18-75 years (patient is older than 18.0 and less than 76.0 years old)
+A male or female, aged 18 years or older at the time of study entry.
+Male and Female patients 18 years of age and older
+Must be 21 years of age or older.
+18 years of age or older at the time of consent;
+For 7T scanning, patients must be 18 years or older
+Subjects must be age 18 years or older.
+Male or female patients
+Male or female subjects age 18 or older
+Male or female, age 18 years or older
+18 years of age or older
+Male patients age ?18 years old
+Male, age between 50-70 years old
+Age is 18 years or older.
+Male or female, age ? 18 years old at the time of consent.
+Older than 18 years of age
+Male and female patients 18 years of age or older.
+Female
+Male or female aged 18-79
+Male or female participants 18 years or older.
+Female, age of 18 years or older.
+Age of 18 years or older at time of entry into the study
+Male or female subjects who are at least 18 years of age;
+Male or female age ? 18 years at the time of informed consent
+Is a male or female participant of 18 years or older.
+Male or female, ? 18 years of age.
+Female, age of 18 years or older.
+Male or female subject aged 18 years or older.
+Female patients 18 years of age and older
+Women who are 18 years or older.
+Age of 18 years or older.
+Age 18 or older
+Subjects (male or female) ? 18 years of age
+Is a male or female participant aged 18 years or older.
+Male or female subjects 2 to ? 21 years of age at the time of informed consent/assent.
+Female participants aged 18 years or older who are postmenopausal.
+Male or female patients ? 18 years of age
+Male or female patients, ages 12 years and older, with relapsed or refractory B-ALL who have failed, or are intolerant to, any established therapy; or for whom no other treatment options are available.
+Age of 16 years or older

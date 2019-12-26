@@ -1,0 +1,32 @@
+Prior systemic chemotherapy or anti-EGF therapy for the study cancer; note: prior chemotherapy or anti-EGF therapy for a different cancer is allowable
+700.0
+Prior systemic chemotherapy for the current cervical cancer; note that prior chemotherapy for a different cancer is allowable
+285.0
+Prior systemic chemotherapy for bladder cancer; prior chemotherapy for a different cancer is allowable
+37.0
+Patients entering on the study after pancreaticoduodenectomy, who have not already started chemotherapy must not have had prior systemic chemotherapy for pancreas cancer; note that prior chemotherapy for a different cancer is allowable; for patients entering on the study who have already received up to 3 months of adjuvant chemotherapy as per the treating institution, patients must not have received adjuvant chemotherapy with agents other than gemcitabine, nab-paclitaxel, oxaliplatin, fluoropyrimidine, or irinotecan for the current pancreatic cancer; prior chemotherapy for a different cancer is allowable
+545.0
+Previous or concurrent cytotoxic chemotherapy for prostate cancer; note that prior chemotherapy for a different cancer is allowable
+2580.0
+Prior sorafenib use > 60 days and/or grade 3 or 4 sorafenib related toxicity; note that prior chemotherapy for HCC or a different cancer is allowable
+368.0
+Prior systemic chemotherapy or radiation therapy for salivary gland malignancy; note that prior chemotherapy for a different cancer is allowable
+252.0
+Prior systemic chemotherapy or anti-epidermal growth factor (EGF) therapy for the study cancer; note that prior chemotherapy for a different cancer is allowable
+660.0
+Prior systemic chemotherapy for the study cancer; note that prior chemotherapy for a different cancer is allowable
+234.0
+Prior systemic chemotherapy for the study cancer, if more than 4 cycles of induction chemotherapy or more than 6 months of targeted therapy; note that prior chemotherapy for a different cancer is allowable
+330.0
+Prior systemic chemotherapy for the study cancer; note that prior chemotherapy for a different cancer is allowable; however, at least 6-weeks recovery is necessary if the last regimen included nitrosourea or mitomycin
+924.0
+Prior systemic chemotherapy for the study cancer; note that prior chemotherapy for a different cancer is allowable
+182.0
+Prior chemotherapy or radiosensitizers for cancers of the head and neck region; note that prior chemotherapy for a different cancer is allowable (except temozolomide)
+606.0
+Prior systemic chemotherapy for the current cancer (prior chemotherapy for a different cancer is allowed)
+45.0
+Prior systemic chemotherapy for the study cancer; note that prior chemotherapy for a different cancer is allowable if completed more than two years prior to step 1 registration; prior androgen deprivation is allowed
+612.0
+Systemic chemotherapy for the study cancer < 2 weeks prior to registration
+186.0

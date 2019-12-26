@@ -1,0 +1,30 @@
+Platelets >= 100,000 cells/mm^3
+285.0
+Platelets >= 100,000 cells/mm^3
+37.0
+Platelets >= 70,000 cells/mm^3, within 21 days prior to study entry
+143.0
+Platelets >= 60,000 cells/mm^3; obtained within 14 days prior to study entry
+368.0
+Platelets >= 100,000 cells/mm^3
+252.0
+Platelets >= 100,000 cells/mm^3
+660.0
+Platelets >= 100,000 cells/mm^3
+234.0
+Platelets >= 100,000 cells/mm^3 obtained within 30 days prior to registration
+330.0
+Platelets >= 100,000 cells/mm^3 within 14 days prior to study registration
+440.0
+Platelets >= 100,000 cells/mm^3, within 21 days prior to registration
+924.0
+Platelets >= 100,000 cells/mm^3
+182.0
+Platelets >= 100,000 cells/mm^3
+606.0
+Platelets >= 50,000 cells/mm^3
+360.0
+Platelets >= 50,000 cells/mm^3
+186.0
+Platelets >= 100,000 cells/mm^3
+120.0

@@ -1,0 +1,163 @@
+Human immunodeficiency (HIV) positive (+) patients are eligible provided they meet the other eligibility criteria and:\r\n* Cluster of differentiation (CD)4+ cells are >= 250/mm^3\r\n* There is no history of acquired immunodeficiency syndrome (AIDS) defining conditions other than historically low CD4+ cell count\r\n* The following antiretroviral agents are not allowed: zidovudine, stavudine, protease inhibitors, non-nucleoside reverse transcriptase inhibitors, combination pills with pharmacologic boosters\r\n* Recommended antiretroviral regimens to avoid pharmacokinetic (PK) interactions include strand integrase inhibitors with nucleoside reverse transcriptase inhibitors (for example, dolutegravir given with tenofovir and emtricitabine)
+Prior treatment with angiopoietin inhibitors, or inhibitors of tyrosine kinase with immunoglobulin-like and epidermal growth factor (EGF)-like domains (Tie) 1 or Tie2 including, but not limited to, AMG386, CVX-060, XL880, and XL820
+Concomitant use either of warfarin and/or 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitors (statins).
+First generation: AR antagonists (e.g., bicalutamide, nilutamide, flutamide), 5 alpha reductase inhibitors, ketoconazole, estrogens (including diethylstilbesterol [DES]), or progesterones
+Patients who have received any other histone deacetylase (HDAC) inhibitors or immunomodulatory (IMID) agents for any reason are not eligible
+Use of tumor necrosis factor (TNF) alpha inhibitors within four weeks prior to study entry
+Is receiving an monoamine oxidase-inhibitors (MAOI) or any drug which has significant MAOI activity (e.g., meperidine, linezolid, methylene blue) within the 21 days before screening, or has a history of Serotonin Syndrome after receiving serotonergic drugs.
+Subjects receiving monoamine oxidase (MAO) inhibitors within 21 days of study enrollment (epacadostat increases serotonin levels, theoretically increasing the risk of serotonin syndrome, although this has not been reported in any ongoing clinical studies to date)
+Patients must not be on active anti-androgen therapy or 5-alpha reductase inhibitors; patients on stable dose of 5-alpha reductase inhibitors for benign prostatic hypertrophy for at least 12 months may continue; they must withdraw from the study if this is stopped while on study
+Prior therapy with topoisomerase I inhibitors is allowed
+Ongoing therapy with a P-gp inhibitor (e.g., nelfinavir, indinavir, or saquinavir-protease inhibitors for HIV) as these drugs interact with the factor Xa inhibitors
+Prior treatment with 5-alpha reductase inhibitors within 4 weeks of Cycle 1, Day 1
+Hyperleukocytosis with >= 30,000 blasts/uL; if using hydroxyurea, tyrosine kinase/src inhibitors (including FLT-3 inhibitors), other non-cytotoxics, or leukapheresis for blast count control, the patient must be off these therapies for >= 24 hours prior to beginning sertraline
+Patients requiring treatment with other anti-depressive medications including the selective and non-selective monoamine oxidase (MAO) inhibitors (including linezolid), 5 hydroxytryptamine (HT) receptor agonists (triptans), tryptophan or antidopaminergic agents (anti-psychotics, metoclopramide, promethazine, haloperidol)
+Taking other immunosuppressant drugs for GVHD, including mTor inhibitors (Note: Only steroids, calcineurin inhibitors, and ECP are acceptable).
+Receipt of monoamine oxidase inhibitors (MAOIs), UGT1A9 inhibitors, or melatonin supplements
+Prior treatment with ERK inhibitors.
+prior treatment with DAC inhibitors
+Patients who have had prior treatment with LY2606368 or other Chk inhibitors
+Concurrent use of selective serotonin reuptake inhibitors or aromatase inhibitors
+Use of the following drugs within 4 weeks of study drug administration: 5 alpha-reductase inhibitors (finasteride, dutasteride), estrogens, Cyproterone acetate, biologic, or other agents with anti-tumor activity against prostate cancer, and androgens (testosterone, dihydroepiandrosterone [DHEA], etc.)
+Patients with prior treatment of histone deacetylase (HDAC) inhibitors or doxorubicin liposome or doxil are eligible
+Patients on 5-alpha reductase inhibitors such as finasteride or dutasteride must stop medication at least 28 days prior to study entry.
+Subjects receiving monoamine oxidase (MAO)-inhibitors (MAOI) or drug which has significant MAOI activity (meperidine, linezolid, methylene blue) within the 21 days before screening
+Previous treatment with dual PI3K/mTOR inhibitors, TORC1/2 inhibitors or TORC1 inhibitors.
+Subjects receiving monoamine oxidase inhibitors (MAOIs) or drug which has significant MAOI activity (meperidine, linezolid, methylene blue) within the 21 days before screening
+Prior therapy with hydroxyurea, biological or targeted therapy (e.g. flt3 inhibitors, other kinase inhibitors) or hematopoietic growth factors is allowed
+COHORT 2: TRIPLE NEGATIVE BREAST CANCER: Eligible patients may or may not have received prior chemotherapy and there is no limit to the number of prior chemotherapy; patients are also eligible if they have received treatment with immunotherapy, such PD-1 inhibitors, PD-L1 inhibitors or CTLA4 inhibitors
+COHORT 3: ENDOMETRIAL CANCER: Women with endometrial cancer must have had at least one prior line of therapy in the metastatic/recurrent setting but there is no limit to the number of prior chemotherapy lines; patients are eligible if they have received treatment with immunotherapy, such PD-1 inhibitors, PD-L1 inhibitors or CTLA4 inhibitors
+Prior therapy with hydroxyurea, chemotherapy, biological or targeted therapy (e.g. FLT3 inhibitors, other kinase inhibitors), or hematopoietic growth factors is permitted in cohort 1 and 2.
+Medically indicated use of known radiosensitizing drugs (such as protease inhibitors)
+Subjects receiving monoamine oxidase inhibitors (MAOIs) or drug which has significant MAOI activity (meperidine, linezolid, methylene blue) from 21 days prior to day 1 through 2 weeks after the final dose of epacadostat has been administered
+Hormonal manipulation (excluding 5-alpha-reductase inhibitors) that alters androgen production within the previous 6 months;
+Has had prior therapy with indoleamine-pyrrole 2,3-dioxygenase (IDO)-inhibitors
+Has had monoamine oxidase inhibitors within 21 days before screening
+Prior usage of PD-1 inhibitors, programed-death ligand 1 and/or 2 inhibitors, CTLA-4 inhibitors including but not limited to ipilimumab, nivolumab, avelumab, durvalumab, tremelimumab, and pembrolizumab
+Prior use of osteoclast inhibitors for osteoporosis will not be allowed
+P-glycoprotein/ABCB1 inhibitors such as amiodarone, atorvastatin, azithromycin, clarithromycin; if previously on such agents, the patient must be off of it for at least two weeks prior to study treatment
+Anticipated use of concomitant chemotherapy (other than the protocol specified agents), immunotherapy, or systemic use of hormonal therapy (such as GnRH analogs, antiandrogens, androgen receptor inhibitors, and 5-? reductase inhibitors) prior to surgery
+Prior exposure to CYP17 (other than ketoconazole) or PARP inhibitors for prostate cancer; patients with prior exposure to ketoconazole are eligible
+Prior therapy with hydroxyurea, chemotherapy, biological or targeted therapy (e.g. FLT3 inhibitors, other kinase inhibitors), or hematopoietic growth factors is allowed
+Concomitant treatment with other hormonal therapy or 5alpha-reductase inhibitors
+Prior exposure to IACS-010759 or other oxidative phosphorylation inhibitors
+Concurrent therapy with monoamine oxidase inhibitors (MAOI), selective serotonin reuptake inhibitors (SSRI), or other tricyclic antidepressants (TCA) or use within 2 weeks study start
+Prior use of neutrophil elastase inhibitors
+Patients must not have been treated with CHK1/2 inhibitors
+HDAC inhibitors: 8 weeks
+5-alpha reductase inhibitors (e.g. finasteride or dutasteride) within 180 days prior to registration.
+Prior treatment with CCR2 and/or CCR5 inhibitors
+Treatment with any of the following medications within 28 days of registration, or while on study, is prohibited:\r\n* Systemic corticosteroids (at doses over the equivalent of 5 mg prednisone daily) - not permitted within 1 month of registration; inhaled, intranasal or topical corticosteroids are acceptable\r\n* Prostate cancer (PC)-SPES\r\n* Saw palmetto\r\n* Megestrol\r\n* Ketoconazole\r\n* 5-alpha-reductase inhibitors - patients already taking 5-alpha-reductase inhibitors prior to 28 days prior to registration may stay on these agents throughout the course of therapy, but these should not be started while patients are on study\r\n* Diethylstilbestrol\r\n* Abiraterone\r\n* Enzalutamide\r\n* Radium 223 (Xofigo)\r\n* Any other hormonal agent or supplement being used with the intent of cancer treatment
+Patients who are currently receiving angiotensin-converting enzyme (ACE) inhibitors are not eligible due to the development of angioneurotic edema-type reactions in some subjects who received concurrent treatment with temsirolimus + ACE inhibitors
+Prior therapy with hydroxyurea, chemotherapy, biological or targeted therapy (e.g. FLT3 inhibitors, other kinase inhibitors), or hematopoietic growth factors is allowed
+Angiotensin-converting enzyme (ACE) inhibitors: patients who are currently receiving ACE inhibitors are not eligible
+Receipt of monoamine oxidase inhibitors (MAOIs) within 21 days before first dose of study treatment
+Concomitant use of other histone deacetylase (HDAC) inhibitors
+Patients receiving the following drugs that are contraindicated with NFV will be excluded:\r\n* Antiarrhythmics: amiodarone, quinidine\r\n* Antimycobacterial: rifampin\r\n* Ergot derivatives: dihydroergotamine, ergonovine, ergotamine, methylergonovine\r\n* Herbal products: St. John’s wort (hypericum perforatum)\r\n* 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase potential 10 inhibitors: lovastatin, simvastatin\r\n* Neuroleptic: pimozide\r\n* Proton pump inhibitors\r\n* Sedative/hypnotics: midazolam, triazolam
+Patients receiving the following drugs will be clinically evaluated as to whether dosage/medication can be changed to permit patient on study:\r\n* Anti-convulsants: carbamazepine, phenobarbital, phenytoin\r\n* Anti-mycobacterial: rifabutin\r\n* Phosphodiesterase type 5 (PDE5) inhibitors: sildenafil, vardenafil, tadalafil\r\n* HMG-CoA reductase inhibitors: atorvastatin, rosuvastatin\r\n* Immunosuppressants: cyclosporine, tacrolimus, sirolimus\r\n* Narcotic analgesic: methadone\r\n* Oral contraceptive: ethinyl estradiol\r\n* Macrolide antibiotic: azithromycin\r\n* Inhaled/nasal steroid: fluticasone\r\n* Antidepressant: trazodone
+Prior treatment with the following agents known to have endocrine effects on prostate cancer: GnRH agonist, GnRH antagonist, anti-androgen (bicalutamide, nilutamide, flutamide), ketoconazole, diethylstilbestrol, estrogen, abiraterone acetate; concurrent use of 5-alpha-reductase inhibitors finasteride or dutasteride is permitted for patients who have been already receiving either of these treatments for at least 1 month at the time of study enrollment; baseline PSA must have been obtained in such patients after at least 1 month on 5-alpha-reductase treatment; initiation of treatment with 5-alpha-reductase inhibitors is not permitted within the first 12 months of study participation
+Willing to withdraw from selective serotonin reuptake inhibitors and tricyclic antidepressants prior to treatment initiation
+Patients who are receiving monoamine oxidase (MAO) inhibitors
+Use of 5-alpha reductase inhibitors (finasteride, dutasteride) specifically prescribed for the treatment of prostate cancer
+Patients are not required to have all approved therapies in a drug class (e.g., patients with kidney cancer do not need all tyrosine kinase inhibitors, patients with melanoma do not need all approved checkpoint blockade inhibitors)
+Concomitant use of warfarin and HMG-CoA reductase inhibitors (statins)
+Off calcineurin inhibitors for at least 2 weeks
+Bcl2 inhibitors
+Part 2: on monoamine oxidase inhibitors, tricyclic antidepressants, or clonidine
+Patient requiring chronic treatment with BCRP inhibitors (cyclosporine, eltrombopag)
+Has received monoamine oxidase inhibitors within 21 days prior to starting study
+DOSE ESCALATION COHORT: Subjects receiving monoamine oxidase Inhibitors (MAOIs) or drug which has significant MAOI activity (meperidine, linezolid, methylene blue) within the 21 days before screening
+DOSE EXPANSION COHORT: Subjects receiving monoamine oxidase Inhibitors (MAOIs) or drug which has significant MAOI activity (meperidine, linezolid, methylene blue) within the 21 days before screening
+Use of monoamine oxidase inhibitors (MAOI)s and selective serotonin reuptake inhibitor (SSRIs) within the last 4 weeks or history of serotonin syndrome
+Patients receiving the following drugs that are contraindicated with NFV will be excluded: antiarrhythmics amiodarone, quinidine), antimycobacterial (rifampin), ergot derivatives (dihydroergotamine, ergonovine, ergotamine, methylergonovine), herbal products (St. John’s wort), 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase inhibitors (lovastatin, simvastatin), neuroleptic (pimozide), proton pump inhibitors, sedatives/hypnotics (midazolam, triazolam)
+Any current 5-alpha reductase inhibitors (history of use >= 3 months prior to MRI is acceptable)
+Therapy with monoamine oxidase inhibitors (MAOIs) and selective serotonin reuptake inhibitor (SSRIs) within the last 4 weeks or history of serotonin syndrome
+Patients MAY HAVE received non-cytotoxic (biologic or targeted) agent(s) as part of initial treatment and/or for management of recurrent or persistent disease, with the below stated exceptions (see NOTE below); prior hormonal therapy is allowed, but must be discontinued at least one week prior to registration\r\n* NOTE: Prior therapy with PI3K inhibitors, AKT inhibitors and/or mammalian target of rapamycin (mTor) inhibitors (e.g., everolimus, temsirolimus) is NOT allowed; prior therapy with MEK inhibitors (e.g., AZD6244 or selumetinib) is NOT allowed
+Patients receiving the following classes of inhibitors of cytochrome P450 3A4 (CYP3A4):\r\n* Azole antifungals\r\n* Macrolide antibiotics\r\n* Protease inhibitors
+Prior exposure to any CSF1R pathway inhibitors
+Prior use of raf-kinase inhibitors (sorafenib), vascular endothelial growth factor (VEGF) inhibitors, mitogen-activated protein kinase (MAPK)/extracellular-signal-related kinase (ERK) kinase (MEK) inhibitors, or farnesyl transferase inhibitors
+Prior use of raf-kinase inhibitors, VEGF inhibitors, MEK inhibitors or farnesyl transferase inhibitors, with the exception of sorafenib
+Subjects on 5-alpha reductase inhibitors such as finasteride (PROSCAR®, PROPECIA®), or dutasteride (AVODART®) within 28 days of study drug initiation.
+For Cohort B: Is currently receiving any of the following classes of inhibitors of CYP3A4: azole antifungals; macrolide antibiotics; or protease inhibitors
+For Cohort C: Has received treatment with 5-? reductase inhibitors (e.g., finasteride, dutasteride), estrogens, and/or cytproterone within 4 weeks of the screening visit
+Monoamine oxidase inhibitors.
+Treatment with 5-? reductase inhibitors (finasteride, dutasteride) within 4 weeks of randomization;
+Use of 5-alpha reductase inhibitors (5-ARIs) or hormone therapy within 3 months prior to the baseline visit. Baseline PSA must be established after a minimum of 3 months following 5-ARIs discontinuation. Additionally, use of 5-ARIs is not permitted following treatment during the study follow-up period.
+Prior exposure to bromodomain (BET) inhibitors
+Prior use of targeted therapy agents (eg, FLT3 inhibitors, other kinase inhibitors).
+Subject received treatment with 5-? reductase inhibitors (finasteride, dutasteride) within 4 weeks prior to day 1.
+Use of estrogens or 5-? reductase inhibitors or AR inhibitors.
+Prior treatment with other next generation anti-androgens or other CYP17 inhibitors, immunotherapy or radiopharmaceutical agents for prostate cancer
+Prior exposure to any bromodomain (BET) inhibitors
+Prior cancer immunotherapy, specifically indoleamine 2,3-dioxygenase (IDO) or tryptophan 2,3-dioxygenase (TDO) inhibitors, T-cell costimulatory receptor agonist antibodies, or checkpoint inhibitors among certain participants
+Prior therapy with hydroxyurea, chemotherapy, biological or targeted therapy (e.g. FLT3 inhibitors, other kinase inhibitors), or hematopoietic growth factors is allowed
+Patient has received previous treatment with histone deacetylase (HDAC) inhibitors
+Phase 1b: Prior talimogene laherparepvec, ipilimumab, other CTLA-4 inhibitors, PD-1 inhibitors, or tumor vaccine
+The patient must have received no more than 2 prior regimens with VEGF inhibitors and 1 prior regimen with checkpoint inhibitors for metastatic disease.
+Patient who received DAC inhibitors
+5-? reductase inhibitors
+Treatment with hormonal therapy (eg, androgen receptor inhibitors, 5-alpha reductase inhibitors) or biologic therapy for prostate cancer (other than LHRH analogue therapy) within 4 weeks before enrollment;
+Patients who have received antiandrogens such as flutamide (EULEXIN®), bicalutamide (CASODEX®), or nilutamide (NILANDRON®) for > 3 months must be off treatment for 6 weeks and demonstrate a continued rise in PSA after withdrawal. Patients on antiandrogens for < 3 months must be off medication for 2 weeks. Patients on 5 alpha reductase inhibitors such as finasteride (PROSCAR®, PROPECIA®), or dutasteride (AVODART®) must stop medication at least 3 months from study entry.
+Concurrent use of calcineurin-inhibitors plus sirolimus; either agent alone is acceptable
+Patients on immunosuppressive agents (e.g., TNF pathway inhibitors, phosphoinositide 3 [PI3] kinase inhibitors) within 7 days of study treatment
+CTCL disease that is known to be refractory to systemic histone deacetylase inhibitors
+Patients who have experienced intolerable adverse events per treating investigator due to other PARP inhibitors, mTOR inhibitors, PI3 kinase inhibitors, or AKT inhibitors
+Prior treatment with c-Met inhibitors
+Treatment with concurrent 5-alpha reductase inhibitors (finasteride, dutasteride), estrogens, and/or cyproterone
+Patients must be off all non-cytotoxic chemotherapies or biologic agents (e.g. azacitidine, decitabine, histone deacetylase inhibitors, tyrosine kinase inhibitors, hematopoietic growth factors, interferon, but excluding hydroxyurea and cyclophosphamide) for at least 2 weeks prior to starting induction chemotherapy
+Patients taking monoamine oxidase (MAO)-inhibitors or antipsychotic medications
+Concurrent use of other antiandrogens, estrogen-like agents, or 5a-reductase inhibitors
+Patient has taken monoamine oxidase inhibitors (MAOI) in the past two weeks
+At least 4 weeks must have elapsed from the use of 5-alpha reductase inhibitors, estrogens, and any other anti-cancer therapy prior to randomization
+Prior treatment with CYP17 inhibitors
+Prior use of 5-alpha reductase inhibitors is permitted provided such medications were stopped 7-14 days prior to enrollment
+Treatment with any of the following medications within 28 days of registration, or while on study, is prohibited:\r\n* Systemic corticosteroids (at doses over the equivalent of 1 mg prednisone daily); inhaled, intranasal or topical corticosteroids are acceptable\r\n* Prostate cancer (PC)-SPES\r\n* Saw palmetto\r\n* Megestrol\r\n* Ketoconazole\r\n* 5-alpha-reductase inhibitors-patients already taking 5-alpha-reductase inhibitors prior to 28 days prior to registration may stay on these agents throughout the course of therapy, but these should not be started while patients are on study\r\n* Diethyl stilbestrol\r\n* Abiraterone\r\n* Any other hormonal agent or supplement being used with the intent of cancer treatment
+History of hypotension and/or blindness during prior treatment with tadalafil or other PDE-5 inhibitors
+Prior treatment with immunotherapy agents including, but not limited to, tumor necrosis factor receptor superfamily agonists or checkpoint inhibitors or natural killer (NK) cell inhibitors.
+Subjects should have received no anti-leukemic therapy (except hydroxyurea) prior to the first dose of crenolanib as follows: for 14 days for classical cytotoxic agents and for five times the t1/2 (half-life) for FLT3 inhibitors and antineoplastic agents that are neither cytotoxic nor FLT3 inhibitors (e.g. hypomethylating agent or MEK inhibitor)
+Have no prior exposure to cytochrome 450 family 17(CYP-17) (other than ketoconazole) or PARP inhibitors for prostate cancer; patients with prior exposure to ketoconazole are eligible
+Patients who have had prior therapy with chemokine receptor type 4 (CXCR4) inhibitors
+Received immunomodulating agents, histone deacetylase inhibitors, cyclosporine, or mycophenolate within 4 weeks of screening
+Patients receiving treatment with 5-alpha reductase inhibitors (e.g., finasteride, dutasteride) within 90 days prior to preregistration are not eligible; treatment with these agents during the protocol intervention is not permitted
+For patients previously treated with other agents approved for the treatment of prostate cancer (5-? reductase inhibitors, estrogens, others), discontinuation of therapy must have occurred ?4 weeks prior to start of study drug.
+Prior exposure to a selective inhibitors of nuclear export (SINE) compound
+Chemotherapy, radiotherapy, HDAC inhibitors, or other plasma cell directed therapy within 2 weeks
+Lead-in cohort: resistant or intolerant to 1 or more Janus kinase inhibitors (licensed or experimental).
+Prior treatment with c-MET/HGF inhibitors
+Inhibitors of P-glycoprotein efflux transporters\r\n* Concomitant medications that are strong inhibitors of P-glycoprotein efflux transporters should be used with caution during the study; examples of these medications include ritonavir, cyclosporine, verapamil, erythromycin, ketoconazole, itraconazole, quinidine, and elacridar
+Prior treatment with small molecule inhibitors of the MET pathway.
+Prior treatment with a gamma secretase inhibitors or other Notch signaling inhibitors.
+Known or suspected history of severe hypersensitivity reaction to tyrosine kinase inhibitors, histone deacetylase inhibitors, proteosome inhibitors, boron, or mannitol
+Oral kinase inhibitors approved by local regulatory authorities may be used within 2 weeks prior to initiation of DLYE5953A, provided that any clinically relevant drug-related toxicity has completely resolved and prior approval is obtained from the Medical Monitor
+Phase II only: Prior treatment with RAF inhibitors, Wnt pathway inhibitors, cetuximab, panitumumab, and/or other EGFR inhibitors
+Patients must not have had any prior exposure to heat shock protein 90 (HSP90) inhibitors (such as IPI-504 or ganetespib) or non-crizotinib ALK inhibitors (such as AP26113 or LDK378)
+Current and continued use during study treatment period of known Breast cancer resistance protein (BCRP) inhibitors or known P-gp inhibitors.
+Prior therapy with HDAC inhibitors (except for CTCL)
+Small molecular cell cycle inhibitors >= 2 weeks from registration
+Current or previous treatment with angiopoietin inhibitors, or inhibitors of Tie1 or Tie2 including, but not limited to, AMG386, CVX-060, XL880, and XL820
+Prior therapy with heat shock protein (HSP)-90 inhibitors
+Prior therapy with inhibitors of IGF-1 (example [ex]: AMG-479, OSI-906)
+Recently started on anti-depressant medications (past one month for those on selective serotonin reuptake inhibitors [SSRI] and past two months for those started on monoamine oxidase inhibitors [MAOI])
+Patients taking monoamine oxidase (MAO) inhibitors, tricyclic antidepressants, clonidine, psychostimulants, concurrent steroids or other medications specifically for fatigue
+Subjects taking selective serotonin reuptake inhibitors (SSRIs).
+Use of monoamine oxidase inhibitors (MAOI) inhibitors
+History of grade 2 depression or anxiety or treatment with antidepressants, antipsychotics or monoamine oxidase inhibitor (MAO) inhibitors within 30 days of registration
+Patients must not require selective serotonin reuptake inhibitors (SSRIs) or tricyclic antidepressants during study participation; patients must have been able to taper and discontinue treatment with these medications at least 7 days prior to registration (28 days for fluoxetine), and must not be experiencing antidepressant withdrawal symptoms (e.g., dizziness, nausea, sleep disturbance, or other sensory disturbances); patients must not have previously taken the serotonin norepinephrine reuptake inhibitors (SNRI) duloxetine or milnacipran; prior venlafaxine is allowed as long as it was not taken concurrently with AI therapy and was not taken for treatment of pain (e.g., prior treatment for hot flashes is permitted)\r\n* NOTE: Patients requiring antidepressants for management of depression are not appropriate candidates for this placebo-controlled study, but those who are on antidepressants for other indications, such as hot flash management, may be able to tolerate a time off of antidepressant therapy
+Any of the following current (=< 4 weeks prior) or planned therapies:\r\n* Antineoplastic chemotherapy (anti-HER2 agents allowed)\r\n* Androgens\r\n* Estrogens (any delivery route)\r\n* Progestogens\r\n* Tamoxifen, raloxifene and aromatase inhibitors are allowed, but patient must have been on a constant dose for at least 28 days and must not be expected to stop the medication during the study period\r\n* Selective serotonin reuptake inhibitors (SSRIs)/serotonin–norepinephrine reuptake inhibitors (SNRIs), when being used for hot flash management or other indications such as depression, is allowed, assuming the dose will remain unchanged for the study duration\r\n* Gabapentin/pregabalin, when being used for hot flash management (use for other indications, such as pain, is allowed, assuming the dose will remain unchanged for the study duration)\r\n* Clonidine\r\n* Agents with known potent anticholinergic activity; agents with mild-moderate anticholinergic activity are allowed
+Prior treatment with quizartinib or other FLT3-ITD inhibitors;
+Need monoamine oxidase inhibitors, tricyclic antidepressants, or clonidine
+Need monoamine oxidase inhibitors, tricyclic antidepressants, or clonidine
+Currently receiving phenobarbital, diphenylhydantoin, primidone, phenylbutazone, monoamine oxidase inhibitors (MAOIs), clonidine and tricyclic antidepressant drugs
+Patients using carbonic anhydrase inhibitors (acetazolamide [Diamox], brinzolamide [Azopt], methazolamide [Neptazane], dorzolamide [Trusopt], pomegranate ellagitannins), cimetidine, or topiramate
+No allergy to finasteride or other five alpha reductase inhibitors
+Selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitor (SNRIs) (common anti-depressant therapies)
+Men on stable doses of 5-alpha reductase inhibitors are eligible as long as there is no planned dose change while on study
+History of 5 alpha reductase inhibitors prior 3 months
+Participants cannot be taking 5-alpha-reductase inhibitors while on study or within 6 months of the baseline study visit
+Use of monoamine oxidase inhibitors within 14 days of study entry
+Patients who have received and/or are scheduled to receive a combination of the following cardiotoxic chemotherapy agents:\r\n* Anthracyclines (doxorubicin, daunorubicin, epirubicin, idarubicin); antimetabolites (5-fluorouracil); alkylating agents (busulfan, cisplatin, cyclophosphamide, ifosfamide); anthraquinones (mitoxantrone); antimicrotubules (paclitaxel, vinca alkaloids [vinblastine, vincristine]); biological agents (interferon-alpha, interleukin-2); hormone-modifying therapy (androgen-deprivation therapy, aromatase inhibitors); tyrosine-kinase inhibitors (bevacizumab, imatinib, lapatinib, sorafenib, sunitinib, trastuzumab); rituximab; docetaxel (Taxotere); any other potentially cardiotoxic treatment
+Hormone therapy for locally advanced disease (except patients on 5-alpha reductase inhibitors to reduce the size of the prostrate)
+Prior treatment with venetoclax or other BCL2 inhibitors
+Previous meningioma progression during treatment with other mTORC1/2 inhibitors (but not mTORC1 inhibitors such as everolimus or other rapalogs)
+History of 5 alpha reductase inhibitors prior 3 months
+Hormone therapy for locally advanced disease (except patients on 5-alpha reductase inhibitors to reduce the size of the prostate)

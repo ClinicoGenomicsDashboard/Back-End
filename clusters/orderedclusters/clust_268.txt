@@ -1,0 +1,32 @@
+ECOG performance status (PS) 0-3 (restricted to ECOG PS 0-2 if >= 70 years of age)
+747.0
+Patients must have an ECOG performance status of 0-2
+747.0
+Patients must have an ECOG performance status of 0 -2
+747.0
+STEP II: ECOG performance status 0, 1, or 2 (PS 3 allowed if secondary to pain)
+1080.0
+ECOG performance status of 2 or greater
+45.0
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): ECOG performance status 0-2
+97.0
+ECOG performance score 0-3
+509.0
+ECOG performance status 0-2
+509.0
+Patients must have an ECOG performance status of 0-2
+509.0
+CRITERIA FOR MAINTENANCE THERAPY-STEP 4: Patients must have an ECOG performance status of 0-3
+509.0
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%) unless due to neurologic deficits caused by CNS lymphoma with the following exceptions: patients with ECOG performance status (PS) = 4 where neurologic deficits are unlikely to resolve with tumor resolution and may cause clinical management problems are excluded
+52.0
+Performance status of 0, 1 or 2 within 28 days prior to registration
+96.0
+ECOG performance status 0 or 1
+195.0
+ECOG performance status 0-2
+110.0
+Performance status 0, 1 or 2
+488.0
+Patients with ECOG performance grade of 3 or 4
+50.0

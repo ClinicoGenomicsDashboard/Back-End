@@ -1,0 +1,150 @@
+Stage: clinical T1 >= 1.0 cm, T2 or T3, N0-3, M0; participants with multicentric or bilateral disease are eligible if at least one lesion meets stage eligibility criteria for the study (i.e., >= 1.0 cm operable breast cancer) and no tumor is human epidermal growth factor receptor 2 (HER2)-positive (3+ by immunohistochemistry [IHC] or in situ hybridization [ISH] amplified >= 2.0); in this circumstance, the investigator must determine which will represent the target lesion to be assessed for response; this should remain consistent throughout the study; the target lesion should be selected on the basis of its size (lesion with the longest diameter) and suitability for accurate repetitive measurements
+Patients must have at least ONE of the following: 1) Bone disease, 2) Any amount of neuroblastoma tumor cells in the bone marrow, 3) At least one soft tissue lesion that meets criteria for a TARGET lesion, 4) At least one non-target soft tissue lesion that is not measurable, but had a biopsy positive for neuroblastoma and/or ganglioneuroblastoma at any time prior to enrollment or is MIBG avid
+A minimum of 1 measurable Target Lesion (i.e., ? 10 mm longest diameter).
+Prior therapy is allowed provided the following are met: at least 4 weeks since prior locoregional therapy including surgical resection, radiotherapy, or ablation; provided target lesion has increased in size by 25% or more or the target lesion was not treated with locoregional therapy
+Patients with measurable disease must have at least one target lesion as defined by RECIST 1.1” to be used to assess response on this protocol
+Presence of measurable disease per RECIST version (v)1.1; target lesions must not be chosen from a previously irradiated field unless there has been radiographically and/or pathologically documented tumor progression in that lesion prior to enrollment.
+The lesion is suitable for repeat measurement using computerized tomography/magnetic resonance imaging (CT/MRI). Lesions that have had external beam radiotherapy (EBRT) or locoregional therapy must show radiographic evidence of disease progression based on RECIST 1.1 to be deemed a target lesion.
+Presence of at least 1 non-target lesion suitable for multiple biopsies while on treatment.
+Tumor measurable by RECIST 1.1 including >= 1 target lesion not planned for biopsy
+Prior therapy is allowed provided the following are met: at least 4 weeks since prior locoregional therapy including surgical resection, chemoembolization, radiotherapy, or ablation. Provided target lesion has increased in size by 25% or more or the target lesion was not treated with locoregional therapy. Patients treated with palliative radiotherapy for symptoms will be eligible 1 week after treatment as long as the target lesion is not the treated lesion
+TARGET POPULATION
+Prior irradiation to the planned radiation target lesion.
+Subjects must have an area of tumor amenable to excisional biopsy for the generation of TIL separate from, and in addition to, a target lesion to be used for response assessment.
+Has measurable disease, defined as at least 1 tumor that fulfills the criteria for a target lesion
+Patients with a target lesion located in a previously irradiated field
+Presence of measurable disease per RECIST v1.1; target lesions must not be chosen from a previously irradiated field unless there has been radiographically and/or pathologically documented tumor progression in that lesion prior to enrollment
+Radiotherapy to a target lesion within the past 3 months prior to baseline imaging unless that area has demonstrated progression
+Measurable disease (at least one target lesion)
+Presence of at least one target lesion (distinct from treatment lesion and outside of treatment lesion radiation field) evaluable for response by irRECIST
+The target lesion is one that either has never received external beam radiation or has been previously irradiated and has since demonstrated progression; any local irradiation of the target lesion or any non-target lesions via external beam, conformal or stereotactic radiation treatments must have occurred more than 4 weeks prior to study drug administration; any full cranial-spinal radiation, whether or not a target lesion is included in the field, must have occurred more than 3 months prior to study drug administration
+At least 1 lesion accessible for biopsy in addition to the target lesion
+A minimum of one measurable lesion defined as: \r\n* Meeting the criteria for measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST) \r\n* Skin lesion(s) selected as non-completely biopsied target lesion(s) that can be accurately measured and recorded by color photography with a ruler to document the size of the target lesion(s)
+Subjects must have at least one target lesion in breast/chest wall/axilla which is amenable to application of high intensity focused ultrasound:\r\n* The distance from the skin: A targetable portion of the tumor must be ? 5 mm from the skin\r\n* The rib cage should not be in the prefocal ultrasound path or behind the target area of the lesion (minimum distance from the posterior aspect of the target area to rib cage must be at least 10 mm)\r\n* Subject’s tumor must be larger than 9 mm in the anterior-posterior dimension (measured by ultrasound)\r\n* Subject’s tumor must be greater than or equal to 0.3 cubic centimeters
+Presence of at least one target lesion (distinct from treatment lesion and outside of treatment lesion radiation field) evaluable for response by RECIST 1.1
+Patients must have at least one focus of metastatic disease that is amenable to pre- and on-treatment biopsies; ideally the biopsied lesion should not be one of the target measurable lesions, although this can be up to the discretion of the investigators
+Subjects must have measurable disease (at least one target lesion) as defined by RECIST 1.1; target lesions must not be chosen from a previously irradiated field unless there has been radiographically and/or pathologically documented tumor progression in that lesion prior to enrollment
+Measurable disease by RECIST 1.1 criteria (at least one target lesion outside of previous radiation fields or progressed within a previous radiation field)
+Subjects with planned radiation therapy to a target lesion will be excluded
+Measurable metastatic sites of disease outside of the target lesion undergoing palliative radiation based on RECIST 1.1 as assessed by the investigator
+Subjects must have at least 1 lesion that is measurable by irRECIST\r\n* A previously irradiated lesion can be considered a target lesion if the lesion is well defined, measurable per irRECIST, and has clearly progressed\r\n* Subjects undergoing fresh tumor biopsies must have additional non-target lesions that can be biopsied at acceptable risk as judged by the investigator or if no other lesion suitable for biopsy, then an irRECIST target lesion used for biopsy must be >= 2 cm in longest diameter
+A minimum of one measurable lesion defined as:\r\n* Meeting the criteria for measurable disease according to Response Evaluation Criteria In Solid Tumors (RECIST)\r\n* Skin lesion(s) selected as non-completely biopsied target lesion(s) that can be accurately measured and recorded by color photography with a ruler to document the size of the target lesion(s)
+Concurrent palliative radiotherapy for local pain-control may be allowed provided the subject completes the first cycle of treatment, does not meet criteria of progressive disease, and treated lesions will not be included in the target/non-target lesion assessment.
+Patients must have anticipated residual measurable disease after resection of target lesion(s) for TIL growth
+A minimum of one measurable lesion defined as:\r\n* Meeting the criteria for measurable disease according to irRECIST criteria\r\n* For patients with skin metastases, lesions selected as non-completely biopsied target lesion(s) that can be accurately measured and recorded by color photography with a ruler to document the size of the target lesion(s)
+The subject must have at least 1 measurable target lesion >= 10mm in longest dimension that is in an anatomic location treatable by MR-HIFU. Note that for this study, lesions in bone WILL be considered measurable provided they meet the other criteria by Response Evaluation Criteria in Solid Tumors (RECIST) and are confirmed to be metabolically active on baseline studies by either metaiodobenzylguanidine (MIBG) uptake (for neuroblastomas) or positron emission tomography (PET) avidity. Target lesions should be located so that they can be adequately heated by a hyperthermia treatment cell with a diameter of up to 58 mm, centered at a depth of 35 to 80 mm from the skin. There should be no staples, implants, extensive scarring, or other highly ultrasound absorbing or reflecting tissue in the expected beam path. For the first 5 patients enrolled on this study only, the lesion must be located in the extremities or pelvis to be considered treatable by MR-HIFU.
+Target lesion that has been previously irradiated
+The target lesion must measure at least 15 mm in at least one dimension, and no more than 4 cm in any dimension
+At least one measurable disease site that meets target lesion requirements
+Has measurable disease, defined as at least 1 tumor that fulfills the criteria for a target lesion according to RECIST 1.1, or lymphoma that fulfills the Deauville PET Criteria
+Radiotherapy to the target lesion within the past 3 months prior to baseline imaging
+Target lesion size for re-irradiation must be =< 2 vertebral bodies
+The position and accessibility of the target lesion allows for the safe administration of multiple ablation cycles or deployments to achieve a probe dwell time of ? 45 minutes.
+Symptomatic patients in need of surgery to the “target” lesion
+Patients enrolled in the dose-expansion part of the trial must have at least one lesion that may qualify as a target lesion based on the RECIST 1.1 criteria.
+Measurable or nonmeasurable disease by RECIST criteria (at least one target or nontarget lesion)
+Complete obstruction of portal venous flow to the segment of liver that includes the target lesion
+The target lumpectomy cavity must be clearly delineated and the target lumpectomy cavity/whole breast reference volume must be =< 30% based on the postoperative/pre-enrollment computed tomography (CT) scan
+For patients with skin metastases, lesions selected as non-completely biopsied target lesion(s) that can be accurately measured and recorded by color photography with a ruler to document the size of the target lesion(s)
+The gross target volume (GTV) is suitable for motion management using 4 dimensional computed tomography (4D CT), internal target volume (ITV), or respiratory gating; in addition, the target coverage and normal tissue constraints must be met as specified in protocol accounting for the respiratory motion of anatomy as a whole (not just the tumor)
+Have at least one target (ie, measurable) intracranial CNS lesion (?10 mm in longest diameter by contrast enhanced magnetic resonance imaging [MRI]). Lesions previously treated by stereotactic radiosurgery (SRS) or surgical resection should not be included as a target lesion. Lesions previously treated with whole brain radiation therapy (WBRT) may be included as a target lesion if (1) the last administration of WBRT was >3 months prior to the first dose of AP32788 and (2) unequivocal radiological progression of the lesion has been observed. Expansion Cohort 4 Specific Inclusion Criteria:
+Inability to adequately perform volumetric measurement of at least 1 target lesion (e.g., due to the presence of artifacts from cochlear or auditory brainstem implants, ill-defined tumor margins resulting from the juxtaposition of tumors abutting each other, or sequela from prior irradiation to the target lesion); Note: patients with cochlear or auditory brainstem implants may participate if a target lesion can be accurately assessed
+Radiation therapy for the target lesion in the 60 months preceding inclusion in the study
+The target lumpectomy cavity must be clearly delineated and the target lumpectomy cavity/whole breast reference volume must be less than or equal to 30% based on the postoperative/pre-enrollment computed tomography (CT) scan
+Clear delineation of the extent of the target lumpectomy cavity not possible
+A radiation planning computed tomography (CT) scan which demonstrates a target lumpectomy cavity that is not clearly delineated or a target lumpectomy cavity/whole breast reference volume > 30%
+Target Lesion(s) must not be contiguous with, encompass or infiltrate major blood vessels.
+Lesions that have had radiotherapy must show subsequent radiographic evidence of increase in size by at least 20% to be deemed a target lesion.
+At least one radiologically measurable target lesion per RECIST version 1.1
+At least 1 unirradiated target lesion measurable by RECIST
+Patients must have at least ONE of the following: 1) Bone disease, 2) Any amount of neuroblastoma tumor cells in the bone marrow, 3) At least one soft tissue lesion that meets criteria for a TARGET lesion, 4) At least one non-target soft tissue lesion that is not measurable, but had a biopsy positive for neuroblastoma and/or ganglioneuroblastoma at any time prior to enrollment or is MIBG avid
+Diagnosis of an advanced solid tumor malignancy; there must be a target tumor which is measurable, palpable or clearly identifiable under ultrasound or radiographic guidance and amenable to percutaneous injection of C. novyi-NT spores; the targeted lesion must have a longest diameter ? 1 cm and < 12 cm and be measurable as defined by RECIST 1.1 criteria; the target lesion must not be located in either the thoracic, abdominal or pelvic cavities or in the brain; there must be no clinical, no functional, and no radiographic evidence of bone involvement at the site of the target lesion
+Multifocal or multicentric breast cancer is allowed if all the lesions are biopsied and are HER2 positive; largest lesion will be assigned the target lesion
+One or more measurable lesion(s) (\target lesion[s]\) that can be accurately measured in at least 1 dimension
+American Joint Committee on Cancer (AJCC) clinical stage I with T1 > 1.5 cm, stage II or III invasive breast cancer; participants with multicentric or bilateral disease are eligible if at least one lesion meets stage eligibility criteria for the study and no tumor is HER2-positive; in this circumstance, the investigator must determine which will represent the target lesion to be assessed for response; this should remain consistent throughout the study; the target lesion should be selected on the basis of its size (lesion with the longest diameter) and suitability for accurate repetitive measurements
+Residual measurable disease after resection of target lesion(s) for TIL growth
+Residual measurable disease after resection of target lesion(s) for TIL growth
+Target Population
+Target Disease Exceptions
+Measurable (target) disease.
+At least one target lesion that is measurable by RECIST 1.1 for solid tumors, or IWG 2014 for lymphoma
+At least one site of disease that is measurable by RECIST (version 1.1) criteria that has not been previously irradiated; if the patient has had previous radiation to the target lesion(s), there must be evidence of progression since the radiation
+Measurable disease (at least one target lesion) according to RECIST v1.1
+At least one extra-renal measurable target lesion meeting the criteria of RECIST version 1.1
+Have at least 1 measurable (i.e., target) lesion per RECIST v1.1.
+Radiotherapy that involves the lung or mediastinum within 3 months prior to chemotherapy. (Note: there is no washout period for palliative radiation to non-target organs other than the lung or mediastinum. If radiation was to an intended target lesion within 3 months of baseline imaging studies, and the lesion is progressing within this time frame it may be considered as a target lesion after review and discussion with the Sponsor.)
+At least 1 target lesion that is unirradiated and measurable by RECIST, Version 1.1
+The target lesion is one that either has never received external beam radiation or has been previously irradiated and has since demonstrated progression; any local irradiation of the target lesion or any non-target lesions via external beam, conformal or stereotactic radiation treatments must have occurred more than 4 weeks prior to study drug administration; any full craniospinal radiation, whether or not a target lesion is included in the field, must have occurred more than 3 months prior to study drug administration
+A minimum of one measurable lesion defined as: \r\n* Meeting the criteria for measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST)\r\n* Skin lesion(s) selected as non-completely biopsied target lesion(s) that can be accurately measured and recorded by color photography with a ruler to document the size of the target lesion(s)
+Target Population
+Target Disease Exceptions
+No interim time prior to study entry is required following prior radiation therapy (RT) for non-target lesions; however, patients must not have received radiation for a minimum of 4 weeks prior to study entry at the site of any lesion that will be identified as a target lesion to measure tumor response; lesions that have been previously radiated cannot be used as target lesions unless there is radiographic evidence of progression at the site following radiation or a biopsy done following radiation shows viable neuroblastoma; palliative radiation is allowed to sites that will not be used to measure response during this study
+At least one measurable target lesion according to mRECIST meeting the following criteria:
+Subjects whose only target lesion(s) is in bone will be excluded
+A minimum of one measurable lesion defined as: \r\n* Meeting the criteria for measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST)\r\n* Skin lesion(s) selected as non-completely biopsied target lesion(s) that can be accurately measured and recorded by color photography with a ruler to document the size of the target lesion(s)
+Radiotherapy to the target lesion within the past 3 months prior to baseline imaging
+Measurable disease with >= 1 target lesion
+Target lesion previously embolized, perfused, or irradiated without objective evidence of progression before start of therapy to be considered for response assessment
+Has measurable disease, defined as at least 1 tumor that fulfills the criteria for a target lesion according to RECIST 1.1.
+Target or non-target lesions according to Response Evaluation Criteria in Solid Tumours (RECIST) 1.1
+Measurable disease, defined as at least 1 tumor that fulfills the criteria for a target lesion according to RECIST 1.1, and obtained by imaging within 28 days prior to registration for protocol therapy.
+Patients must have at least one “target lesion” to be used to assess response on this protocol as defined by RECIST 1.1
+In patients with multicentric or bilateral invasive breast cancers, all sampled lesions must be hormone receptor-positive and HER2-negative and have an Oncotype Dx recurrence score =< 25; one lesion (typically the largest) should be designated as the target lesion for which response to the neoadjuvant therapy will be judged
+Unstable bone in the target lesion requiring surgical stabilization prior to radiation
+At least one \target lesion\ to be used to assess response, as defined by RECIST 1.1 criteria;
+Radiotherapy =< 3 weeks prior to registration, except if to a non-target lesion only
+Must have target or non-target lesions as per RECIST 1.1.
+Inflammatory process in target area
+At least one targetable lesion appropriate for palliative SBRT and one non-target lesion
+Radiation therapy to a study target lesion within 6 months
+Lesions previously treated with radiotherapy or locoregional therapy must show radiographic evidence of disease progression to be deemed a target lesion.
+Patients must have measurable disease per RECIST 1.1 criteria defined as at least one lesion that can be accurately measured in at least one dimension, and that has not been the target of local or regional therapy including transarterial chemoembolization, intra-arterial chemotherapy, ethanol or radiofrequency ablation
+Medical contraindication to biopsy of target lesion
+The tumour uptake observed in each target lesion (for target/non-target/measurable lesions definition see §Appendix 2, Sections 1 and 2, RECIST Criteria, Version 1.1) using OctreoScan® must be ? normal liver uptake observed on planar imaging (to be centrally confirmed) (§Appendices 5 and 6).
+* Patients with complete response to first-line chemotherapy with no measurable target for SBRT/RT
+the radiation field does not encompass a target lesion
+The target lumpectomy cavity must be clearly delineated
+Has ?1 lesion that meets the criteria for measurable, as defined by RECIST 1.1, and is appropriate for selection as a target lesion, as determined by local site investigator/radiology assessment
+Patients must have at least ONE of the following: 1) Bone disease, 2) Any amount of neuroblastoma tumor cells in the bone marrow, 3) At least one soft tissue lesion that meets criteria for a TARGET lesion.
+Measurable (target) disease.
+Measurable (target) disease.
+Patients must have at least one additional lesion (measurable by RECIST v1.1 or non-target) identified as a control untreated lesion to be left untreated and followed for response.
+At least one uni-dimensional HCC target lesion assessable by CT or MRI according to RECIST 1.1
+Has measurable disease, defined as at least 1 tumor that fulfills the criteria for a target lesion according to RECIST 1.1;
+Subjects enrolled in Part B must have at least 1 lesion that may qualify as a target lesion
+Have on CT imaging done within 28 days of Day 1 findings consistent with advanced ccRCC, including at least one extra-renal measurable target lesion meeting the criteria of RECIST version 1.1.
+Lesions that have had radiotherapy must show subsequent radiographic evidence of increased size to be deemed a target lesion.
+Diagnosis of an advanced solid tumor malignancy. There must be a target tumor which is measureable, palpable or clearly identifiable under ultrasound or radiographic guidance and amenable to percutaneous injection of C. novyi-NT spores. The targeted lesion must have a longest diameter ? 1 cm and ? 12 cm and be measurable as defined by RECIST 1.1 criteria. The target lesion must not be located in either the thoracic, abdominal or pelvic cavities or in the brain. There must be no clinical, no functional, and no radiographic evidence of bone involvement at the site of the target lesion.
+Previously collected autologous stem cell product met the minimum collection target and minimum infusion target
+Part 3: Patients must have target (?2 cm diameter) or non-target lesion cancer that is accessible for core biopsies before starting on study and after one cycle of treatment.
+Patients can have previous brain metastasis that was completely surgically resected if the previously resected lesion is at least 1 cm from target lesion(s) for this study; the location of the previous resection cavity is determined by the post-resection MRI
+Mirels Score < 8 (specific to target humeral lesion).
+Measurable metastatic disease with a target lesion that has increased in size by 20% in maximal dimension either during or within six months after treatment with chemotherapy using a gemcitabine containing regimen
+At least one soft tissue site that meets criteria for a TARGET lesion defined by:
+where Target Lesions should be at least 10 mm from any other lesion
+Radiation directed at target lesion within 28 days of registration
+Target Population
+Target Disease Exceptions
+Lesions that have had radiotherapy must show evidence of progressive disease based on RECIST 1.1 to be deemed a target lesion.
+At least one target lesion. In patients with prior loco-regional therapy, the target lesion(s) must be located in area(s) outside previous treatment
+Radiotherapy to the target lesions within 3 months prior lymphodepleting chemotherapy. A lesion with unequivocal progression may be considered a target lesion. There is no washout period for palliative radiation to non-target lesions.
+Request for formalin-fixed, paraffin-embedded (FFPE) archival tumor specimens if available and willingness of the participant to undergo mandatory fresh tumor biopsy unless determined medically unsafe or not feasible; a note from the study team should be provided documenting availability of tissue; if a target lesion is biopsied at screening, this lesion must be followed as non-target lesion after the biopsy unless it is the patient’s only target lesion; if there is only one target lesion, it should be followed as a target lesion regardless\r\n* The archival specimen should contain adequate viable tumor tissue\r\n* The specimen may consist of a tissue block (preferred and should contain the highest grade of tumor) or at least 30 unstained serial sections; fine-needle aspiration, brushings, cell pellet from pleural effusion, bone marrow aspirate/biopsy are not acceptable\r\n* Fresh tumor biopsy at progression will be required in cases where patients experience relapse after an initial response if medically safe
+Have fatigue and/or two other target symptoms
+Target lesion of any size
+Target lesion located 1.5 cm or more away from visceral pleura based on the needle path
+Presence of at least one target liver or other intra-abdominal lesion detected by standard staging scans that, in the judgment of study investigators, would be amenable to hyperpolarized C-13 pyruvate/metabolic MR imaging:\r\n* Target lesion must measure >= 1.0 cm in long axis diameter on computed tomography (CT) or magnetic resonance imaging (MRI)
+Presence of at least one target lesion amenable to percutaneous tumor biopsy in the judgment of interventional radiology
+No prior local therapy to target lesion
+Presence of at least one target lesion detected by standard staging scans that, in the judgment of study investigators, would be amenable to hyperpolarized C-13 pyruvate/metabolic MR imaging:\r\n* Soft tissue/visceral organ target lesions must measure at 1 cm in long axis diameter on computed tomography (CT) or MRI\r\n* Target lesions in the bone must be visualized by CT or MRI (lesions present only on bone scan do not qualify)\r\n* For patients with target lesion in prostate/prostatic bed:\r\n** No contra-indications to endorectal coil insertion (e.g., patients with a prior abdominoperineal resection of the rectum or latex allergy).\r\n** No prior local treatment to the selected lesion; patients who have received prior radiation or ablative therapy to the prostate will be required to have biopsy-proven evidence of disease recurrence following completion of local therapy
+Concomitant medications for treatment of the target lesion
+Prior radiation therapy to the target lesion
+Concomitant medications for treatment of the target lesion
+Have a discreet surgical target
+Part 2, Expansion: Participants must have measurable disease meeting the following criteria: i. Subjects with HCC: At least 1 measurable target lesion according to mRECIST
+Prior radiation therapy to the target lesion
+Set monthly accrual target >= 1/ and annual accrual target >= 12
+Radiographically or clinically measurable disease with greater than or equal to (>=) 1 target lesion per IWG criteria for malignant lymphoma.
+Target Population
+Target Disease Exceptions
+Disease must be evaluable as per RECIST 1.1 or RANO (for gliomas). At least one measurable target lesion is required in expansion cohort patients
+Documentation of target and non-target lesion(s) status per RECIST1.1 post induction chemotherapy for patients with evaluable disease\r\n* Note: Evaluable disease is not required for study entry (patients with complete response [CR] or response sufficient to preclude measurable lesions are not excluded; such patients will be evaluated for PFS and OS, but not for response)

@@ -1,0 +1,135 @@
+Patients for whom targeted radiopharmaceutical therapy would be contraindicated due to underlying medical disorders
+Subjects with certain mutations that have not been treated with a targeted therapy prior to enrollment
+No concurrent treatment with other cytotoxic drugs or targeted therapies
+Prior treatment with a BCMA-targeted agent
+The most recent cytotoxic, biologic or non-hormonal targeted therapy received must have been completed at least 21 days prior to study treatment
+Participants who have received prior systemic therapy (chemotherapy or targeted therapy) within 7 days of Study Day 1 or those who have not recovered from clinically significant adverse events due to agents administered more than 7 days earlier. (continuation of the same regimen of HER-2 antibody targeted therapy agents, hormonal therapy and treatment with bisphosphonates or denosumab are permitted)
+Any prior therapy targeted against PSMA
+Prior or ongoing treatment with any of the following:\r\n* EGFR targeted therapy (TKI or antibody) or any other targeted therapies targeting the ERBB family\r\n* Any cytotoxic chemotherapy, investigational agents, or anticancer drugs for the treatment of advanced NSCLC
+Prior or ongoing treatment with any of the following:\r\n* EGFR targeted therapy (TKI or antibody) or any other targeted therapies targeting the ERBB family\r\n* Any cytotoxic chemotherapy, investigational agents, or anticancer drugs for the treatment of metastatic NSCLC
+Patients may continue therapy with a targeted agent if CNS disease developed while receiving the agent, and for defined regimens that have been deemed safe when combined with anti-PD-1 therapy
+Previous treatment with any HER2-targeted therapy Erlotinib
+Patients with solid tumors: Have received anticancer therapies, including radiation therapy, cytotoxic agents, targeted agents or endocrine therapy within 2 weeks prior to dose assignment
+Having gotten prior PD1 therapy is allowed for, especially if they have previously progressed on it; progression may include extra-cranial as well as intra-cranial progression; after progressing on PD1 therapy, intervening chemotherapy and/or targeted therapy (BRAF inhibitors [BRAFi], etc) is allowed; if they are on intervening chemotherapy and/or targeted therapy (BRAFi, etc), they have to have progression intra-cranially and/or extra-cranially and must be off intervening therapy for at least 2 weeks
+Prior radiation therapy (RT) after the initial diagnosis will be allowed; patients with prior RT must be at least 6 months from the completion of RT (or radiosurgery); prior chemotherapy or molecularly targeted therapy will be allowed; patients with prior chemotherapy must be at least 6 months from the last dose of chemotherapy or molecularly targeted therapy
+Any number of prior chemotherapy or targeted agents including rapamycin analogues are allowed
+Unresolved toxicity from prior radiation, chemotherapy, or other targeted treatment, including investigational treatment
+Patients who have received targeted prior VEGFR or FGFR-targeted agents (i.e. sunitinib, pazopanib, sorafenib, bevacizumab, axitinib, etc.)
+treatment with molecular targeted agents within 2 weeks prior to treatment with APS001F.
+Concurrent chemotherapy or targeted anti-cancer agents, other than intrathecal therapy
+Subjects who have received prior PSA, MUC1, and/or brachyury-targeted immunotherapy (e.g. vaccine) are eligible for this trial if this treatment was discontinued at least 3 months prior to enrollment
+Patients cannot be on a targeted agent (e.g., sunitinib or everolimus) or receiving cytotoxic chemotherapy (e.g., capecitabine or temozolomide); they can’t be on telotristat ethyl; previous use is acceptable if the patient has been off for over one month
+Patients may not have received chemotherapy, targeted therapies, biologic response modifiers and/or hormonal therapy within the last 14 days
+Use of any chemotherapy, investigational agents, immunotherapy, or hormonal therapy other than GnRH agonists within 28 days of the start of treatment on protocol. Use of bone targeted agents including bisphosphonates and RANK ligand inhibitors is allowed if on stable dose; Xgeva or Zometa cannot be started within 28 days of initiating study therapy.
+Prior, concomitant or planned treatment with Novo-TTF, EGFR-targeted therapy, bevacizumab, Gliadel wafers or other intratumoral or intracavity anti-neoplastic therapy
+Prior therapy targeted to EGFRvIII
+Must not have received an antineoplastic targeted therapy within 14 days.
+The subject has received cytotoxic chemotherapy, molecular targeted therapy, or immunotherapy within 21 days before the first dose of study drug (trametinib)
+Patients with known ROS1 mutations who have not received prior targeted therapy
+Prior treatment with any therapy that is targeted to B cell maturation antigen (BCMA) or any other CD3-redirecting drug
+Patients are eligible if they undergo a targeted treatment recommended by the Molecular Tumor Board, excluding clinical trials
+Eligibility criteria for additional lines of MTB recommended targeted therapy:\r\n* Patient’s disease has progressed on the first line (or previous line) of MTB recommended targeted therapy or patient could not tolerate the targeted treatment\r\n* Patients must meet eligibility criteria as defined previously
+Tumor with mutation that is known to be sensitive to FDA approved targeted therapy but has not yet received such targeted therapy
+Tumor with mutation that is known to be sensitive to FDA approved targeted therapy but has not yet received such therapy
+Prior treatment with at least one standard chemotherapy regimen or targeted agent prior to enrollment
+No prior chemotherapy, targeted therapy, or immunotherapy for mesothelioma
+Has received any prior anticancer therapy for mesothelioma (no prior chemotherapy, immunotherapy, or targeted therapy)
+Patient must be willing to consent to MSKCC protocol 12-245 (“Tumor Genomic Profiling in Patients Evaluated for Targeted Cancer Therapy”)
+Patients who have had chemotherapy, immunotherapy or any targeted therapy within 7 days prior to anticipated SRS treatment date or those planning for systemic therapy within 7 days following the protocol treatment
+No prior receipt of systemic treatment (chemotherapy, targeted therapy, or immunotherapy) for the lesion under consideration of treatment
+Patient may be receiving bone targeted agents
+Stage 4 non-squamous cell lung cancer that has not been treated previously with systemic chemotherapy or bevacizumab, but may have received prior targeted treatment (e.g., alk1 inhibitor)
+Prior cytotoxic chemotherapy or molecularly-targeted agents (e.g. erlotinib, crizotinib), unless > 2 years prior
+Patient has received at least one prior standard chemotherapy or targeted therapy for treatment of lung cancer
+Previous treatment with surgery, radiation, chemotherapy, immunotherapy or any targeted agents are allowed provided that: \r\n* Chemotherapy was administered > 28 days before the start of HD IL-2\r\n* Surgery, radiation, immunotherapy or any targeted agents was administered > 14 days before the start of HD IL-2
+Chemotherapy, radiation, or biological or targeted therapy within 3 weeks
+Size of the targeted portion of the tumor (i.e. prescribed ROT) is less than 2.5 cm in diameter (8 cm3 in volume). The non-targeted tumor tissue may exceed the targeted volume.
+Has been treated with more than two lines of cytotoxic chemotherapy or molecular targeted therapy or interferon for Lung NET
+Prior treatment with a Mucin 16 (MUC16)-targeted therapy
+Patients with genomic tumor aberrations should have received prior treatment with an FDA-approved targeted therapy (if available)
+Patient with NRS (0-10 scale) pain score ? 4 at the targeted tumors (i.e: both tumors targeted for treatment must have NRS ? 4) irrespective of medication
+No radiation therapy to targeted (most painful) tumors in the past two weeks
+The targeted tumor(s) is (are) less than 2 points more painful compared to other non-targeted painful lesions on the site specific NRS.
+Targeted tumor is in the skull
+Patients receiving chemotherapy or radiation (i.e., to the targeted lesion (s)) within the last two weeks
+Targeted (most painful) tumors:
+Size of the targeted portion of the tumor (i.e. prescribed Region Of Treatment) is less than 2.5 cm in diameter or 8 cm3 in volume. The non-targeted tumor tissue may exceed the targeted volume.
+Previous treatment with CD19-targeted therapy, with the exception of prior lisocabtagene maraleucel treatment in this protocol for subjects receiving retreatment
+History of asymptomatic LVEF decline to < 40% during or after prior HER2-targeted therapy
+Anticancer treatment (chemotherapy, IMiD, PI, molecular targeted therapy) < 2 weeks prior to study Day 1
+Prior systemic chemotherapy, molecularly targeted therapy, or radiation therapy for the current OPSCC diagnosis
+No prior therapy with enzalutamide (previous chemotherapy and/or other AR-targeted approaches is allowed)
+Prior chemotherapy, targeted biological therapy (e.g. sorafenib), surgery, transarterial chemoembolization (TACE), ablation for present disease is acceptable
+Subjects with BRAFV600 wild-type tumors must not have received any prior systemic anticancer treatment consisting of chemotherapy, immunotherapy, or targeted therapy given in a non-adjuvant setting for unresectable stage IIIB to IVM1c melanoma.
+Prior treatment with a FLT3 targeted therapy including sorafenib or investigational FLT3 inhibitors (not including the multi-kinase inhibitor, midostaurin).
+At least 2 weeks from end of targeted therapy
+Patients who have received prior administration of an Aurora A kinase targeted agent (including alisertib) are not eligible
+Receipt of prior immunomodulatory agents, including programmed death-1 or PD-L1 targeted therapy or cytotoxic T-lymphocyte-associated antigen 4 targeted therapy including ipilimumab (this exclusion criterion does not apply to participants enrolled in Expansion Cohort A)
+Prior therapy with any molecular targeted drugs (for lung cancer)
+Chemotherapy, biologic therapy (antibodies and biologically targeted small molecules)
+Prior administration of an aurora A kinase-targeted agent, including alisertib
+Prior chemotherapy, immunotherapy, or targeted therapy is allowed as long as it did not include dasatinib
+Patients presenting with an AHNMD requiring immediate cytoreductive therapy or targeted drugs (e.g. AML)
+Commercially available, molecularly targeted therapies (e.g., dabrafenib, trametinib, vemurafenib, imatinib) taken within 7 days prior to lymphodepletion
+Phase1: Treatment naïve: Must not have received any prior systemic anticancer treatment consisting of chemotherapy, immunotherapy, or targeted therapy for unresected stage IIIB to IV melanoma.
+AR targeted agents (including GTx-024, enzalutamide or other AR targeted therapies)
+Have a tumor genomic profile for which single agent treatment with one of the FDA approved targeted anti-cancer drugs included in this study has potential clinical benefit based on the criteria described in protocol
+Subjects who have received prior CEA, MUC1, and/or brachyury-targeted immunotherapy (vaccine) are eligible for this trial if this treatment was discontinued at least 4 weeks prior to enrollment
+Any prior chemotherapy, targeted/biologic therapy, or radiation for treatment of the participant’s gastric or GE junction cancer
+Concurrent treatment with commercial agents or other agents with the intent to treat the participant’s malignancy, including endocrine therapy, chemotherapy, and/or targeted therapy, with the exception of bisphosphonates and GnRH agonists
+Received any chemotherapeutic or targeted agent (approved or investigational) for NSCLC within 2 weeks of initiation of pacritinib (with the exception of erlotinib)
+Any treatment, including radiotherapy, chemotherapy, and/or targeted therapy, administered for the currently diagnosed breast cancer prior to study entry.
+Treatment with systemic biologic therapy for prostate cancer (other than approved bone targeted agents and GnRH-analogue therapy) or other agents with anti-tumor activity within 4 weeks of enrollment (day 1 visit)
+Previous therapy with anthracyclines, taxanes, or HER2-targeted therapy for any malignancy
+Prior treatment with Aurora A-targeted agents, including MLN8237
+Prior treatment with irinotecan or aurora A-targeted agents, including MLN8237
+Patients who have received any prior experimental active immunotherapy consisting of targeted monoclonal antibodies (ipilimumab) or pharmaceutical compounds are excluded.
+Treatment with a single course of gefitinib(Iressa®) or erlotinib (Tarceva®), or other small molecule or targeted therapies, or monoclonal antibody therapy (excluding docetaxel) will be considered and count as prior chemotherapy.
+Concurrent chemotherapy, or targeted anti-cancer agents, other than hydroxyurea
+Any prior chemotherapy, targeted/biologic therapy, or radiation for treatment of the patient's pancreatic tumor
+Biologic or other approved molecular targeted small molecule inhibitors should be washed out 1 week before apheresis and must be completed at least 1 week prior to pre-infusion lymphodepletive chemotherapy.
+Concurrent treatment with commercial agents or other agents with the intent to treat the participant’s malignancy, including endocrine therapy, chemotherapy, and/or targeted therapy, with the exception of bisphosphonates and GnRH agonists
+Plan for chemotherapy or targeted therapies during WBRT or over the subsequent 7 days
+Concurrent or planned radiation, hormonal, chemotherapeutic, experimental or targeted biologic therapy
+Any number of prior cancer treatments, including investigational agents, chemotherapy, hormone therapy, or targeted therapy are allowed
+Concurrent investigational treatment, chemotherapy, or targeted therapy; prior chemotherapy, hormonal therapy, targeted therapy, and investigational agents are allowed but all toxicities grade >= 2 must have resolved by the time of study commencement (except alopecia)
+Has received prior chemotherapy, targeted therapy, and radiation therapy within the past 12 months.
+Use of targeted agents (e.g., monoclonal antibodies or kinase inhibitors) will not be counted as a prior chemotherapy treatment
+Prior administration of an aurora A kinase-targeted agent, including alisertib
+Chemotherapy and other investigational therapies (targeted or immunotherapy) will require a 3-week washout period before treatment initiation
+Participants who received prior treatment with erlotinib or other EGFR-targeted agents
+Prior treatment with any investigational or targeted therapies
+Patients on chemotherapy &/or targeted agents for palliation
+Targeted tumor(s) are accessible to the ExAblate device
+Prior use of chemotherapy (targeted therapy such as erlotinib and crizotinib will be allowed; if a patient was receiving erlotinib and/ or crizotinib as targeted therapy before entering the study they should discontinue that medication 2 weeks before day 1 of the study)
+Prior treatment with MUC16 targeted therapy (e.g., oregovomab [OvaRex] or abagovomab) including DMUC5754A
+Previous chemotherapy, immunotherapy, chemo-embolization, targeted therapy or investigational agent for malignancy within 4 weeks prior to day 1
+Has received prior treatment with ONT-10 or varlilumab, or prior treatment with other MUC1 vaccines or CD27-targeted agents
+Prior treatment with any drugs or therapies that will be administered during the course of this trial including CRLX101, any topoisomerase 1 inhibitor, bevacizumab or the conventional molecularly targeted agent intended for use as standard of care treatment.
+Patients must be on a stable dose of specific targeted therapy (erlotinib or crizotinib) for >= 28 days prior to initiation of ipilimumab/nivolumab
+Patients may be on specific targeted therapy (erlotinib or crizotinib) as long as they have not had disease progression
+NET subjects must have progressed on or been ineligible for treatment with somatostatin analogues (SSA) and at least one other FDA-approved targeted therapy (everolimus or sunitinib).
+Prior administration of an aurora A kinase-targeted agent, including alisertib
+Received the last administration of an anticancer targeted small molecule therapy (e.g. sunitinib, sorafenib, pazopanib, axitinib, everolimus, temsirolimus, ridaforolimus) =< 14 days prior to study registration or have not recovered from the side effects of such therapy
+Targeted (treated) tumor is in the skull
+Targeted (most painful) tumor Not accessible to ExAblate
+The targeted tumor is less than 2 points more painful compared to other painful lesions on the site specific NRS.
+Patients with metastatic cancers who are considering or pursuing additional palliative therapy after progressing on at least two prior lines of chemotherapy, immunotherapy, biological or targeted therapies
+Prior anticancer chemotherapy or targeted therapy for advanced nccRCC
+Hormonal (e.g., tamoxifen or arimidex, etc.) and targeted (tarceva and avastin, etc.) therapies allowed as long as they will be continued during the course of the study.
+Received a therapeutic intervention with at least one of the following modalities: surgery, cytotoxic chemotherapy, biological or targeted agents, radiation therapy (any modality)
+Patient may be receiving bone targeted agents
+Patients who will receive cetuximab or other targeted therapy where physicians may use topical doxycycline to reduce the rash associated with therapy
+Will stay in the targeted area in the next 2 years
+Patients who are planned to receive either chemotherapy, targeted therapy, immunotherapy, or no additional cancer-directed drug therapy
+Patients who have received targeted agents or systemic potentially radiosensitizing chemotherapy within 2 weeks of lung SBRT start
+Patients participating treatment trials including targeted therapy, experimental therapy or immunotherapy are also eligible
+Patients whose targeted lung lesion is visualized with fluoroscopy
+Previous treatment with CDX-3379 or other anti-ErbB3 targeted agents.
+Subject must not have received any prior treatment, including chemotherapy, biological therapy, or targeted therapy for metastatic pancreatic adenocarcinoma, with the following exceptions and notes:
+No chemotherapy treatments within at least 3 weeks prior to first dose of study treatment. For all prior anticancer treatment, including radiotherapy or targeted agents or hormonal therapy, a duration of more than 5 half-lives of the targeted/hormonal agents used must have elapsed, and any encountered toxicity must have resolved to levels meeting all the other eligibility criteria.
+Group A, group B and group C only: Patients not previously treated with any systemic anti-cancer therapy (e.g. cytotoxic drugs, targeted therapy, monoclonal antibody therapy including immunotherapy (e.g. PD-1/PD-L1 inhibitors) or targeted therapies, either experimental or not), with exception of neo-adjuvant or adjuvant therapy as depicted in inclusion criterion 4.
+Subjects must be scheduled to begin treatment through the Vanderbilt-Ingram Cancer Center (VICC) Melanoma Program; this will include patients receiving standard-of-care chemotherapy, targeted therapy, and/or immunotherapy, as well as patients accrued to VICC clinical trials for the study of investigational agents
+Prior exposure to targeted SYK inhibitors.
+Prior CD19 targeted therapy
+More than 2 prior treatment regimens for the platinum-resistant/refractory relapsed EOC, FTC, or PTC, defined as investigational, chemotherapy, hormonal, biologic, or targeted therapy.

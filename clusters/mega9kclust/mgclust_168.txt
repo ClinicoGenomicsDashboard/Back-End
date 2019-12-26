@@ -1,0 +1,4 @@
+Cluster 399: platelet count ml days administration treatment study prior measured transfusions 
+Cluster 730: hematologic visit factors growth screening values laboratory days obtained transfusions 
+Cluster 908: factors growth hematopoietic days transfusions prior treatment erythropoietin therapy platelet 
+Cluster 1188: platelet help transfusions meet eligibility allowed criteria days count enrollment 

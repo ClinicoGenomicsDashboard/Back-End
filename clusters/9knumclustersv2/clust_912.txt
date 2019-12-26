@@ -1,0 +1,22 @@
+No ongoing cardiac dysrhythmias of grade >=  National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version ., uncontrolled atrial fibrillation (any grade), or corrected QT (QTc) interval >  msec
+Ongoing cardiac dysrhythmias of NCI CTCAE v. Grade  or prolongation of the QTcF interval to > msec.
+History of ventricular dysrhythmias or risk factors for ventricular dysrhythmias
+Any ongoing cardiac dysrhythmias of National Cancer Institute (NCI) CTCAE grade > , NCI CTCAE grade  atrial fibrillation, or corrected QC interval per Fridericia's formula (QTcF) interval >  msec, except for documented right bundle branch block, at screening
+Clinically significant cardiovascular disease, active or within  months prior to enrollment. Ongoing cardiac dysrhythmias, uncontrolled atrial fibrillation, bradycardia or congenital long QT syndrome
+Any history of CTCAE grade ? cardiac dysrhythmias within the last  months. Patients with non-QTc CTCAE grade  cardiac dysrhythmias may be considered for inclusion, with the approval of the medical monitor, if the dysrhythmias are stable, asymptomatic, and unlikely to affect patient safety.
+Ongoing cardiac dysrhythmias of National Cancer Institute (NCI) CTCAE grade >=  or prolongation of the corrected QT interval (QTc) interval to >  msec
+History of ventricular dysrhythmias or risk factors for ventricular dysrhythmias
+Ongoing cardiac dysrhythmias of NCI CTCAE version . grade >= . Controlled atrial fibrillation is permitted.
+Cardiac exclusions specific to glasdegib and OX containing arms: Any one of the following ongoing or in the previous  months: congenital long QT syndrome, torsades de pointes, sustained ventricular tachyarrhythmia, right or left bundle branch block and bifascicular block, unstable angina, coronary/peripheral artery bypass graft, cerebrovascular accident (CVA), transient ischemic attack or symptomatic pulmonary emboli, as well as bradycardia defined as <  beats per minute (bpm)s. Active cardiac dysrhythmias of NCI CTCAE grade >=  (eg, atrial fibrillation) or corrected QT (QTc) interval >  msec.
+Cardiac dysrhythmias of NCI CTCAE grade >=  within the last  days
+History of or ongoing cardiac dysrhythmias requiring treatment, atrial fibrillation of any grade, or persistent prolongation of the QTc (Fridericia) interval to >  msec for males or >  msec for females.
+Ongoing symptomatic cardiac dysrhythmias, uncontrolled atrial fibrillation, or prolongation of the corrected QT interval defined as >  msec for males and >  msec for female
+Patient must not have ongoing ventricular cardiac dysrhythmias of grade >=  as described by the Cancer Therapy Evaluation Program (CTEP) version . of the National Cancer Institute (NCI) CTCAE
+Ongoing cardiac dysrhythmias of NCI CTCAE version . grade >= ; controlled atrial fibrillation is permitted
+No ongoing cardiac dysrhythmias, atrial fibrillation, or prolongation of corrected QT (QTc) interval to >  msec
+Ongoing symptomatic cardiac dysrhythmias or uncontrolled atrial fibrillation
+Cardiac dysrhythmias;
+Ongoing cardiac dysrhythmias
+Sustained or symptomatic ventricular dysrhythmias uncontrolled with drug therapy or implantable device
+uncontrolled dysrhythmias causing hemodynamic compromise,
+Ongoing cardiac dysrhythmias of NCI CTCAE Grade ? , uncontrolled atrial fibrillation of any grade, or an average of triplicate QTc interval > msec.

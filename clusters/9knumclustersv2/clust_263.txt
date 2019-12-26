@@ -1,0 +1,31 @@
+Neutrophil count >= . x ^/L
+Neutrophil count >= . x ^/l
+Neutrophil count of > /mm^
+Subjects not below specific total neutrophil count.
+Neutrophil count of > /mm^
+Neutrophil >/mm
+Neutrophil count >=  prior to biopsy
+Neutrophil count of > /mm^
+Neutrophil count >= . x ^/l
+Neutrophil count >= . x ^/L
+Neutrophil count < . x ^/L
+Must have neutrophil count >/mm (.x/L)
+Neutrophil count >= . x ^/L
+Neutrophil count ? ,/mm
+Neutrophil count: ? . x /L
+Neutrophil count >= . x ^/l
+Neutrophil < . x ^/L
+Neutrophil count ? , /mm
+Neutrophil count >=  prior to biopsy
+Neutrophil count > ,/mm
+Neutrophil count > /mm^
+Neutrophil count of >  cell/mm^
+Neutrophil count ? ,/mm
+Neutrophil count of >= . x ^/L
+Neutrophil count less than  within  months prior to study enrollment
+Neutrophil count >= ,/mm^ (>= . k/uL)
+Total neutrophil count > ,/mm^
+- Neutrophil count of > /mm
+Neutrophil count > ,/mm^
+- Neutrophil count of > /mm
+Neutrophil count <. x /L

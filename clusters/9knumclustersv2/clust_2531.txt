@@ -1,0 +1,12 @@
+The patient has received chemotherapy, radiotherapy (except for palliative reasons), immunotherapy, or targeted therapy for gastric cancer within  weeks of study treatment
+Participants receiving any systemic chemotherapy, radiotherapy (except for palliative reasons), within  weeks from the last dose prior to study treatment (or a longer period depending on the defined characteristics of the agents used); the patient can receive a stable dose of bisphosphonates for bone metastases, before and during the study as long as these were started at least  weeks prior to treatment with olaparib and temozolomide
+Patients receiving any systemic chemotherapy or radiotherapy (except for palliative reasons) within  weeks prior to study treatment
+Patients receiving any systemic chemotherapy or radiotherapy (except for palliative reasons) within  weeks prior to study treatment initiation
+Patients receiving any systemic chemotherapy, radiotherapy (except for palliative reasons), within  weeks from the last dose prior to study treatment; the patient can receive a stable dose of bisphosphonates for bone metastases, before and during the study as long as these were started at least  weeks prior to treatment with study drug
+Patients receiving any systemic chemotherapy or radiotherapy (except for palliative reasons) within  weeks prior to study treatment
+Patients receiving any systemic chemotherapy or radiotherapy (except for palliative reasons) within  weeks prior to study treatment.
+Radiotherapy (except for palliative reasons) the previous two weeks before.
+Patients receiving any systemic chemotherapy or radiotherapy (except for palliative reasons) within  weeks prior to study treatment
+Patients receiving any systemic chemotherapy within  weeks prior to first dose of study treatment
+Radiotherapy (except for palliative reasons), targeted therapy, or immunotherapy (except for uveal melanoma) the previous four weeks before study treatment.
+Subjects receiving any systemic chemotherapy or radiotherapy (except for palliative reasons) within  weeks prior to study treatment;

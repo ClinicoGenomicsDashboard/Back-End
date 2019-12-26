@@ -1,0 +1,4 @@
+Cluster 490: blast cml crisis myeloid leukemia chronic phase myelogenous accelerated tyrosine 
+Cluster 576: cml phase chronic accelerated leukemia myeloid cp blast ph blasts 
+Cluster 2057: crisis myelogenous leukemia blast chronic intolerant failed phase bcr abl 
+Cluster 2385: myelogenous leukemia chronic cml acute aml phase accelerated patients crisis 

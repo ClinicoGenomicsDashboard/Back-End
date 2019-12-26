@@ -1,0 +1,70 @@
+ALT ? . x ULN f. Estimated glomerular filtration rate of at least  mL/min by the Cockcroft Gault formula
+Glomerular filtration rate (GFR) >=  mL/min estimated by Cockcroft-Gault or measured directly by  hour urine creatinine within  days prior to Step  registration
+Serum creatinine (Scr) =< .mg/dl; if the Scr > ., patients may still be eligible if the calculated glomerular filtration rate (GFR) (Cockroft-Gault) is >= ml/minute
+End-stage renal disease (estimated glomerular filtration rate [GFR] <  ml/min/body surface area [BSA]), unless the estimated creatinine clearance by Cockcroft Gault is >=  ml/min prior to randomization
+Serum creatinine ? . X ULN OR calculated glomerular filtration rate (GFR) by Cockcroft-Gault formula ?  mL/min
+Creatinine clearance ?  mL/min on the basis of the Cockcroft-Gault glomerular filtration rate calculation
+Glomerular filtration rate (GFR) greater than or equal to  ml/min using the Cockcroft-Gault formula or serum creatinine less than or equal to . x upper limit of normal (ULN)
+Serum creatinine within normal range, or if serum creatinine outside normal range, then glomerular filtration rate (GFR) >  mL/min/.m as calculated with the Cockcroft-Gault equation with adjustment if total body weight is ? % of ideal body weight.
+Renal: For patients > . years of age at the time of enrollment: estimated creatinine clearance >  mL/minute (using the Cockcroft-Gault formula and actual body weight). For patients < . years of age at enrollment: Glomerular Filtration Rate (GFR) estimated by the updated Schwartz formula ?  mL/min/. m. If the estimated GFR is <  mL/min/. m^, then renal function must be measured by -hour creatinine clearance or nuclear GFR, and must be >  mL/min/. m^.
+Estimated glomerular filtration rate (GFR by Cockroft-Gault equation OR  hour urine collection >=  ml/min
+Serum creatinine: < . mg/dL or calculated glomerular filtration rate (GFR) >=  cc/min; creatinine clearance (CrCl) by Cockcroft Gault will be used to estimate GFR
+Creatinine < . x ULN or estimated Glomerular Filtration Rate GFR [Cockcroft-Gault] >  mL/min
+Glomerular filtration rate (GFR), calculated via I- iothalamate clearance, -hour creatinine clearance, or Schwartz formula, >=  mL/min or >=  mL/min/. m^ done within  weeks prior to study entry
+Pediatric population (patients <  years): creatinine within normal limits or calculated creatinine clearance >=  ml/min/. m^ as calculated by the Schwartz formula for estimated glomerular filtration rate (GFR)
+Serum creatinine < . ULN OR an estimated glomerular filtration rate ?  mL/minute using the Cockroft-Gault formula.
+Creatinine clearance or glomerular filtration rate >=  ml/min/. m^ (calculated or measured as appropriate for age and level of concern by treating medical doctor [MD])
+Glomerular filtration rate (GFR) greater than or equal to  ml/min using the Cockcroft-Gault formula or serum creatinine less than or equal to . x ULN
+Glomerular filtration rate (GFR) greater than or equal to  ml/min using the Cockcroft-Gault formula or serum creatinine less than or equal to . x upper limit of normal (ULN)
+Creatinine < . x ULN or estimated glomerular filtration rate (GFR) >=  ml/min by Cockcroft-Gault
+Estimated GFR >mL/min/.m
+A serum creatinine based on age/gender, derived from the Schwartz formula for estimating glomerular filtration rate (GFR), per protocol-specified criteria.
+Ineligible for cisplatin as defined by presence of one or more of the following:\r\n* Impaired renal function (glomerular filtration rate [GFR] >=  but =<  cc/min); GFR should be assessed by direct measurement (i.e. creatinine clearance or ethylenediaminetetra-acetate) or, if not available, by calculation from serum/plasma creatinine by Cockroft-Gault equation\r\n* Grade >=  hearing loss (measured by loss of >  dB at two contiguous frequencies in at least one ear)\r\n* Grade >=  peripheral neuropathy\r\n* ECOG performance status of \r\n* Solitary kidney
+Estimated creatinine clearance >=  mL/min ( hour measured glomerular filtration rate [GFR] or modified Cockcroft Gault)
+Glomerular filtration rate (GFR) <  mL/min, as assessed using the standard methodology at the investigating center (i.e. Cockroft-Gault), or serum creatinine > . x ULN
+For patients >= . year of age but < . years of age at the time of enrollment: glomerular filtration rate (GFR) estimated by the updated Schwartz formula >=  mL/min/. m^; if the estimated GFR is <  mL/min/. m^, then renal function must be measured by -hour creatinine clearance or nuclear GFR, and must be >  mL/min/. m^
+Estimated GFR <  ml/min
+Kidney: estimated glomerular filtration rate (Cockcroft-Gault) ?  mL/min.
+Within  months of registration: Glomerular filtration rate (GFR) >=  mL/min; Cockcroft-Gault formula will be used to calculate creatinine clearance
+A serum creatinine based on age/gender, derived from the Schwartz formula for estimating glomerular filtration rate (GFR)
+Within  days of first dose of study drug: Serum creatinine =< . x ULN or estimated glomerular filtration rate (GFR) >=  mL/min using the Cockcroft Gault formula
+Estimated creatinine clearance of >=  ml/min according to the Cockcroft-Gault formula, unless calculated to be <  ml/min or borderline in which case glomerular filtration rate (GFR) should be formally measured, e.g. with edetic acid (EDTA) scan
+Glomerular filtration rate ?  ml/min based on Cockcroft-Gault equation
+Patients must not be suitable for concurrent cisplatin as determined by the following:\r\n* Creatinine clearance less than ml/min; glomerular filtration rate (GFR) should be assessed by calculation from serum/plasma creatinine (Cockcroft-Gault formula)\r\n* Common Terminology Criteria for Adverse Events (CTCAE) grade (Gr) >=  hearing loss\r\n* CTCAE Gr >=  neuropathy
+Serum creatinine =< . x ULN or estimated glomerular filtration rate (GFR) >=  mL/min using Cockcroft Gault formula
+Creatinine within institutional normal limits or Glomerular filtration rate (GFR) >  mL/min/m^ (calculated by the Cockcroft-Gault equation), calculated as follows:\r\n* For males = ((  age[years]) x (body weight [kg]))/(() x (serum creatinine [mg/dL]))\r\n* For females = . x male value
+Creatinine within institutional normal limits or glomerular filtration rate (GFR) >  mL/min/m^ (calculated by the Cockcroft-Gault equation)
+Adequate renal function: Estimated glomerular filtration rate ?  mL/minute using the Cockroft-Gault formula or: a serum creatinine based on age/gender as outlined in the protocol
+Estimated glomerular filtration rate (GFR) ? mL/min as assessed by CKD-epi, MDRD or the Cockcroft-Gault Equation
+Glomerular filtration rate (GFR) greater than or equal to  ml/min using the Cockcroft-Gault formula or serum creatinine less than or equal to . x upper limit of normal (ULN)
+Creatinine clearance estimated glomerular filtration rate (GFR) >=  mL/min/. m^ (Cockcroft-Gault)
+Creatinine <  mg/dl; glomerular filtration rate (GFR) >  mL/min (Cockroft and Gault formula)
+Serum creatinine =< . x ULN or -hour clearance >=  mL/min or calculated glomerular filtration rate (GFR) of cc/ml using the formula of Cockcroft and Gault
+Serum creatinine =< . mg/dL or estimated glomerular filtration rate (GFR) (by Cockcroft-Gault) >=  mL/min or  or  hour urine creatinine clearance >=  mL/min, unless renal insufficiency is due to tumoral ureteral obstruction in which case eligibility will be determined by the national principal investigator (or national co-PI or MSKCC co-PI if the national PI is unavailable) with notification of the MSKCC Institutional Review Board (IRB)
+Serum creatinine ?.upper limit of normal (ULN), or glomerular filtration rate > mL/min, as calculated with the Cockcroft-Gault formula.
+Creatinine clearance estimated (est.) glomerular filtration rate (GFR) >=  mL/min/. m^ (Cockcroft-Gault)
+Glomerular filtration rate (GFR) >  mL/min (by standard Cockcroft and Gault formula or measured via  hour urine collection)
+Renal: serum creatinine (SCr) within normal range for age (see table .). If SCr is outside normal range for age, creatinine clearance (CrCl) >  mL/min/.m must be obtained (measured by -hour (hr) urine specimen or nuclear glomerular filtration rate (GFR), or calculated GFR (by Cockcroft-Gault formula for those aged ?  years; by Original Schwartz estimate for those <  years))
+Adequate renal function with estimated glomerular filtration rate (GFR) by Cockcroft Gault of greater than  ML per minute
+The standard Cockcroft and Gault formula or the measured glomerular filtration rate must be used to calculate creatinine clearance (CrCl) for enrollment or dosing
+Calculated creatinine clearance >=  mL/min (Cockcroft-Gault formula) or serum creatinine (Cr) less than institution ULN (the elderly will often have <  glomerular filtration rate [GFR])
+Glomerular filtration rate (GFR) >  mL/minute as calculated by the Cockcroft-Gault formula
+Creatinine < . x ULN or creatinine clearance (estimated [est.] glomerular filtration rate [GFR] [Cockcroft-Gault]) >=  mL/min
+Serum creatinine =< . x ULN or glomerular filtration rate (GFR) of  cc/ml using the formula of Cockcroft and Gault
+Serum creatinine ? . x upper limit of normal (ULN) or an estimated glomerular filtration rate (eGFR) of >  mL/min as calculated by the Cockcroft Gault Method
+Serum creatinine <. x upper limit of normal (ULN) or estimated glomerular filtration rate of >  mL/min as calculated by the Cockcroft Gault Method
+Estimated GFR >  mL/min/. m^
+Creatinine clearance (Cockcroft-Gault) greater than or equal to  mL/min or estimated (est) glomerular filtration rate (GFR) greater than or equal to  mL/min/. m^
+Calculated creatinine clearance (CRCL) ? mL/min. Glomerular Filtration Rate (GFR) is calculated based on Cockcroft-Gault method.
+Calculated creatinine clearance >  ml/min/.m^ as calculated by the Schwartz formula for estimated glomerular filtration rate
+Serum creatinine ? . x ULN; or if serum creatinine > . ULN, then calculated (Cockcroft-Gault formula, glomerular filtration rate (GFR) ?  mL/min;
+Pediatric Population (age <): Calculated creatinine clearance ?  ml/min/.m as calculated by the Schwartz formula for estimated glomerular filtration rate (GFR)
+Estimated (calculated) or measured glomerular filtration rate >=  mL/min (or  mL/min/. m^); creatinine (mg/dl) used in calculation (Cockroft-Gault) must be obtained within  days prior to registration
+CROSSOVER (STEP ) REGISTRATION: Estimated (calculated) or measured glomerular filtration rate >=  mL/min (or  mL/min/. m^) within  days prior to registration; creatinine (mg/dl) used in calculation (Cockroft-Gault) must be obtained within  days prior to registration
+Glomerular filtration rate >=  mL/min (calculated according to the formula of Cockcroft and Gault)
+Does the subject have an estimated glomerular filtration rate of at least  mL/min (inclusive) by the Cockcroft-Gault formula?
+Glomerular filtration rate (GFR) >  mL/min/.m^ according to the Cockcroft-Gault estimation.
+Glomerular filtration rate (GFR) >=  ml/minute using Cockroft-Gault formula
+Subjects with severe renal failure or end stage renal disease (estimated GFR [glomerular filtration rate] of <  mL/min) as estimated by the Cockcroft-Gault formula
+Estimated creatinine clearance (for patients >  years) greater than . mL/minute (using the Cockcroft-Gault formula and actual body weight); for pediatric patients (>  year to  years), Glomerular Filtration Rate (GFR) estimated by the updated Schwartz formula ? . mL/min/. m^. If the estimated creatinine clearance is <  mL/min/. m^, then renal function must be measured by -hour creatinine clearance or nuclear GFR, and must be > . mL/min/. m^.
+Estimated glomerular filtration rate (GFR) (using Cockcroft formula) less than  ml/min/. m^

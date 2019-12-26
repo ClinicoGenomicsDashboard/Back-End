@@ -1,0 +1,14 @@
+Cluster 425: cycle major surgery day days weeks prior recent diagnosis minor 
+Cluster 653: major surgery enrollment days weeks prior study month patients undergone 
+Cluster 662: major surgery drug dose study weeks days prior administration trauma 
+Cluster 814: use prior medications days chronic study intermittent day allowed patients 
+Cluster 926: undergone surgery major prior patients weeks debulking hours subjects days 
+Cluster 1171: surgery major registration prior days weeks study eligible diagnostic patients 
+Cluster 1259: procedure surgical major prior weeks days study day treatment surgery 
+Cluster 1336: surgery day major weeks prior study days diagnostic recovered treatment 
+Cluster 1393: major surgery days prior dose treatment study immunotherapy patients entering 
+Cluster 1429: transurethral turp prostate resection prior prostatic surgery cryotherapy including procedure 
+Cluster 1430: surgery major weeks dose prior study subject radiation lenvatinib treatment 
+Cluster 2102: scheduled surgery undergo receive patients chemotherapy cancer study patient procedure 
+Cluster 2226: start major surgery weeks study treatment prior recovery days complete 
+Cluster 2364: isolated palliative intent local lesions surgery acceptable major procedure surgical 

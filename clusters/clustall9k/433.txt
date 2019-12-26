@@ -1,0 +1,1436 @@
+HIV positive; documentation of HIV-1 infection by means of any one of the following:\r\n* Documentation of HIV diagnosis in the medical record by a licensed health care provider;\r\n* Documentation of receipt of antiretroviral therapy (ART) by a licensed health care provider;\r\n* HIV-1 RNA detection by a licensed HIV-1 RNA assay demonstrating > 1000 RNA copies/mL;\r\n* Any licensed HIV screening antibody and/or HIV antibody/antigen combination assay confirmed by a second licensed HIV assay such as a HIV-1 western blot confirmation or HIV rapid multispot antibody differentiation assay\r\n* NOTE: A “licensed” assay refers to a United States (US) Food and Drug Administration (FDA)-approved assay, which is required for all investigational new drug (IND) studies
+Individuals who are known to be human immunodeficiency virus (HIV) infected are eligible (note: HIV testing is not required for entry into the study)
+Patients with a known history of human immunodeficiency virus (HIV) must have CD4 count >= institutional lower limit of normal within 28 days prior to registration
+Human immunodeficiency virus (HIV) infected patients are eligible provided they meet all other eligibility criteria, and:\r\n* There is no prior history of acquired immunodeficiency syndrome (AIDS) defining conditions other than historically low CD4+ T-cell count or B-cell lymphoma\r\n* In the opinion of an expert in HIV disease, prospects for long-term survival are excellent were it not for the diagnosis of lymphoma\r\n* Use of HIV protease inhibitors as part of the anti-HIV regimen OR as a pharmacologic booster is not allowed\r\n* Zidovudine is not allowed\r\n* Once daily combination pills for HIV containing a pharmacologic booster such as cobicistat are not allowed\r\n* Patients with multi-drug resistant HIV are not eligible
+Patients who have a history of and are known to be serologically positive for human immunodeficiency virus (HIV) and are receiving antiviral therapy; baseline testing is not required
+Negative screening test results for human immunodeficiency virus (HIV), hepatitis B and C; if positive results are not indicative of true active or chronic infection, the subjects can enter the study after discussion with the principal investigator
+Known human immunodeficiency virus (HIV) infection, solid organ transplantation, or other immunosuppressed state (for treatment phase)
+Immunosuppressed status due to known human immunodeficiency virus (HIV) infection, severe uncontrolled diabetes, concurrent hematological malignancy, or other comorbidities
+Has a diagnosis of immunodeficiency including subjects infected with human immunodeficiency virus (HIV)
+SAFETY RUN-IN: Patients known to be carriers of human immunodeficiency virus (HIV1/2)
+RANDOMIZED PHASE II CLINICAL TRIAL: Patients known to be carriers of human immunodeficiency virus (HIV1/2)
+Recipients of organs from human immunodeficiency virus (HIV) or HBsAg positive donors.
+Known history of human immunodeficiency virus (HIV); testing is not required in the absence of history
+Human immunodeficiency virus (HIV) positive at time of procurement cells for CTL generation
+Participants with a known history of human immunodeficiency virus (HIV) are ineligible because of the potential for pharmacokinetic interactions with MCS110, dabrafenib, and trametinib with antiretroviral agents. In addition, these participants are at increased risk of lethal infections when treated with marrow-suppressive therapy
+Active infection or ongoing antiviral medication for viral infections including hepatitis B, hepatitis C, or human immunodeficiency virus (HIV); screening for chronic conditions is not required; HIV-positive participants on combination antiretroviral therapy are ineligible because of the potential for pharmacokinetic interactions with selumetinib or osimertinib
+Subjects with a known history of human immunodeficiency virus (HIV), including patients with controlled disease on antiretroviral therapy; HIV testing is not required as part of screening for this study
+Obtained within 14 days prior to C1D1: Rapid human immunodeficiency virus (HIV) 1/2 antibodies negative
+Current evidence of any of the following:\r\n* Uncontrolled hypertension despite addition or adjustment of antihypertensive regimen\r\n* Gastrointestinal disorder affecting absorption\r\n* Active infection (e.g., human immunodeficiency virus [HIV] or viral hepatitis) or other medical condition that would make prednisone/prednisolone (corticosteroid) use contraindicated
+Patients infected with hepatitis B, C or human immunodeficiency virus (HIV), unless they are on stable and effective antiviral treatment
+Patients with human immunodeficiency virus (HIV) who are unable or unwilling to stop antiretroviral therapy for the duration of therapy may not be enrolled
+The patient is known to be positive for the human immunodeficiency virus (HIV). The effect of BPM31510 on HIV medications is unknown. Note: HIV testing is not required for eligibility, but if performed previously and was positive, the patient is ineligible for the study.
+Human immunodeficiency virus (HIV) positive or other acquired immunodeficiency that, as determined by the PI, interferes with the assessment of PID severity and/or the attribution of clinical manifestations of immunodeficiency to a PID
+Know HIV virus infection
+Hepatitis B and C negative (unless the result is consistent with prior vaccination or prior infection with full recovery); human immunodeficiency virus (HIV) negative
+If patient is known to be human immunodeficiency virus (HIV) positive, they will not be eligible for the protocol; HIV testing is not mandatory prior to protocol enrollment
+Patients with known human immunodeficiency virus (HIV) infection or hepatitis B or C infection; HIV testing is not mandated and is to be performed at the discretion of the treating investigator
+Known positive for human immunodeficiency virus (HIV) or infectious hepatitis, type B or C; HIV patients are at increased risk of lethal infections when treated with marrow-suppressive therapy
+Multidrug resistant HIV not amenable to long-term suppression based on either or both:\r\n* Clinical history of poor adherence to multiple antiretroviral drugs deemed sufficient to render effective HIV control unattainable\r\n* HIV mutational analysis (genotyping and/or phenotyping) that reveals high-level resistance such that a combination regimen comprised of agents from at least two drug classes cannot be devised to suppress HIV long-term\r\n* Refusal to adhere to HAART
+Patients who are known to be serologically positive for human immunodeficiency virus (HIV). This includes HIV patients on antiretroviral therapy due to the potential for pharmacokinetic interactions with olaparib
+Patients with known positivity for human immunodeficiency virus (HIV); baseline testing for HIV is not required. High-dose ascorbate acid is a known CYP450 3A4 inducer, which results in lower serum levels of antiretroviral drugs
+Patients known to be human immunodeficiency (HIV)-positive must not have multi-drug resistant HIV infection, CD4 counts < 150/ul or other concurrent acquired immunodeficiency syndrome (AIDS)-defining conditions; serologic screening for HIV is required within the 6 months prior to study enrollment
+Severely compromised immunological state, including being positive for the human immunodeficiency virus (HIV)
+Participant has known HIV infection (due to potential drug-drug interactions between antiretroviral medications and venetoclax) HIV testing will be performed at Screening, only if required per local guidelines or institutional standards.
+HIV-positive; documentation of HIV-1 infection by means of any one of the following: \r\n* Documentation of HIV diagnosis in the medical record by a licensed health care provider\r\n* Documentation of receipt of antiretroviral therapy (ART) (at least two different medications) by a licensed health care provider (documentation may be a record of an ART prescription in the participant’s medical record, a written prescription in the name of the participant for ART, or pill bottles for ART with a label showing the participant’s name)\r\n* HIV-1 ribonucleic acid (RNA) detection by a licensed HIV-1 RNA assay demonstrating > 1000 RNA copies/mL\r\n* Any licensed HIV screening antibody and/or HIV antibody/antigen combination assay confirmed by a second licensed HIV assay such as a HIV-1 Western blot confirmation or HIV rapid multispot antibody differentiation assay\r\nNOTE: A “licensed” assay refers to a United States (U.S.) Federal Drug Administration (FDA)-approved assay, which is required for all investigational new drug (IND) studies
+Has active human immunodeficiency virus (HIV) infection (as manifested by presence of HIV 1/2 antibodies and/or positive HIV enzyme-linked immunosorbent assay [ELISA]/western blot assays)
+Human immunodeficiency virus (HIV) infection as detected through any laboratory method (e.g., enzyme-linked immunosorbent assay, Western Blot, RNA PCR). [Note: Testing to confirm the absence of HIV infection is required at screening unless testing was performed by the local laboratory within 6 months prior to screening.]
+Participants that are cancer survivors or those with human immunodeficiency virus (HIV) will not be excluded from the study
+Documented negative serologic testing for human immunodeficiency virus (HIV)
+Patients with positive human immunodeficiency virus (HIV) status and currently requiring treatment with agents known to sensitize to irradiation, such as protease inhibitors, will be excluded
+Participants with known human immunodeficiency virus (HIV); due to lack of available safety data for eribulin therapy in HIV infected patients.
+Human immunodeficiency virus (HIV)-positive patients are excluded because these patients are at increased risk of lethal infections when treated with marrow-suppressive therapy
+Patients infected with hepatitis B, C or human immunodeficiency virus (HIV), unless they are on stable and effective antiviral treatment
+Patients with human immunodeficiency virus (HIV1/2); an HIV test must be performed to confirm status prior to enrollment
+Known human immunodeficiency virus (HIV)-positive unless on highly active antiretroviral therapy (HAART), and/or known Hepatitis B or C on treatment. Drug interactions between those agents and these experimental agents are wholly unknown (screening not required).
+Human immunodeficiency virus (HIV)-positive patients may be considered for this study only after consultation with a National Institute of Allergy and Infectious Diseases (NIAID) physician
+Participant has known Human Immunodeficiency Virus (HIV) infection (due to potential drug-drug interactions between antiretroviral medications and venetoclax). HIV testing will be performed at Screening, if required per local guidelines or institutional standards.
+History of immunosuppression or autoimmunity, including human immunodeficiency virus (HIV), and organ or stem cell transplant, or an autoimmune condition previously treated with immunosuppressive therapy
+Subjects with active uncontrolled infection or who are human immunodeficiency virus (HIV) positive (subjects with acute infections requiring treatment should delay screening/enrollment until the course of therapy has been completed and the event is considered controlled)
+Known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS) even if fully immunocompetent on antiretroviral therapy (ART)—due to the unknown effects of HIV on the immune response to combined nivolumab plus ipilimumab or the unique toxicity spectrum of these drugs in patients with HIV
+HIV positive; documentation of HIV-1 infection by means of any one of the following:\r\n* Documentation of HIV diagnosis in the medical record by a licensed health care provider;\r\n* Documentation of receipt of ART (at least three different medications) by a licensed health care provider (documentation may be a record of an antiretroviral therapy (ART) prescription in the participant’s medical record, a written prescription in the name of the participant for ART, or pill bottles for ART with a label showing the participant’s name);\r\n* HIV-1 ribonucleic acid (RNA) detection by a licensed HIV-1 RNA assay demonstrating > 1000 RNA copies/mL;\r\n* Any licensed HIV screening antibody and/or HIV antibody/antigen combination assay confirmed by a second licensed HIV assay such as a HIV-1 western blot confirmation or HIV rapid multispot antibody differentiation assay\r\n* NOTE: a “licensed” assay refers to a United States (U.S.) Food and Drug Administration (FDA)-approved assay, which is required for all investigational food drug (IND) studies
+Known history of immunodeficiency (human immunodeficiency virus [HIV] 1/2 antibodies); this medical entity can be exacerbated by PD-1 blockade
+Active hepatitis, known human immunodeficiency virus (HIV), or other condition that requires immunosuppressive therapy, including current use of high dose systemic corticosteroids
+Human immunodeficiency virus (HIV) infection confirmed by nucleic acid testing (NAT)
+Human immunodeficiency virus (HIV)-positive patients, patients with acquired or congenital immunodeficiency conditions, those on chronic systemic immunosuppressants (requiring > 10 mg of prednisone or equivalent/day), those with active autoimmune disease are excluded from the study
+Not be in an immunosuppressed state (e.g. human immunodeficiency virus [HIV], use of chronic steroids)
+Active autoimmune disorders, including patients known to be human immunodeficiency virus (HIV) positive, or those requiring chronic steroid administration (excluding inhaled steroids)
+Human immunodeficiency virus (HIV) positive; HIV results will be determined by nucleic acid testing
+Willing to have documentation of HIV status
+A recognized immunodeficiency disease including human immunodeficiency virus (HIV) infection (and other cellular immunodeficiencies, hypogammaglobulinemia or dysgammaglobulinemia; subjects who have hereditary, congenital or acquired immunodeficiencies).
+Patients with other diseases that in the opinion of the treating physician pose a higher risk for treatment with ibrutinib therapy including active human immunodeficiency virus (HIV) infection and bleeding disorders
+For dose-escalation cohort only, known positivity for human immunodeficiency virus (HIV); baseline testing for HIV is not required; HIV positive patients will be eligible for the dose-expansion cohort
+History or evidence of sarcoma associated with immunodeficiency states (e.g.: hereditary immune deficiency, human immunodeficiency virus (HIV), organ transplant or leukemia)
+Human Immunodeficiency Virus (HIV)-infection is not an exclusion criterion if it is controlled with anti-retroviral drugs that are unaffected by concomitant enzalutamide.
+Known history of human immunodeficiency virus (HIV) or autoimmune diseases requiring immunosuppressant drugs
+Not be in an immunosuppressed state (e.g. human immunodeficiency virus positive [HIV +], use of chronic steroids [> 1 month])
+Known human immunodeficiency virus (HIV)-positive individuals; high-dose ascorbate acid is a known CYP450 3A4 inducer, which results in lower serum levels of antiretroviral drugs; a clinical trial designed to address these interaction issues is more appropriate than this phase 2 study
+Immunosuppression (human immunodeficiency virus [HIV] positive, heme/oxygenase [h/o] transplantation, lupus on immunosuppressive medication, etc.)
+Research participants who have confirmed human immunodeficiency virus (HIV) within 4 weeks of screening
+Previous therapy with a human immunodeficiency virus (HIV) protease inhibitor
+Research participants who have tested human immunodeficiency virus (HIV) positive, or have active hepatitis B or C infection based on testing performed within 4 weeks of enrollment
+Comorbid conditions that, in the opinion of the investigator, would complicate safety or compliance such as known human immunodeficiency virus (HIV) or current substance abuse
+The patient has a history of human immunodeficiency virus (HIV) or other known cause of immunosuppression, or is actively taking immunosuppressive medications due to organ transplantation, rheumatoid disease, or other medical conditions
+Human immunodeficiency virus (HIV)-infected patients should be receiving or willing to initiate an effective combination antiretroviral therapy (cART) regimen
+Patients must be human immunodeficiency virus (HIV) negative, and have negative serologies for hepatitis C
+Patients must have an expected survival without treatment of > 60 days and must be free of major infection including human immunodeficiency virus (HIV)
+Severely immune-compromised (other than being on steroids) including known human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) infection. Testing for HIV status is not necessary unless clinically indicated
+Persistently uncontrolled diabetes mellitus, oxygen-dependent lung disease, chronic liver disease, or human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) seropositivity as these patients are at increased risk of lethal infections when treated with marrow-suppressive therapy and the potential pharmacokinetic interaction between antiretroviral therapy and the investigational agent
+No uncontrolled bacterial, viral, or fungal infection (infection is permitted if there is evidence of response to medication)\r\n* Note: human immunodeficiency virus (HIV)-infected patients are potentially eligible; eligibility of HIV-infected patients will be determined on a case-by-case basis
+Patients known to be human immunodeficiency virus (HIV)-positive (the concern for opportunistic infection and hematologic reserve are considered to be significantly greater in this population)
+Participants with known human immunodeficiency virus (HIV); due to lack of available safety data for eribulin therapy in HIV-infected participants
+History of immunodeficiency including seropositivity for human immunodeficiency virus (HIV), or other acquired or congenital immune-deficient disease, or any active systemic viral infection requiring therapy (e.g., hepatitis B or C)
+Human immunodeficiency virus (HIV)-positive patients are ineligible due to the risks associated with immune checkpoint blockade
+Autoimmune disease requiring therapy, prior organ transplant, or human immunodeficiency virus (HIV) infection
+Human immunodeficiency virus (HIV): negative HIV antibody / polymerase chain reaction (PCR)
+Participants must have a negative human immunodeficiency virus (HIV) antibody/antigen test and negative Chlamydia (C.) trachomatis/Neisseria (N.) gonorrhea nucleic acid amplification test (NAAT)
+Patient with human immunodeficiency virus (HIV) who require anti-viral or supportive care that interacts with the study drugs are not eligible
+Known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome. Anti-retroviral agents are known to have potential adverse pharmacokinetic interactions with nivolumab and/or BMS-813160. IN addition, patients not on anti-retroviral agents, regardless of HIV viral load, are at increased risk of lethal infections with marrow-suppressive therapy including chemotherapy. Testing for HIV must be performed at sites mandated by local requirements.
+Known human immunodeficiency virus (HIV)-1 infection status, as documented by any nationally approved, licensed HIV rapid test performed in conjunction with screening (or enzyme-linked immunosorbent assay [ELISA], test kit, and confirmed by approved test at each study site; United States (U.S.) participants only: alternatively, this documentation may include a record demonstrating that another physician has documented the participant's HIV status based on either:\r\n* Approved diagnostic tests, or\r\n* The referring physician's written record that HIV infection was documented, with supporting information on the participant's relevant medical history and/or current management of HIV infection\r\n** Participants enrolled outside the U.S. must have a confirmatory diagnostic test sequence as appropriate per national standards, detailed as above, performed regardless of prior documented HIV status; for HIV-negative participants, testing must be performed no more than 1 month prior to study enrollment; NOTE: the term “licensed” refers to a U.S. Food and Drug Administration (FDA)-approved kit or for sites located in countries other than the United States, a kit that has been certified or licensed by an oversight body within that country and validated internally; WHO (World Health Organization) and CDC (Centers for Disease Control and Prevention) guidelines mandate that confirmation of the initial test result must use a test that is different from the one used for the initial assessment; a reactive initial rapid test should be confirmed by either another type of rapid assay or an enzyme/chemiluminescence immunoassay (E/CIA) that is based on a different antigen preparation and/or different test principle (e.g., indirect versus competitive), or a Western blot or a plasma HIV-1 ribonucleic acid (RNA) viral load
+Known to be serologically positive for human immunodeficiency virus (HIV). Testing to determine possible infection status is not required.
+No human immunodeficiency virus (HIV) infection; patients with immune dysfunction are at a significantly higher risk of toxicities from intensive immunosuppressive therapies
+Patients with known human immunodeficiency virus (HIV), hepatitis B or C infections; testing to prove negative status is not required for enrollment unless it is deemed necessary for usual medical care of the patient
+Patients with known human immunodeficiency virus (HIV) infection are eligible if being treated with non-interacting antiretroviral (ARV) agents or be willing to stop ARV for the protocol
+Patients with human immunodeficiency virus (HIV) or hepatitis, or known active cytomegalovirus (CMV), Epstein–Barr virus (EBV) or any other viral illness requiring treatment are ineligible
+History of immunodeficiency or autoimmune disease: patients with a history of immunodeficiency, including organ grafts and human immunodeficiency virus (HIV), will not be eligible
+Patients with absolute lymphocyte count of < 500, who are known to be human immunodeficiency virus (HIV) positive, who have clinically significant active autoimmune disease, or are receiving immunosuppression following solid organ or stem cell transplant
+Patients with a known confirmed diagnosis of human immunodeficiency virus (HIV) infection who are taking chronic anti-retroviral therapy (HAART) are ineligible if there is a potential for drug-drug interactions with the chemotherapeutic agents; patients with a known confirmed diagnosis of HIV infection who meet standard eligibility criteria and are not taking HAART with a potential for drug-drug interactions are eligible
+Human immunodeficiency virus (HIV)-positive patients will be excluded unless antiretroviral therapy can be safely withheld during chemotherapy administration, based on clinical determination of infectious disease team evaluation
+No human immunodeficiency virus (HIV) disease; patients with immune dysfunction are at a significantly higher risk of infection from intensive immunosuppressive therapies
+Patients with known human immunodeficiency virus (HIV) infection are ineligible due to risk of pharmacokinetic interactions between anti-retroviral therapy and the study drugs, as well as potential for significant immunosuppression and serious infections with mTOR inhibition
+Patient must have documentation of negative human immunodeficiency virus (HIV)-1 testing within 6 weeks prior to study registration (separate counseling and consent as per institutional guidelines)
+Concomitant disease(s) that could prolong QT such as autonomic neuropathy (caused by diabetes, or Parkinson's disease), human immunodeficiency virus (HIV), cirrhosis, uncontrolled hypothyroidism or cardiac failure
+Documentation of HIV infection at any time prior to study entry; documentation may be molecular (detectable viral ribonucleic acid [RNA] by polymerase chain reaction [PCR]), serologic (positive enzyme-linked immunosorbent assay [ELISA] and positive Western blot), or other federally approved licensed HIV test; prior documentation of HIV seropositivity is acceptable
+Known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS) even if fully immunocompetent on ART—due to the unknown effects of HIV on the immune response to combined nivolumab plus ipilimumab or the unique toxicity spectrum of these drugs in patients with HIV
+Patient must not be known to have human immunodeficiency virus (HIV) infection, active chronic hepatitis B or C, life-threatening illness unrelated to cancer, or any serious medical or psychiatric illness that could, in the investigator’s opinion, potentially interfere with participation in this study; patients will be tested for hepatitis B or C or HIV infection during screening if they are considered by the investigator to be at higher risk for these infections and have not been previously tested
+Known HIV (HIV testing will be performed at screening if required by local regulations) in participants to be pretreated with obinutuzumab
+Relevant diseases or clinical situations which may increase patient's risk: History of cardiac disease. Moderate breathing difficulties or oxygen requirement Active uncontrolled infection. Unhealed wound or presence of any external drainage. Chronically active viral hepatitis. Immunocompromised patients, including those known to be infected by human immunodeficiency virus (HIV). Known muscular disease or functional alteration
+Has a congenital or acquired immunodeficiency, including subjects with known history of infection with human immunodeficiency virus (HIV) NOTE: HIV-positive subjects who are taking antiretroviral therapy are ineligible due to potential PK interactions with tazemetostat.
+Patients with human immunodeficiency virus (HIV) infection are eligible, provided they meet the following:\r\n* No evidence of co-infection with hepatitis B or C\r\n* CD4+ cell count >= 400/mm^3\r\n* No evidence of resistant strains of HIV
+Patients who are human immunodeficiency virus (HIV)+ (HIV+ patients registered at Fred Hutchinson Cancer Research Center [FHCRC] should be offered treatment on Protocol 1410)
+Human papilloma virus-associated cancers\r\n* Histologically proven squamous carcinoma of the anal canal, penile, vaginal, vulva, or refractory cervical cancer with progression or intolerance to at least one treatment regimen including cisplatin or carboplatin will be enrolled; human papilloma virus (HPV) confirmation is not required\r\n* Patients must have metastatic disease not amenable to surgical resection\r\n* If human immunodeficiency virus (HIV)+ positive, all patients infected with human immunodeficiency virus (HIV) and CD4+ T cell count > 400 cells/mm^3 may be eligible for study\r\n* Patients co-infected with hepatitis B virus and/or hepatitis C virus may be included in this study provided that their liver function tests remain within the limits listed above; patients must be followed by a hepatologist during the course of this study
+Known immunodeficiency or active HIV
+Patients with human immunodeficiency virus (HIV) are eligible if their CD4 count is >= 350 cells/mm^3 and if they are not taking prohibited cytochrome (CYP)-interacting medications
+Clinically significant autoimmune disorders or conditions of immunosuppression; patients with acquired immunodeficiency syndrome (AIDS) or human immunodeficiency virus (HIV)-1 associated complex or known to be HIV antibody seropositive or known to be recently polymerase chain reaction (PCR)+ for hepatitis B or C are not eligible for this study; the severely depressed or altered immune system found in these patients and the possibility of premature death would compromise study objectives
+Clinically significant autoimmune disorders or conditions of immunosuppression; patients with AIDS or HIV-1 associated complex or known to HIV antibody seropositive or known to be recently PCR+ for hepatitis B or C virus are not eligible for this study; virology testing will be done within 6 months of T cell infusion; the severely depressed or altered immune system found in these patients and the possibility of premature death would compromise study objectives
+Documented history of human immunodeficiency virus (HIV) positivity or other acquired immunodeficiency disorder, congenital immunodeficiency disorder, or history of organ transplantation
+No uncontrolled infection\r\n* Note: infection is permitted if there is evidence of response to medication; eligibility of human immunodeficiency virus (HIV) infected patients will be determined on a case-by-case basis
+Primary malignancy of the central nervous system or malignancies related to human immunodeficiency virus (HIV) or solid organ transplant.
+Has a known diagnosis of immunodeficiency (human immunodeficiency virus [HIV] 1/2 antibodies) or any other form of immunosuppressive therapy within 7 days prior to the first dose of trial treatment excluding steroids; attempts should be made to have patient on lowest possible dose of steroids
+Known status of human immunodeficiency virus (HIV) which is not well-controlled at the time of study eligibility
+Patient has known human immunodeficiency virus (HIV) or hepatitis B or C infection, as such patients may be at increased risk for toxicity due to concomitant treatment, and disease-related symptoms may preclude accurate assessment of the safety of PBI 05204.
+All patients must be willing to undergo testing for human immunodeficiency virus (HIV) testing if not tested within the past 6 months
+Have a known history of human immunodeficiency virus (HIV). Testing is not required in the absence of history.
+Patients with a known confirmed diagnosis of human immunodeficiency virus (HIV) infection who are taking chronic anti-retroviral therapy (HAART) are ineligible if there is a potential for drug-drug interactions with the chemotherapeutic agents; patients with a known confirmed diagnosis of HIV infection who meet standard eligibility criteria and are not taking HAART with a potential for drug-drug interactions are eligible
+Known history of infection with human immunodeficiency virus (HIV), based on medical history (screening laboratories [labs] to rule out HIV infection are not required)
+Known human immunodeficiency virus (HIV) infected patients (HIV testing will not be performed as a part of screening) on combination antiretroviral therapy are eligible for inclusion; the use of zidovudine is not allowed
+Known immunodeficiency or active HIV.
+Serious concurrent medical illnesses (including uncontrolled major cardiac, pulmonary, Child-Pugh C liver or psychiatric diseases) or active major infections (including human immunodeficiency virus [HIV], hepatitis A-C)
+Serologically positive human immunodeficiency virus (HIV) (testing required during screening)
+Patients known to be human immunodeficiency virus (HIV) positive; HIV testing is not required in the absence of clinical signs and symptoms suggesting HIV infection
+Known history of human immunodeficiency virus (HIV) or autoimmune diseases requiring immunosuppressant drugs
+Participants known to be human immunodeficiency virus (HIV) positive; testing is not required in the absence of clinical signs and symptoms suggesting HIV infection
+Human immunodeficiency virus (HIV)-positive patients or cancer survivors are eligible for this study if they fulfill all other eligibility criteria
+Known human immunodeficiency virus (HIV)-positive individuals; high-dose ascorbate acid is a known cytochrome P450 3A4 (CYP450 3A4) inducer, which results in lower serum levels of antiretroviral drugs; a clinical trial designed to address these interaction issues is more appropriate than this phase 1 study
+Hepatitis (Hep) B & C and human immunodeficiency virus (HIV)-infected patients, due to concerns in the ability to stimulate an effective immune response (determined by historical medical data)
+No human immunodeficiency virus (HIV) infection; patients with a history of intravenous drug abuse or any behavior associated with an increased risk of HIV infection should be tested for exposure to the HIV virus; patients who test positive or who are known to be infected are not eligible; an HIV test is not required for entry on this protocol, but is required if the patient is perceived to be at risk
+Known human immunodeficiency virus (HIV) positive patients; patients do not need to undergo specific screening for HIV to participate in this protocol, but those patients with known or documented infection of HIV are excluded
+Patients with known human immunodeficiency virus (HIV) must have a CD4 count > 350 and be on concurrent antiretrovirals; patients with a history of intravenous drug abuse or any behavior associated with an increased risk of HIV infection should be tested for exposure to the HIV virus; an HIV test is not required for entry on this protocol, but is required if the patient is perceived to be at risk
+Known history of HIV or underlying immunodeficiency
+Human immunodeficiency virus (HIV) infection; there is theoretical concern that the degree of immune suppression associated with the treatment may result in progression of HIV infection
+Severely compromised immunological state, including known human immunodeficiency virus (HIV)
+Patients with human immunodeficiency virus (HIV)-associated primary central nervous system lymphoma are excluded
+Human Immunodeficiency Virus (HIV) negative* * Status of HIV must be confirmed via a HIV antibody test or other confirmatory tests available within 12 months before screening or at screening
+Serious concurrent illness or clinically-relevant active infection, including, but not limited to the following:\r\n* Known active hepatitis B or C (NOTE: testing is not required)\r\n* Known human immunodeficiency virus (HIV) infection (NOTE: testing is not required)\r\n* Varicella-zoster virus (shingles)\r\n* Cytomegalovirus infection\r\n* Any other known concurrent infectious disease, requiring IV antibiotics within 2 weeks of first dose of mirvetuximab soravtansine
+Be self-reported to be immune-compromised (human immunodeficiency virus [HIV], chronic immunomodulators, chronic corticosteroids)
+Subject has a known infection with hepatitis B or C, or history of human immunodeficiency virus (HIV) infection, or subject receiving immunosuppressive or myelosuppressive medications that would in the opinion of the investigator, increase the risk of serious neutropenic complications.
+Patients with a history of immunodeficiency, including organ grafts and human immunodeficiency virus (HIV), will not be eligible
+Severely compromised immunological state, including known human immunodeficiency virus (HIV)
+Patients with any evidence of severe or uncontrolled systemic disease(s) including known cases of hepatitis B or C or human immunodeficiency virus (HIV); screening for chronic conditions is not required, although patients known to have such conditions at screening should not be included
+Patients with known human immunodeficiency virus (HIV) or Hepatitis B or C (active, previously treated or both), a history of solid organ or bone marrow transplantation would generally be considered to have met exclusion criteria, however exceptions may be considered on a case-by-case basis by the medical monitor.
+Known infection with human immunodeficiency virus (HIV) or subject has tested positive for HIV; patients without prior HIV testing will not be required to be tested
+The patient is known to be positive for Human Immunodeficiency Virus (HIV) or has another confirmed or suspected immunosuppressive or immunodeficient condition (patients with thyroiditis are eligible)
+Because of compromised cellular immunity and limited capacity to respond to vaccination, patients who are human immunodeficiency virus (HIV)+ will be excluded
+Concomitant diseases/conditions: a) History of a clinically relevant cardiac condition c) Known chronic liver disease. d) Active uncontrolled infection. e) Known human immunodeficiency virus (HIV) infection. f) Limitation of the patient's ability to comply with the treatment or follow-up protocol.
+No uncontrolled infection\r\n* Note: Infection is permitted if there is evidence of response to medication; eligibility of human immunodeficiency virus (HIV) infected patients will be determined on a case-by-case basis
+Serologic evidence of HIV
+History of human immunodeficiency virus (HIV) (protease inhibitors can have interaction with the SARM)
+Patient has significant comorbidities (e.g., human immunodeficiency virus [HIV], transplant), or another illness that may require hospitalization
+No uncontrolled infection\r\n* Note: infection is permitted if there is evidence of response to medication; eligibility of human immunodeficiency virus (HIV) infected patients will be determined on a case?by?case basis
+Patients report a history of peripheral vascular disease, diabetes, vitamin B12 deficiency, thyroid dysfunction, human immunodeficiency virus (HIV) neuropathy, cervical or lumbar pain with radiculopathy, or another painful condition that is difficult for them to distinguish from their CIN
+Subjects with active uncontrolled infection or who are human immunodeficiency virus (HIV) positive (subjects with acute infections requiring treatment should delay screening/enrollment until the course of therapy has been completed and the event is considered controlled)
+Known history of human immunodeficiency virus (HIV). Subjects should be tested for HIV prior to Randomization if required by local regulations or EC;
+HIV positive; documentation of HIV-1 infection by means of any one of the following:\r\n* Documentation of HIV diagnosis in the medical record by a licensed health care provider;\r\n* Documentation of receipt of antiretroviral therapy (ART) by a licensed health care provider (documentation may be a record of an ART prescription in the participant’s medical record, a written prescription in the name of the participant for ART, or pill bottles for ART with a label showing the participant’s name; receipt of at least two agents is required; each component agent of a multi-class combination ART regimen will be counted toward the 2-agent requirement, excepting receipt of a pre-exposure prophylaxis [PrEP] regimen alone [e.g., Truvada], which is exclusionary);\r\n* HIV-1 ribonucleic acid (RNA) detection by a licensed HIV-1 RNA assay demonstrating > 1000 RNA copies/mL\r\n* Any licensed HIV screening antibody and/or HIV antibody/antigen combination assay confirmed by a second licensed HIV assay such as a HIV-1 western blot confirmation or HIV rapid multispot antibody differentiation assay\r\n** NOTE: A “licensed” assay refers to a United States (U.S.) Food and Drug Administration (FDA)-approved assay, which is required for all investigational new drug (IND) studies
+Patients who receive maraviroc for the treatment of human immunodeficiency virus (HIV) infection
+Human immunodeficiency virus (HIV) infection; patients should provide consent for HIV testing according to the institution's standard practice
+History of diabetic neuropathy or neuropathy related to human immunodeficiency virus (HIV)
+History of diabetic neuropathy or neuropathy related to human immunodeficiency virus (HIV)
+Males who self-identify as having had or currently having sex with men; both human immunodeficiency virus (HIV)-infected and HIV-uninfected subjects are being enrolled
+Men with human immunodeficiency virus (HIV) and/or prior anal disease will be included given their increased risk for current disease
+HIV positive; documentation of HIV-1 infection by means of any one of the following:\r\n* Documentation of HIV diagnosis in the medical record by a licensed health care provider;\r\n* Documentation of receipt of antiretroviral therapy (ART) by a licensed health care provider (documentation may be a record of an ART prescription in the participant’s medical record, a written prescription in the name of the participant for ART, or pill bottles for ART with a label showing the participant’s name; receipt of at least two agents is required; each component agent of a multi-class combination ART regimen will be counted toward the 2-agent requirement, excepting receipt of a pre-exposure prophylaxis [PrEP] regimen alone [e.g., Truvada], which is exclusionary);\r\n* HIV-1 ribonucleic acid (RNA) detection by a licensed HIV-1 RNA assay demonstrating > 1000 RNA copies/mL;\r\n* Any licensed HIV screening antibody and/or HIV antibody/antigen combination assay confirmed by a second licensed HIV assay such as a HIV-1 western blot confirmation or HIV rapid multispot antibody differentiation assay\r\n* NOTE: A “licensed” assay refers to a United States (US) Food and Drug Administration (FDA)-approved assay, which is required for all investigational new drug (IND) studies
+Participants with a known diagnosis of human immunodeficiency virus (HIV); Note: an HIV screening test does not have to be performed to evaluate this criterion
+Known diagnosis of human immunodeficiency virus (HIV); Note: An HIV screening test does not have to be performed to evaluate this criterion
+No human immunodeficiency virus (HIV) disease (patients with immune dysfunction are at a significantly higher risk of infection from intensive immunosuppressive therapies)
+Documented human immunodeficiency virus (HIV) infection, genital warts, chancroid, or pelvic inflammatory disease that will require long term treatment
+Acquired immunosuppressive diseases such as active human immunodeficiency virus (HIV) infection or congenital diseases of immunity
+HIV-1 infection as documented by any federally approved, licensed HIV test performed in conjunction with screening (enzyme linked immunosorbent assay [ELISA], Western blot or other approved test); alternatively, this documentation may include a record that another physician has documented that the patient has HIV based on prior ELISA and western blot, or other approved diagnostic tests; if the participant’s HIV status is documented by an outside physician, the protocol team strongly recommends obtaining a copy of the HIV laboratory reports from this physician; all confirmatory tests and the physician’s note must be on file before the participant is enrolled; in the rare circumstance where only an outside physician’s note with no supporting laboratory documentation is available, the local site should have additional tests performed to verify the participant’s HIV status; one of the following additional tests should be performed:\r\n* A rapid HIV test\r\n* ELISA and Western blot\r\n* Chemiluminescence immunoassay and Western blot\r\n* HIV ribonucleic acid (RNA) > 2000 copies/mL\r\n* HIV antigen test
+Known human immunodeficiency virus (HIV) positive patients due to the previous toxicity noted with [18F] FLT in this patient group
+Patients who are known to be human immunodeficiency virus (HIV)-positive will be excluded as highly active antiretroviral therapy (HAART) and HIV itself are known to cause peripheral neuropathy
+Patients with newly diagnosed, relapsed, or refractory EBV-associated or KSHV-associated malignancies including human immunodeficiency virus (HIV)-associated lymphomas are potentially eligible
+The patient is known to be positive for the human immunodeficiency virus (HIV). The effect of BPM31510 on HIV medications is unknown. Note: HIV testing is not required for eligibility, but if performed previously and was positive, the patient is ineligible for the study.
+The subject is human immunodeficiency virus (HIV) positive
+Patients that are known to be positive for human immunodeficiency virus (HIV) are not eligible; note: inclusion of HIV positive patients will be considered at a later date
+The patient must NOT have a known positive test for human immunodeficiency virus (HIV); patients do not need to be screened for HIV; patients with HIV are excluded
+Human immunodeficiency virus (HIV) positive patients
+Human Immunodeficiency Virus (HIV) positive
+Positive human immunodeficiency virus (HIV) status.
+Patients who are human immunodeficiency virus (HIV) positive on highly active anti-retroviral therapy (HAART) will be excluded from the study
+Patients known to be human immunodeficiency (HIV)-positive receiving anti-retroviral therapy are excluded from the study
+Patients who are serologically positive for human immunodeficiency virus (HIV)
+Positive for human immunodeficiency virus (HIV)
+Human immunodeficiency virus (HIV)-positive
+Human immunodeficiency virus (HIV)-positive patients are NOT excluded from the study
+Human immunodeficiency virus (HIV)-positive patients receiving anti-retroviral therapy are excluded from this study; HIV positive patients not receiving antiretroviral therapy are excluded
+Patients who are human immunodeficiency virus positive (HIV+)
+Subjects who have tested positive for human immunodeficiency virus (HIV)
+Patients who are positive for human immunodeficiency virus (HIV)
+DONOR: Human immunodeficiency virus (HIV) positive
+Positive human immunodeficiency virus (HIV) antibody at Screening
+Human immunodeficiency virus (HIV) positive subjects are excluded
+Human immunodeficiency virus (HIV) positive patients
+Human immunodeficiency virus (HIV)-positive patients are ineligible
+Known human immunodeficiency virus (HIV)-positive participants (even if on combination retrovirals, participant will be excluded)
+Human immunodeficiency virus (HIV)-positive patients receiving anti-retroviral therapy are excluded from this study
+Positive human immunodeficiency virus (HIV) status
+Human immunodeficiency virus (HIV)-positive patients receiving anti-retroviral therapy are excluded from this study; HIV positive patients not receiving antiretroviral therapy are excluded
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV) positive
+Is human immunodeficiency virus (HIV) positive
+Know to be human immunodeficiency virus (HIV) positive
+Patients known to be human immunodeficiency virus (HIV) positive who are not receiving anti-retroviral therapy will be excluded
+Has a known history of human immunodeficiency virus (HIV); HIV-positive patients receiving anti-retroviral therapy are excluded from this study; HIV positive patients not receiving antiretroviral therapy are excluded
+Patients can be human immunodeficiency virus (HIV) positive or negative
+Human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study
+Human immunodeficiency virus (HIV) positive
+Because patients with immune deficiency are not expected to respond to this therapy, human immunodeficiency virus (HIV)-positive patients are excluded from the study
+Human immunodeficiency virus (HIV) positive patients are ineligible
+HIV1 (human immunodeficiency virus-1) or HIV2 positive
+DONOR: Human immunodeficiency virus (HIV) positive
+HIV1 (human immunodeficiency virus-1) or HIV2 positive
+Known human immunodeficiency virus (HIV)-positive patients are excluded from the study; for patients receiving combination anti-retroviral therapy; screening for HIV status will not be performed
+Human immunodeficiency virus (HIV)-positive patients
+Human immunodeficiency virus (HIV)-positive
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded
+Human immunodeficiency virus (HIV)-positive patients are excluded
+Positive human immunodeficiency virus antibody
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV)-positive patients are excluded from the study
+Patient who is human immunodeficiency virus (HIV)-positive
+Patient is human immunodeficiency virus (HIV)-positive
+2nd BMT, human immunodeficiency virus (HIV)-1 positive
+Human immunodeficiency virus (HIV)-positive
+Positive human immunodeficiency virus (HIV) antibody at Screening
+Human immunodeficiency virus (HIV) infected patients (defined as HIV-1/HIV-2 antibody positive).
+Human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study
+Human immunodeficiency virus (HIV)-positive patients
+Positive for human immunodeficiency virus (HIV)
+Patients who are positive for human immunodeficiency virus type 1 (HIV-1) and are receiving combination anti-retroviral therapy
+Patients who are human immunodeficiency virus positive (HIV+) will be excluded
+Human immunodeficiency virus (HIV) positive patients will be excluded
+Human immunodeficiency virus (HIV)-positive patients
+Human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study
+Human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study; note: HIV testing is not required for entry into this protocol
+Human immunodeficiency virus (HIV)-positive patients are excluded from this study
+Human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study
+Human immunodeficiency virus (HIV)-positive patients and those with other acquired/inherited immunodeficiency
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV)-positive subjects are excluded from the study
+Patients who are positive for human immunodeficiency virus (HIV)
+Human immunodeficiency virus (HIV)-positive
+Patients known to be human immunodeficiency virus (HIV) positive and receiving highly active anti-retroviral therapy (HAART)
+Human immunodeficiency virus (HIV) positive patients
+Positive for Human Immunodeficiency Virus (HIV).
+Subjects positive for Human Immunodeficiency Virus (HIV)
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV) negative or positive
+Known human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study
+EXCLUSION CRITERIA FOR TRANSPLANT PHASE: Human immunodeficiency virus (HIV)-positive
+Human immunodeficiency virus (HIV) positive patients or hepatitis B or C positive patients
+Human immunodeficiency virus (HIV)-positive
+Human immunodeficiency virus (HIV)-positive patients
+Human immunodeficiency virus (HIV) positive patients
+Participant has tested positive for human immunodeficiency virus (HIV).
+Human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study; note: HIV testing is not required for entry into this protocol
+Human Immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV)-positive patients are excluded
+Patients who are human immunodeficiency virus positive (HIV+)
+Subject has tested positive for human immunodeficiency virus (HIV).
+Human immunodeficiency virus (HIV)-positive patients are excluded
+Human immunodeficiency virus (HIV) positive patients are not eligible for this protocol; hepatitis B and C positive patients will be evaluated on a case-by-case basis
+Human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV) positive patients
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV) positive (highly immunosuppressive treatment)
+Patients who are serologically true-positive for human immunodeficiency virus (HIV)
+Patients who are human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV) positive
+Positive human immunodeficiency virus (HIV) infection at screening
+Human immunodeficiency virus (HIV)-positive patients
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV)-positive patients are ineligible
+Positive for human immunodeficiency virus (HIV) infection
+Human immunodeficiency virus (HIV) positive patients will be excluded
+Human immunodeficiency virus-positive patients receiving combination anti-retroviral therapy are excluded from the study
+Human immunodeficiency virus (HIV) positive patients who are not on retroviral therapy will not be excluded from cohort 1, the normal liver function cohort\r\n* HIV positive patients who are not on retroviral therapy will be excluded from cohorts 2-4
+A history of human immunodeficiency virus (HIV) antibody positive or tests positive for HIV if tested at screening
+Human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV)-positive patients receiving anti-retroviral therapy are excluded from this study
+Human immunodeficiency virus (HIV)-positive patients are ineligible
+Human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded
+Human immunodeficiency virus (HIV) positive patients are not eligible
+Human immunodeficiency virus (HIV) - positive participants receiving anti-retroviral therapy
+Positive for presence of human immunodeficiency virus type 1 or 2 (HIV 1 and HIV 2).
+Patients who are human immunodeficiency virus (HIV)-positive are excluded from the study
+Human immunodeficiency virus (HIV)-positive patients receiving anti-retroviral therapy are excluded from this study; HIV positive patients not receiving antiretroviral therapy are excluded
+Known human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study
+Known human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study
+Human immunodeficiency virus (HIV)-positive patients on antiretroviral therapy are excluded from the study
+Human immunodeficiency virus (HIV)-positive status
+HIV1 (human immunodeficiency virus-1) or HIV2 positive
+Human immunodeficiency virus (HIV)-positive participants are ineligible
+Patients who are known to be serologically positive for human immunodeficiency virus (HIV) and are receiving antiviral therapy
+Be human immunodeficiency virus (HIV)-positive
+Human immunodeficiency virus (HIV)-positive participants are excluded
+Human immunodeficiency virus (HIV)-positive patients are ineligible
+Human immunodeficiency virus (HIV)-positive patients receiving combination anti-retroviral therapy are excluded from the study
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies).
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of Human Immunodeficiency Virus (HIV) (HIV 1/2 antibodies).
+Has a known history of Human Immunodeficiency Virus (HIV) (positive for HIV p24 antigen or HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies) infection
+COHORT 1: Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+COHORT 2: Has a known history of HIV (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known Human Immunodeficiency Virus (HIV) (HIV 1/2 antibodies).
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies) disease.
+Patients who have a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies) are not eligible
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus [(HIV) HIV 1/2 antibodies].
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV or HIV 1/2 antibodies); testing not required
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies).
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies).
+Known history of human immunodeficiency virus (HIV) (HIV1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies) disease
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of Human Immunodeficiency Virus (HIV) (HIV 1/2 antibodies).
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies).
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies).
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies).
+Has a known history of human immunodeficiency virus (HIV)(HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has known history of Human Immunodeficiency Virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV ½ antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Patients with a known history of antibodies to human immunodeficiency virus (HIV) -1 or -2 are not eligible. Patients with live vaccines
+Has a history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known carriers of HIV antibodies
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known active human immunodeficiency virus (HIV1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies, testing not mandatory)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of Human Immunodeficiency Virus (HIV) (HIV 1/2 antibodies).
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Subject has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies) as determined by medical record review
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Patient has known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies) or active hepatitis
+Has a known history of human immunodeficiency virus (HIV) infection (HIV 1/2 antibodies); patients with treated HIV, as evidenced by stable CD4 > 200 for at least 6 months, are eligible
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) infection (HIV 1/2 antibodies).
+Known history of HIV (HIV 1/2 antibodies).
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies). Testing not required.
+Patient has known history of human immunodeficiency virus (HIV) (HIV ½ antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies).
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of Human Immunodeficiency Virus (HIV) (HIV 1/2 antibodies)
+Has known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+History of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV; HIV 1/2 antibodies).
+Has a known history of HIV (HIV 1/2 antibodies).
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus [(HIV) HIV 1/2 antibodies].
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies); testing not required
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies); Note: testing not required at baseline unless clinically indicated
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of Human Immunodeficiency Virus (HIV) (HIV 1/2 antibodies)
+Has known history of Human Immunodeficiency Virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV); HIV 1/2 antibodies.
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+No known evidence of human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV) infection
+A known history of human immunodeficiency virus (HIV)
+Patient has a known history of human immunodeficiency virus (HIV) infection (testing not mandatory)
+Known human immunodeficiency virus (HIV) infection
+Patients with a known human immunodeficiency virus (HIV) infection are not eligible (HIV testing not required)
+Patients with known infection with human immunodeficiency virus (HIV) will not be eligible
+Patients with known human immunodeficiency virus (HIV) infection are NOT eligible for participation
+Known diagnosis of human immunodeficiency virus (HIV) infection.
+Has a known history of human immunodeficiency virus (HIV) infection.
+Known human immunodeficiency virus (HIV) patients with active and untreated disease
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known diagnosis of human immunodeficiency virus (HIV); (HIV testing is not required)
+Known history of human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV)
+Known history of Human Immunodeficiency Virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Patient has a known history of human immunodeficiency virus (HIV) infection (testing is not required)
+Patient has a known history of human immunodeficiency virus (HIV) infection (testing not required)
+Patients with a known human immunodeficiency (HIV) infection are not eligible
+Known human immunodeficiency virus (HIV) infection
+Known infection with human immunodeficiency virus (HIV)
+Individuals with known human immunodeficiency virus (HIV) infection are excluded from this study
+Known human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) infection
+Patients must not have known human immunodeficiency virus (HIV) infection
+Known active human immunodeficiency virus (HIV)
+Known human immunodeficiency (HIV) virus infection.
+Has a known history of human immunodeficiency virus (HIV) infection.
+Has a known history of human immunodeficiency virus (HIV) infection
+Has a known history of human immunodeficiency virus (HIV) infection.
+Has a known history of human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV)
+Patient has a known history of human immunodeficiency virus (HIV) infection (testing not mandatory)
+Known history of Human Immunodeficiency Virus (HIV)
+Known history of human immunodeficiency virus infection (HIV)
+Participant has a known infection with human immunodeficiency virus (HIV).
+Known human immunodeficiency virus (HIV) infection
+Have a known human immunodeficiency virus (HIV) infection or known activated/reactivated hepatitis A, B, or C.
+Has known history of Human Immunodeficiency Virus (HIV).
+Known human immunodeficiency virus (HIV).
+Patients with known human immunodeficiency virus (HIV) are excluded
+Known Human Immunodeficiency Virus (HIV)
+Known diagnosis of human immunodeficiency virus (HIV) infection (HIV testing is not mandatory)
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) or other history of immunodeficiency disorder
+Known active human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) infection
+Has a known history of human immunodeficiency virus (HIV)
+Known infection with the human immunodeficiency virus (HIV) virus
+Known human immunodeficiency virus (HIV) infection
+Known history of infection with human immunodeficiency virus (HIV)
+Patients with known human immunodeficiency virus (HIV) infection or are not eligible
+Has a known history of human immunodeficiency virus (HIV) infection
+Has a known history of human immunodeficiency virus (HIV) infection.
+Known or suspected human immunodeficiency virus (HIV) infection
+Has a known history of human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+FOR ALL PHASES (Ib AND II): Known history of human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) infection (HIV testing is not required as part of this study)
+Known to be human immunodeficiency virus (HIV)+
+Patients with known human immunodeficiency virus (HIV) infection, or hepatic insufficiency
+Known known human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) disease
+Known history of human immunodeficiency virus (HIV) infection
+Patient has a known history of human immunodeficiency virus (HIV) infection (testing not mandatory)
+Known history of human immunodeficiency virus (HIV) infection
+Has a known history of human immunodeficiency virus (HIV).
+Known human immunodeficiency virus (HIV) infection
+Known infection with human immunodeficiency virus (HIV)
+Patients with known human immunodeficiency virus (HIV) infection are not eligible
+Known human immunodeficiency virus (HIV) infection
+Subjects with known human immunodeficiency virus (HIV) infection
+Patients with a known human immunodeficiency virus (HIV) diagnosis are excluded from the study
+Known human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) infection
+Known Human immunodeficiency virus (HIV) infection;
+Known human immunodeficiency virus (HIV) infection
+Has a known history of Human Immunodeficiency Virus (HIV) infection
+Known human immunodeficiency virus (HIV)
+Is immunocompromised (i.e. has congenital immunodeficiency), including subjects known history of infection with human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) infection
+Patients must not have known human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known diagnosis of human immunodeficiency virus (HIV) infection
+Has a known history of human immunodeficiency virus (HIV)
+Patients with known human immunodeficiency virus (HIV) are ineligible for this study
+Known history of human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV) infection
+Known diagnosis of human immunodeficiency virus (HIV) infection
+Known diagnosis of human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV)
+Known diagnosis of human immunodeficiency virus (HIV) infection (please note that HIV testing is not mandatory)
+Patients with known human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV) infection
+Known history of Human Immunodeficiency Virus (HIV)
+Has a known history of Human Immunodeficiency Virus (HIV).
+Known human immunodeficiency virus (HIV) infection
+Has known human immunodeficiency virus (HIV) infection.
+Patients with a known human immunodeficiency virus (HIV) infection are NOT eligible for participation
+Known diagnosis of human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV) are NOT eligible for the study
+Known Human Immunodeficiency Virus (HIV) infection.
+211 Known infection with human immunodeficiency virus (HIV).
+Has a known history of human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) infection.
+Known infection with the human immunodeficiency (HIV) virus
+Known history of infection with human immunodeficiency virus (HIV)
+Known infection with human immunodeficiency virus (HIV)
+Patients with known human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) infection
+Known history of Human Immunodeficiency Virus (HIV) infection.
+Patients with known human immunodeficiency virus (HIV) infection are excluded
+ARM A: Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Subjects with known human immunodeficiency virus (HIV) infection
+No known human immunodeficiency virus (HIV) infection
+Has a known history of human immunodeficiency virus (HIV)
+Patients with known history of human immunodeficiency virus (HIV)
+Known history of human immunodeficiency virus (HIV)
+Patient has a known history of human immunodeficiency virus (HIV) infection (testing not mandatory)
+Patient has a known history of human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection (pre-study testing not required)
+Patient has a known history of human immunodeficiency virus (HIV) infection (testing not mandatory)
+Known history of human immunodeficiency virus (HIV)
+Subject has a known history of human immunodeficiency virus (HIV) infection (testing not mandatory)
+Patients who have known human immunodeficiency virus (HIV) or an uncontrolled infection are not eligible
+Patients with known human immunodeficiency virus (HIV) infection are ineligible
+Known human immunodeficiency virus (HIV) or other history of immunodeficiency disorder
+Patients with known human immunodeficiency virus (HIV) infection
+Known diagnosis of human immunodeficiency virus (HIV) infection
+Any other pre-existing immunodeficiency condition (including known human immunodeficiency virus [HIV] infection)
+Patients must not have known human immunodeficiency virus (HIV) infection
+Patients with active infections or known infection with human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) disease
+Known human immunodeficiency virus (HIV) disease
+Has a known history of human immunodeficiency virus (HIV).
+Has a known history of Human Immunodeficiency Virus (HIV)
+Known history of human immunodeficiency virus (HIV)
+Has a known history of human immunodeficiency virus (HIV).
+Has a known history of Human Immunodeficiency Virus (HIV) infection.
+Known human immunodeficiency virus (HIV) infection
+Has known history of Human Immunodeficiency Virus (HIV).
+Has a known history of Human Immunodeficiency Virus (HIV).
+Known Human Immunodeficiency Virus (HIV) infection
+Patients with a known history of human immunodeficiency virus (HIV) must not be on active treatment for HIV
+Known history of human immunodeficiency virus (HIV)
+Have a known history of human immunodeficiency virus (HIV) infection.
+Known human immunodeficiency virus (HIV) infection.
+Known Human immunodeficiency virus (HIV) infection.
+Known human immunodeficiency virus (HIV) infection
+Has a known history of human immunodeficiency virus (HIV)
+Has a known history of Human Immunodeficiency Virus (HIV)
+Patients with known human immunodeficiency virus (HIV) infection must have CD4 count greater than 200
+Patients with known human immunodeficiency virus (HIV) infection.
+Known history of human immunodeficiency virus (HIV)
+Known history of human immunodeficiency virus (HIV)
+Patients must have no known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) disease
+Patient has a known diagnosis of human immunodeficiency virus (HIV) infection
+Patient has a known history of human immunodeficiency virus (HIV) infection (testing is not mandatory)
+Patients with a known diagnosis of human immunodeficiency virus (HIV) infection.
+Patient has a known history of human immunodeficiency virus (HIV) infection (testing not mandatory).
+Known to be human immunodeficiency virus (HIV)+
+Current known active infection with human immunodeficiency virus (HIV)
+Patient with known history of human immunodeficiency virus (HIV), or any uncontrolled active systemic infection
+Known human immunodeficiency virus (HIV) infection
+Known history of Human Immunodeficiency Virus (HIV) infection
+Participant has a known history or current diagnosis of human immunodeficiency virus (HIV) infection, regardless of treatment status.
+Subjects with known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV)
+Has a known history of Human Immunodeficiency Virus (HIV)
+Known prior history of human immunodeficiency virus (HIV)
+Known infection with the human immunodeficiency virus (HIV) virus
+Known human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV)
+Known history of human immunodeficiency virus (HIV) infection.
+Known history of human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV)
+Patient is known to have human immunodeficiency virus (HIV) infection
+Known diagnosis of human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV)
+No known human immunodeficiency virus (HIV) infection
+Known HIV (Human Immunodeficiency Virus) infection.
+The patient has a known history or current diagnosis of human immunodeficiency virus (HIV) infection, regardless of treatment status.
+Patients with known human immunodeficiency virus (HIV) infection, or hepatic insufficiency
+Has known history of human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV) infection
+Patients must have no known history of human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known diagnosis of human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Patients with known human immunodeficiency virus (HIV) are excluded
+Known infection with human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) infection
+Known diagnosis of human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known uncontrolled human immunodeficiency virus (HIV) infection
+Has a known history of human immunodeficiency virus (HIV) infection
+Patients with a known diagnosis of human immunodeficiency virus (HIV) infection.
+Has a known history of Human Immunodeficiency Virus (HIV).
+Patients who have a known history of human immunodeficiency virus (HIV) will be excluded
+Patient with known diagnosis of human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV)
+Known infection with human immunodeficiency virus (HIV)
+Subject is known to have human immunodeficiency virus (HIV) infection.
+Known history of human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) type 1/2 or other immunodeficiency disease
+Known human immunodeficiency viral (HIV) infection
+Known diagnosis of human immunodeficiency virus (HIV) infection (testing is not mandatory).
+Known diagnosis of human immunodeficiency virus (HIV) infection (testing is not mandatory).
+Known human immunodeficiency virus (HIV) infection
+Known infection with human immunodeficiency virus (HIV).
+Patient has known infection with human immunodeficiency virus (HIV)
+Patient has known infection with human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) infection
+Known infection with human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) infection
+Known history of human immunodeficiency virus (HIV) infection
+Has known human immunodeficiency virus (HIV) infection;
+Known active or chronic infection with human immunodeficiency virus (HIV)
+Known history of human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known chronic infection with human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known diagnosis of human immunodeficiency virus (HIV) infection; testing is not required for participation
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known diagnosis of human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection; testing prior to enrollment is not required
+Patient has a known history of human immunodeficiency virus (HIV) infection (testing not mandatory) infection
+Known human immunodeficiency virus (HIV)-related malignancy.
+Known human immunodeficiency virus (HIV) infection (pre-study testing not required)
+Has known history of Human Immunodeficiency Virus (HIV)
+Known human immunodeficiency virus (HIV)-related malignancy.
+Known human immunodeficiency syndrome (HIV)
+Has a known history of human immunodeficiency virus (HIV)
+Patients with known human immunodeficiency virus (HIV) will be excluded
+Patient is known to have human immunodeficiency virus (HIV) infection
+Known infection with human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) infection based on history
+Known human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) infection
+Has a known history of human immunodeficiency virus (HIV) infection.
+Known human immunodeficiency virus (HIV) infection
+Known human immunodeficiency virus (HIV) infection (HIV testing not required)
+Known human immunodeficiency virus (HIV) infection.
+Known human immunodeficiency virus (HIV) disease.
+Has a known history of human immunodeficiency virus (HIV).
+Known or suspected human immunodeficiency virus (HIV) infection.
+Has a known history of human immunodeficiency virus (HIV)
+Known history of infection with human immunodeficiency virus (HIV)
+HIV-1 infection, as documented by any federally approved, licensed HIV rapid test performed in conjunction with screening (or enzyme linked immunosorbent assay [ELISA], test kit, and confirmed by Western blot or other approved test); alternatively, this documentation may include a record demonstrating that another physician has documented the participant's HIV status based on either: 1) approved diagnostic tests, or 2) the referring physician's written record that HIV infection was documented, with supporting information on the participant’s relevant medical history and/or current management of HIV infection
+Known history of HIV infection
+HIV infection.
+HIV-1 infection, as documented by any federally approved, licensed HIV rapid test performed in conjunction with screening (or enzyme linked immunosorbent assay [ELISA], test kit, and confirmed by western blot or other approved test); alternatively, this documentation may include a record demonstrating that another physician has documented the participant's HIV status based on either: 1) approved diagnostic tests, or 2) the referring physician's written record that HIV infection was documented, with supporting information on the participant's relevant medical history and/or current management of HIV infection
+HIV infection
+Known history of HIV.
+A known history of HIV
+EXCLUSION - TREATMENT: Active infection with HIV or HTLV
+Has known HIV
+Known positiv test for HIV
+DONOR: Infection with HIV
+Known HIV infection.
+Known HIV infection.
+Patients with documented immunodeficiency such as HIV infection.
+TREATMENT WITH SJCAR19: History of HIV infection
+Known history of HIV
+Subjects with significant history of systemic immunosuppression due to drugs or infection with HIV or HTLV 1.
+HIV infection
+Known history of HIV infection (testing not mandatory).
+Any HIV status
+Known HIV-infected patients
+PART 2: History of HIV infection
+Patients with known HIV disease
+Known history of HIV infection.
+Any HIV status
+HIV infection
+Patients with a known history of HIV.
+HIV infection or a known HIV-related malignancy.
+Subject has known HIV infection
+Known to be HIV+
+History of HIV infection.
+Known HIV infection.
+Known infection with HIV (testing of patients not known to be infected with HIV is not required prior to study entry)
+ARM B: Known HIV infection
+HIV infection
+Known history of infection with HIV.
+Known history of infection with HIV.
+HIV negative
+Subjects with known HIV infection
+HIV infection
+HIV related disease or known or suspected HIV+
+Subjects with HIV infection.
+HIV.
+Subjects with documentation of confirmed HIV-1 infection (i.e. HIV-positive), and a hematologic malignancy who meets all other eligibility requirements must:
+Known HIV infection.
+Known history of HIV infection. Testing for HIV status is not necessary unless clinically indicated
+HIV or HTLV infection
+Subjects with uncontrolled human immunodeficiency virus (HIV) are not eligible; controlled HIV is defined as a CD4 count > institutional lower limit of normal and no current co-infection; uncontrolled HIV is all other HIV infection; note that patients with controlled infection should be allowed to participate only if they are not receiving prohibited cytochrome P450 (CYP) interactive medications
+Known carrier of HIV.
+Known HIV carrier
+Known infection with HIV
+HIV infection.
+Known HIV infection;
+Patients with treated HLTV or HIV
+History of HIV infection.
+Prior history of HIV-positivity (routine HIV testing is not required pre-treatment)
+HIV-1 infection, as documented by a rapid HIV test or any FDA-Approved HIV-1 Enzyme or Chemiluminescence Immunoassay (E/CIA) test kit and confirmed by Western Blot at any time prior to study entry. HIV antigen, plasma HIV-1 RNA, or a secondary antibody test by a method other than rapid HIV and E/CIA is acceptable as an alternative test. Alternatively, if a rapid HIV test or any FDA-Approved HIV-1 Enzyme or Chemiluminescence Immunoassay (E/CIA) test is not available, two HIV-1 RNA values ? 2000 copies/mL at least 24 hours apart performed by any laboratory that has CLIA certification, or its equivalent, may be used to document infection.
+HIV infection
+Known human immunodeficiency virus (HIV) infection or a known HIV-related malignancy. Note: HIV testing is not required unless there is any clinical suspicion that the patient might be HIV positive.
+Patients who are HIV+ will be excluded
+Patients with known HIV.
+HIV infection
+HIV infection; there is theoretical concern that the degree of immune suppression associated with the treatment may result in progression of HIV infection
+DONOR: Infection with HIV
+Known HIV infection
+HIV infection (due to increased risk of severe infection and unknown interaction of moxetumomab pasudotox with antiretroviral drugs)
+Evidence of HIV infection
+HIV negative.
+Documentation of HIV status; if participant is HIV positive, HIV-1 infection, as documented by any federally approved, licensed HIV rapid test performed in conjunction with screening (or enzyme-linked immunosorbent assay [ELISA] test kit, and confirmed by Western blot or other approved test, or HIV rapid multispot antibody differentiation assay); alternatively, this documentation may include a record demonstrating that another physician has documented the participant's HIV status based on either: 1) approved diagnostic tests, or 2) the referring physician's written record that HIV infection was documented, with supporting information on the participant's relevant medical history and/or current management of HIV infection\r\n* If the participant is HIV negative, documentation of a negative result for any federally approved, licensed HIV rapid test within 4 weeks prior to study enrollment will suffice; if the initial rapid test is positive, further approved confirmatory test results must be present to document the subject’s HIV status
+Has a known history of HIV.
+Patients with HIV
+Known HIV infection
+Known HIV infection.
+Patient has a known history of HIV infection (testing not mandatory).
+Known HIV infection
+Patients with the presence of an infection including abscess or fistulae, or known infection with hepatitis B or C or HIV
+Known HIV infection.
+Subjects with known HIV infection
+HIV infection; patients should provide consent for HIV testing according to the institution’s standard practice
+Known HIV infection
+Known history of HIV infection.
+Known HIV infection.
+History of HIV infection.
+Known HIV infection
+Kown history of HIV.
+HIV infection
+HIV infection with a last known or suspected CD4 count of <50/mm3
+History of HIV disease and/or treatment with anti-HIV agents.
+Known HIV infection
+Known HIV+ patients.
+A positive HIV test result (enzyme-linked immunosorbent assay [ELISA] and Western blot) or history of known HIV; an HIV test will not be required; however, previous medical history will be reviewed
+Known active infection with HIV
+Known HIV infection.
+Known active infection with HIV
+Any HIV status
+Positive test for human immunodeficiency virus
+Human immunodeficiency virus (HIV) test has been obtained within 42 days; participants who test positive for HIV cannot be enrolled on therapeutic part of study, but are still eligible for biology studies
+Positive test for human immunodeficiency virus (HIV) at screening;
+Known positive test for Human immunodeficiency virus (HIV).
+Any positive test for human immunodeficiency virus (HIV) 1/2 antibodies and/or ribonucleic acid (RNA)
+Negative human immunodeficiency virus (HIV) test at screening.
+Positive human immunodeficiency virus (HIV) test
+Positive test for human immunodeficiency virus (HIV)
+Positive test for human immunodeficiency virus (HIV)
+Positive human immunodeficiency virus (HIV) test at screening
+Positive human immunodeficiency virus (HIV) test at screening
+Have negative test result for human immunodeficiency virus (HIV) and hepatitis B or C testing
+Human immunodeficiency virus (HIV)-positive test result, or history of other immunodeficiency
+Positive test for Human Immunodeficiency Virus (HIV)
+Known positive test for human immunodeficiency virus (HIV)
+Positive test for human immunodeficiency virus (HIV)
+Positive test for human immunodeficiency virus (HIV) or history of active tuberculosis
+History of positive human immunodeficiency virus (HIV)?1 or HIV?2 serologies or nucleic acid test
+History of confirmed positive test for human immunodeficiency virus (HIV)
+Human immunodeficiency virus (HIV) positive test result or other immunodeficiency or immunosuppression
+Human immunodeficiency virus (HIV) positive test result or other immunodeficiency or immunosuppression
+True positive test results for human immunodeficiency virus (HIV) or hepatitis B or C
+Primary or secondary immunodeficiency (history of, or currently active), including known history of human immunodeficiency virus (HIV) infection or positive test at screening.
+History of known human immunodeficiency virus (HIV) infection or positive HIV test result at screening.
+Human immunodeficiency virus (HIV)-positive test result or history of other immunodeficiency
+Has a positive test for human immunodeficiency virus (HIV) antibodies.
+Positive test for human immunodeficiency virus (HIV)
+Any positive test for human immunodeficiency virus (HIV)
+Human immunodeficiency virus (HIV)-positive test result or history of other immunodeficiency
+Known to be positive for the human immunodeficiency virus (HIV) (a test for HIV at screening is not required)
+Positive test for the human immunodeficiency virus (HIV).
+Positive human immunodeficiency virus (HIV) test result prior to or at Screening
+Positive test for human immunodeficiency virus (HIV) infection
+Human immunodeficiency virus (HIV)-positive test result, or history of other immunodeficiency
+Human immunodeficiency virus (HIV)-positive test result, or history of other immunodeficiency
+Human immunodeficiency virus (HIV) seropositive, with positive confirmatory nucleic acid test
+Patients with human immunodeficiency virus (HIV) infection (antibody positive with positive confirmatory molecular test)
+Positive test for hepatitis B, C or HIV (Human Immunodeficiency Virus) virus
+Positive test for human immunodeficiency virus infection
+Positive human immunodeficiency (HIV) test at screening or at any time prior to screening
+Human Immunodeficiency Virus (HIV) positive test within 8 weeks of screening
+Positive human immunodeficiency virus test result
+Positive test for Human Immunodeficiency Virus (HIV)
+Positive test result for human immunodeficiency virus (HIV)
+Negative human immunodeficiency virus (HIV) screening test
+Positive test for Human Immunodeficiency Virus (HIV)
+Known to be positive for human immunodeficiency virus (HIV) antibody; NOTE: Does NOT need to be repeated if pre-transplant screening test was negative
+Subject has a known history of positive test for Human Immunodeficiency Virus.
+True positive test results for human immunodeficiency virus (HIV) or hepatitis B or C
+Positive test for human immunodeficiency virus (HIV)
+Sero-positive or nucleic acid test (NAT) positive for human immunodeficiency virus (HIV)
+Known history of or positive test result for human immunodeficiency virus (HIV)
+Positive test result for human immunodeficiency virus.
+Human immunodeficiency virus (HIV) test must be negative
+Human immunodeficiency virus (HIV) positive test result
+Subject has a known history of a positive test for human immunodeficiency virus (HIV) infection.
+Subject has a known history of a positive test for human immunodeficiency infection.
+Participant who is seropositive or positive in the nucleic acid test for human immunodeficiency virus (HIV)
+History of positive human immunodeficiency virus (HIV)-1 or HIV-2 serologies or nucleic acid test
+Positive test for human immunodeficiency virus (HIV)
+An indeterminate or positive test for antibody to human immunodeficiency virus (HIV-1 or -2).
+Positive human immunodeficiency virus (HIV) test
+Positive test for Human Immunodeficiency Virus (HIV) 1&2 or known AIDS
+History of positive human immunodeficiency virus (HIV)-1 or HIV-2 serologies or nucleic acid test
+A positive test for human immunodeficiency virus (HIV) antibody (testing at time of screening is not required).
+Positive test for human immunodeficiency virus (HIV) infection
+Known positive test for human immunodeficiency virus (HIV)
+Positive test for HIV (human immunodeficiency virus)
+Subject has a known history of a positive test for human immunodeficiency virus (HIV) infection.
+Positive test for human immunodeficiency virus (HIV) (test to be performed within 28 days of first treatment start)
+Positive test for Human Immunodeficiency Virus (HIV)
+Known history of, or positive test result for human immunodeficiency virus (HIV) infection.
+Positive test for Human Immunodeficiency Virus (HIV)
+Positive human immunodeficiency virus (HIV) test
+Positive test for human immunodeficiency virus (HIV) (testing required prior to registration)
+The participant has had a known positive test result for the human immunodeficiency virus.
+The participant has had a known positive test result for the human immunodeficiency virus.
+Positive test for human immunodeficiency virus (HIV)
+Known human immunodeficiency virus infection.
+Known human immunodeficiency virus infection
+Human Immunodeficiency Virus infection at screening.
+Known human immunodeficiency virus infection.
+Known human immunodeficiency virus infection
+Patients must not be known to be Human Immunodeficiency Virus positive. Testing for Human Immunodeficiency Virus is not mandatory.
+Patient has a known history of human immunodeficiency virus infection (testing not mandatory)
+Known human immunodeficiency virus infection.
+Known human immunodeficiency virus infection.
+Known immunosuppressive disease or human immunodeficiency virus infection
+Known history of human immunodeficiency virus infection.
+Known human immunodeficiency virus infection
+Patients with known immunosuppressive disease or known human immunodeficiency virus infection
+Known human immunodeficiency virus infection.
+Known human immunodeficiency virus infection
+Known history of human immunodeficiency virus
+Known human immunodeficiency virus infection
+Immunosuppressive disease or human immunodeficiency virus infection
+Known history of human immunodeficiency virus
+Known human immunodeficiency virus infection
+Known human immunodeficiency virus infection
+Known human immunodeficiency virus infection
+Known human immunodeficiency virus infection
+Known history of human immunodeficiency virus
+Known autoimmune disease, immunosuppressive disease or human immunodeficiency virus infection (i.e., known human immunodeficiency virus [HIV] or hepatitis C)
+Known human immunodeficiency virus infection
+Known human immunodeficiency virus infection
+Patients with known human immunodeficiency virus infection are not to be enrolled in the study
+Must not have any known human immunodeficiency virus infection.
+Known human immunodeficiency virus infection.
+Subject is known to have human immunodeficiency virus infection.
+Human immunodeficiency virus infection.
+Known human immunodeficiency virus infection.
+Known infection with human immunodeficiency virus.
+Known human immunodeficiency virus infection.
+Known history of Human Immunodeficiency Virus;
+Subject is known to have human immunodeficiency virus infection.
+Known human immunodeficiency virus infection (pre-study testing not required)
+Known human immunodeficiency virus infection
+Subject is known to have human immunodeficiency virus infection.
+Known human immunodeficiency virus infection
+Have a known history of or a positive serologic test for infection with human immunodeficiency virus or human T lymphotrophic virus
+Patients with known autoimmune disease, immunosuppressive disease or known human immunodeficiency virus infection
+Human immunodeficiency virus infection
+Have a known history of human immunodeficiency virus infection.
+Subject is known to have human immunodeficiency virus infection
+Have known hepatitis B or C, or human immunodeficiency virus infection
+Known human immunodeficiency virus infection
+History of human immunodeficiency virus infection (testing is not required)
+Known human immunodeficiency virus infection.
+Known human immunodeficiency virus infection
+The participant is known to be positive for infection with the human immunodeficiency virus
+Known human immunodeficiency virus infection
+Known human immuno virus infection.
+History of human immunodeficiency virus infection.
+Subject is known to have human immunodeficiency virus infection.
+Positive serology for HIV.
+Positive serology for human immunodeficiency virus (HIV) or hepatitis C virus (HCV); presence in the serum of the antigen hemoglobin (HBs)
+Negative serology for human immunodeficiency virus (HIV)
+Negative antiviral serology:
+Negative antiviral serology
+Evidence of HIV infection or known HIV positive serology.
+Negative antiviral serology.
+Known positive serology for human immunodeficiency virus (HIV) (baseline testing not required)
+Positive HIV serology or viral RNA
+PART II: Negative serology for anti-HIV-1/2 and anti-HTLV 1/2
+Positive HIV serology (previous records acceptable)
+Negative viral serology:
+Positive serology for hepatitis B or C, or known human immunodeficiency virus infection (HIV)
+Known human immunodeficiency virus (HIV) or a history of active hepatitis B or C as evidenced by laboratory abnormalities in addition to positive serology; testing is not required for patients not suspected of having these conditions
+Known human immunodeficiency virus (HIV) positive serology or chronically active hepatitis B or C.
+Known positive serology for human immunodeficiency virus (HIV)
+Known positive serology for human immunodeficiency virus (HIV).
+Positive serology for human immunodeficiency virus (HIV)
+Known positive serology for human immunodeficiency virus (HIV), due to potential drug-drug interactions between anti-retroviral medications and the study drugs
+Active human immunodeficiency virus (HIV) infection or known HIV positive serology
+Patient with known positive serology for human immunodeficiency virus (HIV)
+Active human immunodeficiency virus (HIV) infection or known HIV positive serology
+Negative serology for human immunodeficiency virus (HIV)
+Positive serology for human immunodeficiency virus (HIV)
+Active viral hepatitis or active human immunodeficiency virus (HIV) infection. Asymptomatic positive serology is not exclusionary.
+PART 1: Evidence of human immunodeficiency virus (HIV) infection or known HIV positive serology
+Negative serology for human immunodeficiency virus (HIV)
+Known HIV-positive serology.
+Evidence of human immunodeficiency virus (HIV) infection or known HIV positive serology
+Evidence of human immunodeficiency virus (HIV) infection or known HIV positive serology
+History of human immunodeficiency virus (HIV) infection or known positive serology
+Evidence of human immunodeficiency virus (HIV) infection or known HIV positive serology
+Human immunodeficiency virus (HIV)+ serology
+Active human immunodeficiency virus (HIV) infection or known HIV positive serology
+Positive results from HIV serology testing, if any available.
+Human immunodeficiency virus (HIV) infection based on history of positive serology
+Positive serology for human immunodeficiency virus (HIV).
+Patient has known positive serology for human immunodeficiency virus (HIV).
+Negative human immunodeficiency virus (HIV)-1/2 serology
+Patient with known positive serology for human immunodeficiency virus (HIV)
+Human immunodeficiency virus (HIV) and hepatitis c negative (serology)
+Evidence of human immunodeficiency virus (HIV) infection or known HIV positive serology
+Patient with known positive serology for human immunodeficiency virus (HIV)
+Current clinically active infectious disease (including positive HIV serology or viral RNA)
+Positive serology for HIV.
+Negative human immunodeficiency virus (HIV) serology
+Patient must not have a history of positive human immunodeficiency virus (HIV) serology
+Evidence of human immunodeficiency virus (HIV) infection or known HIV positive serology
+Patients with congenital immunodeficiency, chromosomal breakage syndrome, prior organ transplantation, previous malignancy of any type, or known positive human immunodeficiency virus (HIV) serology
+Patients with congenital immunodeficiency, chromosomal breakage syndrome, prior organ transplantation, previous malignancy of any type, or known positive HIV serology.
+Patients must have negative human immunodeficiency virus (HIV) serology
+Positive serology for HIV
+Human immunodeficiency virus (HIV) positive serology or AIDS
+Negative antiviral serology.
+DONOR: History of positive HIV-1 or HIV-2 serology or nucleic acid test
+Positive serology test for human immunodeficiency virus (HIV) type 1 and 2, or known history of other immunodeficiency disease
+Evidence of HIV infection or HIV positive serology.
+Positive serology for Human Immunodeficiency Virus (HIV) or Hepatitis C Virus (HCV); presence in the serum of the antigens HBs
+Evidence of human immunodeficiency virus (HIV) infection or known HIV positive serology
+Known positive serology for human immunodeficiency virus (HIV) and known history of HIV
+DONOR: History of positive HIV-1 or HIV-2 serology or nucleic acid test
+Known positive serology for human immunodeficiency virus (HIV) or human anti-mouse antibody (HAMA)
+Positive serology for HIV
+Infectious disease criteria:\r\n* No active infection; infection controlled with antimicrobial therapy is not excluded\r\n* Human immunodeficiency virus (HIV) negative by enzyme-linked immunosorbent assay (ELISA) or reverse transcription-polymerase chain reaction (RT-PCR) (if ELISA is positive and RT-PCR is negative, the ELISA is considered false positive)\r\n* Hepatitis B and C negative by serology or RT-PCR\r\n* Must complete full screening panel:\r\n** HIV 1, 2 serology and RT-PCR\r\n** Human T-lymphotropic virus (HTLV) 1,2 serology\r\n** Rapid plasma reagin (RPR) serology\r\n** Epstein–Barr virus (EBV) serology\r\n** Cytomegalovirus (CMV) serology\r\n** Herpes simplex virus (HSV) serology\r\n** Varicella zoster virus (VZV) serology
+Evidence of HIV infection or known HIV positive serology.
+Positive serology for HIV.
+Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral therapy are ineligible; however, HIV patients treated with regimens that have low cytochrome P450 (CYP450) inhibition may be allowed as long as the patient’s general health and cluster of differentiation (CD)4 counts are within acceptable levels
+Patients who are known to be human immunodeficiency virus (HIV)-positive at registration are eligible at the time of registration:\r\n1. Cluster of differentiation (CD)4+ cell count greater or equal to 250 cells/mm^3\r\n2. If patient is on antiretroviral therapy, there must be minimal interactions or overlapping toxicity of the antiretroviral therapy with the experimental cancer treatment; once daily combinations that use pharmacologic boosters may not be used\r\n3. No history of non-malignancy acquired immunodeficiency syndrome (AIDS)-defining conditions other than historical low CD4+ cell counts
+Patients with a known history of human immunodeficiency virus (HIV) seropositivity:\r\n* Must have undetectable viral load using standard HIV assays in clinical practice\r\n* Must have cluster of differentiation (CD)4 count >= 400/mcL\r\n* Must not require prophylaxis for any opportunistic infections (i.e., fungal, Mycobacterium avium complex [mAC], or pneumocystis jiroveci pneumonia [PCP] prophylaxis)\r\n* Must not be newly diagnosed within 12 months prior to sub-study registration
+Known human immunodeficiency virus (HIV)-positive patients should have a cluster of differentiation (CD)4 count > 250/mm^3
+Disease must be cluster of differentiation (CD)30 positive
+Patients with known human immunodeficiency virus (HIV) positive must have a cluster of differentiation (CD)4 cell count be >= 350 cells/mm^3 within 14 days prior to study entry (note, however, that HIV testing is not required for entry into this protocol)
+Subjects with histopathologic confirmation of intermediate or high-grade primary central nervous system lymphoma (PCNSL) as documented by brain biopsy, or cytology (analysis from cerebral spinal fluid [CSF] or vitrectomy), and cluster of differentiation 20 (CD20) positive; whenever possible, the tumor should be characterized by immunophenotype
+A stem cell product collected prior to the infusion of 153Sm-EDTMP must be available, either by peripheral stem cell mobilization or bone marrow harvest prior to trial entry; a minimum of 2 x 10^6 cluster of differentiation (CD)34+ cells/kg ideal body weight is required
+Prior treatment with cluster of differentiation 137 (CD137) agonists or immune checkpoint blockade therapies
+A cluster of differentiation (CD)4+ lymphocyte count > 50/mcL will be required within 2 weeks of study participation
+On continuous antiretrovirals with cluster of differentiation 4 (CD4) count > 200 cells/ml with sustained undetectable viral load for at least 3 months; (HIV positive women)
+Prior treatment with Cluster of differentiation 33 (CD33) antibody Further exclusion criteria apply.
+Histologically documented cluster of differentiation (CD) 20-positive B-cell lymphoma classified as relapsed or refractory FL or DLBCL after treatment with at least two prior chemoimmunotherapy regimens that included an anti-CD20 monoclonal antibody (mAb) and for which no other more appropriate treatment option exists
+AIDS defined as a CD4 (cluster of differentiation 4) count less then 200 in the context of HIV sero-positivity or chronically is taking immunosuppressive medication such as steroids or transplant related medications.
+For non-myeloablative transplants, >= 50% cluster of differentiation (CD)3 donor chimerism at screening
+Cluster of differentiation (CD)4 count >= 200 within 120 days prior to enrollment or plasma HIV-1 RNA < 200 copies/mL within 120 days prior to randomization
+Use of rituximab and other anti-cluster of differentiation antigen 20 (CD20) antibodies known to have the same epitope as rituximab or anti-cluster of differentiation antigen 20 (CD20) for which the epitope is unknown within 3 months prior to enrollment;
+Patients must have at least 3 x 10^6 cluster of differentiation (CD)34+ cells/kg frozen
+Have previously received or are ineligible for treatment with blinatumomab; ineligibility will include (but not be limited to) cluster of differentiation 19 (CD19)-negative disease, denial of insurance coverage, physician discretion, and/or patient refusal
+Histologically confirmed diagnosis of cluster of differentiation (CD)30-positive ALCL with documented ALK-positive status
+Cluster of differentiation (CD)4 count >= 200/uL or >= 15% of peripheral blood lymphocytes
+Patients with well controlled human immunodeficiency virus (HIV) infection are eligible if their cluster of differentiation (CD)4 count is > 499/cu mm and viral load is < 50 copies/ml
+Patients with known human immunodeficiency virus (HIV) infection are eligible if not on antiviral agents and cluster of differentiation (CD)4 counts are adequate (>= 500)
+Availability of >= 2.5 million cluster of differentiation (CD)34+ cells/kg previously apheresed
+Patient has a confirmed diagnosis of mantle cell lymphoma with B-lymphocyte antigen cluster of differentiation (CD)20 (CD20) positivity in tissue biopsy
+Patients must meet the diagnostic criteria for HPS (at least 5 of the following):\r\n* Fever\r\n* Splenomegaly\r\n* Cytopenia involving >= 2 cell lines\r\n* Hypertriglyceridemia or hypofibrinogenemia\r\n* Tissue demonstration of hemophagocytosis\r\n* Hepatitis\r\n* Low or absent natural killer (NK) cell activity\r\n* Serum ferritin >= 3000 ug/L\r\n* Soluble interleukin (IL)-2 receptor (cluster of differentiation [CD25]) > 2400 U/mL
+Human immunodeficiency virus (HIV) positive (+) patients with cluster of differentiation 4 (CD4) counts >= 250 cells/mm^3 on anti-viral therapy
+Patients who have known human immunodeficiency virus (HIV) positivity must be on a 3-drug antiviral regimen that does not include zidovudine, and must have a cluster of differentiation (CD)4 count > 100/mm^3 and virus load < 5000 copies/ml, and are placed on a regimen to prevent pneumocystis pneumonia (PCP) reactivation during treatment
+INCLUSION CRITERIA FOR ENROLLMENT: Donor cluster of differentiation (CD)3+ chimerism >= 30% measured in peripheral blood or bone marrow
+Patients must have primary refractory or first relapse of cluster of differentiation 30 (CD30)+ Hodgkin lymphoma
+Known sensitivity to lenalidomide or other thalidomide derivatives or anti cluster of differentiation (CD)20
+Cluster of differentiation (CD)4 count >= 200/uL or >= 15% of peripheral blood lymphocytes
+Relapsed/refractory MCL: Confirmed diagnosis of mantle cell lymphoma with cluster of differentiation (CD)20 and cyclin D1 through cyclin D3 positivity in tissue biopsy
+Must have 4-8 x 10^6 cluster of differentiation (CD)34+ cells/kg (recipient weight) infused on day 0
+Availability of autologous peripheral blood stem cell graft, containing at least 6.0 x 10^6 cluster of differentiation 34 positive (CD34+) cells/kg
+A minimum of 2 x 10^6 cluster of differentiation 34 positive (CD34+) cells must have been collected
+A minimum apheresis collection of 5 million cluster of differentiation (CD)34+ cells/kg of autologous hematopoietic progenitor cells (AHPC)
+Patients with acquired immunodeficiency syndrome (AIDS-related illnesses) or known human immunodeficiency virus (HIV) disease must:\r\n* Have a cluster of differentiation (CD)4 count >= 200 cells/uL within 30 days before beginning study therapy\r\n* Be off all antiretroviral therapy (prophylaxis/treatment) more than 60 days before beginning study therapy, and\r\n* Have no evidence of opportunistic infections
+Patients must have cluster of differentiation (CD)33 positivity of >= 30%
+Cluster of differentiation 4 (CD4) count >= 200/uL
+Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral therapy are eligible; unless the patient’s cluster of differentiation (CD)4+ count is below the institutional lower limit of normal
+Patients with a known history of human immunodeficiency virus (HIV) seropositivity: must have undetectable viral load using standard HIV assays in clinical practice; must have cluster of differentiation (CD)4 count >= 400/mcL; must not require prophylaxis for any opportunistic infections (i.e., fungal, mycobacterium avium complex [mAC], or pneumocystis pneumonia [PCP] prophylaxis); must not be newly diagnosed within 12 months prior to re-registration
+Adequate autologous stem cell collection, defined as an unmanipulated, cryopreserved, peripheral blood stem cell collection containing at least 2 x 10^6 cluster of differentiation (CD)34+ cells/kg based on patient body weight
+Patients with a known history of human immunodeficiency virus (HIV) seropositivity: 1. Must have undetectable viral load using standard HIV assays in clinical practice; 2. Must have cluster of differentiation (CD)4 count >= 400/mcL; 3. Must not require prophylaxis for any opportunistic infections (i.e., fungal, mycobacterium avium complex [mAC], or pneumocystis pneumonia [PCP] prophylaxis); 4. Must not be newly diagnosed within 12 months prior to re-registration
+Patients with a known history of human immunodeficiency virus (HIV) seropositivity:\r\n* Must have undetectable viral load using standard HIV assays in clinical practice\r\n* Must have cluster of differentiation (CD)4 count >= 400/mcL\r\n* Must not require prophylaxis for any opportunistic infections (i.e., fungal, mycobacterium avium complex [mAC], or pneumocystis pneumonia [PCP] prophylaxis)\r\n* Must not be newly diagnosed within 12 months prior to re-registration
+Patients with any stage of pathologically confirmed cluster of differentiation (CD)3+ acute, lymphoma, chronic, or smoldering subtypes of ATLL
+Subjects must be on a prophylactic regimen for Pneumocystis carinii pneumonia, or agree to begin such treatment and remain on treatment until after completion of therapy and until the cluster of differentiation (CD)4 cells are greater than 200/mm^3
+Patients with known human immunodeficiency virus (HIV) are not eligible if cluster of differentiation (CD)4 count is =< 200 cell/mm^3 or if receiving antiretroviral therapy
+Patients with known human immunodeficiency virus (HIV) who have cluster of differentiation (CD)4+ T cell counts >= 500 cells/mm^3 and who do not require antiretroviral therapy are eligible
+Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral therapy are ineligible; if an HIV-positive patient has adequate cluster of differentiation (CD4) counts (CD4 above the lower limit of institutional normal) and is on antiretroviral therapy with newer agents, which are not strong cytochrome (CYP) inhibitors, they will be eligible
+Human immunodeficiency virus (HIV)-positive patients on antiviral drugs and/or cluster of differentiation (CD)4 count is inadequate (< 500); if neither condition exists, HIV-positive patients are eligible
+Patients with a history of prior treatment with ipilimumab, anti-programmed cell death 1 (PD 1) antibody, cluster of differentiation 137 (CD137) agonist or other immune activating therapy such as anti-cluster of differentiation 40 (CD 40) antibody
+Cluster of differentiation (CD)4 count > 400 cells/mm^3
+Lymphopenia, cluster of differentiation (CD)4 lymphopenia, leukopenia, and anemia will not render patients ineligible
+Histologically documented cluster of differentiation 20 (CD20) positive lymphoma
+Patients who are known to be human immunodeficiency virus (HIV) positive must have a normal cluster of differentiation (CD)4 count and undetectable viral load
+Participants must have previously untreated cluster of differentiation (CD) 20-positive diffuse large, B-cell lymphoma
+For obinutuzumab + Atezo + Pola treatment group: relapsed or refractory FL after treatment with at least one prior chemoimmunotherapy regimen that included an anti-Cluster of Differentiation (CD)20 monoclonal antibody and for which no other more appropriate treatment option exists as determined by the investigator
+Cluster of differentiation (CD)4 count >= 200/mcL
+Human immunodeficiency virus (HIV)-positive patients with inadequate cluster of differentiation (CD)4 counts or those who are on combination antiretroviral therapy with strong cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4) effects are ineligible for this trial
+Subjects must have measurable disease defined as at least one tumor lesion of at least 1.5 cm or a peripheral blood cluster of differentiation (CD)5+, CD19+ lymphocyte count of at least 5,000 cells/uL
+Patients with a diagnosis of active human immunodeficiency virus (HIV) infection, on anti-retroviral therapy, or with a cluster of differentiation (CD) 4 count less than 200 are ineligible; testing is not required in the absence of clinical findings or suspicion
+Patients with a diagnosis of active human immunodeficiency virus (HIV) infection, on anti-retroviral therapy, or with a cluster of differentiation (CD)4 count less than 200 are ineligible due to potential interactions between irinotecan and anti-retroviral medications as well as possible immunosuppressive activity of the study treatment; testing is not required in the absence of clinical findings or suspicion
+Patients with human immunodeficiency virus (HIV) are eligible if they are not on antiviral agents and have adequate cluster of differentiation (CD)4 counts (>= 500 mm^3)
+Human immunodeficiency virus (HIV)-positive patients with cluster of differentiation 4 (CD4) counts less than the lower limit of institutional normal
+Known diagnosis of human immunodeficiency virus (HIV) infection unless patient is fully immunocompetent (cluster of differentiation 4 [CD4] > 200) and patient is not taking antiretroviral therapy
+Patients must have an adequate number of cluster of differentiation (CD)34+ stem cells collected to allow for transplantation (defined as >= 2 x 10^6 CD34+ cells/kg body weight); if not previously collected and stored or if previous collection was inadequate, the patients must be willing to undergo stem cell mobilization and collection as per standard practice
+Expansion Cohort: patients who have known human immunodeficiency virus (HIV) positivity must be on a 3-drug antiviral regimen that does not include zidovudine and must have a cluster of differentiation (CD4) count > 100/mm^3 and virus load < 5000 copies/mL; they must be placed on a regimen to prevent pneumocystis pneumonia (PCP) reactivation during treatment
+Prior treatment with anti-cluster of differentiation (CD)20 monoclonal antibody or alemtuzumab within 2 months prior to start of therapy
+Patients with HCL variant (as defined by absence of expression of cluster of differentiation [CD]25 or absence of BRAF V600E mutation)
+Prior treatment with anti-cluster of differentiation (CD)20 monoclonal antibody or alemtuzumab within 3 months prior to start of therapy
+Documented cluster of differentiation (CD)30+ expression from either original diagnosis or a tumor biopsy in the relapsed setting
+Patients with human immunodeficiency virus (HIV) infection are eligible provided their cluster of differentiation 4 (CD4) count is greater than or equal to the institutional lower limit of normal (LLN) (>= 334 cells/uL)
+Tumor cell negative for cluster of differentiation (CD)20 (absence of result due to technical problems in the presence of other characteristics suggestive of BL/DLBCL, including genetic and phenotypic features, is not an exclusion criteria)
+Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral therapy will be eligible unless the cluster of differentiation (CD)4 count is < 200 cells/mm^3 within one month of study enrollment
+Previous treatment with SGN-35 or any other prior anti-cluster of differentiation (CD)30-based antibody therapy
+Patients with human immunodeficiency virus (HIV) disease will be permitted, only if they are on effective anti-retroviral therapy, have a cluster of differentiation (CD) 4 count greater than 400, and have had no opportunistic infections within the past 6 months
+Patients must provide a lymph node sample of at least 1.5 cm in the long axis, or a bone marrow aspiration sample providing at least 5 million cluster of differentiation (CD)20 and/or CD38+ (approximately 10 ml)
+History of histologically documented, B-lymphocyte antigen cluster of differentiation 20 plus (CD20+), iNHL
+Patients with cluster of differentiation (CD)34 selected auto grafts
+Positive for cluster of differentiation (CD)20 via immunophenotyping
+Lymphoblasts may have any positive expression of cluster of differentiation (CD)20 for ofatumumab administration
+Human immunodeficiency virus (HIV)-infected persons are eligible if they meet other eligibility criteria including the following:\r\n* No prior acquired immune deficiency syndrome (AIDS)-defining condition other than cluster of differentiation (CD)4+ cells nadir < 200/mm^3\r\n* Pre-leukemia CD4+ cell count >= 250/mm^3\r\n* Willing to adhere to antiretroviral therapy regimen with minimal overlapping toxicity and PK interactions with the experimental agents in this study; no zidovudine- and no ritonavir-containing regimens and no 3-drugs-in-1 pill regimens containing pharmacologic boosters are allowed; recommended regimens are integrase inhibitors combined with tenofovir and emtricitabine
+Patients with cluster of differentiation (CD)20 positive diffuse large B-cell lymphoma as confirmed by a pathological biopsy report
+A cluster of differentiation (CD)4+ lymphocyte count > 50/mcL will be required within 2 weeks of study participation
+Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral therapy are eligible, unless the patient’s cluster of differentiation (CD)4 count is below the institutional lower limit of normal, or the patient is taking prohibited CYP3A4/5 strong inhibitors or inducers
+Lymphopenia, cluster of differentiation 4 (CD4) lymphopenia, leukopenia, and anemia will not render patients ineligible
+Patients must have relapsed or refractory cluster of differentiation (CD) 20+ lymphoid malignancies with either documented central nervous system (CNS) involvement or peripheral nerve infiltration
+If HIV-positive, any cluster of differentiation (CD)4 count will be allowed on study
+Prior treatment with cluster of differentiation 137 (CD137) agonists or immune checkpoint blockade therapies
+Human immunodeficiency virus (HIV)-positive patients on antiretroviral medications that are CYP3A4 substrates will be closely monitored; HIV-positive patients will be excluded if they have a cluster of differentiation 4 (CD4) count < 200
+Autologous transplant eligible patients must have histologically or cytologically confirmed cluster of differentiation (CD)20 positive relapsed or refractory DLBCL by biopsy within 45 days prior to subject enrollment and must have been previously treated with an anthracycline and rituximab-containing regimen
+Adequate autologous graft, defined as an unmanipulated, cryopreserved, peripheral blood stem cell graft containing at least 2 x 10^6 cluster of differentiation (CD)34+ cells/kg based on patient body weight
+Immunocompromised patients (other than that related to the use of corticosteroids) including patients known to be human immunodeficiency virus (HIV) positive with low cluster of differentiation (CD)4 count; Note: previous calcineurin inhibitor or previous sirolimus use allowed
+If human immunodeficiency virus (HIV) positive, cluster of differentiation 4 (CD4) count must be >= 400
+A cluster of differentiation (CD) 4 count > 100/mcL will be required within 2 weeks of study participation
+Documented Cluster of Differentiation Antigen 20 (CD20) + B-Cell Chronic Lymphocytic Lymphoma (B-CLL)
+Histopathologic confirmation of one of the following cluster of differentiation antigen 20 positive (CD20+) B-cell non-Hodgkin's lymphomas (tissue diagnostic procedures must be performed within 6 months of study entry and with biopsy material available for review):
+Availability of previously collected autologous stem cells (at least 3.0 x 10^6 cluster of differentiation [CD]34 cells/kg)
+Newly diagnosed cluster of differentiation (CD) 20+ DLBCL with IPI between 3-5
+Patient must have cluster of differentiation (CD)34+ stem cells >= 2 x 10^6/kg (actual body weight of the recipient) available for transplantation
+Human immunodeficiency virus (HIV)-positive patients who are not receiving: agents with the potential for PK interactions with romidepsin or hepatotoxic antiretrovirals (nucleoside reverse-transcriptase inhibitors [NRTIs]: abacavir, didanosine, emtricitabine, lamivudine, stavudine, and zidovudine), dual protease inhibitor (PI)-based regimens except low-dose boosting with ritonavir, atazanavir, indinavir, maraviroc, and nevirapine may be eligible; additionally, the HIV-positive patients should have a cluster of differentiation (CD)4 count > 250/mm^3; if the specific cause of hepatic dysfunction is unknown, the patient should be worked up for other viral causes of hepatitis and their eligibility determined after consultation with the principal investigator
+Immunocompromised patients, this includes human immunodeficiency virus (HIV)-positive patients
+Patients known to be human immunodeficiency virus (HIV) positive and currently receiving retroviral therapy are not eligible; note: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for the study
+Immunocompromised patients (other than that related to the use of corticosteroids) including patients known to be human immunodeficiency virus (HIV) positive
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy\r\n* NOTE: Patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients, e.g., patients who are known to be serologically positive for human immunodeficiency virus (HIV) and are receiving antiviral therapy (testing is not part of the protocol)
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; Note: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Known to be human immunodeficiency virus (HIV) positive or immunocompromised with posttransplant lymphoproliferative disorder (PTLD)
+Immunocompromised patients
+Immunocompromised patients with increased risk of opportunistic infections, including known HIV-positive patients
+Immunocompromised patients (other than that related to the primary oncologic diagnosis or to the use of corticosteroids) including patients known to be human immunodeficiency virus (HIV) positive are not eligible
+Immunocompromised status because of current known active infection with HIV or because of the use of immunosuppressive therapies for other conditions
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive
+Human immunodeficiency virus (HIV) positive or immunocompromised
+Immunocompromised patients are excluded
+Immunocompromised subjects, e.g., subjects who are known to be serologically positive for human immunodeficiency virus (HIV).
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: Patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy
+Immunocompromised patients, e.g. patients known to be serologically positive for HIV. Patients do NOT need to be tested for HIV in order to enroll on study
+Immunocompromised patients, e.g., patients who are known to be serologically positive for human immunodeficiency virus (HIV)
+Immunocompromised patients
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy
+Immunocompromised patients
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial; patients with HIV on antiretroviral therapy other than zidovudine (AZT) and/or stavudine and without prior acquired immunodeficiency syndrome (AIDS) defining conditions and adequate CD4 count (> 400) are eligible
+Immunocompromised patients or patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy
+Immunocompromised
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients (other than that related to the use of corticosteroids) including patients known to be human immunodeficiency virus (HIV) positive
+Immunocompromised patients, e.g., patients who are known to be serologically positive for human immunodeficiency virus (HIV).
+Immunocompromised patients, e.g., patients who are known to be serologically positive for human immunodeficiency virus (HIV)
+Patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: Patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy
+Immunocompromised patients, including patients known to be HIV positive
+Immunocompromised patients (other than that related to the use of corticosteroids) including patients known to be human immunodeficiency virus (HIV) positive
+Immunocompromised patients (other than that related to the use of corticosteroids) including patients receiving highly active antiretroviral therapy (HAART) treatment
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy
+Immunocompromised patients e.g., patients who are known to be serologically positive for human immunodeficiency virus (HIV)
+Immunocompromised patients (other than that related to the use of corticosteroids) including patients known to be human immunodeficiency virus (HIV) positive with cluster of differentiation (CD)4 counts < 200
+Is immunocompromised (i.e. congenital immunodeficiencies), including subjects known history of infection with human immunodeficiency virus
+Immunocompromised subjects;
+Is immunocompromised, including subjects with known human immunodeficiency virus (HIV) infection
+Immunocompromised patients, including patients with known HIV infection;
+Immunocompromised participants, including participants known to be infected with human immunodeficiency virus (HIV).
+Immunocompromised patients
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy\r\n* NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive
+Immunocompromised patients (other than that related to the use of corticosteroids) including patients confirmed to be human immunodeficiency virus (HIV) positive or have active viral hepatitis
+Immunocompromised patients, including those with human immunodeficiency virus (HIV)
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: patients with a known history of HIV infection are not eligible for this trial
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised subjects or those with autoimmune conditions, active hepatitis or positive for human immunodeficiency virus (HIV)
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: Patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients (other than that related to the use of corticosteroids) including patients known to be human immunodeficiency virus (HIV) positive
+Immunocompromised patients, e.g., patients who are known to be serologically positive for human immunodeficiency virus (HIV).
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive
+Immunocompromised patients (other than that related to the use of corticosteroids) including patients known to be human immunodeficiency virus (HIV) positive
+Immunocompromised patients (other than that related to the use of corticosteroids) with the exception of patients known to be human immunodeficiency virus (HIV) positive and have a cluster of differentiation 4 (CD4) count > 400 and do not require antiretroviral therapy
+Immunocompromised patients (other than that related to the use of corticosteroids) including patients known to be human immunodeficiency virus (HIV) positive, per medical doctor (MD) discretion
+Immunocompromised subjects, e.g., subjects who are known to be serologically positive for human immunodeficiency virus;
+Subject is immunocompromised
+Immunocompromised subjects, including subjects known to be infected with human immunodeficiency virus (HIV).
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients
+Immunocompromised patients or patients known to be human immunodeficiency virus (HIV) positive and currently receiving combination antiretroviral therapy; patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised status
+Immunocompromised patients (other than that related to the use of corticosteroids) including patients known to be HIV positive with a CD4 count of < 400
+Immunocompromised participants with primary or secondary immunodeficiency
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: Patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy (HIV testing not required); NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state (cluster of differentiation [CD]4 > 200, viral load undetectable, on antiretroviral therapy), are eligible for this trial
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive and currently receiving antiretroviral therapy; NOTE: patients known to be HIV positive, but without clinical evidence of an immunocompromised state, are eligible for this trial
+Immunocompromised (positive human immunodeficiency virus [HIV] test, transplant recipient, received chemotherapy for cancer, or taking immunosuppressant drugs)
+Immunocompromised subjects, including patients with human immunodeficiency virus
+Immunocompromised patients and patients known to be human immunodeficiency virus (HIV) positive (HIV 1/2 antibodies) and currently receiving antiretroviral therapy
+Has a known history of human immunodeficiency virus (HIV) infection. HIV testing is not required unless mandated by the local health authority.
+Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies). No HIV testing is required unless mandated by local health authority.
+Has a known history of human immunodeficiency virus (HIV) infection. HIV testing is not required unless mandated by the local health authority.
+Known history of human immunodeficiency virus (HIV) infection. HIV testing is not required unless mandated by local health authority.
+Known history of human immunodeficiency virus (HIV) infection. HIV testing is not required unless mandated by local health authority.
+Known history of human immunodeficiency virus (HIV) infection. HIV testing is not required unless mandated by local health authority.
+Patients known to be positive for human immunodeficiency virus (HIV) are not eligible
+Patient who are known to be serologically positive for human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV)-positive
+Known human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive status
+The subject is known to be positive for the human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) positive status
+Participants with known human immunodeficiency virus (HIV)-positive status are ineligible
+Known to be human immunodeficiency virus (HIV) positive.
+Known human immunodeficiency virus (HIV)-positive participants are ineligible
+Known human immunodeficiency virus (HIV)-positive
+Known human immunodeficiency virus (HIV)-positive participants are ineligible
+Participant known to be human immunodeficiency virus (HIV)-positive
+Known human immunodeficiency virus (HIV) positive
+Known to be human immunodeficiency virus (HIV) positive
+Known positive for human immunodeficiency virus (HIV)
+Patient is known to be human immunodeficiency virus (HIV)-positive
+Patients known to be human immunodeficiency virus (HIV)-positive
+Known human immunodeficiency virus (HIV) positive
+Patient known to be human immunodeficiency virus (HIV)-positive and requiring antiretroviral therapy
+Known human immunodeficiency virus (HIV) positive (testing not required)
+Known to be human immunodeficiency virus (HIV)-positive
+Known human immunodeficiency virus positive (HIV+) patients
+Positive for known human immunodeficiency virus (HIV) Infection
+Subject is known to be positive for human immunodeficiency virus (HIV); HIV testing is not required
+Known to be human immunodeficiency virus positive (HIV+)
+Known human immunodeficiency virus (HIV)-positive status
+Patients who are known to be serologically positive for human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV)-positive
+Known human immunodeficiency virus (HIV) positive patients
+Known human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV)-positive status
+Known human immunodeficiency virus (HIV)-positive status
+Known human immunodeficiency virus (HIV)-positive
+Known to be positive for the human immunodeficiency virus (HIV); note: HIV-testing is not required for eligibility, but if performed previously and was positive, the subject is ineligible
+Have known (previously documented) positive results for human immunodeficiency virus (HIV).
+Known human immunodeficiency virus (HIV) positive
+Known to be human immunodeficiency virus (HIV)-positive
+Patients known to be human immunodeficiency virus (HIV)-positive
+Patients who are known to be (i.e. documented in medical records) human immunodeficiency virus (HIV) positive are not eligible
+Known human immunodeficiency virus (HIV) positive
+The subject is known to be positive for the human immunodeficiency virus (HIV); Note: baseline HIV screening is not required
+Known to be human immunodeficiency virus positive
+Patients known to be human immunodeficiency virus (HIV)-positive
+Known to be human immunodeficiency virus positive (HIV+)
+Known human immunodeficiency virus (HIV)-positive status
+Known to be human immunodeficiency virus positive
+Known human immunodeficiency virus (HIV)-positive status
+Known human immunodeficiency virus (HIV) positive (testing not required).
+known human immunodeficiency virus infection (positive HIV antibodies).
+Patients known to be positive for human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV)-positive status
+Patients known to be human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV)-positive patients
+Patient is known to be human immunodeficiency virus (HIV)-positive
+Known human immunodeficiency virus (HIV)-positive patients are excluded from the study
+Known human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive
+Patient is known to be human immunodeficiency virus (HIV)-positive.
+Known to be human immunodeficiency virus positive
+Patients who are known to be serologically positive for human immunodeficiency virus (HIV).
+Known human immunodeficiency virus (HIV)-positive individuals
+Subjects with known positive human immunodeficiency virus (HIV) status
+Have known (previously documented) positive results for human immunodeficiency virus (HIV).
+Known human immunodeficiency virus (HIV)-positive individuals
+Known human immunodeficiency virus (HIV)-positive patients are excluded from the study
+Known positive for human immunodeficiency virus (HIV); baseline HIV screening is not required
+Known human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive
+Patients must not be known to be human immunodeficiency virus (HIV)-positive
+Known to be human immunodeficiency virus positive
+Patients who are known to be human immunodeficiency virus (HIV) positive
+Patients who are known to be human immunodeficiency virus (HIV) positive are not eligible
+Known to be human immunodeficiency virus (HIV) positive (testing not mandatory)
+Patients who are known human immunodeficiency virus (HIV) positive are not eligible
+Known to be positive for human immunodeficiency virus (HIV)
+Known positive for human immunodeficiency virus (HIV)
+Known positive status for human immunodeficiency virus (HIV)
+Known to be human immunodeficiency virus positive
+Known positive status for human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV)-positive individuals
+Known human immunodeficiency virus (HIV) positive
+Individuals who are known to be human immunodeficiency virus (HIV)-positive are excluded from this study
+Patients known to be human immunodeficiency virus (HIV) positive
+Known to be human immunodeficiency virus (HIV) positive
+Known positive status for human immunodeficiency virus (HIV)
+Patients known to be human immunodeficiency virus (HIV)-positive
+Known or suspected human immunodeficiency virus (HIV) or serologically positive
+Subjects known to be human immunodeficiency virus (HIV) positive
+Patients must not be known to be human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive patient
+Patients known to be positive for human immunodeficiency virus (HIV) are not eligible
+Known positive status for human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) positive
+Known to be human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive
+Known to be human immunodeficiency virus positive (HIV+)
+Subjects with known positive human immunodeficiency virus (HIV) status.
+Patients known to be human immunodeficiency virus (HIV) positive
+The subject is known to be positive for the human immunodeficiency virus (HIV); Note: baseline HIV screening is not required
+Known human immunodeficiency virus (HIV)-positive patients
+Known or suspected human immunodeficiency virus (HIV) or serologically positive
+Participants known to be positive for Human Immunodeficiency Virus (HIV).
+Patients known to be human immunodeficiency virus (HIV) positive or known to have hepatitis B and/or C are excluded
+Known to be human immunodeficiency virus (HIV) positive
+Patients known to be human immunodeficiency virus (HIV)-positive are ineligible
+Known to be human immunodeficiency virus (HIV) positive
+Patients with known positive human immunodeficiency virus (HIV) are excluded
+Known positive status for human immunodeficiency virus (HIV)
+Known positive status for human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV)-positive patients and those with known hepatitis B or C are excluded from the study
+Is known to be Human Immunodeficiency Virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive
+Patients known to be human immunodeficiency virus (HIV) positive
+Known history of human immunodeficiency virus (HIV) positive.
+Known positive status of human immunodeficiency virus (HIV)
+Known to be positive for human immunodeficiency virus (HIV).
+Subjects known to be positive for Human immunodeficiency virus (HIV) infection.
+Known human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV)-positive patients are ineligible
+Known human immunodeficiency virus (HIV) positive.
+Known human immunodeficiency virus (HIV) positive status.
+Patients known to be human immunodeficiency virus (HIV) positive are not eligible for the study
+Ongoing or active infection, or known human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive status
+Known positive status for human immunodeficiency virus (HIV)
+Patients who are known to be human immunodeficiency virus (HIV) positive are not eligible for this study
+Known human immunodeficiency virus (HIV)-positive individuals or with any immunodeficiency status
+Patients may not be known to be human immunodeficiency virus (HIV)-positive; HIV testing is not required for study participation
+Known history of human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive
+Patients known to be human immunodeficiency virus (HIV)-positive
+Patients known to be human immunodeficiency virus (HIV)-positive
+Known positive for human immunodeficiency virus (HIV)
+Known human immunodeficiency virus (HIV) positive
+Patient has known, uncontrolled human immunodeficiency virus (HIV)-positive diagnosis
+Individuals known to be human immunodeficiency virus (HIV)-positive may not participate in this study
+Known human immunodeficiency virus (HIV) positive patients
+Patients known to be human immunodeficiency virus (HIV) positive
+Patients known to be human immunodeficiency virus (HIV) positive
+Known human immunodeficiency virus (HIV) positive or HIV-related malignancy.
+Known human immunodeficiency virus (HIV) positive (testing not required).

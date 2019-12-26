@@ -1,0 +1,9 @@
+Hemoglobin >= 8.0 g/dL (may receive red blood cell [RBC] transfusions)
+For patients with solid tumors without known bone marrow involvement: hemoglobin >= 8.0 g/dL (may receive red blood cell [RBC] transfusions)
+For patients with solid tumors without known bone marrow involvement: hemoglobin >= 8.0 g/dL (may receive red blood cell [RBC] transfusions)
+* Hemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)
+Hemoglobin >= 10 g/dL (not requiring red blood cell [RBC] transfusions)
+Hemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)
+Hemoglobin >= 10.0 g/dL (may receive red blood cell [RBC] transfusions)
+Hemoglobin >= 10 g/dL (not requiring red blood cell [RBC] transfusions)
+Hemoglobin >= 8.0 g/dL (may receive red blood cell [RBC] transfusions) for patients with solid tumors without bone marrow involvement

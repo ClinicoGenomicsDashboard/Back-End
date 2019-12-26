@@ -1,0 +1,4 @@
+Cluster 107: cancer melanoma situ malignancy cervical skin non second carcinoma years 
+Cluster 378: situ carcinoma cervical cancer years skin basal malignancy melanoma cell 
+Cluster 570: cancer prostate skin malignancy situ melanoma non years cervical carcinoma 
+Cluster 2211: carcinoma situ cured cervical skin malignancies ductal melanomatous invasive non 

@@ -1,0 +1,29 @@
+STEP  CROSSOVER REGISTRATION (OPTIONAL): Patients must have documented disease progression while on CETIRI (Arm ) on this protocol; the Follow-up Tumor Assessment Form documenting disease progression must be submitted to Southwest Oncology Group (SWOG) prior to step  crossover registration; registration to step  crossover must be within  days of discontinuation of CETIRI protocol treatment; patients going off treatment for any other reason are not eligible
+STEP  CROSSOVER REGISTRATION (OPTIONAL): Patients must have a Zubrod performance status of  or 
+STEP  CROSSOVER REGISTRATION (OPTIONAL): ANC >= ,/mcL within  days prior to step  crossover registration
+STEP  CROSSOVER REGISTRATION (OPTIONAL): Platelets >= ,/mcL within  days prior to step  crossover registration
+STEP  CROSSOVER REGISTRATION (OPTIONAL): Hemoglobin >=  g/dL within  days prior to step  crossover registration
+STEP  CROSSOVER REGISTRATION (OPTIONAL): AST and ALT both =<  x institutional upper limit of normal (IULN) within  days prior to step  crossover registration
+STEP  CROSSOVER REGISTRATION (OPTIONAL): Bilirubin =< . mg/dL within  days prior to step  crossover registration
+STEP  CROSSOVER REGISTRATION (OPTIONAL): Calculated creatinine clearance >  ml/min within  days prior to step  crossover registration
+STEP  CROSSOVER REGISTRATION (OPTIONAL): Patients must have left ventricular ejection fraction (LVEF) >= % or >= lower limit of normal for the institution by echocardiogram within  days prior to step  crossover registration
+STEP  CROSSOVER REGISTRATION (OPTIONAL): Patients must have a magnesium, potassium, calcium, sodium, bicarbonate, and chloride performed within  days prior to step  crossover registration
+Patients must have completed study drug on arm  of A (i.e., last dose of nivolumab) =<  months of re-registration to crossover dual agent therapy
+STEP  (CROSSOVER ARM FOR PATIENTS WITH PROGRESSIVE DISEASE)
+The patient must have met all eligibility criteria (except as detailed below) at the time of crossover\r\n* RECIST defined measurable disease is not required\r\n* Only prior systemic therapy as part of step  is allowed; patients who received allowed systemic therapy in the adjuvant setting prior to Step  and were eligible for Step  are not excluded from proceeding to Step  if they meet other eligibility criteria\r\n* Malabsorption, swallowing difficulty, or other conditions that would interfere with the ingestion or absorption of dabrafenib or trametinib, or history of retinal vein occlusion are acceptable for patients crossing over to ipilimumab + nivolumab treatment\r\n* History of autoimmune disease, excluding interstitial lung disease or pneumonitis, is allowed in patients crossing over to dabrafenib/trametinib therapy\r\n* Patients crossing over from nivolumab/ipilimumab to dabrafenib/trametinib who underwent surgery or SRS to CNS metastases need not be off of steroids to start treatment \r\n* There is no restriction on serum LDH at crossover\r\n* Patients with a history of cardiovascular risks that developed during step  of therapy should be discussed with study principal investigator (PI) at time of crossover
+REGISTRATION STEP : CROSSOVER
+STEP  CROSSOVER REGISTRATION:
+Registration to Step  Crossover must be within  days of discontinuation of Arm  protocol treatment; patients going off treatment for any other reason are not eligible
+CROSSOVER (STEP ) REGISTRATION: Patients must have progressed systemically on Arm  of this study (pemetrexed monotherapy)
+CROSSOVER (STEP ) REGISTRATION: Patients must be registered to crossover (Step ) within  days of discontinuing treatment on Arm  of this study
+CROSSOVER (STEP ) REGISTRATION: ANC >= ,/ul
+CROSSOVER (STEP ) REGISTRATION: Platelet count >= ,/ul
+CROSSOVER (STEP ) REGISTRATION: Hemoglobin >=  g/dL
+CROSSOVER (STEP ) REGISTRATION: Serum bilirubin =<  X IULN
+CROSSOVER (STEP ) REGISTRATION: SGOT (AST) or SGPT (ALT) =< . x IULN
+CROSSOVER (STEP ) REGISTRATION: Male patients must have free and total testosterone level obtained within  days prior to crossover (Step ) registration
+CROSSOVER (STEP ) REGISTRATION: Patients must have Zubrod performance status - within  days prior to crossover (Step ) registration
+ELIGIBILITY CRITERIA FOR CROSSOVER REGISTRATION
+INCLUSION CRITERIA FOR CROSSOVER THERAPY
+CROSSOVER RE-REGISTRATION - INCLUSION CRITERIA
+Treatment cannot begin prior to re-registering to the crossover phase and will ideally begin =<  days after registration for the crossover phase

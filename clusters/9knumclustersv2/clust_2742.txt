@@ -1,0 +1,147 @@
+At least one site of metastatic disease or primary disease must be determined by radiation oncologist to be treatable with radiation.
+Patients must be a candidate for surgery (as per treating surgeon) and be able to tolerate proton radiation and chemotherapy (as per treating radiation oncologist and medical oncologist)
+Patients not able to receive standard-dose cisplatin based on the judgement of the treating medical oncologist
+Willing to agree that the local medical oncologist may be informed that patient has agreed to participate in the study
+Hemoglobin >= . g/dl (recommended cutoff subject to judgment of medical oncologist), but cannot be transfusion dependent
+Participants must have a diagnosis of brain metastases for which SRS is indicated, as determined by a radiation oncologist
+Deemed a suitable candidate for radiation therapy by the treating radiation oncologist as documented in a standard pretreatment visit per standard practice at each participating institution
+Patients must be able to receive protocol chemotherapy in the judgment of the treating medical oncologist
+Only patients for whom their neuro-oncologist has planned to give bevacizumab and temozolomide mg/m^/day as part of their treatment are eligible for this study
+Patients must be evaluated by a thoracic surgeon, pulmonologist or medical oncologist and deemed medically or surgically unacceptable for resection.
+Patient must have a primary medical or surgical oncologist in the community or at NCI who is willing to collaborate with the ROB staff in the clinical management of the patient
+Is eligible for palliative radiotherapy as determined by the treating radiation oncologist.
+Planned for multidisciplinary evaluation by a breast surgical oncologist and breast radiation oncologist. For patients undergoing mastectomy and desirous of reconstruction or those undergoing breast conservation in whom oncoplastic local tissue rearrangement or reduction mammoplasty is being considered, this multidisciplinary evaluation will also include a plastic surgeon
+Any other condition that may not allow safe use of chemotherapy based on the clinical judgment of the treating oncologist
+Patients with histologically confirmed HCC (documentation of original biopsy for diagnosis is acceptable if tumor tissue is unavailable) or clinical diagnosis by American Association for the Study of Liver Diseases (AASLD) criteria in cirrhotic subjects is required (presence of arterial hypervascularity with venous washout). For subjects without cirrhosis, histological confirmation is mandatory. The determination of resectability status will ultimately lie in the clinical judgment of the surgical oncologist and medical oncologist involved in the care of the patient
+Clinical or radiographic evidence of disease progression during treatment with PD- or PD-L inhibiting therapy\r\n* Note: Both the treating medical oncologist and radiation oncologist must be in agreement with determination of disease progression
+Determination by the treating radiation oncologist that the patient is a candidate for SRT (i.e., radiation therapy with a stereotactic setup)\r\n* Note: All brain metastases will receive SRT
+Must have outside endocrinologist/medical oncologist who can follow the patient after receiving peptide receptor radionuclide therapy (PRRT) at the NIH
+Evaluation by the treating medical oncologist (or if systemic therapy is being given outside Stanford, by the Stanford consulting medical oncologist) must show:\r\n* The patient is expected to continue on immunotherapy for at least three more months\r\n* Imaging must show response, stable disease, or modest progression\r\n* If there is modest progression, the patient must be clinically stable in terms of performance status and overall disease-related symptoms
+Medically inoperable or patient refusal to surgery as defined by any single of the following criteria\r\n* Determined unfit for surgery by thoracic surgeon or radiation oncologist as documented in the medical record\r\n* Pulmonary function tests (PFTs) showing forced expiratory volume in  second (FEV) =< . L or diffusion capacity of the lung (DLC) < %\r\n* Poor exercise tolerance or failed pre-operative cardiac work-up\r\n* Patient refusal to undergo definitive surgery as documented in clinical note by a surgeon, pulmonologist, medical oncologist, or radiation oncologist
+Clinically stage I disease by American Joint Committee on Cancer (AJCC) th edition (N, M, T stages T-Ta) or patients with stage TbNM disease (clinical stage IIA), as determined by a computed tomography (CT) chest, abdomen, pelvis or a positron emission tomography (PET) CT =<  days of treatment start, who are medically unfit for standard of care chemotherapy as documented by a medical oncologist or radiation oncologist, or who refuse standard of care chemotherapy as documented by a medical oncologist or radiation oncologist
+If during treatment planning, the target dose of radiation cannot be achieved within published limits of dose limiting organs in the opinion of the treating radiation oncologist, the patient will be ruled ineligible and treated off protocol
+General history and physical examination by a radiation oncologist and medical oncologist within  weeks prior to enrollment.
+Patients on concurrent anti-cancer therapy, unless specifically agreed to by the patient's medical oncologist and consenting professional
+Planned neoadjuvant chemotherapy for breast cancer as determined by the judgment of the medical oncologist
+Meet criteria for neoadjuvant chemotherapy or primary breast surgery, as determined by primary oncologist and surgeon
+Patients who do not have other options of treatment, based on consensus recommendation of the multidisciplinary SSRS tumor board; patients will have an appropriate medical oncologist for their disease
+Patient may not receive concurrent chemotherapy with reirradiation, other than temozolomide or bevacizumab given at the discretion of the treating neuro-oncologist
+The subject must be deemed appropriate for neoadjuvant endocrine therapy by the referring medical oncologist
+Resectable/operable or potentially resectable/operable breast cancer as determined by the treating surgical oncologist
+Inoperable breast cancer even after neoadjuvant treatment as assessed by the treating surgical oncologist
+cTis-T cancer judged to benefit (by treating radiation oncologist) from a tumor bed boost
+Patient eligible for SABR to the IVC tumor thrombus as decided by the treating radiation oncologist
+Subject has unresectable disease; i.e. in the opinion of the surgical oncologist, all of the subjects melanoma cannot be completely removed with a clear margin
+For subjects currently on active systemic cancer therapy, the treating medical oncologist should be consulted to ensure proper washout (if appropriate) periods prior to SRS
+EXCLUSION CRITERIA FOR ENROLLMENT: The patients life expectancy is =<  days even with aggressive treatment and/or supportive care, as determined by the treating hematologist/oncologist
+Evaluation by a surgical oncologist, radiation oncologist, and medical oncologist =<  days prior to registration
+Patients unable to receive cisplatin in the opinion of the medical oncologist
+Patients must have a minimum expected duration of survival of  weeks as determined and documented by the attending surgeon or medical oncologist
+Patients with any number of metastatic site are allowed to enroll; however, only up to six sites will be selected for SBRT treatment, at the discretion of the treating radiation oncologist
+Participants may have undergone prior chemotherapy for their uterine malignancy or may undergo chemotherapy in conjunction with adjuvant proton therapy per discretion of treating physicians; the agents, doses, routes and schedule of administration will be determined by their attending gynecologic oncologist or medical oncologist; for participants who have undergone prior chemotherapy, protocol radiation may commence no sooner than  days after the last chemotherapy treatment
+Participants with cervical cancer may undergo chemotherapy in conjunction with adjuvant proton therapy; the agents, doses, routes and schedule of administration will be determined by their attending gynecologic oncologist or medical oncologist
+Patients can be undergoing concurrent systemic therapy, such as temozolomide, at the discretion of their treating oncologist
+Temozolomide re-treatment is planned by the treating neuro-oncologist
+Planning target volume (PTV) must be encompassed in a reasonable SBRT portal as defined by the treating radiation oncologist
+Patients should have uncontrolled intercurrent illness, which in the opinion of the attending medical oncologist, would render the patient unsuitable for the study (i.e., preclude safe administration of the prescribed chemotherapy treatment).
+Patients must be eligible to have all lesions treated as determined by the study radiation oncologist.
+Patients can be undergoing concurrent systemic therapy, such as temozolomide, at the discretion of their treating oncologist.
+Known active malignancy as determined by treating medical and radiation oncologist.
+Patients must have a minimum expected duration of survival of greater than  weeks as determined and documented by the attending surgeon or medical oncologist
+Examination by Radiation Oncologist, Medical Oncologist, and Ear, Nose, Throat (ENT) or Head & Neck Surgeon within  days prior to registration
+DMG biopsy/resection is planned for the clinical care of the patient independent of study participation by the treating pediatric neurosurgeon and neuro-oncologist
+Cohort  (MTD) only: patient is thought to be a short- or long-term candidate for gemcitabine in the opinion of the treating oncologist
+Medical oncologist or consenting physician verifies that chemotherapy options exist after treatment with intracranial therapy, and that chemotherapy is planned to initiate after completion of radiation; or, survival as estimated by the medical oncologist or enrolling physician is >  months
+Brain metastases may be treated using gamma knife radiosurgery (GKR) or whole brain radiation therapy (WBRT) per the treating radiation oncologist; total radiation dose and number of fractions will be determined by the treating radiation oncologist based on anatomic and dosing constraints; magnetic resonance imaging (MRI) of the vertebral column is required for all patients with suspected epidural tumor extension
+Patients must be clinical American Joint Committee on Cancer (AJCC) stage IIIA or IIIB (AJCC, th ed.) with non-operable disease; non-operable disease will be determined by a multi-disciplinary treatment team, involving evaluation by at least  thoracic surgeon within  weeks prior to registration; Note: For patients who are clearly nonresectable, the case can be determined by the treating radiation oncologist and a medical oncologist, or pulmonologist
+Medically appropriate candidate for radical nephroureterectomy or ureterectomy as per MSKCC or a participating site attending urologic oncologist
+Consultation, agreement, and documentation in the patients chart by a radiation oncologist that patient is suitable to receive radiotherapy per this protocol
+Individuals who are already on antibiotics as prescribed by oncologist for any condition except paronychia
+History/Physical examination by a Radiation Oncologist and Medical oncologist prior to entering the study.
+Evaluation by a radiation oncologist within  days prior to study registration
+Evaluation by a medical oncologist within  days prior to study registration
+Ability to have breast conservation as determined by the judgment of the radiation oncologist, for which the radiation oncologist has determined that he or she will only treat the whole breast and not regional lymph nodes
+Patient must be considered able to tolerate systemic chemotherapy combined with pelvic radiation therapy, and a radical cystectomy (if necessary) by the joint agreement of the participating urologist, radiation oncologist, and medical oncologist
+Absence of anemia attributed to the plasma cell disorder*: hemoglobin >  g/dl or not more than  g/dL below the lower limit of normal\r\n* To be determined based on clinical and laboratory assessment by the primary oncologist
+Diagnosis of CNS metastases for whom SRS or WBRT is indicated, as determined by radiation oncologist assessment
+Systemic disease must be well-controlled or no evidence of disease (NED) in the opinion of the patients primary oncologist
+Prior systemic chemotherapy allowed; it is anticipated and suggested that most patients enrolled on study will have received a minimum of approximately  months of systemic therapy according to routine institutional practices; the patient must also be felt by the treating medical oncologist and radiation oncologist to be a candidate for treatment with gemcitabine/nab-paclitaxel chemoradiotherapy
+Patients must have a minimum expected duration of survival of greater than  weeks as determined and documented by the attending surgeon or medical oncologist
+Patient can be receiving bisphosphonate therapy per the treating oncologist's discretion.
+Medical oncologist agrees that four day window on curcumin alone is appropriate/safe prior to start of irinotecan for trial candidate
+All patients must be eligible to have either IMRT or IMPT as determined by the study radiation oncologist
+STEP  ENROLLMENT AND RANDOMIZATION: the patient must be a suitable candidate for LCT (radiotherapy and/or surgery) to every site of disease, as determined by the treating physician(s); consultation with a multidisciplinary team, including a medical oncologist, radiation oncologist, and thoracic surgeon, is encouraged but not required
+The patient must have a history and physical documented within four weeks of registration and be deemed by a medical oncologist to be ineligible for standard continuous course chemoradiotherapy with cisplatin
+Patient will undergo surgical resection as per consultation with their thoracic surgeon and medical oncologist
+Patient must have consulted with a radiation oncologist who is planning radiation; their radiation oncologist should have documented plans to administer a dose of at least  Gy in  or fewer fractions
+Disease must be encompassed in a reasonable SBRT portal as defined by the treating radiation oncologist
+PART II: The oncology participants must have study approved by oncologist responsible for management of care or follow up
+PART II: Per oncologist responsible for management of care or follow up, participant must have a predicted lifespan of -months or more
+Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase [SGOT]) =<  X institutional upper limit of normal OR a stable or a decreasing test value in patients who have undergone placement of an intrabiliary stent; both the treating radiation oncologist and medical oncologist must agree that the potential subjects test value is acceptable for study accrual
+Patients must have evidence for tumor recurrence or progression by MRI as determined by radiographic review of images by an attending neuro-oncologist or neuro-radiologist at UCSF
+Patient is considered a poor surgical candidate for removal of a renal mass as determined by pre-operative assessment due to the following factors or various combinations thereof:\r\n* Significant comorbidity precluding ability to deliver anesthesia, without compromised ability to undergo systemic chemotherapy with pazopanib as deemed by the Urologist and Medical Oncologist \r\n* Medically documented contraindication for surgery due to religion or risk of blood transfusion\r\n* Size or location of tumor deemed high risk for surgical intervention by Urologist\r\n* Unacceptable risk for anesthesia, such as history of malignant hyperthermia\r\n* Any one of these factors may or may not constitute unresectability, but for consideration for this trial, the surgical and medical oncologist must agree that the particular constellation of findings for the patient under consideration would likely entail a low probability (< %) that the tumor would be resectable (with negative margins) or that the potential morbidity associated with an attempt at surgical resection would not be clinically acceptable\r\n* The numerical thresholds noted above are only a guideline and the clinical judgment of the surgeon and medical oncologist will determine unresectability or if patient refuses surgery or other forms of local therapy; the histopathology for this cohort is limited to clear cell carcinoma of the kidney
+Eligibility for treatment with SRS confirmed by a radiation oncologist
+NOTE: patients  years of age or older must have approval from an oncologist or their designee to participate in this study
+NOTE: patients currently receiving warfarin must have approval from an oncologist or their designee to participate in this study
+PATIENT: They have cognitive or psychiatric conditions as determined by the treating oncologist to prohibit study consent or participation
+CAREGIVER: They have cognitive or psychiatric conditions as determined by the treating oncologist to prohibit study consent or participation
+Major psychiatric illness or comorbid conditions prohibiting compliance with study procedures as determined by the treating oncologist
+CLINICAL STAFF: Primary care physicians, radiation oncologist, medical oncologist and other providers (i.e. nurse practitioners, navigator, social worker etc.) who refer patients to thoracic clinic will also be recruited for interviews about delivery of tobacco treatment services
+Currently receiving or expected to start cytotoxic chemotherapy or immunotherapy within  week of study enrollment and additional dexamethasone cannot be used concurrently as per attending oncologist.
+Clinical indication for additional doses of the chemotherapy as determined by the patients oncologist
+Patients stable enough to undergo chemotherapy as determined by the patients oncologist
+They have cognitive or psychiatric conditions as determined by the treating oncologist to prohibit study consent or participation
+Significant uncontrolled psychiatric or other co-morbid disease, which the primary oncologist believes prohibits the ability to participate in study procedures
+Patients attending medical oncologist would not be surprised if the patient died in the next  months
+No obvious medical conditions or physical handicaps which would preclude an exercise regimen as determined by the radiation oncologist
+Patients currently on investigational therapies will be evaluated by the PI on a case by case basis and study participation approval will be obtained from the treating oncologist
+Women must be willing to receive follow up care either at Hopkins or with their local oncologist for at least  year
+Patients oncologist advises against the trial  in which case they can choose to receive stimulation with letrozole + gonadotropin
+PATIENTS: Planning to receive ongoing care from a participating oncologist.
+PATIENTS: Lacks decision-making capacity, as determined by the patient's oncologist.
+Approved to be contacted by the treating oncologist/nurse practitioner
+Have a documented visit with an oncologist during the previous -months
+The oncologist \would not be surprised if the patient died in the next year\
+Planning to receive ongoing care from a participating oncologist and willing to be seen at least monthly
+Treating oncologist consent
+Life expectancy of at least  weeks as deemed by the treating oncologist
+Receives ongoing care from a medical oncologist at the Seidman Cancer Center (SCC)
+The patient sample is limited to patients with advanced cancer and/or patients receiving ongoing care from a medical oncologist
+Definition of advanced cancer includes those patients who have metastatic or refractory disease according to their treating oncologist
+Treating oncologist consent
+Patients must complete the Physical Activity Readiness Questionnaire with No answers to all questions; if patient responds with any YES answers, OR IS OVER AGE , approval must be obtained from the patients primary care provider (PCP) or treating medical oncologist to participate in the study
+Written clearance for the procedure from the patients oncologist
+Post-menopausal, defined as:\r\n* Age >=  with no menses for at least  years\r\n* Chemically induced menopause through ovarian suppression, as determined by the primary oncologist
+Either the child or the parent has a mental health or medical condition that, in the opinion of investigators or the treating oncologist, would make it difficult to participate in the study
+Too sick to participate, as determined by the treating oncologist
+Participant must have non-curable cancer as judged by the primary oncologist
+They have cognitive or psychiatric conditions as determined by the treating oncologist that prohibits study consent or participation
+AYA PATIENTS ONLY: Patients that are not able to participate in the study due to their medical condition and/or treatment regimen will be excluded; such exclusion will be determined by the patients' treating oncologist in conjunction with patients' family members
+Patients who have seen an oncologist after undergoing first line treatment imaging
+ONCOLOGIST: Be a physician specializing in medical oncology
+ONCOLOGIST: Have a patient panel that will allow for >=  eligible patients to be enrolled in the study
+ONCOLOGIST: Be willing to attend the -session MODEL Care program for providers at the specified location, date, and time
+ONCOLOGIST: Planning to leave their current practice setting for other employment in the next  months
+PATIENT: Be receiving care from a medical oncologist enrolled in the study
+PATIENT: Be those whose attending medical oncologist would not be surprised if the patient died in the next  months
+RCT: Participants will include ovarian cancer patients who are considered by their primary oncologist to be candidates for IP/IV chemotherapy
+Subjects must be deemed ineligible for cisplatin-based combination chemotherapy by the attending medical oncologist.
+Medical clearance from attending oncologist or attending radiation oncologist to undergo a symptom-limited cardiopulmonary exercise test
+Medical clearance from primary attending oncologist to undergo a symptom-limited CPET and aerobic training intervention
+Permission from the attending medical oncologist if the patient is currently on an interventional cancer therapy trial
+All patients who are receiving chemotherapy and/or radiation therapy are eligible for study if they have completed >  week of radiation therapy, and if they have been approved to go on study by their primary oncologist; the principal investigator (PI)/designated research staff of this study will obtain and document approval from the primary oncologist and principal investigator of the clinical trial in case the patient is on another clinical trial as referenced in the patient's study documents
+ONCOLOGIST ELIGIBILITY REQUIREMENTS:
+Primary treating oncologist for at least one patient participant
+All patients who are receiving chemotherapy and/or radiation therapy are eligible for study if they have completed at least one cycle of chemotherapy or targeted therapy, or >  week of radiation therapy, and if they have been approved to go on study by their primary oncologist; the principal investigator (PI)/designated research staff of this study will obtain and document approval from the primary oncologist and principal investigator of the clinical trial in case the patient is on another clinical trial as referenced in the patient's study documents
+Approval by oncologist or surgeon
+At least one third of the oral cavity mucosa must be included in the RT fields, as estimated by the treating radiation oncologist
+For cohort A, only patients for whom their neuro-oncologist has planned to give bevacizumab with lomustine are eligible for this study
+For cohort B, only patients for whom their neuro-oncologist has planned to give bevacizumab monotherapy are eligible for this study
+Referral from an internist, oncologist, or surgeon for liver tumor ablation consultation
+Patients with vertebral lesions that, in the opinion of the principal investigator and the treating medical oncologist, pose an imminent risk for cord compression
+Evaluated by radiation oncologist to be appropriate SBRT candidate and scheduled to undergo SBRT as part of their care
+Surgeon and medical oncologist agree one week window trial is appropriate/safe for the patient and that surgery appointment/initiation of therapeutic systemic therapy can accommodate treatment schedule as outlined in the study schema
+Cancer survivors with no evidence of disease for at least  months as determined by the oncologist and no longer receiving cancer treatment
+Surgeon and medical oncologist agree one week window trial appropriate/safe for trial candidate and that surgery appointment can accommodate a  day (one week) treatment schedule
+Participant must be a hematologist, oncologist, nurse practitioner, or physician assistant who practices medicine in the Duke Cancer Network
+Referred to a plastic surgeon by their surgical oncologist for possible reconstruction

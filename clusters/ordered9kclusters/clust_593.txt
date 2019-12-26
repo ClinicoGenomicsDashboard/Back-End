@@ -1,0 +1,92 @@
+Patients with QTc interval > 470 milliseconds
+Patients with baseline prolongation of the rate-corrected QT interval (QTc) (e.g., repeated demonstration of QTc interval > 480 milliseconds, or history of congenital long QT syndrome, or torsades de pointes)
+Corrected QT (QTc) interval =< 480 milliseconds
+Corrected QT (QTc) interval =< 480 milliseconds
+Marked baseline prolongation of QT/corrected QT (QTc) interval (e.g. demonstration of a QTc interval greater than 500 milliseconds)
+Corrected QT interval (QTc) of < 480 milliseconds
+Prolongation of QT corrected (QTc) interval to >480 milliseconds (ms)
+Clinically significant electrocardiogram (ECG) abnormality, including a marked baseline prolonged QT/QTc ([QT interval/corrected QT interval], e.g., a repeated demonstration of a QTc interval > 500 ms)
+Clinically significant electrocardiogram (ECG) abnormality, including a marked baseline prolonged QT/ corrected QT (QTc) ([QT interval/corrected QT interval], eg, a repeated demonstration of a QTc interval > 500 ms)
+Baseline QTc prolongation (e.g., repeated demonstration of QTc interval > 480 milliseconds or history of congenital long QT syndrome or torsades de pointes)
+History or presence of an abnormal ECG that, in the investigator's opinion, is clinically meaningful. Screening corrected QT (QTc) interval > 470 msec is excluded (corrected by Fridericia). If a single QTc is > 470 milliseconds, the subject may enroll if the average QTc for the 3 ECGs is < 470 milliseconds. For subjects with an intraventricular conduction delay (QRS interval > 120 milliseconds), the JTc interval may be used in place of the QTc with sponsor approval. The JTc must be < 340 milliseconds if JTc is used in place of the QTc. Subjects with left bundle branch block are excluded. Note: QTc prolongation due to pacemaker may enroll if the JTc is normal or with medical monitor approval.
+Baseline corrected QT (QTc) interval >= 480 milliseconds
+No previous history of corrected QT (QTc) prolongation as a result of medication that required discontinuation of that medication
+History or presence of an abnormal electrocardiogram (ECG) that, in the investigator's opinion, is clinically meaningful; screening corrected QT (QTc) interval > 470 milliseconds is excluded; in the event that a single QTc is > 470 milliseconds, the subject may enroll if the average QTc for the 3 ECGs is < 470 milliseconds; for subjects with an intraventricular conduction delay (QRS interval > 120 milliseconds), the corrected JT (JTc) interval may be used in place of the QTc with sponsor approval; the JTc must be < 340 milliseconds if JTc is used in place of the QTc; subjects with left bundle branch block are excluded\r\n* Note: QTc prolongation due to pacemaker may enroll if the JTc is normal
+History or presence of an abnormal electrocardiogram (ECG) that, in the investigator's opinion, is clinically meaningful; screening corrected QT (QTc) interval >= 480 milliseconds is excluded; in the event that a single QTc is >= 480 milliseconds, the subject may enroll if the average QTc for the 3 ECGs is < 480 milliseconds; for subjects with an intraventricular conduction delay (QRS interval > 120 milliseconds), the corrected JT (JTc) interval may be used in place of the QTc with the approval of the principal investigator; the JTc must be < 340 milliseconds if JTc is used in place of the QTc; subjects with left bundle branch block are excluded; note: QTc prolongation due to pacemaker may enroll if the JTc is normal
+Baseline prolongation of the rate-corrected QT interval (QTc) > 480 milliseconds or history of congenital long QT syndrome or Torsades de pointes
+Concomitant use of a drug with a known risk of corrected QT interval (QTc) prolongation
+Known QT interval prolongation
+Prolongation of corrected QT (QTc) interval to >480 milliseconds (msec) when electrolyte balance is normal
+Corrected QT (QTc) interval > 0.450 seconds (males) or > 0.470 seconds (females), or known history of QTc prolongation or Torsade de Pointes (TdP)
+Marked baseline prolongation of QT/corrected QT interval (QTc) interval (e.g. demonstration of a QTc interval greater than 500 milliseconds)
+Baseline prolongation of the rate-corrected QT interval (QTc; example, repeated demonstration of QTc interval > 480 millisecond [ms], or history of congenital long QT syndrome, or torsades de pointes).
+Marked baseline prolongation of QT/corrected QT (QTc) interval (QTc interval >= 500 msec) using the Fridericia method (QTc = QT/RR0.33) for QTc analysis
+Corrected QT (QTc) interval > 480 ms (>= grade 2) on a 12-lead electrocardiogram (ECG)\r\n* If baseline QTc on screening ECG is >= grade 2:\r\n** Check potassium and magnesium serum levels\r\n** Correct any identified hypokalemia and/or hypomagnesemia and repeat ECG to confirm exclusion of patient due to QTc\r\n* For patients with heart rate < 60 beats per minute (bpm) or > 100 bpm, manual read of the QT interval by a cardiologist is required, with Fridericia correction applied to determine Fridericia QTc (QTcF) which must be used to determine eligibility\r\n* Note: If heart rate is 60-100 bpm, manual read of the QT interval and correction to QTcF is not required
+Abnormalities on 12-lead electrocardiogram (ECG) considered by the investigator to be clinically significant (such as acute ischemia, left bundle branch block, ventricular arrhythmias) or baseline prolongation of the rate-corrected QT interval (e.g., repeated demonstration of QTc interval > 480 milliseconds)
+Baseline prolongation of the rate-corrected QT interval (QTc) (e.g. repeated demonstration of QTc interval > 480 milliseconds, or history of congenital long QT syndrome, or torsades de pointes)
+Patients with the following cardiac diagnoses: ventricular tachycardia or fibrillation; Torsades de pointes; clinically significant bradycardia; sinus node dysfunction; heart block; prolonged corrected QT (QTc) interval (QTc > 450 milliseconds for males, QTc > 470 milliseconds for females); valvular, ischemic, or pulmonary heart disease; cardiomyopathy; history of heart failure
+Screening corrected QT interval (QTc) interval > 470 milliseconds
+Marked baseline prolongation of QT/corrected QC (QTc) interval (e.g. demonstration of a QTc interval greater than 500 milliseconds)
+Corrected QT interval (QTc) prolongation > 450 milliseconds (msec)
+Prolongation of QTc interval to >480 milliseconds (ms)
+Prolongation of QT interval (QT)/corrected QT interval (QTc) (QTc interval > 470 ms) using the Fridericia method of QTc analysis
+Corrected QT (QTc) interval =< 480 milliseconds
+Baseline electrocardiogram (EKG) shows normal corrected QT interval (QTc) interval of =< 470 milliseconds (ms)
+Corrected QT (QTc) interval > 450 ms on screening 12-lead electrocardiogram (ECG)\r\n* If baseline QTc on screening ECG meets exclusion criteria:\r\n** Check calcium, potassium, and magnesium serum levels\r\n** Correct any identified hypocalcemia, hypokalemia, and/or hypomagnesemia and repeat ECG to confirm exclusion of patient due to prolonged QTc interval\r\n* For patients with heart rate (HR) 60-100 beats per minute (bpm), manual read of QTc is not required\r\n* For patients with a baseline HR < 60 bpm or > 100 bpm, manual read of the QT interval by a cardiologist is required, with Fridericia correction applied to determine QTc (ie, QTcF)
+Marked baseline prolongation of QT/QT corrected (QTc) interval (e.g. demonstration of a QTc interval greater than 500 milliseconds)
+Corrected QT interval (QTc) > 480 milliseconds as corrected by the Fridericia formula
+QTc interval >0.450 seconds (males) or >0.470 (females), or known history of QTc prolongation or Torsade de Pointes (TdP)
+A clinically significant electrocardiogram (ECG) abnormality, including a marked Baseline prolonged QT/QTc interval (e.g., a repeated demonstration of a QTc interval >500 milliseconds (msec)).
+History of prolonged QTc interval (e.g., repeated demonstration of a QTc interval > 450 milliseconds).
+Corrected QT interval duration prolongation
+No marked baseline prolongation of QT/QTc interval
+Baseline prolongation of the rate-corrected QT interval (QTc; example, repeated demonstration of QTc interval >480 millisecond [ms], or history of congenital, long-QT syndrome, or torsades de pointes).
+Have a corrected QT interval >470 milliseconds as calculated be the Fredericia equation.
+A clinically significant electrocardiogram (ECG) abnormality (ie, corrected QT interval [QTc] interval greater than 480 msec when electrolyte balance is normal), or a history of risk factors for torsade de pointes, hypokalemia, long QT syndrome, or the use of concomitant medications resulting in a prolongation of QTc interval.
+Known history or predisposition to QT interval prolongation
+Prolongation of QT/QTc interval
+Treatment with medications known to cause corrected QT (QTc) interval prolongation within 7 days of study day 1 is not permitted unless approved by the sponsor; use of ondansetron is permitted for treatment of nausea and vomiting
+Clinically significant electrocardiogram (ECG) abnormality, including a marked baseline prolonged QT/corrected QT (QTc) ([QT interval/corrected QT interval], e.g., a repeated demonstration of a QTc interval > 480 ms), a family or personal history of long or short QT syndrome, Brugada syndrome or known history of QTc prolongation, or torsade de pointes (TdP)
+Concurrent use of digoxin due to cardiac disease; corrected QT (QTc) interval >= 450 milliseconds in men and >= 470 milliseconds in women within 2 weeks of registration or known history of QTc prolongation or Torsades de Pointes
+Abnormalities on 12-lead electrocardiogram (ECG) considered by the investigator to be clinically significant or baseline prolongation of the rate-corrected QT interval (e.g., repeated demonstration of QTc interval > 480 milliseconds).
+Corrected QT interval (QTc)/QT Fridericia equation (QTf) interval >= 480 milliseconds; unless secondary to pacemaker or bundle branch block
+The QTc is the QT interval corrected for heart rate according to either Bazett's formula (QTcB)
+Participant has a corrected QT (QTc) interval > 470 ms or known history of QTc prolongation or Torsade de Pointes
+Corrected QT (QTc) prolongation, as defined by > 470 milliseconds on ECG
+Prolongation of corrected QT interval (QTc) > 480 milliseconds using Bazett’s formula
+Corrected QT interval (QTc) > 475 milliseconds
+The subject has a baseline corrected QT interval < 500 within 28 days before randomization
+Treatment with medications known to cause corrected QT (QTc) interval prolongation within 7 days of study day 1 is not permitted unless approved by the sponsor; use of ondansetron is permitted for treatment of nausea and vomiting
+Prolongation of corrected QT (QTc) interval to >480 milliseconds (ms)
+Clinically significant abnormality on electrocardiogram (ECG). The corrected QT interval (QTc, Fridericia) must be < 470 milliseconds for men and < 490 milliseconds for women (Must be confirmed by at least 2 additional 12-lead ECGs at least 2 minutes apart such that average manually over-read QTcF based on 3 ECGs exceeds stated thresholds)
+QTc interval >0.45 seconds
+Patients must not have QTc prolongation defined as a QTc interval equal to or greater than 450 milliseconds (msecs)
+Concurrent administration of crizotinib and agents that can cause corrected QT (QTc) prolongation is not permitted
+Participants with electrocardiogram (ECG) abnormalities considered by the investigator to be clinically significant, or repeated baseline prolongation of the rate-corrected QT interval (QTc).
+Participants with electrocardiogram (ECG) abnormalities considered by the investigator to be clinically significant, or repeated baseline prolongation of the rate-corrected QT interval (QTc).
+Corrected QT interval (QTc) > 470 msec on electrocardiogram (by Bazett’s; average of triplicate recordings at the discretion of the principal investigator [PI]) will exclude patients from entry on study; medications that are known to cause QTc interval prolongation are prohibited for patients entering on trial; patients for whom a given medication that may cause QTc interval prolongation cannot be discontinued, may be eligible at the discretion of the study PI, provided QTc interval criteria is met at enrollment
+Has marked prolongation of QTc interval at screening or baseline using the Fridericia method of correction for heart rate
+Clinically significant electrocardiogram (ECG) abnormality, including a marked Baseline prolonged QT interval/corrected QT interval ([QT/QTc], example, a repeated demonstration of a QTc interval >500 millisecond [ms]).
+Baseline prolongation of the rate-corrected QT interval (QTc) > 480 milliseconds, or history of congenital long QT syndrome, or torsades de pointes
+Patients with current evidence of significant cardiovascular disease (New York Heart Association class III or IV cardiac disease), symptomatic congestive heart failure, dilated/hypertrophic or restrictive cardiomyopathy, myocardial infarction (within the past 6 months), unstable angina, unstable arrhythmia or a need for anti-arrhythmic therapy (use of medications for rate control for atrial fibrillation is allowed such as calcium channel blockers and beta-blockers, if stable medication for at least last month prior to initiation of MK-2206 treatment and medication not listed as causing torsades de pointes), or evidence of acute ischemia on electrocardiogram (ECG); marked baseline prolongation of QT/QTc interval, e.g., repeated demonstration of a QTc interval > 450 msec*; long QT syndrome; the required use of concomitant medication that may cause torsades de pointes or may cause a significant prolongation of the QTc\r\n*Note: Due to difficulties assessing QTc in patients with heart block, they may be eligible if deemed safe by a cardiologist
+Must not have QT interval of >470 millisecond.
+Corrected QT (QTc) interval >= 500 milliseconds
+Concomitant medication that may cause Torsade de Pointes, i.e. prolongation of the QT interval > 500 msec
+History of familial long QT syndrome, or use of medications that may cause QTc interval prolongation
+Corrected QT (QTc) prolongation with other medications; if the medication can be discontinued and an alternative medication started that does not cause QTc prolongation, the patient would be eligible; if no alternative medication is available and the medication cannot be discontinued for medical reasons, then the patient would not be eligible
+Prolongation of corrected QT interval (QTc) > 480 milliseconds (msec)
+Patients must not have a marked baseline prolongation of QT/corrected QT (QTc) interval (e.g., demonstration of a QTc interval > 500 milliseconds (ms)
+Corrected QT interval (QTc) > 470 milliseconds on baseline electrocardiogram (ECG) (using corrected QT interval using Fridericia [QTcF] or Bazett [QTcB]); if electrolytes are abnormal, they may be corrected and baseline ECG should be repeated
+Patients may not currently be taking quinidine, ceritinib, highest risk corrected QT interval (QTc)-prolonging agents, mifepristone, or succinylcholine
+Clinically significant electrocardiogram (ECG) abnormality, including a marked baseline prolonged QT/QTc ([QT interval/corrected QT interval], e.g., a repeated demonstration of a QTc interval > 500 ms)
+EXCLUSION CRITERIA FOR CROSSOVER THERAPY: Clinically significant electrocardiogram (ECG) abnormality, including a marked baseline prolonged QT/QTc ([QT interval/corrected QT interval], e.g., a repeated demonstration of a QTc interval > 500 ms)
+Current evidence of cardiac arrhythmias defined as corrected QD interval (QTc) >= 480 mm/sec
+Patients with a known pathologic prolongation of the corrected QT (QTc)
+Corrected QT (QTc) interval within normal range for age
+Marked baseline prolongation of QT/corrected QT (QTc) interval (e.g. demonstration of a QTc interval greater than 500 milliseconds)
+Previous history of Corrected QT Interval (QTc ) prolongation resulting from medication that required discontinuation of that medication
+Patients with corrected QT (QTc) interval > 0.47 seconds
+Patients with baseline prolongation of the rate-corrected QT interval (QTc) (e.g., repeated demonstration of QTc interval > 480 milliseconds, or history of congenital long QT syndrome, or torsades de pointes) are ineligible
+Patients with current evidence of significant cardiovascular disease (New York Heart Association class III or IV cardiac disease), symptomatic congestive heart failure, dilated/hypertrophic or restrictive cardiomyopathy, myocardial infarction (within the past 6 months), unstable angina, unstable arrhythmia or a need for anti-arrhythmic therapy (use of medications for rate control for atrial fibrillation is allowed such as calcium channel blockers and beta-blockers, if stable medication for at least last month prior to initiation of romidepsin treatment and medication not listed as causing Torsades de Pointes), or evidence of acute ischemia on electrocardiogram (ECG); marked baseline prolongation of QT/QTc interval, e.g., repeated demonstration of a QTc interval > 450 msec*; long QT syndrome; the required use of concomitant medication that may cause Torsades de Pointes or may cause a significant prolongation of the QTc\r\n* Note: due to difficulties assessing QTc in patients with heart block, they may be eligible if deemed safe by a cardiologist; if a patient must take ondansetron as their antiemetic, their QTc may NOT be over 450 (no exception for patients with heart block)
+Corrected QT (QTc) prolongation with other medications that required discontinuation of that medication
+Prolongation of corrected QT interval (QTc) to >480 ms as demonstrated by a repeated electrocardiogram (ECG) or a clinically significant ECG abnormality, including a marked prolonged QT/QTc interval (eg, a repeated demonstration of a QTc interval >500 ms).

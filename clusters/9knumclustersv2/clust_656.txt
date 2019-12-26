@@ -1,0 +1,171 @@
+Serum creatinine =<  x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =<  x ULN
+Serum creatinine =< . x ULN (for treatment phase)
+Serum creatinine ? .  ULN
+Serum creatinine =< . ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine < . x ULN
+Have a serum creatinine ?.  ULN.
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN, OR
+Serum creatinine <  x ULN
+Serum creatinine =< . x the ULN
+Serum creatinine =< . x the ULN
+Serum creatinine =<  x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine <  x ULN
+Serum creatinine =<  x the ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . X ULN
+Serum creatinine ? . x ULN
+Serum creatinine =< .
+Serum creatinine ? .
+(For both cohorts A and B): Serum creatinine =< . x ULN
+Serum creatinine =< . x the ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN OR
+Serum creatinine =< . ULN
+Serum creatinine =< . x the ULN
+Serum creatinine > . ULN
+Serum creatinine < . x ULN
+Serum creatinine < . x ULN
+Serum creatinine ?. x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . X ULN
+Serum creatinine =< . x ULN
+Within  days prior to registration: Serum creatinine < . x ULN
+Serum creatinine =<  x ULN for age
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum Creatinine < . X ULN
+Creatinine serum levels ? . x ULN
+Serum creatinine > . x ULN
+Serum creatinine ?. x ULN
+Within  days prior to study entry: Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Has serum creatinine < .  ULN
+Serum creatinine =< . x ULN
+Serum creatinine < or = to . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =<  x ULN for age
+Serum creatinine =< . x ULN
+Serum creatinine =< .
+Serum creatinine < .
+Serum creatinine concentration < . x ULN
+Total serum creatinine ? .  ULN
+Serum creatinine < . x ULN
+Serum creatinine ?. x ULN
+Serum creatinine =< . x the ULN
+Serum creatinine =< grade 
+Serum creatinine =< . x ULN
+Serum creatinine >  x ULN
+Serum creatinine =< . x the ULN
+Serum creatinine =< 
+Serum creatinine < . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine > .  ULN. MDS Cohort:
+Serum creatinine at least .  ULN
+Serum creatinine =<  x ULN
+Serum creatinine =<  x ULN
+Serum creatinine > . x ULN
+Serum creatinine ? . x ULN
+Serum creatinine equal to or less than . x ULN
+Serum Creatinine ? .X ULN
+Serum creatinine <  x ULN
+Serum creatinine =< . x ULN
+Serum creatinine < . x ULN
+Serum creatinine < . x ULN
+Serum creatinine ? . x ULN
+Serum creatinine < . x ULN (within  days prior to registration)
+Within  weeks of administration of study therapy: Serum creatinine =< . x ULN
+Serum creatinine . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x the ULN
+Serum creatinine ? .  ULN
+Serum creatinine =< ULN
+Serum creatinine < . x ULN
+Serum creatinine =< . x the ULN
+Serum creatinine > . x ULN
+Serum creatinine =< . x the ULN
+Serum creatinine =< . x ULN
+Serum creatinine ?. x ULN
+Serum creatinine =< . x ULN
+Serum creatinine ? . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine >= .
+Serum creatinine =< . x ULN
+Serum creatinine < . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine less than or equal to  x ULN
+Serum creatinine =< . x ULN
+Serum creatinine <  x ULN
+Serum creatinine < . x ULN OR
+Serum creatinine =< . x ULN
+Serum creatinine =< . X ULN
+Serum creatinine =< . x ULN
+Serum creatinine concentration =<  x ULN
+Serum creatinine concentration <x ULN
+Serum creatinine ? . x ULN
+Within  weeks of randomization: Serum creatinine =< . x ULN
+Serum creatinine < . x of ULN
+Serum creatinine =< . x ULN
+Serum creatinine >.x ULN at screening
+Serum creatinine < . x ULN
+Serum creatinine =<  x ULN
+Serum creatinine =< . x the ULN
+Serum creatinine ? . x ULN
+Serum creatinine ? . x ULN
+Serum creatinine =< . x the ULN
+Serum creatinine =< . X ULN
+Serum creatinine ? . x ULN
+Serum creatinine < . x ULN or creatinine (Cr) > . x ULN, but calculated clearances of > 
+Serum creatinine =< . x ULN or creatinine (Cr) > . x ULN, but calculated clearances of > 
+Serum creatinine < . x ULN
+Serum creatinine (sCr) ? . x ULN;
+Serum creatinine =< . x ULN
+Serum creatinine > . x ULN.
+Serum creatinine =< . x ULN
+Serum creatinine ? . x ULN
+Serum creatinine < . x ULN
+Serum creatinine <  x ULN
+Serum creatinine < .  ULN
+serum creatinine ?. X ULN
+Serum creatinine ?. ULN.
+Serum creatinine =< . x the ULN
+Serum creatinine <  x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =<  x ULN
+Serum creatinine =< . x ULN
+Serum creatinine <  x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . X ULN
+Serum creatinine =< . x ULN
+Serum creatinine < . x ULN
+Serum creatinine >= . x ULN  days prior to study enrollment
+Serum creatinine =< . x the ULN
+Serum creatinine > .
+Serum creatinine greater than .
+Serum creatinine =< 
+Serum creatinine <  x ULN
+Serum creatinine < . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine =< . x ULN
+Serum creatinine ? . x ULN
+Serum creatinine < .
+Elevated serum creatinine of > 
+Serum creatinine =< . x ULN
+Serum creatinine =< within . x ULN
+Serum creatinine < . x ULN
+Serum creatinine < . x ULN

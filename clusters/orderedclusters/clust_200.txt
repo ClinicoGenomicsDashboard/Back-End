@@ -1,0 +1,8 @@
+Patients who have circumstances that will not permit completion of this study or the required follow-up
+164.0
+Patients whose circumstances do not permit completion of the study or the required follow-up
+360.0
+Participants with circumstances that will not permit completion of the study or required follow-up; for instance, if travel to and from treatment site is an issue
+90.0
+Patients with circumstances that will not permit completion of the study or the required follow-up
+52.0

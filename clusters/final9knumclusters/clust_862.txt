@@ -1,0 +1,108 @@
+Corrected QT (by Bazett's formula [QTcB]) interval < 450 msec
+QT interval corrected through use of Fridericia's formula (QTcF) > 470 milliseconds
+Fridericiaís corrected QT interval (QTcF) >/= 480
+Baseline Fridericia's correction formula (QTcF) < grade 2
+12-lead Electrocardiogram (ECG) with QT interval calculated by Fridericia Formula (QTcF) interval of ? 470 msec Fridericia Formula.
+Prolongation of corrected QT [QTcF (Fridericia's corrected QT interval)] interval to greater than 480 msec when electrolytes balance is normal
+QT duration corrected for heart rate by Fridericia's formula (QTcF) <450 msec or <480 milliseconds (msec) for subjects with bundle branch block.
+QT interval corrected using Fridericia formula (QTcF) > 500 msec on average of screening electrocardiograms (EKGs) performed within 28 days of first dose of cabozantinib; three EKGs must be performed at screening; if the average of these three consecutive results for QTcF is > 500 msec, the subject is ineligible
+Patients with a QT interval > 480 msec (using the Bazett's formula) within 28 days prior to registration are not eligible
+Have a heart-rate corrected QT interval using Fridericia's method (QTcF) >470 msec.
+Has electrocardiogram with a QT interval corrected for heart rate using Fridericia's formula (QTcF) > 470 msec or ECG with second degree type 2 or third degree atrioventricular block.
+On screening, any of the following cardiac parameters: interval between P and R (PR interval) >220 milliseconds (msec), interval between Q, R, and S (QRS) interval >109 msec, or QT interval corrected for heart rate using Fridericia's formula (QTcF) >450 msec;
+Cardiac Function: Fridericia's correction formula (QTcF) < 480 milliseconds (Fridericia correction), and ejection fraction (EF) >= 50%
+Participant has a Fridericia-corrected QT interval (QTcF) > 450 msec (average of triplicate determinations) per central read.
+Mean resting corrected QT interval (QTc) > 470 msec obtained from 3 electrocardiograms (ECGs), using the Screening clinic ECG machine and Fridericia's formula for QT interval correction.
+Corrected QT interval (QTc) < 470 msec (as calculated by the Fridericia correction formula [QTcF]).
+Mean resting corrected QT interval (QTcF) >470 msec obtained from 3 ECGs
+Fridericia's corrected QT interval (QTcF) =< 450 msec
+QTc interval calculated according to Fridericia's formula (QTcF = QT/RR0.33; RR = RR interval) of ? 450 msec on screening electrocardiogram (ECG).
+Corrected QT (QTc) interval (using Fridericia’s correction formula, QTcF, if prolonged) > 470 msec
+Patients must have a baseline electrocardiogram (ECG) with QT interval corrected by Fridericia's formula (QTcF) within the normal range within 28 days prior to registration
+12-lead Electrocardiogram (ECG) with QT interval calculated by Fridericia Formula (QTcF) interval of ? 470 msec
+Patients who have a QT interval corrected using Fridericia's formula (QTcF) of > 450 msec.
+Mean resting corrected QT interval (QTc) calculated using Fridericia's formula (QTcF) of >450 msec for males and >470 msec for females obtained from 3 electrocardiograms (ECGs) taken over 5 minutes
+COHORT 1: HORMONE RECEPTOR POSITIVE BREAST CANCER: Patients with a mean Fridericia's correction formula (QTcF) interval of > 500 msec or receiving therapeutic agents known to prolong the QT interval
+QT interval corrected for heart rate using Fridericia's formula (QTcF) =< 500 msec
+A corrected QT interval calculated by the Fridericia formula (QTcF) > 500 milliseconds within 28 days before first dose of study treatment. Three electrocardiograms (ECGs) must be performed for eligibility determination. If the average of these three consecutive results for QTcF is =< 500 milliseconds, the subject will be eligible.
+Fridericia's corrected QT (QTcF) interval > 500 msec\r\nNote: Three electrocardiograms (ECGs) must be performed for eligibility determination; if the average of these three consecutive results for QTcF is =< 500 msec, the subject meets eligibility in this regard
+Have a Fridericia's QT corrected interval (QTcF) interval of >450 milliseconds (msec) for males and >470 msec for females on screening electrocardiogram (ECG) utilizing Fridericia's correction.
+Baseline prolongation of the QT interval corrected for heart reate (HR) using Fridericia's formula (QT interval corrected for heart rate using Fridericia's formula (QTcF); example, repeated demonstration of QTcF interval >480 millisecond (ms), history of congenital long QT syndrome, or torsades de pointes).
+Corrected QT using Fridericia's formula (QTcF) prolongation.
+Corrected QT using Fridericia's formula (QTcF) > 500 msec within 1 month before the first dose of study treatment:\r\n* Three electrocardiogram (ECG)s must be performed for eligibility determination; if the average of these three\r\nconsecutive results for QTcF is =< 500 msec, the subject meets eligibility in this regard
+Any of the following cardiac criteria: Mean resting corrected QTc interval using the Fridericia formula (QTcF) greater than 450 msec/male and greater than 470 msec/female or congenital long QT syndrome
+Screening 12-lead ECG showing a baseline QT interval as corrected by Fridericia's formula (QTcF) > 500 milliseconds (msec). Participants who have a pacemaker may be included regardless of calculated QTc interval
+Prolonged corrected QT interval by the Fridericia correction formula (QTcF) on screening electrocardiogram (EKG) > 480 msec
+Corrected QT interval calculated by the Bazett formula (QTcB) > 480 msec
+QTcF interval at screening <450 msec (using Fridericia's correction)
+A corrected QT interval (QTc) ? 480 msec using the Fridericia's formula (QTcF)
+Fridericia's corrected QT interval (QTcF) > 470 msec using the Fredericia formula
+Corrected QT Interval Fridericia (QTcF) > 450 msec (both genders)
+Fridericia's correction formula (QTcF) > 480 msec (males and females)
+QTcF (Fridericia formula for the QT interval correction for the heart rate) > 480 msec within 4 weeks of enrollment; if the initial QTcF is found to be > 480 msec, two additional electrocardiograms (EKGs) separated by at least 3 minutes should be performed; if the average of these three consecutive results for QTcF is =< 480 msec, the subject meets eligibility in this regard; subjects with history of congenital long QT syndrome, or torsades de pointes, are not allowed
+Has a QT interval corrected by Fridericia's formula (QTcF) ?480 msec
+Pre-treatment Fridericia's correction formula (QTcF) > 480 msecs
+Baseline QTc >470 msec measured by Fridericia's formula (QTcF) and/or previous history of QT prolongation while taking other medications. Concomitant use of medications associated with a high incidence of QT prolongation is not allowed.
+QT interval corrected using Fridericia’s method (QTcF) < 460 msec
+Mean resting corrected QTc interval using the Fridericia formula (QTcF) > 450 msec/male and > 470 msec/female (as calculated per institutional standards) obtained from 3 electrocardiograms (ECGs) 2-5 minutes apart at study entry, or congenital long QT syndrome
+Corrected QT interval using Fridericia's formula (QTcF) interval of > 450 msec at study entry; congenital long QT syndrome
+Corrected QT interval by Fridericia's formula (QTcF) > 500 msec within 1 month before the first dose of study treatment\r\n* Three electrocardiography (ECG)s must be performed for eligibility determination; if the average of these three consecutive results for QTcF is =< 500 msec, the subject meets eligibility in this regard
+Baseline QT Fridericia's correction formula (QTcF) ? 470 msec
+Corrected QT interval (QTc) prolongation > 480 msec, as calculated by either the Bazett or Fridericia formula, as per institutional standard
+A QT interval corrected for heart rate using the Fridericia’s formula (QTcF) >= 470 msec on screening exam
+Fridericia's correction formula (QTcF) > 470 msec on screening electrocardiography (ECG) or congenital long QT syndrome
+Patient has a QT interval adjusted by the Fridericia formula (QTcF) > 480 msec on screening electrocardiogram (ECG).
+QT interval corrected using Fridericia's formula (QTcF) >470 msec or history of prolonged QT syndrome or Torsades de pointes, or familial history of prolonged QT syndrome.
+Corrected QC interval calculated using Fridericia's formula (QTcF) =< 500 msec; ONLY APPLICABLE for patients with NF2 mutation (GSK2256098)
+Has a QT interval corrected by Fridericia's formula (QTcF) =< 450 msec
+Patients with a mean QT interval corrected by Bazett's formula (QTcB) > 450 msec in males and > 470 msec in females
+At screening QT interval corrected by Fridericia's formula (QTcF) >= 450 msec
+Clinically significant abnormal 12-lead ECG, QT interval corrected using Fridericia's\n             method (QTCF) greater than 450 msec
+Corrected QT using the Fridericia formula (QTcF) < 470 msec
+Subject has a corrected QT by the Fridericia formula (QTcF) > 480 msec on the screening electrocardiogram (ECG) (using the QTcF formula)
+QT interval adjusted according to Fridericia (QTcF) > 480 msec on screening electrocardiography (ECG)
+QT interval corrected by Fridericia's formula (QTcF) > 450 msec on screening electrocardiogram (ECG)
+QT interval corrected for Fridericia formula (QTcF) at screening > 470 msec
+Has a QT interval corrected by Fridericia's formula (QTcF) ?450 msec
+Mean resting corrected QT interval (QTc using Fridericia’s formula [QTcF]) > 470 msec
+Has a QT interval corrected by Fridericia's formula (QTcF) ?480 msec
+Has a QT interval corrected by Fridericia's formula (QTcF) less than or equal to (<=) 480 milliseconds (msec)
+Has a QT interval corrected by Fridericia's formula (QTcF) ?480 msec
+Have normal QT interval on screening ECG evaluation, defined as QT interval corrected (Fridericia) (QTcF) of ?450 milliseconds (msec) in males or ?470 msec in females.
+Corrected QT interval > 480 msec (using the Fridericia formula)
+QTcF interval at screening < 450 msec (using Fridericia's correction).
+Corrected QT using Fridericia's correction formula (QTcF) =< 480 msec
+The calculated Fridericia's corrected QT interval (QTcF) average of the triplicate electrocardiograms (ECGs) must be < 470 msec
+The participant has a QT interval calculated using Bazett's formula (QTcB) interval of >450 milliseconds (msec) for males and >470 msec for females on screening electrocardiogram (ECG).
+Mean resting corrected QT interval (Fridericia formula for QT interval correction [QTcF]) > 480 msec obtained from 3 electrocardiograms (ECGs)
+QTcF interval at screening >450 msec (using Fridericia's correction)
+Fridericia's formula (QTcF), or another method, machine or manual overread.
+Patients with a corrected QT using Fridericia's formula (QTcF) or corrected QT using Bazett's formula (QTcB) > 480 ms in the baseline electrocardiogram (EKG)
+Baseline Bazett's correction formula (QTcB) >= 470 msec
+Screening electrocardiogram (ECG) with a corrected QT interval using Fridericia's formula (QTcFredericia)(QTcF) > 450 msec
+Clinically significant active cardiovascular disease or history of myocardial infarction within 3 months prior to planned start of LOXO-195 or prolongation of the QT interval corrected (QTcF) > 480 msec within the past 6 months
+A QT interval corrected for heart rate using Bazett's formula QTcB >= 480 msec
+Subjects have a mean QT interval corrected by the Fridericia Correction formula value of >470 msec (in females) or >450 msec (in males)
+Patients with a corrected QT interval using Fridericia's formula (QTcF) interval of > 450 msec on screening electrocardiogram (ECG); Note: if > 450 msec on the first ECG, 2 additional ECGs can be ordered same day and then the average may be used to determine eligibility
+Mean resting corrected QT interval (QTc using Fridericia’s formula [QTcF]) > 470 msec
+Have Fridericia-corrected QT interval (QTcF) >480 milliseconds on screening electrocardiogram (ECG).
+Congenital long QT syndrome or QT interval corrected using Fridericia's formula (QTcF) >470 milliseconds (msec)
+Corrected QT interval using Fridericia's formula (QTcF) interval equal to or less than 470 msec
+Patients who have, at screening, corrected QT interval using Fridericia's formula (QTcF) >= 450 msec for males and QTcF >= 470 for females
+A QT interval corrected for heart rate using the Bazett's formula (QTcB) >=480 millisecond (msec);
+QT interval measurement corrected by Fridericia's formula (QTcF) interval of >450 msec (males) or >470 msec (females)
+A corrected QT interval >=480 msec (e.g. Bazett's formula [QTcB])
+Current long QT syndrome or baseline prolongation of QT/QTcF interval, i.e. demonstration of a QTcF interval > 450 msec
+Prolonged corrected QT interval by the Fridericia correction formula (QTcF) on the Electrocardiogram (ECG) > 470 msec.
+Must have a QT interval corrected for heart rate according to Fridericia's formula (QTcF) <470 milli seconds (msec) or <480 msec with bundle branch block.
+Normal ejection fraction (echocardiogram [ECHO] or cardiac MRI) >= 53% (or the institutional normal; if a range is given then the upper value of the range will be used); corrected QT (QTC) or Fridericia's correction formula (QTcF) =< 450 msec
+Corrected QT (QTc) interval > 500 msec (Bazett formula or Fridericia formula based on institutional standard)
+QT interval corrected for heart rate according to Fridericia's formula (QTcF) <450 milliseconds (msec) or QTcF <480 msec for subjects with bundle branch block.
+Fridericia's Heart Rate Correction Formula (QTcF) interval >450 msec;
+QT interval corrected using Fridericia's formula (QTcF) >450 milliseconds
+Fridericia's correction formula (QTcF) =< 470 msec
+Patients with a QT interval corrected by Fridericia's formula (QTcF) > 450 msec (QTcF > 480 msec for patients with bundle branch block)
+Prolongation of the corrected QT interval by Fridericia's formula (QTcF) interval defined as > 450 msec for males and > 470 msec for females
+Corrected QT (QTc) prolongation > 480 msec, as calculated by either the Bazett or Fridericia formula, as per institutional standard
+QTc > 450 msec on the average of three serial baseline ECG (using the QTcF formula). If QTcF > 450 msec and electrolytes are not within normal ranges, electrolytes should be corrected and then the patient re-tested for QTc.This exclusion criterion is not applicable for patients with non-measurable QT interval who have evidence of measurable QT interval at the time of CML diagnosis (e.g. prior to first start of TKI treatment) and who have no documented clinical signs of cardiovascular disease and/or clinical signs of conduction abnormality.
+Fridericia corrected QT interval (QTcF) >450 milliseconds (msec) (men) or >475 msec (women) on a 12-lead electrocardiogram (ECG) during the Screening period.

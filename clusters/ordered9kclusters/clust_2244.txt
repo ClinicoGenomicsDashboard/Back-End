@@ -1,0 +1,68 @@
+Known contraindication to receive cetuximab or irinotecan at the planned doses
+For Part C exclusively (RO6874281 in combination with cetuximab), participants with metastatic or recurrent or locally advanced squamous cell carcinoma of head and neck who have progressed on cetuximab maintenance therapy after cetuximab-containing chemotherapy or radiation therapy
+Planned to receive Erbitux™ (Cetuximab) or similar targeted therapy between Baseline and 6 weeks post-RT
+Naive to anti-EGFR therapy (cetuximab or panitumumab)
+PHASE I: Prior treatment with erlotinib, gefitinib or EGFR-blocking monoclonal antibodies (cetuximab and panitumumab) is allowed
+History of known hypersensitivity to cetuximab, docetaxel or similar agents
+Prior exposure to cetuximab in the metastatic (stage IV) setting
+Patients must be cetuximab-resistant by fulfilling at least one of the criteria defined below:\r\n* Disease persistence or recurrence within 6 months of completing definitive radiotherapy for locally advanced disease; radiation must have included concurrent cetuximab; induction chemotherapy, if given, may or may not have included cetuximab\r\n* Disease progression during, or within 6 months, of cetuximab treatment in the recurrent/metastatic setting\r\n* Prior cetuximab exposure may have occurred in any line of therapy (first line, second line, etc.) and cetuximab is not required to be the most recent therapy received
+Regimen C only (combination with cetuximab): Subjects with advanced metastatic EGFR+ solid tumors
+Known hypersensitivity to cetuximab or other EGFR antibody
+Cetuximab-naive patients may not have received cetuximab therapy in the recurrent/metastatic setting (treatment in curative setting permitted)
+Patient has had prior grade 4 infusion reaction to cetuximab
+Prior chemotherapy including cetuximab or radiation therapy
+Prior treatment with EGFR-targeted therapy, including, but not limited to, the following examples: Gilotrif (afatinib),Tarceva (erlotinib), Erbitux (cetuximab), Iressa (gefitinib), Vectibix (panitumumab), Caprelsa (vandetanib), Tykerb (lapatinib), CDX110, D2C7-immunotoxin)
+Any number or type of prior chemotherapy is allowed (patient may receive concurrent or adjuvant systemic therapy such as cetuximab at the discretion of the treating oncologic team)
+Progression following platin, 5-FU, cetuximab and taxane given for incurable disease
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Prior treatment with cetuximab or EGFR inhibitors in any treatment setting
+Patients must have failed platinum based therapy as well as cetuximab; if patients were found to be intolerant of standard first line systemic chemotherapy, patients are eligible to enroll to this study provided both cetuximab and cisplatin were administered prior to enrollment
+For study cohort A, has not had prior treatment with cetuximab, panitumumab, or other anti-EGFR therapy
+For study cohort B, must have had previous treatment with cetuximab or panitumumab with disease control (defined as complete response, partial response, or stable disease) lasting for ? 4 months in duration
+Ultimate progression through previous treatment with cetuximab, with documented clinical progression; patients who discontinued cetuximab for any other reason, such as decline in performance status, hypersensitivity, or other adverse effects of therapy, are not eligible
+Previous retreatment with cetuximab following progression on initial course of cetuximab therapy
+Known hypersensitivity to cetuximab or other EGFR antibody
+For CRC, prior treatment with cetuximab or panitumumab
+Phase II only: \r\n* Arm 1: disease progression after at least one cycle of prior treatment with cisplatin or carboplatin for incurable disease; prior treatment with cetuximab for incurable disease is not permitted\r\n* Arms 2 and 3: disease progression after at least one cycle of treatment with cetuximab for incurable disease
+Phase II, arm 1 only: prior treatment with cetuximab
+For Combination Expansion cohort only: prior treatment with cetuximab or panitumumab
+No prior treatment with cetuximab
+Prior use of cetuximab in the R/M disease treatment setting (except cetuximab during curative radiotherapy)
+Treatment with any additional Food and Drug Administration (FDA)-approved biologic agent (i.e. bevacizumab, cetuximab, or panitumumab) is allowed according to standard practice
+Prior treatment with cetuximab or panitumumab
+Patient has a known hypersensitivity to cetuximab or any other monoclonal antibody
+In the dose-finding phase, patients may be cetuximab-exposed or cetuximab-naïve; if the most recent line of therapy included cetuximab, a two-week washout period without cetuximab dosing is required
+In the dose-expansion phase, patients must be cetuximab-resistant by fulfilling at least one of the criteria defined below:\r\n* Disease recurrence within 6 months of completing definitive radiotherapy for locally advanced disease; radiation must have included concurrent cetuximab; induction chemotherapy, if given, may or may not have included cetuximab\r\n* Disease progression during, or within 6 months, of cetuximab treatment in the recurrent/metastatic setting; prior cetuximab exposure may have occurred in first, second and/or third line\r\n* If the most recent line of therapy included cetuximab, a two-week washout period without cetuximab dosing is required
+Tumor progression or recurrence within 6 months of the last dose of any number of platinum-based and cetuximab therapy lines in the adjuvant, primary, recurrent, or metastatic setting; must be resistant (not responding) to both platinum and cetuximab
+Patients must have had at least one prior treatment for metastatic disease with standard chemotherapy and cetuximab in combination or as monotherapy. [Note: patients who received panitumumab instead of cetuximab are eligible.]
+Prior grade 3 hypersensitivity to cetuximab requiring discontinuation\r\n* An exception is for a patient who could subsequently receive cetuximab without a reaction.
+Prior serious infusion reaction to cetuximab
+Patients to be enrolled in the Cetuximab or Panitumumab combination arms must have colorectal cancer which is K-Ras wild-type.
+Prior cetuximab, panitumumab, or other monoclonal antibody therapy allowed if given 28 days prior to the 1st infusion of armed T cells
+Known hypersensitivity to cetuximab or other EGFR antibody
+Documented objective response or stable disease lasting for 6 months or more to last prior anti-EGFR (cetuximab or panitumumab) in combination with irinotecan or FOLFIRI
+At least one previous line of treatment for the metastatic disease and the last treatment must have included cetuximab or panitumumab. Documentation of clinical benefit and subsequent progression on cetuximab or panitumumab as the most recent line of treatment is required for patients in the expansion part
+History of severe reactions to cetuximab and/or panitumumab (except for G3 rash and G3 hypomagnesaemia)
+For Phase Ib, prior cetuximab or other EGFR-targeted antibody therapy is allowed regardless of the prior treatment settings.
+For Phase II, Arms 1 and 2, prior cetuximab or other EGFR-targeted antibody therapy is allowed only if administered in the induction setting, or concurrently with radiation in the curative setting, with the last dose of cetuximab administered at least 12 months prior to starting the study treatment. For Arm 3, prior cetuximab must have been administered in the curative, recurrent or metastatic disease setting and disease progression documented within 9 months of the last dose of cetuximab administered in that setting. This regimen (including both platinum and cetuximab) must be the most recent anti-neoplastic treatment regimen administered.
+Patients with a prior serious infusion reaction to cetuximab
+Has never received cetuximab or panitumumab, and has not received any treatment for colorectal cancer within 30 days prior to the first dose of study treatment under this protocol;
+Has a known hypersensitivity to cetuximab, murine proteins, or any component of cetuximab;
+- cetuximab or panitumumab for patients with K-Ras wt or Ras wt tumours
+Prior discontinuation of cetuximab treatment due to toxicity or intolerance of cetuximab
+This includes but is not limited to cetuximab, panitumumab, erlotinib, geftinib, and lapatinib
+Patients must have recurrent SCCHN that has been previously treated with cetuximab as part of potentially curative therapy (i.e. with induction therapy, radiotherapy or chemoradiotherapy); the interval from completion of cetuximab and study treatment should be > 3 months
+One prior curative regimen (induction, primary or postoperative chemoradiotherapy) should have been given AND all patients should have been exposed to cetuximab as part of prior potentially curative treatment (i.e. with radiotherapy or induction therapy); the last cetuximab dose should be > 3 months
+Any number of prior regimens for recurrent or metastatic SCCHN (i.e. palliative treatment) but without cetuximab or another EGFR inhibitor
+Prior treatment with an EGFR inhibitor other than cetuximab at any time
+Plan to be treated with cetuximab (Erbitux®)
+Anticipated initiation of cetuximab treatment with or without additional chemotherapy
+Previous therapy with cetuximab within 6 months of consent
+History of infusion reactions to cetuximab or other monoclonal antibody therapies
+History of infusion reactions to cetuximab or other monoclonal antibody therapies
+Patients who have a serious reaction with the test/loading cetuximab dose for which they were not able to receive the full dose
+Prior treatment with cetuximab with tumor progression during or within 6 months after completing treatment.
+Monoclonal based therapies within 4 weeks (excluding cetuximab) and all other immunotherapy within 2 weeks prior to first dose of study treatment.
+History of infusion reactions to cetuximab or other monoclonal antibody therapies
+Subjects who have a serious reaction with the test/loading cetuximab dose for which they were not able to receive the full dose
+No prior treatment by cetuximab except if given for primary treatment (locally advanced disease) with no progressive disease for at least 4 months following the end of prior cetuximab treatment.
+For phase II only: Patients who received cetuximab or another inhibitor of epidermal growth factor receptor are excluded from the phase II of the trial, except if cetuximab was given as part of a primary treatment approach, with no progressive disease for at least 4 months following the end of prior cetuximab treatment.

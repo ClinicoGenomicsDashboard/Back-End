@@ -1,0 +1,8 @@
+Serum phosphorus, calcium, magnesium and potassium >= lower limit of normal (LLN), within 14 days before the first dose of cabozantinib
+Serum phosphorus >= lower limit of normal (LLN) within 7 days before the first dose of cabozantinib
+Calcium >= LLN within 7 days before the first dose of cabozantinib
+Magnesium >= LLN within 7 days before the first dose of cabozantinib
+Potassium >= LLN within 7 days before the first dose of cabozantinib
+Obtained within 28 days prior to the first dose of cabozantinib: serum phosphorus >= 2.5 mg/dl.
+Within 4 days prior to the first dose of cabozantinib: Serum phosphorus, calcium, potassium >= lower limit of normal (LLN)
+Within 7 days before the first dose of cabozantinib: Serum phosphorus, calcium, magnesium and potassium >= lower limit of normal (LLN)

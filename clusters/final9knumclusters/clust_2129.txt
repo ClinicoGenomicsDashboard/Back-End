@@ -1,0 +1,37 @@
+The subject has a KPS ? 70
+Subject has a KPS ? 60.
+Subjects must have a Karnofsky score (KPS) of ? 60 at Screening.
+KPS of ? 70 or ECOG of 0 to 1
+Modified KPS of < 80%
+KPS ? 60
+KPS >= 70%
+KPS >= 70%
+Patients aged 60 to 65 years must have a KPS of >= 80% and an HCT-CI score of 4 or less
+Patients aged 66 to 69 years must have a KPS of 90% and an HCT-CI score of 3 or less
+Patients aged 70 years or more must have a KPS of 90% and an HCT-CI score of 2 or less
+KPS performance >= 70%
+Patients must have adequate Karnofsky performance status (KPS) and hematopoietic cell transplantation comorbidity index (HCT-CI) scores:\r\n* Patients < age 60 years must have a KPS of >= 80% and an HCT-CI score of 5 or less\r\n* Patients aged 60 to 65 years must have a KPS of >= 80% and an HCT-CI score of 4 or less\r\n* Patients aged 66 to 69 years must have a KPS of 90% and an HCT-CI score of 3 or less\r\n* Patients aged 70 years or more must have a KPS of 90% and an HCT-CI score of 2 or less
+Patients must have KPS >/=70
+KPS Score < 60 (See \Definitions\ below)
+KPS equal to or greater than 70
+KPS < 70
+RPA class III (KPS < 70)
+Patients must have a Karnofsky performance status (KPS) rating of >= 60 prior to initiating treatment; patients may be enrolled at a KPS of < 60 if it is felt that the patient will have adequate opportunity to recover to a KPS >= 60 by the initiation of treatment
+KPS > 70
+Karnofsky performance status (KPS) >= 70% at time of enrollment; an exception will be made for those with lower KPS at enrollment with an acute worsening that is likely to resolve in the treating physicians judgment (e.g., reversible infection, trauma, medication reaction, etc)
+KPS 70% or greater
+KPS ?70.
+KPS must have been stable during the period from wash-out of prior therapy to randomization. A declining KPS is defined by reduction of 10 points or more over at least a 28-day period.
+Modified KPS of < 80%
+KPS 3 or worse
+KPS equal to or greater than 70
+KPS >/= 70
+KPS 60% or higher
+KPS>70
+Have KPS of ?60%
+KPS < 80
+RPA class III (KPS < 70%)
+KPS: at least 70
+KPS Score < 60 (See \Definitions\ below)
+Has a KPS score of >= 50
+KPS < 60%

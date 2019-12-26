@@ -1,0 +1,6 @@
+Cluster 266: invasive carcinoma dcis breast ductal diagnosis situ cancer multicentric biopsy 
+Cluster 643: curative treated prostate intent cancer situ carcinoma surgically negligible ductal 
+Cluster 1001: lobular carcinoma situ breast lcis ductal cancer dcis invasive hyperplasia 
+Cluster 1265: ductal carcinoma dcis situ breast invasive cancer treated diagnosis history 
+Cluster 1292: bladder cancer superficial radiation invasive prior history diagnosis patient tumor 
+Cluster 1772: invasive breast cancer bilateral diagnosis prior diagnosed history dcis non 

@@ -1,0 +1,267 @@
+Within  days after bone marrow biopsy confirmed remission after the patients recover from their last course of chemotherapy, the goal will be to consent the eligible patient prior to the remission confirmation bone marrow biopsy at the end of the planned chemotherapy); ideally, the research samples will be collected during the bone marrow biopsy, and the patient will be enrolled to the study within  weeks of the bone marrow biopsy; if there is delay to enroll the patient after the bone marrow biopsy and research sample collection, it is ok not to repeat bone marrow biopsy within  weeks, after the last bone marrow biopsy, if there is no sign of disease relapse; a repeat bone marrow biopsy should be done if the delay of enrollment is more than  weeks after the last bone marrow biopsy; patients with confirmed remission within  days after the last bone marrow biopsy, without research samples collection, should have a repeat bone marrow biopsy conducted within two weeks prior to enrolling on the study
+Bone marrow involvement (> %)\r\n* Note: bone marrow aspiration/biopsy can be performed at the time of diagnosis and does not need to be repeated unless there is a change in peripheral blood counts or it was performed more than  days prior to study entry
+Patients with bone marrow failure syndromes
+One of the following Ph-like ALL genetic lesions must be present in the diagnostic bone marrow or peripheral blood sample:
+STEP I: Patients must be diagnosed with symptomatic standard-risk multiple myeloma (SR-MM) as defined by all of the following (except gene expression profile [GEP] status if unknown):\r\n* No evidence of t(;) by fluorescence in situ hybridization (FISH) testing on bone marrow or not available\r\n* No evidence of t(:) by FISH testing on bone marrow or not available\r\n* No evidence of deletion p by FISH testing on bone marrow\r\n* FISH should be from within  days of registration\r\n** NOTE: If the FISH result states that no immunoglobulin heavy chain (IgH) abnormality is present, both t(;) and t(;) can be considered negative; in addition, if the patient has a t(;) or t(;) translocation present, they can be considered negative for t(;) and t(;); if testing for t(;) or t(;) could not be performed for lack of sufficient material or non-availability of the probe in the test panel, patients can be enrolled on the study\r\n* Standard Risk GEP signature within the past  days (only if GEP has been done and results are available)\r\n** NOTE: GEP testing is NOT a requirement for the study; if the test has been done, patients found to have a GEP status of high-risk will not be eligible\r\n* Serum lactate dehydrogenase (LDH) =<  x upper limit of normal (ULN) within the past  days\r\n* No more than % circulating plasma cells on peripheral blood smear differential or , plasma cells/microliter on white blood cell (WBC) differential of peripheral blood within the past  days\r\n** NOTE: This is NOT the plasma cell % from the marrow aspirate
+New diagnosis of B lineage ALL must be made upon bone marrow or peripheral blood immunophenotyping; cases with myeloid antigen expression, but unequivocal lymphoid immunophenotype, are eligible
+Bone marrow aspirates must be submitted for centralized minimal residual disease (MRD) assessment performed by the ECOG-ACRIN Leukemia Translational Research Laboratory
+Patients must have bone marrow biopsy performed within  days prior to registration
+Patients with histologic diagnosis (by institutional pathologist) of newly diagnosed Ewing sarcoma or peripheral primitive neuroectodermal tumor (PNET) arising from bone or soft tissue and with metastatic disease involving lung, bone, bone marrow, or other metastatic site
+For the purpose of this study metastatic disease is defined as one or more of the following:\r\n* Lesions which are discontinuous from the primary tumor, are not regional lymph nodes, and do not share a bone or body cavity with the primary tumor; skip lesions in the same bone as the primary tumor do not constitute metastatic disease; skip lesions in an adjacent bone are considered bone metastases; if there is any doubt whether lesions are metastatic, a biopsy of those lesions should be performed\r\n* Contralateral pleural effusion and/or contralateral pleural nodules\r\n* Distant lymph node involvement\r\n* Patients with pulmonary nodules are considered to have metastatic disease if the patient has:\r\n** Solitary nodule >= . cm or multiple nodules of >= . cm unless lesion is biopsied and negative for tumor\r\n** Patients with solitary nodule < . cm or multiple nodules < . cm are not considered to have lung metastasis unless biopsy documents tumor\r\n* Bone marrow metastatic disease is based on morphologic evidence of Ewing sarcoma based on hematoxylin and eosin (H&E) stains; in the absence of morphologic evidence of marrow involvement on H&E, patients with bone marrow involvement detected ONLY by flow cytometry, reverse-transcriptase (RT)-polymerase chain reaction (PCR), fluorescence in situ hybridization (FISH), or immunohistochemistry will NOT be considered to have clinical bone marrow involvement for the purposes of this study\r\n** This study requires bilateral bone marrow biopsies at study entry; the suggested approach for patients with large pelvic tumors in which a posterior iliac crest bone marrow biopsy would track through the tumor is to instead undergo  marrow biopsies on the contralateral side (either  posterior biopsies or one posterior and one anterior biopsy)\r\n* Bone metastasis: This study utilizes whole body FDG-PET scans to screen patients for bone metastases; areas suspicious for bone metastasis based on FDG-PET scans require confirmatory anatomic imaging with either MRI or computed tomography (CT) (whole body FDG-PET/CT or FDG-PET/magnetic resonance [MR] scan acceptable); whole body technetium bone scans may be performed at the discretion of the investigator and are not required; for patients without other sites of metastatic disease whose sole metastatic site to qualify for study entry is a single area suspicious for bone metastasis identified by FDG-PET, confirmatory biopsy or anatomic imaging evidence of an associated soft tissue mass at that site is required for study entry
+Patients must be newly diagnosed with a clinical diagnosis of APL (initially by morphology of bone marrow or peripheral blood)\r\n* Bone marrow is highly preferred but in cases where marrow cannot be obtained at diagnosis, peripheral blood will be accepted
+All newly diagnosed patients must have evidence of ALL in their marrow or peripheral blood with at least % lymphoblasts present in blood or bone marrow collected within  days prior to registration; all relapsed/refractory patients (Cohort ) must have at least % lymphoblasts present in blood or bone marrow collected within  days prior to registration; for relapsed/refractory patients, pathology and cytogenetics reports (both from time of original diagnosis) must be submitted at time of registration; if a bone marrow aspirate cannot be obtained despite an attempt (dry tap), appropriate immunohistochemistry (IHC) testing, including CD, must be performed on the bone marrow biopsy to determine lineage; for ALL in marrow or peripheral blood, immunophenotyping of the blood or marrow lymphoblasts must be performed to determine lineage (B cell, T cell or mixed B/T cell); appropriate marker studies including cluster of differentiation (CD) (B cell), must be performed; co-expression of myeloid antigens (CD and CD) will not exclude patients; if possible, the lineage specific markers (myeloid cells) should be determined; the blood/bone marrow sample for these assays must be obtained within  days prior to registration; patients with only extramedullary disease in the absence of bone marrow or blood involvement are not eligible
+Registration Step   Maintenance: Patients must have documented CR or CRi within  days prior to registration; note that bone marrow examination is only required if there are clinical signs/symptoms of progression; if progression is a concern due to the length of the time for count recovery, a bone marrow examination is recommended
+Hemoglobin >= . g/dL for patients with solid tumors and known bone marrow metastatic disease
+Subjects without bone marrow metastases must have an ANC > /?l to begin treatment.
+Subjects with a bone marrow biopsy which shows microscopic, low-level involvement of lymphoma are eligible
+Subject must be willing to provide fresh bone marrow samples during Screening (and prior to study treatment, if required).
+Bone marrow involvement with >= % lymphoblasts
+Not willing to undergo, not a candidate for, or not having a donor for immediate (within  months from the Screening date) bone marrow transplantation.
+Participants with any abnormal cytogenetics in the bone marrow not related to the lymphoma, and not deemed to be constitutional
+Patients are able and willing to provide bone marrow biopsies/aspirates as requested by the protocol
+Bone marrow specimen will be required at study entry; available deoxyribonucleic acid (DNA) sample from pre-induction bone marrow (BM) will be used for calibration step for MRD evaluation by gene sequencing
+A bone marrow biopsy must be performed within four weeks prior to cycle  day  treatment to establish the baseline fibrosis score, and consent is required prior to that bone marrow biopsy to assure tissue is collected for protocol mandated testing
+Bone marrow biopsy within  days of study drug infusion demonstrating at least % plasma cell involvement
+Receipt of radiotherapy to > % of bone marrow.
+Patients with relapsed or refractory SAA or very SAA defined:\r\n* Bone marrow (< % cellular)\r\n* Peripheral cytopenias (at least  of )\r\n** ANC <  per ml\r\n** Platelets < , per ml\r\n** Absolute reticulocytes (retic) < , or corrected retic < %\r\n* Very severe: as above, but ANC < \r\n* Disease may be designated as acquired or inherited if previous counts known (these other bone marrow failure disorders that are characterized by aplastic anemia may go by additional names such as dyskeratosis congenita or paroxysmal nocturnal hemoglobinuria [PNH])\r\n* Failed at least one course of immunosuppressive therapy (if presumed acquired disease); patients with inherited disease will be characterized as refractory and do not require immunosuppressive first
+Acquired aplastic anemia: severe aplastic anemia (SAA) is defined as follows:\r\n* Bone marrow cellularity < %, or marrow cellularity < % but with < % residual hematopoietic cells\r\n* Two out of three of the following (in peripheral blood): neutrophils < . x ^/L; platelets <  x ^/L; reticulocytes <  x ^/L\r\n* SAA diagnostic criteria may be applied to assessment at initial diagnosis or follow-up assessments
+Known bone marrow disorders which may interfere with bone marrow recovery or participants with delayed recovery from prior chemoradiotherapy
+? % bone marrow blasts with at least % cellularity at mid-cycle bone marrow biopsy or residual AML on subsequent~ day  bone marrow biopsy by morphology, flow, PCR or FISH
+Agree to undergo a tumor/bone marrow biopsy of at least one metastatic site
+Bone marrow cellularity < % or marrow cellularity < % but with < % residual hematopoietic cells.
+In the haplo cohort, the potential donor must be willing to donate bone marrow.
+Able to provide bone marrow biopsy samples
+Newly diagnosed lower GI grade II-IV aGVHD with clinical diagnosis based on modified Keystone criteria following allogeneic HSCT using bone marrow, peripheral blood stem cells, or cord blood. Grading of aGVHD will be based on International Bone Marrow Transplant Registry (IBMTR) criteria.
+Marrow cellularity =< % (as determined on all bone marrow samples)
+Bone marrow fibrosis that leads to a dry tap
+Measurable MRD in bone marrow within  days prior to registration (MPF method)
+Platelets >= , cells/mm^ for patients who have bone marrow plasmacytosis < % or >= , cells/mm^ for patients who have bone marrow plasmacytosis of >= %, obtained =<  days prior to registration
+Evidence of myelodysplasia or cytogenetic abnormality indicative of myelodysplasia on any bone marrow biopsy prior to initiation of therapy.
+Adults up to  y/o with any of following: acute leukemia (ALL or AML), myelodysplasia, aplasia, and/or therapy (chemotherapy or radiation) induced bone marrow aplasia or hypoplasia with thrombocytopenia (platelet count ? , and ? ,/?L) for a minimum of  days. May include bone marrow transplant or peripheral or cord blood stem cell recipients, but not subjects with Graft-vs-Host disease.
+Patients with known bone marrow metastatic disease will not be eligible
+Patients must have > % plasma cells in the bone marrow aspirate differential < days prior to enrollment. The required bone marrow evaluation will need to be repeated for patients who received more than  cycle of anti-myeloma therapy (corticosteroid with or without other anti-myeloma agents)
+Patients must meet the Thomas Jefferson University Hospital (TJUH) bone marrow transplant (BMT) standard of procedure (SOP) guidelines for Patient Criteria for Autologous HSCT
+Patients with cytopenias attributable to bone marrow lymphomatous bone marrow involvement per current bone marrow biopsy may be enrolled if other inclusion criteria are met
+Be willing to provide tissue from bone marrow biopsies
+Be willing to provide tissue from a bone marrow biopsy if suspected involvement and/or lymph node at enrollment as well as a repeat bone marrow biopsy (if involved at diagnosis) after  of therapy and at the time of progression and/or completion of therapy whichever comes first
+Has acute promyelocytic leukemia as diagnosed by morphologic examination of bone marrow, by fluorescent in situ hybridization or cytogenetics of peripheral blood or bone marrow, or by other accepted analysis.
+Another bone marrow malignancy
+Documented complete remission with full donor engraftment (by short tandem repeat [STR] identity testing) on day + bone marrow biopsy
+Platelet counts of >= , cells/mm^ for patients who have bone marrow plasmacytosis of < %, or platelets >= , cells/mm^ for patients who have bone marrow plasmacytosis of >= %
+Corticosteroids and hydroxyurea are permitted after screening bone marrow biopsy is performed and for up to  days prior to starting study therapy
+Bone marrow cellularity of > % with < % involvement with tumor
+Diffuse bone marrow involvement confirmed by super-scans
+Hemoglobin >= . g/dL  may be waived if abnormalities are due to disease related bone marrow involvement, within  days of study registration (within  days for pulmonary and cardiac assessments)
+Willing and able to undergo bone marrow aspiration and biopsy tissue sample collection during screening and on study
+Patients with prolonged pre-existing hematological toxicities including known indicators of bone marrow failure or abnormality
+CELL PROCUREMENT: Relapsed or refractory precursor B cell ALL:\r\n* Second or greater bone marrow relapse OR\r\n* Any bone marrow relapse > days after allogeneic stem cell transplant OR\r\n* Primary refractory ALL defined as no complete response after  cycles of a standard of care chemotherapy regimen OR\r\n* For adult subjects: first bone marrow relapse with duration of first complete response (CR) <  year OR CR duration >=  year and refractory to >=  cycle of therapy for treatment of relapse\r\n* Subjects with isolated non-central nervous system (CNS) extramedullary disease will be eligible as long as the time-of-remission criteria above for bone marrow relapses or primary refractory ALL are met and the biopsy for extramedullary disease confirms CD expression\r\n* For pediatric subjects: first bone marrow or isolated non-CNS extramedullary relapse refractory to  cycle of standard therapy for relapsed ALL\r\n* While active CNS leukemia will be excluded, subjects with concurrent CNS disease and bone marrow relapse who have responded to CNS-directed therapy prior to enrollment will be allowed to participate; intrathecal chemotherapy will be allowed to continue between lymphodepleting chemotherapy and cell infusion\r\n* Subjects with CNS disease and concurrent bone marrow relapse will be eligible; intrathecal chemotherapy will be allowed to continue between lymphodepleting chemotherapy and cell infusion
+Obtained =<  days prior to registration: Plasmacytosis < % or >= , cells/mm^ for patients who have bone marrow plasmacytosis of >= %
+Outside diagnostic material is acceptable as long as peripheral blood and/or bone marrow slides are reviewed at the study institution; flow cytometric analysis of peripheral blood and/or bone marrow should be performed according to institutional practice guidelines
+Bone marrow aspirates/biopsies should be performed within  +/-  days from registration to confirm disease remission status
+Persisting (>  weeks) severe pancytopenia due to hematologic disorder or due to previous therapy rather than disease (ANC < . x /L or platelets <  x /L) - to be confirmed via bone marrow biopsy, as part of normal clinical care, prior to signing of consent.
+Patients with bone marrow metastatic disease will not be eligible
+DONOR: Unable to provide a bone marrow allograft product
+Confirmed diagnosis of SAA (acquired or inherited), either from initial diagnosis or follow-up assessments, defined as:\r\n* Bone marrow hypocellularity is required and relative to patients age (normocellularity is - patient age in years)\r\n** Often marrow cellularity < % but with < % residual hematopoietic cells may be applied where appropriate at the discretion of the principal investigator (PI)\r\n* Two out of three of the following (in peripheral blood): neutrophils < . x ^/L, platelets <  x ^/L (without transfusions), reticulocyte count <  x ^/L
+The potential donor must be willing to donate bone marrow
+Outside diagnostic material is acceptable as long as peripheral blood and/or bone marrow slides are reviewed at the study institution by appropriate clinical staff; flow cytometric analysis of peripheral blood and/or bone marrow should be performed according to institutional practice guidelines
+High risk AML and MDS patients will be included; cohort : morphological relapse after stem cell transplant: \r\n* MDS patients: re-appearance of dysplastic changes in the bone marrow, with or without increase in bone marrow last count, which is pathologically consistent with myelodysplastic syndrome; \r\n* AML patients: bone marrow blast count >= %
+Congenital bone marrow failure syndrome
+Bone marrow tumour infiltration <% tumour cells.
+Patients receiving live vaccines due to the expected bone marrow toxicity (applicable to combination part only).
+Subjects must be able and willing to provide bone marrow biopsies/aspirates as requested by the protocol
+Patients with disease only in the bone may not have received Xofigo/radium  to avoid ongoing DNA damage in bone marrow
+Depressed bone marrow
+ANC ?  - cannot be transfused (must be ?  hours from last neutrophil infusion) However, the plt and ANC requirements can be waived if low counts thought to be secondary to leukemia or tumor bone marrow infiltration
+Bone marrow depression or hematologic parameters in the range that would increase the risk for severe bleeding
+Gastrointestinal or bone marrow or spleen only patients are allowable
+Non-secretory disease measurable with bone marrow biopsy or radiography.
+Bone marrow involvement with >= % lymphoblasts
+Patients with solid tumors not metastatic to bone marrow:
+Bone marrow specimen from diagnosis (or pre-induction) will be required at study entry; available deoxyribonucleic acid (DNA) sample will be used for calibration step for MRD evaluation by gene sequencing
+Multiple myeloma in complete remission is defined as per Durie BG et al.:\r\n* Negative immunofixation on the serum and urine and disappearance of any soft tissue plasmacytomas and =< % plasma cells in the bone marrow; CR requires two consecutive assessments by serum and urine immunofixation made at any time prior to enrollment; CR also requires no known evidence of progressive or new bone lesions if radiographic studies are performed; confirmation with repeat bone marrow is not needed
+Received previous radiotherapy to approximately > % of bone marrow
+Bone marrow (BM) harvest required to reach adequate cell dose for transplant
+INCLUSION CRITERIA FOR ENROLLMENT: Active relapse involving the bone marrow of a hematologic malignancy >=  months after allogeneic hematopoietic cell transplant (alloHCT) employing PTCy as GVHD prophylaxis
+No option for immediate bone marrow transplant unless patient refuses this therapy
+Able and willing to provide bone marrow biopsies/aspirates as requested by the protocol.
+History of a major organ allograft or condition requiring chronic immunosuppression, e.g., kidney, liver, lung, heart, bone marrow transplant, or autoimmune diseases; this includes treatment with corticosteroids within one month (dose of >=  mg/day methylprednisolone equivalent) (excluding inhaled steroids); patients who have received corneal transplants, cadaver skin, or bone transplants are eligible
+Bone marrow with tumor cells seen on routine morphology
+Patients with a diagnosis of acute myeloid leukemia (AML), acute lymphoblastic leukemia (ALL), or myelodysplastic syndromes (MDS) with fewer than % myeloblasts or lymphoblasts in the bone marrow and no blasts in the peripheral blood on morphologic analysis performed within  days of start of the conditioning regimen; if remission bone marrow is available beyond  days a new bone marrow evaluation is required to assess remission status\r\n* The diagnosis of AML, ALL, or MDS will be based on World Health Organization (WHO) criteria\r\n* Pre-transplant bone marrow sample must be evaluable for assessment of remission status (i.e. aspirate smear containing particles and/or evaluable bone marrow core biopsy)\r\n* Patients with leukemia infiltration in the central nervous system (CNS) are eligible if cerebrospinal fluid (CSF) cytospin is negative for myeloblasts or lymphoblasts at time of enrollment\r\n* If the patient has an intra-abdominal chloroma on presentation, and has a partial response or complete response to treatment (size reduction of chloroma and marrow blast < %), the patient is eligible; however the chloroma must be included as part of the treatment target
+Bone marrow with >= % lymphoblasts
+Diagnosis of AML according to World Health Organization (WHO) diagnostic criteria (at least % blasts in the peripheral blood or bone marrow), with French-American-British Cooperative group (FAB) classification other than M (acute promyelocytic leukemia), documented by bone marrow aspiration and biopsy performed within  days prior to administration of st dose of remission induction chemotherapy; if a bone marrow aspirate and biopsy were obtained within  days prior to the first dose of remission induction therapy then these tests may be submitted for review at University of Southern California (USC) and a repeat screening bone marrow does not need to be conducted
+Bone marrow hypocellular for age
+Patients must be able to provide blood and bone marrow samples and undergo the procedures required for this protocol
+Donor myeloid engraftment (from peripheral blood or bone marrow) of at least % documented =<  days from protocol therapy; a bone marrow engraftment analysis should show the cluster of differentiation (CD)+ fraction to be at least % for inclusion
+No evidence of extranodal disease outside the chest including spleen and bone marrow.
+Back-up autologous stem cells harvested from bone marrow
+Bone marrow (BM) harvest required to reach adequate cell dose for transplant
+Demonstrate NOXA BH priming of ?% by mitochondrial profiling in bone marrow or  - % for NOXA Exploratory Arm.
+Evidence of poor bone marrow function (bone marrow cellularity less than % with at least one cytopenia) OR
+Patients with no previous radiation or up to a maximum  cGy to non thoracic-spine and rib bone lesions or < % of bone marrow are eligible for TMI conditioning regimen
+Trephine biopsy is recommended (unless diagnosis can be confirmed by peripheral blood examination) in the event that bone marrow aspiration results in a \dry tap\
+Platelets >  x ^/L without transfusion and/or a bone marrow cellularity of >= %
+Diagnosis of hairy cell leukemia (HCL) established by bone marrow examination
+Presence of mutated BTK in ? % of peripheral blood or bone marrow CLL cells, or ?% and rising on two separate measurements obtained at least  days apart.
+Primary bone marrow failure;
+Has a bone marrow examination performed within  days before baseline (CD).
+Patient with documented mastocytosis and evaluable disease based upon histological criteria: typical infiltrates of mast cells in a multifocal or diffuse pattern in skin and/or bone marrow biopsy
+Relapsed following autologous bone marrow transplantation (BMT), or are ineligible, or refused BMT
+Palliative bone-directed radiotherapy is permitted unless involving an area of ? % of bone marrow reserves and occurring within  weeks prior to the start of study treatment;
+Is able and willing to provide protocol-defined bone marrow biopsies/aspirates Inclusion Criteria for Cohort  in Part  only:
+Adequate bone marrow function independent of growth factor support at screening unless clearly due to marrow involvement by CLL and/or disease-related immune thrombocytopenia; if cytopenias are due to disease in the bone marrow any degree of cytopenias are allowed; patients with active uncontrolled autoimmune cytopenias are excluded
+These hematologic function criteria must be met by all patients, regardless of bone marrow involvement with tumor
+FOR TISSUE COLLECTION TO ESTABLISH PDX (PART ): Patients must have bi-dimensional measurable disease as per Cheson criteria (bone marrow or gastrointestinal [GI] only involvement is acceptable).
+Patients with >= % of the bone marrow radiated for other diseases
+Bone marrow biopsy (BMBx) within  days prior to first study treatment.
+Subjects must be able and willing to provide bone marrow biopsies/aspirates and buccal mucosal sample as requested by the protocol
+Willing and able to undergo a pre-treatment bone marrow biopsy and subsequent on-treatment bone marrow biopsies
+Participants with a diagnosis of MDS secondary to paroxysmal nocturnal hemoglobinuria (PNH), aplastic anemia, or another inherited bone marrow failure disorder
+Acquired bone marrow failure syndromes
+Congenital bone marrow failure syndrome
+Patients with known bone marrow involvement are not eligible
+Phase  (Part A): patients with known bone marrow involvement are not eligible
+Patients who have not passed the nadir of bone marrow suppression from previous anti-myeloma therapy yet; if in doubt, serial complete blood counts (CBCs) with differential should be obtained
+Platelets >= , cells/mm^ for patients who have bone marrow plasmacytosis < % or >= , cells/mm^ for patients who have bone marrow plasmacytosis of >= % within  days prior to registration
+Bone marrow aspirates/biopsies should be performed within  (+  day window) days from registration to confirm disease remission status
+Medical or psychiatric reasons which make the donor unlikely to tolerate or cooperate with filgrastim (G-CSF) therapy or leukapheresis or bone marrow harvest
+Bone marrow lymphoplasmacytosis with:
+Beta-human chorionic gonadotropin (B-HCG) will be performed on all women of child-bearing potential as screening prior to enrollment on this trial; signal transducer and activator of transcription  (STAT) levels in the bone marrow will also be measured prior to enrollment; the B-HCG, STAT testing and bone marrow biopsy costs are not considered standard of care and have been included in the proposed budget
+Patients who received radiotherapy to more than % of their bone marrow
+Patients who received radiotherapy to more than % of their bone marrow
+Patients with greater than % involvement of the bone marrow with HL
+Patients must have documented WT + disease; for purpose of this study, this is defined as detectable presence of any WT transcript via RT-PCR on a bone marrow performed at MSKCC within  weeks prior to the administration of the first dose of vaccine
+Bone marrow cellularity of > % with < % involvement with tumor
+Patients must have a unilateral or bilateral bone marrow biopsy performed within  days prior to registration
+Diagnosed with PMF, PPV-MF or PET-MF as confirmed by bone marrow biopsy
+nd or greater Bone Marrow (BM) relapse OR
+Bone marrow with ? % lymphoblasts by morphologic assessment at screening
+Clonal bone marrow plasma cell percentage* ?%
+nd or greater Bone Marrow (BM) relapse OR.
+Bone marrow with ? % lymphoblasts by morphologic assessment at screening.
+Inaspirable bone marrow.
+quantifiable bone marrow infiltration documented in a bone marrow biopsy during screening
+At least Grade  marrow fibrosis according to the WHO Grading of Bone Marrow Fibrosis;
+Within  days prior to registration: Platelet count >= , cells/mm^ for patients who have bone marrow plasmacytosis < %; or >= , cells/mm^ for patients who have bone marrow plasmacytosis of >= %
+Morphological or cytological features of myelodysplasia and/or post chemotherapy aplasia on bone marrow (BM) assessment.
+RAEB  - defined as having % to % myeloblasts in the bone marrow.
+WHO defined AML with % to % myeloblasts in the bone marrow and <% myeloblasts in peripheral blood who are deemed by the investigator to be appropriate for azacitidine based therapy.
+Ability to undergo the study required bone marrow sample collection procedures.
+Acute promyelocytic leukemia as diagnosed by morphologic examination of bone marrow, by fluorescent in situ hybridization or cytogenetics of peripheral blood or bone marrow, or by other accepted analysis.
+Diagnosis of aplastic anemia, pure red cell aplasia, myelodysplasia or any of the other bone marrow failure states.
+Abnormal hematological function which is not due to bone marrow failure related to the CLL
+Outside diagnostic material is acceptable as long as peripheral blood and/or bone marrow slides are reviewed at the study institution; flow cytometric analysis of peripheral blood and/or bone marrow should be performed according to institutional practice guidelines
+Patients with elevated catecholamines (i.e., >  x ULN) only or bone marrow disease only are NOT eligible for this study
+Hematological values within the limits independent of growth factor support or transfusion unless cytopenia is caused by the underlying disease, i.e., no evidence of additional bone marrow dysfunction (e.g., myelodysplastic syndrome, hypoplastic bone marrow)
+Current use of any chemotherapy agent likely to cause myeloablation (severe or complete depletion of bone marrow).
+Subjects with clonal evolution in Ph+ cells observed in ? metaphases at baseline bone marrow cytogenetic test, unless the same abnormalities were present at diagnosis. Patients with no evidence of clonal evolution, including those patients whose cytogenetic testing fails or bone marrow aspiration is a dry tap at  months, are eligible for the study
+Bone marrow cellularity of >= % of age defined normal values by core biopsy; cellularity must be evaluated within  days of the dosimetry infusion and at least  days after receiving any cytoreductive/myelosuppressive chemotherapy
+Product planned for infusion is bone marrow
+Participants must have a diagnosis of AML or MDS and must have disease that has relapsed or is refractory to chemotherapy, or that has relapsed after hematopoietic stem cell transplantation (HSCT)\r\n* Refractory disease is defined as persistent disease after at least two courses of induction chemotherapy\r\n* Patients with AML must have>= % leukemic blasts in the bone marrow or increasing levels of minimal residual disease (MRD) in the bone marrow as assessed by flow cytometry; if an adequate bone marrow sample cannot be obtained, patients may be enrolled if there is unequivocal evidence of leukemia in the peripheral blood
+Subject consents to serial bone marrow aspiration and biopsies as specified.
+Absence of clonal bone marrow plasma cell percentage >= %
+If bone marrow is involved with lymphoma and normal marrow function prior to onset of lymphoma is documented: ANC of > 
+If bone marrow is involved with lymphoma and normal marrow function prior to onset of lymphoma is documented: any hemoglobin
+If bone marrow is involved with lymphoma and normal marrow function prior to onset of lymphoma is documented: platelets of > ,/mm^
+Absolute neutrophil count (ANC) >=.  ^ per liter (/L) and platelets >=  ^/L unless cytopenia is caused by the underlying disease, i.e., no evidence of additional bone marrow dysfunction (e.g., myelodysplastic syndrome, hypoplastic bone marrow)
+Patients with known metastatic tumor in the bone marrow
+Prior radiotherapy to > % of bone marrow; Note: standard rectal cancer chemoradiation will not exclude subject from study protocol
+Gastrointestinal or bone marrow or spleen only patients are allowable and will be analyzed separately
+Platelet count >= , independent of transfusion support; (patients who have cytopenias due to significant bone marrow infiltration do not have to meet hematologic eligibility criteria; significant bone marrow infiltration is defined as > % involvement by CLL)
+Have a diagnosis of CLL based on peripheral blood flow cytometry and/or bone marrow aspiration and biopsy OR diagnosis of SLL based on lymph node or bone marrow biopsy; patients with SLL need to have measurable disease
+Patients with Ewing sarcoma metastatic to the bone marrow are not required to meet bone marrow criteria for study eligibility and are not evaluable for hematologic toxicity
+Patients with lower values may participate if, in the opinion of the investigator, the cytopenias are the result of bone marrow involvement with active prostate cancer
+Allografts, including but not limited to liver and bone marrow transplants
+PART A: FOR PATIENTS WITH KNOWN BONE MARROW INVOLVEMENT (Completed as of Amendment )
+REGISTRATION INCLUSION CRITERIA: Presence of bone marrow ERBB overexpressing DTCs at the time of diagnosis; bone marrow aspiration will be performed in consented patients to evaluate DTCs following pre-registration provided patients meet all eligibility criteria
+Patients must have bi-dimensional measurable disease (bone marrow only involvement is acceptable)
+Demonstrated clonal population of plasma cells in the bone marrow or positive immunohistochemical stain with anti-light chain anti-sera of amyloid fibrils
+AML with a history of CMMoL: CMMoLAML must have bone marrow documentation of prior CMMoL
+Patients must be available for follow-up evaluations at , ,  days post bone marrow transplant (BMT) and yearly thereafter indefinitely
+Bone marrow myelodysplasia and/or chromosomal abnormalities
+Normal organ and bone marrow
+Acute myeloid leukemia with a fms-like tyrosine kinase  (FLT)-internal tandem duplication (ITD) who are in a complete remission or partial remission (less than % blasts in marrow) as documented by bone marrow biopsy and who plan to undergo a bone marrow transplantation
+Patients with lack of engraftment (less than % donor deoxyribonucleic acid [DNA] in bone marrow or peripheral blood) after bone marrow transplant as evidence by RFLP (restriction fragment length polymorphism) are not eligible
+Bone marrow with less than % lymphoma cells following salvage therapy; no evidence of myelodysplasia
+Evidence of myelodysplasia on any bone marrow biopsy
+A bone marrow aspiration performed within  days prior to the start of pre-infusion preparative therapy confirms the patient is in CR
+Presence of circulating malignant lymphoid cells or bone marrow with lymphoma that constituted more than % of the cellular elements
+Patients must have a bone marrow biopsy (bilateral preferred, unilateral acceptable) within  days prior to starting treatment
+Less than % marrow involvement with NHL within  weeks of study as defined by unilateral bone marrow aspiration and biopsy
+no more than % of the subject's bone marrow is irradiated
+Participants with splenic MZL who do not meet the radiographically measurable disease criteria described herein are eligible for participation provided that bone marrow infiltration of MZL is histologically confirmed.
+Patients with >= % bone marrow involvement or plasmacytoma amenable to resection under local anesthesia
+DONOR: Donors unable or unwilling to undergo marrow harvest for the initial HCT, storage of autologous blood prior to marrow harvest or apheresis one week after marrow harvest
+Other bone marrow failure syndromes
+Testing for extraneural metastasis by bone scan or bone marrow biopsy will not be performed routinely on this protocol; in the unlikely event that extraneural metastasis is detected on an evaluation performed at an outside institution prior to referral or because of clinical suspicion, such M patients will be eligible for protocol treatment on the high-risk arm
+Recent bone marrow biopsy and cytogenetic analysis
+Detectable tumor on radiographic studies or bone marrow biopsy prior to mobilization regimen
+bone marrow exam is performed at screening and demonstrates quantifiable CLL.
+DONOR: Deemed medically unable to undergo bone marrow harvesting
+Cytotoxic regimens are any that include agents that target the genetic and/or mitotic apparatus of the dividing cells, resulting in dose limiting toxicity to the bone marrow or gastrointestinal mucosa
+The patient has relapsed or refractory B or T cell acute lymphoblastic leukemia that has progressed following at least one prior therapy; Philadelphia chromosome-positive (Ph+) patients are eligible; relapsed ALL is defined in patients as the reappearance of leukemia cells in the peripheral blood or bone marrow or appearance of extramedullary disease after a complete remission; refractory ALL is defined in patients as failure to achieve a complete remission after induction therapy; complete remission is defined by < % leukemia cells in the bone marrow with recovery of peripheral blood counts; relapsed disease can be documented by bone marrow biopsy (> % cells in the bone marrow) or by flow cytometry in the peripheral blood or biopsy of extramedullary disease
+Patients who have had radiation to the pelvis or other bone marrow-bearing sites will be considered on a case by case basis and may be excluded if the bone marrow reserve is not considered adequate (> % of bone marrow)
+DONOR: Meets institutional selection criteria for organ and bone marrow donation
+Bone marrow biopsy must be negative for lymphoma.
+Patients should be eligible for transplantation according to the Bone Marrow Transplant (BMT) Policy Manual
+Patients must have bi-dimensional measurable disease (bone marrow only involvement is acceptable)
+Demonstration of JAKV>F or other clonal marker (e.g. MPLW>L/K), or in the absence of a clonal marker, no evidence of bone marrow fibrosis due to underlying inflammatory or other neoplastic disease Minor Criteria
+Have evidence of bone marrow involvement of lymphoma at time of transplant staging
+Palliative radiation therapy (RT) for metastatic disease is allowed only if =< % of total body bone marrow was irradiated and < or = Gy administered to the pericardial area;  days must have elapsed since completion of RT with bone marrow recovery; soft tissue disease irradiated in the prior  months may not be designated as measurable disease
+Monoclonal bone marrow plasmacytosis ?% (evaluable disease)
+Other high risk hematologic malignancies to be approved by  or more hematology/oncology and bone marrow transplant (BMT) physicians
+Measurable disease by one of the following: radiographic criteria (>=  cm by computed tomography); lymphoma involving peripheral blood with more than  leukemia cells/mm^, or any degree of bone marrow infiltration on bone marrow biopsy; skin involvement with or without nodal or bone marrow involvement permitted for cutaneous lymphomas is also permitted
+Prior pelvic radiation (e.g. external beam, brachytherapy, etc) that, in the opinion of the investigator, may lead to decreased bone marrow cellularity in a marrow sample obtained from a pelvic bone marrow biopsy
+Extensive radiotherapy (to greater than % of bone marrow)
+Participants must have a diagnosis of AML or MDS and must have disease that has relapsed or is refractory to chemotherapy, or that has relapsed after hematopoietic stem cell transplantation (HSCT)\r\n* Refractory disease is defined as persistent disease after at least two courses of induction chemotherapy\r\n* Patients with AML must have >= % leukemic blasts in the bone marrow or have converted from negative minimal residual disease (MRD) status to positive MRD status in the bone marrow as assessed by flow cytometry; if an adequate bone marrow sample cannot be obtained, patients may be enrolled if there is unequivocal evidence of leukemia in the peripheral blood
+Ongoing anticoagulant therapy that cannot be held if necessary to permit bone marrow sampling.
+All patients must have bone marrow involvement of their tumor, with documented blast percentage of > %.
+Confirmed bone marrow involvement
+Participants with known bone marrow disorders which may interfere with bone marrow recovery or participants with delayed recovery from prior chemoradiotherapy
+Radiotherapy involving <% of the hematopoietically active bone marrow within  days preceding first dose of study treatment
+Radiotherapy involving ?% of the hematopoietically active bone marrow within  days preceding first dose of study treatment
+Prior radiotherapy to > % of bone marrow volume.
+Pathological confirmation by bone marrow documenting the following:
+Prior history of allografts, including, but not limited to, liver and bone marrow transplants
+DONOR: Meets institutional selection criteria for organ and bone marrow donation
+Presence of phosphorylated p NF-kB component in at least % of bone marrow cells
+Prior radiotherapy to >= % of bone marrow
+Able to undergo bone marrow aspiration and biopsy at screening
+Acute promyelocytic leukemia as diagnosed by morphologic examination of bone marrow, by fluorescent in situ hybridization or cytogenetics of peripheral blood or bone marrow, or by other accepted analysis
+Relapsed/persistent disease according to standard criteria requiring salvage therapy; outside diagnostic material is acceptable as long as peripheral blood and/or bone marrow slides are reviewed at the study institution; flow cytometric analysis of peripheral blood and/or bone marrow should be performed according to institutional practice guidelines
+Patients with severe pancytopenia not meeting the above criteria for cell counts due to documented, extensive MM involvement of the bone marrow (suggested by >= % bone marrow plasmacytosis) will be eligible for enrollment
+Patients must have unilateral or bilateral bone marrow biopsy performed within  days prior to registration
+Any amount of neuroblastoma tumor cells in the bone marrow based on routine morphology (with or without immunocytochemistry) in at least one sample from bilateral aspirates and biopsies.
+For patients enrolling in Stage , the bone marrow evaluation determined locally within the previous  months indicates the presence of MRD.
+History of receiving high-dose chemotherapy requiring bone marrow or stem cell support
+Irradiation to more than % of bone marrow-bearing areas
+Unable to tolerate bone marrow biopsy
+Relapsed disease is defined as the reappearance of leukemia cells in the bone marrow or peripheral blood or elsewhere in the body (other tissues/organs) after the attainment of a CR.
+Available donor able to undergo a bone marrow harvest; for matched unrelated donor transplants only: peripheral blood stem cells may be collected if donor is unavailable for bone marrow harvest or if adequate bone marrow cannot be collected
+Patients who have had radiation to the pelvis or other bone marrow-bearing sites will be considered on a case by case basis and may be excluded if the bone marrow reserve is not considered adequate (> % of bone marrow irradiated)
+Substantial radiotherapy to the bone marrow within  weeks prior to enrollment.
+Bone marrow cellularity less than % or marrow cellularity less than % but with less than % residual hematopoietic cells
+Pathological confirmation by bone marrow documenting the following:
+Clinically overt multiple myeloma (i.e. original hypercalcemia, renal failure, anemia, bone lesions [CRAB] criteria); Note: extent of marrow plasmacytosis is not prohibitive
+Patients who have no measureable disease by serologic or urine markers (detectable disease only by bone marrow or imaging scans)
+Patients must have >= % leukemic blasts in the bone marrow and/or increasing levels of MRD in the bone marrow as assessed by flow cytometry; if an adequate bone marrow sample cannot be obtained, patients may be enrolled if there is unequivocal evidence of leukemia in the peripheral blood
+Stage II Arm B: prior CDK/ inhibitor treatment, bone marrow transplant or extensive radiotherapy to ?% of bone marrow
+T?cell prolymphocytic leukemia (PLL) in partial remission (PR) or better prior to transplantation; must also have =< % of bone marrow cellularity involved by PLL (to lower risk of graft rejection)
+Any evidence of fibrosis on morphological examination of bone marrow at the time of AML diagnosis
+No evidence of recurrent disease on bone marrow evaluation done within  days of enrollment
+Presence of clinically significant bone marrow fibrosis on the bone marrow examination immediately prior to UCBT
+Patient is felt not to be a candidate for total-body irradiation (TBI) by the Bone Marrow Transplant (BMT) service
+Patients must have normal bone marrow function, with a baseline total lymphocyte count >= 
+Subjects who are scheduled for bone marrow ablation chemotherapy
+Patient has had prior bone marrow procedures
+Patient is receiving additional potentially painful interventions (e.g. central line insertion/removal) concurrent with the bone marrow procedure
+Patients with at least ONE of the following sites of measurable disease according to International Workshop Criteria: A) Measurable tumor on MRI or CT scan. Measurable is defined as at least one lesion  mm in at least one dimension; for spiral CT, measurable is defined as  mm in at least one dimension. For patients with persistent disease, a biopsy of bone marrow, or bone, or a soft tissue site, must have demonstrated viable tumor. If lesion was radiated, biopsy must have been done at least  weeks after radiation completed. B) Bone marrow with tumor cells seen on routine morphology (not by NSE staining only) of bilateral aspirate and/or biopsy on one bone marrow sample, except for patient who tested positive subsequent to their last treatment regimen or patients who had a negative marrow within three months of study entry.
+Patients with known bone marrow reticulin fibrosis (>= grade ) (only applicable to patients with CML)
+AML patients with persistent disease from the recent treatment defined as > % blast and/or > % cellularity and reported as persistent residual disease by a pathological report of the patient's bone marrow biopsy  days +/-  days from the initiation of cytarabine
+Bone marrow aspirates/biopsies should be performed within    days from registration to confirm disease remission status
+Phase  only: known bone marrow fibrosis; Phase  only: Bone marrow fibrosis grade  or greater;
+Bilateral bone marrow aspirates and biopsy
+Able to begin study treatment between day  and day  after the transplant and meets the following transplant related requirements:\r\n* Sustained neutrophil (absolute neutrophil count [ANC] > /mcL) and platelet (> ,/mcL) engraftment\r\n* > % donor chimerism in blood or bone marrow\r\n* No evidence of recurrent disease on most recent bone marrow evaluation (day  or  post-transplant is acceptable)\r\n* No morphologic evidence of relapse (< % bone marrow blasts)\r\n* Ability to be treated in the outpatient setting (not an inpatient)
+HL\r\n* No clinical evidence of disease or disease-related symptoms\r\n* A post-treatment residual mass of any size is permitted as long as it is PET negative\r\n* Spleen and liver must be non-palpable and without nodules\r\n* If a pre-treatment bone marrow biopsy was positive, an adequate bone marrow biopsy from the same site must be cleared of infiltrate; if this is indeterminate by morphology, immunohistochemistry should be negative
+Is willing to provide bone marrow biopsies and comply with protocol-defined evaluations
+Patients who have had RT in more than % of the bone marrow.
+Collection of a bone marrow, fluid or tissue sample that is expected to have enough cells to run the assay

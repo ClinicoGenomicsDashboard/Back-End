@@ -1,0 +1,20 @@
+Patients who have received prior prostate or pelvic radiotherapy, including external beam or brachytherapy
+History of radiation therapy, either via external beam or brachytherapy within  days prior to registration
+Any prior or current treatment for prostate cancer, including surgery, radiation therapy (external or brachytherapy) or chemotherapy;
+Patients who have received prior prostate or pelvic radiotherapy, including external beam or brachytherapy
+No prior radiation therapy (external beam or brachytherapy) to the pelvis or prostate
+Patient has received any pelvic radiotherapy (including external beam and/or brachytherapy).
+Has received any pelvic radiotherapy (including external beam and/or brachytherapy.)
+Radiation therapy via external beam or brachytherapy within  days of registration
+Current or prior pelvic external beam radiotherapy within  years of entry
+The patient has decided to undergo brachytherapy (or brachytherapy plus external beam radiation) as a treatment modality for his prostate cancer
+Patient has received any pelvic radiotherapy (including external beam and/or brachytherapy.)
+Patients should have any of the below to be eligible\r\n* Are not candidates for intracavitary brachytherapy due to poor geometry or poor response to external beam radiation therapy (RT)\r\n* Patients with co-morbid medical conditions, bleeding disorders, poor anesthetic risk precluding brachytherapy\r\n* Patients who refuse brachytherapy or prefer external beam hypofractionated approach\r\n* Patients requiring interstitial brachytherapy\r\n* Note: patients may be discovered during standard therapy and enrolled prior to boost
+Prior pelvic external beam radiotherapy (EBRT)
+Patients cannot have previously received pelvic external beam radiation or brachytherapy; patients may be enrolled while undergoing vaginal brachytherapy radiation treatment
+Patients who have received prior pelvic external beam radiation or brachytherapy will be excluded
+SUB-STUDY I: Prior pelvic external beam radiation therapy or brachytherapy
+SUB-STUDY II: Prior pelvic external beam radiation therapy or brachytherapy
+Prior pelvic external beam radiation therapy or brachytherapy
+Radiotherapy (external beam irradiation alone or in combination with hormonal therapy and/or brachytherapy) was delivered as definitive therapy for prostate cancer and documentation is available
+Prior external beam, proton, or brachytherapy to the prostate

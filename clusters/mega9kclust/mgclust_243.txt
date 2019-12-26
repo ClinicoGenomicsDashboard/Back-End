@@ -1,0 +1,4 @@
+Cluster 411: tyrosine kinase inhibitor inhibitors tki therapy prior treatment bruton egfr 
+Cluster 503: egfr tki treatment tm mutation erlotinib prior generation progression gefitinib 
+Cluster 1158: philadelphia chromosome ph positive abl kinase bcr tyrosine patients tki 
+Cluster 1163: egfrmut antineoplastic tm met phase egfr ii group tki nave 

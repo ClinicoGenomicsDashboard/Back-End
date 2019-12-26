@@ -1,0 +1,7 @@
+Cluster 68: measurable disease non patients subjects presence site allowed defined metastatic 
+Cluster 488: recist measurable criteria disease according defined patients tumor lesion lesions 
+Cluster 790: version recist measurable disease according lesion defined criteria site patients 
+Cluster 894: recist measurable defined disease lesion patients ct imaging non presence 
+Cluster 1395: measureable recist disease lesion version defined radiographically criteria presence according 
+Cluster 1742: recist measurable disease according lesion presence patients phase non site 
+Cluster 2188: evaluable recist measurable disease criteria non according version lesion patients 

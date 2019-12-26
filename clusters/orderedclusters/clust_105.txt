@@ -1,0 +1,24 @@
+Patients with other factors that increase the risk of QT prolongation or arrhythmic events (e.g., heart failure, hypokalemia, family history of long QT interval syndrome) that meets New York Heart Association (NYHA) class II or above
+180.0
+No known history of prolonged QT syndrome
+34.0
+Resting electrocardiogram (ECG) with corrected QT (QTc) > 470 msec detected on 2 or more time points within a 24 hour period or family history of long QT syndrome; if ECG demonstrates QTc > 470 msec, patient will be eligible only if repeat ECG demonstrates QTc =< 470 msec
+1500.0
+Congenital long QT syndrome
+23.0
+Congenital long QT syndrome or family history of long QT syndrome
+82.0
+Any of the following cardiac criteria:* Mean resting corrected QT interval (QTc using Frederica�s formula [QTcF]) > 470 msec* Any clinically important abnormalities in rhythm, conduction or morphology of resting electrocardiogram (ECG) (e.g., complete left bundle branch block, third degree heart block, second degree heart block)* Congenital long QT syndrome or family history of long QT syndrome
+50.0
+Resting electrocardiogram (ECG) with corrected QT (QTc) > 470 msec on 2 or more time points within a 24 hour period or family history of long QT syndrome
+72.0
+No history of congenital prolonged corrected QT (QTc) syndrome, New York Heart Association (NYHA) class III or IV congestive heart failure (CHF)
+146.0
+Resting ECG with corrected QT (QTc) > 470 msec on two or more time points within a 24 hour period, noted within 14 days of treatment, or family history of long QT syndrome
+90.0
+Patients with congenital long QT syndrome, history of ventricular arrhythmias or heart block
+700.0
+Any of the following cardiac criteria:* Mean resting corrected QT interval (Fridericia's correction formula [QTcF]) > 470 ms ms obtained from 3 electrocardiograms (ECGs), using the screening clinic ECG machine derived corrected QT (QTc) value* Any clinically important abnormalities in rhythm, conduction or morphology of resting ECG (e.g., complete left bundle branch block, third degree heart block, second degree heart block)* Any factors that increase the risk of QTc prolongation or risk of arrhythmic events such as heart failure, hypokalemia, congenital long QT syndrome, family history of long QT syndrome or unexplained sudden death under 40 years of age in first degree relatives or any concomitant medication known to prolong the QT interval
+98.0
+Participants may not have corrected QT (QTc) > 470 msec or family history of long QT syndrome
+70.0

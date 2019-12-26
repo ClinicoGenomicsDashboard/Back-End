@@ -1,0 +1,45 @@
+Hematocrit >= % (may be reached by transfusion)
+Hematocrit > %
+Hematocrit < percent or Hemoglobin <  g/dL
+Hematocrit >= %
+Hematocrit >= % obtained <  weeks prior to starting treatment
+Hematocrit < %
+Hematocrit < %
+Documented adequate hematocrit > % for males and % for females
+Hematocrit >= %
+Hematocrit >= .%
+Adequate hematocrit independent of red cell transfusions
+Hematocrit >=  performed within  days of enrollment
+Hematocrit >= %
+Hematocrit > %
+Hematocrit ?%
+Hematocrit >= %
+Hematocrit of greater than %
+DONOR: Hematocrit > %
+Hematocrit >= %
+Hematocrit < %
+Hematocrit >= %
+Hematocrit >= %
+DONOR: Hematocrit > % for males and % for females
+DONOR: hemoglobin/hematocrit; .- g/dl,  to %
+Hematocrit >= %, may be reached by transfusion
+Hematocrit >= .%
+Hematocrit ? % or hemoglobin ? g/ mL
+Hematocrit > %
+Hematocrit at screening and at initiation of idasanutlin > %
+Hematocrit > % within  days prior to treatment initiation
+Hematocrit > %
+Hematocrit > %
+Hematocrit >= %
+Hematocrit > %
+Significant anemia with hemoglobin level less than  g/dL or a hematocrit less than %
+Anemia (hematocrit < %)
+Anemia (hematocrit < %)
+Hematocrit >= the lower institutional limit
+Hematocrit >= %
+Hemoglobin >=  g/dL or hematocrit >= %
+Hematocrit within normal institutional limits
+Unacceptable hemogram: hematocrit < %
+Hematocrit < %
+Hematocrit < %
+Hematocrit > %

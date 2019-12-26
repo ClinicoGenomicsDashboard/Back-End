@@ -1,0 +1,676 @@
+T0-3, N0 to N2c, M0 squamous cell carcinoma of the oropharynx
+Biopsy proven squamous cell carcinoma that is HPV and/or p16 positive
+Patients must have pathologically confirmed HPV-positive head and neck squamous cell carcinoma of the oropharynx; confirmed HPV-positive disease of other subsites are uncommon but also eligible
+Histologically confirmed diagnosis of squamous cell carcinoma of the oropharynx, stage IVa, p16-positive on immunohistochemistry (determination of HPV status using p16 as surrogate is standard of care)
+The patient has newly-diagnosed, biopsy proven squamous cell carcinoma of stage I-IV (T1-3, N0-2b) of the oropharynx
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Carcinoma of the oropharynx associated with HPV as determined by p16 protein expression using immunohistochemistry (IHC) performed by a Clinical Laboratory Improvement Act [CLIA] approved laboratory; using p16 antibody obtained from Roche mtm laboratories AG (CINtec, clone E6H4) is recommended
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: No prior radiation above the clavicles
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Patients must not have evidence of extensive or “matted/ fixed” pathologic adenopathy on preoperative imaging
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Hemoglobin > 9 g/dL
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Lymphocyte count > 500 x 10^9/mL
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Neutrophil count > 1500 x 10^9/mL
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Platelet count > 100,000 x 10^9/mL
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Serum albumin > 3.0 g/dL
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Aspartate aminotransferase (AST/ SGOT) and alanine aminotransferase (ALT/ SGPT) < 3 x the upper limits of normal (ULN)
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Alkaline phosphatase < 2 x ULN
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Calculated creatinine clearance > 50 mL/min
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Willing and able to give informed consent and adhere to protocol therapy
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: ECOG performance status < 2
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Female of childbearing potential (less than 12 months post-menopausal) or male with a partner of childbearing potential either agrees to be abstinent or uses a medically acceptable form of birth control during the study and for a period of 1 year after if on Arm 1
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Negative urine/serum pregnancy test (females only) at the time of screening and within 24 hours of study treatment, if applicable
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Prior surgery, radiation therapy, or chemotherapy other than biopsy or emergency procedure required for supportive care
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Any medical contraindications or previous therapy that would preclude treatment with either nivolumab or IRX-2 or the surgery, reconstruction or adjuvant therapy required to treat the oropharynx tumor appropriately
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Clinical status of either subject or tumor such that administration of neoadjuvant nivolumab or IRX-2 before surgery would be medically inappropriate
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Tumor of the oral cavity
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Any investigational agent within the previous 30 days
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Daily administration of systemic immunosuppressive therapy or corticosteroids (except in physiological doses for hormone deficiency) during the previous 30 days
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Chronic anticoagulation, not including aspirin, but including heparins, warfarin, oral anticoagulation or other platelet function inhibitors
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Myocardial infarction within the last 3 months
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Evidence of distant metastases (M1 disease) or other concurrent primary malignancy
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Known infection with hepatitis B, hepatitis C, or HIV
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Signs or symptoms of systemic bacterial infection (use of antibiotics to treat superficial infection or contamination of tumor shall not, by itself, be considered evidence of infection)
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Stroke or other symptoms of cerebral vascular insufficiency within the last 3 months
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Allergy to ciprofloxacin (or other quinolones), acetylsalicylic acid
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Prior axillary dissection
+Histologically documented squamous cell carcinoma of the oropharynx (stage III-IV A,B)
+Tumor of the oropharynx
+Patients must have pathologically confirmed HPV-positive squamous cell carcinoma
+Pathologically (histologically or cytologically) proven diagnosis of HPV associated squamous cell carcinoma of the oropharynx (tonsil, base of tongue, or oropharyngeal walls) from surgical resection or excisional biopsy regardless of margin status\r\n* Squamous cell carcinoma of the neck of unknown primary is allowed with excision biopsy of a lymph node (or core biopsy) and consent from the principal investigator (PI) or co-PIs (Dr. Nancy Lee, Dr. Eric Sherman, or Dr. Nadeem Riaz)
+Histological confirmation of HPV+ squamous cell carcinoma of the oropharynx; HPV positivity will be defined as positive staining for p16 on immunohistochemistry (IHC)
+Patient must have histologically confirmed p16 positive squamous cell carcinoma of the oropharynx (OPSCC)
+Patients with a previously untreated, T1 or T2, N0-N2b transorally resectable (as determined by the treating surgeon), histologically proven HPV positive, squamous cell carcinoma (SCC) of the oropharynx
+T0-3, N0 to N2c, M0 squamous cell carcinoma of the oropharynx
+Biopsy proven squamous cell carcinoma that is HPV and/or p16 positive
+Pathologically proven primary cervical cancer I-IIA with squamous cell carcinoma, adenosquamous carcinoma or adenocarcinoma initially treated with a standard radical hysterectomy with pelvic lymphadenectomy
+Patients with locally advanced, previously untreated squamous cell carcinoma of the vulva
+Pathologically proven diagnosis of a malignant major salivary gland tumor or malignant minor salivary gland tumor of the head and neck of the following histologic subtypes: \r\n* Intermediate-grade adenocarcinoma or intermediate-grade mucoepidermoid carcinoma\r\n* High-grade adenocarcinoma or high-grade mucoepidermoid carcinoma or salivary duct carcinoma\r\n* High-grade acinic cell carcinoma or high-grade (> 30% solid component) adenoid cystic carcinoma\r\n* Patients with diagnoses such as \undifferentiated or poorly differentiated carcinoma\, \carcinoma-ex pleomorphic adenoma\, \carcinoma not otherwise specified (NOS)\ and others should be considered for this trial
+Patients with mixed urothelial carcinoma and a glandular and/or squamous component will be eligible for the trial, but the presence of other histologic variants, pure adenocarcinoma, or pure squamous cell carcinoma, will make a patient ineligible
+Patients must not have pure squamous cell carcinoma or adenocarcinoma
+Phase 1b: Histologically and/or cytologically confirmed metastatic selected solid tumor types that have progressed after treatment with approved therapies or for which there are no standard effective therapies available. If nivolumab or pembrolizumab is an approved therapy for the participant's tumor type, but the participant has not been treated with it, the Investigator may enroll the participant in this study. Phase 2: Histologically and/or cytologically confirmed metastatic selected solid tumor types with 0-2 prior lines of systemic therapy (unless discussed with the sponsor) For the non-small cell lung cancer (NSCLC) and melanoma cohorts, participants must have progressed on or after prior treatment with one anti-PD-1, anti-PD-L1, or anti-PDL2 agent Selected tumor types of both phases: NSCLC, predominantly clear cell renal cell carcinoma, endometrial carcinoma, urothelial carcinoma, squamous cell carcinoma of the head and neck, or melanoma (excluding uveal melanoma)
+Endometrial carcinoma.
+Patients with any other diagnosis except for adenocarcinoma (squamous cell carcinoma, small cell carcinoma, mixed adenosquamous, lymphoma, sarcoma, etc.) will be ineligible
+Histologically proven diagnosis of squamous cell carcinoma of the head and neck, including variants such as spindle cell carcinoma, verrucous carcinoma, carcinoma not otherwise specified (NOS), etc.
+Histologically confirmed diagnosis of a locally advanced (not amenable to curative therapy such as surgical resection) metastatic cancer of the following histologies: melanoma (MEL), Merkel cell carcinoma (MCC), triple-negative breast cancer (TNBC), ovarian carcinoma, renal cell carcinoma (RCC), colorectal cancer, urothelial carcinoma, or sarcoma.
+Histopathologically confirmed diagnosis of one the following cancer types:\r\n* Squamous cell carcinoma\r\n* Esthesioneuroblastoma\r\n* Adenoid cystic carcinoma\r\n* Adenocarcinoma
+Endometrial carcinoma
+PART II: participants must have histologically confirmed advanced squamous cell lung cancer, advanced pancreatic cancer, advanced head & neck cancer (specifically non-oropharynx squamous cell carcinoma or human papillomavirus [HPV]-negative oropharynx squamous cell carcinoma), or any tumor with suspected PI3K-pathway dependence (either by mutation or by known biologic rationale, such as endometrial cancer; PI3K dependence includes the presence of a PIK3CA-mutant hotspot mutation (such as E542 [K], E545 [A, G, or K], H1047 [L, R, Y]), PIK3CA copy number gain, or PTEN loss in the archival or fresh tumor tissue specimen identified in a Clinical Laboratory Improvement Act (CLIA)-certified laboratory; all genetic findings must be reviewed by the study principal investigator (PI), prior to study entry
+Advanced or recurrent/metastatic solid tumor, including nasopharyngeal carcinoma, castration-resistant prostate cancer, gastric cancer, ovarian clear cell carcinoma and sarcoma, with measurable disease as determined by RECIST 1.1.
+Merkel Cell Carcinoma (MCC)
+Participants must have any of the following tumor types, confirmed by available pathology records or current biopsy, that is advanced, nonresectable, or recurrent and progressing since last antitumor therapy, and for which no alternative standard therapy exists: pancreatic adenocarcinoma, renal clear cell carcinoma, SCCHN (squamous cell carcinoma of head and neck), NSCLC (non-small cell lung cancer), colorectal cancer (CRC), hepatocellular carcinoma (HCC), ovarian serous epithelial cancer, bladder transitional cancer, cervical cancer, and triple-negative breast cancer
+Subjects with the following solid tumors are eligible for screening: Non-small cell lung cancer (NSCLC), Squamous cell carcinoma of the head and neck (SCCHN), Renal cell carcinoma (RCC), melanoma, bladder, Triple-negative breast cancer (TNBC), and Colorectal carcinoma displaying microsatellite instability (MSI CRC).
+Patients with recurrent squamous cell carcinoma or a second primary arising in a previously irradiated field
+Histologically or cytologically confirmed, treatment-naive esophageal squamous cell carcinoma
+Must have histologically confirmed squamous cell carcinoma or adenosquamous cell carcinoma of esophagus
+Squamous cell or undifferentiated gastric cancer
+Nasopharyngeal carcinoma
+Histologically confirmed squamous cell carcinoma of the target tumor(s)
+Patients with mucinous carcinoma, low grade endometrioid carcinoma, low grade serous carcinoma or carcinosarcoma
+Anal Squamous Cell Carcinoma
+Cervical Squamous Cell Carcinoma
+Vulvar Squamous Cell Carcinoma
+Participant has a newly diagnosed, histologically confirmed, stage I-IV squamous cell carcinoma or squamous cell carcinoma in situ of the oral cavity or oropharynx and will be undergoing definitive surgical, radiotherapy, or chemoradiation treatment; patients who are NOT candidates for localized treatment (surgery, radiation or chemoradiation) with curative intent (i.e.patients with distant metastasis or contra-indication to localized treatment) are not eligible OR
+Baseline skin exam is required for all patients; Note: cutaneous squamous cell carcinoma (SCC) lesions identified at baseline must be excised
+Nasopharyngeal or sinonasal carcinoma
+No known diagnosis of invasive squamous cell carcinoma within the previous 2 years
+Patients with invasive squamous cell carcinoma derived from their RRP who are not considered appropriate for surgery, radiation therapy, or chemotherapy by their treating oncology team may be considered eligible for the study
+Endometrial carcinoma.
+Gastric carcinoma.
+Histologically document transitional cell carcinoma with the presence of any of the following stages: carcinoma in situ (CIS), high­grade Ta, any grade T1, or any grade cT2­T4, considered appropriate for radical cystectomy; subjects with mixed histology are required to have a dominant transitional cell carcinoma (TCC) pattern
+Measurable metastatic (stage IV) or unresectable non-small cell lung cancer (including but not limited to squamous cell carcinoma, adenosquamous carcinoma, or adenocarcinomas) with at least one lesion that is resectable for TIL generation; (Note: neuroendocrine tumors are not eligible)
+Patients with histologically confirmed, potentially curable squamous-cell carcinoma, adenocarcinoma, or large-cell undifferentiated carcinoma of the esophagus
+Patients must have histologically confirmed HNSCC from any primary site; basaloid, poorly differentiated, and undifferentiated carcinoma histologies will be accepted; nasopharyngeal carcinoma, World Health Organization (WHO) type I and II (keratinizing, non-Epstein-Barr virus [EBV] positive), will be included; paranasal sinus, lip and external auditory canal sites will be included; squamous cell carcinoma of unknown primary, clearly related to the head and neck, will be included
+Stages of endometrial carcinoma other than described
+Metastatic or recurrent carcinoma of the nasopharynx, squamous cell carcinoma of unknown primary, squamous cell carcinoma originating from skin and salivary glands or non squamous histologies (eg. mucosal melanoma).
+Subjects must have a biopsy confirmed diagnosis of squamous cell, adenocarcinoma, or adenosquamous carcinoma of the cervix. Histologic confirmation of the original primary tumor is required.
+Has histologies other than squamous cell, adenocarcinoma, or adenosquamous carcinoma of the cervix.
+High-intermediate risk disease, defined as:\r\n* T1-T3 N2 M0 or T3 N1 M0 or any stage III (T4 or N3) p16+ squamous cell carcinoma of the oropharynx (The American Joint Committee on Cancer [AJCC] 8th edition staging system)\r\n* T1-2 N1-3 M0 or T3-4 N0-3 M0 (stage III-IVB) p16+ squamous cell carcinoma of the hypopharynx or larynx\r\n* T1-2 N2-3 M0 or T3-4 N0-3 M0 (stage III-IVB) p16+ squamous cell carcinoma of the nasopharynx\r\n* Inoperable T4 N0-3 M0 (stage IVA-IVB) p16+ squamous cell carcinoma of the oral cavity
+Pathological diagnosis of squamous cell carcinoma of the lung
+Pathologically (histologically or cytologically) proven diagnosis of squamous cell carcinoma of the oropharynx, which include the sites tonsil, base of tongue, soft palate, or posterior oropharyngeal wall; histologic variants will be included (papillary squamous cell carcinoma and basaloid squamous cell carcinoma); cytologic diagnosis from a cervical lymph node is sufficient in the presence of clinical evidence of a primary tumor in the oropharynx
+Histologically proven squamous cell carcinoma of the larynx.
+Histological confirmation of non-small cell lung cancer (NSCLC) by either biopsy or cytology will be is required for the primary diagnosis and is recommended for recurrent disease. The following primary cancer types are eligible: squamous cell carcinoma, adenocarcinoma (with or without bronchioloalveolar carcinoma features), large cell carcinoma (with or without neuroendocrine features), neuroendocrine carcinoma (either NSCLC with neuroendocrine features or atypical carcinoids, but not small cell lung carcinoma), bronchioloalveolar cell carcinoma, or non-small cell carcinoma not otherwise specified
+Pathologically-proven diagnosis of squamous cell carcinoma of the oropharynx or larynx; squamous cell carcinoma of unknown primary is not allowed
+Histologically or cytologically documented transitional cell carcinoma of the urothelium (squamous differentiation or mixed cell types allowed).
+All subjects must have cutaneous squamous cell carcinoma that is not curable by surgery or radiation; both locally advanced and metastatic squamous cell carcinoma will be included
+History of malignant tumors other than Kaposi sarcoma (KS) or KSHV-associated multicentric Castleman disease (MCD), unless:\r\n* In complete remission for >= 1 year from the time response was first documented or\r\n* Completely resected basal cell carcinoma or\r\n* In situ squamous cell carcinoma of the cervix or anus
+Has pancreatic tumor other than adenocarcinoma, including: acinar cell carcinoma, pancreaticoblastoma, malignant cystic neoplasms, endocrine neoplasms, squamous cell carcinoma; vater and periampullary duodenal or common bile duct malignancies
+Patients must have pathologically-confirmed, previously untreated, p16-positive oropharyngeal squamous cell carcinoma
+Pathologic subtypes other than pure adenocarcinoma; acinar cell carcinoma, squamous cell carcinoma, spindle cell carcinoma, neuroendocrine cancer, and mixed types are not eligible
+Have one of the following advanced (unresectable and/or metastatic) solid tumor indications that has progressed following standard therapies, where standard therapies are available:\r\n* Squamous cell carcinoma of the skin \r\n* Small cell malignancies of non-pulmonary origin\r\n* Adrenocortical carcinoma\r\n* Medullary renal cell carcinoma \r\n* Carcinoma of unknown primary\r\n* Penile carcinoma\r\n* Vascular sarcoma\r\n* Germ cell tumor\r\n* Paraganglioma-pheochromocytoma \r\n* Other rare tumors (except those tumor types listed in exclusion)
+Is participating in cohort 10 and has melanoma; non-small cell lung cancer; hepatocellular carcinoma; Merkel cell carcinoma; colon or rectal adenocarcinoma; anal canal squamous cell carcinoma; pancreas adenocarcinoma; esophageal squamous cell carcinoma or adenocarcinoma (including gastroesophageal [GE] junction); biliary tract adenocarcinoma (gallbladder and biliary tree but excluding ampulla of vater cancers); carcinoid tumors; neuroendocrine carcinomas (well or moderately differentiated pancreatic neuroendocrine tumor); estrogen receptor (ER)-positive human epidermal growth factor receptor 2 (HER2)-negative breast cancer; triple negative breast cancer; ovarian epithelial, fallopian tube or primary peritoneal carcinoma; endometrial carcinoma; cervical squamous cell cancer; vulvar squamous cell carcinoma; small cell lung cancer; mesothelioma (malignant pleural mesothelioma); thyroid cancer (papillary or follicular subtype); salivary gland carcinoma; nasopharyngeal carcinoma; glioblastoma multiforme; leiomyosarcoma; prostate adenocarcinoma; gastric adenocarcinoma; or small bowel malignancy
+The subject must have a histologically or cytological-proven diagnosis of one of the following malignancies:\r\n* Oral, oropharyngeal, hypopharyngeal or laryngeal squamous cell carcinoma\r\n* Non-small cell carcinoma of the bronchus and/or lung\r\n* Ductal or lobular carcinoma of the breast\r\n* Serous carcinoma of the ovary, fallopian tube, or other uterine adnexa\r\n* Urothelial cell carcinoma of renal pelvis, ureter, or bladder\r\n* Cutaneous squamous cell carcinoma
+Squamous cell histology or mixed, predominantly squamous adenosquamous carcinoma
+Subjects must have histologically or cytologically confirmed breast adenocarcinoma, colorectal adenocarcinoma, gastroesophageal cancer (adenocarcinoma or squamous cell carcinoma), melanoma, non-small cell lung cancer, or clear cell renal cell carcinoma with liver metastases or hepatocellular carcinoma with known disease progression.
+Histologically confirmed diagnosis of squamous cell carcinoma of the larynx, stages III, IVa, or IVb, p16-negative on immunohistochemistry
+Have a biopsy confirmed basal cell carcinoma (BCC) that measures at least 6 mm in size at the time of the initial evaluation (visit #1)
+Patients with a history of carcinoma in remission, on no therapy or on hormonal therapy for the adjuvant treatment of breast carcinoma or prostate carcinoma are included in the study
+Cervical cancer participants will be American Joint Cancer Commission (AJCC) stages pT1 ,2, N1, M0 with squamous carcinoma, adenocarcinoma, adenosquamous carcinoma, or glassy cell carcinoma histology
+Biopsy proven, within 16 weeks prior to study entry, sinonasal adenoid cystic carcinoma, adenocarcinoma, mucoepidermoid carcinoma, squamous cell carcinoma, including sinonasal carcinoma, sinonasal undifferentiated carcinoma, Schneiderian carcinoma, myoepithelial carcinoma, undifferentiated carcinoma, esthesioneuroblastoma, or melanoma American Joint Committee on Cancer (AJCC) 7th edition stage III - IVA/B tumors, or with skull base or intracranial extension; pathology must be confirmed by review at the treating institution
+Patients with adenoid cystic carcinoma, adenocarcinoma, mucoepidermoid carcinoma, myoepithelial carcinoma who have undergone gross total resection who refuse chemotherapy may receive radiation alone
+Eligible patients will have pathologically proven primary locally advanced cervical cancer with squamous cell carcinoma, adenosquamous carcinoma or adenocarcinoma histology suitable for primary treatment with chemoradiation with curative intent
+Part 1b: Subjects with endometrial cancer, gastric cancer, head and neck squamous cell carcinoma, melanoma, microsatellite unstable colorectal cancer, non-small cell lung cancer, pancreatic ductal adenocarcinoma, renal cell carcinoma, triple negative breast cancer, or transitional cell carcinoma of the genitourinary tract that have had disease progression after available therapies for metastatic disease that are known to confer clinical benefit, been intolerant to treatment, or refused standard treatment.
+Histologically confirmed primary non-metastatic NSCLC; eligible histological subtypes include: squamous cell carcinoma, adenocarcinoma, squamous-adeno carcinoma, large-cell carcinoma, and non-small cell carcinoma not otherwise specified
+Inclusion Criteria:\n\n        Target Population\n\n          1. Only node-negative patients are eligible: Histological confirmed endometrial carcinoma\n             with no macroscopic remaining tumour after primary surgery and lymph-node negative\n             disease, with one of the following postoperative FIGO 2009 stage and grade:\n\n               1. Stage I grade 3 endometrioid adenocarcinoma\n\n               2. Stage II endometrioid adenocarcinoma\n\n               3. Stage I and II type 2 histology (clear cell, serous, squamous cell carcinoma, or\n                  undifferentiated carcinoma) Prior therapy\n\n          2. Patients have undergone hysterectomy (total abdominal hysterectomy, radical\n             hysterectomy, laparoscopic or robotic hysterectomy) and bilateral\n             salpingo-oophorectomy (BSO) and pelvic lymphadenectomy (LNE).\n\n          3. LNE: minimum 12 pelvic nodes (6 from each side) should be removed. Para-aortic LNE is\n             optional\n\n          4. Omentectomy strongly recommended in clear cell, serous or undifferentiated carcinoma.\n\n          5. Surgery performed within 10 weeks of randomization. If the dates for hysterectomy and\n             lymph node dissection are different, 10 weeks are counted from the last surgery, and\n             in that case the gap between two surgeries should not exceed 8 weeks.\n\n             Other inclusion criteria\n\n          6. Patients must give informed consent according to the rules and regulations of the\n             individual participating centres\n\n          7. Patients have not received any other anticancer therapy other than surgery.\n\n          8. Adjuvant vaginal brachytherapy is permitted in both arms. In chemotherapy arm, timing\n             of VBT should not cause delay in chemotherapy delivery.\n\n          9. Patients must have a WHO performance status of 0-2\n\n         10. Patients must have an adequate bone-marrow, renal and hepatic function (WBC\n             ?3.0x109/L, neutrophils ?1.5x109/L, platelets ?100x109/L, total S-bilirubin <2 x upper\n             normal value, ALAT <2.5 x upper normal value, estimated GFR >50 ml/min (measured or\n             calculated according to Cockroft-Gault or Jeliffe). Up to 5% deviation for\n             hematological values and 10% deviation for s-bilirubin and ALAT are tolerated.\n\n         11. Life expectancy of at least 12 weeks\n\n         12. Patients must be fit to receive combination chemotherapy\n\n         13. Patient's age >18 years\n\n        Exclusion criteria:\n\n        Target Disease Exceptions\n\n          1. Carcinosarcoma, Sarcomas or small cell carcinoma with neuroendocrine differentiation.\n\n             Prohibited Treatments and/or Therapies\n\n          2. External Beam Radiotherapy\n\n          3. Concurrent cancer therapy\n\n          4. Concurrent treatment with an anticancer investigational agent or participation in\n             another anticancer clinical trial Other exclusion criteria\n\n          5. Previous or concurrent malignant disease except for curatively treated carcinoma in\n             situ of the cervix or basal cell carcinoma of the skin\n\n          6. Active infection or other serious underlying medical condition, which might prevent\n             the patient from receiving treatment or to be followed\n\n          7. Whatever reasons which interferes with an adequate follow-up
+Patients must have a confirmed (by a MDACC pathologist) cytologic or histological diagnosis of locally advanced squamous cell carcinoma, poorly differentiated carcinoma, or sinonasal undifferentiated carcinoma of the nasal cavity and/or paranasal sinuses.
+Pathological and radiographic documented stage IIIB/IV NSCLC (squamous, adenocarcinoma, bronchioloalveolar, large cell, undifferentiated or not otherwise specified non-small cell carcinoma) diagnosed less than two months prior to randomization. Patients must have ECOG performance status of 0-1 and life expectancy >3 months.
+There is reasonable expectation of response to pembrolizumab or nivolumab, and one of the drugs is available from the commercial supply; this includes (but is not limited to) the following tumor types: melanoma, non-small cell lung cancer, renal cell carcinoma, squamous cell carcinoma of the head and neck, bladder cancer, and classic Hodgkin lymphoma
+Histologically confirmed stage IV NSCLC (adenocarcinoma, squamous cell carcinoma, large cell carcinoma, or not otherwise specified) or recurrent NSCLC not amenable to curative therapy
+Patients are excluded if they have a history of metastatic cancer in addition to melanoma or a history of uncontrolled non-metastatic cancer. Patients with localized squamous cell carcinoma and/or basal cell carcinoma are not excluded.
+Newly diagnosed, cytologically or histologically confirmed squamous cell carcinoma (and common variants, including poorly differentiated carcinoma; undifferentiated carcinoma; basaloid carcinoma) of the oropharynx; patients must have resectable oropharyngeal and nodal disease, including the following stages according to the American Joint Commission on Cancer Staging 7th edition:\r\n* T1N1-3\r\n* T2N1-3\r\n* T3N0-3\r\n* T4aN0-3; note: eligible T4a tumors may include deep/extrinsic tongue muscle invasion and must be judged resectable by transoral laser microsurgery (TLM) or transoral robotic surgery (TORS), according to the surgeon-investigator; patients with T4a tumors with clear radiologic mandibular, hard palate or medial pterygoid invasion are not eligible
+Included tumor types\t\r\n* T cell and NK cell lymphomas, including, but not limited to: cutaneous T-cell lymphomas (CTCL), mycosis fungoides (MF), Sezary syndrome (SS), peripheral T-cell lymphoma (PTCL), ALK-positive and ALK-negative anaplastic large cell lymphoma (ALCL), and NK-cell lymphomas\r\n* Merkel cell carcinoma\r\n* Squamous cell carcinoma of the skin, including keratoacanthomas, vulvar squamous carcinoma, and mixed histology tumors, such as basosquamous carcinoma, and squamous cell carcinoma of unknown primary consistent with skin origin\r\n* Other non-melanoma skin cancers\r\n** Basal cell carcinoma\r\n** Malignant sweat gland tumors, including porocarcinoma, hidradenocarcinoma, spiradenocarcinoma, cylindrocarcinoma, microcystic adnexal carcinoma and related entities, squamoid eccrine ductal carcinoma, cutaneous adenoid cystic carcinoma, digital papillary adenocarcinoma, primary cutaneous mucinous carcinoma, endocrine mucin-producing sweat gland carcinoma, primary cutaneous signet ring cell carcinoma, cutaneous apocrine gland carcinoma, and extraocular sebaceous carcinoma\r\n** Adnexal carcinoma\r\n** Trichilemmal carcinoma\r\n** Extramammary Paget’s disease\r\n** Any other rare tumor of the skin with approval of principle investigator (PI)
+Rectal cancer histology other than adenocarcinoma (i.e., sarcoma, lymphoma, squamous cell carcinoma, mucosal melanoma, etc.)
+Patients with the following histologies are not eligible for either study cohort:\r\n* Non-small cell lung cancer, squamous cell carcinoma of head and neck, melanoma, renal cell carcinoma, bladder cancer, Hodgkin’s lymphoma, Merkel cell carcinoma, and MSI-H colorectal cancer
+Patients must have histologically or cytological confirmed malignancy in the following disease groups: melanoma that is metastatic or unresectable, non-small cell lung carcinoma, renal cell carcinoma, sarcoma, colon carcinoma, non-Hodgkin lymphoma, squamous cell head and neck carcinoma, or cutaneous squamous cell carcinoma, for which standard curative or palliative measures do not exist or are no longer effective; the primary site may be cutaneous or unknown, but mucosal and ocular primaries are excluded\r\n* Note: patients with non-small lung cancer must have had prior epidermal growth factor receptor (EGFR) and anaplastic lymphoma receptor tyrosine kinase (ALK) testing; patients with sensitizing mutations in EGFR or ALK rearrangements should have been treated with prior targeted agents and have had progression or discontinued due to toxicity from these agents
+Patients in whom histologic diagnosis is not consistent with ductal adenocarcinoma such as adenosquamous, squamous cell, colloid, islet cell, serous or mucinous cystadenoma or cystadenocarcinoma, carcinoid, small or large cell carcinoma, intraductal oncocytic papillary neoplasms (IOPN), osteoclast-like giant cell tumors, acinar cell carcinoma, pancreatoblastoma, solid pseudopapillary tumors, undifferentiated small cell carcinoma and non-epithelial tumors (sarcomas, gastrointestinal [GI] stromal tumor, lymphoma)
+Since p53 mutations occur in a wide variety of tumor types, this is a mixed histology study for incurable tumors; subjects with the following solid tumors are eligible for screening: non-small cell lung cancer, squamous cell carcinoma of the head and neck, hepatocellular carcinoma, renal cell carcinoma, melanoma, bladder, soft tissue sarcoma, triple-negative breast cancer, and colorectal carcinoma displaying microsatellite instability and pancreatic cancer
+Patients must have persistent, recurrent or metastatic squamous cell carcinoma, adenosquamous carcinoma or adenocarcinoma of the cervix with documented disease progression (disease not amendable to curative therapy); NOTE: the following cervical tumors are not eligible: minimal deviation/adenoma malignum, gastric type adenocarcinoma, clear cell carcinoma and mesonephric carcinoma; histologic confirmation of the original primary tumor is required via the pathology report
+Pathologically (histologically or cytologically) proven diagnosis of squamous cell carcinoma (including the histological variants papillary squamous cell carcinoma and basaloid squamous cell carcinoma) of the oropharynx (tonsil, base of tongue, soft palate, or oropharyngeal walls); cytologic diagnosis from a cervical lymph node is sufficient in the presence of clinical evidence of a primary tumor in the oropharynx; clinical evidence should be documented, may consist of palpation, imaging, or endoscopic evaluation, and should be sufficient to estimate the size of the primary (for T stage)
+Patients must have histologically or cytologically confirmed squamous cell carcinoma of the skin; patients who present with “squamous cell carcinoma of unknown primary lesions” at the time of diagnosis will be eligible if patients have a plausible primary skin site removed in the past; similarly, patients with neck, parotid, or facial lymph nodes positive for squamous cell carcinoma with no identifiable mucosal primary would also be eligible
+Endometrial cancer:\r\n* Patients with the following histologic features are eligible for pelvic radiation therapy without weekly cisplatin:\r\n** < 50% myometrial invasion, grade 3 adenocarcinoma without uterine serous carcinoma (USC) or clear cell histology\r\n** >= 50% myometrial invasion, grade 1-2 adenocarcinoma without USC or clear cell histology\r\n* Patients with the following histologic features may be treated with pelvic radiation with or without weekly cisplatin; the decision to add weekly cisplatin for these patients is at the treating physician’s discretion:\r\n** >= 50% myometrial invasion, grade 3 including USC and clear cell carcinoma\r\n** International Federation of Gynecology and Obstetrics (FIGO) 2009 stage II endometrial cancer of any grade including USC and clear cell carcinoma\r\n** FIGO 2009 stage IIIC1 (pelvic lymph node positive only, para-aortic nodes sampled and negative if removed) including USC and clear cell carcinoma; Note: if para-aortic nodes are not removed, CT abdomen or PET CT must demonstrate no evidence of lymphadenopathy
+Patients with nasopharyngeal carcinoma
+Patients with nasopharyngeal carcinoma
+Myoepithelial carcinoma
+Myoepithelial carcinoma
+Portion A: Histological or cytological diagnosis of advanced/metastatic solid tumor malignancy or B cell lymphoma, for which no curative therapy is available. Portion A expansion includes patients who have documented disease progression on a checkpoint inhibitor (anti CTLA 4, anti PD1/PD L1 antibodies) per RECIST criteria. Tumor types include metastatic melanoma, renal cell carcinoma (RCC), non-small cell lung cancer (NCSLC) and squamous cell carcinoma of the head and neck (SCCHN). Patients in the dose expansion stage are required to provide archival or baseline (obtained during the screening period) tumor biopsies.
+Squamous cell or undifferentiated gastric cancer
+Subjects with histologically or cytologically NSCLC, melanoma, transitional cell carcinoma of the genitourinary (GU) tract, renal cell cancer, triple negative breast cancer, adenocarcinoma of the endometrium or squamous cell carcinoma of the head and neck (Phase 1).
+Histologically confirmed metastatic or recurrent squamous cell carcinoma not amenable to local therapy with curative intent (surgery or radiation with or without chemotherapy). Carcinoma of the nasopharynx, salivary gland, or * *Subjects must have received at least 1 prior systemic chemotherapy regimen that must have included a platinum-based therapy.
+Histological diagnosis of squamous cell carcinoma, adenocarcinoma or adenosquamous cell carcinoma of the cervix
+Patients with nasopharyngeal carcinoma, skin squamous cell carcinoma (SCC), and salivary gland carcinomas are not eligible
+Histologically-proven squamous cell carcinoma of the penis
+Squamous carcinoma of the urethra
+Has pancreatic tumor other than adenocarcinoma, including: acinar cell carcinoma, pancreaticoblastoma, malignant cystic neoplasms, endocrine neoplasms, squamous cell carcinoma. Vater and periampullary duodenal or common bile duct malignancies.
+Subjects with squamous cell carcinoma of the lung
+Merkel cell carcinoma basket:\r\n* None
+Thymic carcinoma
+Histological confirmation of non-small cell cancer will be required by either biopsy or cytology; the following primary cancer types are eligible: squamous cell carcinoma, adenocarcinoma with or without bronchioloalveolar carcinoma (BAC) features, large cell carcinoma with or without neuroendocrine features, neuroendocrine carcinoma, bronchioloalveolar cell carcinoma, or non-small cell carcinoma not otherwise specified
+Histologically confirmed cervical cancer\r\n* Histologically confirmed invasive squamous cell carcinoma, adenocarcinoma, or adenosquamous carcinoma of the uterine cervix, stages IB2, IIA, IIB, IIIB, and IVA; stage IB1 with positive pelvic or para-aortic nodes based on magnetic resonance imaging (MRI) is also eligible\r\n* No evidence of distant metastases (based on PET/CT done within 4 weeks of start of treatment)\r\n* Recurrent cervical cancer is not eligible
+Histologically confirmed non-small cell cancer by biopsy or cytology; squamous cell carcinoma, adenocarcinoma, large cell carcinoma, bronchioalveolar carcinoma, or non-small cell carcinoma (not otherwise specified) are allowed
+Patient must have recurrent, persistent or metastatic cervical cancer including squamous cell, adenocarcinoma and adenosquamous histologies; mesonephric carcinoma, minimal deviation/adenoma malignum, clear cell carcinoma and gastric type are excluded
+Histologically proven advanced or metastatic solid cancer for which bevacizumab has an indication: renal cell carcinoma, colorectal adenocarcinoma, non-squamous non-small cell lung cancer, platinum-refractory ovarian carcinoma, cervical carcinoma.
+Upper tract Transitional Cell Carcinoma (TCC).
+Patients with histologically proven squamous cell carcinoma of the larynx
+Histologically confirmed recurrent or metastatic NSCLC (adenocarcinoma, large cell, squamous cell, or not otherwise specified) that has either progressed during or after platinum-based chemotherapy
+Squamous cell or undifferentiated gastric cancer
+Patients must have histologically or cytologically confirmed previously treated metastatic squamous cell carcinoma of the anal canal
+Patients with pathologic diagnosis of lung NSCLC or squamous cell carcinoma
+Safety expansion: patients with one of the following locally advanced unresectable or metastatic pathologically confirmed diagnosis:\r\n* Colorectal carcinoma and appendiceal adenocarcinoma\r\n* Gastro-esophageal carcinoma; Note: esophageal squamous cell carcinoma is exclusionary\r\n* Biliary tract carcinoma; Note: hepatocellular carcinoma is excluded\r\n* Pancreatic carcinoma
+Patients with histologically-confirmed, persistent, metastatic or recurrent squamous or non-squamous cell carcinoma, adenosquamous carcinoma, or adenocarcinoma of the cervix with documented disease progression (disease not amenable to surgery or standard radiotherapy).
+Histologically confirmed recurrent or metastatic carcinoma of the nasopharynx, squamous cell carcinoma of unknown primary, and salivary gland or non-squamous histologies (eg: mucosal melanoma) are not allowed
+Biopsy proven squamous cell carcinoma histology or squamous cell variants (sarcomatoid, verrucous, basaloid, and papillary subtypes) involving the true vocal cord
+Patients must have newly diagnosed, histologically or cytologically confirmed squamous cell carcinoma or undifferentiated carcinoma of the oropharynx; patients must have been determined to have resectable oropharyngeal disease; patients with primary tumor or nodal metastasis fixed to the carotid artery, skull base or cervical spine are not eligible
+Pathologic subtypes other than pure adenocarcinoma; acinar cell carcinoma, squamous cell carcinoma, spindle cell carcinoma, neuroendocrine cancer, and mixed types are not eligible.
+Women with clinical stage IB2-IVA cervical squamous cell carcinoma, adenosquamous, or adenocarcinoma
+Patients must have persistent or recurrent squamous or non-squamous cell carcinoma, adenosquamous carcinoma, or adenocarcinoma of the cervix with documented disease progression (disease not amenable to curative therapy); histologic confirmation of the original primary tumor is required via the pathology report
+Histologically confirmed primary adenocarcinoma, squamous cell carcinoma or adenosquamous carcinoma of the uterine cervix;
+Any histology other than adenocarcinoma, squamous cell carcinoma or adenosquamous carcinoma of the uterine cervix;
+For the second stage of the Phase I trial, all patients must have histologic demonstration of metastatic or locally unresectable transitional cell carcinoma of the urothelium. Minor components (<50% overall) of variant such as glandular or squamous differentiation, or evolution to more aggressive phenotypes such as sarcomatoid or small cell change are acceptable. However, when these atypical histologies are dominant, other treatment approaches may be more appropriate, and such patients are not eligible.
+Islet cell or acinar cell carcinoma or cystadenocarcinoma
+Recurrent or metastatic carcinoma of the nasopharynx, squamous cell carcinoma of unknown primary, squamous cell carcinoma that originated from the skin and salivary gland or paranasal sinus, non-squamous histologies (eg, mucosal melanoma)
+Patients with histologically proven invasive squamous cell carcinoma arising from the true vocal cord
+T1a and T2a squamous cell carcinoma of the glottic larynx (tumor limited to one vocal cord with normal cord mobility)
+Squamous cell carcinoma in-situ of a single vocal cord (Tis) is eligible
+The patient must have squamous cell carcinoma, adenocarcinoma or malignant salivary gland cancer (e.g. acinic cell, adenoid cystic, mucoepidermoid, salivary duct carcinoma) proven by histologic diagnosis; both mucosal and cutaneous cancers are eligible
+Pathologically proven (histologically or cytologically) diagnosis of squamous cell carcinoma (including histological variants like papillary squamous cell carcinoma and basaloid squamous cell carcinoma)
+Subjects with squamous cell carcinoma
+Patients with a history of carcinoma in remission (on no therapy or on hormonal therapy for the adjuvant treatment of breast carcinoma or prostate carcinoma) are included in the study
+Patients must have histologically or cytologically confirmed incurable malignancy that is surgically unresectable locally advanced, recurrent, or metastatic (stage IIIB/IV) non-small cell lung cancer (NSCLC); patients with adenocarcinoma, squamous cell carcinoma, large cell carcinoma and sarcomatoid carcinoma will be eligible
+Histologically confirmed NSCLC (adenocarcinoma, squamous cell carcinoma, large cell carcinoma, undifferentiated carcinoma or other)
+For Part 1b: Subjects with histologically or cytologically confirmed advanced or metastatic endometrial cancer, gastric cancer, melanoma, microsatellite unstable (MSI) colorectal cancer or other MMR-deficient tumors, non-small cell lung cancer, renal cell carcinoma, head and neck squamous cell carcinoma, triple negative breast cancer, pancreatic ductal carcinoma, or transitional cell carcinoma of the genitourinary tract that have had disease progression after available therapies for advanced or metastatic disease that are known to confer clinical benefit, been intolerant to treatment, or refused standard treatment.
+Merkel Cell Carcinoma
+Nasopharyngeal Carcinoma
+Squamous cell carcinoma of the cervix, vagina, or vulva
+Squamous cell carcinoma of the anal canal and penile
+For dose escalation portion of the study: Patients must have a histologically or cytologically confirmed metastatic solid tumor that has shown clinical or pre-clinical evidence of responding to anti-PD-1 therapy or the capacity to up-regulate PD-L1; these tumor types may include but may not be limited to: renal cell carcinoma (RCC), urothelial carcinoma (UC), melanoma, non-small cell lung cancer (NSCLC), small cell lung cancer, squamous cell cancer of the head and neck (SCCHN), ovarian carcinoma, triple negative breast cancer, gastric cancer, microsatellite instability expressing (MSI-high) colon cancer, hepatocellular carcinoma, mesothelioma, gastrointestinal stromal tumors, endometrial carcinoma, liposarcomas, chondrosarcomas, and uterine sarcomas; patients with solid tumor types not listed above may be enrolled at the discretion of the principal investigator
+Histological diagnosis of squamous cell carcinoma, adenocarcinoma or adenosquamous cell carcinoma of the cervix. Not accepted are small cell, clear cell and other rare variants of the classical adenocarcinoma;
+Patients must have histologically or cytologically proven primary non-squamous non-small cell lung cancer (adenocarcinoma, large cell carcinoma, adenocarcinoma in situ, mixed histology with < 50% squamous or unspecified); patients with tumors having squamous cell components >= 50% are not eligible; disease must be stage IV
+Nasopharyngeal carcinoma
+Biopsy-confirmed Merkel cell carcinoma with metastatic or loco-regional disease.
+Patients with advanced histologically proven squamous cell carcinoma of the lung
+Histologically confirmed esophageal squamous cell carcinoma (ESCC)
+Patients must have histological or cytological confirmed malignancy in the following disease groups: melanoma, non-small cell lung carcinoma, renal cell carcinoma or squamous cell head and neck carcinoma, for which no standard effective or curative options are available
+Recurrent, persistent, and/or metastatic cervical cancer, for which there is not a curative intent option (surgery or radiation therapy with or without chemotherapy). Acceptable histologies are squamous carcinoma, adenocarcinoma, and adenosquamous carcinoma. Sarcomas and neuro-endocrine carcinomas are not eligible histologies.
+Patients must have histologically or cytologically documented salivary gland cancers; patients that do not have a salivary gland primary must have one of the following histologies - adenoid cystic carcinoma, mucoepidermoid carcinoma, acinic cell carcinoma
+Participants (who have been adequately clinically staged by standard clinical guidelines) with primary, untreated, histologically-confirmed, documented invasive squamous cell carcinoma, adenocarcinoma, or adenosquamous carcinoma of the uterine cervix, International Federation of Gynecology and Obstetrics (FIGO) stages IB2, IIA, IIB, IIIA, IIIB, and IVA; (stage IIA tumors must be greater than 4 cm)
+Histological confirmation (by biopsy or cytology) or clinically diagnosed primary NSCLC; the following primary cancer types are eligible: squamous cell carcinoma, adenocarcinoma, large cell carcinoma, bronchioloalveolar cell carcinoma, or non-small cell carcinoma not otherwise specified
+Histologically document transitional cell carcinoma with the presence of any of the following stages: carcinoma in situ (CIS), high-grade Ta, or any grade T1, detectable at the time of study accrual; combinations of the aforementioned stages are acceptable; subjects with mixed histology are required to have a dominant transitional cell carcinoma (TCC) pattern
+Recurrent or metastatic carcinoma of the nasopharynx and paranasal sinuses, squamous cell carcinoma that originated from the skin and salivary gland or non-squamous histologies (e.g., mucosal melanoma) and SCCHN of unknown primary origin.
+Histologically confirmed stage IV NSCLC (squamous, adenocarcinoma, or large cell carcinoma) that is stable or has partially responded after four cycles of a platinum doublet; (a complete response is not allowed) there is no restriction on prior lines of therapy; maintenance chemotherapy is not allowed
+Patients with recurrent or metastatic squamous cell carcinoma of the lung – diagnosis must be histologically confirmed
+Histologically confirmed squamous cell carcinoma of the target tumor(s)
+Patients with a histologic diagnosis of squamous cell carcinoma, adenocarcinoma, or adenosquamous cell carcinoma of the cervix, stage IA1 (lymph-vascular space invasion [LVSI]+), IA2, and IB1 (tumor size [maximum visible or palpable]) =< 2 cm), any grade
+Have histologically confirmed adenocarcinoma of the pancreas (including adenocarcinoma subtypes such as signet ring carcinoma, adenosquamous carcinoma, undifferentiated/poorly differentiated carcinoma, and mucinous carcinoma)
+Histologically or cytologically documented NSCLC, including squamous cell carcinoma, adenocarcinoma (including bronchoalveolar cell), and large cell anaplastic carcinoma (including giant and clear cell carcinomas) and poorly differentiated non-small cell lung cancer; totally resected tumors are excluded
+Subjects with known esophageal cancer diagnosed by previous endoscopy\r\n* Adenocarcinoma\r\n* Squamous cell carcinoma
+For patients with T1N0 or T2N0 treated squamous cell carcinoma they must have been free of disease for a minimum period of 8 weeks, up to a maximum of 3 years following completion of surgery and/or radiotherapy
+Patients with a treated T1N0 or T2N0 squamous cell carcinoma may have oral premalignant lesions (i.e., hyperplasia, dysplasia, carcinoma in situ) at the time of study entry (provided their stage I or II disease has been definitively treated)
+Currently being treated for metastatic transitional cell carcinoma
+Squamous cell carcinoma of the nasopharynx
+Histologically or cytologically confirmed small cell carcinoma, squamous cell carcinoma or adenocarcinoma (confirmed at Memorial Sloan Kettering Cancer Center [MSKCC]) of the bladder, ureter, urethra, urachus, or renal pelvis; patients with squamous cell carcinoma and adenocarcinoma are required to have a predominant squamous or adenocarcinoma component as reviewed by the pathologist at MSKCC; however, if any element of small cell or neuroendocrine differentiation is present, the patients will be classified as small cell/neuroendocrine
+Carcinoma originating in the nasopharynx or paranasal sinus, squamous cell carcinoma that originated from the skin and salivary gland or non-squamous histology (e.g., mucosal melanoma), squamous cell carcinoma of unknown primary
+Patients must have histologically confirmed stage IB2-IVA epithelial carcinoma of the cervix, including squamous cell, adeno-, and undifferentiated carcinoma, and excluding small cell/neuroendocrine carcinoma, who will undergo radiation therapy for cervical cancer with curative intent
+Subjects with known esophageal cancer (adenocarcinoma or squamous cell carcinoma)
+Prior history of carcinoma
+Patient with nasopharyngeal carcinoma
+Patients undergoing Mohs surgery for basal cell carcinoma (BCC) or squamous cell carcinoma (SCC)
+Nasal, paranasal sinus, or nasopharyngeal carcinoma, aside from WHO Type I and II (keratinizing, non-EBV positive) nasopharyngeal carcinoma which will be allowed.
+Histologically confirmed, measurable, unresectable adenocarcinoma or squamous cell carcinoma of the esophagus; for the purposes of this study, undifferentiated carcinomas or adenosquamous carcinomas will be categorized as adenocarcinomas
+Squamous cell, large cell undifferentiated, neuroendocrine or small cell undifferentiated carcinoma of the lung
+Histologically or cytologically confirmed measurable advanced and/or metastatic solid GI tumor that expresses GCC protein (H-score greater than [>] 10), for which standard treatment is no longer effective or does not offer curative or life-prolonging benefit. For the escalation part of the study (Part A), GI malignancies include, but are not limited to, metastatic colorectal carcinoma (mCRC), gastric carcinoma, esophageal carcinoma, small intestine cancer, and pancreatic cancer. The expansion part of the study (Part B) is limited to participants with CRC.
+Patients with a diagnosis of small cell carcinoma, adenocarcinoma or squamous cell\n             carcinoma of the bladder
+Histologically confirmed recurrent or metastatic squamous cell carcinoma of unknown primary or nonsquamous histologies (example, mucosal melanoma) are not allowed.
+Variants (including but not limited to tall cell, columnar cell, cribriform-morular, solid, oxyphil, Warthin's-like, trabecular, tumor with nodular fasciitis-like stroma, Hürthle cell variant of papillary carcinoma, poorly differentiated)
+Pathologically proven diagnosis of squamous cell carcinoma (including variants such as verrucous carcinoma, spindle cell carcinoma, carcinoma not otherwise specified [NOS]) of the head/neck (oral cavity, oropharynx, hypopharynx or larynx); pathologic stage III or IVA (American Joint Committee on Cancer [AJCC] 8): T3-T4a, N0-3, M0 or T1-T2, N1-3, M0
+Primary tumor site: oral cavity, oropharynx, larynx, hypopharynx
+Patients must have histologically or cytologically confirmed squamous cell carcinoma (SCC) of the oral cavity, oropharynx, hypopharynx or larynx; patients eligible for inclusion must have stage III-IV SCC of the above sites based on current American Joint Committee on Cancer (AJCC) clinical and imaging based staging; only patients with human papillomavirus (HPV)- disease will be included in the phase II portion of the study; HPV status will be ascertained using the currently utilized clinical standard of p16 overexpression via immunohistochemistry
+Patients may not have been treated for another SCC of the oral cavity, oropharynx, hypopharynx or larynx in the past
+Must have diagnosis of head and neck squamous cell carcinoma of the oropharynx (tonsil, base of tongue, soft palate, or oropharyngeal walls), hypopharynx, or larynx
+Histologically or cytologically confirmed incurable HNSCC of the oral cavity, oropharynx, larynx, hypopharynx, and/or level 1-3 neck node with non-skin squamous cell carcinoma (SCC) and unknown primary; “incurable” is defined as metastatic disease or a local or regional recurrence in a previously irradiated site that is unresectable (or patient declines resection)
+Subject must have histologically or cytologically confirmed locoregionally recurrent squamous cell carcinoma of the head and neck (including any primary site, such as oral cavity, oropharynx, larynx or hypopharynx, and nasopharynx carcinoma)
+Any stage HNSCC of the 1) oral cavity, 2) oropharynx, 3) larynx, 4) hypopharynx, 5) nasal cavity/paranasal sinuses, 6) unknown primary; patients with resectable or recurrent disease that is amenable to surgery are eligible
+Biopsy-proven squamous cell carcinoma of the oral cavity or oropharynx without distant organ metastases
+Tumors of the lips, sinuses, salivary glands, nasopharynx, hypopharynx, or larynx
+Participants with previously untreated T1/T2 N0 squamous cell carcinoma of the oral cavity with or without extension to the oropharynx
+Patient has pathologically confirmed SCCHN (oral cavity, oropharynx, larynx, hypopharynx) with evidence of local and/or locoregional recurrence; laryngeal tumors will only be included if there is evidence of extralaryngeal spread, or there is associated nodal disease; for all other sites, superficial tumors can only be included if there is associated nodal disease
+Presence of disease at the oropharynx, hypopharynx, or larynx sub-sites
+ARM 2 - A: Presence of disease at the oropharynx, hypopharynx, or larynx sub-sites
+Histologically or cytologically confirmed stage III or IV HNSCC oral cavity, hypopharynx, oropharynx, larynx (excluding p16 or human papillomavirus [HPV]-positive oropharynx primaries and sinonasal primaries)
+Pathologically confirmed squamous cell carcinoma, undifferentiated carcinoma, or poorly differentiated carcinoma of the oropharynx, larynx, or hypopharynx with no evidence of distant metastasis; biopsy sampling of primary tumor with pathology report documenting diagnostic tissue type is required
+Histologically confirmed squamous cell carcinoma of the head and neck, including the following subtypes: oral cavity, oropharynx, hypopharynx, larynx.
+Larynx squamous cell carcinoma (SCC), hypopharynx SCC, or oral cavity SCC; HPV-unrelated oropharyngeal squamous cell carcinoma (OPSCC) (defined as p16^INK4a negative by immunohistochemistry [IHC] [staining in < 70% of cells] or HPV high risk [type 16 or 18] negative by in situ hybridization [ISH]); P16^INK4a positive larynx SCC, hypopharynx SCC, and oral cavity SCC are eligible
+Histologically confirmed metastatic or recurrent squamous cell carcinoma of the head and neck (oral cavity, oropharynx, hypopharynx & larynx) that is not amenable to curative therapy.
+p16-positive squamous cell carcinoma of the pharynx, larynx or oral cavity
+Patients must have histologically or cytologically confirmed squamous cell carcinoma of oral cavity, oropharynx, paranasal sinuses, hypopharynx, or larynx; squamous cell carcinoma of unknown primary in cervical lymph node can be included only if p16 status is positive
+Previous radiation treatment for head and neck mucosal primary cancers within the past 5 years (i.e. oropharynx, nasopharynx, hypopharynx, larynx, and oral cavity).
+Cancers considered to be from an oral cavity site (oral tongue, floor of mouth, alveolar ridge, buccal or lip), or the nasopharynx, hypopharynx, or larynx, even if p16 positive
+Primary tumors of any head and neck (oral cavity, oropharynx, hypopharynx, or larynx) site will be included
+Histologically or cytologically proven squamous cell carcinoma of the head and neck (lip, oral cavity, oropharynx, larynx, hypopharynx, non- Epstein–Barr virus [EBV] related nasopharynx, sinonasal, cutaneous), not amenable to curative intent therapy
+Synchronous primaries outside of the oropharynx and larynx
+Histologically confirmed recurrent or metastatic squamous cell carcinoma of the head and neck (SCCHN) (oral cavity, oropharynx, hypopharynx, or larynx) not amenable to therapy with curative intent (surgery or radiation therapy with or without chemotherapy); patients who refuse radical resection are eligible
+Pathologically confirmed diagnosis of squamous cell carcinoma of the oropharynx, larynx, hypopharynx, or oral cavity with clinical or pathologic high-risk features for whom cisplatin and radiation would be considered appropriate care.
+Patients must have histologically-confirmed head and neck squamous cell carcinoma with no evidence of distant metastasis; the primary site may be the oral cavity, oropharynx, larynx, or hypopharynx; patients with squamous cell carcinoma of unknown primary, metastatic to cervical lymph nodes, are permitted to enroll
+Have histologically or cytologically-confirmed head and neck squamous cell carcinoma of the oral cavity (excluding lip), oropharynx, hypopharynx, or larynx.
+Biopsy proven HNSCC of the oropharynx, larynx, hypopharynx, or oral cavity stage III-IVB as defined by American Joint Committee on Cancer (AJCC) T0 - T4, N0 - N3, M0
+Histologically or cytologically confirmed incurable HNSCC of the oral cavity, oropharynx, larynx, hypopharynx, and/or level 1-3 neck node with non-cutaneous squamous cell carcinoma (SCC) and unknown primary; “incurable” is defined as metastatic disease or a local or regional recurrence in a previously irradiated site that is unresectable (or patient declines resection)
+T1/2N0-2M0 SCC of the oropharynx, hypopharynx or larynx
+Recurrence of previously pathologically proven squamous cell carcinoma of the head and neck, including original primary sites in the paranasal sinuses, nasal cavity, nasopharynx, oropharynx, oral cavity, larynx, hypopharynx, salivary glands, and/or involvement of cervical lymph nodes
+Patients must have pathologically confirmed, previously untreated, resectable, squamous cell carcinoma of the larynx or hypopharynx
+Additional inclusion for Part B:Has histologically and/or cytologically confirmed SCCHN that is RM and not amendable to curative therapy by surgery or radiation. Squamous cell carcinoma of the head and neck originating from the following sites is eligible: oral cavity, oropharynx, larynx, or hypopharynx. Has at least 1 SCCHN tumour lesion (TL) amenable to biopsy and must have failed, refused, or has been found to be ineligible for least 1 prior platinum-based chemotherapy for RM-SCCHN Additional inclusion criteria for Arms B1 & B2:must have had prior exposure to anti PDL-1 antibody
+Histological or cytological documentation of squamous cell carcinoma of the head and neck (SCCHN) (oral cavity, oropharynx, hypopharynx, or larynx) that is recurrent, locally advanced, or metastatic and is not amenable to curative treatment options, surgery or definitive chemoradiation therapy.
+Pathologically-confirmed squamous cell carcinoma of the oral cavity, oropharynx or hypopharynx or HPV-positive unknown primaries presumed to be of oropharyngeal origin
+Pathologically confirmed diagnosis of squamous cell carcinoma of the mouth, oropharynx, hypopharynx or nasopharynx
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Pathologically confirmed (histology or cytology) stage III or IVA squamous cell cancer of the oral cavity (excluding lip)
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Hemoglobin > 9 g/dL
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Lymphocyte count > 500 x 10^9/mL
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Neutrophil count > 1500 × 10^9/mL
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Platelet count > 100,000 x 10^9/mL
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Serum albumin > 3.0 g/dL
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Willing and able to give informed consent and adhere to protocol therapy
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Any medical contraindications or previous therapy that would preclude treatment with either nivolumab, IRX-2, the surgery, reconstruction or adjuvant therapy required to treat the oral tumor appropriately
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Clinical status of either subject or tumor such that administration of 10 day neoadjuvant IRX-2 1 or 2 before surgery would be medically inappropriate
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Primary tumor of the oropharynx
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Any investigational agent within the previous 30 days
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Myocardial infarction within the last 3 months
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Evidence of distant metastases (M1 disease) or other concurrent primary malignancy
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Stroke or other symptoms of cerebral vascular insufficiency within the last 3 months
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Allergy to ciprofloxacin (or other quinolones), acetylsalicylic acid
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Prior axillary dissection
+The subject has a histologic or cytologic diagnosis of squamous cell carcinoma of the oral cavity, oropharynx, paranasal sinuses, hypopharynx, or larynx; squamous cell carcinoma of unknown primary in cervical lymph node can be included only if human papillomavirus (HPV) status is positive
+Histologically confirmed squamous cell carcinoma of the head and neck including the oral cavity, oropharynx, hypopharynx or larynx, excluding nasopharynx
+Histologically or cytologically-confirmed diagnosis of HNSCC of the oral cavity, oropharynx, larynx, or hypopharynx.
+High-risk group: Oral cavity, larynx, hypopharynx, or p16-negative oropharynx cancer, stage T1-2N2a-N3 or T3-4-N0-3 based on the following diagnostic workup:
+Pathologically (histologically or cytologically) proven diagnosis of head and neck squamous cell carcinoma (HNSCC) involving the oral cavity (excluding lips), oropharynx (p16 negative), hypopharynx or larynx
+Pathologically (histologically or cytologically) proven diagnosis of head and neck squamous cell carcinoma (HNSCC) involving the oral cavity (excluding lips), oropharynx (p16 negative), larynx, or hypopharynx
+Stage IVA-B disease of 1) oral cavity, 2) oropharynx, 3) larynx, 4) hypopharynx
+Histologically proven squamous cell carcinoma of the oropharynx, hypopharynx or larynx
+Patients must have a histologically or cytologically confirmed, previously untreated squamous cell carcinoma of the oral cavity, oropharynx, hypopharynx, or larynx
+Patients must have histologically confirmed squamous cell carcinoma, undifferentiated carcinoma, or poorly differentiated carcinoma of the oral cavity, oropharynx, larynx, or hypopharynx with no evidence of distant metastasis; biopsy sampling of primary tumor with pathology report documentation of confirmed diagnostic tissue type is required; patients should be evaluated by a radiation oncologist, medical oncologist and otolaryngologist prior to enrolling on study
+Cancers considered to be from an oral cavity site (oral tongue, floor mouth, alveolar ridge, buccal or lip), or the nasopharynx, hypopharynx, or larynx, even if p16 positive, or histologies of adenosquamous, verrucous, or spindle cell carcinomas
+American Joint Committee on Cancer (AJCC) stage III/IVB, excluding T1N1, histologically or cytologically confirmed squamous cell carcinoma or undifferentiated carcinoma of the head and neck; patients should not have distant metastasis; primary sites include: oropharynx, hypopharynx, larynx
+Histologically or cytologically confirmed (from the primary lesion and/or regional lymph nodes) squamous cell carcinoma of the oropharynx, hypopharynx, or larynx that has not been previously treated or resected; patients with unresectable oral cavity cancers are also eligible; human papilloma virus (HPV) testing is required, although both HPV-positive and -negative patients are eligible
+Patients must have pathologically-confirmed, previously untreated, clinically accessible (without general anesthesia) locally advanced squamous cell carcinoma of the larynx, hypopharynx, oropharynx, or oral cavity or nonresectable head and neck squamous cell carcinomas of the skin
+Previous radiation treatment for head and neck mucosal primary cancers within the past 5 years (i.e. oropharynx, nasopharynx, hypopharynx, larynx, and oral cavity)
+Histologically confirmed squamous cell carcinoma of the oral cavity, oropharynx, hypopharynx, or larynx.
+Pathologically (histologically) proven diagnosis of squamous cell carcinoma (including variants such as verrucous carcinoma, spindle cell carcinoma, carcinoma not otherwise specified [NOS], etc.) of the head/neck (oral cavity, oropharynx or larynx); note: hypopharynx primaries are excluded
+Documented evidence of recurrent or metastatic SCCHN (oral cavity, oropharynx, hypopharynx, or larynx).
+Histologically or cytologically confirmed squamous cell carcinoma of the oral cavity, oropharynx, hypopharynx or larynx, not amenable for salvage surgery or radiotherapy.
+Patients must have histologically or cytologically confirmed diagnosis (from primary lesion and/or lymph nodes) of Squamous Cell Cancer of the oropharynx, hypopharynx or larynx (For patients with oropharynx primary, the tumor must be negative for p16 by immunohistochemistry).
+Primary tumor locations of oropharynx, oral cavity, hypopharynx, or larynx. Participants may not have a primary tumor site of nasopharynx (any histology)
+Histologically- or cytologically-confirmed recurrent or metastatic HNSCC of the oral cavity, oropharynx, hypopharynx, and larynx that is considered incurable by local therapies
+Has histologically- or cytologically-confirmed recurrent disease not amenable to curative treatment with local or systemic therapy, or metastatic (disseminated) head and neck squamous cell carcinoma of the oral cavity, oropharynx, hypopharynx, and larynx that is considered incurable by local therapies
+Histologically or cytologically documented squamous cell carcinoma of the oropharynx, larynx or hypopharynx; human papillomavirus (HPV) status will not be assessed for eligibility
+Clinical diagnosis of squamous cell cancer of the head and neck (non-nasopharynx primary tumors: oral cavity, oropharynx, hypopharynx and larynx) or skin
+Previously untreated, histologically proven primary squamous cell carcinoma arising in the oral cavity, oropharynx, or supraglottic larynx, and amenable to transoral approach; NOTE: in some cases, patients with disease deemed amenable to transoral approach at the time of diagnosis may have their entire primary tumor extirpated via diagnostic biopsy; when this happens, patients will remain eligible for the protocol as long as they have evaluable disease in the neck; in this case, the choice between a transoral procedure plus dissection or neck dissection alone will be made by the surgeon as per standard of care
+Patients with pathologically confirmed cancers of paranasal sinuses, oropharynx, oral cavity, nasopharynx, larynx, hypopharynx, and unknown primary and will receive definitive radiation therapy with or without chemotherapy
+Histologically confirmed metastatic or recurrent squamous cell carcinoma of the head and neck (SCCHN) of the oral cavity, oropharynx, hypopharynx or larynx; metastatic or recurrent lesions of the nasopharynx and sinus are excluded
+Primary sites other than oral cavity, oropharynx, hypopharynx, and larynx
+Patients must have cytologically or histologically proven recurrent or metastatic squamous cell cancer of the head and neck (SCCHN) from the primary tumor or lymph nodes of the oral cavity, larynx, oropharynx, or hypopharynx.
+Histologically confirmed squamous cell carcinoma of the head and neck (SCCHN), from any of the following primary sites only: oral cavity, oropharynx, hypopharynx, and larynx.
+Confirmed squamous cell carcinoma of the head and neck (oropharynx, oral cavity, hypopharynx, or larynx) or skin
+Patients must have pathologically-confirmed, resectable, squamous cell carcinoma of the oral cavity, oropharynx, larynx or hypopharynx
+Advanced stage but not metastatic SCC of the oral cavity (III or IVa, b); sites in the oral cavity include oral tongue, floor of mouth, hard palate, gingiva, buccal mucosa, retromolar trigone; often, head & neck tumors may involve other adjacent sites, such as the oropharynx- in these cases, the criteria is that the tumor must appear to have originated in the oral cavity per ear, nose, and throat (ENT)/radiation oncology
+Patients must have histologically or cytologically confirmed SCCHN that is recurrent and/or metastatic and not amendable to curative therapy by surgery or radiation; SCCHN originating from the following sites are eligible: oral cavity, oropharynx, larynx, hypopharynx and paranasal sinus; for patients with a diagnosis of SCCHN of unknown origin, their eligibility must be reviewed and approved by the principal investigator
+Histologically confirmed recurrent squamous cell carcinoma of the oral cavity, pharynx, (oropharynx, larynx) and neck
+Histologically or cytologically confirmed recurrent or metastatic squamous cell carcinoma of the head and neck (oral cavity, oropharynx, hypopharynx or larynx) that is incurable by local therapy.
+Histologically or cytologically confirmed primary, untreated SCCHN including variants. Patients must be candidates for surgical resection. Primary tumors of oral cavity, oropharynx, hypopharnyx or larynx are included.
+Primary tumors of the oral cavity, oropharynx, hypopharynx, or larynx will be included
+Histologically confirmed R/M SCCHN of mucosal origin (e.g., oral cavity, oropharynx, hypopharynx, larynx) that is not amenable to further curative local therapy (e.g., surgery, radiation including re-irradiation) (1L R/M)
+Head and neck squamous cell carcinoma (HNSCC) Cohort: Participants with histologically confirmed inoperable, locally advanced or metastatic, recurrent, or persistent HNSCC (oral cavity, oropharynx, hypopharnyx, or larynx) not amenable to curative therapy not previously treated with anti-PD-L1/PD-1 and/or anti-CTLA-4 (investigational or approved)
+Histologically or cytologically confirmed R/M HNSCC of the oral cavity, oropharynx, hypopharynx or larynx, not amenable for salvage surgery or radiotherapy
+Histologically confirmed SCCHN from any of the following primary sites: oral cavity, oropharynx, hypopharynx, and larynx.
+Patients with Tl/T2 squamous cell carcinoma of the oral cavity with or without extension to the oropharynx
+Has a pathologically proven new diagnosis of oropharyngeal p16 positive, oropharyngeal p16 negative, or larynx/hypopharynx/oral cavity (independent of p16) squamous cell carcinoma. Participants with oral cavity tumors need to have unresectable disease. Participants with multiple synchronous tumors are not eligible for the study.
+Has cancer outside of the oropharynx, larynx, and hypopharynx or oral cavity, such as nasopharyngeal, sinus, other para-nasal, or other unknown primary head and neck cancer
+Histologically confirmed locally advanced cancer of mucosa of the head and neck.\r\n* Eligible subsites will include nasal cavity, paranasal sinuses, nasopharynx, oropharynx, oral cavity, major salivary glands, oropharynx, larynx, hypopharynx, cervical esophagus, or unknown primary site with lymph node metastases.\r\n* Clinical or pathologic stage III-IV
+Has a new or recurrent American Joint Committee on Cancer (AJCC) stage I-IV squamous cell carcinoma of the upper aerodigestive tract (including lip/oral cavity, nasopharynx, salivary gland, oropharynx, hypopharynx, paranasal sinus, and larynx cancers)
+Pathologically-confirmed diagnosis of squamous cell carcinoma of the head and neck, defined as SCC of the oral cavity or oropharynx that will be treated with cisplatin plus concurrent IMRT Note: Patients with unknown primary tumors whose treatment plan matches the requirements specified in Inclusion Criteria #2 and #3 below are eligible for the trial.
+Tumor of the lips, larynx, hypopharynx, nasopharynx, sinuses, or salivary glands
+Family member or friend of an adult patient with a new diagnosis of stage II-IV cancers of the tongue, gum, oral cavity, nasopharynx, oropharynx, hypopharynx, larynx, or parotid who is receiving radiation therapy for curative intent
+Patients with squamous cell carcinoma of the oral cavity, oropharynx, hypopharynx, or larynx will be eligible
+Histological confirmation of tumor of the oral cavity, oropharynx, supraglottic larynx, or nasopharynx
+Have recently diagnosed (within previous 6 months) pathologically confirmed, non-metastatic squamous cell carcinoma of the oral cavity, oropharynx, hypopharynx, or supraglottic larynx that will be treated with CRT therapy as first line non-surgical treatment. Scans (CT, PET, and/or MRI) obtained within 120 days prior to consent for screening can be used to determine the subject's eligibility.
+Subjects undergoing definitive mucosal head and neck tumor resection including oral cavity, oropharynx, larynx, and hypopharynx
+Pathologically-confirmed diagnosis of squamous cell carcinoma of the head and neck (SCCHN), defined as SCC of the oral cavity or oropharynx, that will be treated with standard cisplatin and Intensity-Modulated Radiation Therapy (IMRT)
+Histologic proof of squamous cell carcinoma of the oral cavity, oropharynx, nasopharynx, hypopharynx, or larynx
+Patients must have histologically or cytologically confirmed squamous cell carcinoma of the nasopharynx, oropharynx, larynx, hypopharynx, oral cavity
+Eligible tumor and premalignant lesion sites include oral cavity (buccal mucosal, gingival, floor of mouth, dorsal/ventral tongue, pharyngeal wall), oropharynx, larynx (glottis, supraglottis, subglottis, epiglottis), hypopharynx paranasal sinus and nasal cavity
+Lesion sites include oral cavity (buccal mucosa, gingival, floor of mouth, dorsal/ventral tongue, pharyngeal wall), oropharynx, hypopharynx, larynx (glottis, supraglottis, subglottis, epiglottis), nasopharynx and paranasal sinuses
+Biopsy-proven HNC including cancers of the nasopharynx, oropharynx, larynx, hypopharynx, or HNC of unknown primary origin amenable to therapy with radiation and concurrent chemotherapy
+Patients with oral cavity squamous cell cancer requiring neck dissection
+Histologically proven squamous cell carcinoma of the head and neck (SCCHN) from one of the following primary sites: oral cavity, oropharynx, hypopharynx, and larynx
+Recently-diagnosed (within the last 6 months), histologically-documented, non-metastatic squamous cell carcinoma of the oral cavity and/or oropharynx amenable to radiotherapy with concurrent chemotherapy as the definitive treatment modality.
+Histologically or cytologically proven squamous cell carcinoma of the oral cavity or pharynx (OSCC)
+locoregional OSCC (T stage II-IV) of the oral cavity, oropharynx, larynx, or hypopharynx without evidence of distant metastases
+Histologically confirmed diagnosis of metastatic or recurrent SCCHN of the oral cavity, oropharynx, hypopharynx, or larynx. Disease must be unsuitable for curative surgical resection and must not be amenable to curative radiotherapy.
+Histologically or cytologically-confirmed, HPV (+) or HPV (-) squamous cell carcinoma of the nasopharynx (WHO Type 1), oropharynx, hypopharynx, larynx (supraglottis, glottis, subglottis) or oral cavity,
+Patients must have pathologically/histologically confirmed tumor of non-small cell histology
+Predominant non-squamous histology (patients with NSCLC not otherwise specified [NOS] are eligible); mixed tumors will be categorized by the predominant cell type; if small cell elements are present the patient is ineligible
+Pure small cell or other variant (non-adenocarcinoma) prostate cancer histology for which treatment with abiraterone would not be considered appropriate
+Patient must have epithelioid or biphasic histology (sarcomatoid histology is excluded); histologic diagnosis and typing of mesothelioma will require at least a core needle biopsy or surgical biopsy of the pleura via thoracoscopy and small thoracotomy; cytology only will not be regarded as sufficient for the diagnosis
+Patients with histology consistent with pure SCU must have positive INI1/SMARCB1 staining
+Have documented histologically or cytologically confirmed advanced NSCLC with no small cell histology or neuroendocrine histology
+Malignancy of squamous histology. In cases of mixed histology, squamous must be the predominant histology.
+Must have histologic demonstration of metastatic or surgically unresectable urothelial cancer. Minor components of variant histology such as glandular or squamous differentiation, or evolution to more aggressive phenotypes such as sarcomatoid or micropapillary change are acceptable
+Histology other than adenocarcinoma
+Mucinous or tubal histology or other good prognosis histology
+Intrahepatic cholangiocarcinoma diagnosed by histology.
+Has non-squamous histology NSCLC.
+Patient has disease of nasopharyngeal carcinoma histology
+Mixed histology including clear cell, serous, undifferentiated or sarcomatous elements
+For phase 1, patients with multifocal low-grade Ta histology will be eligible for participation
+For phase 2, individuals with Ta disease only must have documentation of high-grade histology
+Patients may not have metastatic disease, unless aged 2-10 with embryonal histology
+Ovarian cancer cohort only: Subjects must have high-grade non-mucinous histology (carcinosarcomas are allowed).
+Non-clear cell histology
+Subjects with poorly differentiated or small cell carcinoma histology
+STUDY TREATMENT: Histology consistent with high-grade epithelial ovarian cancer (excluding mucinous carcinoma, clear cell carcinoma, and carcinosarcoma).
+GENERAL: Mucinous, low-grade histology, clear cell carcinoma, or carcinosarcoma.
+Histologic demonstration of transitional cell carcinoma of the urothelium. Minor components ( less than [<] 50 percent [%] overall) of variant histology such as glandular or squamous differentiation, or evolution to more aggressive phenotypes such as sarcomatoid or micropapillary change are acceptable
+Histologically confirmed prostate cancer (mixed histology is acceptable, with the exception of the small cell pure phenotype, which is be excluded)
+Patients must have histologic or cytological diagnosis of advanced/metastatic NSCLC with no curative treatment options; for those with mixed histology, there must be a predominant histology
+Pathologic confirmation of eligible histology
+Mixed small-cell lung cancer and sarcomatoid variant NSCLC histology
+Has any evidence of small cell histology, or combined small cell and non-small cell histology, in original tumor biopsy or in screening biopsy performed since progression.
+Histology other than squamous cell carcinoma
+Able to understand their disease and the exploratory nature of combining surgery and HIPEC for this histology
+Patients with multiple primary lung tumors (defined below) are eligible:\r\n* Synchronous tumors (diagnosed within 6 months [mo]),\r\n** Different histology, \r\n** Same histology,\r\n** Second tumor in different lobed or lung;\r\n* Metachronous tumors (diagnosed > 6 mo apart),\r\n** Different histology,\r\n** Same histology,\r\n** Second tumor in different lobe or lung,\r\n** Tumor-free interval of at least 4 years (y)
+Internal review of histology
+Patients with a histology of lymphoma and myeloma histologies
+Histologically confirmed mPAC (mixed histology is acceptable as long as the predominant histology is pancreatic adenocarcinoma)
+Histologically confirmed prostate cancer (mixed histology is acceptable, with the exception of the small cell pure phenotype, which is be excluded
+Histology showing mucinous or low-grade epithelial ovarian carcinoma
+Known (histology/cytology proven) or evidenced by radiology of recurrent and/or metastatic SCCHN not suited for local therapy
+Craniopharyngioma diagnosed by histology, cytology or neuroimaging or intra-operative assessment
+Histology showing mucinous or low grade epithelial carcinoma
+Any component of small cell histology
+Internal review of histology
+Patients with lung cancer with squamous histology
+Patients with squamous cell histology or non-squamous cell histology previously treated by pemetrexed and with a contraindication for docetaxel with grade ? 2 neuropathy or hypersensitivity reaction to medications formulated with polysorbate 80 (Tween 80) as they could be randomly assigned to Arm B.
+Biopsy confirmed CD8+ CTCL histology
+Patients with non-clear cell histology must have received at least one prior anti-cancer therapy; prior rapalogues are allowed
+Histologically-confirmed diagnosis of high risk non-muscle-invasive (T1, high grade Ta and / or carcinoma in situ [CIS]) transitional cell carcinoma of the bladder (mixed histology tumors allowed if transitional cell histology is predominant histology).
+Patients with positive pelvic washings as the only extra-uterine disease are NOT eligible if the histology is other than clear cell or papillary serous carcinoma.
+Small cell or other variant (non-adenocarcinoma) prostate cancer histology, unless there is evidence that the tumor expresses PAP
+Melanoma or renal histology
+All patients must have histologic demonstration of metastatic or locally unresectable transitional cell carcinoma of the urothelium; variant histology is allowed as long as there is an urothelial component present; the principal investigator (PI), will serve as the final arbiter of eligibility
+Patients must have histologic or cytologic diagnosis of advanced/metastatic NSCLC. For those with mixed histology, there must be a predominant histology.
+Glandular abnormalities on cytology or histology
+Patients with gynecologic malignancy of low-grade serous or borderline histology
+Histologic examination showing invasive lobular histology.
+Bulky celiac adenopathy (?2.5 cm) or nonadenocarcinoma histology.
+Presence of measurable disease that has been confirmed by histology or cytology.
+Participants must have classical histology posterior fossa medulloblastoma as determined by institutional neuro-pathological evaluation
+Epithelioid or biphasic histology subtype (Note: patients with biphasic histology can have < 10% sarcomatoid)
+> 10% Sarcomatoid or desmoplastic histology
+Patients with biopsy-proven small cell or sarcomatoid histology
+Radiation sensitive histology such as lymphoma, myeloma, or plasmacytoma are not allowed
+Since small cell tumors of the bladder are often associated with other variant histology including TCC and adenocarcinoma, the presence of variant histology will be allowed
+Histologic demonstration of transitional cell carcinoma of the urothelium. Minor components (less than [<] 50 percent [%] overall) of variant histology such as glandular or squamous differentiation, or evolution to more aggressive phenotypes such as sarcomatoid or micropapillary change are acceptable
+Patients must have histologically confirmed disease that is unresectable and not amenable to curative intent therapy: \r\n* Cohort A: salivary gland cancers (mucoepidermoid carcinoma, adenocarcinoma, adenoidcystic carcinoma, acinic cell carcinoma, or other histology) originating in salivary glands \r\n* Cohort B: thyroid cancer, radioactive iodine (RAI)-refractory and after failure, intolerance to or refusal of anti-antiangiogenic therapy, or with evidence of dedifferentiated or anaplastic histology
+For Stage 2 only, mixed histology i.e. patients with >10% non-endometrioid malignant cells in provided histopathology samples.
+Predominantly squamous cell histology NSCLC. Mixed tumors will be categorized by the predominant cell type; if small cell elements are present, the participant is ineligible.
+Non-adenocarcinoma histology
+The invasive component of the tumor has a grade 3 histology
+Patients with small cell lung cancer (SCLC) documented by histology or cytology from brushing, washing, or needle aspiration of a defined lesion, but not from sputum cytology alone
+Subjects with any kind of non-small cell lung carcinoma (NSCLC) histology documented by histology or cytology from bronchial brushing or washing, or needle aspiration of a defined lesion but not from sputum cytology alone
+Histology other than adenocarcinoma
+Able to understand their disease and the exploratory nature of combining surgery and HIPEC for this histology
+Presence of lymphovascular invasion and/micropapillary disease as shown in the histology of the biopsy sample
+Must have received at least 2 prior lines of therapy for the treatment of current histology; there are no treatment options available known to provide clinical benefit. Refer to National Comprehensive Cancer Network (NCCN) guidelines of each respective histology for guidance.
+Carcinomas of the nasopharynx, salivary gland, or nonsquamous cell histology are excluded.
+Has predominantly squamous cell histology NSCLC.
+Evidence of signet ring involvement on histology
+Diagnosis of ovarian carcinoma with mucinous histology
+Diagnosis with confirmed histology of one or more of the following:
+Histologically-confirmed inoperable superior, medial, or distal third esophageal adenocarcinoma (Siewert type I classification may be included, provided there is no mixed histology)
+Patients with predominant (> 30%) non-endometrioid histology (such as serous, clear cell, or carcinosarcoma)
+Tumors of adenocarcinoma, melanoma, small cell and basal cell histology are excluded
+Small cell or other (non-adenocarcinoma) variant prostate cancer histology
+The patient must have a pathologically confirmed (by histology or cytology) diagnosis of SCLC, which is currently extensive disease.
+Patients with grade 2-3 endometrioid, uterine serous, clear cell, mucinous, squamous, transitional cell, sarcomas, or carcinosarcoma histology
+Poorly differentiated histology, uterine papillary serous carcinoma, clear cell carcinoma or carcinosarcoma is acceptable as long as the predominant metastatic component is epithelial (versus sarcomatous)
+Any bladder tumor with histology other than TCC.
+Metastatic or recurrent merkel cell carcinoma (MCC) confirmed by histology
+Patients with a small cell component in their histology are excluded
+Evidence of histology of the tumor other than papillary serous adenocarcinoma or endometrioid type of endometrial carcinoma or mixed histology of the tumor;
+Non-squamous histology including lymphoma, neuroendocrine carcinoma, adenocarcinoma, or other histology
+Histology other than squamous cell carcinoma
+Patients with a diagnosis of intrathoracic lung carcinoma of squamous cell histology are not eligible for participation
+Histologic or cytologic diagnosis of SCLC (Note: patients with mixed histology are not eligible)
+Adenocarcinoma histology (including poorly differentiated non-small cell lung cancer [NSCLC], favor adenocarcinoma) of any variant, including adenosquamous histology
+Non-clear cell or predominantly (> 50%) sarcomatoid histology
+Patients who have uterine sarcomas, carcinosarcomas, any serous histology or pure clear cell carcinomas
+Small cell or other variant prostate cancer histology
+Craniopharyngioma diagnosed by histology, cytology or neuroimaging
+Small cell or other variant prostate cancer histology
+COHORT 2 ONLY: Patients must have pathologically or cytologically confirmed salivary gland cancer of any histology except for adenoid cystic carcinoma
+Grade 3 histology
+Mucinous or tubal histology or other good prognosis histology
+Histology other than squamous cell carcinoma
+Medulloblastoma patients who are >= 3 and < 5 years of age with no more than 1cm^2 of residual tumor and with no evidence of CNS metastasis; medulloblastoma patients in the >= 3 and < 5 years old age group with anaplastic histology, large cell histology, melanotic differentiation, or myogenic differentiation or tumors with MYC or MYCN gain or amplification are excluded; pathology from collaborating institutions’ patients must be centrally reviewed prior to enrollment for confirmation
+Subject has histologically confirmed locally advanced, metastatic or unresectable Stage IIIB/IV adenocarcinoma NSCLC (newly diagnosed or recurrent). Subjects with mixed histology are eligible if adenocarcinoma is the predominant histology.
+Patient must have a histological diagnosis of neuroblastoma or ganglioneuroblastoma and be either newly diagnosed with high risk disease or have failed previous treatment:\r\n* Patients who have failed previous treatment may have had no more than one earlier autologous hematopoietic progenitor cell (HPC) transplant\r\n* High risk is defined as any of the following scenarios:\r\n** Stage 2A/2B, any age , amplified myelocytomatosis viral related oncogene, neuroblastoma derived (avian) (MYCN) , any ploidy , any International Neuroblastoma Pathology Classification (INPC) histology\r\n** Stage 3, any age , amplified MYCN , any ploidy, any INPA histology\r\n** Stage 3, age >= 547 days , not amplified MYCN, any ploidy , unfavorable INPA histology\r\n** Stage 4, age < 365 days , amplified MYCN, any ploidy, any INPA histology \r\n** Stage 4, age 365 - < 547 days , amplified MYCN, any ploidy , any INPA histology\r\n** Stage 4, age 365 - < 547 days , any MYCN , ploidy (DI) = 1, any INPA histology\r\n** Stage 4, age 365 - < 547 days , any MYCN, any ploidy, unfavorable INPA histology\r\n** Stage 4, age >= 547 days , any MYCN, any ploidy, any INPA histology\r\n** Stage 4S , age < 365 days , amplified MYCN, any ploidy, any INPA histology
+Diagnosis of metastatic lung cancer, with histologic confirmation of the primary NSCLC histology and with at least one lesion amenable for intra-tumoral injection of MV-NIS.
+Patients with mixed histology SCLC and NSCLC are permitted
+Sarcomatoid histology
+Patients with non-squamous cell histology
+Histology grades 1, 2 or 3a
+Squamous or mixed histology (eg, adenosquamous) NSCLC
+Pancreatic tumor histology other than carcinoma (e.g. islet cell, lymphoma, etc.)
+Patients with unknown status of EGFR mutation (only for patients with adenocarcinoma histology)
+Mixed histology or undifferentiated small cell carcinoma, any stage
+Malignant germ cell tumors with mixed histology such as embryonal carcinoma, choriocarcinoma, yolk sac tumor or seminoma. Note - this refers to the histology at the time of enrollment, not the histolgy at the time of initial presentation.
+Mixed small cell and NSCLC histology
+Positive for KRAS mutation or Squamous cell histology
+Subjects with NSCLC of predominantly squamous histology documented by histology or cytology from brushing, washing or needle aspiration of a defined lesion but not from sputum cytology alone
+Mixed tumor histology
+Tumors with non-clear cell histology must be ectonucleotide pyrophosphatase/phosphodiesterase family member 3 (ENPP3) positive at pre-screening. This sub-group does not have any prior therapy requirement.
+Tumors with clear cell histology: subject must have progressed after at least one anti-VEGFR therapy
+Tumors with papillary histology: includes unclassified histology with papillary features and must be ENPP3 positive at pre-screening. This sub-group does not have any prior therapy requirement.
+Tumors with squamous cell histology
+Patients with one of the following diagnoses by histological diagnoses and by head and spine magnetic resonance imaging (MRI):\r\n* Classic histology metastatic medulloblastoma\r\n* Desmoplastic histology metastatic medulloblastoma\r\n* High-risk supratentorial, non-metastatic, PNET\r\n* Metastatic PNET
+Anaplastic histology will be excluded
+Participants who have squamous histology.
+No collecting duct, medullary or sarcomatoid histology.
+predominant clear cell histology
+Mixed histology of the tumor or evidence of tumor histology other than serous carcinoma or endometrioid type of endometrial carcinoma;
+Documented pancreas cancer by cytology, or histology
+Radiosensitive histology with planned RT dose less than 50 gray.
+Histology showing mucinous or low grade epithelial ovarian carcinoma
+Completely resected NSCLC with negative margins (R0); cancers with a histology of “adenosquamous” are considered a type of adenocarcinoma and thus a “nonsquamous” histology; patients with squamous cell carcinoma are eligible only if the registering site has EA5142 IRB approved
+Multiple prior breast biopsies regardless of histology
+Diagnosis must be documented by histology or cytology from brushings, washings, or needle aspiration of a defined lesion but not from sputum cytology
+Histology other than adenocarcinoma
+Has any evidence of small cell histology, or combined small cell and non-small cell histology, in original tumor biopsy or in Screening biopsy performed after progression
+Histological diagnosis other than PTC; patients with anaplastic tumors are not eligible; however, patients whose tumors contain areas of un-differentiated or dedifferentiated histology may enroll provided the original diagnosis was clearly PTC, and the tumor histology remains predominantly papillary at enrollment
+Have variant histology (micropapillary, nested variant, non-urothelial cell carcinoma elements)
+Cancer Registry cases include stage I-III colon cancer (adenocarcinoma histology), stage I-III rectal cancer (adenocarcinoma histology), stage I-III non-small cell lung cancer (squamous or adenocarcinoma histology)
+Predominant clear cell histology:
+Participants must possess at least two of the following clinical characteristics which enrich for EGFR mutations:\r\n* Smoked less than 10 pack years\r\n* Asian race\r\n* Adenocarcinoma (including adenosquamous carcinoma) on histology or cytology
+The patient must have histologically confirmed, gastric carcinoma, including gastroesophageal junction (GEJ) adenocarcinoma (patients with adenocarcinoma of the distal esophagus are eligible if the primary tumor involves the GEJ)
+Patients must have a histologic diagnosis of adenocarcinoma of the esophagus, gastroesophageal junction (GEJ), or gastric cardia (GC) based on biopsy material or adequate cytologic exam; tumors of the GC are defined as originating within 5 cm of the GEJ
+Assessment of HER2 status in patients with gastric and gastroesophageal junction adenocarcinoma should follow the criteria published by Ruschoff et al. (38) as practicable.
+Patients with breast cancer and gastric and gastroesophageal junction cancer must have received at least 1 prior HER2 targeted therapy for advanced/metastatic disease.
+Patients with stage IV or locally advanced unresectable gastrointestinal adenocarcinomas (gastric, gastroesophageal junction [GEJ], cholangiocarcinoma, hepatocellular, pancreas, small intestinal tumors) who have failed at least one prior therapy; patients with colorectal cancer must have previously received oxaliplatin, irinotecan, and a fluoropyrimidine (dose escalation phase)
+Gastric/gastroesophageal junction/esophageal carcinoma (G/GEJ/E)
+Documented primary diagnosis of histologic- or cytologic-confirmed adenocarcinoma of the stomach or gastroesophageal junction.
+Malignancies other than adenocarcinoma of the stomach or gastroesophageal junction (including hematologic malignancies) within 3 years.
+Gastric or gastroesophageal junction adenocarcinoma
+Histopathologically or cytologically confirmed diagnosis of gastric or gastroesophageal junction (GEJ) adenocarcinoma that is metastatic or locally advanced and unresectable
+Esophageal tumors that are located in the mid esophagus or higher i.e. not involving distal esophagus or gastroesophageal (GE) junction
+Diagnosed with Stage II/III carcinoma of the esophagus or gastroesophageal junction
+PART II: Patients with breast cancer, gastric, gastroesophageal junction or other caners with 1+ to 3+ HER2/neu expression by IHC or a Vysis FISH result > 2.2
+Histologically or cytologically documented adenocarcinoma or squamous cell carcinoma of the cervical or thoracic esophagus or gastroesophageal junction or cardia of stomach
+Locally advanced or metastatic BC that has relapsed or is refractory to established therapies HER2-Expressing Gastric/Gastroesophageal (GEJ) Cancer-Specific Inclusion Criteria
+Have histologically or cytologically confirmed metastatic or recurrent gastric or gastroesophageal junction (GEJ) adenocarcinoma
+Cytologic or histologic proof of adenocarcinoma of the stomach or gastroesophageal junction.
+Histologically or cytologically confirmed adenocarcinoma of the distal esophagus, gastroesophageal junction or stomach, including patients with HER2+ disease; distal esophagus is defined as within 5 centimeters of the gastroesophageal junction (GEJ)
+Pathologically confirmed adenocarcinoma of the esophagus, GEJ or stomach.
+Histologically proven squamous cell carcinoma, adenocarcinoma or undifferentiated carcinoma of the esophagus or gastroesophageal (GE) junction
+Patients must have histologically or cytologically confirmed gastric adenocarcinoma or gastroesophageal junction (Siewert I-III) adenocarcinoma confirmed by the Laboratory of Pathology, National Cancer Institute (NCI)
+Has a pathologic diagnosis of invasive esophageal, gastroesophageal or gastric adenocarcinoma
+Have previously untreated localized gastric or gastroesophageal (GE) junction adenocarcinoma as defined by T2 or greater primary lesion or the presence of any positive nodes-N+(clinical nodes) without evidence of metastatic disease
+Diagnosis of metastatic squamous cell carcinoma and/or adenocarcinoma of the esophagus, gastroesophageal junction, or stomach in need of palliative radiotherapy to the primary tumor or a single metastatic site for symptoms such as pain, dysphagia, and/or gastrointestinal bleeding\r\n* Patients with adenocarcinoma histology and known human epidermal growth factor receptor 2 (HER2) overexpressing disease are permitted to participate if the progressed or are intolerant of prior trastuzumab-containing therapy
+Metastatic or relapsed Gastric cancer (adenocarcinoma) (module 4)
+Histologically or cytologically confirmed adenocarcinoma involving the gastroesophageal junction or gastric cardia
+Histologically or cytologically confirmed adenocarcinoma of the esophagus or gastroesophageal junction (EAC)
+Patients with malignant celiac nodes are eligible if the primary lesion is in the mid-thoracic or distal thoracic esophagus or it is involving the gastroesophageal junction
+Tumor may not extend greater than 4 cm below the gastroesophageal junction
+Histologically confirmed metastatic gastric or esophagogastric junction (type I, II, III Siewert) adenocarcinoma
+Histologically documented adenocarcinoma or squamous cell carcinoma of the cervical or thoracic esophagus or gastroesophageal junction or cardia of stomach
+Subject has histologically confirmed diagnosis of Gastric or GEJ adenocarcinoma.
+Key inclusion criteria:\n\n          1. Histologically or cytologically confirmed gastric adenocarcinoma, including gastric or\n             gastroesophageal-junction adenocarcinoma (Histologically confirmed adenocarcinoma of\n             the lower esophagus acceptable with radiographic or endoscopic documentation of\n             gastroesophageal-junction or proximal-stomach involvement.)\n\n          2. Measurable disease (revised RECIST) based on computed tomography, or nonmeasurable\n             disease\n\n          3. ECOG performance status 0 or 1\n\n          4. Treatment with only 1 prior regimen (as first-line therapy) that must have included a\n             fluoropyrimidine and a platinum-containing agent (Prior adjuvant or neo-adjuvant\n             chemotherapy acceptable provided 6 months elapsed between the end of this therapy and\n             the start of first-line therapy.)\n\n          5. Disease progression after the start of the 1 prior regimen based on computed\n             tomography\n\n          6. Adequate bone marrow, hepatic, and renal function\n\n          7. Ability to swallow an oral solid-dosage form of medication\n\n        Key exclusion criteria:\n\n          1. Squamous cell gastric carcinoma\n\n          2. Bone-only metastatic disease\n\n          3. History or presence of brain metastasis or leptomeningeal disease\n\n          4. Operable gastric or gastroesophageal-junction cancer\n\n          5. HER2-positive disease if the patient has not previously been treated with an anti-HER2\n             agent\n\n          6. Uncontrolled diarrhea, nausea, or vomiting\n\n          7. Known malabsorptive disorder\n\n          8. Significant medical disease other than gastric cancer\n\n          9. Presence of neuropathy > Grade 1 (NCI Common Toxicity Criteria)\n\n         10. Prior treatment (including adjuvant therapy) with a taxane or other tubulin-targeted\n             agent (indibulin, eribulin, etc.)\n\n         11. Prior radiation therapy to more than 25% of the bone marrow\n\n         12. Need to continue any regularly-taken medication that is a potent inhibitor or inducer\n             of the CYP3A pathway\n\n         13. Pregnancy or lactation
+Expansion cohort (gastric or GE junction): histologically or cytologically confirmed diagnosis of advanced gastric cancer or GE junction with positive PD-L1 (threshold of positivity combined positive score [CPS] >= 1) whose disease progressed on or after two or more prior systemic therapies, including fluoropyrimidine- and platinum-containing chemotherapy and, if appropriate, HER2/neu targeted therapy, refused chemotherapy, or were not candidates for chemotherapy
+Histologically-confirmed advanced or metastatic unresectable gastric carcinoma, or adenocarcinoma of the gastroesophageal junction
+Unresectable locally advanced or metastatic histologically proven HER2+ gastroesophageal junction (GEJ) or gastric adenocarcinoma.
+Patients must have histologically or cytologically confirmed squamous cell carcinoma or adenocarcinoma of the esophagus or gastroesophageal (GE) junction\r\n* For the phase I study, patients can have disease that is deemed resectable or unresectable\r\n* For the phase II study, patients must have disease that is resectable
+The participant has a diagnosis of gastric or GEJ adenocarcinoma.
+Must have histologically or cytologically confirmed diagnosis of gastric or gastroesophageal junction adenocarcinoma.
+Subjects with histologically confirmed unresectable locally advanced or metastatic adenocarcinoma of the stomach or gastro-esophageal junction (GEJ)
+Prior chemotherapy for unresectable locally advanced or metastatic adenocarcinoma of the stomach or gastro-esophageal junction (GEJ)
+For gastric or GEJ adenocarcinoma:
+Histological or cytological confirmation of metastatic or recurrent gastric or gastroesophageal junction adenocarcinoma
+Has histologically confirmed non-resectable, metastatic gastric adenocarcinoma including adenocarcinoma of the gastroesophageal junction.
+Histologically-confirmed gastric or GEJ adenocarcinoma (Siewert type II/III classification) Or
+Histologically confirmed inoperable advanced gastric adenocarcinoma (including adenocarcinoma of the gastrooesophageal junction) or relapsed gastric adenocarcinoma
+Adults with histologically confirmed adenocarcinoma of the stomach or gastroesophageal junction that is inoperable, locally advanced or metastatic and not amenable to curative therapy
+Have a histopathologically confirmed diagnosis of metastatic gastric or gastroesophageal junction (GEJ) adenocarcinoma. All histologies of nonsquamous cell origin including undifferentiated gastric carcinoma are eligible.
+Biopsy-proven and inoperable locally advanced, recurrent, or metastatic cancer of the esophagus, stomach, or gastro-esophageal junction – adenocarcinoma type
+Gastric, Esophageal, and G-E Junction Adenocarcinoma
+Must have gastric cancer or gastroesophageal junction cancer that cannot be operated on and that is advanced or has spread out
+Histologically or cytologically confirmed T 3/4 or N+ (> 1 cm in size or fludeoxyglucose F-18 [FDG] avid) gastric or gastroesophageal (GE) junction cancer; diagnosis must be confirmed a Dana-Farber (DF)/Harvard Cancer Center (HCC) institution pathology department prior to registration
+The participant has a histopathologically or cytologically confirmed diagnosis of gastric or gastroesophageal junction (GEJ).
+Histologically documented adenocarcinoma or squamous cell carcinoma of the cervical esophagus, thoracic esophagus, or gastroesophageal junction
+Histologically- or cytologically-confirmed diagnosis of gastric or gastroesophageal junction adenocarcinoma
+Cytologic or histologic proof of adenocarcinoma of the stomach or gastroesophageal junction
+Histologically confirmed metastatic adenocarcinoma of the stomach or GEJ
+Patients must have metastatic disease of the esophagus, gastroesophageal junction or stomach; patients with locally recurrent disease who are not deemed eligible for radiation are also permitted\r\n* Histological, cytologic or radiographic documentation of metastatic adenocarcinoma or squamous cell carcinoma of the esophagus, gastroesophageal junction or stomach; radiologic, endoscopic, histologic or cytologic evidence of locally recurrent disease is also permitted
+Histologically confirmed, unresectable, metastatic diffuse gastric cancer including carcinoma of the gastro-esophageal junction
+Histologically confirmed, chemo-refractory, locally advanced, recurrent or metastatic gastric (including GE junction), colorectal, or pancreatic adenocarcinoma.
+Histologically confirmed primary (non-recurrent) adenocarcinoma (AC) or squamous cell carcinoma of the esophagus or AC of the gastroesophageal (GE) junction
+Prior surgery or radiotherapy for esophageal or gastroesophageal junction cancer
+Patients must have histologically or cytologically confirmed metastatic or unresectable gastric or gastroesophageal junction (GEJ) adenocarcinoma; GEJ adenocarcinoma may be classified according to Siewert’s classification type I, II, or III
+Histologically confirmed adenocarcinoma of the stomach or gastroesophageal junction (Siewert type II, III)
+Subjects must have histologically or cytologically confirmed adenocarcinoma or poorly differentiated carcinoma of the intrathoracic esophagus, gastrointestinal junction or stomach
+Histological diagnosis of metastatic or locally advanced inoperable adenocarcinoma of the esophagus, gastroesophageal junction or stomach
+Histologically confirmed metastatic or advanced inoperable adenocarcinoma of the stomach or gastroesophageal junction with immunohistochemistry (IHC) evidence of guanylyl cyclase C (GCC) expression indicated by an H-score of 10 or greater.
+Treatment with 1 or more prior chemotherapies for advanced or metastatic adenocarcinoma of the stomach or gastroesophageal junction.
+Histologically confirmed adenocarcinoma of the stomach or gastro-esophageal junction with metastatic disease documented to involve at least liver or lung or both
+Advanced/unresectable or metastatic breast cancer or gastric or gastroesophageal junction adenocarcinoma that is refractory to or intolerable with standard treatment, or for which no standard treatment is available. Part 2a:
+Advanced gastric or gastroesophageal junction adenocarcinoma with HER2 overexpression that is refractory to or intolerable with standard treatment, or for which no standard treatment is available.
+Advanced/unresectable or metastatic solid malignant tumor with HER2 expression other than breast cancer and gastric or gastroesophageal junction adenocarcinoma that is refractory to or intolerable with standard treatment, or for which no standard treatment is available.
+Part B1: Gastric or Gastroesophageal Junction (GEJ) adenocarcinoma
+Assessment of HER2 status in subjects with gastric and gastroesophageal junction adenocarcinoma should follow the criteria published by Rüschoff et al (2012) as practicable.
+All subjects with breast and gastric/gastroesophageal junction cancers should have HER2 testing performed using an assay kit/methodology specifically FDA-approved for their cancer type as practicable.
+Participants must have a history of advanced gastric cancer (AGC), defined as\n             unresectable and locally advanced or metastatic gastric cancer, including\n             adenocarcinoma of the gastroesophageal junction (GEJ), and must have experienced\n             disease progression during or after first-line therapy for their disease
+Patient has a malignant stricture of the distal esophagus or gastric cardia requiring stent placement across the gastroesophageal junction.
+Subject must have histologically or cytologically confirmed gastric, or gastroesophageal adenocarcinoma, or distal esophageal adenocarcinoma.
+Adenocarcinoma of the stomach or gastroesophageal junction with inoperable, metastatic disease, not amenable to curative therapy
+Part F - Histologically- or cytologically-confirmed gastric carcinoma, including gastric adenocarcinoma or gastroesophageal junction (GEJ) adenocarcinoma (participants with adenocarcinoma of the distal esophagus are eligible if the primary tumor involves the GEJ). Participants must be ramucirumab naïve. Participants must be, in the opinion of the investigator, an appropriate candidate for experimental therapy. human epidermal growth factor receptor 2 (HER2)/neu status should be documented, if known.
+Patient must have a histologic diagnosis of gastric or gastroesophageal junction adenocarcinoma
+Dose and Disease Expansion Cohorts: histologically confirmed renal cell carcinoma, gastric carcinoma (including gastro-esophageal junction adenocarcinoma), and a biomarker driven cohort of tumors with evidence of c-MET dysregulation (amplification, mutation)
+The primary tumor must originate in the esophagus; tumors that involve the gastroesophageal (GE) junction must meet Sievert type 1 criteria: “adenocarcinoma of the distal oesophagus which usually arises from an area with specialized intestinal metaplasia of the oesophagus (i.e. Barrett’s oesophagus) and which may infiltrate the esophagogastric junction from above;” for the purposes of this protocol, this will be interpreted as: greater than 50% of the tumor must be above the GE junction or, alternatively, the tumor must involve the GE junction and arise in the setting of biopsy-documented Barrett’s esophagus (specialized intestinal metaplasia)
+Squamous Cell Carcinoma of the Head and neck (SCCHN)
+Non-viral-associated head and neck squamous cell carcinoma (HNSCC) or HPV-associated HNSCC after failure of prior therapy
+Squamous cell carcinoma of the head and neck;
+Pathologically confirmed head and neck squamous cell carcinoma (HNSCC)
+Histologically or cytologically confirmed diagnosis of stage III/IV recurrent and/or metastatic squamous cell carcinoma of the head and neck not suited for local therapy
+Has a history of re-irradiation for squamous cell carcinoma of the head & neck (SCCHN) at the projected injection site.
+Diagnosis of unknown primary squamous cell carcinoma of the head and neck
+Participants must have a pathologic cancer diagnosis:\r\n* COHORT I: Squamous cell carcinoma of the head and neck, nasopharyngeal cancer, or salivary gland cancer\r\n* COHORT II: Solid tumor to the head and neck amenable to palliative treatment, including but not limited to squamous cell carcinoma, adenocarcinoma, sarcoma, melanoma, NK/T lymphoma, poorly differentiated thyroid cancer, and anaplastic thyroid cancer
+Squamous head and neck cancer
+No previous surgery, radiation therapy or chemotherapy for head and neck squamous cell carcinoma (SCCHN) (other than biopsy or tonsillectomy) is allowed at time of study entry
+Histologically-proven recurrent squamous cell carcinoma of the head and neck (SCCHN), who has received prior radiotherapy with or without chemotherapy; new primary is allowed if location is in a previously irradiated field; biopsy is recommended for each recurrence but is not mandated per study; this will be at the discretion of the principal investigator
+COHORT B, GROUP 4: HEAD AND NECK SQUAMOUS CELL CANCER: Patients with head and neck squamous cell carcinoma must have failed a platinum based chemotherapy regimen that was administered for advanced disease with a palliative intent: patients treated with concurrent platinum agent and radiation as definitive therapy are not eligible unless they subsequently received another line of systemic therapy
+Histologically proven recurrent/metastatic squamous cell carcinoma arising from a previous head and neck primary site, and located within the head and neck region, lung or bone, and who are not candidates for curative intent therapy
+Patients must have histologically confirmed squamous cell carcinoma of the head and neck (unresectable and not amenable to curative intent therapy)
+Histologically proven advanced or metastatic non-small cell lung cancer or squamous cell carcinoma head and neck with tumor at least 1 cm in size
+Colorectal cancer/carcinoma (CRC), glioblastoma (GBM), squamous cell carcinoma of the head and neck (HNSCC), or squamous non-small cell lung cancer (sqNSCLC)
+Histologically documented progressive squamous cell head and neck cancer with or without metastases, not amenable to curative treatment; or the patient has documented refusal of curative treatment
+Previously untreated, histologically proven, surgically resectable primary squamous cell carcinoma of the head and neck, stage III or IV (human papilloma virus [HPV] positive or negative non-metastatic disease); SCCHN of unknown primary is excluded; SCCHN of the oral cavity is allowed; unambiguously squamous Epstein-Barr virus (EBV)-negative nasopharynx cancer will not be excluded nor will unambiguously squamous cancers of the skull base that are clearly surgically resectable and clearly squamous; squamous skin cancer occurring in the head/neck region will not be eligible nor will EBV+ nasopharynx cancer\r\n*Note: Induction chemotherapy is not considered standard therapy for SCCHN of the oral cavity and participation on this trial will lead to a delay in time to definitive, potentially curative therapy i.e, surgery
+Patients must have either a histologically-confirmed metastatic or locally advanced prostate cancer, metastatic pancreatic cancer, melanoma or human papillomavirus (HPV) negative squamous cell carcinoma of head and neck.
+Diagnosis of head and neck squamous cell carcinoma that is either biopsy proven or suspected based on history, physical, and or radiographic findings, and who are planned for definitive resection of the tumor without the use of neoadjuvant chemotherapy or radiation therapy at Thomas Jefferson University Hospital (TJUH) are eligible to participate
+Received prior cancer therapy for the head and neck squamous cell carcinoma (HNSCC) that is being resected
+Histologic diagnosis of cutaneous squamous cell carcinoma of the head and neck that has been resected with no evidence of gross residual disease (margin positivity is acceptable)
+Histologically confirmed squamous cell carcinoma of any other primary anatomic location in the head and neck (e.g. paranasal cavity) and non-squamous histologies (e.g. nasopharynx or salivary gland)
+Patients must have pathologically (histologically or cytologically) proven diagnosis of head and neck squamous cell carcinoma (HNSCC) involving the oral cavity, oropharynx, larynx, hypopharynx, paranasal sinuses or unknown primary squamous carcinoma limited to the head and neck region\r\n* Cohort 1: unresectable locally advanced non-nasopharyngeal squamous cell carcinoma of the head and neck (SCCHN) without evidence of distant metastases\r\n* Cohort 2: patients with non-nasopharyngeal SCCHN who have undergone gross total surgical resection within 63 days prior to registration; patients must have at least 1 of the following high-risk pathologic features: extracapsular nodal extension, invasive cancer at the primary tumor resection margin (positive margin), lymphovascular invasion or perineural invasion, or the presence of multilevel nodal disease; patients must be without evidence of distant metastases
+Limited neck dissections retrieving ? 4 nodes are permitted and considered as non-therapeutic nodal excisions. Fine needle aspirations of the neck that are positive for squamous cell carcinoma are sufficient for diagnosis pending pathology review at participating institutions.
+Pathologically (histologically or cytologically) proven diagnosis of head and neck squamous cell carcinoma
+Histologically or cytologically confirmed squamous cell carcinoma of the head and neck that is metastatic or recurrent and not treatable with curative intent
+No previous surgery, radiation therapy or chemotherapy for squamous cell carcinoma of the head and neck (SSCHN) (other than biopsy or tonsillectomy) is allowed at time of study entry
+Patients with recurrent/previous treated head and neck squamous cell carcinoma that is deemed surgically resectable by the treating physician but at high risk for recurrence; this group otherwise would be considered for retreatment with radiation and/or chemoradiation
+Histologically documented squamous cell head and neck cancer with or without metastases, not amenable to curative treatment; or the patient has documented refusal of curative treatment
+Histologically documented diagnosis of squamous cell carcinoma of the head/neck including nasopharyngeal carcinomas (lymphepithelioma histology is ok if criteria 2 is met)\r\n* Patients must have progressed on prior platinum based therapy (or have become intolerant) prior to enrollment on this study
+ARM B COHORT 2: Patients must have a histologically confirmed diagnosis of head and neck (squamous cell) carcinoma
+For subjects in the every 2 week and every 1 week dosing cohorts histologically or cytologically documented diagnosis of urothelial carcinoma, melanoma, squamous cell carcinoma of the head and neck, non-small cell lung cancer, or any solid tumor with high microsatellite instability status (MSI-high)
+The patient has had prior head and neck squamous cell carcinoma (HNSCC), with the exception of superficial cutaneous basal cell or squamous cell carcinomas
+Recurrent or second primary, previously irradiated squamous cell carcinoma of the head and neck (SCCHN) without clinically measurably metastatic disease
+histologically or cytologically confirmed diagnosis of thyroid cancer (cohort 1) or squamous head and neck cancer (cohort 2) for which there is no curative therapy available.
+Malignant solid tumor (e.g. squamous cell carcinoma of the head/neck/cervix) within 2 years if HCT
+History of squamous cell carcinoma of the head/neck/cervix within 2 years of HSCT
+No previous surgery, radiation therapy or chemotherapy for squamous cell carcinoma of the head and neck (SSCHN) (other than biopsy or tonsillectomy) is allowed at time of study entry
+Head and neck cancer - squamous cell
+Arm C patients must have loco-regional recurrent head and neck squamous cell carcinoma (HNSCC), excluding endolaryngeal recurrence, meeting the following criteria:
+Biopsy-proven, primary or recurrent advanced-stage (III/IV) cutaneous squamous cell carcinoma of the head and neck.
+Prior treatment with cabozantinib or pembrolizumab; or any prior immunotherapy for treating squamous cell carcinoma of the head and neck
+Recurrent and/or metastatic Kras wildtype colorectal cancer or squamous cell carcinoma of the head and neck
+Have histological diagnosis of squamous cell cancer of the head & neck with confirmation of HPV positivity or squamous, non-squamous, adenosquamous, carcinoma or adenocarcinoma of the cervix which HPV positivity is not required
+Pathologically confirmed squamous cell carcinoma of the head and neck (SCCHN), not previously treated
+Biopsy proven squamous cell carcinoma of the head and neck (SCCHN)
+Any head and neck cancer of non-squamous histology
+Patients must have histologically-proven recurrent and/or metastatic squamous cell carcinoma of the head and neck that is unresectable; patients in the phase II portion of the trial must have measurable disease
+Prior history of head and neck radiation for head and neck squamous cell carcinoma to no more than 72 Gy and most (> 75%) of the recurrent or second primary tumor volume should be in areas previously irradiated to > 45 Gy
+Confirmed squamous cell head and neck cancer
+Histologically-diagnosed advanced (unresectable and/or metastatic) Non-small Cell Lung Cancer (Phase l only), Melanoma (Phase l only), Colorectal, Head and Neck SCC (squamous cell carcinoma), Ovarian Cancer, Glioblastoma or Renal Cell Carcinoma.
+1a. Head and Neck Stage III/IV squamous cell carcinoma; Tumor progression or recurrence within 6 months of last dose of platinum therapy in the adjuvant, primary, recurrent or metastatic setting (or within 9 months if the patient received > 1 platinum-based chemotherapy regimen in the metastatic setting). Active brain metastases or leptomeningeal metastases are excluded; nasopharyngeal cancer, confirmed recurrent or metastatic carcinoma of the nasopharynx and salivary gland or non-squamous histologies are also excluded.
+Patients must have histologically or cytologically confirmed head and neck squamous cell cancer (HNSCC) including paranasal sinus cancers but excluding nasopharyngeal carcinomas
+Histologically or cytologically confirmed diagnosis of squamous cell carcinoma of the head and neck
+Squamous cell carcinoma of head and neck sites, including all pharynx, larynx, oral cavity, skin and para-nasal sinus sites; patients with a diagnosis of nasopharyngeal carcinoma, or squamous cell carcinoma (SCC) of unknown primary presenting in the neck clinically compatible with head and neck mucosal primary sites, are eligible
+Previous treatment with an EGFR monoclonal antibody (except for past treatment for squamous cell carcinoma of head and neck or metastatic colorectal cancer).
+Non-squamous cell carcinomas of the head and neck region i.e. nasopharyngeal carcinoma (World Health Organization [WHO] type II and III) and salivary gland carcinomas
+Histologically- or cytologically-confirmed recurrent or metastatic head and neck squamous cell carcinoma considered incurable by local therapies
+Histologically confirmed squamous cell carcinoma of any other primary anatomic location in the head and neck;
+Patients must have histologically confirmed HNSCC, from any primary site; nasopharyngeal carcinoma, World Health Organization [WHO] type I (keratinizing), will be included; squamous cell carcinoma of unknown primary, clearly related to the head and neck, will be included
+Histologically confirmed squamous cell carcinoma of any other primary anatomic location in the head and neck
+Patients must have histologically squamous cell carcinoma of the head and neck and be planned for definitive radiation and chemotherapy
+Histologically or cytologically confirmed squamous cell carcinoma of the head and neck
+Histologically/cytologically confirmed diagnosis of squamous cell carcinoma of head and neck origin not amenable to curative intent therapy; both human papillomavirus (HPV)(+) and HPV(-) tumors are eligible; tumors (squamous histology) of unknown primary that are clearly of squamous histology and likely related to the head and neck area are eligible
+Patient must have histologically or cytologically confirmed diagnosis of incurable metastatic or recurrent head and neck squamous cell carcinoma
+No previous surgery, radiation therapy or chemotherapy for squamous cell carcinoma of the head and neck (SSCHN) (other than biopsy or tonsillectomy) is allowed at time of study entry
+Histologically confirmed, previously untreated invasive head and neck squamous cell carcinoma OR histologically confirmed not yet treated recurrent head and neck squamous cell carcinoma (must be at least 3 months after diagnosis and completion of treatment for primary disease or last recurrence); patients may have local stage I or II, or locoregionally advanced HNSCC stage III or IV of the oral cavity, oropharynx, larynx, hypopharynx, or unknown primary, but no metastatic disease; intent to treat with primary radiotherapy +/- chemotherapy
+Has a solid tumor likely to exhibit elevated levels of EGFR (e.g. head and neck squamous cell carcinoma, non-small cell lung cancer, triple negative breast cancer ,colorectal carcinoma and glioblastoma multiforme).
+Diagnosis of advanced urothelial carcinoma, cervical cancer, cholangiocarcinoma or carcinomas of the biliary tree or squamous cell carcinoma of the head and neck.
+Metastatic colorectal cancer or head and neck squamous cell carcinoma
+Histologically or cytologically confirmed loco-regionally advanced head and neck squamous cell carcinoma (HNSCC), stage III to IVb
+Histologically proven squamous cell carcinoma of the head and neck with measurable disease that is either recurrent after attempted cure with surgery and/or radiation therapy or newly diagnosed disease with distant metastases or incurable at diagnosis
+No prior chemotherapy for metastatic squamous cell carcinoma of the head and neck; subjects who have received chemotherapy as part of a multi-modality curative approach for head and neck cancer will be eligible as long as they have not received either docetaxel or capecitabine (or fluorouracil [5-FU]) as part of that regimen
+Prior chemotherapy for metastatic squamous cell carcinoma of the head and neck; subjects who have received chemotherapy as part of a multi-modality curative approach for head and neck cancer will be eligible as long as they have not received either docetaxel or capecitabine (or 5-FU) as part of that regimen
+Squamous cell carcinoma of the Head and Neck
+Patients scheduled for definitive head and neck squamous cell carcinoma (HNSCC) cancer surgical resection less than 9 days from enrollment or greater than five weeks from enrollment
+Head and neck squamous cell carcinoma
+Subjects with advanced/metastatic Squamous cell carcinoma of the head and neck (SCCHN) who are without options for curative treatment
+A minimum of 4 Squamous Cell Carcinomas of the Head and Neck (Sq-HNC)
+Histologically confirmed Stage III or IV recurrent/metastatic squamous cell carcinoma of the head and neck (R/M SCCHN)
+Part B- Diagnosed with adenocarcinoma of the colon or rectum, head and neck squamous cell carcinoma, uveal melanoma with liver with metastasis, or cholangiocarcinoma
+Part C - Diagnosed with head and neck squamous cell carcinoma and have received at least one prior platinum-based systemic therapy
+Ability to swallow capsules, with the exception of head and neck squamous cell carcinoma participants who may have study drug crushed and administered through a feeding tube
+Histologically documented diagnosis of locally advanced or metastatic squamous cell carcinoma (SCC) of the head and neck no longer amenable to curative surgical resection or radiation therapy
+Patients being treated for oropharyngeal cancer with undergoing concurrent chemotherapy and radiation therapy (photons) for a histological diagnosis of squamous cell carcinoma to the head and neck at the University of Pennsylvania
+Have a pathologic diagnosis of squamous cell carcinoma of the head and neck region
+Head and neck cancers of non-squamous histology (e.g., adenoid cystic carcinoma, acininc cell carcinoma, adenocarcinoma, sarcoma)
+Patients with underlying diagnosis of metastatic colorectal cancer or head and neck squamous cell carcinoma including newly diagnosed patients
+History of prior head and neck squamous cell carcinoma (HNSCC) unless curatively treated for >= 1 year
+Participants with premalignant lesions (mild dysplasia, moderate dysplasia, severe dysplasia, or carcinoma in situ) of the head and neck, as confirmed by biopsy within the 4 months prior to study entry or a treated primary T1N0 or T2N0 squamous cell carcinoma will be eligible
+Head and neck squamous cell carcinoma:
+Histologically or cytologically confirmed Squamous Cell Carcinoma of the Head and Neck (SCCHN)
+History of malignancy within the last 2 years other than squamous cell carcinoma of the head and neck (SCCHN) and superficial non-melanoma skin cancer; patients with a history of SCCHN must be free of active carcinoma
+Patients with biopsy-proven oral squamous cell carcinoma (SCC) who are scheduled to undergo surgery in the Memorial Sloan Kettering (MSK) Head and Neck Service
+Group 2 patients:\r\n* Biopsy proven recurrent or metastatic squamous cell carcinoma of the head and neck (HNSCC)\r\n* Patients planning to undergo investigational therapy
+Dosimetry Studies Arm (Completed July 2015): \r\n* Healthy volunteer OR participant with biopsy-proven diagnosis of head and neck squamous cell carcinoma (HNSCC), any histopathologic type of lung cancer, or any other type of cancer that can be treated with platinum-based chemotherapy (which includes but is not limited to ovarian, lung, gastric, hepatic, and pancreatic cancers)
+Patients undergoing staging endoscopy for head and neck squamous cell carcinoma (HNSCCa)
+Biopsy confirmed diagnosis of squamous cell carcinoma of the head and neck
+Biopsy proven, squamous cell carcinoma of the head and neck
+Participant with histologic confirmation of newly diagnosed squamous cell carcinoma (SCC) of the head and neck
+Biopsy confirmed diagnosis of squamous cell carcinoma of the head and neck
+Histologically or cytologically confirmed head and neck squamous cell carcinoma.
+Histologically confirmed diagnosis of head and neck carcinoma (excluding nasopharynx, paranasal sinus, salivary, and thyroid malignancies); any unknown primary squamous cell carcinoma of head and neck with gross nodes is allowed
+Radiation oncology patients undergoing 6-7 weeks of definitive radiation therapy for stage III-IV head and neck squamous cell carcinoma (HNSCC)

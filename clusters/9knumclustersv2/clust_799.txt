@@ -1,0 +1,42 @@
+creatinine <.  institutional ULN OR
+Creatinine =<  X institutional ULN (documented within  days of registration)
+Serum creatinine =< . x institutional ULN
+Serum creatinine =< . x institutional ULN, OR creatinine clearance >=  mL/min/. m^ for participants with serum creatinine levels above . x institutional ULN
+Serum creatinine =< . x institutional ULN
+EXPANDED ACCESS COHORT: Serum creatinine =< . x institutional ULN OR
+Creatinine clearance < . x institutional ULN
+Serum creatinine =< . x institutional ULN
+Creatinine =< . x within normal institutional ULN OR
+Serum creatinine =< . x institutional ULN OR
+Creatinine =< . X institutional ULN, completed within  days prior to the date of registration OR
+Serum creatinine =< . x institutional ULN
+Serum creatinine =< . x institutional ULN within  days prior to start of protocol therapy.
+Serum creatinine =< . x institutional ULN
+Creatinine =< . x institutional ULN
+Creatinine =<  X institutional ULN
+Within  days (+  day window) of enrollment: Serum creatinine of =< . x institutional ULN
+REP ELIGIBILITY: Serum creatinine of =< . x institutional ULN
+Creatinine ? .x institutional ULN
+Creatinine =< . x institutional ULN
+Creatinine =< . x institutional ULN OR
+PHASE II: Creatinine < . x the institutional ULN
+Serum creatinine =< . x local institutional ULN
+Serum creatinine < . x institutional ULN
+plasma creatinine less than or equal to . x institutional ULN OR
+Creatinine =< institutional ULN
+Within  days of study registration: Creatinine < . x the institutional ULN
+Creatinine =< . x the institutional ULN
+Serum creatinine <  x the institutional ULN
+Creatinine <. X institutional ULN OR
+Creatinine =< . x institutional ULN
+Serum creatinine =< . X institutional ULN
+Creatinine < . X institutional ULN
+Serum creatinine < . time the institutional ULN
+Creatinine =< . x institutional ULN
+Serum creatinine acceptable for treatment with cisplatin per institutional guidelines
+Creatinine =< . x institutional ULN
+Creatinine =< . x institutional ULN
+Creatinine =< . x institutional ULN
+Serum creatinine =< . x institutional ULN
+Serum creatinine =< institutional ULN
+Creatinine <  X institutional ULN

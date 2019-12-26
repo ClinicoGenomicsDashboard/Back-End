@@ -1,0 +1,33 @@
+Serum creatinine =< 1.5 times ULN OR calculated creatinine clearance >= 70 mL/min
+Creatinine =< upper limit of normal (ULN) or calculated creatinine clearance >= 60 mL/min
+Creatinine =< 1.5 times institutional upper limit of normal (ULN) OR calculated creatinine clearance >= 60 mL/min
+Serum creatinine =< 1.2 x ULN or creatinine clearance >= 60 mL/min; obtained within 14 days prior to study entry
+STEP I: Calculated creatinine clearance >= 30 mL/min (obtained within 28 days prior to randomization)
+Serum creatinine =< 1.5 mg/dL OR measured or calculated creatinine clearance >= 50 mL/min
+Creatinine =< 1.5 mg/dL OR calculated (calc.) creatinine clearance >= 30 mL/min
+Creatinine =< 1.5 x upper limit of normal (ULN) mg/dL OR calculated (calc.) creatinine clearance >= 60 mL/min
+Creatinine =< 1.5 mg/dL x upper limits of normal (ULN) OR calculated (calc.) creatinine clearance >= 30 mL/min
+Serum creatinine =< 1.5 x mg/dL OR measured or calculated creatinine clearance >= 50 mL/min; creatinine measurements must be obtained within 28 days prior to registration
+Serum creatinine =< 1.5 x upper limit of normal (ULN) or serum creatinine clearance (CrCl) >= 40 ml/min, obtained within 4 weeks prior to randomization
+Serum creatinine =< 1.5 mg/dL or creatinine clearance >= 40 ml/min/1.73 m^2 unless lymphoma related
+Serum creatinine =< 1.5 X ULN or measured or calculated creatinine clearance (CrCl) >= 60 mL/min for subject with creatinine levels > 1.5 X institutional ULN (glomerular filtration rate [GFR] can also be used in place of creatinine or CrCl); creatinine clearance should be calculated per institutional standard
+Obtained within 28 days prior to registration: Serum creatinine =< 1.5 x IULN OR measured or calculated creatinine clearance >= 60 mL/min
+Serum creatinine =< 1.5 x upper limit of normal (ULN) or serum creatinine clearance (CrCl) >= 40 ml/min
+Adequate renal function determined within 6 weeks prior to randomization defined as the most recent serum creatinine =< ULN or measured or calculated creatinine clearance > 60 mL/min
+Creatinine =< 1.5 x upper limit of normal (ULN) OR calculated (calc.) creatinine clearance > 45 mL/min using the lean body mass formula only
+Re-registration: creatinine =< 1.5 ULN OR calc. creatinine clearance > 45 mL/min (using lean body mass formula only)
+Within 14 days of registration: Calculated (calc.) creatinine clearance > 50 mL/min
+Creatinine OR =< 1.5 mg/dl x upper limit of normal (ULN) OR calculated (calc.) creatinine clearance > 45 mL/min
+Creatinine =< 1.5 x upper limit of normal (ULN) OR calculated (calc.) creatinine clearance >= 30 mL/min
+Serum creatinine must be =< 2 x the institutional ULN OR creatinine clearance (either measured or calculated) must be > 30 mL/min; must be obtained within 28 days prior to registration
+Serum creatinine < 2.5 X institutional ULN OR measured or calculated* creatinine clearance (CrCl) (glomerular filtration rate [GFR] can also be used in place of creatinine or CrCl) >= 30 mL/min for subject with creatinine levels > 2.5 X institutional ULN* Creatinine clearance should be calculated per institutional standard
+CLINICAL/LABORATORY CRITERIA: Serum creatinine =< 1.5 x IULN OR measured or calculated creatinine clearance >= 40 mL/min; this result must have been obtained within 28 days prior to registration
+Serum creatinine =< ULN for the lab and measured or calculated creatinine clearance > 60 mL/min within 28 days before randomization
+Serum creatinine =< 1.5 x upper limit of normal (ULN) or calculated creatinine clearance (CrCl) >= 40 mL/min, within 4 weeks of randomization
+Calculated (calc.) creatinine clearance > 45 mL/min
+Serum creatinine =< 1.5 ULN OR measured or calculated creatinine clearance >= 30 mL/min
+Calculated creatinine clearance > 70 mL/min/1.73 m^2
+Calculated creatinine clearance by Modification of Diet in Renal Disease (MDRD) (CrCl) >= 60 ml/min/1.73 squared meter
+Serum creatinine =< IULN OR measured or calculated creatinine clearance >= 60 mL/min, obtained within 28 days prior to step 2 registration
+Calculated creatinine clearance >= 45 mL/min/1.73 m^2
+Patients must have adequate renal function as documented by a calculated creatinine clearance >= 60 mL/min, within 28 days prior to registration

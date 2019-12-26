@@ -1,0 +1,410 @@
+Failure to have fully recovered (i.e., =< grade 1 toxicity or to patient’s clinical baseline) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (i.e. no toxicities > Grade 1) from the reversible effects of prior chemotherapy.
+Failure to have fully recovered (ie, > grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy, except for laboratory abnormalities which are addressed above
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Recovered (i.e., ?Grade 1 nonhematologic toxicity) from the reversible effects of prior anticancer therapy.
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior ASCT chemotherapy
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Recovered (i.e., =< grade 1 toxicity) from the reversible effects of autologous stem cell transplant
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the effects of prior chemotherapy regardless of the interval since last treatment
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (i.e., ? grade 1 toxicity) from the reversible effects of prior chemotherapy or endocrine therapy, except for grade 2 or greater anemia
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (that is, less than or equal to [<=] Grade 1 toxicity) from the reversible effects of prior chemotherapy.
+Failure to have fully recovered (i.e., ? grade 1 toxicity) from the reversible effects of prior treatment for WM
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy, excluding alopecia
+Must have recovered (ie, ? Grade 1 toxicity or participant's baseline status) from the reversible effects of prior therapy
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failed to have recovered from the reversible effects of previous anticancer therapies
+Patients must have recovered from any reversible effects of prior therapies to no more than grade 1 toxicity, with the exception of alopecia
+Recovered (i.e., =< grade 1 toxicity) from the reversible effects of autologous stem cell transplant
+Failure to have fully recovered (ie, Grade 1 toxicity) from the effects of prior chemotherapy (except for alopecia) regardless of the interval since last treatment.
+The patient has recovered from reversible toxicity from prior therapy. Permanent and stable side effects or changes are acceptable if ? Grade 1 (CTCAE, v4.03)
+Recovered (i.e., < grade 1 toxicity) from the reversible effects of prior antineoplastic therapy
+Failure to have fully recovered from the reversible effects of prior anti-cancer therapy
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy, radiation therapy or targeted therapy
+Has recovered (ie, <= Grade 1 toxicity or eligibility per this protocol is met) from the reversible effects of prior anticancer therapy.
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Failure to have fully recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Recovered (=< grade 1 toxicity) from the reversible effects of prior antineoplastic therapy
+Participants who have not recovered from any reversible side effects (except alopecia) to Grade 0 or 1 toxicity attributed to the administration of an investigational therapeutic agent, chemotherapy, immunotherapy, radiotherapy, or other agents previously used to treat the cancer.
+Recovered from the reversible effects of prior antineoplastic therapy (ie, ? Grade 1 toxicity or baseline).
+Recovered (that is, less than or equal to (<=) Grade 1 toxicity) from the effects of prior antineoplastic therapy.
+Failure to have recovered from clinically significant effects of prior chemotherapy (defined as toxicity greater than Grade 1 with the exception of alopecia)
+Recovered (i.e., =< grade 1 toxicity) from the reversible effects of prior antineoplastic therapy
+Recovered (that is, <= Grade 1 toxicity) from the reversible effects of prior anticancer therapy.
+Recovered from the reversible effects of prior antineoplastic therapy (with the exception of alopecia and Grade 1 neuropathy).
+Failure to have fully recovered (ie, =< grade 1 toxicity) from the reversible effects of prior chemotherapy
+Recovered (that is, grade less than or equal to [<=] 1 toxicity) from the reversible effects of prior anticancer therapy.
+Recovered (that is, less than or equal to [<=] Grade 1 toxicity) from the reversible effects of prior anticancer therapy.
+Recovered (that is, less than or equal to (<=) Grade 1 toxicity) from the effects of prior antineoplastic therapy.
+Recovered (that is, <=Grade 1 toxicity) from the reversible effects of prior anticancer therapy.
+Patient has an unresolved ? Grade 2 adverse event (AE) from a previous antineoplastic treatment, excluding alopecia and phlebitis
+Has not recovered from the adverse effect of previous anticancer treatments to pre-treatment baseline or Grade 1 except for alopecia, anemia (hemoglobin must meet the study inclusion criteria) and peripheral neuropathy (which must have recovered to ? Grade 2).
+Recovery to =< grade 1 or baseline of any toxicity due to prior systemic treatments, excluding alopecia
+At least two weeks from last radiation therapy, with recovery of all treatment related toxicity to grade 1 or less (excluding alopecia)
+Recovered to Grade 1 from the effects (excluding alopecia) of any prior therapy for their malignancies
+Recovery to =< grade 1 or baseline of any toxicities due to prior systemic treatments, excluding alopecia
+Recovery to Grade 1 or baseline of any toxicity due to prior systemic treatments or radiotherapy (excluding alopecia).
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Patients must have recovered to =< grade 1 in terms of toxicity from prior treatments (excluding neuropathy which can be =< grade 2, and alopecia)
+Have not recovered from toxicity of prior therapy defined as a return to < grade 1 at the time of dose assignment, graded according to CTCAE v4.03 (excluding alopecia, neuropathy, and lymphopenia)
+Vitiligo or alopecia.
+Recovery to grade ? 1 or to baseline from any adverse event (AE) derived from previous treatment (excluding alopecia and/or cutaneous toxicity and/or peripheral neuropathy and/or fatigue grade ? 2).
+Patients must have recovered all toxicities from prior therapy or radiation to grade 1 or less (excluding alopecia)
+Patients must be recovered to grade 1 from the effects (excluding alopecia) of any prior therapy for their malignancies
+Recovery from recent surgery, radiotherapy, chemotherapy or any other anti-cancer therapy to baseline or ? Grade 1 (other than alopecia); ? Grade 2 neuropathy allowed
+Inadequate recovery from adverse events related to prior therapy to grade ? 1 (excluding grade 2 alopecia and neuropathy)
+Recovery to Grade 1 of any clinically significant toxicity (excluding alopecia) prior to initiation of study drug administration
+Recovery (i.e., to grade 1 or baseline) from all clinically significant adverse event (AE)s related to prior therapies (excluding alopecia, neuropathy, and nail changes)
+Inadequate recovery from adverse events related to prior therapy to grade =< 1 (excluding grade 2 alopecia and neuropathy)
+Recovered to grade 1 from the effects (excluding alopecia) of any prior therapy for their malignancies
+Recovery from adverse events of previous systemic anti-cancer therapies to baseline or grade 1, except for:\r\n* Alopecia\r\n* Stable neuropathy of =< grade 2 due to prior cancer therapy
+Recovery from adverse events of previous systemic anti-cancer therapies to baseline or grade 1, except for: \r\n* Alopecia\r\n* Stable neuropathy of =< grade 2 due to prior cancer therapy
+Patients must have recovered all toxicities from prior therapy or radiation to grade 1 or less (excluding alopecia).
+Recovery to Grade 1 or baseline of any toxicities due to prior treatments, excluding alopecia
+Recovered from all acute adverse effects of prior therapies, excluding alopecia (hair loss)
+Inadequate recovery from adverse events related to prior therapy to grade =< 1 (excluding grade 2 alopecia and neuropathy)
+Participant must have recovery to Grade 0 or 1 of any clinically significant toxicity (excluding alopecia) prior to initiation of study drug administration.
+The patient has not recovered from adverse events related to prior therapy to Grade ?1 (excluding Grade 2 alopecia and neuropathy)
+Patient has not recovered to grade 1 or better (except alopecia) from related side effects of any prior antineoplastic therapy
+Recovery from the adverse effects ? grade 1;
+Recovery to Grade 1 of any clinically significant toxicity (excluding alopecia) prior to initiation of study drug administration
+Recovery (ie, to Grade 1 or baseline) from all clinically significant AEs related to prior therapies (excluding alopecia, neuropathy, and nail changes)
+Patients not recovered to Grade 1 or stabilized from the effects (excluding alopecia) of any prior therapy for their malignancies
+Recovery to ? Grade 1 or baseline of any toxicities due to prior systemic treatments, excluding alopecia;
+At least a two-week washout period since the end of the last therapy (six weeks for a prior nitrosourea-containing regimen), recovery to grade ? 1 from any non-hematological adverse event (AE) derived from previous treatment (excluding alopecia).
+Recovery to Grade 1 or baseline of any toxicity due to prior systemic treatments (excluding alopecia).
+Patient has not recovered to grade 1 or better (except alopecia) from related side effects of any prior antineoplastic therapy
+Patient who has not recovered to grade 1 or better (except alopecia) from related side effects of any prior antineoplastic therapy
+Patients must have recovered to =< grade 1 in terms of toxicity from prior treatments (excluding neuropathy which can be =< grade 2)
+Adequate recovery from any adverse events resulting from prior anti-neoplastic treatment including chemotherapy, biological therapy, targeted small molecule therapy, radiation therapy, and surgery as determined by the investigator (and in consultation with the study PI); in most instances, adequate recovery is resolution to =< grade 1 except for alopecia of any grade, grade 2 neuropathy and/ or any grade hearing loss
+are recovered from the acute adverse effects of prior therapies (excluding alopecia and Grade ?2 neuropathy).
+Patient has not recovered to ? grade 1 (except alopecia) from related side effects of any prior antineoplastic therapy
+Subjects who have not recovered from the adverse effects of prior therapy at the time of enrollment to ? grade 1; excluding alopecia and grade 2 neuropathy.
+Has not recovered from the adverse effects of previous anti-cancer treatments to pre-treatment baseline or Grade 1, except for alopecia, anemia (hemoglobin must meet the present study inclusion criterion), and peripheral neuropathy (which must have recovered to ? Grade 2).
+Recovery to grade ? 1 or to baseline from any AE derived from previous treatment (excluding alopecia of any grade).
+Patient with an unresolved ? Grade 2 AE from a previous antineoplastic treatment, excluding alopecia.
+Patient has an unresolved ? Grade 2 AE from a previous antineoplastic treatment, excluding alopecia.
+Recovery to grade 1 or baseline of any toxicity due to prior anticancer therapies (excluding alopecia)
+Failure to recover to Grade 1 or lower toxicity related to prior systemic therapy (excluding alopecia and neuropathy) prior to study entry
+Patients must have recovered from all acute adverse effects (excluding alopecia) of prior therapies to baseline or <= grade 1 prior to study entry.
+Failure to recover to Grade 1 or lower toxicity related to prior systemic therapy (excluding alopecia and neuropathy) prior to study entry
+Less than 20 teeth (excluding third molars)
+Recovery to grade ? 1 from any AE derived from previous treatment (excluding alopecia and/or cutaneous toxicity and/or asthenia).
+Recovery to Grade 1 of any clinically significant toxicity (excluding alopecia) prior to initiation of study drug.
+Recovery from prior surgery and recovery from adverse events to grade 1 or less (except alopecia) due to prior radiation therapy and any systemic therapy.
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients must have fully recovered from the acute toxic effects of all prior anti-cancer chemotherapy
+Patients who relapse on frontline therapy in phases other than maintenance must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study.
+Patients must have fully recovered (Eastern Cooperative Oncology Group [ECOG] 0-1) from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients must have fully recovered from the acute toxic effects of chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients must have recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy or radiotherapy prior to entering this study
+Recovered from the toxic effects of all prior chemotherapy before entering this study
+INCLUSION - TREATMENT: Recovered from acute toxic effects of prior chemotherapy at least one week before entering this study
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study.
+The patient must have failed at least one prior therapy besides surgery- radiation or chemotherapy (either cytotoxic or biologic agent)-prior to study registration; patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+INCLUSION - FUSION: Recovered from acute toxic effects of prior chemotherapy at least one week before entering the study
+Patients must be fully recovered from all acute effects of prior surgical intervention
+Fully recovered from acute toxic effects of any prior chemotherapy, biological modifiers or radiotherapy
+All patients must, in the opinion of the study PI, have sufficiently recovered from significant acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients must have received prior therapy other than surgery and must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, biologic therapy or radiotherapy prior to study entry
+All subjects must, in the opinion of the study PI, have sufficiently recovered from significant acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+All subjects must, in the opinion of the study PI, have sufficiently recovered from significant acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients may have been previously treated for a plexiform neurofibroma but must have fully recovered from the acute toxic effects of all prior chemotherapy or radiotherapy prior to entering this study
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patient must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, radiotherapy, or surgery prior to study entry.
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patient must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+ELIGIBILITY CRITERIA- LYMPHODEPLETION/INFUSION OF tvs-CTL: Must have fully recovered from the acute toxic effects of all prior therapy including chemotherapy, radiotherapy and immunotherapy
+Patients must have fully recovered from the acute toxic effects of all prior anti-cancer chemotherapy:
+Patient must, in the opinion of the study principal investigator (PI) or designee, have fully recovered from significant acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to enrollment onto this study
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Recovered from acute toxic effects of prior chemotherapy at least one week before entering this study
+Recovered from the acute toxic effects of all prior chemotherapy at least one week and 30 days from prior chemotherapy before entering this study
+Subjects must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy or radiotherapy prior to entering this study
+Recovered from the acute toxic effects of all prior chemotherapy at least 4 weeks before entering this study
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study.
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients must have recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, stem cell transplant or radiotherapy prior to entering this study; all prior treatment-related toxicities must have resolved to =< grade 2 prior to enrollment
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to study enrollment
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients who relapse on therapy other than standard ALL maintenance therapy must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+All patients must have fully recovered from the acute toxic effects of all prior anti-cancer chemotherapy
+Recovered from the acute toxic effects of all prior chemotherapy at least a week before entering this study
+Recovered from the toxic effects of all prior chemotherapy before entering this study
+Subject has recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to first dose. All prior treatment-related toxicities must have resolved to ? Grade 2 prior to enrollment.
+Recovered from acute toxic effects of all prior chemotherapy at least one week and 30 days from prior chemotherapy before entering this study
+Subjects may have been previously treated for a plexiform neurofibroma or other tumor/malignancy, but must have fully recovered from the acute toxic effects of all prior chemotherapy or radiotherapy prior to entering this study
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy
+Subjects must have fully recovered from the acute toxic effects of all previous chemotherapy, immunotherapy, or radiotherapy treatment before enrollment.
+Fully recovered from acute toxic effects of any prior chemotherapy, biological modifiers or radiotherapy
+Patients must have recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study; no chemotherapy or radiotherapy may be given within 2 weeks prior to the start of protocol treatment
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiation therapy prior to entering this study
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study.
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study.
+Patients must have received prior therapy other than surgery and must have fully recovered from the acute treatment related toxicities of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients must have recovered from the toxic effects of all prior chemotherapy before entering this study
+Patients must have fully recovered from the acute toxic effects of all prior anticancer chemotherapy
+PRIOR THERAPY Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study.
+Prior Therapy: Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study. Myelosuppressive Chemotherapy:
+Patients must have fully recovered from the acute toxic effects of all previous chemotherapy, immunotherapy, or radiotherapy prior to study enrollment.
+Participants must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study; at least 14 days must have elapsed from prior chemotherapy; at least 7 days must have elapsed since receiving biological therapy
+Patients must have fully recovered from the acute effects of all prior therapy
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy prior to entering study; three (3) weeks must have elapsed since the administration of prior chemotherapy
+Diseases refractory/relapsed after one or more systemic cytotoxic therapies; patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study.
+Patient must have fully recovered from the acute toxic effects of all prior chemotherapy or radiation prior to entering this study
+Patients should have resolution of any toxic effects of prior therapy (except alopecia) to NCI CTCAE, version 4.0, grade 1 or less
+Patients should have resolution of any toxic effects of prior therapy (except fatigue and alopecia) to NCI CTCAE, version 4.0, grade 1 or less, including immune toxicity
+Resolution of all toxic side effects from prior oncology treatments
+All acute toxic effects of any prior radiotherapy, chemotherapy, or surgical procedure must have resolved to grade less than or equal to (<=) 1, except alopecia (any grade) and Grade 2 peripheral neuropathy
+All acute toxic effects of any prior antitumor therapy resolved to Grade ?1 before baseline, with the exception of alopecia and neurotoxicity (CTCAE Grade 1 or 2 permitted).
+Resolution of all acute toxic effects of prior therapy or surgical procedures to Grade ?1 (except alopecia).
+Subjects must have resolution of toxic effect(s) from prior therapy to Grade 1 or less. Subjects with ? Grade 2 neuropathy or alopecia are an exception to this criterion. If a subject received major surgery or radiation therapy of > 30 Gy, they must have recovered from the toxicity and/or complications from the intervention to Grade 1 or less
+All clinically significant toxic effects (except peripheral neuropathy) of prior locoregional therapy, surgery, or other anticancer therapy have resolved to =< CTCAE grade 1
+Patients must have resolution of toxic effect(s) of the most recent prior chemotherapy to grade 1 or less (except alopecia)
+Experienced resolution of toxic effect(s) of the most recent prior anti-cancer therapy to Grade <1 (except alopecia or neuropathy).
+All acute toxic effects of any prior radiotherapy, chemotherapy, or surgical procedure must have resolved to Grade less than or equal to (<=) 1, except alopecia (any grade) and Grade 2 peripheral neuropathy
+All acute toxic effects of any prior radiotherapy, chemotherapy, or surgical procedure must have resolved to grade less than or equal to 1, except alopecia (any grade) and grade 2 peripheral neuropathy
+All acute toxic effects of any prior antitumor therapy resolved to Grade 1.
+Recovery from non-hematologic toxic effects of prior therapy to grade ? 1 (except alopecia) by NCI CTCAE Version 4.03;
+(For both cohorts A and B): Patients must have resolution of toxic effect(s) of the most recent prior chemotherapy to grade 1 or less (except alopecia)
+Patients must have resolution of toxic effects to grade 1 or less from prior therapy (except alopecia)
+All acute toxic effects of any prior radiotherapy, chemotherapy, experimental drug treatment or surgical procedure must have resolved to grade =< 1, except alopecia (any grade) and peripheral neuropathy
+All acute toxic effects of any prior radiotherapy, chemotherapy, or surgical procedure must have resolved to grade =< 1, except alopecia (any grade) and < grade 2 peripheral neuropathy
+Resolution of all acute toxic effects of prior therapy, including radiotherapy to grade ? 1 (except toxicities not considered a safety risk for the patient) and recovery from surgical procedures
+CERITINIB INCLUSION CRITERIA: Resolution of all acute toxic effects (excluding alopecia) of prior radiotherapy, chemotherapy or surgical procedures to CTCAE v4.03 grade =< 1
+REGORAFENIB INCLUSION CRITERIA: Resolution of all acute toxic effects (excluding alopecia) of prior radiotherapy, chemotherapy or surgical procedures to CTCAE v4.03 grade =< 1
+ENTRECTINIB INCLUSION CRITERIA: Resolution of all acute toxic effects (excluding alopecia) of prior radiotherapy, chemotherapy or surgical procedures to CTCAE v4.03 grade =< 1
+Subjects in the combination treatment cohort must not have: a history or evidence of psychiatric, substance abuse, or any other clinically significant disorder; toxic effects of the most recent prior chemotherapy not resolved to grade 1 or less (except alopecia); or expected other cancer therapy while on study with the exception of local radiation to the site of bone or other metastasis for palliative treatment.
+Resolution of all acute toxic effects of previous anticancer therapy
+Resolution of any toxic effects of prior therapy to Grade ?1 according to NCI CTCAE, version 4.0 (exception of alopecia and ? Grade 2 peripheral neuropathy).
+Resolution of any toxic effects of previous therapies
+All acute toxic effects of any prior antitumor therapy must be resolved to grade ? 1 before enrollment, with the exception of alopecia (any grade permitted), or bone marrow parameters (any grades permitted)
+Resolution of all acute toxic effects of prior therapy or surgical procedure to grade 1 or baseline prior to randomization
+Lack of recovery from toxic effects of previous treatment for RCC ? grade 1 with the exception of alopecia, unless stabilized under adequate medical control.
+All acute toxic effects of any prior radiotherapy, chemotherapy, or surgical procedure must have resolved to Grade less than or equal to 1 or returned to baseline except alopecia (any grade) and Grade 2 peripheral neuropathy
+Resolution of all acute toxic effects of prior anti cancer therapy or surgical procedures to NCI CTCAE version 4.0 Grade ?1 (except alopecia or other toxicities not considered a safety risk for the patient at investigator's discretion).
+All acute toxic effects of any prior antitumor therapy resolved to Grade ? 1 before the start of study drug
+Participant must have resolution to Grade 1 or lower of any toxic effects (excepting alopecia) of the most recent therapy prior to Cycle 1 Day 2.
+Resolution of all clinically relevant acute non-hematologic toxic effects of any prior antitumor therapy resolved to Grade <=1
+Resolution of any toxic effects (excepting alopecia) of the most recent therapy
+Resolution of all toxicities and any toxic effect(s) of the most recent prior therapy to Grade 1 or less (except alopecia). Subjects with ? Grade 2 neuropathy are an exception and may enroll.
+All acute toxic effects of any prior antitumor therapy resolved to Grade ? 1 before the start of study drug dosing (with the exception of alopecia [Grade 1 or 2 permitted] and neurotoxicity [Grade 1 or 2 permitted])
+Resolution of toxic effect(s) of the most recent prior chemotherapy to Grade 1 or less (Parts 1A and 1B) and/or recovered from major surgery or radiation therapy
+Adequate organ and marrow function, resolution of all toxic effects of prior therapy or surgical procedures
+Resolution of (non-laboratory) adverse effects of recent surgery, radiotherapy, or chemotherapy to grade =<1 prior to first study treatment (with the exception of alopecia or neuropathy; chemotherapy-induced peripheral neuropathy up to grade =< 2 will be permitted)
+Resolution of all acute toxic effects of prior therapy or surgical procedure to Grade <= 1 or baseline prior to randomization
+Resolution of all acute toxic effects of any prior treatments to NCI CTC (Version 3.0) grade <=1
+Resolution of (non-laboratory) adverse effects of recent surgery, radiotherapy, or chemotherapy to grade =< 1 prior to first study treatment (with the exception of alopecia or neuropathy)
+Resolution of all acute toxic effects of any prior treatments to NCI CTC (Version 3.0) grade <=1
+Clinically significant toxic effects of any prior antitumor therapy (except hydroxyurea) resolved to Grade ? 1 before the start of study therapy (bone marrow parameters [Grade 1 to 4 permitted]);
+Resolution to Grade ? 1 Adverse Events, of all clinically significant toxic effects of prior therapy
+All acute toxic effects of any prior radiotherapy, chemotherapy, or surgical procedure must have resolved to Grade </= 1, except alopecia (any grade) and Grade 2 peripheral neuropathy
+Resolution of adverse effects of recent surgery, radiotherapy, or chemotherapy to grade =< 1 prior to first study treatment (with the exception of alopecia or neuropathy)
+Experienced resolution of toxic effect(s) of the most recent prior anti-cancer therapy to Grade ?1 (except alopecia or neuropathy)
+Resolution of all acute toxic effects of prior chemotherapy, and other cancer treatments
+Resolution of non-hematologic toxic effect(s) of NAC to =< grade 1 or baseline (except alopecia)
+Persistent toxic effects with severity of CTCAE grade 2 or greater (excluding alopecia) caused by previous treatment
+All acute toxic effects of any prior antitumor therapy resolved to Grade ? 1 before enrollment, with the exception of alopecia (any grade permitted)
+Recovered (i.e., Grade ? 1 or to a baseline level) from the effects of recent surgery, radiotherapy, chemotherapy, hormonal therapy, or other therapies for cancer (with the exception of alopecia for which no resolution is required and peripheral neuropathy which must have resolved to Grade ? 1 for subjects receiving prior taxane-based chemotherapy);
+Resolution of acute toxic effects of prior chemotherapy and other cancer treatments
+Acute toxic effects of previous anticancer chemotherapy or immunotherapy have to be normalized to CTCAE Grade equal or lower than 1 (excluding alopecia)
+Resolution of all acute toxicity effects of prior therapy to NCI CTCAE (version 4.0) grade =< 1, with the exception of unresolved grade 2 neuropathy and grade 2 alopecia, which are allowed
+Resolution to Grade ? 1 Adverse Events, of all clinically significant toxic effects of prior chemotherapy, surgery, radiotherapy, or hormonal therapy (except alopecia)
+Resolution of all clinically significant toxic effects of prior therapy.
+Patients who are currently part of any clinical investigation or who has not had resolution of all acute toxic effects or prior anti-cancer therapy to NCI CTCAE version 4.03 Grade 1 (except alopecia or other toxicities not considered a safety risk for the patient at investigator's discretion).
+All acute toxic effects of any prior radiotherapy, chemotherapy, or surgical procedure must have resolved to Grade less than or equal to (<=) 1 or returned to baseline, except alopecia (any grade) and Grade 2 peripheral neuropathy
+Resolution of all toxic effects of prior treatments (except alopecia) to Grade <=1 NCI CTCAE, Version 4.03.
+Has not recovered from reversible toxicity of prior anticancer therapy (except toxicities which are not clinically significant such as alopecia, skin discoloration, or Grade 1 neuropathy)
+A minimum of 4 weeks will be required from any prior therapy, including chemotherapy, immunotherapy and/or radiation; in addition, recovery to grade 1 or less from all reversible toxicities related to prior therapy is required at study entry
+Recovered from reversible toxicities of prior therapy to grade 0 or grade 1
+Participant has recovered from toxicities of prior chemotherapy or other therapy (to grade 2 or less)
+PHASE I: A minimum of 2 weeks will be required from any prior therapy, including chemotherapy, immunotherapy and/or radiation; in addition, recovery to grade =< 1 from all reversible toxicities related to prior therapy is required at study entry
+Subject has recovered from toxicities of prior chemotherapy or other therapy (to grade 2 or less)
+All toxicities from prior therapy must be recovered to a grade 1 or better according to the Clavien-Dindo classification system
+Recovered from reversible toxicities of prior therapy
+Have recovered from any previous therapy side effects or toxicities
+Patient received chemotherapy, surgery, or radiotherapy (for therapeutic purposes) within 3 weeks, monoclonal antibodies or investigational drugs within 4 weeks or tyrosine kinase inhibitor within 1 week, or the patient has not recovered (from grade ?2 side effects of the previous therapy) prior to lymphodepletion regimen. Note: Patient may be still eligible if the patient has not fully recovered from grade ?2 toxicities if accumulated toxicities with the lymphodepletion therapy are not expected
+Recovered from prior toxicities to grade 0-1 at least 2 weeks prior to investigational therapy
+Patients must have completed standard therapy for their malignancy and recovered from all toxicities to less than or equal to grade 2 within 3 weeks prior to enrollment
+At least 3 weeks must have elapsed from any prior chemotherapy, and the patient must have recovered from side effects to =< grade 1 toxicities
+At least 3 weeks has elapsed from any prior therapy, and the patient has recovered from side effects to =< grade 1 toxicities per Common Toxicity Criteria (CTC)
+Patients who have received any antineoplastic therapy > 28 days prior to starting treatment with ABC294640 and have not adequately recovered from side effects and toxicities of previous antineoplastic therapy.
+The subject has adequately recovered from toxicities due to prior therapy.
+Subject has adequately recovered from toxicities due to prior HCC therapy to ? grade
+Recovered from toxicities of prior therapy to grade 0 or 1
+Patient must not have received chemotherapy, biologic therapy, or any other investigational drug for any reason within 28 days prior to start of therapy, and must have recovered from toxicities of prior therapy to grade 1 or less
+Recovered from all reversible toxicities related to their previous treatment (other than alopecia) to =< grade 1 or baseline
+Recovered from all reversible toxicities related to their previous treatment (other than alopecia) to =< grade 1 or baseline
+Subject has recovered from toxicities of prior chemotherapy or other therapy (to grade 2 or less)
+Recovered to Grade 1 from reversible toxicities of prior therapy
+Participants not recovered from reversible toxicity of prior anticancer therapy (except toxicities which are not clinically significant such as alopecia, skin discoloration, or Grade 1 neuropathy)
+Patients must have recovered from any previous therapy side effects or toxicities prior to initiating protocol study infusions.
+Patients may have had prior HER1/EGFR inhibitor therapy but must have fully recovered from any skin toxicities prior to registration
+Recovered from all reversible toxicities related to their previous treatment (other than alopecia) to =< grade 1 or baseline; exceptions to this criteria may be allowed at the discretion of the UNC PI for toxicities that are not expected to be exacerbated by pembrolizumab or nab-paclitaxel
+Failure to recover from acute, reversible effects of prior therapy regardless of interval since last treatment\r\n* EXCEPTION: Grade 1 peripheral (sensory) neuropathy that has been stable for at least 3 months since completion of prior treatment
+Failed to recover from the reversible effects of prior anticancer therapies with the exception of alopecia and grade 2 neuropathy
+Failure to fully recover from acute, reversible effects of prior chemotherapy regardless of interval since last treatment.
+Has failed to recover from the reversible effects of prior anticancer therapy
+Failure to recover to =< grade 1 from acute, reversible effects of prior chemotherapy, excluding alopecia regardless of interval since last treatment; (NOTE: patients with residual peripheral neuropathy are allowed)
+Failed to recover from the reversible effects of prior anticancer therapies with the exception of alopecia
+Failure to recover from acute, reversible effects of prior therapy regardless of interval since last treatment\r\n* NOTE: Patients can have peripheral (sensory) neuropathy
+Failure to fully recover from acute, reversible effects of prior chemotherapy regardless of interval since last treatment
+Failure to fully recover (i.e. =< grade 1 adverse event [AE]) from the reversible effects of prior chemotherapy
+Fully recovered from acute, reversible effects of prior therapy regardless of interval since last treatment;\r\n* EXCEPTION: neuropathies – if grade 2 neuropathies have been stable for at least 3 months since completion of prior treatment patient is eligible
+Failed to recover to baseline or stable grade 1 from the reversible effects of prior anticancer therapies with the exception of alopecia
+Failure to fully recover from acute, reversible effects defined as =< grade 1 Common Terminology Criteria for Adverse Events (CTCAE) version (v.) 4.0 of prior chemotherapy regardless of interval since last treatment except alopecia and neuropathy
+Patient must recover fully from hepatic resection
+Failure to fully recover from acute, reversible effects defined as =< grade 1 Common Terminology Criteria for Adverse Events (CTCAE) version (v.) 4.0 of prior chemotherapy regardless of interval since last treatment
+Failure to fully recover from acute, reversible effects of prior anti-cancer therapy regardless of interval since last treatment; NOTE: patients must have fully recovered from all acute, reversible toxicities (defined as Common Terminology Criteria for Adverse Events [CTCAE] 4.0 =< grade 1) associated with previous treatment
+Failure to fully recover from acute, reversible effects of prior chemotherapy regardless of interval since last treatment
+Failure to fully recover from acute, reversible effects of prior chemotherapy regardless of interval since last treatment
+Failure to fully recover from acute, reversible effects of prior chemotherapy regardless of interval since last treatment
+Failure to fully recover from acute, reversible effects of prior chemotherapy regardless of interval since last treatment
+Failure to fully recover from acute, reversible effects of prior chemotherapy (other anti-neoplastic therapy) and radiation therapy
+Failure to recover fully (as judged by the investigator) from prior surgical procedures, or failure to recover from adverse events (grade =< 1) due to agents administered more than 4 weeks earlier
+Failure to fully recover from acute, reversible effects of prior chemotherapy (other anti-neoplastic therapy) and radiation therapy to adverse event severity of =< grade 1
+Failure to fully recover from acute, reversible effects of prior chemotherapy regardless of interval since last treatment
+Failure to fully recover from acute, reversible effects of prior chemotherapy regardless of interval since last treatment
+Failure to fully recover from side effects of prior therapy or surgery
+Failure to recover to grade =< 1 from acute, reversible effects of prior chemotherapy regardless of interval since last treatment
+Failure to recover from the reversible effects of prior anticancer therapies with the exception of alopecia, and after-effects associated with prior tyrosine kinase inhibitor therapy such as hair depigmentation, hypothyroidism, and/or splinter hemorrhage.
+Failure to fully recover from acute, reversible effects of prior chemotherapy regardless of interval since last treatment
+Failed to recover from the reversible effects of prior anticancer therapies
+Failure to fully recover from acute, reversible effects of prior surgery or chemotherapy regardless of interval since last treatment
+Failed to recover from the reversible effects of prior anticancer therapies;
+Patients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy and must meet the following minimum duration from prior anti-cancer directed therapy prior to enrollment; if after the required timeframe, the numerical eligibility criteria are met, e.g. blood count criteria, the patient is considered to have recovered adequately
+Patients must have received prior therapy other than surgery and must have fully recovered from the acute toxic effects of all prior anti-cancer therapy and must meet the following minimum duration from prior anti-cancer directed therapy prior to enrollment; if after the required timeframe, the defined eligibility criteria are met, e.g. blood count criteria, the patient is considered to have recovered adequately
+Prior cancer treatment must be completed at least 28 days prior to registration and the subject must have recovered from all reversible acute toxic effects of the regimen (other than alopecia) to =< grade 1 or baseline
+Patients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy
+Has recovered from the toxic effects of prior therapy to their clinical baseline
+Subjects must have fully recovered from the acute toxic effects of all prior anti-cancer therapy
+Patient must have recovered from any toxic effects of previous chemotherapy, targeted therapy or radiotherapy as judged by the investigator to ? grade 1
+Be fully recovered from major surgery and from the acute toxic effects of prior chemotherapy and radiotherapy. Residual chronic toxicities of prior therapy ? grade 2 (eg, peripheral neuropathy, residual alopecia) are allowed.
+Recovered from the toxic effects of prior therapy to < grade 2 toxicity per NCI CTCAE prior to study registration (except lymphopenia).
+TREATMENT INCLUSION: Recovered from all acute non-hematologic toxic effects of all prior chemotherapy
+Has not recovered to Grade ?1 from toxic effects of prior therapy and/or complications from prior surgical intervention before starting therapy. Note: Subjects with Grade ?2 neuropathy is an exception and may enroll.
+Prior Therapy- Patients must have fully recovered from the acute toxic effects of all prior anti- cancer chemotherapy and be within the following timelines:
+Subjects must have recovered from the acute side effects of their prior therapy, such that eligibility criteria are met; cytopenias deemed to be disease-related and not therapy-related are exempt from this exclusion
+Has recovered from the toxic effects of prior therapy to their clinical baseline
+INCLUSION - TREATMENT: Recovered from the acute toxic effects of all prior chemotherapy
+Participants must have fully recovered from the acute toxic effects of all prior treatment to grade 1 or less, except alopecia and =< grade 2 neuropathy which are allowed
+Patients who relapse on therapy other than standard ALL maintenance must have fully recovered from the acute toxic effects of all prior anti-cancer therapy, defined as resolution of all such toxicities to ? grade 2 or lower per the inclusion/exclusion criteria prior to entering this study
+Patients must have recovered to =< grade 1 or stabilized from the toxic effects of any prior chemotherapy (except alopecia)
+Prior cancer treatment (systemic therapy or radiation therapy) must be completed at least 3 weeks prior to registration and the subject must have recovered from all reversible acute toxic effects of the regimen (other than alopecia) to grade =< 1 or baseline.
+Subjects must have recovered from the acute side effects of their prior therapy, such that eligibility criteria are met; cytopenias deemed to be disease-related and not therapy-related are exempt from this exclusion
+Patient must have recovered from acute toxic effects (? grade 1) of previous cancer treatments prior to enrollment
+Participants must have fully recovered from the acute toxic effects of all prior anticancer therapies or must adhere to post-treatment conditions as follows:
+Recovered from all acute side-effects (except alopecia) related to previous systemic therapy
+No chemotherapy, radiation, or major surgery within two weeks prior to first dose of study drug and/or recovered from the toxic side effects of that therapy, unless treatment is indicated due to progressive disease.
+Recovered to Grade 1 or baseline from all toxic effects of previous therapy (except alopecia or neuropathy).
+Participants must have fully recovered from the acute toxic effects of all prior anticancer treatments prior to study drug administration:
+Patients must have recovered from the toxic effects of prior therapy at the time of initiation of the study drug unless toxicity is stable
+Patient must have recovered from the acute toxic effects (? grade 1 CTCAE v.4.0) of previous anti-cancer treatment prior to study enrollment; the only exception is that grade 2 neuropathy is permitted
+Prior cancer treatment must be completed at least 14 days prior to registration and the subject must have recovered from all reversible acute toxic effects of the regimen (other than alopecia) to ?grade 1 or to baseline prior to initiation of that therapy.
+Participants must have recovered to grade 0 or 1 or pre-treatment baseline from clinically significant toxic effects of prior therapy (including but not limited to exceptions of alopecia, laboratory values listed per inclusion criteria, and lymphopenia which is common after therapy with temozolomide)
+Patients who have not recovered from the toxic effects of prior chemo- and/or radiation therapy; guidelines for this recovery period are dependent upon the specific therapeutic agent being used
+Patients must have recovered from the acute toxic effects of all prior therapy to =< grade 1 before entering this study
+Radiation therapy (within 12 weeks of Study Day 1 or has not recovered from the toxic effects of such therapy).
+Gliadel® Wafer (within 6 months of Study Day 1, or has not recovered from the toxic effects of such therapy).
+Immunotherapeutic agents, vaccines, or monoclonal antibody therapy (within 4 weeks of Study Day 1 or has not recovered from the toxic effects of such cancer therapy).
+Temozolomide or other chemotherapy (within 4 weeks of Study Day 1 or 6 weeks for nitrogen mustards, or has not recovered from the toxic effects of such cancer therapy).
+Surgical resection of brain tumor (within 4 weeks of Study Day 1 or has not recovered from acute side effects of such therapy except for neurological effects).
+Must have recovered from the acute toxic effects of all prior therapy prior to registration for this study to grade 1 or less
+Subjects must have recovered from the toxic effects of any prior chemotherapy to < grade 1 (except alopecia)
+Treated with immunotherapeutic agents, vaccines, or monoclonal antibody (Mab) therapy within 4 weeks before enrollment, unless the patient has recovered from the expected toxic effects of such therapy
+Treated with alkylating agents within 4 weeks (6 weeks for nitrosoureas) before enrollment or treated within 1 week before enrollment with daily or metronomic chemotherapy, unless the patient has recovered from the expected toxic effects of such therapy to their baseline or to grade 1
+Prior treatment (non-alkylating agents) within 2 weeks before enrollment, unless the patient has recovered from the expected toxic effects of such therapy
+Must have recovered from the toxic effects of all prior chemotherapy
+Patients must have been off of cytotoxic, immunosuppressive (except steroids), or targeted therapy, including standard and investigational treatments for AA, for at least 1 week or 5 half-lives whichever comes later, prior to entering this study, and have recovered from the toxic effects of that therapy to Grade 1 or less.
+Patients must have fully recovered from the acute toxic effects of all prior anti-cancer chemotherapy or radiation to grade 2 or less
+At the time of registration, patient must have recovered from the toxic effects of prior therapy to no more than grade 1 toxicity
+Patients must have recovered (to Common Toxicity Criteria [CTC] version [v.]4.0 =< grade 1 unless indicated below) from the acute toxic effects of all prior chemotherapy, immunotherapy prior to entering this study, with the exception of alopecia, weight changes and grade I or II lymphopenia
+Must have recovered from toxic effects of prior chemotherapy
+Treated with immunotherapeutic agents within 4 weeks before enrollment, unless the patient has recovered from the expected toxic effects of such therapy
+Treated with alkylating agents within 4 weeks before enrollment (6 weeks for nitrosoureas) or treated within 1 week before enrollment with daily or metronomic chemotherapy, unless the patient has recovered from the expected toxic effects of such therapy
+Prior chemotherapy (non-alkylating agents) within 2 weeks before enrollment, unless the patient has recovered from the expected toxic effects of such therapy
+Patients must have recovered from the acute toxic effects of all prior anticancer chemotherapy
+Patients must have recovered from the toxic effects of prior therapy
+Prior Therapy- Patients must have fully recovered from the acute toxic effects of all prior anti- cancer chemotherapy and be within the following timelines:
+Patients must have recovered from the toxic effects of any prior chemotherapy to < grade 2 (except for alopecia)
+Patients who have not recovered from side effects of prior anti-cancer treatment to less than or equal to grade 1 toxicity according to Common Terminology Criteria for Adverse Events (CTCAE) version (v.) 4 within the following time frames:\r\n* Received previous systemic therapy and has not recovered from side effects for more than 14 days prior to starting on treatment\r\n* Received previous radiation therapy and has not recovered from side effects for more than 14 days prior to starting on treatment\r\n* Received previous biologic therapy and has not recovered from side effects for more than 14 days prior to starting on treatment
+No acute toxic effects from previous treatment superior to grade 1 at the start of the study
+Prior radiation therapy is permitted as long as:\r\n* Recovered from the toxic effects of radiation treatment before study entry, except for alopecia
+Patients must have been off of cytotoxic, immunosuppressive (except steroids), or targeted therapy for at least 2 weeks prior to entering this study, and have recovered from the toxic effects of that therapy to grade 1 or less
+Has not recovered from toxic effect of prior therapy to < Grade 1.
+Participants must have fully recovered from the acute toxic effects of all prior anticancer therapy and must meet the following minimum duration from prior anticancer directed therapy prior to study drug administration. If, after the required time frame, the numerical eligibility criteria are met, eg, blood count criteria, the participant is considered to have recovered adequately:
+Have recovered from the acute effects of any prior systemic therapy.
+Full recovery (< grade 1) from the toxic effects of any earlier intervention and a minimum of 28 days from the administration of any investigational agent
+Patients must have been off chemotherapy for 2 weeks prior to entering this study unless there is evidence of rapidly progressive disease. Patients must have recovered from the toxic effects of prior therapy to grade ?1. The use of hydroxyurea is allowed to control counts up to 24 hrs prior to the start of therapy with AR-67.
+No chemotherapy, radiation, or major surgery within 2 weeks prior to first dose of study drug and recovered from toxic side effects of that therapy, unless treatment is indicated due to progressive disease.
+Has not recovered to ? Grade 1 or baseline from toxic effects of prior therapy and/or complications from prior surgical intervention before starting study treatment.
+Patients must have recovered from side effects resulting from prior cancer-directed therapy to a level of grade 1 or less (unless deemed not clinically significant by study investigator)
+Subjects that have not recovered from side effects of previous therapy.
+Participants must have recovered to grade 0 or 1 or pre-treatment baseline from clinically significant toxic effects of prior therapy (including but not limited to exceptions of alopecia, laboratory values listed per inclusion criteria, and lymphopenia which is common after therapy with temozolomide)
+Subjects must have recovered from the toxic effects of any prior chemotherapy to =< grade 1 (except alopecia)
+Patients must have recovered from the toxic effects of prior therapies (=< grade 1)
+Patients must have fully recovered from major surgery and from the acute toxic effects of prior chemotherapy and radiotherapy (residual grade 1 toxicity, e.g., grade 1 peripheral neuropathy, and residual alopecia are allowed)
+Patients must have fully recovered from major surgery and from the acute toxic effects of prior chemotherapy and radiotherapy - residual grade 1 toxicity, e.g., grade 1 peripheral neuropathy and residual alopecia are allowed
+Patients who have not recovered to grade =< 1 or to their baseline from clinically significant adverse effects
+Recovered from the toxic effects of all prior chemotherapy
+Subjects must have recovered from the acute side effects of their prior therapy, such that eligibility criteria are met; cytopenias deemed to be disease-related and not therapy-related are exempt from this exclusion
+Subjects must be recovered from any clinically relevant toxic effects of any prior surgery, radiotherapy, or other therapy intended for the treatment of cancer.
+Patient must be recovered from any clinically relevant toxic effects of any prior surgery, radiotherapy, or other therapy intended for the treatment of cancer
+Has not recovered to ? Grade 1 from toxic effects of prior therapy.
+Has not recovered from toxic effects of prior therapy to ? Grade 1.
+Recovery from the toxic effects of prior therapy, with a minimum time of:
+Patient must have recovered from the acute toxic effects of the treatment before beginning study therapy.
+Previous radiation therapy was allowed but must have been discontinued at least 2 months before study drug is administered, and the patient must have recovered from acute toxic effects
+Radiation therapy completed at least 7 days prior to start of study treatment and patients must have recovered from any acute adverse effects.
+Patients must have recovered from the toxic effects of prior therapies
+Patients must have fully recovered from major surgery and from the acute toxic effects of prior chemotherapy and radiotherapy (residual grade 1 toxicity, e.g. grade 1 peripheral neuropathy, and residual alopecia are allowed)
+Subjects must have recovered from the toxic effects of prior therapy; residual toxicity from any previous treatment must be =< Grade 1
+Has not recovered to ? Grade 1 from toxic effects of previous therapy and/or complications from previous surgical intervention before starting study therapy.
+Recovered from toxic effects attributed to UC-961 to grade 1 levels, or baseline
+Participant has not recovered from the acute toxic effects of prior anticancer therapy, radiation, or major surgery/significant trauma.
+Patients must have recovered from side effects from prior cancer-directed therapy to grade 1 or less (unless deemed not clinically significant by study investigator)
+Treatment with any investigational agent within 28 days prior to registration for protocol therapy and the subject must have recovered from the acute toxic effects of the regimen.
+Participants must have recovered to grade 0 or 1 or pre-treatment baseline from clinically significant toxic effects of prior therapy (including but not limited to exceptions of alopecia, laboratory values listed per inclusion criteria, and lymphopenia which is common after therapy with temozolomide)
+History of prior malignancy, except for conditions as listed in the protocol if patients have recovered from the acute side effects incurred as a result of previous therapy
+Subjects must be recovered from any clinically relevant toxic effects of any prior surgery, radiotherapy, or other therapy intended for the treatment of cancer. (For example, subjects with residual Grade 1 toxicity or stable Grade 2 peripheral neuropathy due to prior chemotherapy are allowed with approval of the Medical Monitor.)
+Patients must have fully recovered from the acute toxic effects of all prior anti-cancer therapy (toxicity < grade 2)
+The patient has not recovered from the acute toxic effects of prior chemotherapy, radiation, or major surgery/significant trauma.
+Participants must have fully recovered from the acute toxic effects of all prior anti-cancer therapy
+Subjects must be recovered from any clinically relevant toxic effects of any prior surgery, radiotherapy, or other therapy intended for the treatment of cancer. (Subjects with residual Grade 1 toxicity, for example Grade 1 peripheral neuropathy or residual alopecia, are allowed with approval of the Medical Monitor.)
+At the time of registration, patient must have recovered from the toxic effects of prior therapy to no more than grade 1 toxicity
+No acute toxic effects from previous treatment superior to grade 1 at the start of the study
+Patients must have recovered from the toxic effects of all prior therapy before entering this study
+Patients must have been off chemotherapy for 2 weeks prior to entering this study, unless there is evidence of rapidly progressive disease, and must have recovered from the toxic effects of that therapy to at least grade 1. Use of hydroxyurea for patients with rapidly proliferative disease is allowed before the start of study therapy and for the first four weeks on therapy.
+Patients must have recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiation therapy prior to entry on study; patients must have had at least one prior treatment regimen; patients may have received treatment previously with cyclophosphamide topotecan or bevacizumab
+Patients may be treated on this trial without having received prior therapy; if patients have received prior therapy, they must have recovered from all toxic effects prior to entering this study
+Recovered from all toxic effects (excluding alopecia) of any prior anti-cancer therapy to Grade ? 1 or to the baseline laboratory values.
+Prior therapy: \r\n* The patient’s malignancy must have relapsed after or failed to respond to frontline curative therapy and/or there must not be any potentially curative treatment options available at the time of study entry\r\n* There is no limit to the number of prior treatment regimens; however, patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to study enrollment; acute toxicity of any previous therapy must have resolved to grade 1 or less, unless specified elsewhere
+Participants must have fully recovered from the acute toxic effects of all prior therapy prior to first administration of study drug
+Has not recovered from toxic effect of prior therapy to < Grade 1.
+Patients must have recovered from side effects from prior cancer-directed therapy to grade 1 or less (unless deemed not clinically significant by study investigator)
+Patient has not recovered from the acute toxic effects of prior anticancer therapy, radiation, or major surgery/significant trauma.
+Use of an investigational agent that is not expected to be cleared by the time of first dose of study drug or that has been demonstrated to have prolonged side effects. Patients must have recovered from all side effects to a Grade 0 or 1 (except alopecia and neuropathy).
+Have discontinued previous treatments for cancer and recovered from all acute toxic effects of prior systemic therapy (except alopecia) to grade ?1;
+Recovery from the toxic effects of prior therapy to not more than grade 1 or > 3 weeks from prior therapy to registration, whichever is later
+Has not recovered to ? Grade 1 from toxic effects of prior therapy.
+Patients must have been off all prior therapy for leukemia except hydroxyurea for 1 week prior to entering this study and recovered from the toxic effects of that therapy
+Prior/Concurrent Therapy: Research participants must have recovered from the acute effects of prior treatment and:
+Patients must have recovered from the toxic effects of prior therapy at the time of registration as follows:
+Patient has recovered from the toxic effects of prior therapy, and is at least 30 days from the most recent cytotoxic therapy, prior to enrollment
+At the time of registration, subjects must have recovered from the toxic effects of previous treatments, as determined by the treating physician.
+Patients who have received prior adjuvant high dose interferon are allowed to participate as long as the last injection was given at least 30 days prior to the C11-AMT PET scan and they have fully recovered from side effects (i.e., grade =< 1 or permanent side effects that require hormone replacement therapy)
+Prior therapy: Must have recovered from acute toxic effects of prior anti-cancer therapy (durations relative to date of enrollment):
+Pregnant or breastfeeding (due to toxic effects from tobacco products).
+Has not recovered to ? Grade 1 from toxic effects of prior therapy (including prior immunotherapy) and/or complications from prior surgical intervention before starting therapy.
+Has not recovered to ? Grade 1 from toxic effects of prior therapy and/or complications from prior surgical intervention before starting therapy

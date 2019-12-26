@@ -1,0 +1,49 @@
+Subjects with >= grade 2 peripheral neuropathy at enrollment per the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE)
+EXCLUSION CRITERIA FOR SECOND-LINE THERAPY: Clinically significant peripheral neuropathy at the time of enrollment (defined in the National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events version 4.0 [CTCAE v4.0] as grade 2 or greater neurosensory or neuromotor toxicity)
+EXCLUSION CRITERIA FOR THIRD-LINE THERAPY: Clinically significant peripheral neuropathy at the time of enrollment (defined in the National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events version 4.0 [CTCAE v4.0] as grade 2 or greater neurosensory or neuromotor toxicity)
+Subject has any peripheral neuropathy >= National Cancer Institute (NCI) CTCAE grade 2 at enrollment
+Neuropathy >= grade 3 or painful neuropathy >= grade 2 (National Cancer Institute Common Terminology Criteria for Adverse Events [NCI CTCAE] version [v]4.03)
+Peripheral neuropathy of Grade greater than or equal to (>/=) 3 per the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 3.0 or 4.0, as utilized in the parent study
+Has sensory or motor neuropathy of >= National Cancer Institute Common Terminology Criteria for AEs (NCI CTCAE) Grade 3.
+Persisting toxicity related to prior therapy > Grade 1 National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.03 (NCI-CTCAE v4.03); however, sensory neuropathy ? Grade 2 is acceptable.
+Patients with >= grade III or grade II with pain peripheral neuropathy (National Cancer Institute [NCI] CTCAE version [v.] 4.03 criteria)
+Grade >= 2 neuropathy (National Cancer Institute [NCI] CTCAE version 4)
+Clinically significant peripheral neuropathy at the time of enrollment (defined in the National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events [CTCAE] v4.0) as grade 2 or greater neurosensory or neuromotor toxicity)
+Grade >= 3 peripheral neuropathy according to (National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events [CTCAE]) version 4.0
+Peripheral neuropathy of grade >= per National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), version 4.0, at the time of or within 3 weeks prior to the first study therapy
+Presence of peripheral neuropathy >= grade 3 based on National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTCAE v 4.0)
+Symptomatic peripheral neuropathy >= grade 2 by National Cancer Institute (NCI) Common Terminology Criteria (NCI-CTC) version 4
+Peripheral neuropathy National Cancer Institute (NCI) CTCAE >= grade 2 at baseline
+Peripheral sensory neuropathy or peripheral motor neuropathy >= grade 2 per National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version (v) 4.0
+Peripheral neuropathy grade 0 or 1 by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.03
+Peripheral neuropathy of National Cancer Institute (NCI)- Common Terminology Criteria (CTC) grade >= 2
+Peripheral neuropathy of grade 2 or greater severity as defined by the National Cancer Institute's (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0; patients with grade 2 or higher (NCI-Common Toxicity Criteria [CTC]) neuropathy
+Clinically significant peripheral neuropathy at the time of randomization (defined in the National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events Version 4.0 [CTCAE v4.0] as grade 2 or greater neurosensory or neuromotor toxicity)
+Presence of National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) ? grade 2 toxicity (except alopecia, peripheral neuropathy and ototoxicity, which are excluded if ? NCI CTCAE grade 3) due to prior cancer therapy
+Presence of neuropathy > Grade 2 (National Cancer Institute Common Toxicity Criteria [NCI CTC]; v4.0)
+Symptomatic peripheral neuropathy >= grade 2 by National Cancer Institute (NCI) Common Terminology Criteria (NCI-CTC) version 4
+Peripheral neuropathy of any etiology > grade 1 (National Cancer Institute Common Terminology Criteria for Adverse Events [NCI CTCAE] version 4.0)
+No pre-existing neuropathy grade > 1 per the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0
+Subject has any peripheral neuropathy ? NCI CTCAE (National Cancer Institute Common Terminology Criteria for Adverse Events ) Grade 2 at randomization/enrollment.
+Patients must not currently have a > grade 1 symptomatic neuropathy-sensory (National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events [CTCAE] version 4.0)
+Any peripheral neuropathy ? National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) grade 2.
+Grade II or greater peripheral vascular disease based on National Cancer Institute (NCI) Common Toxicity Criteria (CTC); e.g. ischemic rest pain, minor tissue loss, and ulceration or gangrene
+Participant has peripheral neuropathy or neuropathic pain Grade 2 or higher, as defined by the national cancer institute common terminology criteria for adverse events (NCI CTCAE) Version 4
+The patient has ? Grade 2 peripheral neuropathy by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) at screening
+Pre-existing neuropathy >= grade 2 (National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events [CTCAE] version 4.0)
+Symptomatic peripheral neuropathy >= grade 2 by National Cancer Institute (NCI) Common Terminology Criteria (NCI-CTC) version 4
+E 19. Symptomatic peripheral neuropathy grade >2 (National Cancer Institute Common Terminology Criteria [NCI CTCAE] v.4.03).
+Clinically significant peripheral neuropathy at the time of randomization (defined in the National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events Version 4.0 [CTCAE v4.0] as grade 2 or greater neurosensory or neuromotor toxicity)
+Pre-existing peripheral neuropathy (National Cancer Institute Common Terminology Criteria for Adverse Events [NCI CTCAE] ?2)
+Clinically significant peripheral neuropathy at the time of randomization (defined in the National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events version 4.0 [CTCAE v4.0] as grade 2 or greater neurosensory or neuromotor toxicity)
+Ineligible for cisplatin-based chemotherapy as defined by any one of the following criteria: Impaired renal function (glomerular filtration rate [GFR] > 30 but < 60 milliliter/minute [mL/min]); National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version (v) 4.0 Grade >= 2 audiometric hearing loss (of 25 Decibel at two contiguous frequencies or more severe); NCI CTCAE v 4.0 Grade >= 2 peripheral neuropathy; ECOG Performance Status of 2
+Adverse events (with exception of alopecia, peripheral sensory neuropathy and those listed in specific exclusion criteria) from any prior anti cancer therapy of grade > 1 (National Cancer Institute Common Terminology Criteria [NCI CTCAE] version [v.]4.0)
+Peripheral neuropathy of grade >= 2 per National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), version 4.0, at the time of or within 3 weeks prior to the first study therapy
+Have peripheral neuropathy of grade 3 or grade 4 at screening, according to National Cancer Institute (NCI) Common Toxicity Criteria for Adverse Events (CTCAE) version (v)4.03, 14 June 2010 scale; or Total Neuropathy Score–clinical (TNSc) score greater than 4
+Current peripheral neuropathy of grade >= 3 per the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v. 4.0
+Neuropathy ? Grade 3 or painful neuropathy ? Grade 2 (National Cancer Institute Common Terminology Criteria for Adverse Events [NCI CTCAE] v3.0).
+Patient self-report neuropathy score greater than or equal to 3 on a 0 to 10 numeric scale and/or grade 2 or 3 neuropathy (according to the National Cancer Institute Common Toxicity Criteria 4 point grading scale)
+Clinical symptoms of peripheral neuropathy of grade 1 or grade 2 as measured by the National Cancer Institute (NCI)-CTCAE
+Peripheral neuropathy grade 0 or 1 by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0
+Patients with a National Cancer Institute (NCI)-Common Toxicity Criteria (CTC) version (v) 4 sensory neuropathy score of 0
+Sensory or motor neuropathy of National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Grade >=3.

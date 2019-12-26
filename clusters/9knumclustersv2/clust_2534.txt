@@ -1,0 +1,35 @@
+White blood cell (WBC) >= ,/mm^, performed within  days of treatment initiation
+Normal white blood cell (WBC) (> /mm^)
+White blood cell (WBC) >= /mm^
+White blood cell (WBC) >= /mm^
+White blood cell (WBC) < ,/mm^
+White blood cell (WBC) >= /mm^ obtained =<  days prior to registration
+White blood cell (WBC) > /mm^, within  days prior to registration
+White blood cell (WBC) < ,/mm^
+White blood cell (WBC) >= /mm^
+White blood cell (WBC) >= /mm^
+White blood cell (WBC) >= /mm^
+White blood cell (WBC) >= ,/mm
+White blood cell (WBC) < ,/mm^
+White blood cell (WBC) > /mm^
+White blood cell (WBC) ? /mm^
+White blood cell (WBC) >= /mm
+Obtained within  days prior to registration: White blood cell (WBC) >=  k/mm^
+White blood cell (WBC) > ,/mm^
+White blood cell (WBC) >= ,/mm^
+White blood cell (WBC) >= /mm^
+White blood cell (WBC) >= /mm^
+White blood cell (WBC) =  mm^
+White blood cell (WBC) <,/mm
+White blood cell (WBC) >= /mm^
+EXPANSION COHORT ONLY: White blood cell (WBC) >= ,/mm^
+White blood cell (WBC) > /mm^
+White blood cell (WBC) > /mm^
+White blood cell (WBC) >= ,/mm^
+White blood cell (WBC) >= /mm^
+White blood cell (WBC) >= ,/mm^
+White blood cell (WBC) >= /mm^
+White blood cell (WBC) >= /mm^
+White blood cell (WBC) >= ,/mm^
+White blood cell (WBC) >= /mm^ within  days of enrollment
+White blood cell (WBC) >= /mm^

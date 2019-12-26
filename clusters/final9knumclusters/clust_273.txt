@@ -1,0 +1,277 @@
+Leukocytes >= 2,500/mcL
+Leukocytes >= 1,500/mcL
+Leukocytes >= 2,500/mcL, within 2 weeks of randomization
+Leukocytes >= 3,000/mcL
+Within 14 days of treatment initiation: Leukocytes >= 2,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL within 4 weeks before randomization
+Leukocytes >= 3,000/mcL
+leukocytes ?3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes ? 3,000/mcL within 14 days of registration
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes ? 3,000/mcL
+Leukocytes >= 3,000/mcL (>= 3,000/mm^3)
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes > 3,000/mcL
+Leukocytes >= 3,000/mcL
+ENDOCRINE RESISTANT AND ADJUVANT COHORT: Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+Leukocytes > 3,000/mcL
+Leukocytes ? 3,000/mcL
+Obtained within 21 days prior to study registration: leukocytes >= 3,000/mcL
+Leukocytes >= 2,500/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 1,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcl
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Within 2 weeks prior to initiation of study treatment: Leukocytes >= 3,000/mcL
+COHORT I: Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes ? 2,000/mcL
+Leukocytes >= 3,000/mcL.
+Leukocytes >= 3,000/mcL, =< 5 days prior to cycle 1 (C1) day 1 (D1)
+Leukocytes >= 3,000/mcL.
+Leukocytes >= 3,000/mcL
+Leukocytes > 3,000/mcL
+Leukocytes >= 3,000/mcL.
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,500/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL within 14 days of treatment initiation
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+Obtained within 21 days of registration: leukocytes > 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL 14 days or fewer from registration
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL (without growth factor)
+Leukocytes >= 3,000/mcL
+Leukocytes >= 1500/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 1500/mcL, within 14 days prior to treatment
+Leukocytes >= 3000 mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+Leukocytes >= 3,000/mcL
+PHASE II: Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Within 14 days prior to registration: Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL, obtained within 14 days of first dose of drug
+PHASE I: Leukocytes >= 3,000/mcL
+PHASE II SCLC: Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes: >= 3,000/mcl (lymphocyte [lymph] %: >= 10%)
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,500/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes < 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes > 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes > 1,500/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Within 4 weeks of preregistration: Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >3,000/mcL
+Leukocytes ? 2,500/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+Leukocytes >= 1,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,500/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes > 1,500/mcL
+Leukocytes >= 3,000/mcL
+DOSE EXPANSION COHORT: Leukocytes ? 3,000/mcL
+Leukocytes >= 3,000/mcL
+Measured within 28 days prior to administration of study treatment: Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+Leukocytes >= 3,500/mcL
+Within 14 days of registration: Leukocytes >= 2,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+PHASE II: Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,500/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL; these results must be obtained within 28 days prior to registration
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+Obtained within 30 days of registration: Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL, within 14 days of study registration
+Leukocytes >= 2,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes > 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes greater than 3,000/mcL
+Leukocytes >= 3,000/mcL
+PHASE I: Leukocytes >= 3,000/mcL
+PHASE II: Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+PART B: Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes > 3,000/mcL
+REGISTRATION INCLUSION CRITERIA: Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes ? 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes ? 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,500/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes > 1,500/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,00/mcL
+Performed within 10 days of treatment initiation: Leukocytes >= 2,000/mcL
+Leukocytes > 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,500/mcL
+Leukocytes >= 2,500/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3 K/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 2,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes > 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL (within 14 days of study registration)
+Leukocytes >= 3,000/mcL
+Leukocytes ? 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes >= 3,000/mcL
+Leukocytes > 3,000/mcL
+Leukocytes > 3,000/mcL
+Leukocytes > 3,000/mcL
+Leukocytes >= 3,000/mcL

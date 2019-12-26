@@ -1,0 +1,4 @@
+Cluster 592: brachytherapy radiation prostate therapy external beam prostatectomy prior cryotherapy radical 
+Cluster 597: beam external brachytherapy pelvic radiation radiotherapy prior received therapy prostate 
+Cluster 984: radical prostatectomy prostate cystectomy cryosurgery cancer undergo scheduled adenocarcinoma patients 
+Cluster 1147: prostatectomy prostate prior cancer therapy cryosurgery cryotherapy radiation hyperthermia patients 

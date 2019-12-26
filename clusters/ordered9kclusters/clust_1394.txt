@@ -1,0 +1,52 @@
+History of congenital long QT syndrome or corrected QT interval (QTc) > 450 msec within 2 weeks of randomization
+Participants may not have corrected QT (QTc) > 470 msec or family history of long QT syndrome
+Congenital long QT syndrome or corrected QT interval (QTc) > 500 msec
+Corrected QT interval (QTc) > 480 msec; history of QT syndrome, Brugada syndrome or known history of QTc prolongation, or torsade de pointes
+Must not have a family history of long corrected QT interval (QTc) syndrome
+Significant uncontrolled or active cardiovascular disease, specifically including, but not restricted to:\r\n* History of clinically significant (as determined by the treating physician) atrial arrhythmia; or any ventricular arrhythmia\r\n* History of congenital long QT syndrome\r\n* Abnormal QT corrected for heart rate using Bazett's formula (QTcB) (>= 450 msec in males and >= 470 msec in females)\r\n* Ejection fraction =< 50% as assessed by echocardiogram
+Fridericia-corrected QT interval (QTcF) > 470 msec (female) or history of congenital long QT syndrome.
+Fredericia-corrected QT interval (QTcF) >470 msec (female) or >450 msec (male), or history of congenital long QT syndrome.
+Participant with mean resting corrected QT interval (specifically QTc calculated using the Fridericia formula [QTcF]) > 450 msec for males and > 470 msec for females, from 3 electrocardiograms (ECGs) performed within 2-5 minutes apart at study entry, or congenital long QT syndrome
+History of congenital long QT syndrome or mean (average of triplicate measurements) corrected QT (QTc) measured using Fridericia's method >/=450 millisecond (ms) at baseline or uncorrectable abnormalities in serum electrolytes (sodium, potassium, calcium, magnesium, phosphorus) Vismodegib
+Any known cardiac abnormalities such as:\r\n* Congenital long QT syndrome\r\n* Corrected QT(QTc) interval >= 500 milliseconds
+Baseline Fridericia's corrected QT (QTcF) interval greater than 470 msec (female) or greater than 450 msec (male), history of congenital long QT syndrome, the presence in the screening electrocardiography (ECG) of a conduction abnormality that in the opinion of the investigator would preclude safe participation in this study
+PHASE I AND II SCLC AND UROTHELIAL CARCINOMA EXPANSION COHORT: Prolongation of QT/corrected QT (QTc) interval (QTc interval > 500 msec) using the Fridericia method of QTc analysis or family history of long QT syndrome; if single reading is above these minimum ranges, then repeat test in triplicate and evaluate eligibility based on average value
+mCRPC EXPANSION COHORT: Prolongation of QT/QTc interval (QTc interval > 500 msec) using the Fridericia method of QTc analysis or family history of long QT syndrome; if single reading is above these minimum ranges, then repeat test in triplicate and evaluate eligibility based on average value
+Corrected QT interval (QTc) > 470 msec (as calculated per institutional standards) at study entry or congenital long QT syndrome
+Corrected QT (QTc) interval > 480 msec, family or personal history of long or short QT syndrome, Brugada syndrome or known history of QTc prolongation or Torsade de Pointes
+Corrected QT (QTc) prolongation > 480 msec (Bazett's formula) or congenitally long QT syndrome
+Corrected QT (QTc) interval (Fridericia formula) > 450 msec for men or > 470 msec for women at study entry; history of congenital long QT syndrome
+Patients with resting corrected QT interval (specifically QTc calculated using the Fridericia formula [QTcF]) > 470 msec from a single electrocardiogram (ECG) performed at study entry or congenital long QT syndrome.
+Corrected QT (QTc) interval > 480 msec (based on the mean value of the triplicate electrocardiography [ECG]s), family or personal history of long or short QT syndrome, Brugada syndrome or known history of QTc prolongation or Torsade de Pointes.
+Any of the following cardiac criteria:\r\n* Mean resting corrected QT interval (QTc using Fridericia’s formula [QTcF]) > 470 msec obtained from 3 electrocardiograms \r\n* Congenital or family history of long or short QT syndrome, Brugada syndrome, known history of QTc prolongation or torsades de pointes within 12 months of entering the study\r\n* Abnormal echocardiogram at baseline (left ventricular ejection fraction [LVEF] < 40% and shortening fraction [SF] < 15%)
+Prolonged QT interval (corrected QT interval [QTc] > 480 milliseconds) on screening electrocardiogram (EKG) or congenital long QT syndrome
+Patients must not have a screening corrected QT Fridericia’s formula (QTcF) interval > 480 msec based on the average of the triplicate electrocardiograms (EKGs) performed within 28 days prior to registration; NOTE: triplicate EKGs are required at other timepoints; patients must not have any family or personal history of long or short QT syndrome, Brugada syndrome or known history of QTc prolongation, or torsade de pointes
+Patients must not have a screening QTcF interval > 480 msec based on the average of the triplicate EKGs performed within 28 days prior to step 2 re-registration; NOTE: triplicate EKGs are required at other timepoints; patients must not have any family or personal history of long or short QT syndrome, Brugada syndrome or known history of QTc prolongation, or torsade de pointes
+Patients with congenital long QT syndrome, bradyarrhythmias, or QTc > 480 msec are not eligible
+At screening, patients must have no known history of congenital long QT syndrome and must have a corrected mean QTc interval =< 450 msec at baseline
+Mean resting corrected QT interval (QTc) calculated using Fridericia's formula (QTcF) >450 msec obtained from 3 electrocardiograms (ECGs); family or personal history of long or short QT syndrome; Brugada syndrome or known history of QTc prolongation or torsade de pointes within 12 months of the subject entering the study.
+Congenital long QT syndrome or a corrected QT interval (QTc) ?450 ms at Screening (unless secondary to pacemaker or bundle branch block).
+Patients who have a mean resting correct corrected QT (QTc) interval using the Fridericia formula (QTcF) > 470 msec (as calculated per institutional standards) obtained from 3 electrocardiograms (ECGs) 2-5 minutes apart at study entry, or congenital long QT syndrome; AZD1775 should not be given to patients who have a history of Torsades de pointes unless all risk factors contributed to Torsades have been corrected; AZD1775 has not been studied in patients with ventricular arrhythmias or recent myocardial infarction
+Corrected QT interval (QTc) > 470 msec; excluded are patients who may develop prolongation of QTc; these conditions include patients with hypokalemia or hypomagnesemia, patients with congenital long QT syndrome, patients taking anti-arrhythmic medicines or other medicinal products that lead to QT prolongation, and cumulative high-dose anthracycline therapy
+Mean resting corrected QT interval (QTc), calculated using Fridericia’s formula, > 470 msec obtained from 3 electrocardiograms (ECGs), family or personal history of long or short QT syndrome, Brugada syndrome or known history of QTc prolongation or Torsade de Pointes within 12 months of the patient entering in the study
+Have Fridericia-corrected QT interval (QTcF) > 470 msec (female) or > 450 (male), or history of congenital long QT syndrome.
+Corrected QT (QTc) interval >= 450 msec at baseline or history of congenital long QT syndrome or uncorrectable electrolyte abnormalities
+Corrected QT interval (QTc) > 480 msec; history of QT syndrome, Brugada syndrome or known history of QTc prolongation, or torsade de pointes
+History of congenital long QT syndrome or corrected QT interval (QTc) greater than (>) 450 milliseconds at screening
+Subject has Long corrected QT interval (QTc) Syndrome at Screening.
+History of congenital long QT syndrome or a corrected QTc interval >= 450 msec at baseline
+Prolonged corrected QT (QTc) interval (>= 450 msec) as calculated by Bazett’s formula, or patients with a history of congenital long QT syndrome or uncorrectable electrolyte abnormalities
+Mean QTc > 500 msec (with Bazett’s correction) in screening electrocardiogram or history of familial long QT syndrome
+History of congenital long QT syndrome, or a baseline >470 msec QTcF abnormality (average of the triplicate reading).
+Baseline prolongation of QT/corrected QT (QTc) interval, i.e., defined as an average QTc interval > 450 msec calculated using the Fridericia formula for QT correction; long QT syndrome; or the required use of concomitant medication that may cause torsade de pointes
+Corrected QT interval (QTc) >470 msec (as calculated by Fridericia correction formula) at study entry or congenital long QT syndrome.
+History of congenital long QT syndrome or mean corrected QTc interval > 450 msec at baseline
+History of congenital long QT syndrome or QTc > 470 msec
+Have Fridericia-corrected QT interval > 470 milliseconds (msec) (female) or > 450 msec (male), or history of congenital long QT syndrome
+Corrected QT (QTc) interval ? 450 msec at baseline or history of congenital long QT syndrome or uncorrectable electrolyte abnormalities. (Patients with well controlled atrial fibrillation are exempt from this criteria.)
+Patients must have corrected QT (QTC) interval =< 480 msec on electrocardiogram (EKG) at baseline; patient with congenital long QT syndrome are not eligible
+Subjects with a high probability of Long QT Syndrome or QTc interval prolongation of more than or equal to 501 msec on at least two separate ECGs, following correction of any electrolyte imbalance.
+Any of the following cardiac abnormalities or history:\r\n* Clinically significant abnormal 12-lead electrocardiograph (ECG), QT interval corrected using Fridericia's method (QTcF) > 450 msec\r\n* Inability to measure QT interval on ECG\r\n* Personal or family history of long QT syndrome\r\n* Implantable pacemaker or implantable cardioverter defibrillator\r\n* Resting bradycardia < 55 beats/min
+Mean resting corrected QT interval (QTc), calculated using Fridericia’s formula, > 470 msec obtained from 3 electrocardiograms (ECGs), family or personal history of long or short QT syndrome, Brugada syndrome or known history of QTc prolongation or torsade de pointes within 12 months of the patient entering in the study
+Corrected QT interval (QTc) > 470 msec (as calculated by Fridericia correction formula) at study entry or congenital long QT syndrome
+Patients with history of long QT syndrome, uncorrectable electrolyte abnormalities, or corrected QT (QTc) > 500 msec

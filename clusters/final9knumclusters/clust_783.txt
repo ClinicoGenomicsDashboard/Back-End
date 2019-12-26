@@ -1,0 +1,173 @@
+Any prior therapy, radiotherapy (except palliative radiation therapy of 30 gray [Gy] or less), or major surgery must have been completed >= 4 weeks prior to start of treatment; all adverse events due to prior therapy have resolved to a grade 1 or better (except alopecia and lymphopenia) by start of treatment; palliative radiation therapy must have been completed at least 2 weeks prior to start of treatment; the radiotherapy must not be to a lesion that is included as measurable disease\r\n* NOTE: Prostate cancer patients may continue their luteinizing hormone-releasing hormone (LHRH) agonist\r\n* NOTE: Patients may receive non-protocol treatment after biopsy (if clinically indicated) until they receive notification of results; however, lack of response must be documented prior to registration to Step 1; new non-protocol treatment will NOT be permitted as intervening therapy after registration to Step 0; the decision to stop the intervening non-protocol treatment will be left up to the treating physician if patient has an aMOI; however, patients will need to be off such therapy for at least 4 weeks before receiving any MATCH protocol treatment\r\n* NOTE: For patients entering the study via a designated outside laboratory, no intervening systemic non-protocol treatment is permitted after Step 0 registration; all other eligibility requirements still apply to these patients, including the washouts for prior therapy noted above in this section, the time restrictions outlined, and the eligibility criteria for the intended subprotocol
+Obtained within 14 days prior to treatment start: Platelets (UNVPLT) >= 100 × 10^9/L
+Prior isotope therapy with strontium-89, samarium or radium-223 within 12 weeks of treatment start
+Administration of antifungal agents (itraconazole, fluconazole, etc) within 4 weeks of treatment start or unrecovered adverse events (AEs) due to agents administered more than 4 weeks of treatment start
+Prior or concomitant treatments:\r\n* Prior treatment with ibrutinib\r\n* The following cancer treatments:\r\n** Chemotherapy or biological therapy within 14 days prior to start of treatment\r\n** Immunological therapy, radiation therapy, or hormonal therapy within 7 days prior to start of treatment\r\n** Major surgery within 15 days prior to start of treatment\r\n** Subjects who have unresolved toxicity (>= grade 2) from prior anti-cancer therapy, unless that event is thought to be due to disease progression\r\n* Any investigational agent, including small molecule agents, within 30 days prior to start of study treatment\r\n* Any of the following with 7 days prior to start of study treatment:\r\n** B-cell receptor pathway inhibitor;\r\n** CYP3A inhibitors (such as fluconazole, ketoconazole, and clarithromycin);\r\n** Potent CYP3A inducers (e.g., rifampin, phenytoin, carbamazepine or St. John's wort);\r\n** Warfarin or requires the use of warfarin (due to potential drug-drug interactions that may potentially increase the exposure of warfarin and complications of this effect);\r\n** Antiretroviral medications\r\n** Antibiotics, antifungals, or antivirals to treat an active infection (prophylactic antibiotics allowed)\r\n* Subjects who are unable or unwilling to discontinue use of prohibited medications, including medications with CYP450 interactions\r\n* Subject has received prior treatment with allogeneic stem cell transplant or solid organ transplant (except for cornea) for any indication
+Patients must be enrolled before treatment begins; the date protocol therapy is to start must be no later than 42 days from the time of recurrence and within 7 days from enrollment
+Must start the study treatment no more than 60 days from the last dose of RT (if administered) and no more than 120 days from the date of surgical removal of nodal metastases
+Patients under chronic treatment with systemic corticosteroids or other immunosuppressive drugs (e.g. cyclosporine) for a period of at least 4 weeks and whose treatment was not stopped 1 week prior to start of the study treatment (day 1 [D1] of cycle 1)
+Receipt of a stable ART regimen for at least 3 weeks prior to start of trial
+Patients must be maintained on a stable corticosteroid regimen from the time of their baseline scan until the start of the treatment and/or for at least 5 days before starting treatment
+Prior radiation within 14 days before start of study registration
+All radiology studies (study requiring staging) must be performed within 35 days prior to the start of therapy
+Treatment with any CTLA4 antibody within 6 weeks of the start of study drug.
+Treatment with nivolumab or any PDL1 or PDL2-directed antibody within 4 weeks of the start of study drug.
+Treatment with pembrolizumab within 4 - 12 weeks of the start of study drug (cohort dependent).
+Have had significant active cardiac disease within 6 months prior to the start of study treatment, including any of the following:
+Any prior radiation must have been completed at least 7 days prior to the start of study drugs, and patients must have recovered from any acute adverse effects prior to the start of study treatment
+Measurable disease before start of pre-study nivolumab treatment
+Hematologic inclusion within 2 weeks of start of treatment
+< 24 days from prior temozolomide, < 6 weeks from nitrosourea, < 4 weeks from other chemotherapy or investigational agents prior to start of treatment within study.
+Concomitant therapies that cannot be discontinued or switched to a different medication prior to study entry that are known to increase serum phosphate levels are not permitted within 4 weeks prior to start of study treatment)
+Patients must be maintained on a stable corticosteroid regimen from the time of their baseline scan until the start of treatment and/or for at least 5 days before starting treatment
+Emergent radiation therapy, one dose of intrathecal chemotherapy, and up to 7 days of steroids for treatment of relapse are permitted before start of treatment in participants who relapse after completion of frontline therapy
+Patients who have received any chemotherapy or investigational treatment within 4 weeks of study start
+Patients must be able to start treatment (androgen suppression [AS] or radiation) within 120 days of study registration
+Systemic therapy with immunosuppressive agents within 7 days before the start of treatment; or use of any investigational drug within 28 days before the start of trial treatment.
+Subjects with concurrent cytotoxic chemotherapy or radiation therapy; there must be at least 28 days between any other prior chemotherapy (or radiotherapy) and study treatment; prior antibody therapy must be discontinued 8 weeks prior to start of study treatment
+Administration of an investigational therapeutic within 30 days of treatment start
+Systemic therapy with immunosuppressive agents within 7 days before the start of treatment; or use of any investigational drug within 28 days before the start of trial treatment.
+Prior anti-ROR1 therapy within 12 weeks prior to the start of study therapy.
+Has received prior RT within 2 weeks of start of study treatment
+Patients should be off any prior treatment or line of therapy for 2 weeks prior to start study with the exception of hydrea (hydroxyurea)
+Patients must start therapy within 7 calendar days of registration
+Baseline pulmonary function tests (PFTs) available or will be obtained prior to treatment start
+Prior chemotherapy or radiation must have concluded >= 21 days prior to the start of study treatment
+Change in chemotherapy or hormone therapy within 8 weeks of the start of the study
+STUDY TREATMENT: Able to start study treatment in less than or equal to 90 days after completion of chemoradiation
+Subjects must be scheduled for surgery at Medical University of South Carolina (MUSC) no less than 5 days from the planned start of day 1 and no more than 56 days from the planned start of day 1
+Agreement to use adequate contraception from 2 weeks before the start of treatment with Minnelide and until 90 days after completion of treatment.
+Prior radiation treatment less than 6 months from the planned start of reirradiation of any part of the intended treatment volume
+Concurrent anticancer treatment within 28 days before the start of trial treatment (e.g., cytoreductive therapy, radiotherapy [with the exception of palliative bone directed radiotherapy], immune therapy, or cytokine therapy except for erythropoietin); major surgery within 28 days before the start of trial treatment (excluding prior diagnostic biopsy); concurrent systemic therapy with immunosuppressive agents within 28 days before the start of trial treatment; use of hormonal agents within 7 days before the start of trial treatment; or use of any investigational drug within 28 days before the start of trial treatment; Note: subjects receiving bisphosphonate or denosumab are eligible provided treatment was initiated at least 14 days before the first dose of avelumab
+Patients may be enrolled in any line of standard treatment (without investigational agents); the start date of current treatment should be at least two 2 weeks or more prior to registration; (Note: patients will continue to receive the planned active treatment with chemotherapy or endocrine therapy [standard of care] and initiate denosumab at the recommended dose for this protocol)
+Cancer chemotherapy within 2 weeks prior to start of daratumumab treatment (exception hydroxyurea). Use of hydroxyurea to control proliferative disease will be allowed prior to starting therapy on study and for 7 days during cycle 1-3 (maximum daily dose of 7 gm)
+Surgery, radiation or chemotherapy within 4 weeks of proposed step 1 start date
+Investigational drug within 4 weeks of proposed step 1 start date
+Long-acting somatostatin analogue treatment within 14 days of proposed step 1 start date
+Prior treatment with bendamustine (within 12 months of the start of study treatment). Subjects with prior bendamustine treatment (> 12 months before the start of study treatment) are eligible if they meet the following criteria:
+Any investigational therapy within 28 days prior to the start of Cycle 1
+Hemoglobin (Hgb) >= 9 g/dL, within 14 days start of study start
+Serum total bilirubin =< 1.5 x ULN, within 14 days start of study start
+Subjects who have received therapy for HCV =< 4 weeks from the start of pembrolizumab; Note: those with untreated HCV and those who completed HCV therapy >= 4 weeks of study treatment start are eligible
+Serious persistent infection within 14 days prior to the start of study medication.
+Radiation therapy within 4 weeks prior to start of olaparib treatment (includes radiation targeting bone metastases) or radionuclide treatment within 6 weeks of treatment start.
+INCLUSION CRITERIA FOR PATIENTS WITH NSCLC OR TNBC (COHORT B): Patients must be off chemotherapy for a minimum of 3 weeks prior to start of treatment; targeted therapies must be stopped at least 3 days prior to start of lymphodepletion
+Prior anti-lymphoma therapy (chemotherapy, immunotherapy or other investigational agent) within 4 weeks prior to start of study treatment (corticosteroid treatment at doses of ?20 mg/day, G-CSF or GM CSF are permitted up to 2 weeks prior to start of study treatment.). Note: excluding pre-treatment with rituximab as part of this study
+Patients must not have received chemotherapy and/or radiation therapy within 2 weeks of start of protocol treatment; hydroxyurea is allowed up to 48 hours prior to starting therapy in the setting of rapidly proliferating disease
+At least 2 weeks from prior chemotherapy or radiation therapy to time of start of treatment, except for hydroxyurea or corticosteroid therapy which may be continued through cycle 1
+Prior treatment with chemotherapy or immunotherapy within 14 days prior to enrollment. Subjects receiving palliative radiation to CNS disease within 7 days may be eligible with PI approval. If the most recent treatment line is an EGFR-TKI, the washout period is a minimum of 3 days before the start of paclitaxel/selumetinib (i.e. treatment with the EGFR-TKI may continue until 3 days before start of study treatment). For other targeted therapy agents, the washout period will be 5 half-lives, prior to start of treatment on study.
+Study treatment both planned and able to start within 7 days of randomisation.
+Hormonal treatment within 2 weeks prior to start of study treatment
+Patients must be registered prior to the start of treatment
+The date protocol therapy is projected to start must be no later than 7 days after the date of study registration
+Prior treatment of cancer (chemotherapy, radiation therapy, and surgery) is allowed if completed at least 3 weeks prior to start of treatment with nintedanib and if all treatment-related toxicities are resolved
+Flucytosine within 2 weeks prior to start of study treatment
+For patients receiving treatment of their AML, MDS or ALL prior to transplantation:\r\n* Interval between the start of a cycle of conventional cytotoxic chemotherapy and the start of conditioning regimen must be at least 30 days\r\n* Interval between completing treatment with a hypomethylating agent or other non-cytotoxic chemotherapy and the start of conditioning regimen must be at least 10 days
+Patients must not have received prior chemotherapy or radiation for < 4 weeks prior to start of study treatment
+Patients may be entered if they have received prior radiation therapy involving =< 30% of the bone marrow; any prior radiation therapy must have been administered >= 4 weeks prior to start of study treatment and the patient must be recovered from the acute toxic effects of the treatment prior to start of study treatment
+Platelets >= 100,000 cells/uL (to be performed within 7 days prior to start of study treatment)
+At least 2 weeks from prior MF-directed treatment (till the start of study drug)
+Must be able to start treatment within 12 weeks of surgery or 8 weeks of finalization of chemotherapy.
+Patient must have a history and physical within 2 weeks prior to the start of any protocol therapy (radiation and veliparib)
+Patients must have been off all prior therapy for CML for 2 weeks prior to start of study therapy and recovered from the toxic effects of that therapy; exceptions to these are hydroxyurea and TKIs (including but not limited to imatinib, nilotinib, and bosutinib) which should be discontinued >= 24 hours prior to the start of therapy; patients who are receiving dasatinib prior to enrollment do not have to discontinue this agent prior to start of study therapy
+Participants who have had chemotherapy or radiotherapy within 2 weeks prior to treatment start or those who have not recovered from adverse events due to agents administered more than 2 weeks prior to treatment start; hydroxyurea is allowed for symptomatic leukocytosis during screening, lead in, and cycle 1 only if clinically necessary; a total white blood cell (WBC) count < 25 x 10^9/L prior to first dose of decitabine on trial is required; prior leukapheresis and/or prior or concurrent treatment with hydroxyurea to achieve this level are allowed
+Prior hypomethylating agent (HMA) therapy is allowed, however this study excludes: (1) patients whose relapse occurred on HMA-based therapy immediately prior to this study and (2) patients who experience disease progression (see definition below) while receiving HMA-based therapy within the last 12 weeks prior to treatment start on study; disease progression is defined as either: (1) patients with MDS who have evidence of initial progression to AML (defined by the presence of >= 20% blasts in peripheral blood or bone marrow) while receiving HMA-based therapy within the last 12 weeks prior to treatment start on study; OR (2) patients with AML who have evidence of progressive disease according to European Leukemia Net (ELN) 2017 criteria (e.g. > 50% increase in marrow blasts over baseline or > 50% increase in peripheral blasts to > 25 x10^9/L [> 25,000/uL] [in absence of differentiation syndrome]) while receiving HMA-based therapy within the last 12 weeks prior to treatment start on study\r\n* (Note: Patients who relapse post-transplant who received HMA treatment prior to transplant are eligible for study)
+Patients must be registered prior to the start of treatment
+The date protocol therapy is projected to start must be no later than 7 days after the date of study registration
+Prior radiation treatment less than 3 months from planned start of re-irradiation of any part of the intended treatment volume
+Normal left ventricular function as evaluated by echocardiograph within 4 weeks of start of protocol therapy
+Must be willing to provide blood samples prior to the start of treatment on this study for exploratory tumor molecular profiling analyses.
+Cancer chemotherapy within four weeks prior to start of MCLA-117;
+Has been receiving: radiotherapy, chemotherapy, or molecularly-targeted agents or tyrosine kinase inhibitors within 2 weeks or 5 half-lives (whichever is longer) of the start of study treatment; immunotherapy/monoclonal antibodies within 3 weeks of the start of study treatment; nitrosoureas, antibody-drug conjugates, or radioactive isotopes within 6 weeks of the start of study treatment.
+Concurrent anti-cancer chemotherapy, except TACE (transarterial chemoembolization), during or within 30 days prior to start of study drug
+Concurrent cancer treatment with cytoreductive therapy, radiotherapy, cytokine therapy, cytotoxic agents, targeted small molecule therapy or any investigational anticancer small molecule drugs within 2 weeks prior to the start of study treatment (except 5 weeks from last dose of nitrosourea compound) OR treatment with monoclonal antibodies within 4 weeks prior to the start of study treatment, with the following exceptions:
+Any prior radiation must have been completed at least 7 days prior to the start of study drugs, and patients must have recovered from any acute adverse effects prior to the start of study treatment
+Patients with proliferative disease can be cytoreduced with cytotoxic chemotherapy at investigator’s discretion, but there should be at least a 14 day window between start of cytoreductive therapy and start of daratumumab
+Study treatment both planned and able to start within 14 days of randomisation
+Last dose of any myelosuppressive or biologic therapy was given at least 2 weeks before the start date for vorinostat on this protocol
+Patients who have received chemo-, hormone-, radio or immunotherapy or therapy with monoclonal antibodies or small tyrosine kinase inhibitors within the past 14 days prior to start of treatment or those who have not recovered from adverse events attributed to the agent to grade 1 or baseline\r\n* Exceptions for prior treatments are:\r\n** Hydroxyurea for increased blast count (no washout period required; it can be continued throughout the first cycle of therapy)\r\n** Leukapheresis for leukocytosis (no wash out period required; it can be continued during the study)\r\n*** Note: If patient is registered prior to completion of washout, start date of treatment will need to be confirmed prior to registration; please see assigned quality assurance monitor (QAM) with questions
+Therapy for underlying malignancy within 2 weeks prior to start of study treatment
+Cancer immunotherapy within four weeks prior to start of daratumumab treatment (exception blinatumomab within two weeks prior)
+Chemotherapy or surgery within 4 weeks prior to treatment start
+Radiation treatment within 3 weeks prior to treatment start
+Chemotherapy or surgery within 4 weeks prior to treatment start
+Radiation treatment within 3 weeks prior to treatment start
+Have had significant active cardiac disease within 6 months prior to the start of study treatment
+No active symptoms related to carcinoid syndrome during the last 3 months prior to start of study treatment.
+Pretreatment with interferon as last treatment prior to start of study treatment.
+Receipt of therapeutic oral or IV antibiotics within 2 weeks prior to the start of the study treatment
+Cohort 1a & 1b patients only: an interval of at least 3 weeks between prior surgical resection to start of study therapy, or one week for stereotactic biopsy to start of study treatment
+Platelets >= 100 000/uL, specimens must be collected within 10 days prior to the start of study treatment
+Subjects who have received systemic anticancer therapy within 3 weeks before the start of study treatment; mitomycin C or nitrosoureas must be excluded within 6 weeks before the start of study treatment
+Use of drugs that inhibit renal tubular secretion (e.g. probenecid and cimetidine) within 2 weeks before the start of study treatment
+No brain radiation therapy > 4 weeks before planned start of protocol treatment
+No chemotherapy for > 3 weeks before planned start of protocol treatment
+History of any of the following within 6 months prior to start of MLN0128:
+Treatment with any systemic chemotherapy or investigational agents within 3 weeks of the start of study treatment; endocrine treatment must be stopped prior to initiating study treatment; subjects must have recovered from toxicities of prior therapy
+More than one relapse, secondary glioblastoma and prior treatment with bevacizumab are excluded. An interval of at least 12 weeks from the completion of radiation therapy to start of study treatment is required.
+Receipt of any experimental treatment within 30 days of start of treatment with afatinib until the end of treatment visit
+If PET-negative based on the returned results from centralized review, patients must be planning to begin further treatment within 35 days of the start of cycle 3 of R-CHOP; if PET-positive based on the returned results from centralized review, it is important for patients to start IFRT as soon as possible after the end of cycle 3 of R-CHOP; they should be planning to initiate IFRT followed by yttrium-90 ibritumomab tiuxetan within 35 days of the start of cycle 3 of R-CHOP
+Central review of pathology is required for study participation, but not required prior to enrollment or start of treatment in order to avoid delay. If the results of central pathology review are not available prior to the start of study treatment, the confirmation of diagnosis of ATC at the local laboratory is mandatory prior to scheduled start of treatment with lenvatinib.
+Patients must be suitable to start treatment with single agent chemotherapy based on physician's choice
+Chemotherapy within 21 days or at least 5 half-lives prior to the planned start of study treatment; radiation outside the thorax within 14 days prior to the planned start of study treatment or thoracic radiation; antibody based therapy or investigational therapy within 28 days prior to the planned start of study treatment.
+Last dose of therapeutic glucocorticosteroids given greater than 14 days prior to start of study treatment.
+serious persistent infection within 14 days prior to the start of study medication;
+Therapy for underlying malignancy within 2 weeks prior to start of study treatment:
+Subject is taking warfarin at start of treatment or within 6 months prior to start of study treatment
+Chemotherapy or other investigational therapy within 28 days prior to the start of Cycle 1
+Radiation therapy within four weeks prior to start of study treatment (day -1)
+Received chemotherapy or biologic therapy =< 3 weeks prior to the start of neratinib
+The interval between last PD-(L)1 directed treatment and start of study treatment should be at least 21 days.
+Systemic therapy with immunosuppressive agents within 7 days before the start of trial treatment; or use of any investigational drug within 28 days before the start of trial treatment
+Subjects who have started oral or parenteral anticoagulation therapy within 2 weeks before the start of anetumab ravtansine until end of treatment visit.
+Completion of all therapy for the treatment of cancer 2 weeks before the start of study therapy and recovered.
+Study treatment both planned and able to start within 7 days after randomisation.
+Radiation therapy planned to start =< 8 weeks after surgery and at least 7 days after the start of minocycline
+Patients with a history of prior intratumoral bleeding must be evaluated with a non-contrast head CT to exclude acute blood prior to start of treatment
+Patients who have required a blood transfusion within 28 days prior to study start
+Participants who received any investigational treatment within 4 weeks of study start
+Patients on steroids for symptom management must be on a stable dose for 7 days prior to start of treatment
+Patients must be on a stable concomitant medication regimen, defined as no changes in medication or in dose within 2 weeks prior to start of olaparib dosing, except for bisphosphonates, denosumab and corticosteroids, which should be stable for at least 4 weeks prior to start of olaparib dosing.
+Completion of previous chemotherapy regimen >= 2 weeks prior to the start of study treatment
+Administration of any therapy for MDS (conventional or investigational) must be completed by 2 weeks prior to of the first dose of study drug; in the event of rapidly proliferative disease use of hydroxyurea is permitted until 24 hours before the start of study treatment. Toxicities associated with prior MDS therapy must have recovered to grade 1 or less prior to start of treatment.
+Laboratory evaluations;\r\n* Semen analysis (patients will not be excluded if they do not wish to have an analysis or their insurance denies the claim) (prior to start of radiation)\r\n* Follicle-stimulating hormone (prior to start of radiation\r\n* Luteinizing Hormone (prior to start of radiation)\r\n* Lactate Dehydrogenase (prior to start of radiation)\r\n* Human chorionic gonadotropin (prior to start of radiation)\r\n* Complete blood count (prior to start of radiation)\r\n* Alpha-fetoprotein (prior to start of radiation)
+No prior radiation treatment to the affected spine, or sacral region; prior chemotherapy is allowed within 30 days of start of treatment
+Regular treatment with corticosteroids during the 4 weeks prior to the start of Cycle 1
+Concurrent anticancer treatment (e.g., cytoreductive therapy, radiotherapy except for palliative bone-directed radiotherapy, immune therapy, or cytokine therapy except for erythropoietin) within 28 days before start of trial treatment; major surgery within 28 days before start of trial treatment (excluding prior diagnostic biopsy); use of hormonal agents within 7 days before start of trial treatment, except for subjects with castration-resistant prostate cancer (CRPC), who may remain on treatment with luteinizing hormone-releasing hormone agonists or antagonists; or use of any investigational drug within 28 days before start of trial treatment. Note: Small molecule or antibody targeted therapy is permissible <14 days from start of trial treatment.
+Chemotherapy within 14 days of the start of this trial
+For patients with no prior chemotherapy, treatment must start within 35 days of\r\ndefinitive surgery or as indicated if enrolled on therapeutic study
+Chemotherapy or other investigational therapy within 28 days prior to the start of Cycle 1
+Prior treatment with bendamustine (within 2 years of the start of Cycle 1)
+Must be able to start treatment with radiation therapy (RT) within 2 weeks or 10 working days at a qualified center (to be defined by the Radiation Oncology chair) and to start TMZ prescribed at a participating center within 2 weeks or 10 working days of randomization
+Any investigational treatments for any condition within 4 weeks prior to the start of study treatment.
+Eligible for and agree to BM aspirate prior to treatment start
+No prior treatment for ALL, except steroids or hydroxyurea (stopped within 24 hours before start of protocol treatment)
+Treatment must start not more than 15 days from diagnosis of metastatic retinoblastoma
+At least 4 months from prior anti-EGFR therapy prior to start of study treatment
+Patients must have been off all prior therapy for CML for 2 weeks prior to start of study therapy and recovered from the toxic effects of that therapy; exceptions to these are hydroxyurea and TKIs (including but not limited to imatinib, nilotinib, dasatinib, ponatinib and bosutinib), which should be discontinued 48 hours (hrs) prior to the start of therapy; patients who are receiving nilotinib prior to enrollment do not have to discontinue this agent prior to start of study therapy
+Patients under chronic treatment with systemic corticoids or other immunosuppressive drugs (e.g., cyclosporine) for a period of at least 4 weeks and whose treatment was not stopped 1 week prior to the start of the study treatment (i.e., D1 of Cycle 1)
+History of heart problems or thrombosis within 6 months prior to study start.
+Concomitant or recent treatment with other investigational drug (within 4 weeks or 5 elimination half life times prior to anticipated start of study treatment).
+3. Patients must start treatment in the extension protocol within 8 weeks of their last injection administered in the core protocol.
+Patients must be maintained on a stable corticosteroid regimen (no increase for 5 days) prior to the start of treatment
+Any prior anti-cancer treatment such as chemotherapy, immunomodulatory drug therapy, etc., received within 21 days prior to start of CA-4948
+Treatment with any chemotherapy or investigational agents within 4 weeks of the start of study treatment; subjects must have recovered from toxicities of prior therapy
+No treatment interruption of Bevacizumab treatment greater than 2 consecutive cycles (42 days) between the start of first-line treatment to start of Cycle 1 of second line treatment
+One of the following:\r\n* Cytotoxic chemotherapy, alemtuzumab, or an adequate course of 5-azacitidine or decitabine within 3 months prior to start of conditioning; or\r\n* Previous BMT within 6 months prior to start of conditioning\r\n** Note: Patients who have received treatment outside of these windows may be eligible if it is deemed sufficient to reduce graft rejection risk; this will be decided on a case-by-case basis by the PI or co-PI
+PRIOR TO START OF TREATMENT:
+Prior systemic treatment with an azole drug within two weeks of start of treatment
+Will not start treatment for at least 2 weeks AND
+Unable to start nintedanib/placebo treatment between 4 - 6 weeks after completing the last dose of thoracic radiation
+Patients planning to start any type of cancer therapy during the 8 week, double blind, course of the study, once randomized on the study
+An episode of vomiting or retching within 24 hours before the start of the initial treatment with chemotherapy
+Received any investigational treatment within 4 weeks prior to the start of study medication;
+Patients who have been treated with chemotherapy or radiation within two weeks of planned study enrollment; this does not include hydroxyurea or ruxolitinib, which may be continued until start of conditioning therapy
+Patient has hemodynamic instability within 24 hours before the start of study treatment.
+Patient used any medication that increases the risk of bleeding within 24 hours before the start of study treatment.
+Willingness to be randomized to an immediate or delayed (by 8 weeks) start date
+In patients without cGVHD, transplant must have occurred 80-150 days before the start of study drug
+Participants take supplements or foods that are labelled as containing green tea for 8 weeks before start of treatment
+Intention to start therapy
+Platelets >= 100,000/L, within 2 weeks prior to study start
+Patients are eligible to be treated with RT and plan to start treatment
+Treatment with investigational or approved anti-cancer drugs within 4 weeks before the start of BAY1436032 treatment and during the study (glioma patients must have completed chemoradiotherapy at least 12 weeks prior to screening and their baseline scan; see inclusion criteria #2)

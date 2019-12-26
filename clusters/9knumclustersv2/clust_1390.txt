@@ -1,0 +1,61 @@
+Patients must have QTcF (by Fridericia calculation) < /msec based on electrocardiogram (EKG) performed within  days prior to registration
+On screening, inability to determine the QTcF interval on the ECG (i.e.: unreadable or not interpretable) or QTcF >  msec (using Fridericias correction); all as determined by screening ECG (mean of triplicate ECGs)
+Patient with Frederica's (QTcF) formulas (QTcF) ? msec;
+Males with mean QTcF values of >  msec and females with QTcF values of >  msec following  ECGs conducted  minutes apart from each other; patients who are known to have congenital prolonged QT syndromes; or patients who are on medications known to cause prolonged QT intervals on ECG;
+QTcF >  msec on Screening electrocardiogram (ECG)
+Participant has a QTcF interval >  msec (average of triplicate determinations) by central read.
+Medical history of uncontrolled but clinically significant abnormal cardiac conduction abnormalities at electrocardiogram (ECG), any history or evidence of long QT syndrome or QTcF interval > msec for males and ? msec for females (according to Fridericia's correction) at screening
+QTcF < msec
+Screening electrocardiogram (ECG) (defined as the mean of the triplicate ECGs) with QTcF interval at screening =<  msec (using Fridericias correction) and resting heart rate >=  bpm
+Evidence of currently uncontrolled cardiovascular conditions as listed in the protocol; acute myocardial infarction with  months before starting study drug; baseline QT interval (QTcF) greater than (>)  milliseconds (msec) (males) or >  msec (females); or abnormalities on baseline -lead electrocardiogram (ECG) that are considered clinically significant per investigator.
+Patients with mean QTcF values of >  msec (in females) or >  msec (in males) following  ECGs conducted  minutes apart from each other; patients who are known to have congenital prolonged QT syndromes; or patients who are on medications known to cause prolonged QT intervals on ECG.
+QTcF > milliseconds (msec) or QTcF > msec for subjects with bundle branch block
+Interval from the Q wave on the ECG to point T using Fredericia's formula (QTcF) >  millisecond (msec)
+Fridericia's correction formula (QTcF) interval on standard -lead electrocardiography (ECG) parameters at screening (defined as the mean of the triplicate ECGs) of <  msec for males and <  msec for females
+QT interval adjusted according to Fredericia (QTcF) >  msec on screening electrocardiogram (ECG)
+QTcF interval ? msec using the mean of triplicate electrocardiograms (ECGs).
+Significant abnormalities on ECG at screening. QTcF > msec for males or > msec for females at screening
+A QTc interval of > msec by the Fridericia formula (QTcF), at the Screening ECG. If the subject's QTcF is > msec on the initial ECG, a total of  ECGs should be obtained at least  minutes apart and all within  minutes. The average of the  QTcF's will be used to determine eligibility. Known or suspected causes of prolonged QTc can be treated (e.g., hypocalcemia, hypokalemia, hypomagnesimia) and the ECGs may be repeated. If the subject initiates treatment with a drug known to prolong the QTc during the Screening period after the initial Screening ECGs were obtained, the Screening ECGs must be repeated once the new drug has reached steady state to ensure the average QTcF remains ? msec. For subject's whose heart rate is < bpm, the Bazett correction formula (QTcB) may be used.
+Subjects with a QTcF interval of > msec; if the Screening ECG QTcF interval is > msec, it may be repeated, and if repeat < msec, the subject may be enrolled.
+QTcF interval <  msec and mean resting heart rate - bpm
+Inability to determine the QTcF interval on the ECG (i.e.: unreadable or not interpretable) or QTcF >  msec (using Fridericias correction); NOTE: all as determined by screening ECG
+A baseline ECG QTcF >  msec
+QTcF >  msec on the screening ECG
+ lead ECG with QtcF interval ?  msec
+QTcF >  msec on screening Electrocardiography (ECG) (mean of triplicate recordings).
+history or family history of long QT syndrome; -Lead electrocardiogram (ECG) abnormalities considered by the investigator to be clinically significant or QTcF ?  milliseconds, regardless of clinical significance, at screening. Abnormal ECG may be confirmed with one repeat assessment. For subjects with QTcF ?  msec on initial ECG, the mean of the two QTcF assessments will determine eligibility;
+Inability to determine the QTcF interval on the ECG (i.e. unreadable or not interpretable) or QTcF >  msec (using Fridericia's correction). All as determined by screening ECG (using the mean QTcF of triplicate ECGs)
+Screening QTcF > msec or current medication known to prolong QT
+QTcF prolongation (defined as a QTcF >  msec)
+QTcF > msec (males) or > msec (females).
+On screening, any of the following cardiac parameters: bradycardia (heart rate <  at rest), tachycardia (heart rate >  at rest), PR interval >  msec, QRS interval > msec, or QTcF > msec.
+At Screening QTcF ? msec for males and ? msec for females.
+QTcF >  msec
+Screening electrocardiogram (ECG) with a QTcF >  millisecond (msec)
+QTcB ?  msec
+QTcF > msec (males or females)
+Mean QTcF ? msec (for males) or ? msec (for females) at Screening
+QTcF greater than  msec on Screening ECG (mean of triplicate recordings)
+Baseline mean QTcF ?  msec (for males) or ?  msec (for females) at Screening.
+Predose mean QTc?  msec or QTcF ?  msec.
+Mean QTcF interval >  msec at screening.
+QTcF >  msec on Screening ECG (mean of triplicate recordings).
+QTcF >  msec on the screening ECG
+Uncontrolled or severe cardiovascular disease, including myocardial infarction, unstable angina, or atrial fibrillation (AFib) within  months prior to study treatment, New York Heart Association (NYHA) class II or greater congestive heart failure, serious arrhythmias requiring medication for treatment, clinically significant pericardial disease, cardiac amyloidosis, or corrected QT (QTc) with Fridericias (QTcF) correction that is unmeasurable or >=  msec on screening electrocardiography (ECG); (Note: for QTcF >=  sec on the screening ECG, the ECG may be repeated twice at least  hours apart; the mean QTcF from the three screening ECGs must be <  msec in order to meet eligibility for trial participation)
+Subject with a QTcF of >  msec in male subjects and >  msec in female subjects on the screening  lead ECG.
+Patients with baseline QTcF ?  msec
+QTcF ?  msec for males or  msec for females.
+Screening and Baseline QTcF (Fridericia's) less than  msec
+Patient has clinically significant resting bradycardia (heart rate <  at rest), tachycardia (heart rate >  at rest), PR interval >  msec, QRS interval >  msec, or QTcF >  msec.
+QTcF interval on electrocardiogram (ECG) at screening >  msec for males or >  for females;
+The patient has QTcF interval greater than  msec, has a known history of QTcF prolongation, is taking medications known to prolong QTcF, or has a history of torsade de pointes.
+Clinically relevant findings in the ECG such as a second- or third-degree AV block, prolongation of the QRS complex over  msec or of the QTcF-interval over  msec
+Cardiovascular baseline corrected QT by Fridericia's (QTcF) >  msec (male) or QTcF >  msec (female) will exclude patients from entry on study
+QTcF interval >  msec (males) or >  msec (females)
+Pretreatment QTcF interval > msec (females) or > msec (males)
+A baseline ECG QTcF >  msec
+At Screening, QTcF > msec for males; QTcF > msec for females
+QTcF interval <  msec and mean resting heart rate - bpm
+Friderichia corrected QT interval (QTcF) > milliseconds (msec) (men) or > msec (women) on a -lead electrocardiogram (ECG) during the Screening period.
+Prolongation of QTcF interval to > milliseconds (msec)
+Subject has QTcF interval >  msec (average of triplicate determinations based on central reading).

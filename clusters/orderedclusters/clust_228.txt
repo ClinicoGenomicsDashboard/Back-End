@@ -1,0 +1,16 @@
+Hemoglobin >= 10 g/dL without transfusion within 4 days prior to enrollment
+140.0
+Hemoglobin >= 9 g/dL without transfusion within 7 days prior to enrollment
+15.0
+Hemoglobin >= 8.0 g/dl, with or without transfusion
+36.0
+Within 28 days prior to administration of study treatment: Hemoglobin >= 10 g/dL with no pack red blood cell transfusion in the past 28 days
+90.0
+Within 28 days prior to administration of therapy: Hemoglobin >= 10 g/dL with no blood transfusion within 28 days of initiation of therapy
+132.0
+Hemoglobin >= 10 g/dL with no blood transfusion in the past 28 days
+40.0
+Hemoglobin >= 9 g/dL without transfusion in the preceding 7 days
+68.0
+Hemoglobin >= 9 g/dL, patients may receive transfusion to meet criterion within 30 days of day 1 of study
+27.0

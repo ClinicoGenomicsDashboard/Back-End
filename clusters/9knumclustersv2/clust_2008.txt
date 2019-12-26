@@ -1,0 +1,88 @@
+Prior radiotherapy is allowed if more than  days have elapsed since the end of treatment
+Cohort A Dose Expansion (Ribociclib + PDR): Prior radiotherapy: \r\n* Participants may have received radiotherapy for palliative purposes but must have completed treatment >=  days prior to first dose of study treatment and not be experiencing grade >  treatment-related toxicities
+Pamolidomide:  days
+Systemic antineoplastic therapy or radiotherapy within  days before the first dose of any study drug
+Radiotherapy within  days before randomization; seven days may be considered if to single area
+Radiotherapy within  days before enrollment
+Radiotherapy within  days prior to baseline.
+Radiotherapy administered less than  days prior to the first dose of the IMP, or localized palliative radiotherapy administered less than  days prior to the first dose of the IMP, or radiotherapy-induced toxicity of Grade  or greater based on NCI-CTCAE v ..
+Radiotherapy within  days before enrollment; if the involved field covered =< % of the bone marrow reserve, the patient may be enrolled irrespective of the end date of radiotherapy
+Radiotherapy or chemotherapy within the  days prior to the first dose of BGB being administered (other than hydroxyurea)
+Radiotherapy within  days before randomization.
+Radiotherapy within  days before enrollment; radiotherapy is excluded during induction and consolidation  while receiving MLN 
+Prior radiotherapy =<  days
+Systemic antineoplastic therapy or radiotherapy for other malignant conditions within  days before the first dose of any study drug
+Systemic antineoplastic therapy or radiotherapy within  days before the first dose of any study drug, except for hydroxyurea
+Has received prior approved radiotherapy within  days of study therapy.
+Has received chemotherapy or radiotherapy within  days of first dose of study medication
+No chemotherapy or radiotherapy within the past  days
+Patients must not have had chemotherapy =<  days or radiotherapy =<  days prior to study treatment
+Patients who have had chemotherapy or radiotherapy within  days of enrollment
+Systemic antineoplastic therapy or radiotherapy for other malignant conditions within  days before the first dose of any study drug, except for hydroxyurea
+Radiotherapy within  days before randomization; seven days may be considered if to single area
+Radiotherapy =<  days prior to registration
+Patients must not have had chemotherapy or radiotherapy =<  days prior to study registration
+Have received NO radiotherapy within  days prior to receiving study drug
+Radiotherapy within  days before enrollment
+Radiotherapy to any site for any reason within  days prior to study entry
+Received radiotherapy ? days prior to the first dose of AP of study drug.
+Radiotherapy within  days prior to initiation of study treatment
+Systemic antineoplastic therapy or radiotherapy for other malignant conditions within  days before the first dose of any study drug, except for hydroxyurea
+Concurrent radiotherapy, radiotherapy within  days of first GT dose, previous radiotherapy to the target lesion sites, or prior radiotherapy to > % of bone marrow
+The patient has not received stereotactic radiotherapy within  days prior to initiation of study treatment or whole-brain radiotherapy within  days prior to initiation of study treatment.
+Treatment with prior radiotherapy within  days of initiating study drug; however, if the radiation portal covered =< % of the bone marrow reserve, the patient may be enrolled without respect to the end date of radiotherapy
+Radiotherapy to any site for any reason within  days prior to treatment
+Radiotherapy within  days prior to first IMP administration.
+Radiotherapy within  days of study treatment
+The participant received radiotherapy within  days prior to randomization.
+Radiotherapy within  days of study treatment
+Radiotherapy within  days of randomization
+Prior radiotherapy within  days of screening. Localized radiation therapy to a single site within the last  days is acceptable. Concurrent radiotherapy is not permitted.
+Radiotherapy within  days prior to randomization except in case of localized radiotherapy for analgesic purpose or for lytic lesions at risk of fracture, which can then be completed within  days prior to randomization. Subjects must have recovered from radiotherapy toxicities prior to randomization
+Radiotherapy less than or equal to (<=)  days prior to Day 
+Concurrent radiotherapy, radiotherapy within  days of first trilaciclib (GT) dose
+Radiotherapy, at least  days from last local site radiotherapy
+An interval of at least  weeks between prior radiotherapy or at least  days from prior chemotherapy,  days from nitrosoureas and enrollment in this study;
+Radiotherapy within  days prior to Cycle  Day . However, if the radiation portal covered ? % of the bone marrow reserve, the patient may be enrolled irrespective of the end date of radiotherapy
+Radiotherapy within  days of randomization
+Radiotherapy within  days prior to first dose.
+Radiotherapy within  days prior to day  of protocol therapy
+Whole brain radiation within  days or other radiotherapy within  days prior to first administration of study drug after crossing over
+Prior surgery or radiotherapy within  days of therapy.
+The participant received radiotherapy within  days prior to randomization.
+Radiotherapy within  days before the first dose of study drug.
+Participants may or may not have received adjuvant radiotherapy, but must be at least  days after last dose radiotherapy, with no more than grade  residual toxicity at the time of screening
+No radiotherapy within  days prior to cycle  day ; however, if the radiation portal covered =< % of the bone marrow reserve, the patient may be enrolled irrespective of the end date of radiotherapy
+Radiotherapy within  days of study treatment; patient must have recovered from acute effects of radiotherapy to baseline.
+Prior radiotherapy less than  days prior to enrollment, except for WHO Grade   glioma (radiotherapy is not permitted within  months prior to enrollment) and ATC (radiotherapy is not permitted within  days prior to enrollment). Treatment-related AEs must have resolved prior to enrollment.
+Patients who have had chemotherapy within  days ( days for nitrosoureas or mitomycin C), radiotherapy within  days, biological therapy within  days, hormonal therapy within  days, and investigational therapy within  days prior to enrollment
+Radiotherapy within  days before randomization.
+Radiotherapy to any site for any reason =<  days prior to randomization
+Radiotherapy within  days prior to cycle  day ; however, if the radiation portal covered =< % of the bone marrow reserve, the patient may be enrolled irrespective of the end date of radiotherapy
+E . Less than  days elapsed from prior treatment with estramustine, radiotherapy or surgery to the time of randomization. Participants on biphosphonates prior to study entry.
+Has had radiotherapy within  days of randomization. Participants who received radiotherapy > days prior to randomization must have completely recovered from any radiotherapy-related AEs/toxicities
+Prior treatment with extended-field radiotherapy within  days prior to enrollment or prior treatment with extended-field radiotherapy for evaluating tumor lesions within  days prior to enrollment.
+Radiotherapy within the last  days;
+Radiotherapy within  days prior to first dose of study treatment
+Prior radiotherapy =<  days, or if subjects have not recovered from radiotherapy
+Has received radiotherapy within the  days prior to randomization, with the exception of palliative radiotherapy to focal lesions for pain or other symptom control
+Chemotherapy or radiotherapy within  days prior to first dose of protocol therapy
+Radiotherapy within  days prior to Baseline.
+Radiotherapy or chemotherapy ending within  days of study enrollment
+Radiotherapy to any site for any reason within  days prior to randomization, except for palliative radiotherapy to bone lesions within  days prior to randomization
+Radiotherapy within  days prior to first dose.
+Less than  days elapsed from prior treatment with immunotherapy, radiotherapy, or surgery to the time of randomization.
+Radiotherapy within  days before the first dose of study drug.
+Radiotherapy within  days and abdominal/ pelvic radiotherapy within  days prior to Day  of Cycle , except palliative radiotherapy to bone lesions within  days prior to Day  of Cycle 
+Radiotherapy within  days before the first dose of study treatment.
+Radiotherapy within  days preceding the first dose of study treatment
+Previous radiotherapy for the treatment of unresectable, locally advanced/recurrent or metastatic breast cancer is not allowed if:\r\n* The last fraction of radiotherapy has been administered within  days of first on-study thormbokinetic study\r\n* The patient has not recovered from any resulting acute toxicity (to grade =< ) prior to first on-study thormbokinetic study
+Systemic antineoplastic therapy or radiotherapy within  days before the first dose of study drug, except for hydroxyurea
+Patients should not have received radiotherapy within  days prior to the first dose of orteronel
+Treatment with prior radiotherapy within  days prior to first dose of study treatment; however, if the radiation portal covered ? % of the bone marrow reserve, the patient may be enrolled irrespective of the end date of radiotherapy.
+Radiotherapy within  days of study treatment
+Radiotherapy to multiple sites or immunotherapy within  days of initiation of study drug treatment (localized radiotherapy to a single site at least  days before start is permissible)
+Radiotherapy to multiple sites or immunotherapy/antibody therapy within  days prior to randomization; localized radiotherapy to a single site within  days prior to randomization
+Radiotherapy within  days and abdominal/pelvic radiotherapy within  days prior to Day  of Cycle 
+Radiotherapy within  days of first study treatment with the exception of a single fraction of radiation administered for palliation of symptoms
+Participants may or may not have received adjuvant radiotherapy, but must be at least  days after last dose radiotherapy, with no more than grade  residual toxicity at the time of screening

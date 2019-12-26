@@ -1,0 +1,25 @@
+STUDY TREATMENT: Lymphocyte count >= /uL within  days prior to the first study treatment.
+STUDY TREATMENT: Platelet count >= ,/uL within  days prior to the first study treatment.
+Obtained within  days of the first study treatment: Lymphocyte count > /uL
+Obtained within  days of the first study treatment: Lymphocyte count >/uL
+Platelet count >= ,/ul within  days of cycle  day 
+Obtained within  days prior to the first study treatment (cycle , day ): lymphocyte count >= /uL
+Obtained within  days prior to the first study treatment (cycle , day ): platelet count >= ,/uL
+Within  days prior to cycle  day  of treatment: Absolute lymphocyte count >= /uL
+Within  days prior to cycle  day  of treatment: Platelet count >= ,/uL
+Within  days prior to the first study treatment (cycle , day ): Lymphocyte count >= /uL
+Absolute lymphocyte count >=  cells/uL (obtained within  days prior to first study treatment)
+Lymphocyte count ? /uL within  days prior to the first study treatment (cycle , day )
+Platelet count ? ,/uL within  days prior to the first study treatment (cycle , day )
+Within  days prior to the first study treatment (cycle , day ): Lymphocyte count >= /uL.
+Absolute neutrophil count >=  cells/uL, obtained within  days prior to the first study treatment (cycle , day )
+Lymphocyte count >= /uL, obtained within  days prior to the first study treatment (cycle , day )
+Platelet count >= ,/uL, obtained within  days prior to the first study treatment (cycle , day )
+Lymphocyte count >= . x ^/L, obtained within  days prior to initiation of study treatment
+Within  days prior to the first study treatment (cycle , day ): Lymphocyte count >= /uL
+Obtained within  days prior to the first study treatment (cycle , day ); lymphocyte count ? /uL
+Obtained within  days prior to the first study treatment (cycle , day ); platelet count ? ,/uL
+Lymphocyte count >= /uL (obtained within  days prior to the first study treatment [course , day ])
+Platelet count >=  x ^/uL obtained at baseline (day  of cycle , before study drug administration)
+Absolute neutrophil count >= . x ^/uL obtained at baseline (day  of cycle , before study drug administration)
+Lymphocyte count >= /uL (obtained within  days prior to the first study treatment)

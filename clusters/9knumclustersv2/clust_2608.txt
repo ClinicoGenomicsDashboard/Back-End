@@ -1,0 +1,7 @@
+Patient is currently receiving or has received systemic corticosteroids (=<  weeks prior to starting study drug, or who have not fully recovered from side effects of such treatment)
+Patient is currently receiving or has received systemic corticosteroids =<  weeks prior to starting study drug, or who have not fully recovered from side effects of such treatment
+Currently receiving or has received systemic corticosteroids within  weeks prior to starting study drug for management of brain metastases, or who have not fully recovered from side effects of such treatment; steroids for endocrine replacement or receipt of short-course of steroids during the preceding  week period as supportive medication such as for drug allergy, anti-emetic, etc. is allowed)
+Currently receiving or has received systemic corticosteroids within  weeks prior to starting study drug, or who have not fully recovered from side effects of such treatment (steroids for endocrine replacement is allowed)
+Patient is currently receiving or has received systemic corticosteroids =<  weeks prior to starting study drug, or who have not fully recovered from side effects of such treatment
+Subject is currently receiving or has received systemic corticosteroids =<  weeks prior to starting study drug or who have not fully recovered from side effects of such treatment
+Patient is currently receiving or has received systemic corticosteroids =<  weeks prior to starting study drug, or who have not fully recovered from side effects of such treatment

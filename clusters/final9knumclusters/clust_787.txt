@@ -1,0 +1,267 @@
+Clinical T2-T4c, any N, M0 invasive breast cancer, by American Joint Committee on Cancer (AJCC) 7th edition clinical staging, with the goal being surgery to complete excision of the tumor in the breast and the lymph node\r\nPrimary tumor must be:\r\n* Palpable\r\n* Its largest tumor diameter is > 2.0 cm by physical examination or by radiological assessment\r\n* Bi-dimensional measurement by tape, ruler or caliper technique must be provided\r\n** Note:\r\n*** Patients with contralateral ductal carcinoma in situ and/or invasive breast cancer are not eligible\r\n*** Patients with multi-focal breast cancer (defined as more than one lesion of invasive breast cancer in the same breast separated from the dominant breast lesion by less than 5 cm of radiologically normal breast tissue) are eligible; if the other lesions have been biopsied (biopsy not required) they must meet the estrogen receptor/human epidermal growth factor receptor 2 (ER/HER2) eligibility requirements; research biopsies and Ki67 assessment and radiological measures are to be performed on the dominant breast lesion
+Inflammatory breast cancer defined as clinically significant erythema of the breast and/or documented dermal lymphatic invasion (not direct skin invasion by tumor or peau d’orange without erythema)
+Overall geometry (eg, breast size if intact breast) precludes the ability to achieve dosimetric requirements \r\n* Note: Set-up devices for breast positioning are permitted
+Patients must have the clinical diagnosis of inflammatory breast cancer as evidenced by the onset of signs and symptoms noted below within a 6 month time-period:\r\n* Erythema of the breast\r\n* Edema of the skin of the breast\r\n* Enlargement of the breast
+Patients with inflammatory breast cancer are eligible if they meet both of the following criteria:\r\n* Patient has an underlying, clinically palpable breast mass of at least 2 cm, AND\r\n* A corresponding lesion is visualized on mammogram or ultrasound
+Breast size adequate for safe cryoablation
+Presence of microinvasion, or invasive breast carcinoma with extensive intraductal component (EIC) 4. Presence of multifocal and/or multicentric in breast cancer 5. Presence of multifocal calcifications 6. Presence of prior or concurrent neoadjuvant chemotherapy for breast cancer
+PIK3CA MUTANT AND WILD TYPE COHORT (closed 03/17/2016): Evidence of inflammatory cancer (clinical presentation of skin erythema involving more than one third of the breast or pathological evidence of dermal lymphatic involvement)
+FNA alone to diagnose the breast cancer.
+Healthy women age 35 - 75 years with either heterogeneously dense (C) or extremely dense (D), breast tissue on 2D mammography, based on American College of Radiology (ACR) Breast Imaging-Reporting and Data System (BI-RADS©) fifth edition classification) in either breast within 3 months prior to randomization. Mammogram with BI-RADS final assessment category 1 or 2 (negative or benign findings).
+For patients who have undergone lumpectomy, there are no breast size limitations
+Must be proceeding with breast/chest wall and nodal radiation therapy including internal mammary node treatment
+Patients must meet one of the following criteria:\r\n* Pre-pathology cohort: Patient has new diagnosis of breast cancer and has elected BCS; these patients must be consented prior to the scheduled BCS with precision breast IORT; BCS (either primary breast surgery or re-excision) will occur one same date as precision breast IORT\r\n* Post-pathology cohort: Patient was previously treated for breast cancer with BCS; precision breast IORT will occur as a separate procedure within 30 days of breast surgery; these patients should be consented after they have completed the initial excision and histological confirmation of eligibility
+Breast cancer that involves the skin or chest wall
+For patients in the post-pathology stratification, precision breast IORT must be delivered within 30 days of the last breast cancer surgery (not axillary)
+Note: Multicentric breast cancer and Paget's disease of the nipple are permitted.
+Breast cancer:\r\n* Patients inappropriate for standard breast conservation therapy (multicentric disease, inability to achieve clear margins)\r\n* Male patients with breast cancer\r\n* Autoimmune disorders, including systemic lupus erythematosus (SLE), scleroderma, etc\r\n* Distant metastases
+Presence of a clip in the primary breast cancer
+Multicentric breast cancer, defined as discontiguous tumors separated by at least 5 cm of uninvolved tissue or discontiguous tumors that are located within separate breast quadrants either clinical or mammographically
+Multifocal breast cancer, defined as discontiguous discrete foci of invasive carcinoma, separated by uninvolved intervening tissue, but within an overall span of 5 cm, or within the same breast quadrant
+Histologically confirmed breast cancer (infiltrating ductal or lobular breast carcinoma) with evidence of measurable metastatic disease; metastatic disease must be biopsy proven\r\n* Since histologic type, lymphatic permeation, blood vessel invasion, and degree of anaplasia may be prognostic variables, appropriate slides of the primary lesion will be requested for future review; HER2, estrogen, and progesterone receptor positivity will be recorded
+Patients must have an accessible lesion in the breast/chest wall/axilla which has not been previously thermally ablated; prior breast irradiation is acceptable if the lesion has recurred or grown following radiation
+Pathologically confirmed DCIS of the breast
+Confirmed diagnosis of inflammatory breast cancer according to international consensus criteria: (1) onset: rapid onset of breast erythema, edema, and/or peau d’orange, and/or warm breast, with or without an underlying breast mass (2) duration: history of such findings no more than 6 months (3) extent: erythema occupying at least 1/3 of whole breast (4) pathology: pathologic confirmation of invasive carcinoma
+Women must agree not to breast feed while on study
+Breast cancer suitable for mandatory baseline core biopsy
+(For Cohort A) Archived tissue available pre-screening to confirm FR alpha+ breast cancer. (For Cohort B) ·Confirmed FRalpha+ breast cancer defined as high FRalpha expression: >= 75% of cells having >= 1+ expression, or moderate FRalpha expression: 25%-74% of cells with >= 1+ expression
+Excisional biopsy or lumpectomy for the current breast cancer
+Subjects may not have had prior systemic chemotherapy regimens administered for treatment of their current breast cancer; however, studies (window studies, for example) that are deemed non-therapeutic, including those that utilize agents that are not Food and Drug Administration (FDA) approved for the treatment of the patient’s current breast cancer, are permitted
+Tumor must be confined to either the breast or to the breast and ipsilateral axilla (Note: subjects with multifocal/multicentric tumors are eligible). Subject must have (according to TNM 7th edition rules):
+Breast size B cup or larger, to allow for IORT procedure
+Multifocal disease within the breast
+Has confirmed inflammatory breast cancer by using international consensus criteria:\r\n* Onset: Rapid onset of breast erythema, edema and/or peau d’orange, and/or warm breast, with/without an underlying breast mass.\r\n* Duration: History of such findings no more than 6 months.\r\n* Extent: Erythema occupying at least 1/3 of whole breast.\r\n* Pathology: Pathologic confirmation of invasive carcinoma.
+Distant metastasis that involves occurrence of breast cancer outside of locoregional breast and lymph nodes area.
+Inflammatory breast cancer defined as clinically significant erythema of the breast and/or documented dermal lymphatic invasion (not direct skin invasion by tumor or peau d’orange without erythema)
+Clinical T4, N2 or N3, M1 pathologic stages III or IV breast cancer
+History of therapeutic irradiation to the breast, lower neck, mediastinum or other area in which there could potentially be overlap with the affected breast
+Patients must have histologically or cytologically confirmed stage IV breast carcinoma with a previous clinical diagnosis of IBC based on the presence of inflammatory changes in the involved breast, such as diffuse erythema and edema (peau d’orange), with or without an underlying palpable mass involving the majority of the skin of the breast; pathological evidence of dermal lymphatic invasion should be noted but is not required for diagnosis
+Patients must have invasive breast cancer (IBC), confirmed according to international consensus criteria:\r\n* Onset: Rapid onset of breast erythema, edema, and/or peau d’orange, and/or warm breast, with or without an underlying breast mass\r\n* Duration: History of such findings no more than 6 months\r\n* Extent: Erythema occupying at least 1/3 of whole breast\r\n* Pathology: Pathologic confirmation of invasive carcinoma
+Pregnant or need to breast feed during the study period
+For LY3300054 + abemaciclib in HR+, HER- breast cancer:
+Family history: one or more close blood relative with ovarian carcinoma at any age or breast cancer age 50 or younger or two relatives with breast, pancreatic or prostate cancer (Gleason 7 or higher) at any age, or patients with Ashkenazi Jewish ancestry; however, patients with previously identified genetic aberrations that are associated with homologous recombination deficiency (HRD) will be eligible even in the absence of family history [e.g. somatic BRCA mutation, Fanconi anemia gene, ATM or RAD51 mutations]
+Patients may not be on an inhibitor of breast cancer resistance protein (BCRP)\r\n* NOTE: AZD1775 is an inhibitor of breast cancer resistance protein (BCRP); the use of statins including atorvastatin which are substrates for BCRP are therefore prohibited and patients should be moved on to non-BCRP alternatives
+localised breast cancer treated with surgery and radiotherapy but not including systemic chemotherapy;
+Presence of an infection including ulcerations and fungal infections in the breast to be studied
+Prior radiation to the breast or chest wall
+Resectable/operable or potentially resectable/operable breast cancer as determined by the treating surgical oncologist
+Disease that cannot be measured and/or accurately followed by mammogram and/or breast ultrasound and/or dedicated breast MRI
+Breast preservation candidates (no prior breast or nodal radiotherapy, no imaging evidence of multicentric disease preventing resection through a single incision, no pregnant women, and no comorbid conditions precluding surgery)
+Outside breast imaging will be reviewed at Duke to confirm that findings are consistent with trial eligibility
+Breast preservation candidates (no prior breast or nodal radiotherapy, no imaging evidence of multicentric or multifocal disease, no pregnant women, and no comorbid conditions precluding surgery)
+Outside breast imaging will be reviewed at Duke to confirm findings are consistent with trial eligibility
+Breast implant in the breast to be treated with stereotactic body radiation therapy (SBRT)
+Has histological confirmation of HER2 normal breast carcinoma with a clinical diagnosis of IBC based on presence of inflammatory changes in the involved breast, including diffuse erythema and edema (peau d’orange), with or without an underlying palpable mass involving the majority of the skin of the breast; pathological evidence of dermal lymphatic invasion should be noted but is not required for diagnosis of inflammatory breast cancer regardless estrogen receptor (ER)/progesterone receptor (PR) status; OR has histological confirmation of triple negative breast carcinoma (HER2 normal, ER/PR < 10%) without clinical diagnosis of IBC
+Physical and emotional ability to undergo baseline and follow-up breast MRIs and serial breast cosmesis analysis
+Patients with synchronous bilateral breast cancers who will be treated with radiotherapy to each breast are eligible, provided such treatment can be performed in a manner that avoids overlap between treatment fields; both sides may be treated with accelerated partial breast irradiation (APBI) if the pathologic eligibility criteria are met for both tumors, or only one side may be treated with APBI if the criteria are met for only one tumor
+Patients with a history of prior breast cancer in the opposite breast are eligible as long as treatment can be performed without overlapping any prior radiation therapy (RT) fields
+Suspicious residual microcalcifications on mammography of either breast, unless negative for malignancy on pathology.
+Breast feeding (if lactating, must agree not to breast feed while taking pomalidomide)
+Unifocal or multifocal (confined to one quadrant, lesions less than 4 cm apart) breast cancer (1 or 2 foci which can be encompassed by one lumpectomy)
+Evidence of suspicious microcalcifications in the breast prior to the start of radiation
+Patients with proven multicentric carcinoma (tumors in different quadrants of the breast or tumor separated by at least 4 cm) with other clinically or radiographically suspicious areas in the ipsilateral breast unless confirmed to be negative for malignancy by biopsy
+Patients with a breast technically unsatisfactory for radiation therapy
+Subareolar location (cancer is directly and completely under the nipple/areolar complex) of breast abnormality.
+Prior radiation to the breast or chest wall
+Previous breast surgery with the exception of biopsy
+Transporter studies (in vitro) have shown that AZD1775 is an inhibitor of breast cancer resistance protein (BCRP)
+The presence of gross skin invasion/ulceration by the breast cancer, or inflammatory changes with skin edema AND erythema; Note: Paget’s disease is permitted
+Evidence of T4 disease (e.g., involvement of the chest wall, skin, dermal lymphatics, or inflammatory breast cancer)
+Breast tumor must be >= 1.5 cm in maximum diameter by clinical or any radiologic measurement, if node negative; if node is positive by biopsy, study participant will be eligible regardless of the size of the breast primary; in case of inflammatory breast cancer, the extent of inflammation/erythema can be used as measurable lesion
+Paget’s disease of the breast
+FNA alone to diagnose the breast cancer
+Centrally assessed Ki-67, pRB, and Cyclin D1 status assessed preferably on post-neoadjuvant residual invasive disease of the breast, or if not possible, of residual nodal invasion or core biopsy. In case of bilateral breast cancer, tumor tissue of both sides needs to be assessable.
+Uncommon or rare subtypes of breast cancer.
+Patients who wish to breast-feed during treatment
+Proven multicentric carcinoma (tumors in different quadrants of the breast, or tumors separated by at least 4 cm) with other clinically or radiographically suspicious areas in the ipsilateral breast unless confirmed to be negative for malignancy by biopsy
+Unsatisfactory breast for HG-PBI as determined by the treating physician; for example, if there is little breast tissue remaining between the skin and pectoralis muscle after surgery, treatment with HG-PBI is technically problematic
+Time between final definitive breast procedure to HG-PBI simulation is greater than 8 weeks
+If multifocal breast cancer, then it must be able to be resected through a single lumpectomy incision
+Miller-Payne response in the breast of 0-25.
+Alternatively, if Miller-Payne or RCB grading is not available, the patient will be eligible if the pathology report indicates that the area of residual invasive disease in the breast measures at least 2 cm following preoperative therapy. The presence of DCIS without invasion does not qualify as residual disease in the breast.
+Inflammatory breast cancer defined as clinically significant erythema of the breast and/or documented dermal lymphatic invasion (not direct skin invasion by tumor or peau d’orange without erythema)
+Surgical treatment of the breast must have been lumpectomy
+Paget’s disease of the breast
+Normal mammogram of the contralateral breast within the past 12 months, defined as no new suspicious calcifications or other abnormal findings warranting a breast biopsy
+Women must agree not to breast feed
+PHASE II: Patients must have the clinical diagnosis of inflammatory breast cancer as evidenced by the onset of signs and symptoms noted below within a 6 month time-period:\r\n* Erythema of the breast\r\n* Edema of the skin of the breast\r\n* Enlargement of the breast
+Breast > 800 grams or < 100 grams in predicted weight; “breast” includes the breast tissue and in cases where the patient already has cosmetic breast implants, the additional breast implant mass; the sum total must be > 100 g and < 800 g
+History of radiation to the chest wall or breast being studied
+Residual invasive disease in the breast measuring at least 2 cm. The presence of DCIS without invasion does not qualify as residual disease in the breast.
+Partial breast irradiation must be scheduled to begin less than 71 days from the last breast surgical procedure
+Patients with squamous or sarcomas of the breast
+Patients must have the clinical diagnosis of inflammatory breast cancer as evidenced by the onset of all signs and symptoms noted below within a 6 month time-period:\r\n* Erythema of the breast\r\n* Edema of the skin of the breast\r\n* Enlargement of the breast
+Patients for whom radiotherapy would be recommended for breast cancer treatment but for whom it is contraindicated because of medical reasons
+Participants must have completed definitive breast surgery (mastectomy or breast-conserving) +/- reconstructive surgery with referral for definitive chest wall radiation therapy; patients with breast reconstruction are eligible if it determined by the referring or treating radiation oncologist that plan would be suboptimal without manipulation of breast implants; for patients without reconstruction, they must meet eligibility by having unfavorable cardiac anatomy defined as >= 5% of the heart receives >= 20 Gy and/or left anterior descending (LAD) receives >= 20 Gy with conventional planning; participants do not need to have measurable disease; most patients will not have measurable disease at the time of treatment
+Evidence of suspicious microcalcifications in the breast prior to start of radiation
+Patients with multicentric gross disease defined as tumors in different quadrants of the breast or tumor separated by at least 4 cm or other clinically or radiographically suspicious areas in the ipsilateral breast unless confirmed to be negative for malignancy or biopsy
+Final criteria for eligibility established after simulation: the tumor bed can be readily visualized on simulation computed tomography (CT) and is localized to one quadrant or region of the breast that is amenable to partial breast irradiation
+History of therapeutic irradiation to the breast, lower neck, mediastinum or other area in which there could potentially be overlap with the affected breast
+Patient is pregnant or breast feeding or expecting to conceive or father children within the projected duration of the study, because of the potential for serious adverse reactions in nursing infants from vorinostat, breast feeding must be discontinued for the duration of therapy with vorinostat
+Clinical diagnosis of IBC (presence of inflammatory changes in the involved breast, including diffuse erythema, heat, ridging, and peau d'orange)
+Have histological confirmation of breast carcinoma with a clinical diagnosis of IBC based on presence of inflammatory changes in the involved breast, including diffuse erythema and edema (peau d’orange), with or without an underlying palpable mass involving the majority of the skin of the breast; pathological evidence of dermal lymphatic invasion should be noted but is not required at diagnosis
+Subjects unfit for breast and/or axillary surgery (complete fixation of tumor, skin infiltration, erythema of the breast, and/or ulceration)
+Pregnant or intend to become pregnant, breastfeeding or intend to breast-feed during this study
+Evidence of inflammatory cancer (clinical presentation of skin erythema involving more than one third of the breast or pathological evidence of dermal lymphatic involvement)
+Multicentric breast cancer (two foci of known cancer in the breast separated by greater than 5 cm, or in separate quadrants
+Breast cancer metastatic to the pleura that extends outside of the pleura requiring immediate therapy
+Primary breast cancer that is suitable for baseline core biopsy.
+Patients must have histologically or cytologically confirmed breast carcinoma with a clinical diagnosis of IBC based on the presence of inflammatory changes in the involved breast, such as diffuse erythema and edema (peau d’orange), with or without an underlying palpable mass involving the majority of the skin of the breast; pathological evidence of dermal lymphatic invasion should be noted but is not required for diagnosis
+For participants with breast cancer: HER2-negative disease as defined by local clinical guidelines
+Prior reconstructive breast surgery, breast augmentation, mastopexy or reduction mammoplasty
+Treated CIS of the breast or cervix
+Breast feeding must be discontinued for the duration of therapy with vorinostat and the concomitantly used chemotherapy, if applicable
+Patients must have measurable disease as defined by palpable lesion with both diameters >= 1 cm measurable with caliper and/or a positive mammogram or ultrasound with at least one dimension >= 1 cm; screening mammogram of the contralateral breast must be performed within past 12 months per standard practice guidelines; clip placement is required for study entry; baseline measurements of the indicator lesions must be recorded on the Patient Registration form; to be valid for baseline, the measurements on clinical exam must have been made within the 14 days if the mass is palpable; if the mass is not palpable, a mammogram or magnetic resonance imaging (MRI) must be done within 14 days; if the mass is palpable, a diagnostic mammogram of the affected breast or MRI must be done within 2 months prior to study entry
+Subjects with prior skin changes consistent with inflammatory breast carcinoma are eligible.
+Breast carcinoma for medical reasons not being resected
+Has a condition which may interfere with the hyperthermia portion of the trial such as: functioning cardiac pacemaker; metal plates, rods or prosthesis of the chest wall, breast reconstruction with implants, severe numbness and/or tingling of the chest wall or breast, skin grafts and/or flaps on the breast or chest wall.
+Patient wishes to become pregnant\r\n* Note: patients who have undergone oocyte/embryo/ovarian tissue cryopreservation at breast cancer diagnosis and/or have a previous history of assisted reproductive technology (ART) are eligible
+Breast cancer diagnosis, stage 1, 2, or 3 (solely for patients enrolled at Montefiore Medical Center, St. Barnabas, Jacobi Medical Center, and North Central Bronx)
+Multi-centric disease (histologically diagnosed cancer in two different quadrants of the breast)
+Women must agree not to breast feed while on abemaciclib treatment and for at least three months following the last dose of study therapy
+Are in breast cancer remission with no detectable disease present
+Planned additional surgery to the surgical breast or axilla in the next year (exception would be minor surgery to breast but not axilla such as simple tissue expander replacement or lumpectomy)
+Women diagnosed with breast cancer stages 0-III within 18 months after completion of all planned surgery, radiation and or chemotherapy treatments
+Being within 1 month (before or after) of surgery for breast cancer (including breast reconstructive surgery). Smaller surgical procedures such as implant exchange are not exclusionary.
+Have surgery for breast cancer or breast reconstructive surgery planned during the initial 6 month study period. Smaller surgical procedures such as implant exchange are not exclusionary.
+Any of the following breast cancer surgery complications; persistent seroma requiring aspiration, wound dehiscence, infection, prolonged drain output, lymphedema
+Self-reported new onset since initiation of treatment cognitive dysfunction as determined by telephone screen using the brief (3 questions) assessment established by Ercoli et al. (endorsement on all three questions):\r\n* Do you think or feel that your memory or mental ability has gotten worse since you completed your breast cancer treatment? \r\n* Do you think that your mind isn't as sharp now as it was before your breast cancer treatments?\r\n* Do you feel like these problems have made it harder to function on your job or take care of things around the home?
+PARTNER: Female/male intimate partner of a young breast cancer survivor who meets the above YBCS inclusion criteria
+Obese breast cancer survivors and their overweight or obese partners
+Diagnosed with breast, GYN, GI, GU, or thoracic cancer
+Received first breast surgery of total or partial mastectomy within the previous 9 months
+Subjects are status post (s/p) breast surgical intervention, to include mastectomy, partial mastectomy, lumpectomy, or reconstruction
+Patients should be followed in Stefanie Spielman Comprehensive Breast Center (SSCBC) High Risk Breast Clinic
+In early survivorship phase, defined as being post-surgery to ending of active treatment to 18 months post active treatment for stage 0-3 breast cancer (BCA)
+Has been diagnosed with breast cancer, currently in remission or eradicated
+Meet National Comprehensive Cancer Network (NCCN) criteria for consideration of genetic testing for hereditary breast cancer
+Any woman with biopsy proven left breast DCIS or invasive cancer who has undergone a lumpectomy and who requires whole breast irradiation to the breast alone (and not to any nodal regions) as per the treating radiation oncologist
+Prospective study: individuals will have pathologically confirmed breast cancer (stages I-III)
+Retrospective chart review: Individuals will have pathologically confirmed breast cancer or gynecological (GYN) malignancies including uterine, ovarian, or cervical cancers, stages I-III; treated in the previous two years (2013-2014)
+Patients who have been surgically treated for breast cancer more than 3 months; healing usually occurs within 3 months of surgical treatment for cancer
+Currently has breast implant (which limits the performance of many yoga poses)
+Enrollment in a therapeutic intervention trial in the breast medicine service
+Intact breast (not surgically absent)
+The volume of the tumor bed (TB) clinical target volume (CTV) is less than 25% of the whole breast planning target volume (PTV) which is a criteria used for partial breast alone trials
+Unable to fit into the immobilization breast cup with an adequate seal
+Unable to fit into the breast immobilization device due to breast size or other anatomical reason
+Absence of a breast reconstruction prior to RT (placement of tissue expander is sufficient for group 2)
+Breast/s reconstructed with implant in the area of previous radiation
+Subjects must be prescribed and scheduled for “conventional fractionated” RT without concurrent chemotherapy; bolus and intensity modulated radiation therapy (IMRT) are permitted; lymph node irradiation (i.e., internal mammary nodes, supraclavicular nodes, axillary nodes, etc) as part of their prescribed radiation therapy are permitted; conventional fractionated radiation therapy regimens eligible for study are described below:\r\n* Minimal (min) total dose: whole breast: 44 gray (Gy); breast boost: 10 Gy; tumor bed = whole breast +/- boost: 50.0 Gy; lymph nodes: 45 Gy\r\n* Maximal (max) total dose: whole breast: 50.4 Gy; breast boost: 20 Gy; tumor bed = whole breast +/- boost: 66.0 Gy; lymph nodes: 50.4 Gy\r\n* Min dose per fraction: whole breast: 1.8 Gy; breast boost: 2.0 Gy; tumor bed = whole breast +/- boost: 1.8 Gy; lymph nodes: 1.8 Gy\r\n* Max dose per fraction: whole breast: 2.0 Gy; breast boost: 2.0 Gy; tumor bed = whole breast +/- boost: 2.0 Gy; lymph nodes: 2.0 Gy\r\n* Min # of fractions: whole breast: 22 Gy; breast boost: 5 Gy; tumor bed = whole breast +/- boost: 25 Gy; lymph nodes: 25 Gy\r\n* Max # of fractions: whole breast: 28 Gy; breast boost: 10 Gy; tumor bed = whole breast +/- boost: 36 Gy; lymph nodes: 28 Gy\r\n* Min # of sessions: whole breast: 22 Gy; breast boost: 5 Gy; tumor bed = whole breast +/- boost: 25 Gy; lymph nodes: 25 Gy\r\n* Max # of sessions: whole breast: 28 Gy; breast boost: 10 Gy; tumor bed = whole breast +/- boost: 36 Gy; lymph nodes: 28 Gy
+Subjects with breast reconstruction prior to RT
+Presence of unhealed surgical wounds in chest or breast region and/or breast infection
+Are not within 12 months of completing treatment for breast cancer (except hormonal therapies) at the time of recruitment;
+Lymphedema in an arm as a result of surgery, chemotherapy, and/or radiation therapy for breast cancer per breast surgeon or medical oncologist
+Patients who have not undergone autologous tissue breast reconstruction and intend to undergo implant only breast reconstruction
+Patients who have a history of breast tissue expander or implant placement
+Patients must not have symptoms or signs of benign or malignant breast disease (e.g., bloody or clear nipple discharge, breast lump) based on physician physical exam or self breast exam; patients with breast pain are eligible as long as other criteria are met
+To be eligible for inclusion in the annual screening regimen one of the following three conditions must be met in addition to the eligibility criteria above:\r\n* Patients are pre-menopausal; OR\r\n* Post-menopausal aged 45-69 with any of the following three risks factors:\r\n** Dense breasts (BIRADS density categories c-heterogeneously dense or d-extremely dense), or\r\n** Family history of breast cancer (first degree relative with breast cancer), or, participant positive genetic testing for any deleterious genes that indicate an increased risk for breast cancer, or\r\n** Currently on hormone therapy; OR\r\n* Post-menopausal ages 70-74 with either of the following two risk factors:\r\n** Dense breasts (BIRADS density categories c-heterogeneously dense or d-extremely dense), or\r\n** Currently on hormone therapy
+Have not had both a breast MRI and mammogram in the previous 24 months
+Women who are undergoing screening breast MRI as per standard of care for high-risk breast cancer screening
+Willing to donate left-over tissue if patient undergoes a breast biopsy and/or breast surgery
+Participants who have received breast radiation within 1 year prior to screening breast MRI
+Receives screening breast MRIs at an outside facility other than the consenting institution
+CESM is an imaging exam that uses radiation and is not typically employed in women younger than age 30 due to potentially negative biologic effects on glandular breast tissue.
+Participants who had a percutaneous breast biopsy (to include stereotactic, tomosynthesis, or ultrasound guided) that revealed ADH.
+INCLUSION - PATIENT: Women presenting for breast cancer screening with either MRI or mammography: Group 1 will consist of women who present for screening breast MRI:\r\n* Asymptomatic for breast disease\r\n* Presenting for routine breast cancer screening with MRI
+INCLUSION - PATIENT: Group 2 will consist of women who presented for a screening mammogram (2D or 3D tomosynthesis) AND who have had a biopsy recommended after diagnostic workup:\r\n* Initial presentation for routine breast cancer screening with mammogram (2D or 3D tomosynthesis) and/or ultrasound and\r\n* Biopsy recommended after subsequent diagnostic workup (breast imaging reporting and data system [BI-RADS] 4 or 5)
+INCLUSION - RADIOLOGIST READER: Must have clinical experience in interpreting breast MRI
+INCLUSION - RADIOLOGIST READER: Must have interpreted at least 10 breast MRI exams with RSI interpretation
+EXCLUSION - PATIENT: Breast biopsy or surgical intervention planned before the test RSI-MRI in this study
+Recommendation for breast biopsy has been made
+CESM and breast MRI exams must be performed as part of imaging work-up based on a screening exam of any type (mammography, tomosynthesis, ultrasound, and MRI)
+For women who have not had any prior mammography (i.e. this is their first, baseline, mammogram), the breast tissue must be dense (heterogeneously dense or extremely dense) on the current mammogram
+Recent prior breast surgery or breast biopsy or cyst aspiration within the prior 12 months
+Women and men with symptomatic breast lump (either by palpation or imaging) OR
+Patients with any clinical breast symptoms (palpable mass, nipple discharge, etc)
+Have breast density assessed as >= 25% on a prior mammogram (Boyd 1995)
+If undergoing regular screening, subject must have a mammogram performed at the University of Kansas Medical Center or other accredited facility within 1 year prior to their RPFNA procedure; mammograms must be read as not suspicious for breast cancer (American College of Radiology [ACR] class I-III) unless issue resolved with other procedures
+Must be willing to keep the clinic informed of their breast health status for 10 years when requested
+Women with a current mammographic or clinical breast exam mass which is suspicious for breast cancer (ACR class IV), and malignancy has not been ruled out
+Patient’s breast density must be known; patients must have mammographically dense breasts, American College of Radiology (ACR) Breast Imaging (BI)- Reporting and Data System Atlas (RADS) lexicon categories c or d (heterogeneous or extreme fibroglandular tissue) on their most-recent prior screening
+Patient must not have previously had molecular breast imaging (MBI, multiplexed ion beam imaging [MIBI])
+Patient must agree to not undergo screening ultrasound (of breast) for the duration of the 1 year study period
+BREAST CANCER SURVIVORS: Has no prior exposure to neurotoxic chemotherapy or radiation treatment;
+BREAST CANCER SURVIVORS: Will be receiving either paclitaxel (Taxol or generic) either (a) weekly (~80-100mg/m^2) or (b) every other week (i.e., dose-dense) (~175 mg/m^2) Taxol for the treatment of breast cancer OR
+BREAST CANCER SURVIVORS: Will be receiving an anthracycline and cyclophosphamide (AC) as a part of their initial treatment for breast cancer with plans to receive Taxol either weekly (~80-100mg/m^2) or every other week (i.e., dose-dense) (~175 mg/m^2);
+Women considered at increased risk for developing breast carcinoma (those with a lifetime risk of > 15% due to family history, genetic predisposition, prior radiation therapy to the chest, prior biopsy showing a high risk lesion, or personal history of breast cancer) that are being screened with breast MRI
+Mammograms must be read as not suspicious for breast cancer (American College of Rheumatology [ACR] class I-III); subjects with a class IV mammogram may be enrolled once they have been evaluated by a breast surgeon and there is no evidence of invasive malignancy
+Less than 40 years if 5-year breast cancer Gail risk is >= 1.66%
+Prior bilateral breast surgery (mastectomy, segmental mastectomy, or breast augmentation surgery including breast implants or breast reductions)
+Most breast tissue expanders are not allowed; (if uncertain, inform the MRI tech to confirm eligibility status)
+Women with current mammographic or clinical breast exam mass which is suspicious for breast cancer and malignancy has not been ruled out
+BETA/USABILITY TESTING: Utilizing the breast cancer surveillance consortium risk calculator, women will have high 5-year (> 1.66%) risk for breast cancer and high breast density (heterogeneously or extremely dense)
+Participants must have adequate accessible breast tissue as determined by the treating physician, consisting of one breast unaffected by invasive cancer, which has not been radiated; a history of benign core biopsy of this breast will be permitted
+Participants need to have had a mammogram within 180 days of day 0 (normal/benign bi-rads 1 or 2) with no suspicion of a mass and no further routine breast imaging planned during the course of the study (4 weeks)
+Prior bilateral breast surgery (mastectomy, segmental mastectomy, or breast augmentation surgery including breast implants or breast reductions) or combination of breast radiation and surgery involving both breasts
+Patients with an implant in the sampled breast
+Breast imaging: class I-III mammogram within 6 months of RPFNA; if class 0 or 4, must be resolved with additional procedures; if breast imaging pre and post study is performed at Kansas University Medical Center (KUMC), then volumetric assessment by Volpara software will be performed
+Any newly identified breast abnormality requiring surgical excision
+Mammogram performed or reviewed by an Ohio State University (OSU) radiologist at the Stefanie Spielman Comprehensive Breast Center or the James Cancer Hospital within the six months prior to study enrollment that are not suspicious for breast cancer (American College of Radiology [ACR] class I-III); subjects with a class IV mammogram may be entered following a negative biopsy
+Must be willing to undergo fine needle aspiration of the contralateral breast for breast adipose tissue at 0, 3, 6, 9 and 12 months of the study and breast epithelial tissue samples at 0, 6 and 12 months of study
+Subjects with insufficient breast adipose tissue and/or parenchymal breast tissue/breast density for adequate FNA sampling as determined by clinical examination and/or mammography
+Must have at least one breast available for imaging and biopsy. A previously irradiated breast (i.e., for resected DCIS) is not evaluable for breast imaging or biopsy. a. Allow for submission of core needle breast material for future use.
+Patients must have an unaffected, non-irradiated contralateral breast with a baseline breast density score of > 25% as measured by standard digital mammography (BIRADs score > 2) or magnetic resonance imaging (MRI) performed within 12 months of randomization to the study
+The presence of gross skin invasion/ulceration by the breast cancer, or inflammatory changes with skin edema AND erythema; Note: Paget's disease is permitted
+Women with skin diseases (psoriasis, eczema) on the breast
+A 1st or 2nd degree relative with breast cancer diagnosed under the age of 60
+If undergoing annual screening mammography, must have been performed within 9 months prior to baseline RPFNA and interpreted either as not suspicious for breast cancer or with any supplementary imaging performed and interpreted as not suspicious for breast cancer
+Breast exam interpreted as normal (not suspicious for cancer)
+Must have had a mammogram within the 12 months prior to study enrollment; mammograms must be read as not suspicious for breast cancer (American College of Radiology [ACR] class I-III); subjects with a class IV mammogram may be entered once they have had a negative biopsy
+Subjects must have had a normal mammogram or breast MRI within 9 months prior to registration; NOTE: subjects must also have a normal breast exam on the day of the pre-intervention studies
+Subject has multi-centric breast cancer
+Upon clinical exam and pre-operative imaging by mammogram +/- MRI, two or three foci of biopsy proven breast cancer separated by >= 2 cm of normal breast tissue; foci must include at least one focus of invasive breast carcinoma with another focus of either invasive breast carcinoma or ductal carcinoma in situ (DCIS); no more than 2 quadrants with biopsy proven breast cancer; Note: the shortest distance between lesions must be reported on mammogram +/- MRI and eligibility criteria must be met on both, if both are obtained; Note: patient is eligible for study if lesion is not visualized on all imaging modalities (i.e., any of the lesion (s) is/are visualized on MRI but not on mammogram OR visualized on mammogram but not on MRI); ultrasound cannot be used to determine patient eligibility; eligibility to be determined by bilateral mammogram +/- MRI only; fine needle aspirate of the second or third lesion to document malignancy is allowed if the first focus is shown to be invasive by core needle biopsy; patient may remain on study if, upon pathological assessment, two or three lesions identified on pre-operative imaging represent one contiguous lesion
+Bilateral mammogram =< 90 days prior to date of surgery; Note: for patients undergoing more than 1 breast operation, this is the date of the first breast surgery for breast cancer treatment
+Planned partial breast radiation
+Mammogram negative for breast cancer within the 12 months preceding the time of registration for women >= 50 years of age
+Mammogram within no more than 6 months prior to the date of informed consent (normal/benign Breast Imaging-Reporting and Data System [BI-RADS] 1 or 2) and no further routine breast imaging planned during the course of the study (12 weeks DHA/placebo)
+Patients may be enrolled between 1-6 months from completion of standard primary breast cancer therapies
+Bilateral breast malignancy or suspicious mass in opposite breast
+The imaging abnormality must have been categorized as Breast Imaging-Reporting and Data System (BIRADS) level 1-4 lesion
+Operable breast cancer treated with NAC undergoing either breast conservation or total mastectomy who have had a post-NAC clinical bilateral breast MRI demonstrating a complete imaging response, which is defined as no residual tumor enhancement
+Any woman who has completed or is nearing completion of neoadjuvant therapy for breast cancer and is scheduled for a post-NAT breast MRI and mammogram
+Diagnosed with a Breast Imaging Reporting and Data System (BI-RADS) score of 4 or higher breast abnormality greater than 1cm in size
+Known or suspected (Breast Imaging Reporting and Data System [BIRADS] 5 on imaging) primary breast cancer
+At least one breast lesion that is 1 cm or greater in size by standard imaging (e.g. mammography, ultrasound or breast magnetic resonance imaging [MRI]); only one type of imaging is required to show a lesion of 1 cm or greater in order for the patient to be eligible to participate in this study; patients that have a prior diagnosis of primary breast cancer in the opposite breast can be included
+Involvement in another therapeutic trial for breast cancer at Dana Farber or elsewhere
+No prior history of breast reconstruction, reduction, or augmentation
+Known or suspected breast cancer with at least one breast lesion that is 1 cm or greater in size by standard imaging (e.g. mammography, ultrasound or breast magnetic resonance imaging [MRI]); only one type of imaging is required to show a lesion of 1 cm or greater in order for the patient to be eligible to participate in this study; patients that have a prior diagnosis of primary breast cancer in the opposite breast can be included
+HEALTHY VOLUNTEER: A history of surgical breast augmentation, reduction, or biopsy
+PATIENT: Patients who have had prior breast reduction
+Has biopsy-proven invasive breast cancer (Breast Imaging Reporting and Data System [BI-RADS] 6) and scheduled for neoadjuvant chemotherapy (NAC)
+Scheduled for breast core needle or surgical biopsy of at least one breast lesion based on suspicious breast lesion (Breast Imaging Reporting and Data System [BIRADS] score of 4 or 5) from pre-study standard of care (SOC) imaging studies
+Participants must have clinical characteristics consistent with IBC, characterized by a rapid onset of clinical findings exemplified as diffuse edema and erythema of the breast, often without a palpable mass
+Scheduled for mammogram, breast ultrasound and/or breast MRI
+Breast size per visual inspection to fit within the ultrasound tomography (UST) ring array
+No open breast or chest wounds
+Diagnostic findings from prior mammography highly suggestive of breast malignancy (Breast Imaging-Reporting and Data System [BI-RADS] [R] category 4) or known biopsy-proven malignancy (BI-RADS [R] category 5)
+Symptomatic of any breast abnormality
+Recent breast biopsy
+Biopsy confirmed malignancy associated calcifications in at least one breast
+Subjects for whom an MRI is technically not feasible (e.g. breast volume, obesity)
+Unresected, untreated breast cancer that meets one of the following clinical stages:\r\n* T2, T3, or T4a-c lesion, any N, M0\r\n* Note: Patients with inflammatory breast cancer (T4d) are not eligible; bilateral cancers are permitted with approval of the Protocol Chair; participants with clinically evaluable disease will be followed for response by clinical examination; measurable disease is not required for participation
+Women with Breast Imaging-Reporting and Data System (BI-RADS) 4 or 5
+Required studies include diagnostic mammogram of the affected breast within 3 months prior to registration, and a two-view (full view craniocaudal [CC] and a full view mediolateral oblique [MLO]) mammogram of both breasts within 6 months of registration (if the patient has only one breast, a unilateral exam of the intact breast is required)
+Multicentric breast cancer, defined as two or more tumors in different quadrants of the breast
+Be a female diagnosed by x-ray mammography (performed within 90 days prior to the study procedure) as having a solid breast mass or abnormal area without a mass
+Patients whose breast lesion is unequivocally a cyst by unenhanced US
+Patients with DCIS or invasive breast cancer who are scheduled for a lumpectomy or mastectomy and are receiving surgical care from the Breast Surgery Department at Columbia Medical Center
+Breast size and epithelial integrity adequate to allow NIR imaging exams
+Patients will be identified as possible participants in the Radiology Imaging suites and Breast Surgery Clinics
+Subject has had preoperative radiation therapy to the affected breast or axilla.
+The primary breast tumor must be detectable by mammogram or breast ultrasound at the time of diagnosis
+The primary tumor is not visualized by mammogram or breast ultrasound at the time of diagnosis
+Have undergone previous open surgical biopsy, lumpectomy, or mastectomy in the operative breast
+Have a prosthesis/implant in the operative breast
+The use of statins including atorvastatin are prohibited and patients should be moved on to non-breast cancer resistance protein (BCRP) alternatives
+Participants must have a mammographic breast composition category (density) of c or d
+PHASE I: Women with estrogen receptor (ER)+, HER2-, lymph node (LN)-, breast cancers < 3 cm who were diagnosed with a first primary breast cancer > 6 months ago and < 2 years ago
+Surgeon: Performs breast reconstruction procedures after mastectomy
+Women who (1) have a personal history of a single stage 0-2 breast cancer, (2) were recently diagnosed within the past 6 months, and (3) are treated at a participating breast oncology clinic.
+Patient deemed clinically appropriate for adjuvant breast or chest wall radiation following surgery
+Attend the Cancer Therapy and Research Center (CTRC) breast clinic
+positive clinical breast examination
+Requiring chronic treatment with breast cancer resistance protein (BCRP) inhibitors.
+Subjects with prior breast surgeries, mastectomies, breast reconstructions or implants. (Note: subjects who have had prior breast biopsies are not excluded)
+Has completed treatment for Stage I-III breast cancer, if indicated, and ?6 months elapsed between the completion of treatment with curative intent (e.g., date of primary breast tumor surgery or date of last adjuvant chemotherapy administration, whichever occurred last) and first documented local or distant disease recurrence.
+Adult women with breast cancer who have undergone surgery for their primary breast tumor (either lumpectomy or mastectomy +/- reconstruction) and are confirmed to have involved lymph nodes on surgical pathology

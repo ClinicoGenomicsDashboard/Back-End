@@ -1,0 +1,480 @@
+The participant has a primary brain tumor
+IDH mutation status of the primary tumor must be available or tumor samples must be available for pre randomization testing
+Central nervous system (CNS) embryonal tumor other than medulloblastoma or PNET in the posterior fossa, for example, patients with diagnosis of atypical teratoid/rhabdoid tumor (ATRT), supratentorial PNET, pineoblastoma, ependymoblastoma, embryonal tumor with abundant neuropil and true Rosettes (ETANTR) are excluded
+Newly diagnosed patients must have histologic verification of a primary extracranial germ cell tumor in any of the categories outlined; elevation of serum tumor markers without histologic confirmation is not sufficient for entry on the trial\r\n* NOTE: for low risk patients, materials for rapid surgical central review must be sent within 7 days of study enrollment
+Patients with, per the operative and/or pathology report, positive margin(s) (tumor present at the cut or inked edge of the tumor) which is not superceded by an additional margin of tumor-negative tissue, nodal extracapsular extension, and/or gross residual disease after surgery are not eligible
+Patients should only have had a biopsy of the primary tumor without an attempt at complete or partial resection; patients will still be eligible if excision was attempted or accomplished as long as adequate anatomic imaging (MRI for most primary tumor sites) was obtained prior to surgery
+No immediate need for surgical intervention for the primary tumor or palliative diversion/bypass
+Group A: patients < 12 months (< 365 days) of age with newly diagnosed INRG stage L1 neuroblastoma/ganglioneuroblastoma who meet the following criteria:\r\n* Greatest tumor diameter < 5 cm of adrenal or non-adrenal origin\r\n* Patients with non-adrenal primaries are eligible, but must have positive uptake on metaiodobenzylguanidine (MIBG) scan or elevated catecholamine metabolites (urine or serum) to support the diagnosis of neuroblastoma\r\n* No prior tumor resection or biopsy
+Group B: patients < 18 months (< 547 days) of age with newly diagnosed INRG stage L2 neuroblastoma/ganglioneuroblastoma who meet the following criteria:\r\n* No life threatening symptoms or no impending neurologic or other organ function compromise (e.g. epidural or intraspinal tumors with existing or impending neurologic impairment, periorbital or calvarial-based lesions with existing or impending cranial nerve impairment, anatomic or mechanical compromise of critical organ function by tumor [abdominal compartment syndrome, urinary obstruction, etc.]); horner syndrome is not considered neurologic compromise\r\n* No prior tumor resection, tumor biopsy ONLY\r\n* Only patients with both favorable histology and favorable genomic features will remain on study as part of Group B; the institution will be notified of histologic and genomic results within 3 weeks of specimen submission on ANBL00B1 or APEC14B1
+There is no minimum performance level; children with ependymoma may suffer neurologic sequelae as a result of their tumor or surgical measures taken to establish a diagnosis and resect the tumor; in the majority of cases, there is neurologic recovery; neurologic recovery is not likely to be impeded by protocol therapy
+Patients with histologically confirmed ovarian stromal tumor [granulosa cell tumor, ganulosa cell-theca cell tumor, Sertoli-Leydig cell tumor (androblastoma), steroid (lipid) cell tumor, gynandroblastoma, unclassified sex cord-stromal tumor, sex cord tumor with annular tubules]
+Confirmation of GCT histology (both seminoma and nonseminoma) on pathologic review at the center of enrollment; tumor may have originated in any primary site\r\n* NOTE: in rare circumstances, patients will be allowed to enroll even if a pathologic diagnosis may not have been established; this would require a clinical situation consistent with the diagnosis of GCT (testicular, peritoneal, retroperitoneal or mediastinal mass, elevated tumor marker levels [HCG >= 500; AFP >= 500] and typical pattern of metastases)
+Histologically confirmed diagnosis of inoperable PVNS/ dt-TGCT or potentially resectable tumor that would result in unacceptable functional loss or morbidity as determined by a qualified surgeon or multi-disciplinary tumor board (must be documented in the CRF during screening)
+CNS GCT including pure germinoma and MMGCT; patients with histologically proven germinoma and MMGCT, including endodermal sinus tumor (yolk sac tumor), embryonal carcinoma, choriocarcinoma and mixed germ cell tumor will be eligible for the study; patients with mature/immature teratoma who have tumor marker elevations are eligible on this study; patient with ONLY mature and/or immature teratoma are ineligible in the absence of the tumor marker elevations
+Patients with the diagnosis of mature or immature teratoma in the absence of tumor marker elevations are excluded from the study
+Resection of at least 80% of the volume of the tumor is feasible; resectability will be determined by the surgeon and radiologist after discussion among the multidisciplinary team
+The maximum radiation target volume for GTV3 is 65 cc (per NRG Oncology guide); patient may be excluded after the first sMRI scan if the GTV3 volume is greater than 65 cc (we anticipate that contrast-enhancing tumor volume [residual tumor volume following tumor resection] would be less than 20 cc)
+INCLUSION CRITERIA FOR SECOND-LINE THERAPY: Tumor deposits that are clearly accessible for serial tumor biopsies - a patient’s biopsied lesion must be at least 1 cm in diameter (in at least one dimension)
+Patients must have evidence of recurrent or metastatic carcinoma by one or more of the following:\r\n* The appearance of metastatic disease by standard imaging techniques\r\n* The appearance of rising serum tumor marker, AFP or beta-hCG\r\n* NOTE: If a rising tumor marker is the only evidence of progressive disease, at least 2 consecutive rising values at least one week apart are needed; patients with only evidence of disease is rising tumor marker AFP and beta-hCG will be provided alternate causes of increased serum levels of these markers are not present, such as cross reaction with luteinizing hormone (LH) (that can be tested if needed by testosterone suppression of LH), hepatitis, use of marijuana or second primary tumor, etc
+Patients must have archival tumor tissue or agree to a tumor biopsy for mutation and biomarkers analysis unless previously discussed with sponsor's medical monitor or its designee (fresh tumor biopsies are recommended at baseline in patients with readily accessible tumor lesions and who consent to the biopsies). Patients with ovarian, fallopian tube, primary peritoneal, or breast cancer in Part A and all patients enrolled in Part B must also agree to provide fresh blood sample at the baseline for the evaluation of BRCA mutations and/or confirmation of prior BRCA results or other homologous reconstitution deficiency mutation even if it was previously tested.
+Willing to consent to tumor biopsies during the study
+All patients must have had an MRI of the brain and spine that has measurable tumor (not only diffuse leptomeningeal tumor) within two weeks prior to study enrollment; Note: central review of MRIs is required, but may be completed concurrently with patient registration; completion of central review is not required prior to starting treatment
+Macrovascular tumor invasion.
+Has one of the following tumor locations/types:1) NSCLC involving the superior sulcus; 2) Large cell neuro-endocrine cancer (LCNEC); or 3) Sarcomatoid tumor.
+Tumor Treatment Field (TT Fields) therapy allowed.
+Known to be T790M+ (on pre-treatment tumor or plasma) or known germline T790M
+Participant must be willing to undergo tumor biopsies prior to treatment and on Cycle 2 Day 1. In the Phase 2 part of the trial, participants with bone-only disease, or participants for whom a biopsy is contra-indicated, may opt out of providing tumor biopsies. Note: A subset of participants in Phase 2 will be required to provide tumor tissue until tumor pairs have been collected from at least 15 ER?WT and 15 ER?mut (determined by sponsor-designated central laboratory test).
+Any patient with suspected brain tumor on diagnostic MR imaging who will undergo a resection
+Bleeding or thrombotic disorders or participants at risk for severe hemorrhage. The degree of tumor invasion/infiltration of major blood vessels (eg, carotid artery) should be considered because of the potential risk of severe hemorrhage associated with tumor shrinkage/necrosis following lenvatinib therapy.
+Tumor accessible for biopsies and agreement to conduct pre-dose and post-dose fresh tumor biopsies.
+Known to be T790M+ (on pre-treatment tumor or plasma) or known germline T790M
+Platelets ?70x103/?L (? 70 x 10^9/L) (superficial tumor dosing only)
+Patients with pure WDLS, myxoid/round cell or pleomorphic tumor histologic subtypes.
+largest tumor volume < 10 cc
+The participant has a primary brain tumor
+Can supply tumor tissue for study analyses (dependent on tumor type)
+Tumor(s) involving the brain stem
+INCLUSION - INFUSION: EBV positive tumor
+Pathological diagnosis for the resected tumor demonstrates transformation to higher grade (i.e. WHO grade III or IV) gliomas; if a patient is diagnosed as high-grade glioma (HGG) upon resection after receiving the pre-surgical treatment, the patient will be withdrawn from the study and considered for therapeutic options for HGG (trials for HGG or standard of care); the tumor tissue of such a case would be brought to the lab before the pathological diagnosis is made? and thus would be processed before the lab is informed of the final HGG diagnosis; will evaluate the tumor tissue to help us develop future approaches for HGG
+Tumor invades a major blood vessel
+A hypovascular tumor (defined as a tumor with all its parts less contrast-enhanced than the non-tumorous liver parenchyma on arterial phase computed tomography scans)
+Patients with T1 primary tumor or T4 large volume tumor that has resulted in larynx dysfunction at baseline (for example tumor largely penetrating into base of tongue and resulting in inability to swallow at baseline)
+RAS wild-type; both KRAS and NRAS testing are necessary; the presence of pathogenic mutations in KRAS or NRAS is exclusionary; primary tumor or metastatic tumor may be tested
+Patients must have evaluable tissue/blood for testing as specified by the concurrent FoundationOne criteria; this will be obtained during the standard of care tumor diagnosis and tumor staging evaluation
+PHASE I: In order to perform a retrospective biomarker analysis with the next generation gene sequencing UW-OncoPlex assay; fresh tumor biopsies from metastatic or primary tumor lesion will be done if considered safe and feasible by treating physician and radiologist; Patients who already have OncoPlex or other equivalent gene sequencing assay (eg Foundation One, Perthera, Caris etc) test results available from prior tumor biopsy are eligible to participate, without the needed of a repeat tumor biopsy, but the test results need to be provided to the study principal investigator
+PHASE IB: Fresh tumor biopsies from metastatic or primary tumor lesions will be done only if considered safe and feasible by treating physician and radiologist; patients who already have OncoPlex or other equivalent gene sequencing assay (eg Foundation One, Perthera, Caris etc) test results available from prior tumor biopsy are eligible to participate, without the needed of a repeat tumor biopsy, but the test results need to be available to the study principal investigator
+Tumor suspected or known to invade the esophagus
+Patients with bulky tumor on imaging are ineligible; treating physicians are encouraged to contact the study chair to request a rapid central imaging review to confirm fulfilment of these eligibility criteria, if they have concerns\r\nBulk tumor is defined as:\r\n* Tumor with evidence of clinically significant uncal herniation or midline shift\r\n* Tumor with diameter of > 5 cm in one dimension on T2/fluid attenuated inversion recovery (FLAIR)\r\n* Tumor that in the opinion of the site investigator, shows significant mass effect in either the brain or spine\r\n* Multi-focal/ metastatic disease: \r\nNote: A second focus of enhancement in a single FLAIR abnormality is permissible and will not exclude the subject\r\n** Patients with multi-focal parenchymal disease are ineligible\r\n** Patients with leptomeningeal metastatic disease are eligible\r\n* Strata B, D and E – patients whose tumor has a significant component involving the brainstem or with significant fourth ventricular compression are ineligible
+INCLUSION CRITERIA FOR STRATUM C: Patients must have a histologically confirmed primary brain tumor that is recurrent, progressive or refractory; inclusion criteria encompasses all types of brain tumors (e.g. gliomas, embryonal tumors or any other type of brain tumor as long as other eligibility criteria are met;\r\n* Patients with high-grade gliomas are eligible for this clinical trial at least 2 weeks after completion of radiotherapy independent of tumor progression/recurrence as long as they are not enrolled on any other therapeutic clinical trial and there is macroscopic residual disease\r\n* Patients with other concomitant tumors associated with CMMRD syndrome including gastrointestinal polyps/adenomas and carcinomas, lymphomas and leukemias will be eligible as long as they are not requiring anticancer therapy directed against these other cancers and meet all other eligibility criteria
+Phase II: if surgical resection/debulking prior to MLA is not indicated, a biopsy of the tumor will be done at the same time of MLA to obtain tumor tissue for both diagnostic purposes and immune monitoring
+Patients must be untreated with curative-intent surgery for current diagnosis of stage III, IVa, or IVb disease; diagnostic biopsy of primary tumor and/or nodal sites is permitted.  \r\n* Diagnostic simple tonsillectomy is permitted, provided patient has Response Evaluation Criteria in Solid Tumors (RECIST)-measurable residual tumor and/or nodal disease\r\n* Patients with a second HNSCC primary tumor are eligible for this study, provided more than 2 years have elapsed since the first diagnosis of HNSCC, the original tumor was managed with surgery only (no adjuvant chemotherapy/radiotherapy), and has not recurred
+Cryoablation can be performed near vessels of the head and neck, and if deemed necessary tumor may be displaced using a saline injection (hydrodisplacement); tumor displacement from nerves may be required and will be performed as deemed appropriate to avoid nerve injury
+Tumor size not measurable
+EBV (+) nasopharyngeal carcinoma in the protocol treated tumor
+Infra-tentorial tumor
+Patient must have an original diagnosis, benefited by autologous transplantation, confirmed by biopsy* of solid tumor, including but not limited to: high-grade glial tumor, low-grade glial tumor, ependymoma, medulloblastoma, primitive neuro-ectodermal tumor (PNET), Wilms' tumor, rhabdomyosarcoma, Ewing's sarcoma, retinoblastoma, or miscellaneous poor-prognosis solid tumors; lymphomas and other lymphoid malignancies will not be studied in this protocol\r\n* Brain stem glioma patients who have progressed after radiation therapy do not require histologic confirmation; brain stem gliomas are defined as intrinsic tumors of the pons causing diffuse enlargement; these patients are diagnosed on clinical and radiographic appearance of the lesion and the biopsy requirement will be waived for this group
+COHORT B, GROUP 4: HEAD AND NECK SQUAMOUS CELL CARCINOMA: Patients must not have evidence of major vessel involvement or encasement by tumor; a tumor abutting a major blood vessel may be allowed after review of scans with the radiologist and discussions with the principal investigator (PI)
+Criteria only for the randomized phase 2 part: mesothelin screen positive determined from archival tumor tissue and to be performed centrally. MSLN-positive is defined as >= 30% of tumor cells with membrane staining intensities >= 2+\r\n* For the run-in-phase 1, patients will not be selected based on the mesothelin expression
+HER2-expressing tumor (primary tumor or metastasis) as assessed by local lab testing
+HER2-positive tumor (primary tumor or metastasis) as assessed by local (non-central) laboratory testing
+Patient should have at least one remaining papillary LG tumor evaluated visually with a diameter of at least 5 mm.
+Any known tumor outside of the brain
+Any known tumor outside of the brain
+PHASE I: Patients with recurrent, refractory, or progressive non-hematologic malignancies (central nervous system [CNS] or solid tumors) associated with activation of the RAS/RAF/ERK pathway, including any LGG, any tumor in a patient with NF1, or any tumor with a documented activating BRAF, NRAS, or KRAS mutation, will be eligible; LGG is defined as any World Health Organization (WHO) grade I or II (or equivalent) astrocytic, oligodendroglial, and/or glioneuronal tumor
+Any tumor ER/PgR status, any HER-2/neu status as measured by local hospital pathology laboratory and meets any tumor assay profile described in protocol section 4.1.2F
+Infra-tentorial tumor
+No individual tumor size is >50 mm3
+Patient has symptoms related to hormone production from tumor (i.e. functional tumor)
+Biopsy-proven benign or malignant brain tumor requiring tumor bed or tumor irradiation; this may include, but is not limited to, low-grade or favorable high-grade glioma, pituitary adenoma, vestibular schwannoma (acoustic neuroma), and meningioma as the most common diagnoses; other tumor types that require irradiation and are deemed appropriate for proton radiation therapy are also eligible; patients with a presumed diagnosis based on imaging and clinical characteristics will be permitted on this trial without pathological diagnostic confirmation if it is within standard of care to offer radiation therapy without a biopsy
+Patients must agree to consent for their tumor samples to be used for generation of cellular research tools such as organoids
+Histologically proven malignancy necessitating cranio-spinal irradiation; this will include patients with a diagnosis of medulloblastoma, supratentorial primitive neuroectodermal tumor (SPNET), disseminated ependymoma, embryonal tumor with abundant neuropil and true rosettes (ETANTR), atypical teratoid/rhabdoid tumor (ATRT), and disseminated low-grade glioma (LGG) or histologically confirmed germ cell tumor or elevated alpha-fetoprotein (AFP) (serum > 10 IU/L or cerebrospinal fluid [CSF] > than institutional norm) or B-HCG (serum or CSF > than institutional norm) in the setting of radiographic disease consistent with a germ cell tumor necessitating cranio-spinal irradiation
+Patients must have a tumor or plaque that is refractory to conventional treatment including but not limited to one of the following (up to 4 lesions in a single field of PDT or RT will be considered for treatment):\r\n* Plaque stage disease that has failed at least 2 skin directed therapies (including topical steroids) or refractory plaques despite at least one systemic therapy or plaques with evidence of folliculotropism\r\n* The presence of a tumor of MF
+It must be the surgeon’s expectation that >= 90 of the tumor can be treated with LITT to the yellow TdT line (i.e. 43 degrees for 2 min)
+Tumor must be unifocal & unilateral
+HER2-positive tumor status;
+Tumor visible on multiparametric MRI
+Subjects without baseline tumor imaging
+Evidence of active tumor lysis syndrome based on laboratory assessment
+Tumor deemed accessible by metastatectomy (TIL harvest) which expects to yield > 1.5 cm^3 of resectable tumor amount
+The subject must have EGFR and c-Met overexpressed in tumor as determined by immunohistochemistry (IHC) test score of 2+ for both markers
+Patients with tumor(s) invading a major vascular structure (e.g. carotid artery) or other key anatomical structure (e.g. pulmonary airway) in the event of post treatment tumor swelling and/or necrosis (hepatic and portal vein involvement allowed)
+Intrahepatic lesion amenable to pre and post SBRT biopsies, unless the investigator determines that the tumor biopsies would be unsafe
+Total tumor burden requiring ? 75 mL AvidinOX injection
+Primary tumor not amenable to TORS
+Must have marker clip indicating location of target tumor in breast
+Either the primary tumor and/or the metastatic tumor must be RB positive as defined below:\r\n* RB status: the invasive tumor must have greater than 50% of tumor cells staining positive for RB
+Evidence of tumor expression of CA19-9 based on IHC performed on tumor samples or elevated serum levels (?1.5 x ULN) of CA19-9 considered secondary to tumor
+Patients will be eligible if tumor is metastatic, unresectable, progressive, or if complete tumor resection is not considered to be feasible without substantial risk or morbidity
+This study will include all patients clinically suspected or histologically confirmed solid or hematological malignancy who have undergone or will undergo genetic testing of their tumor; patients may have failed first-line or standard therapy for their disease (refractory) or have no options for curative therapies; rare cancers that are metastatic at diagnosis are by definition refractory and may be included in the first line setting, at the discretion of the principal investigators; rare cancers may not have standard of care therapies - a disease/tumor is considered rare if the incidence is < 6/100,000/year using the National Cancer Institute (NCI) RareCare tumor list, or if the disease is a molecular or biologically defined subset such that the annual incidence is < 20,000 in the United States
+Patients with tumor morphology that predicts poor coverage of the majority of the tumor; this will be determined by the study chairs; patients with evidence of cystic changes greater than 1 cm in diameter will be excluded; these subjects should be discussed with the study chairs
+Must have a diagnosis of a solid tumor (except primary brain tumors), acute myeloid leukemia (AML), or non-Hodgkin lymphoma (NHL); NHL may be of any subtype for Dose Escalation but is limited to diffuse large B-cell lymphoma (DLBCL) for those enrolled to the cohort evaluating the combination of ABBV-621 and venetoclax. Subjects in the Dose Optimization solid tumor cohorts must have either colorectal cancer with documented KRAS mutations (as determined by local testing), or pancreatic cancer (irrespective of mutational status).
+Has a diagnosis of low grade (G1 or G2), uni- or multifocal papillary appearing bladder tumor, stage Ta.
+Has or has ever had: upper tract TCC; urethral tumor (prostatic urethra included); any invasive bladder tumor known to be other than tumor Ta, low-grade (G1-G2); any evidence of lymph node or distant metastasis; any bladder tumor with histology other than TCC; or carcinoma in situ (CIS).
+For subjects with recurrent tumor, the subject had at least a 6-month cystoscopically confirmed tumor-free interval between the last tumor recurrence and screening cystoscopic examination.
+Original diagnosis has been confirmed through a histopathologic review of the primary tumor slides by an expert pathologist at the Principal Investigator's institution
+Subjects that do not have a baseline tumor specimen/biopsy prior to starting study medications\r\n* Tumor specimens do not need to be at Jefferson at time of eligibility determination; tumor specimens held at outside institutions should be requested for analysis of pre-treatment tumor vs post-treatment tumor
+The tumor must be accessible for injection
+Tumor which invades the ventricular system or located in the brain stem
+No individual tumor size is >50 mm3
+FULL STUDY INCLUSION CRITERIA: Histological documentation of overexpressing mesothelin at the moderate (2+) or stronger (3+) level in at least 30% of tumor cells as determined by immunohistochemistry (IHC)
+FULL STUDY INCLUSION CRITERIA: Extent of baseline tumor burden will not interfere with causal assessment of treatment-emergent hepatotoxicity, at the investigator’s discretion
+Tumor accessible and participant consents to undergo fresh tumor biopsies.
+Patients must agree to enroll on the Neuro-Oncology Branch (NOB) Natural History protocol to allow the assessment of molecular tumor markers
+Tumor size at least 5 mm with planned primary surgery at Mount Sinai
+ACTolog target expression as evaluated by the in vitro diagnostic device IMA_Detect: Patient's tumor must express at least one ACTolog target as assessed by quantitative PCR (qPCR) (to be assessed from a tumor biopsy to be performed if all other eligibility criteria are met).
+Subjects that do not have a baseline tumor specimen/biopsy prior to starting study medications\r\n* Tumor specimens do not need to be at Jefferson at time of eligibility determination; tumor specimens held at outside institutions are not a reason for exclusion; samples from outside institutions should be requested for analysis of pre-treatment tumor versus (vs) post-treatment tumor
+Inaccessible tumor or lack of consent for sequential biopsies
+Primary tumor >= 3 cm (for all stages entered) to increase the likelihood that excess tumor will be available after resection
+Histologically confirmed solid tumor malignancy for which no curative therapy exists with at least 25% of tumor cells expressing mesothelin as determined by NCI Laboratory of Pathology; determination can be made using archival tumor tissue or fresh biopsy; subjects with epithelioid mesothelioma and pancreatic adenocarcinoma are automatically eligible and are not required to have this test
+Low tumor burden according to GELF criteria defined as:
+Maximal contiguous volume of tumor based on high b-value diffusion MRI < 1/3 volume of brain
+Based on clinical and radiographic evidence the tumor needs to be deemed resectable preoperatively by the surgeon and when necessary (determined by the surgeon) tumor board review
+Patients deemed to have un-resectable disease by the treating surgeon or upon tumor board review
+Radio-opaque markers must be present within the tumor bed; in patients who have undergone surgical resection, radio-opaque surgical clips within the tumor bed can be used as fiducials; patients without surgical clips in the tumor bed must be able to have fiducials placed endoscopically, laparoscopically, or through a computed tomography (CT)- or ultrasound-guided technique; if not, the tumor must be posterior and adjacent to the aorta, and treatment will only be permitted at the discretion of the principal investigator
+Patients with evidence of gross tumor invasion into the lumen of the stomach or small bowel are not eligible; if imaging suggests luminal invasion of tumor, this must be ruled out endoscopically before the patient can be enrolled on study
+Patients must be untreated with curative-intent surgery for current diagnosis of stage III, IVa, or IVb disease; diagnostic biopsy of primary tumor and/or nodal sites is permitted\r\n* Diagnostic simple tonsillectomy is permitted, provided patient has Response Evaluation Criteria in Solid Tumors (RECIST)-measurable nodal disease\r\n* Patients with a second HNSCC primary tumor are eligible for this study, provided more than 2 years have elapsed since the first diagnosis of HNSCC, the original tumor was managed with surgery only (no adjuvant chemotherapy or radiotherapy), and has not recurred
+A minimum tissue requirement of >= 3 core biopsies with tumor involvement and at least 50% tumor involvement in one of the core biopsies is required
+The primary tumor in the colon or rectum may be intact or resected
+INCLUSION CRITERIA FOR PATIENTS WITH NSCLC OR TNBC (COHORT B): ROR1 expression in > 20% of the primary tumor or metastasis by immunohistochemistry (IHC)
+INCLUSION CRITERIA FOR TNBC: ROR1 expression in > 20% of the primary tumor or metastasis by IHC
+Tumor located entirely in the infratentorium.
+Evidence of > 1 area of CIS not associated with papillary tumor at this time
+Prior treatment with radiotherapy or chemotherapy for a brain tumor, irrespective of the grade of the tumor
+There is no specific tumor size cut-off for this protocol; however, the radiation treatment plan must meet the protocol’s dose constraints
+If a primary tumor is in place, it must be asymptomatic
+Evidence of MCPyV TAg tumor expression by immunohistochemistry on any prior or current tumor specimen or viral oncoprotein antibody confirmation within 6 weeks of the start of study intervention
+Need for urgent or emergent nephrectomy to relieve symptoms relating to the primary tumor
+Unequivocal metastatic tumor at baseline
+Contrast-enhancing tumor component crossing the midline, multi-focal tumor, or tumor dissemination (subependymal or leptomeningeal)
+cPoP study: any tumor with at least 2 (sub)cutaneous tumor/metastases at least 2 cm apart which are RT naïve with an indication for high dose palliative RT
+Willing to have tumor biopsies collected in cPoP
+Patients must have an extra-cranial primary tumor diagnosis
+Primary tumor histology of lymphoma, leukemia, multiple myeloma or germ cell tumor
+Primary brain tumor
+Tumor for which adequate radiation dosage cannot be safely delivered
+The subject has a primary brain tumor
+Circumferential radial margin not involved with tumor on pelvic MRI
+cTis-T3 cancer judged to benefit (by treating radiation oncologist) from a tumor bed boost
+Tumor thrombus must be >= level II
+Patient’s tumor must be deemed resectable by the study team prior to registration; borderline resectable patients will be excluded
+Patients must have documented available tumor greater than 1 cm of bulk tumor mass or 200 cc of ascites fluid for tumor isolation prior to starting chemotherapy
+Able, willing to give written consent for available archival tumor samples (not mandatory) and tumor biopsies before and during protocol therapy (mandatory).
+An HRD score >= 42 on the Myriad HRD Assay as assessed on a metastatic tumor biopsy sample; in the case that an adequate metastatic tumor tissue biopsy is not feasible, we will assess the HRD score from the primary breast tumor
+Patients already enrolled to the separate Tumor Genomic Analysis and Molecular Testing for Personalized Cancer Therapy study, for which a personalized therapeutic plan has been successfully created under that protocol and selected by the multidisciplinary tumor board of experts (MTBE) for use in this therapeutic clinical trial
+Clinical T4 tumor
+Tumor < 3 mm from the mesorectal fascia as seen on MRI or endorectal ultrasound
+Patients with contrast-enhancing tumor component crossing the midline, actively growing multi-focal tumor, infratentorial tumor or tumor dissemination (subependymal or leptomeningeal)
+Bilirubin < 2.0 mg/dL unless secondary to bile duct blockage by tumor
+Patients with gastrointestinal stromal tumor (GIST)
+Patients must have a measurable primary tumor (undetectable NSCLC primary tumor is ineligible)
+Presence of nodules considered neoplastic in the same lobe or other ipsilateral lobe as the primary tumor (stage T3-4), unless the nodule can be encompassed in the stereotactic boost (gross tumor volume [GTV]boost) without exceeding a total GTVboost size of 10 cm as defined by the sum of the largest CT axial dimensions of each nodule
+Confirmation that primary tumor expresses mammaglobin-A by IHC
+IDH1^R132H expression in primary tumor
+Participant must be in need of a craniotomy for tumor resection or a stereotactic brain biopsy for the purpose of diagnosis or differentiating between tumor progression versus treatment-induced effects following radiation therapy +/- chemotherapy
+T4 tumor
+Less than 6 months from the date that local treatment (surgical or radiation) of the primary tumor was finalized
+Patients must have an extra-cranial primary tumor diagnosis
+Primary brain tumor
+Primary tumor histology of lymphoma, leukemia, multiple myeloma or germ cell tumor
+The subject has a primary brain tumor
+Nonparenchymal tumor dissemination (e.g., subependymal or leptomeningeal)
+Infratentorial, leptomeningeal, or multifocal tumor
+A volume of enhancing tumor which falls within the treatment field volume being evaluated in the respective cohort
+Tumor located in the brainstem
+Multifocal primary tumor
+The primary tumor involves true vocal cord(s) (glottis) or arytenoid(s)
+Presence of a prolactinoma (prolactin-releasing pituitary tumor)
+EBV positive tumor (can be pending)
+EBV positive tumor
+The targeted tumor tissue is located in the cerebral hemispheres, > 2.5 cm from the inner table of the skull. Non-targeted parts of the tumor may extend outside the treated tumor limits.
+The tumor's not visible on the pre-therapy imaging
+The tumor presenting the following imaging characteristics
+The sonication pathway to the tumor involves
+Patients must have either (1) a diagnosis of NB as defined by international criteria i.e., histopathology (confirmed by the Memorial Sloan-Kettering Cancer Center [MSKCC] Department of Pathology) or bone marrow (BM) metastases plus high urine catecholamine levels, or (2) a tumor that is GD2-positive by immunostaining with m3F8\r\n* A non-NB tumor is defined as GD2-positive by immunostaining with m3F8; if fresh or frozen tumor is not available for immunostaining, patients will be considered eligible if published reports show that > 50% of that tumor type is GD2-positive by immunohistochemistry; (Note: tissues must be fresh/frozen as fixed, paraffin-embedded specimens are unsuitable for anti-GD2 immunostaining); tumors known to be GD2-positive by this criteria do not need immunostaining; these include: melanoma (> 50%), desmoplastic small round cell tumors (70%), osteosarcoma (88%) and soft tissue sarcomas including liposarcoma, fibrosarcoma, malignant fibrous histiocytoma, leiomyosarcoma, and spindle cell sarcoma (93%)
+Uncontrolled tumor in the brain
+Participants for whom chemotherapy or intraoperative or post-operative radiation therapy is planned as part of the overall primary tumor treatment
+Patients with primary tumor histology of lymphoma, leukemia, or germ cell tumor
+ICGCT including pure germinoma and MMGCT; patients with histologically proven germinoma and MMGCT, including endodermal sinus tumor (yolk sac tumor), embryonal carcinoma, choriocarcinoma and mixed germ cell tumor will be eligible for the study; patients with mature/immature teratoma who have tumor marker elevations are eligible on this study; patient with ONLY mature and/or immature teratoma are ineligible in the absence of the tumor marker elevations
+Patients with the diagnosis of mature or immature teratoma in the absence of tumor marker elevations are excluded from the study
+Tumor type demonstrated on imaging to be infiltrative, tumor volume > 70% of the target liver volume, or tumor nodules too numerous to count, or tumor volume > 50% combined with an albumin < 3 g/dL, or complete occlusion of the main portal vein.
+WHO grade II: any tumor, either completely or incompletely excised; any recurrent tumor
+WHO grade III and hemangiopericytoma: any tumor, either completely or incompletely excised; any recurrent tumor
+The tumor volume must be a minimum of three times the injection volume; in the first and second dose levels, the lesion to be injected must be at least 18 mm in each of 3 dimensions as determined by computed tomography (CT) or magnetic resonance imaging (MRI) scans; lesions not meeting this requirement may be used if volumetric measurements show it to be >= 3 mL; in the third dose level, the lesion(s) to be injected must meet minimal tumor measurements and volume for each 1 mL fractionation of the injection volume (5mL); a single lesion meeting this requirement may be injected or the total volume may be distributed in up to 3 lesions meeting measurement and volume requirements as follows:\r\n* 5 mL of HSV1716; 30 mm minimum tumor length in each dimension; 15 mL minimum tumor volume\r\n* 4 mL of HSV1716; 28 mm minimum tumor length in each dimension; 12 mL minimum tumor volume\r\n* 3 mL of HSV1716; 26 mm minimum tumor length in each dimension; 9 mL minimum tumor volume\r\n* 2 mL of HSV1716; 23 mm minimum tumor length in each dimension; 6 mL minimum tumor volume\r\n* 1 mL of HSV1716; 18 mm minimum tumor length in each dimension; 3 mL minimum tumor volume\r\n** Thus, the full 5 mL may be injected into a >= 15 mL tumor; 2 mL each may be injected into two >= 6 mL tumors plus 1 mL into a >= 3 mL, tumor, etc.; if a patient has multiple lesions but these criteria for injection cannot be met, they may be considered for the intravenous arm
+Patients with skin involvement, regardless of tumor size
+Patients must have a histologically confirmed diagnosis of a malignancy known to be 8H9 reactive; 8H9 expression must be confirmed by immunohistochemical staining of tumor and assessed by the Department of Pathology or by immunofluorescence of bone marrow except for patients confirmed to have neuroblastoma or an embryonal tumor (such as medulloblastoma, retinoblastoma, rhabdomyosarcoma and desmoplastic small round cell tumor [DSRCT])
+Must be willing to release tumor biopsy specimen used for diagnosis of metastatic NSCLC (if available) for additional exploratory tumor molecular profiling.
+Subject's tumor expresses CLDN18.2 in ? 75% of tumor cells demonstrating moderate to strong membranous staining as determined by central immunohistochemistry (IHC) testing.
+Subject has a HER2-Negative tumor as determined by local or central testing on a gastric or GEJ tumor specimen.
+Metastatic tumor that has been biopsied
+Centrally assessed KIR3DL2 expression on tumor cells.
+Tumor foci detected below the tentorium or beyond the cranial vault.
+The targeted tumor tissue is located in the cerebral hemispheres, > 2.5 cm from the inner table of the skull. Non-targeted parts of the tumor may extend outside the treated tumor limits.
+Enough tumor material must be available for central confirmation of diagnosis, otherwise a new tumor biopsy is mandated.
+The maximum tumor diameters for each Cohort for both Arm A and Arm B should achieve a dose of approximately 1x1011 viral particles (vp)/cm3 of tumor volume. (see Table 1). Please refer to Table for calculating tumor volume.
+Staining for PD-L1 in less than half of the tumor cells using the 22C3 antibody (0% staining is acceptable).
+Maximal contiguous volume of tumor based on high b-value diffusion MRI and perfusion MRI < 1/3 volume of brain.
+Histological or cytologically confirmed NSCLC that shows moderate or stronger mesothelin expression in 30% of tumor cells by a companion assay; MSLN expression score using Ventana immunohistochemistry (IHC) SP74 assay; Phase I only: In addition 5- 30% tumor cells and 1, 2, or 3+ MSLN score; Phase II only: 30% tumor cells and either 2+/3+
+Patients with non-bulky/non-bulky squamous cell carcinomas of the head and neck, with an indication for surgical therapy\r\n* T1N1-N2B, T2-4N0-N2b stage are generally eligible\r\n* If determined per tumor board that a low-volume/non-bulky tumor of another stage is appropriate for resection (e.g. small volume T4 with a small amount of bone invasion) such tumors may also be considered for this study if recommendation in tumor board is such
+Tumor expressing PRAME and/or COL6A3.
+Her-2 positive gastric tumor
+Histopathologic documentation any metastatic gastrointestinal tumor
+T4 tumor
+Surgery is done prior to IMT if needed for palliation, tumor debulking, pathological documentation of tumor recurrence; the patients may continue on study therapy even if they do not have measurable disease
+Patients with bulky tumor on imaging are ineligible; bulky tumor is defined as:\r\n* Tumor with any evidence of uncal herniation or midline shift\r\n* Tumor that in the opinion of the site investigator, shows significant mass effect\r\n** Treating physicians are encouraged to contact the study chair to request a rapid central imaging review to confirm fulfilment of these eligibility criteria, if they have concerns
+Tumor must have high Delta-like protein 3 (DLL3) expression defined as having ? 75% tumor cells staining positive according to the VENTANA DLL3 (SP347) IHC Assay.
+All patients treated at doses > 120 mg per day must have medullary thyroid cancer (MTC), or a RET-altered solid tumor per local assessment of tumor tissue and/or blood.
+Diagnosis during dose expansion (Part 2) - All patients in Groups 1, 2 and 4 must have a RET-altered (excluding synonymous and nonsense mutations) solid tumor, as determined by local testing of tumor or circulating tumor nucleic acid in blood; as detailed below.
+Tumor location in the brain stem
+Diagnosis of adenocarcinoma of the rectum with the major portion of the tumor intact; Note: prior to randomization, the investigator must specify and document each of the following: \r\n* Distance of the lowest tumor margin from the anal verge; and \r\n* Intent for sphincter sparing or non-sphincter sparing surgical resection according to the primary surgeon; and\r\n* The majority of the untreated tumor must be < 12 cm from the anal verge or below the peritoneal reflection as determined by the treating surgeon
+Subjects with histologically confirmed CNS embryonal tumor (primitive neuroectodermal tumor [PNET], medulloblastoma, atypical teratoid rhabdoid tumor [ATRT], medulloepithelioma, pineoblastoma or ependymoblastoma), or germ cell tumor, are eligible; tumors must be relapsed or refractory to first-line therapy; diagnosis will be made on the basis of computed tomography (CT)-assisted or stereotactic biopsy, open biopsy, surgical resection, cerebrospinal fluid (CSF) cytology, or elevated tumor markers
+The subject has an infra-tentorial tumor or multifocal disease
+Patients must have at least 1 of the following high-risk pathologic features: extracapsular nodal extension or invasive cancer at the primary tumor resection margin (tumor on ink)
+Diagnosis of MPM, confined to single pleural cavity, with histologic confirmation of the primary tumor
+Any tumor-specific or clinical features that make surgical intervention unsafe in the opinion of the treating neurosurgeon
+Willing to consent to allow access to known archival tumor tissue (NOTE: designated pathologist from participating site OR lead principal investigator must sign-off to ensure “sufficient” tumor should be available for support of tumor imaging studies [multi-color immunofluorescence])
+Extremely radiosensitive tumor (lymphoma, leukemia)
+Radiographic evidence of contrast-enhancing tumor crossing midline, leptomeningeal dissemination, gliomatosis cerebri or infratentorial tumor
+Patients with acute leukemia will be excluded because they will likely have a much greater circulating tumor burden, which would increase the risk of infusion of clonal tumor cells
+The tumor location must be suitable for either lobar or sublobar resection (wedge or segment)
+Brain tumor patient is planning to undergo tumor resection or biopsy for the purpose of differentiating between tumor progression versus treatment-induced effects following radiation therapy and/or chemotherapy\r\n* If a patient has magnetic resonance imaging (MRI) findings consistent with tumor but does not already have a histopathologic diagnosis of cancer, s/he may sign the consent form, but final eligibility for study enrollment will be determined based on results of the frozen section at time of surgery
+Extracapsular tumor extension
+Subjects must have positive mesothelin expression in the archival tumor tissue, defined as the mesothelin membrane intensity score of 2+ or 3+ (on the 0-3 scale) expressed on the membrane of >= 10% of tumor cells
+Patients must be untreated with curative-intent surgery for current diagnosis of stage III, IVa, or IVb disease; diagnostic biopsy of primary tumor and/or nodal sites is permitted\r\n* Diagnostic simple tonsillectomy is permitted, provided patient has Response Evaluation Criteria in Solid Tumors (RECIST)-measurable nodal disease\r\n* Patients with a second HNSCC primary tumor are eligible for this study, provided more than 2 years have elapsed since the first diagnosis of HNSCC, the original tumor was managed with surgery only (no adjuvant chemotherapy or radiotherapy), and has not recurred
+Patients must have recurrent or persistent ovarian, fallopian tube, peritoneum, and endometrial clear cell carcinoma; primary tumors must be at least 50% clear cell histomorphology in order to be eligible or have a histologically documented recurrence with at least 50% clear cell histomorphology; in addition, the tumors should be negative for expression of Wilms tumor 1 (WT-1) antigen (with the exception of endometrial cancers where WT-1 stains are not required) and estrogen receptor (ER) antigen by immunohistochemistry; focal, weak, ER staining of tumor cells (< 5%) is permitted; appropriate tissue sections must be available for histologic evaluation for central pathology review by Gynecologic Oncology Group (GOG); immunohistochemical stained slides for ER and WT-1 antigen must be available for review by GOG\r\n* If the primary tumor had at least 50% clear cell histomorphology, a biopsy of the recurrent or persistent tumor is not required; however, immunohistochemical studies of the primary tumor for ER and WT-1 antigens should be performed and the slides submitted to the GOG for review; the percentage of clear cell histomorphology must be documented in the pathology report or in an addendum to the original report; if slides of the primary tumor are not available for review due to disposal of slides by the histology laboratory (typically 10 years after diagnosis), biopsy of recurrent or persistent disease is required\r\n* If the primary tumor had less than 50% clear cell histomorphology (or if slides of the primary tumor are not available for review), a biopsy of the recurrent or persistent tumor is required to confirm at least 50% clear cell histomorphology and lack of immuno-reactivity for ER and WT-1 antigens by immunohistochemistry; the percentage of involvement must be documented in the pathology report or in an addendum to the original report
+The patient must be in need of a craniotomy for tumor resection or a stereotactic brain biopsy for the purpose of diagnosis or differentiating between tumor progression versus treatment-induced effects following radiation therapy +/- chemotherapy
+Patients must have a paraffin embedded tumor specimen from the kidney or metastatic site available for central review of tumor histology; tumor samples will be shipped as specified
+Patients are preferred to have either a tumor mass amenable to core needle biopsy during the dosimetry phase, or a measurable tumor mass with at least one site of involvement measuring 2.0 cm in largest dimension on computed tomography (CT) imaging for purposes of planar and/or single-photon emission CT (SPECT)/CT tumor dosimetry (patients with disease that does not allow tumor dosimetry will be allowed on study since they still can contribute toward achieving the primary endpoint, but these patients will be given a lower priority over those with evaluable disease)
+Rhabdoid tumor:
+NI1-negative tumor:
+DLL3-expressing SCLC based on central immunohistochemistry (IHC) assessment of banked or otherwise representative tumor tissue. Positive is defined as staining in ? 1% of tumor cells.
+Subjects (NSCLC and gastric adenocarcinoma) must be determined to have HA-high levels from their tumor biopsies.
+Uncontrolled tumor in the brain
+Patient is after surgical resection of the tumor where tumor was removed completely, with the final surgical specimen microscopic margins free from tumor and with available archival tumor tissue from the surgical specimen
+Baseline archival tumor specimen available or willing to undergo a prestudy treatment tumor core or excisional biopsy of a tumor lesion not previously irradiated, to obtain the specimen.
+Patient must have archived primary tumor biopsies or surgical specimens, or biopsies of recurrent or metastatic samples
+Non-GI solid tumors (like non-small cell lung cancer or breast cancer) should have confirmed CEA expression in tumor tissue >/= 20% of tumor cells staining with at least moderate to high intensity of CEA expression are required (immunohistochemistry [IHC]2+ and IHC 3+). For CRC, pancreatic and gastric cancer participants, the CEA assessment will be performed retrospectively and the result is not needed to enroll the participant. For the biomarker cohort, only participants with moderate/low CEA expression (< 20% of tumor cells with IHC2+/3+ and/or >/= 20% of tumor cells with IHC1+) and very low CEA expression (< 20% of tumor cells with IHC1+) will be enrolled. CEA expression should be determined prior to enrollment, if no archival tumor tissue is available, a fresh biopsy will be collected.
+Tumor tissue (primary or cervical metastasis) available for human papilloma virus (HPV) and/or tumor protein (p) 16 (in situ hybridization [ISH], immunohistochemistry [IHC] or genotyping testing); if you do not have enough leftover tumor tissue available, you will have a tumor biopsy for tumor marker testing
+If primary tumor has not been resected, it must be clinically stable
+Five grams of resected tumor available for vaccine manufacture as determined by institutional pathologist; seven grams of tumor is preferred
+All subjects must consent to provide archived tumor specimen
+Locally advanced, relapsed, and/or metastatic cancer with low or minimal tumor burden which may or may not be measurable; no tumor size criteria are used.
+HER-2 negative tumor (primary tumor or metastatic lesion)
+Tumor involves a weight-bearing long bone of the lower extremity with the tumor causing > 50% loss of cortical bone
+Index tumor involves the skull
+Histologic diagnosis of a benign or borderline tumor (‘tumor of low malignant potential’) or of a malignant tumor of non-epithelial origin (such as a germ cell tumor, sex-cord stromal tumor) of the ovary, fallopian tube or peritoneum
+Patients with primary tumor of oral cavity, nasopharynx, sinuses or salivary glands.
+Patients with placental-site trophoblastic tumor (PSTT) or epithelioid trophoblastic tumor (ETT)
+Operable tumor measuring >= 1.5 cm in maximal diameter\r\n* Any nodal status\r\n* Multifocal and multicentric disease is permitted\r\n* Synchronous bilateral invasive breast cancer is permitted\r\n* The tumor should be more than 5 mm from the skin
+Tumor amenable to cryoablation as determined by radiologist
+Tumor
+Evidence of remaining tumor
+PD-L1 strong expressing tumor as determined by immunohistochemistry (IHC) at a central laboratory
+Participants with multifocal tumors (more than one tumor confined to the same quadrant as the primary tumor) are eligible provided all discrete lesions are sampled and centrally confirmed as HER2 positive
+Skin involvement, regardless of tumor size
+Phase 2: Prior talimogene laherparepvec, other oncolytic virus therapies, or tumor vaccines
+The subject has a primary brain tumor
+Up to two (2) cancerous lesions may be identified in the prostate; each tumor is not more than 10 mm in maximal linear dimension; each tumor should comply with the maximal 7 Gleason score requirement.
+Low grade tumors may or may not be visible by multi-parametric MRI. Thus, in case of MRI-visible tumor, tumor should be in capsular contact of less than 5 mm, on axial images.
+Subjects with distance of the less than 2mm margin between the tumor and the prostate capsule
+Patients must have an adequately functioning bladder as judged by the participating urologist and radiation oncologist and have undergone a re-staging TURBT by the participating urologist that showed (or was present in the outside pathology specimen) a high grade stage Ta or T1 tumor with uninvolved muscularis propria in the specimen and, if on prostatic urethral biopsy mucosal carcinoma is present, there is no evidence on biopsy in the prostatic stroma of tumor invasion
+Evidence of tumor-related hydronephrosis
+Presence of punctate hemorrhage in the tumor.
+Cancer Tumor Size: T4
+Patient must have had their primary tumor treated with surgery and/or radiation
+Histologic confirmation of malignancy (primary or metastatic tumor)
+Urethral tumor (prostatic urethra included).
+Any invasive bladder tumor known to be other than tumor Ta, G1-G2.
+For patients with recurrent tumor, the patient had at least a 6-month cystoscopically-confirmed tumor-free interval between the last tumor recurrence and screening cystoscopic examination.
+Intact primary tumor (for Immune Response Cohort only)
+Primary tumor resected
+At least one measurable tumor accessible for intratumoral injection and EP on investigator’s assessment
+Centrally confirmed T790M mutation positive tumor status from a tumor sample taken after confirmation of disease progression on the most recent anticancer treatment regimen
+Documented survivin-positive tumor status
+Patients who have had repeat craniotomy for tumor therapy after receiving RT and TMZ treatment
+Consent for tumor biopsies and blood draws for research purposes
+Histologic documentation of the original primary tumor.
+Primary brain tumor
+If the primary tumor had at least 50% clear cell histomorphology, a biopsy of the recurrent or persistent tumor is not required; the percentage of clear cell histomorphology must be documented in the pathology report or in an addendum to the original report; if slides of the primary tumor are not available for review due to disposal of slides by the histology laboratory (typically 10 years after diagnosis), biopsy of recurrent or persistent disease is required
+RAS wild-type tumor; Note: evidence of EGFR expression in the tumor is not required
+Low risk for tumor lysis syndrome (TLS)
+Tumor enhancement involving both hemispheres
+Prior surgical therapy other than incisional or excisional biopsy and organ-sparing procedures such as debulking of airway-compromising tumors or neck dissection in a patient with an unknown primary tumor; residual tumor is required for enrollment on study
+Agreement to provide 2 tumor biopsies
+Tumor location or involvement that would result in risk of ventricular penetration during tumor injection
+Tumor involving brain stem
+Participants who have had an incisional biopsy of the primary tumor or the primary tumor excised
+AT THE TIME OF INFUSION: EBV positive tumor
+PD-L1-positive tumor status as determined by an immunohistochemistry (IHC) assay based on PD-L1 expression on tumor infiltrating immune cells and/or tumor cells performed by a central laboratory
+Participants enrolled to the RP2D cohort must have disease that is accessible for tumor biopsies and must agree to pre and on-treatment tumor biopsies
+The cancer can be biopsied (depending on the tumor type and/or the dose of drug received, tumor biopsies may be required)
+Must have an FFPE tumor block with tumor cellularity of 20% or greater. NOTE: Prior to randomization, the tumor cellularity will be confirmed by central pathology review and percent values will be double checked at Paradigm (a Next Generation Sequencing Company).
+Consent to preservation of frozen and fixed samples of tumor cores for evaluation
+Metastatic disease that involves major airways or blood vessels, or centrally located mediastinal tumor masses
+KIT-mutant tumor, including melanoma or gastrointestinal stromal tumor (GIST), for which there is no standard systemic therapy, or
+Patients must have a K-RAS wild-type (WT) tumor
+Cystic component >= 25% the total volume of the tumor
+Subjects must have a target VS with the following qualities:\r\n* Not amenable to surgery due to patient refusal, high risk for surgical complications (e.g., damage to lower cranial nerve function, tumor size > 3 cm in longest diameter, or multilobulated tumor appearance on MRI scan)\r\n* Associated with a word recognition score of < 85% and > 5%\r\n* Documented clinical progression defined as EITHER:\r\n** Progressive hearing loss (defined as a decline in word recognition score below the 95% critical difference interval from baseline score related to VS (i.e., not due to prior interventions such as surgery or radiation) OR\r\n** Progressive tumor growth in the preceding 18 months, defined as >= 20% increase in volume
+Tumor of the patient is p53wt
+Patient must not have transoral robotic surgery (TORS) for a T3 or T4 primary tumor
+Patients must have either (1) a diagnosis of NB as defined by international criteria, i.e., histopathology (confirmed by the Memorial Sloan Kettering Cancer Center [MSKCC] Department of Pathology) or bone marrow (BM) metastases plus high urine catecholamine levels, or (2) a tumor that is GD2-positive\r\n* A non-NB tumor is defined as GD2-positive by immunostaining with monoclonal antibody 3F8 (m3F8); if fresh or frozen tumor is not available for immunostaining, patients will be considered eligible if published reports show that > 50% of that tumor type is GD2-positive by immunohistochemistry; (note: tissues must be fresh/frozen as fixed, paraffin-embedded specimens are unsuitable for anti-GD2 immunostaining); tumors known to be GD2-positive by this criteria do not need immunostaining; these include: melanoma (> 50%), desmoplastic small round cell tumors (70%), osteosarcoma (88%) and soft tissue sarcomas including liposarcoma, fibrosarcoma, malignant fibrous histiocytoma, leiomyosarcoma, and spindle cell sarcoma (93%)
+Tumor assayed for k-ras and other tumor genomic mutations
+Tumor/vertebral body anatomy precluding fiducial placement
+The participant has a primary brain tumor
+Histologic confirmation of prostatic adenocarcinoma by Memorial Sloan Kettering Cancer Center (MSKCC) inclusive of the following:\r\n* 3 or more positive biopsy cores or equivalent tumor specimen as confirmed by pathologist\r\n* At least 2 cores containing >= 3 mm of tissue with carcinoma or equivalent tumor specimen as confirmed by pathologist\r\n* A primary tumor Gleason score >= 7\r\n* Adequate primary biopsy tissue or equivalent tumor specimen as confirmed by pathologist available for protocol required analysis (i.e., bladder or transurethral resection of the prostate [TURP] specimen)
+Evidence of laboratory tumor lysis syndrome (TLS) by Cairo-Bishop definition of tumor lysis syndrome; subjects may be enrolled upon correction of electrolyte abnormalities
+HER2-positive as assessed by local laboratory on primary or metastatic tumor
+Tumor is well visualized through x-ray mammography or ultrasound imaging and amenable to image guidance therapy (a tumor which is well visualized through imaging can be identified from surrounding breast tissue and does not have margins
+Tumor must be well visualized (as defined above) on MRI
+Diagnosis of DIPG by MRI imaging defined as tumor that has a pontine epicenter and is diffuse (tumor that involves the majority [> 50%] of the brainstem) on T2 or fluid-attenuated inversion-recovery (FLAIR) imaging rather than focal; histologic confirmation is not required
+Tumor must not invade the corpus callosum
+Tumor must not invade the brainstem
+Evidence of brainstem/cord/cauda or other neuromuscular or neurosensory malfunction from causes other than effects of local tumor growth or metabolic effects of tumor
+Tumor must express Retinoblastoma (Rb) protein, as defined as any measureable staining by immunohistochemistry
+Tumor foci detected below the tentorium
+Tumor size of at least 5 centimeters
+Unifocal primary tumor based on imaging and clinical assessment; microscopic multifocality is allowed
+Tumor invasion of the skin including dermis, chest wall, or pectoralis musculature
+Confirmed RAS/RAF wild type tumor; paraffin-embedded tumor tissue obtained from the primary tumor or metastasis
+Provides a core needle biopsy consisting of at least 2 separate tumor cores from the primary tumor at screening to the central laboratory.
+Bleeding or thrombotic disorders or subjects at risk for severe hemorrhage. The degree of tumor invasion/infiltration of major blood vessels should be considered because of the potential risk of severe hemorrhage associated with tumor shrinkage/necrosis following lenvatinib therapy
+Diagnosis of primary brain tumor
+Tumor must be accessible for injection and must not be located in the brainstem or deep midbrain
+If there is brain stem invasion by the tumor in the absence of imaging evidence of residual tumor (tumor size < 1 cm^2) and the patient otherwise meets criteria for enrollment on the low-risk arm, the patient will be classified as low-risk
+Amputation of the affected leg as treatment of tumor
+Presence of measurable tumor
+Vessels providing flow to the tumor that are less than 1.5 mm in diameter.
+Subjects must have evidence of recurrent or metastatic carcinoma by one or more of the following:\r\n* The appearance of metastatic disease on chest x-ray or computed tomography (CT) scan\r\n* The appearance of rising tumor marker: AFP or beta-human chorionic gonadotropin (HCG)\r\nNOTE: if a rising tumor marker is the only evidence of progressive disease, at least 2 consecutive rising values at least one week apart are needed; subjects with only evidence of disease as rising tumor marker AFP and beta-HCG will be assessed for alternate causes of increased serum levels of these markers, such as cross reaction with luteinizing hormone (LH) (can be tested if needed by testosterone suppression of LH), hepatitis, use of marijuana, or second primary tumor
+For subjects receiving adjuvant therapy only, subjects must have undergone complete resection of the primary tumor with clean surgical margins, or subjects must have undergone resection of the primary tumor and be scheduled for further treatment of the primary tumor with curative intent. Definitive treatment must be planned to be completed within approximately 9 months of randomization
+FDG avid malignancy\r\n* Patients must have an FDG avid tumor(s)\r\n* FDG avid tumors are defined as a primary tumor with an increased uptake in the region of the tumor that has an SUV of > 5.0 or a tumor:liver SUV ratio of > 1.5
+Prior treatment with panitumumab for subjects with KRAS and NRAS wt tumor
+Prior intolerance to fluoropyrimidine for subjects with KRAS or NRAS mut tumor
+Accessible tumor that can be biopsied at acceptable clinical risk (as judged by the investigator) and must consent to pre-treatment and on-treatment tumor biopsies; tumor biopsy sites need not be distinct from evaluable lesions but must not have been irradiated prior to study entry
+Patients must have at least one tumor accessible for intratumoral injection and EP on investigator's assessment.
+Tumor foci below the tentorium or beyond the cranial vault.
+The cancer can be biopsied (depending on the tumor type and/or the dose of drug received, tumor biopsies may be required)
+Radiation to primary tumor prior to enrollment in this study
+Any treatment for the bladder tumor other than intravesical therapy between the pre-study cystoscopy or radiologic imaging which identified the suspected bladder tumor and the scheduled surgical removal or cystoscopy-guided biopsy of that tumor
+The primary tumor must be in a location amendable to RFA within the kidney
+There are no limitations based on location of the primary tumor within the kidney
+Assessment by the attending thoracic surgeon that the primary tumor is resectable in pts with NSCLC and pleural spread; tumor will be deemed resectable if there is no extension through fascia, no bony chest or vertebral body involvement, and no radiographic evidence of mediastinal involvement
+Location and extension of the tumor precludes an effective I-PDT
+Radiographic evidence of contrast-enhancing tumor crossing midline, leptomeningeal dissemination, gliomatosis cerebri or infratentorial tumor
+Currently receiving any anti-tumor treatments, or less than 14 days prior to enrollment since ending anti-tumor treatment
+Clinical stage I-III invasive breast cancer with the intent to treat with surgical resection of the primary tumor; tumor must be >= 2 cm to provide adequate tissue
+Histologically confirmed diagnosis of glioblastoma (after initial tumor resection or biopsy) with radiographic evidence of recurrent tumor per RANO criteria.
+Patients with a tumor involving a weight-bearing long bone of the lower extremity with the tumor causing > 50% loss of cortical bone
+Evidence of MCPyV TAg tumor expression
+Tumor located in the supra-tentorial region of the brain
+Unicentric tumor
+Patients with =< 10 cc largest tumor volume, and =< 15 cc total tumor volume
+The subject has a primary brain tumor
+Patient must have radiologic demonstration of stable disease or tumor response
+Tumor foci below the tentorium or or beyond the cranial vault
+HER2-positive primary or metastatic tumor as assessed by central laboratory
+Tumor biopsy specimen with ? 50% of MUC1 expressing tumor cells determined by Immunohistochemistry (IHC) staining on fixed pathological material. Biopsy may come either from the primary tumor or from a metastasis. Cytological material is not accepted for this analysis
+Part 2 (surgical) patients only: patients must be undergoing surgery that is clinically indicated as determined by their care providers; patients must be eligible for surgical resection according to the following criteria:\r\n* Expectation that the surgeon is able to resect at least 100 mg of tumor from enhancing tumor and at least 100 mg from non-enhancing tumor with low risk of inducing neurological injury
+Histopathologic confirmation of the following tumor types (please refer to protocol for full details pertaining to eligible tumor types):
+Consent to provide archived tumor specimens
+Patients should have either non-metastatic cancer of the thorax, or metastatic cancer to the thorax and candidate for definitive radiation dose to the thoracic tumor (not palliative intent), tumor radiation dose to at least BED2Gy 60 Gy
+Sarcoma or Wilms tumor diagnosis (Group C) will require evaluation by physician in the St. Jude Solid Tumor Division, other than the referring physician, attesting that autologous stem cell transplant (SCT) provides the prospect of direct benefit for the participant
+HER2-positive tumor (primary tumor or metastatic lesion) as confirmed by central\n             laboratory HER2 testing (immunohistochemistry and/or in-situ hybridization)
+Primary tumor and any positive node(s)measurable in 2 dimensions
+Gastrointestinal stromal tumor (GIST)
+Solitary fibrous tumor
+PEComa (perivascular epithelial cell tumor)
+Myoepithelioma / mixed tumor
+At least one tumor that can be measured
+Uncontrolled tumor in the brain
+NET tumor other than PNET or GI-NET
+Tumor must be glucocorticoid receptor positive TNBC (?10% positive cells by IHC of tumor biopsy)
+Unknown primary tumor.
+Infra-tentorial tumor
+Subjects must provide tumor biopsies before treatment
+Radiation to primary tumor prior to enrollment in this study
+Tumor (primary or metastatic lesion) defined as MET-positive by IHC
+HER2-positive tumor (primary tumor or metastasis)
+Biopsy accessible tumor (may use archived tumor samples under certain circumstances)
+For dose escalation, tumor type that has high biomarker prevalence without molecular confirmation of biomarker status, or any tumor type with molecular confirmation of biomarker status; For MTD cohort expansion, only dedifferentiated liposarcoma will be included.
+Calculated required PV-10 dose ? 15 mL (based on total tumor burden)
+Direct tumor extension into aorta or pulmonary artery
+Neurosurgical patient population in the City of Hope brain and spinal tumor neurosurgical programs that have been diagnosed with a brain tumor
+Patients with any type of brain tumor will be eligible for participation
+i2DOS will be attempted for all quantities, consenting, and brain tumor patients; we anticipate approximately 5 initial patients will need to be imaged before signal to noise parameters are optimized; then 1 patient from the most common operative tumor types (e.g. low grade glioma, glioblastoma multiforme, astrocytoma, invasive meningioma, metastatic breast carcinoma, etc.) will be imaged to ascertain gross intrinsic optical spectroscopically differences that may distinguish these tumors from each other and normal white matter, gray matter, and blood vessels
+There are no exclusion criteria except for individuals without a brain tumor and the location of the craniotomy; if the exposed area of brain is not compatible with peripheral stimuli or volitional activity the subject cannot be enrolled
+HER2-positive as assessed by local laboratory on primary or metastatic tumor
+Patients with stage IV renal cancer\r\n* Patients in the initial cohort receiving CT-011 alone are not required to have tumor resection as a part of protocol participation\r\n* Patients in the second cohort are eligible if they are undergo therapeutic debulking nephrectomy for independent clinical indications OR patients with other sites of accessible disease as defined by peripheral lung nodules approachable by thoracoscopy, malignant effusions, or cutaneous, subcutaneous or superficial lymph node involvement; patients should have an independent diagnostic or therapeutic indication for this purpose; tumor tissue should be at least 1.0 cm in longest dimension to provide an adequate source of tumor cells for vaccine generation
+Tumor that lacks both estrogen and progesterone receptors
+Have at least one BCC tumor (greater than 4mm in diameter) at any skin location, which needs to be biopsied and surgically removed
+Patients must have adequate tumor bulk accessible to biopsy in order to generate the tumor lysate (at least 2 cm diameter); procedures employed to acquire biopsies for tumor lysates will be limited to percutaneous biopsies or open biopsies of readily accessible lesions; patients should not undergo biopsies, which will later compromise the ability to render function preserving local therapy (e.g. limb salvage therapy); to prevent this, all bone biopsies should be performed in consultation with the orthopedic consultant on the case; for patients with bone marrow involvement, bone marrow aspirates may be used as a source of tumor for tumor lysates; patients are not eligible if, in the opinion of the principal and associate investigators, tumor biopsy would entail extensive surgery such as thoracotomy or laparotomy, or if the tumor site places the patient a substantial risk from the biopsy procedure; National Cancer Institute (NCI) laboratory of pathology will review all tumor specimens for diagnosis
+large tumor mass (bulky disease)
+Tumor thickness must be clinically indicated for hyperthermia therapy, as measured by clinical exam or imaging studies (CT or MRI). The target local tumor lesion(s) must be able to be covered within two hyperthermia fields of treatment.
+An MRI must be used throughout the period of protocol treatment for tumor measurement
+Tumor must be accessible for injection and must not be located in the brainstem, midbrain, contained within the ventricular system, or located in an infratentorial location.
+May not receive other investigational anti-tumor agents within 30 days prior to study entry or during active participation in the study (defined as from AdV-tk injection until tumor progression).
+Other tumor histologies\r\n * Patients with tumor histologies not listed above will be considered on a case by case basis; to be eligible for this study, such patients must have an expected probability of survival =< 20% with other therapeutic modalities and must minimal disease criteria as defined in eligibility criteria
+Patient is after surgical resection of the tumor where tumor was removed completely with surgical specimen microscopic margins free from tumor and with available archival tumor tissue from the surgical specimen
+Prior embolization, chemoembolization, or radiofrequency ablation permitted if >= 4 weeks from registration and evidence of new tumor growth is present
+Subjects having had prior ablation therapy on the same tumor
+Tumor thickness is 4 mm or less (in the judgment of the physician)
+Radiologic suspicion of lung involvement (primary or metastatic), lymphangitic carcinomatosis, or airway involvement secondary to tumor infiltration.
+able to provide adequate tumor tissue from at least 1 accessible tumor site
+Uncontrolled tumor in the brain
+Infra-tentorial tumor.
+Any patient with a past medical history for a chronic disease (such as sickle cell disease), cancer (solid tumor, lymphoma, brain tumor) and have a current diagnosis which includes pain for which they are being treated, or currently undergoing bone marrow transplant – currently admitted to the hospital
+Biopsy-proven neuroendocrine tumor with tumor burden dominant in the liver
+Posterior fossa tumor/approach for tumor resection requiring the prone position
+Systemic disease burden with metastatic tumor to the brain
+SUBJECT: Children diagnosed with brain tumor in childhood.
+Extremity or central axis (including craniofacial) primary tumor; localized or metastatic
+Diagnosis of a primary brain tumor treated with at least one of the following:\r\n* Neurosurgical resection of the brain tumor\r\n* Cranial irradiation\r\n* Any chemotherapy to treat the brain tumor
+Patients with stable metastatic disease which is defined as (metastatic tumor demonstrates no increase in volume, tumor size or diameter and no evidence of new lesions, have been identified during last assessment by medical oncologist/radiologist or surgeons)
+In Arm 1, subjects must have residual visible tumor following TURBT. In Arm 2, subjects must be fully resected (i.e., no visible tumor or as little tumor as possible) after restaging TURBT 2-6 weeks prior to Study Day 0.
+Tumor with known or expected RAS/RAF/MEK/ERK pathway involvement. Diagnosis must be one of the following tumor types: Central nervous system gliomas, including high- and low-grade gliomas, and diffuse intrinsic pontine glioma (DIPG) Embryonal rhabdomyosarcoma and other non-rhabdomyosarcoma soft tissue sarcomas Neuroblastoma Melanoma Malignant peripheral nerve sheath tumor Rhabdoid tumors, including atypical teratoid/rhabdoid tumor (ATRT) NF1-associated tumor (including plexiform neurofibroma), schwannoma, or RASopathy-associated tumor that in the judgment of the investigator is life threatening, results in severe symptoms (including severe pain), or is in close proximity to vital structures
+Tumor bed is less than 5 mm from the skin surface
+Patients with skin involvement, regardless of tumor size
+Clinical or radiologic history of lung/pleural involvement (primary or metastatic), lymphangitic carcinomatosis or airway involvement secondary to tumor infiltration
+Patients with =< 10 cc largest tumor volume, and =< 15 cc total tumor volume
+Diagnosed with one or more metastatic brain tumor(s)
+Tumor extends beyond kidney into major veins, perinephric tissues, or adrenal gland
+Has tumor(s) of the lips, sinuses, salivary glands, nasopharynx, glottic larynx, subglottic larynx or unknown primary tumor
+?1 cm of tumor-free lung parenchyma between target tumor and pleura or fissure.
+Tumor of the lips, larynx, hypopharynx, nasopharynx, sinuses, salivary glands or unknown primary tumor
+Tumor involves a weight-bearing long bone of the lower extremity with the tumor causing > 50% loss of cortical bone
+Surgery at the tumor site or surgery involving the cryoablation-treated tumor (index tumor)
+Patients must be eligible for surgical resection according to the following criteria:\r\n* Part 1 Patients: Expectation that the surgeon is able to resect at least 350 mg of tumor from enhancing tumor and at least 350 mg from non-enhancing tumor with low risk of inducing neurological injury\r\n* Part 2 Patients: Expectation that the surgeon is able to resect at least 1000 mg from enhancing tumor and at least 350 mg from non-enhancing tumor with low risk of inducing neurological injury
+Subject's tumor(s) must meet AJCC Tumor Classification: Tis, T1 or T2 (< 3 cm), N0, M0
+Eligible patients in the dose escalation phases of the trial must agree to biopsies of normal skin, unless they undergo optional tumor biopsies; the mandatory biopsy requirement can be waived at the discretion of principal investigator in the event of any medical contraindication (e.g. lidocaine allergy); patients enrolled to the expanded cohorts must agree to tumor sampling; patients on anticoagulation must be able to hold warfarin or low molecular weight heparin for a sufficient amount of time to make skin and tumor biopsies safe to perform; PT/INR and PTT should be =< 1.5 times the institutional upper limit of normal prior to performance of skin or tumor biopsies, with values re-checked after the eligibility screen as medically indicated
+Histologic diagnosis of solid malignancy (excluding brain tumors and lymphoma) that meets at least one of the following criteria:\r\n* Refractory, defined as tumor progression after initiation of standard first line therapy without having achieved a prior partial or complete remission OR biopsy proven residual disease at the completion of planned standard initial front-line therapy\r\n* Recurrent, defined as tumor progression after achieving a prior partial or complete remission\r\n* Newly diagnosed high risk disease, defined as having an expected event free survival of < 50% at 2 years\r\n* Lacks definitive diagnosis or classical genomic findings after histologic review and standard molecular testing (rare tumor group)\r\n** Examples include (eligibility not limited to these examples): \r\n*** Histology typically associated with a fusion in which fusion is not detected \r\n*** Ewing-like sarcoma \r\n*** Undifferentiated sarcoma\r\n*** Inflammatory myofibroblastic tumor without ALK fusion\r\n*** Infantile fibrosarcoma without NTRK fusion
+Pre-operative spirometry that suggests the patient cannot undergo resection of the primary tumor by segmentectomy, lobectomy, bilobectomy, or pneumonectomy
+Children with a diagnosis of a brain tumor and who do not require sedation for MR imaging
+Sufficient archived tumor material available (equivalent to 2 core biopsies or greater); if insufficient archived tumor material available new tumor biopsy is mandatory
+Liver tumor ablation judged to be appropriate based on clinical assessment in the Brigham and Women’s Hospital (BWH) Tumor Ablation Clinic by the tumor ablation interventional radiologist, per standard clinical practice
+(Part 2, intracranial tumor patients ONLY): Radiographical or pathological evidence of an intracranial tumor
+(Part 2, intracranial tumor patients ONLY): Other chemotherapy (besides what is being used to treat the intracranial tumor)
+Patient is a candidate for cerebral tumor resection with lesion suspected to be or previously biopsy proven to be a primary brain tumor.
+Tumor(s) must be located near air cavities
+Two adult patient groups will be eligible for inclusion in this study: \r\n* Group A: Patients where there is compelling evidence, based on the MRI and/or CT imaging, that a high-grade primary brain tumor is present; pathologic confirmation will occur with biopsy or surgery; patients whose tumor is felt to be inoperable and a biopsy is performed but no surgery; patients with a newly diagnosed primary malignant brain tumor (World Health Organization [WHO] grade III or IV) who will be receiving chemoradiation and who either did not undergo surgical resection or underwent incomplete resection with residual tumor >= 1.0 cm in greatest diameter by contrast MRI postoperatively\r\n* Group B: Patients with pathologically proven malignant brain tumor (WHO grade III or IV glial-based tumors) who have undergone chemoradiation and have MRI-documented possible recurrence/progression versus treatment effect (pseudoprogression) within 6 months from the time of completion of chemoradiation
+Subjects with a presumed diagnosis of brain tumor (based on imaging) or a confirmed brain tumor (based on pathology) before or after any oncologic treatment (surgery/chemotherapy/radiation)
+Previous diagnosis of a brain tumor; patients who are either undergoing active treatment for a brain tumor or who have completed treatment will be eligible for study enrollment (Cohort 2)
+No known endobronchial tumor
+Inoperable tumor/nodule
+Metastatic or primary malignant tumor involving spinal column, with or without extension into the epidural space
+Intradural extension of the tumor
+Patients undergoing a tumor resection at the University of Texas M. D. Anderson Cancer Center for a newly diagnosed primary or metastatic brain tumor located in or adjacent to motor brain areas
+Tumor amenable to transcatheter arterial embolization
+Histologically diagnosed or suspected (pediatric only) neuroendocrine tumor or other tumor with probable somatostatin receptors subtype 2
+At least part of the tumor must be visible as observed in a diagnostic or planning CT
+Subject has undergone primary tumor resection prior to arrival at St. Jude
+Tumor judged to be suitable for open cranial resection based on preoperative imaging studies
+GROUPS 1, 2, AND 3: Must be consented for the Oregon Pancreatic Tumor Registry (OPTR)
+History of mental retardation unrelated to brain tumor
+Biopsy proven neuroendocrine tumor, neuroblastoma, medulloblastoma, or other somatostatin receptor positive tumor
+Known or suspected somatostatin receptor positive tumor such as carcinoid; neuroendocrine tumor; neuroblastoma; pheochromocytoma; supporting evidence may include MRI, CT, biochemical markers, and or pathology report
+The tumor will be evaluated by both mammography and ultrasound
+The tumor is visible and enhances on prone MRI
+c-MET overexpression, ? 50% tumor cells with immunohistochemistry Grade 3+
+MAGE-A3/A6 positive tumor
+Subject's tumor has AFP expression of ?2+ in ?40% tumor cells by immunohistochemistry and their non-cancerous liver tissue has ?5% cells stained for AFP by immunohistochemistry.
+Histologically proven: neuroblastoma, rhabdomyosarcoma, osteosarcoma, Ewing's sarcoma/ primitive neuroectodermal tumor, Wilms tumor, desmoplastic small round cell tumor or malignant solid tumors of any other histology that test positive for B7-H3 .
+Must have malignant solid tumors that demonstrate B7-H3 expression at 2+ or greater levels on the membranous surface of at least 10% of tumor cells or ? 25% of tumor vasculature by IHC.
+Known or suspected somatostatin receptor positive tumor such as carcinoid; neuroendocrine tumor; neuroblastoma; medulloblastoma; pheochromocytoma; supporting evidence may include magnetic resonance imaging (MRI), CT, biochemical markers, and/or pathology report
+ERUS tumor state of T1
+1. Patients with bladder cancer in follow-up for tumor recurrence (Note: Patients must be\n             included only at the first surveillance cystoscopy after a histologically confirmed\n             tumor. The histologically confirmed tumor could either be from a TURB or from a\n             surveillance cystoscopy where a biopsy was taken and a tumor was confirmed by\n             histology)\n\n          2. History of one or more of the following:\n\n               -  Multiple tumors\n\n               -  Recurrent tumors\n\n               -  High grade tumor(s)\n\n        Exclusion Criteria:\n\n          1. Gross haematuria. (Note: Gross haematuria is defined as a heavy bladder bleed\n             resulting in significant amounts of blood in the urine, which may visually limit\n             cystoscopy. Where the haematuria is light, the patient should not be excluded, if in\n             the investigator's opinion, rinsing and/or electro-cautery during cystoscopy will\n             alleviate the haematuria limitations to cystoscopy)\n\n          2. Patients who cannot undergo in-office or operating room cystoscopy (Note: Training\n             patients are eligible even if they cannot undergo operating room cystoscopy)\n\n          3. Patients who have received Bacillus Calmette-Guérin (BCG) immunotherapy or\n             intravesical chemotherapy within the past 6 weeks prior to the procedure\n\n          4. Porphyria\n\n          5. Known allergy to hexaminolevulinate hydrochloride or a similar compound\n\n          6. Pregnancy or breast-feeding (all women of child-bearing potential must document a\n             negative urine pregnancy test before study inclusion and use adequate contraception\n             during the study\n\n          7. Participation in other clinical studies with investigational drugs either concurrently\n             or within the last 30 days\n\n          8. Patient is the investigator or any sub investigator, research assistant, pharmacist,\n             study coordinator, other staff or relative thereof directly involved in the conduct of\n             the protocol\n\n          9. Patients that the investigator believes are unlikely to comply with the protocol, e.g.\n             mental condition rendering the patient unable to understand the nature, scope, and\n             possible consequences of participating in the clinical study, uncooperative attitude\n             or unlikelihood of completing the study
+Patient with rapidly evolving brain tumor that could change in appearance between the time of the two study MRI examinations.
+Fresh frozen tumor, and/or paraffin block of biopsy or resected tumor is recommended, but not required to determine expression of somatostatin receptors in tumor by immunohistochemistry and/or quantitative polymerase chain reaction (qPCR)
+Tumor sample shipped to Agendia with ? 30% tumor cells or that fails Quality Assurance or Quality Control criteria.
+Patients with a new or recurrent, presumed or documented, diagnosis of primary or secondary brain tumor in or adjacent to eloquent brain areas (motor, supplementary motor area [SMA] and language) who are scheduled to undergo tumor resection
+Patients with no previous therapy other than biopsy or surgical resection of the primary tumor; patients can have received pre-operative radiation to the primary tumor site, but cannot have received radiation directly to, or in close approximation of, the lymph node basin
+Invasive malignant solid tumor of thoracic origin (e.g., lung, esophageal, thymus, mesothelioma, chest wall, mediastinum, trachea, pleura) with the intent to treat or biopsy by surgery as standard of care. Tumor must be >= 2 cm
+Tumor judged to be suitable for open cranial resection based on preoperative imaging studies
+Newly diagnosed breast tumor, female genital system tumor, colorectal tumor, and/or lymphoma/myeloma
+Tumor invades a major blood vessel
+Tumor treated with PDT within the last 3 months
+Gastrointestinal stromal tumor (GIST).
+A tumor with direct extension to the chest wall and/or to the skin.
+Solid Tumor analyzed by Caris Molecular Intelligence™ Service Profile(s) and/or Caris\n             Next-Generation Sequencing
+Subjects with tumor that directly contacts or encases a major blood vessel AND there is ulceration and/or fungation onto the skin surface
+Subject must consent to pretreatment and on treatment tumor biopsies
+Other chemotherapy or anti-tumor treatment for brain tumor (other than therapies required by the inclusion criteria of this protocol)
+DLL3-expressing SCLC based on central immunohistochemistry (IHC) assessment. Positive is defined as staining in ?75% of tumor cells.

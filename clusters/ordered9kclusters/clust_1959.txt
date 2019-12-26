@@ -1,0 +1,29 @@
+Patients should have body Temperature <= 38.0 degrees C.
+Any infection requiring parenteral antibiotic therapy or causing fever (temperature > 100.5 degrees Fahrenheit [F] or 38.1 degrees Celsius [C]) within 1 week prior to registration
+Active infection requiring treatment or an unexplained febrile (> 101.5 degrees Fahrenheit [F]) illness
+Patients with an active infection requiring intravenous treatment or having an unexplained febrile illness (time to maximum concentration [Tmax] > 99.5 degrees Fahrenheit [F], 37.5 degrees Celsius [C])
+Patients with an active infection requiring treatment or having an unexplained febrile illness
+Febrile patients
+Patients with an active infection requiring intravenous treatment or having an unexplained febrile illness (maximum temperature [Tmax] > 99.5 degrees Fahrenheit [F])
+Patients with severe, active co-morbidity, defined as follow:\r\n* Patients with an active infection requiring intravenous treatment or having an unexplained febrile illness (maximum temperature [Tmax] > 99.5 degrees Fahrenheit [F]/37.5 degrees Celsius [C])\r\n* Patients with known immunosuppressive disease or known human immunodeficiency virus infection\r\n* Patients with unstable or severe intercurrent medical conditions such as severe heart disease (New York Heart Association class 3 or 4)\r\n* Patients with known lung (forced expiratory volume in 1 second [FEV1] < 50%) disease or uncontrolled diabetes mellitus\r\n* Patients with albumin allergy\r\n* Patients with gadolinium allergy
+Active infection requiring intravenous antibiotics or an unexplained febrile (> 101.5 degrees Fahrenheit [F]) illness
+Active infection requiring treatment or an unexplained febrile (> 101.5 degrees Fahrenheit [F]) illness
+Active infection requiring treatment or an unexplained febrile (> 101.5 degrees Fahrenheit [F]) illness
+Unexplained febrile illness
+Patients with core body temperature > 37 degrees Celsius (C) at completion of cytoreductive surgery and prior to HIPEC
+Any infection requiring parenteral antibiotic therapy or causing fever (temperature > 100.5 degrees Fahrenheit [F] or 38.1 degrees Celsius [C]) within 1 week prior to registration
+Patients with an active infection or with a fever >= 101.3 degrees Fahrenheit (F) within 3 days of the first scheduled day of protocol treatment
+Active infection requiring systemic antibiotic therapy or causing fever (temp > 100.5 degrees Fahrenheit [F] or 38.1 degrees Celsius [C]) within 1 week prior to dosing with AZD1775
+Patient has active infection at time of study entry that require systemic antibiotics and/or with an oral temperature of >= 38.3 degrees C (100.9 degrees Fahrenheit [F]) within 5 days of first treatment
+Documented infections or known oral temperature > 38.2 degrees Celsius (C) fewer than 72 hours prior to receiving study treatment or systemic infection requiring chronic maintenance; the start of treatment may be delayed
+Unexplained febrile illness
+Active infection or unexplained fever > 38.5 degrees Celsius (C) (> 101.3 degrees Fahrenheit [F]) within 2 weeks prior to enrollment
+Participant has an active infection or unexplained fever > 38.5 degrees Celsius (C) (101.3 degrees Fahrenheit [F])
+Patients with an active infection requiring treatment or an unexplained febrile (> 101.5 degrees Fahrenheit [F]) illness
+Temperature =< 38° Celsius (C) (=< 100.4° Fahrenheit [F])
+Temperature =< 38 Celsius (C) (=< 100.4 Fahrenheit [F])
+Normal body temperature (=< 100 degrees F)
+Acute febrile illness
+Fever of > 101 degrees Fahrenheit (F) or blood pressure (BP) > 180/95
+Patients with ongoing febrile illness or documented infectious disease
+Evidence of uncontrolled infection (oral/oropharyngeal or systemic), including oral herpes or unexplained febrile illness (? 99.5F /37.5C) requiring systemic anti-infectives, within 7d of treatment Day 1.

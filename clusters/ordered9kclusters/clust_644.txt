@@ -1,0 +1,95 @@
+Prior sorafenib use > 60 days and/or grade 3 or 4 sorafenib related toxicity; note that prior chemotherapy for HCC or a different cancer is allowable
+One prior line of therapy which must include sorafenib or participant must have progressed or been intolerant to sorafenib for participants not eligible for transarterial chemoembolization. Participants who had sorafenib for locally advanced disease or are intolerant to sorafenib are eligible. Participants may have had clinical progression only following sorafenib or local therapy.
+Presence of at least one measurable lesion according to RECIST v1.1. c-i) FGF401 single agent-Phase I and Phase II, Group 3: Patients with HCC or advanced solid tumors, who have progressed despite standard therapy or are intolerant of standard therapy, or for whom no standard therapy exists. c-ii) FGF401 single agent-Phase II, Groups 1 and 2: HCC patients previously treated with sorafenib for advanced HCC with documented disease progression during or after discontinuation of sorafenib treatment, or intolerance to sorafenib treatment c-iii) FGF401 in combination with PDR001:Advanced HCC patients who have received up to 2 previous lines of systemic treatment and one treatment must have included sorafenib with documented disease progression during or after discontinuation of sorafenib treatment, or intolerance to sorafenib treatment
+Previous treatment with vemurafenib or any other BRAF inhibitor (prior sorafenib is allowed)
+Previous BRAF inhibitor use such as vemurafenib, GSK2118436 or sorafenib
+For patients that have refused treatment with sorafenib, the benefits of sorafenib have been discussed in detail with the patient.
+Immunotherapy-naive and have either progressed on, are intolerant to, or refused treatment with sorafenib. Subjects who receive treatment with systemic therapies other than sorafenib are not eligible.
+Prior treatment with a BRAF inhibitor such as vemurafenib or dabrafenib (previous treatment with sorafenib is allowed)
+Patients must be off sorafenib for at least four days prior to TACE treatment
+Participants who have received prior sorafenib or anti-PD1 therapy for HCC
+Inability to tolerate first-line treatment with sorafenib (e.g., unacceptable toxicity), tumor progression on sorafenib, patient preference to stop sorafenib and for alternative therapy/trial, or patient preference to forgo sorafenib for alternative therapy/trial
+Patients who have received sorafenib or other systemic therapies for treatment of HCC in the past
+Have documented objective radiographic progression after stopping treatment with sorafenib or else intolerance to sorafenib; intolerance to sorafenib is defined as: Common Terminology Criteria for Adverse Events (CTCAE) grade >= 2 drug-related adverse event(s) which both a) persisted in spite of comprehensive supportive therapy according to institutional standards and b) persisted or recurred after sorafenib treatment interruption of at least 7 days and dose reduction by one dose level; patients treated on sorafenib as the last treatment may start pembrolizumab at least 14 days after the last dose of sorafenib
+Had prior systemic therapy for HCC other than sorafenib, or intercurrent local therapy to the liver tumor between sorafenib and study drug
+Has received sorafenib within 14 days of first dose of study medication
+Documented progression or intolerance to sorafenib as demonstrated by:\r\n* Radiographic (by modified [m]RECIST) or symptomatic progression on/after sorafenib\r\n* Intolerance to sorafenib consisting of Common Terminology Criteria for Adverse Events (CTCAE) grade 2 or greater during drug-related adverse event which persisted in spite of comprehensive supportive therapy according to institutional standards AND persisted or recurred after sorafenib treatment interruption of at least 7 days and dose reduction by one dose level (to 400 mg once daily)
+Patients may receive concurrent capecitabine or sorafenib at the discretion of the treating physicians
+Known or presumed intolerance of pemetrexed or sorafenib
+If sorafenib was previously administered, intolerance to sorafenib
+Patients who have received sorafenib or other systemic therapies for treatment of HCC in the past
+Prior 90Y TARE or sorafenib is not allowed
+Known or suspected allergy or hypersensitivity to sorafenib
+Inability to tolerate first-line treatment with sorafenib (e.g., unacceptable toxicity), tumor progression on sorafenib, patient preference to stop sorafenib and for alternative therapy/trial, or patient preference to forgo sorafenib for alternative therapy/trial\r\n* Note:\r\n** Unacceptable toxicities due to sorafenib include, but are not limited to, the following drug-induced adverse events including: hepatitis, skin rash (grade 3 or higher), hypertension (grade 3 or higher), hand-foot skin reaction (grade 3 or higher), QT prolongation (grade 3 or higher), and/or diarrhea (grade 3 or higher)\r\n** Patient preference to stop sorafenib for alternative therapy/trial will include the following indications: the aforementioned adverse events at lesser grades for which the patient is unwilling to continue therapy, as well as situations in which the patient deems the side effects to be intolerable with their quality of life; examples include, but are not limited to, intolerable nausea, vomiting, abdominal pain, fatigue, loss of appetite, and weight loss\r\n** Patient preference to forgo sorafenib for alternative therapy/trial is based upon the patients' right for autonomy; this allows them to refuse or choose their treatment; the practitioner will always act in the best interest of the patient and recommend that the patient start with known life-prolonging therapies before enrolling in a clinical trial of an investigational agent that has not been determined to be safe and effective in patients with liver cancer
+Sorafenib\r\n* Creatinine (Crt) < 1.5 X ULN
+History of hypersensitivity to sorafenib for vemurafenib/sorafenib arm
+Patients must have received prior systemic sorafenib treatment for HCC with documented progression during or after discontinuation of sorafenib treatment (for France only: patients must have received at least 8 weeks of prior sorafenib treatment), or are intolerant to sorafenib (defined as documented Grade 3 or 4 adverse events that led to sorafenib discontinuation),.
+Patient is receiving sorafenib (Nexavar) as a monotherapy in their originating protocol. Patients who were being treated with sorafenib (Nexavar) in combination with other chemotherapies in the original study, but continued on single agent sorafenib (Nexavar) after discontinuation of the combination agent will be eligible.
+Patients who are receiving concurrent combination with sorafenib (Nexavar) and capecitabine in their originating Study 12444 (RESILIENCE) will be eligible.
+Expansion cohort (HCC): histologically or cytologically confirmed diagnosis of hepatocellular carcinoma who are Child-Pugh class A and who were previously treated with sorafenib or refused sorafenib
+Hepatocellular carcinoma cohort specific criteria:\r\n* Patients must have a histologically proven diagnosis of hepatocellular carcinoma that is not amenable to curative surgical therapeutic options\r\n* Patients must not be good candidates for locoregional therapy as determined by the investigator (ie diffuse multifocal disease, vascular involvement, etc)\r\n* Patients must have had evidence of radiologic progression on sorafenib or have had intolerance to sorafenib as defined by the recurrence of clinically significant toxicities despite a minimum of one dose reduction and appropriate supportive care; patients who refuse sorafenib are eligible with documentation of refusal by the treating physician\r\n* Patients may have received other treatment for HCC such as embolization, chemoembolization, intra-arterial chemotherapy, ethanol injection, ablative therapy, cryosurgery, or other locoregional or targeted therapy\r\n* Patients must have a Child Pugh score of 7 points or less \r\n* International normalized ratio (INR) =< 2.3 or prothrombin time =< 6 seconds above control\r\n* Patients with hepatitis B infection must be on appropriate anti-viral therapy
+Systemic therapy with sorafenib or other systemic chemotherapeutic agent(s) less than 1 week prior to first planned DEB-TACE
+No prior systemic cytotoxic chemotherapy or targeted therapy (including sorafenib) for HCC
+Pretransplant treatment with sorafenib tosylate (sorafenib) not > 12 months (not exceeding 12 months of treatment, total)
+Prior use of any systemic chemotherapy for HCC, with the exception of sorafenib
+Has documented objective radiographic progression during or after treatment with sorafenib or intolerance to sorafenib.
+Has received sorafenib within 14 days of first dose of study drug.
+Has had prior systemic therapy for HCC in the advanced (incurable) setting other than sorafenib, prior to the start of study drug.
+Must have progressed on, refused, or were intolerant of sorafenib.
+Received prior sorafenib.
+Subject must have received sorafenib treatment and either:
+have had documented radiographic or symptomatic progression during or after sorafenib therapy; OR
+be intolerant of sorafenib (defined as Grade 2 drug-related adverse event which 1) persisted in spite of comprehensive supportive therapy according to institutional standards AND 2) persisted or recurred after sorafenib treatment interruption of at least 7 days and dose reduction by one dose level (to 400 mg once daily) AND/OR Grade 3 drug-related adverse event which 1) persisted in spite of comprehensive supportive therapy according to institutional standards OR 2) persisted or recurred after sorafenib treatment interruption of at least 7 days and dose reduction by one dose level (to 400 mg once daily); OR must have documented refusal of sorafenib;
+Prior treatment with sorafenib or tivozanib.
+Eligible to receive standard-of-care sorafenib
+Prior systemic treatment for the treatment of HCC, including sorafenib
+For Cohort 1: has documented objective radiographic progression after stopping treatment with sorafenib or else intolerance to sorafenib
+For Cohort 1: has received sorafenib within 14 days of first dose of study drug
+For Cohort 1: had prior systemic therapy for HCC other than sorafenib, or intercurrent local therapy to the liver tumor between sorafenib and study drug
+Known intolerance to lenvatinib or sorafenib (or any of the excipients)
+Has histopathologically or cytologically confirmed HCC, Child-Pugh Class A, with documented disease progression during or after discontinuation of sorafenib therapy, or intolerance of sorafenib therapy, and an ?-fetoprotein (AFP) ? 1.5x upper limit of normal
+For patients in the sorafenib tosylate (sorafenib) cohort, no prior therapy with sorafenib is allowed and at least 1 line of prior therapy is required including prior: VEGF-targeting therapy (such as sunitinib, axitinib, tivozanib, bevacizumab), mTOR-targeting therapy (such as everolimus, temsirolimus), immunotherapy (such as anti-PD-1 or anti-PD-L1), cytokine therapy (such as interleukin-2, interferon-alpha [IFN-a]) or cytotoxic systemic chemotherapy allowed
+Patients who have had prior anti-angiogenic therapy, including but not limited to sorafenib, brivanib, bevacizumab, or sunitinib; prior treatment with liver directed, ablative or surgical therapies will be permitted as long as there is documented progression justifying the need for starting sorafenib therapy
+Patients with prior or current treatment of sorafenib are excluded
+Histologically proven advanced MPM, advanced peritoneal mesothelioma (for dose escalation cohort only) or non-squamous NSCLC (stage IIIB/IV) who have not been treated with prior chemotherapy or immunotherapy, except that NSCLC subjects with EGFR mutant or ALK positive must have had an EGFR tyrosine kinase inhibitor (TKI) or ALK inhibitor and progressed or been shown to be intolerant of therapy prior to enrolling in this trial, if such ALK inhibitor and EGFR targeted therapy are approved and available in the country in which patients are being enrolled OR Histologically proven metastatic uveal melanoma who have not been treated with prior chemotherapy (MTD cohort only), OR Histologically proven HCC who have failed (PD and/or side effects-been intolerant of) treatment with sorafenib. Failure is defined as having progressed radiographically on, or been intolerant to prior systemic therapy. Intolerance is defined as discontinuation due to an AE(s) on prior systemic therapy that was unacceptable to the treating physician and / or patient, with or without dose interruption and modification. Failure requires at least 14 days of treatment with sorafenib, except for a subject that has had a severe allergic reaction to sorafenib at any time, even less than 14 days of treatment with sorafenib and thus it would be imprudent to re-challenge them with that agent. Cirrhotic status of Child-Pugh grade A-B7 must be present. Child-Pugh status should be determined based on clinical findings and laboratory data during the screening period (Appendix E). Subjects on anti-coagulants are to receive 1 point for their INR status, as they are presumed to have a <1.7 baseline PT/INR.\, OR Histologically proven high-grade glioma who have failed (PD and/or side effects) treatment with radiotherapy ± temozolomide, OR Sarcomatoid cancer of any line.
+Prior systemic therapy for the treatment of HCC, including sorafenib
+Prior use of sorafenib
+Prior treatment with sorafenib as single agent or in combination, with no less than 200 mg once every other day dose of sorafenib, with radiologic evidence of progression of disease
+The patient has received any investigational agents within 4 weeks prior to their first dose of sorafenib
+Failure to prior treatment with sorafenib (defined as documented radiological progression according to the radiology charter). Randomization needs to be performed within 10 weeks after the last treatment with sorafenib.
+Tolerability of prior treatment with sorafenib defined as not less than 20 days at a minimum daily dose of 400 mg QD within the last 28 days prior to withdrawal.
+Sorafenib treatment within 2 weeks of randomization.
+Prior systemic treatment for HCC, except sorafenib.
+Permanent discontinuation of prior sorafenib therapy due to sorafenib related toxicity.
+Intolerance of prior treatment with bevacizumab, pazopanib, sorafenib, or sunitinib; Note: subjects who required a dose reduction of pazopanib, sorafenib, or sunitinib during prior therapy MAY be eligible if they tolerated the agent after dose level reduction (to a minimum of dose level -2 as defined in this protocol)
+Patients may have received any prior therapy deemed necessary for induction of remission except for patients whom have progressed while on sorafenib; patients who have responded to sorafenib previously are eligible for enrollment on the protocol
+For Parts A & B: Have received sorafenib and have progressed or were intolerant to sorafenib or are ineligible for sorafenib treatment. For Part C: not received previous systemic treatment. For Part D: have received sorafenib and have progressed or were intolerant to sorafenib or are ineligible for sorafenib treatment or have not received prior systemic treatment.
+For Parts A, B, and D: have discontinued sorafenib for at least 2 weeks
+SORAFENIB ARM: platelets >= 75,000/mL
+SORAFENIB ARM: history of hypersensitivity to sorafenib or any component of the formulation
+Prior sorafenib is allowed as long as toxicity from ongoing is =< grade 2 and prior intolerance of 400 mg sorafenib PO daily is felt amenable, by the principal investigator, to supportive care measures or dose modifications
+Documented progression on or after treatment with sorafenib, confirmed by the Investigator upon review of appropriate imaging documentation
+Mandatory tumor biopsy at study entry (pre-randomization, unless already collected after sorafenib progression but within 3 months of enrollment and no systemic anticancer therapies received)
+Prior systemic treatment for advanced liver cancer other than sorafenib-including therapy
+Previous treatment with sorafenib for more than 4 weeks during the previous 2 months; prior sorafenib-related toxicity
+For Part 1 and 2, the patient has unresectable disease and has been previously treated with sorafenib, has declined treatment with sorafenib, or does not have access to sorafenib.
+Previously treated with sorafenib for greater than or equal to 4 weeks and discontinued sorafenib treatment at least 14 days prior to Day 1 due to either intolerance or radiographic progression
+Prior systemic anticancer treatment for advanced HCC (except for sorafenib as described in the inclusion criteria)
+Patients who have received prior treatment with sorafenib are eligible, as long as the sorafenib was not given in combination with cyclosphosphamide and/or topotecan. Patients with tumor relapse/progression while on sorafinib or having dose modifications or experiencing toxicity that required sorafenib to be discontinued are also ineligible to participate in this study.
+Patients must be candidates for sorafenib
+Previous treatment with sorafenib
+Patients with known hypersensitivity to sorafenib or any other component of sorafenib.
+Prior use of sorafenib
+Contraindications to sorafenib
+Known or suspected allergy or hypersensitivity to any component of TH-302, sorafenib, or any of the sorafenib excipients
+Radioembolization within 8 weeks of day 1 dosing of sorafenib
+PHASE I: Prior systemic therapy with sorafenib is allowed
+PHASE II: Prior systemic therapy with sorafenib is allowed
+Subjects must receive 1st dose of sorafenib 5-7 days prior to administration of SRS
+Previously received mapatumumab or sorafenib.
+Participants who have relapsed while on sorafenib therapy
+Patients receiving sorafenib at the time of enrollment and those who are scheduled to receive sorafenib as part of a treatment plan are ineligible
+No prior line of systemic therapy (includes participants who are sorafenib-naïve)
+For patients who will receive enzalutamide monotherapy, failure or intolerance of prior sorafenib is required for enrollment; for patients who will receive combination therapy, prior sorafenib is excluded
+Sorafenib was the only systemic therapy for HCC and was discontinued for disease progression or intolerance (Main Global and ME2 Cohorts only).
+The participant received one prior systemic therapy regimen, excluding prior sorafenib, for the treatment of HCC (OLE Cohort only).

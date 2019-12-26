@@ -1,0 +1,34 @@
+Platelet count >= 100,000/ul
+729.0
+Platelet count > 75,000/uL
+253.0
+Platelet count >= 100,000/uL
+100.0
+Platelet count >= 100,000/uL
+74.0
+Platelet count >= 100,000/uL (transfusion independent)
+275.0
+Platelet count >= 75,000/uL (transfusion independent)
+74.0
+CD4 count >= 50 cells/ul
+70.0
+Platelet count >= 100,000/uL; Note: no transfusions are permitted 7 days prior to laboratory studies to determine eligibility
+340.0
+Platelet count >= 100,000/uL, obtained within 4 weeks prior to randomization
+300.0
+Platelet count >= 100,000/uL
+400.0
+Platelets >= 75,000 cells /uL (unsupported, defined as no platelet transfusion within 7 days)
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Platelets >= 75,000 cells/uL (unsupported, defined as no platelet transfusion within 7 days)
+110.0
+Platelet count >= 50,000/uL
+44.0
+Absolute CD4 count > 200 cells/uL
+46.0
+Platelet count >= 75,000/uL
+337.0
+CD4+ T-cell count >= 100 cells/uL
+60.0
+Platelet count >= 100,000/uL (transfusion independent)
+45.0

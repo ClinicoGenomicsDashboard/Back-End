@@ -1,0 +1,6 @@
+Cluster 720: transplant organ solid allogeneic stem cell tissue prior marrow bone 
+Cluster 754: transplantation stem organ allogeneic cell solid prior including history transplant 
+Cluster 1133: transplant organ solid prior marrow bone history hematologic requiring immunosuppressive 
+Cluster 1357: allogenic transplant stem autologous organ cell solid history prior bone 
+Cluster 1477: allogeneic transplant marrow bone prior received previous organ history stem 
+Cluster 1755: progenitor transplantation organ solid marrow bone allogeneic cell history prior 

@@ -1,0 +1,59 @@
+Post-prostatectomy patients with a detectable serum PSA (>= 0.1, but =< 1.0 ng/mL) at study entry (within 90 days of Step 1 registration) and at least one of the following:\r\n* Gleason score 7-10 (International Society of Urological Pathology [ISUP] grade group 2 to 5)\r\n* ISUP grade group:\r\n** Grade group 1?=?Gleason score?=<?6, \r\n** Grade group 2?=?Gleason score 3?+?4?=?7,\r\n** Grade group 3?=?Gleason score 4?+?3?=?7, \r\n** Grade group 4?=?Gleason score 8, \r\n** Grade group 5?=?Gleason scores 9 and 10\r\n* >= T3a disease\r\n* Persistent elevation of PSA after prostatectomy measured within 90 days after surgery (PSA never became undetectable) of > 0.04 but < 0.2 ng/mL (PSA nadir)
+Histological evaluation of prostate biopsy with assignment of a Gleason score to the biopsy material;Gleason score must be in the range of 2-6. > 6 cores are strongly recommended.
+Gleason score, obtained at biopsy, =< 6, 3 + 4 = 7, or 4 + 3 = 7
+Gleason Score ? 7; and 2 or less positive lesions on prior MR US fusion guided prostate biopsy.
+Gleason score =< 6 (neither architectural pattern =< 3)
+Histological evaluation of prostate biopsy with assignment of a Gleason score to the biopsy material; Gleason score must be in the range of 2-7. > 6 cores are strongly recommended.
+Cohort A (M0)\r\n* Clinically localized disease with a minimum of 3 or more cores involved with cancer on diagnostic biopsy (if T3 by magnetic resonance imaging [MRI] can have < 3 positive cores), or < 3 positive cores if there is > 1 cm tumor on prostate MRI:\r\n** With Gleason score 8 – 10 Or\r\n** Gleason 4+3 with one of the following features:\r\n*** PSA >= 20 ng/mL within 2 months prior to diagnostic biopsy\r\n*** MRI suspicious for radiographic T3 disease; defined as > 75% probability of extracapsular extension or seminal vesicle invasion in the opinion of the reading radiologist Or\r\n** Gleason 3+4 or 4+3 and Oncotype DX genomic prostate score of > 40\r\n* With or without clinical N1 (size > 1.5cm in the short axis) OR
+Patients with concomitant Gleason score 3+3 prostate cancer in less than 50% of any core at any site will be considered eligible.
+Initial prostate biopsy is available for central pathologic review, and is confirmed to show at least 2 positive cores and a Gleason sum of >= 7
+Prostate biopsy with Gleason score and TNM staging within 180 days prior to registration
+For confirmation of high risk local failure status, patients will have any one of the following:\r\n* Computed tomography (CT) or magnetic resonance imaging (MRI) demonstrating seminal vesicle invasion (SVI) or extraprostatic extension (EPE) within 1 year of enrollment into the study\r\n* Pre-biopsy prostate-specific antigen (PSA) >= 20\r\n* Gleason score 7-10 (Gleason 7 must be 4+3), presence of any Gleason 5 (even if a tertiary score) as determined at diagnostic biopsy\r\n* Gleason score 7 and > 50% of biopsy cores positive for prostate cancer\r\n* Clinical stage >= T3 (staging by imaging acceptable)
+Cohort B – Prostate cancer (Gleason 7 or less); must have histological proof of Gleason =< 7 with no evidence of metastatic disease (patient with any degree of extra-prostatic capsule extension are not eligible
+Biopsy positive for adenocarcinoma of the prostate containing any quantity of Gleason 3 component (e.g. Gleason score 3+3, 3+4, 4+3)
+Gleason score =< 7, no tertiary pattern >= 5
+Gleason score 6-10
+Patient must have a histological evaluation of the prostate biopsy with assignment of a Gleason score to the biopsy material; Gleason scores =< 7 (3+4)
+Histological evaluation of prostate biopsy with assignment of a Gleason score to the biopsy material demonstrating Gleason score 2-7 within 365 days of registration
+Histological evaluation of prostate biopsy with assignment of a Gleason score to the biopsy material; Gleason score must be in the range of 2-6; (the highest Gleason score in any core reported on the pathology report will be used for determining inclusion)
+Gleason score 8 or higher
+Gleason score of 3+4 or lower
+Gleason (4+3) or higher score
+Subjects with untreated organ confined prostate cancer (clinical stage =< T2b, Gleason =< 3 + 4 with no more than a 50% component of Gleason 4)
+Any significant cancer outside of MRI target (ROI) area, defined as Gleason score >= 3 + 4
+Any Gleason score > 3 + 4 or Gleason score 3 + 4 with the secondary pattern exceeding 50%
+Gleason score 6 (3+3) and
+Gleason score ? 3 + 4
+Gleason 8 or higher score
+Gleason score 7;
+Gleason score > 7
+Gleason score 6 or 7 (no 5 grades), based on TRUS guided Transperineal Mapping Biopsy, as defined in the protocol.
+The Gleason score should be less than or equal to 7
+Gleason score sum of less than or equal to 7
+For men =< 70 years, biopsy Gleason score =< 6; for men > 70 years, biopsy Gleason score =< (3 + 4) = 7
+Gleason score on diagnostic biopsy specimens of >= 6
+Primary diagnosis of untreated with clinically localized prostate cancer with Gleason score of 6, 7,8 or 9
+Gleason score equal to or less than 7
+Has no Gleason grade 4 or 5,
+Gleason score of 6 - 10
+Localized prostate cancer with Gleason score >= 8
+As per medical record, early stage prostate cancer (pathologic stage 1-2 with Gleason score =< 8; or pathologic stage 3 with Gleason score =< 7)
+>= 10 core prostate biopsy completed prior to randomization with at least 2 mm of tumor and Gleason sum =< 6 with no pattern 4 or Gleason 3+4 in < 34% of all cores; AND residual tumor tissue from such biopsy is obtainable and donated for the research
+Gleason grade 3+4 or less
+Biopsies performed at outside institutions should have Gleason score confirmed at the study site by a genitourinary (GU) pathologist to ensure eligibility
+Gleason score 7 (4 + 3 or 3 + 4), based on mapping prostate biopsy, with no more than 15mm cancer in maximal linear dimension in any single core.
+Single hemilateral index Gleason 7 lesion, identified in the prostate based on biopsy mapping with supporting MRI; may have secondary Gleason 6 lesion on ipsilateral or contralateral side confirmed with biopsy and/or MRI.
+Gleason 7 tumors must be MRI visible:
+Patient is at low risk for metastasis with Gleason score at diagnosis < 8.
+Gleason score of >= 8 (4+4)
+Greater than 4 cores positive, of any Gleason score, on the University of Miami (UM) review
+Greater than 2 cores positive for Gleason 3+4 cancer
+Gleason 4+3 or higher cancer in any single biopsy core
+Gleason =< 3+3
+No tertiary Gleason grade >= 4
+PRE-ENROLLMENT BIOPSY PARAMETERS: Gleason 6 (3+3) or 7 (3+4)
+FINAL ENROLLMENT BIOPSY PARAMETERS: Gleason 6 (3+3) or 7 (3+4)
+Gleason score =< 6
+Histologically confirmed adenocarcinoma of the prostate gland by needle core samples with assigned Gleason score
+Gleason score (GS): 8-10
+Gleason score (GS) 4+3=7

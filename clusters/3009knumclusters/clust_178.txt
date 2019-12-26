@@ -1,0 +1,518 @@
+Patients must have a Lansky or Karnofsky performance status score of >= 50, corresponding to Eastern Cooperative Oncology Group (ECOG) categories 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 60 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age \r\n* Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age \r\n* Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Adequate performance status: children < 10-Lansky score >= 30; children >= 10-Karnofsky >= 30 (except for posterior fossa syndrome)
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; NOTE: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+ECOG performance score 0-3
+Lansky performance status score >= 70 for patients =< 16 years of age
+Karnofsky performance status score >= 70 for patients > 16 years of age
+Lansky performance status score >= 50 for patients =< 16 years of age; Karnofsky performance status score >= 50 for patients > 16 years of age
+Patients must have a Lansky or Karnofsky performance status score of >= 50, corresponding to Eastern Cooperative Oncology Group (ECOG) categories 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age\r\n* Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: Neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age\r\n* Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Lansky or Karnofsky Score must be ? 50
+Lansky performance status >= 50
+Karnofsky scores < 60 or Lansky score < 50
+Performance status\r\n* Phase I: Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within one week of enrollment must be >= 50\r\n* Surgical study: Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within one week of enrollment must be >= 60\r\n* Patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patients with an Eastern Cooperative Oncology Group (ECOG) score of =< 2 or Karnofsky score of >= 50
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50% for patients =< 16 years of age; Note: Neurologic deficits in patients with metastatic CNS tumors must have been relatively stable for a minimum of 1 week prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patients must have a Lansky (?16 years) or Karnofsky (> 16 years) score of at least 50
+Karnofsky/Lansky performance score ? 60
+Have a Lansky score ? 40 for subjects up to 16 years of age or a Karnofsky score ? 40 for subjects 16 years of age to < 18 years
+Lansky (for research participants =< 16 years) or Karnofsky (for research participants > 16 years) performance score >= 40 at the time of study enrollment
+Karnofsky >= 50% for subjects > 16 years of age and Lansky >= 50 for subjects =< 16 years of age; Note: subjects who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Nottingham score of 3 (specially nuclear and mitotic score>2)
+Patients must be ambulatory and have an ECOG Performance Score of 0 or 1;
+TREATMENT: Patients with a Karnofsky/Lansky score of >= 50%
+IPSS score <= 16.
+Lansky >= 50 for patients =< 10 years of age or as per institutional guidelines; Note: Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky score of > 60%
+Patients with a Karnofsky score of >= 50
+Karnofsky score > 70 %.
+Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Subjects must have a Karnofsky score (KPS) of ? 60 at Screening.
+Participants =< 12-15 years Lansky 100-70%
+Performance status Lansky (age < 16) or Karnofsky score (age >= 16) >= 80%
+Performance status: Lansky >= 50 for patients who are =< 16 years old and Karnofsky >= 50% for patients who are > 16 years old
+Karnofsky performance score >= 70
+Patients with an Eastern Cooperative Oncology Group (ECOG) score of ? 2 or Karnofsky score of ? 50
+INCLUSION - TREATMENT: Karnofsky or Lansky score of > 60%
+Patients must have a Lansky or Karnofsky performance status score of >= 50, corresponding to Eastern Cooperative Oncology Group (ECOG) categories 0, 1 or 2. Use Karnofsky for subjects >= 16 years of age and Lansky for subjects <= 16 years of age.
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance status >= 50% for patients > 16 years of age and Lansky >= 50 for patients =<16 years of age; Note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patient must have a Karnofsky (if >= 16 years of age) or Lansky performance score (if =< 15 years of age) of >= 50 by the time of registration; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Performance status: Karnofsky score greater than or equal to 70%. Additional Patient Inclusion Criteria for Conditioning:
+Moderate cGvHD: At least one organ (not lung) with a score of 2, 3 or more organs involved with a score of 1 in each organ, or lung score of 1
+Severe cGvHD: at least 1 organ with a score of 3, or lung score of 2 or 3
+Karnofsky performance scale ([KPS] for > 16 yrs of age) or Lansky performance score ([LPS] for =< 16 years of age) >= 50
+Karnofsky Performance Score < 70%
+Karnofsky performance scale (KPS for >= 16 years of age) or Lansky performance score (LPS for =< 15 years of age) >= 60 assessed within 14 days prior to registration
+Gleason score, obtained at biopsy, =< 6, 3 + 4 = 7, or 4 + 3 = 7
+Karnofsky >= 50 for patients >= 16 years of age, and Lansky >= 50 for patients < 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+ECOG Score of 0-2
+INCLUSION - INFUSION: Patients with a Karnofsky/Lansky score of ? 60
+PROCUREMENT INCLUSION: Karnofsky or Lansky score of > 60%
+TREATMENT INCLUSION: Karnofsky or Lansky score of > 60%
+Karnofsky Performance Score of ? 70% at the time of entry
+Eastern Cooperative Oncology Group (ECOG) performance score 0-2, inclusively or Lansky score ? 60, as age appropriate
+Participants with lansky-Karnofsky score of greater than or equal to (>=) 50
+Patient may not have a Karnofsky performance score < 50% or Lansky performance score < 50%
+Lansky score <50%
+Karnofsky/Lansky score of ? 50
+Performance status: Karnofsky/Lansky score > 50%.
+Karnofsky/Lansky score of ? 50
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 70; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+INCLUSION CRITERIA FOR STRATUM C: Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 60; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patients >= 16 years of age: Karnofsky >= 50%; patients =< 16 years of age: Lansky scale >= 50%; subjects who are unable to walk because of paralysis, but who are upright in a wheelchair will be considered ambulatory for the purpose of calculating the performance score
+ELIGIBILITY CRITERIA AT TIME OF TREATMENT: Patients with a Karnofsky/Lansky score of ? 50
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 60
+Patients with a Karnofsky/Lansky score of ? 50
+Karnofsky (> 16 years of age) or Lansky (=< 16 years of age) performance status (PS) 60–100%; Note: patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky/Lansky score ? 50%
+Patients must have a Lansky performance status score of >= 50 or a Karnofsky score of >= 50 for patients >= 16 years of age; Note: Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patients must have a Lansky or Karnofsky performance status score of >= 50; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+INCLUSION - PROCUREMENT: Karnofsky/Lansky score of ? 50
+INCLUSION - TREATMENT: Karnofsky/Lansky score of ? 50
+Performance level corresponding to Eastern Cooperative Oncology Group (ECOG) score of 0, 1, or 2; the Lansky performance score should be used for participants < 16 years
+Patient must have a Karnofsky performance status or Lansky* play status >= 50\r\n* For purpose of determining performance scores, wheelchair-bound patients will be considered ambulatory
+Performance status score: Karnofsky (for adults) >= 70% or Eastern Cooperative Oncology Group (ECOG) 0-1 or Lansky (for children) >= 50%
+AUTOLOGOUS APHERESIS: Karnofsky or Lansky (age-dependent) performance score >= 50
+MANUFACTURING SJCAR19: Karnofsky or Lansky (age-dependent) performance score >= 50
+TREATMENT WITH SJCAR19: Karnofsky or Lansky (age-dependent) performance score >= 50
+Karnofsky >= 50 for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age. Patients who are unable to walk because of paralysis, but who are able to mobilize using a wheelchair, will be considered ambulatory for the purpose of assessing the performance score.
+Karnofsky or Lansky performance score is ? 50% (corresponding to Eastern Cooperative Oncology Group [ECOG] score of ? 2); the Lansky performance score should be used for participants < 16 years and the Karnofsky performance score for participants ? 16 years; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Clinical performance status: Patients > 16 years of age: Karnofsky ? 50%; patients < 16 years of age: Lansky scale ? 50%; subjects who are unable to walk because of paralysis, but who are upright in a wheelchair will be considered ambulatory for the purpose of calculating the performance score
+STRATUM A: Participants must have a Lansky (=< 16 years) or Karnofsky (> 16 years) score of at least 50 at the time of study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+STRATUM B: Participants must have a Lansky (=< 16 years) or Karnofsky (> 16 years) score of at least 50 at the time of study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+STRATUM C: Participants must have a Lansky (=< 16 years) or Karnofsky (> 16 years) score of at least 50 at the time of study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Performance score (PS) of 0-2 by Zubrod score
+Performance status: Lansky Play-Performance Scale ?50 for children up to and including 16 years of age OR Karnofsky score ?50 for participants >16 years of age
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Performance score > 70% (use Lansky score for age < 16 and Karnofsky score for age >= 16)
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Performance score using the Karnofsky performance scale (patients > 12 years old) or Lansky Play - performance scale (patients =< 12 years old) must be >= 60 assessed within two weeks prior to enrollment
+Karnofsky >= 50% for patients > 16 years old, and Lansky >= 50 for patients 1-16 years old
+Karnofsky performance scale (KPS for > 16 years [yrs.] of age) or Lansky performance score (LPS for =< 16 years of age) >= 60 assessed within two weeks prior to registration
+Karnofsky > 50% for patients > 16 years of age and Lansky > 50% for patients < 16 years of age; neurologic deficits in patients with central nervous system (CNS) tumors must have been relatively stable for a minimum of 7 days; patients who are unable to walk because of paralysis, but who are able to sit in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Subjects must have a Lansky performance status score of >= 50 or a Karnofsky score of >= 50 for subjects >= 16 years of age; Note: Subjects who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patients must have a Karnofsky >= 50% for subjects > 16 years of age and Lansky score >= 50 for subjects =< 16 years of age \r\n* Note: Subjects who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance score > 60
+Karnofsky performance status (KPS) of > 60% (KPS for > 10 years of age) or Lansky performance Score (LPS) of >= 60 (LPS for =< 10 years of age) assessed within 2 weeks prior to registration; patients who are unable to walk because of paralysis but who are up in a wheel chair will be considered ambulatory for the purposes of the performance score
+Lansky or Karnofsky performance score >= 60
+Karnofsky performance score (KPS) score >= 70
+Performance status as determined by Karnofsky >= 60 or Lansky play scale >= 60% at the time of study drug administration
+ECOG score 2 or less
+Subject has Karnofsky (age ? 16 years) or Lansky (age < 16 years) performance status score ? 50 at screening
+Have Karnofsky score ?40 at enrollment (not applicable for subjects with benign bone tumors)
+Karnofsky scores < 60 or Lansky score < 50
+Participant's performance score must be ?50% Karnofsky (for participants >16 years of age) or Lansky (for participants less than or equal to (?)16 years of age).Participants who are unable to walk because of paralysis and/or previous surgeries, but who are in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score.
+Subjects must have a Lansky performance status score of >= 50 or a Karnofsky score of >= 50 for subjects >= 16 years of age; Note: subjects who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patients must have a Lansky performance status score of >= 50, or a Karnofsky score of >= 50 for patients >= 16 years of age; Note: Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance score of greater than or equal to 70
+Karnofsky performance score >= 70
+Karnofsky performance score (KPS) >= 70%
+Karnofsky performance status >= 80% for patients >= 16 years of age or Lansky play score >= 80 for patients < 16 years of age\r\n* Note: if poor performance status is due to lymphoma - Karnofsky performance status (KPS) >= 60% or Lansky performance score (LPS) >= 60 is acceptable
+ECOG score 2
+Performance score of at least 80% by Karnofsky or performance score (PS) < 3 (Eastern Cooperative Oncology Group [ECOG]) (age >= 12 years), or Lansky play-performance scale of at least 60% or greater (age < 12 years).
+Karnofsky >= 50 for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+The patient must have a Lansky or Karnofsky performance score (KPS) of >= 70% at the time of entry
+Patients must have a Karnofsky performance score (KPS) > 60.
+Have a Karnofsky performance score (KPS) >= 60
+ECOG performance score of 0 or 1 .
+Subjects must have Karnofsky >= 50%; Note: subjects who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance score must be >= 60
+Performance status: Lansky or Karnofsky score ? 60% and minimum life expectancy of at least 4 weeks
+CELL PROCUREMENT: Karnofsky score > 60% if >= 16 years old or Lansky performance score of greater than 60% if < 16 years old
+LYMPHODEPLETION: Karnofsky score > 60% if >= 16 years old or Lansky performance score of greater than 60% if < 16 years old
+Karnofsky score (adults) < 60% or Lansky score < 50% (pediatrics)
+Adequate performance status is defined as Karnofsky score >= 70% (> 16 years of age) or Lansky score >= 70 (pediatrics)
+Karnofsky performance score (KPS) >= 70%
+Osteoporosis, defined as T-score less than -2.5
+Performance level: \r\n* Lansky score >= 60% (patients < 16 years of age)\r\n* Karnofsky score >= 60% (patients >= 16 years of age)
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age\r\n* Note: Neurologic deficits in patients must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Performance score of >= 70 by Karnofsky/Lansky or performance score (PS) 0 to 1 (Eastern Cooperative Oncology Group [ECOG] =< 1)
+Karnofsky or Lansky (age-dependent) performance score >= 50
+PART 2 GROUP 1 INCLUSION CRITERIA: Performance status:\r\n* Karnofsky score >= 50 for subjects >16 years of age\r\n* Lansky score >= 50 for subjects =< 16 years of age\r\n* Note: subjects who are unable to walk because of paralysis, but who are mobile in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+PART 2 GROUP 2A INCLUSION CRITERIA: Performance status:\r\n* Karnofsky score >= 50 for subjects >16 years of age\r\n* Lansky score >= 50 for subjects =< 16 years of age\r\n* Note: subjects who are unable to walk because of paralysis, but who are mobile in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+PART 2 GROUP 3 INCLUSION CRITERIA: Performance status:\r\n* Karnofsky score >= 50 for subjects >16 years of age\r\n* Lansky score >= 50 for subjects =< 16 years of age\r\n* Note: subjects who are unable to walk because of paralysis, but who are mobile in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky score of >= 50 for patients > 16 years of age; or
+Lansky score of >= 50 for patients =< 16 years of age
+Karnofsky performance status score (age >= 16 years) or Lansky play score (age < 16 years) =< 40%
+Patients must have a performance status corresponding to Karnofsky or Lansky greater than or equal to 50%; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Performance score of at least 60% by Karnofsky
+Karnofsky score >= 70% (>= 16 years) or Lansky score >= 50 (< 16 years)
+Adequate performance status is defined as Karnofsky score >= 70% (>= 16 years of age) or Lansky score >= 50 (pediatrics)
+Lansky/Karnofsky performance status score of 50-100
+PRIOR TO CELL PROCUREMENT: Karnofsky or Lansky score of > 60% (Karnofsky for ? 16 years old and Lansky for < 16 years old)
+PRIOR TO LYMPHODEPLETION: Karnofsky or Lansky score of > 60% (Karnofsky for pediatric patients ? 16 years old and Lansky for < 16 years old)
+PRIOR TO INFUSION OF ATLCAR.CD30 CELLS: Karnofsky or Lansky score of > 60% (Karnofsky for ? 16 years old and Lansky for < 16 years old)
+Patients must have a performance status corresponding to Karnofsky or Lansky greater than or equal to 50%; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance scale (KPS) score >= 70
+Age 0 to 70 years of age with Karnofsky score >= 70% (>= 16 years) or Lansky score >= 50 (< 16 years)
+Karnofsky Performance Score (KPS) >= 50% for patients >= 10 years of age; Lansky score of >= 50 for children < 10 years of age
+Patient has an ECOG Performance Status score of 0 or 1 (solid tumors) or KPS score ? 70 (rHGG).
+IPSS score =< 15
+IPSS score > 15
+Lansky/Karnofsky performance scale > 60%
+Lansky or Karnofsky ?50
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Performance status defined by Karnofsky or Lansky >= 60 (except for patients with posterior fossa syndrome); use Karnofsky for patients >= 16 years and Lansky for patients < 16 years; note: patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered to be ambulatory for the purpose of assessing the performance score
+Performance status:\r\n* Lansky >= 50 for individuals 18 months- =< 16 years old; Karnofsky > 50% for individuals 17-21 years old
+Eastern Cooperative Oncology Group (ECOG) score of =< 2 or Karnofsky/Lansky score >= 50%
+Patients must have Karnofsky performance score >= 70
+AT THE TIME OF PROCUREMENT: Karnofsky score of ? 60
+AT THE TIME OF INFUSION: Karnofsky score ? 60
+Karnofsky >= 60% for subjects > 16 years of age and Lansky >= 50 for subjects =< 16 years of age; note: subjects who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+PROCUREMENT: Karnofsky score ? 50%
+TREATMENT: Karnofsky score ? 50%
+Patients must have a Lansky Play Scale of 60% (< 16 years [yrs] old), Karnofsky score 60% (> 16 yrs old), or Eastern Cooperative Oncology Group (ECOG) score of < or equal to 2 and a life expectancy of 2 months
+Karnofsky performance status of >= 60% or, if less than 16 years of age Lansky play score of >= 60
+Karnofsky performance score >= 60
+Gleason score 6-10
+Karnofsky performance score >= 70%
+Performance level: Karnofsky > or equal to 50% for patients > 10 years of age or Lansky > or equal to 50 for patients < 10 years of age; Note: patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patient must have a Lansky performance status score of >= 50; Note: patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+TREATMENT: Patients with a Karnofsky score of ? 50
+Lansky score of 50 or greater if =<16 years of age or a Karnofsky score of 50 or greater if > 16 years of age (NOTE: patients who are unable to walk because of paralysis, but who are in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score)
+Karnofsky/Lansky score >= 60%
+Patients must have a performance status of 0, 1 or 2 (Appendix I). Patients who are unable to walk because of paralysis or tumor pain, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky score of >= 70%
+Lansky score <50%
+Karnofsky performance score < 70
+Karnofsky score (KS) >= 50
+Performance score of at least 70% by Karnofsky or 0 to 1 by Eastern Cooperative Oncology Group (ECOG) (age >= 12 years), or Lansky Play-performance scale of at least 70% or greater (age < 12 years)
+Patient must have a Karnofsky performance score of >= 70
+Karnofsky or Lansky score of > 60%
+Karnofsky score >= 70
+Karnofsky or Lansky (age-dependent) performance score >= 50
+Patients < age 60 years must have a Karnofsky performance status (KPS) of >= 80% and a hematopoietic cell transplant comorbidity index (HCT-CI) score of 5 or less
+Adequate Karnofsky Performance score or Lansky Play-Performance scale
+Patients with a Karnofsky/Lansky score of >= 50
+The patient must be in adequate general condition for study, with Lansky or Karnofsky performance score of >= 50 at study entry; Lansky performance scale will be used for patients =< 16 years of age
+Karnofsky performance status (KPS) or Lansky score >= 20
+ASA score 1-3.
+Karnofsky performance status (KPS) or Lansky score > 50
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 60; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) >= 50 assessed within 2 weeks prior to registration
+For subjects < 17 years of age, Modified Lansky Play-Performance Score of >= 70%; for subjects 17 and older, Karnofsky score of >= 70%
+Lansky/Karnofsky scores >= 60
+Karnofsky or Lansky score of > 60%
+Lansky or Karnofsky score < 50%
+Gleason score 8 or higher
+Karnofsky/Lansky score >= 60%
+Karnofsky score < 50% for adult patients
+Lansky play-performance score < 40 for pediatric patients
+Lansky/Karnofsky >= 50 (Lansky for subjects 7 - 15 years; Karnofsky for subjects 16 - 30 years); subjects who are unable to walk because of paralysis, but who are up in a wheelchair will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky/Lansky score of >= 50
+Karnofsky/Lansky score of >= 50
+Gleason score of 3+4 or lower
+Gleason (4+3) or higher score
+Patients =< 50 must have performance status score: Karnofsky (for adults) >= 70 or Eastern Cooperative Oncology Group (ECOG) 0-1; Lansky (for children) score >= 50
+Patients > 50 must have Karnofsky performance score >= 70 or ECOG 0-1 and comorbidity index < 5
+Karnofsky score > 70 %
+Performance status score: Karnofsky (for adults) >= 60 or ECOG 0-2; Lansky (for children) score >= 50
+Adequate performance status; Lansky score >= 60% for children < 16 years of age, or Karnofsky score >= 60% for those > 16 years of age
+Lansky play score >= 50
+Recipients must have a Karnofsky score (adults) >= 80 % or Lansky score >= 50% (pediatrics)
+Adequate performance status is defined as Karnofsky score >= 60% (> 16 years of age) or Lansky score >= 50 (pediatrics)
+Performance level: Performance score ?50%. Karnofsky (for participants >16 years of age) or Lansky (for participants ?16 years of age)
+Karnofsky >= 80%, Lansky play score >= 70
+Evidence of cirrhosis, documented by one of the following: Liver biopsy histologic diagnosis: Metavir Score greater than 3 (includes 3 - 4 or ¾) or Ishak score greater than 4 In the absence of liver biopsy: a FibroScan score greater than or equal to 12.5 kPa or Fibrotest score of >0.75 AND an APRI score greater than 1.5
+Karnofsky performance score (KPS) ? 70%
+Karnofsky performance score 70
+Karnofsky performance score 70
+KPS Score < 60 (See \Definitions\ below)
+ASA score 1-2.
+Patients must have a performance status of >= 50 by Lansky or Karnofsky, corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2. Use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age. Patients who are unable to walk because of paralysis, but are up in a wheelchair will be considered ambulatory for the purposes of assessing the performance score
+Patients must have a Lansky (?16 years) or Karnofsky (> 16 years) score of at least 50
+Patients should have a performance status (Karnofsky score) of > 80 out of 100, i.e. can carry on normal activity with effort while showing some signs or symptoms of disease
+Lansky (=< 10 years) or Karnofsky (> 10 years) score of at least 50
+Karnofsky performance score (KPS) >= 70
+Karnofsky ? 60 for subjects > 16 years of age and Lansky ? 50 for subjects ? 16 years of age \r\n* Note: subjects who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance score 70% or higher.
+Performance Status: Karnofsky ? 70%, Lansky play score ? 70
+Karnofsky Performance Scale score >= 60%
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: Neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 60; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50 for patients >= 16 years of age, and Lansky >= 50 for patients < 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score; patients with pre-existing neurological deficits need to be stable prior to surgery or lumbar puncture (LP) as determined by the investigator
+Karnofsky (those 16 years old or older) or Lansky (those younger than 16 years) performance score of at least 50
+Subject's Karnofsky performance status (KPS) must be >= 50% (Eastern Cooperative Oncology Group [ECOG] performance score < 3); the Lansky scale will be used for subjects less than 16 years of age and must be >= 50%
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance score >= 70
+Performance status: Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50% for patients =< 16 years of age; subjects who are wheelchair bound because of paralysis will be considered “ambulatory” when they are up in their wheelchair; subjects have to be able to travel to the NIH for evaluations
+Patients must have a Lansky or Karnofsky performance status score of >= 70; Karnofsky system will be used for patients > 16 years of age and Lansky system for patients < 16 years of age
+Karnofsky score >= 80% (adults), Lansky score >= 50% (pediatrics)
+Patients must meet one of the following performance scores:\r\n* Eastern Cooperative Oncology Group (ECOG) performance status scores of 0, 1, or 2; \r\n* Karnofsky score of >= 60 for patients > 16 years of age; or\r\n* Lansky score of >= 60 for patients =< 16 years of age
+Patients must have a performance status corresponding to an Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; Note: patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patients must have a Karnofsky performance score of 50% or greater
+Karnofsky performance score >= 70%
+Sensitivity score =< 3
+Lansky (=< 16 years) or Karnofsky (> 16 years) score of at least 50
+Adequate functional status (Karnofsky Performance Score ?60)
+Patients with a Karnofsky performance score < 70% or Lansky score < 70%
+Patients must have a Lansky or Karnofsky performance status score of >= 50, corresponding to Eastern Cooperative Oncology Group (ECOG) categories 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Any Gleason score > 3 + 4 or Gleason score 3 + 4 with the secondary pattern exceeding 50%
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+With Karnofsky index or Lansky play-performance scale > 70% on pre-transplant evaluation
+DONOR: Donors in good general health, with a Karnofsky or Lansky play performance score > 90%
+Karnofsky/Lansky score of 60% or greater
+Patient with a Karnofsky performance score < 50% or Lansky score < 50%
+Karnofsky >= 60% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Clinical performance status: patients > 10 years of age: Karnofsky >= 50%; patients =< 10 years of age: Lansky scale >= 50%; subjects who are unable to walk because of paralysis, but who are upright in a wheelchair will be considered ambulatory for the purpose of calculating the performance score
+Patients should have a Karnofsky/Lansky score of greater than or equal to 60; patients who require special assistance due to tumor-related paralysis, but who are out of bed during the day will be considered ambulatory for the purpose of calculating the performance score; patients must be able to communicate any symptoms
+Patients must have a Lansky or Karnofsky performance status score of >= 50%, corresponding to Eastern Cooperative Oncology Group (ECOG) categories of 0, 1, or 2 (use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age)
+Karnofsky performance score < 70%
+Performance level: Karnofsky >= 50 for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age); Note: patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky/Lansky score of >= 50
+Karnofsky/Lansky score of >= 50
+Karnofsky/Lansky score of > 60%
+Subject has a Karnofsky score of ? 50% (subjects ? 16 years of age) or a Lansky score ? 50% (subjects < 16 years of age).
+Gleason score 6 (3+3) and
+Subjects must have an ECOG Performance Score of 0-1.
+Karnofsky performance score greater than or equal to 70%
+Lansky/Karnofsky score > 50
+Karnofsky Performance Score (KPS) ? 70%
+Gleason score ? 3 + 4
+Lansky score >50% for participants <16 years old.
+Gleason 8 or higher score
+ECOG Score ?2
+Karnofsky performance score < 70% or Lansky-Play Performance score < 70 for pediatric patients
+Karnofsky Performance Scale (KPS) score ?60
+Adequate performance, i.e.\Karnofsky Performance Score\ of at least 70%;
+Karnofsky performance status (KPS) or Lansky score >= 60
+EXCLUSION FOR COLLECTION OF T CELLS/PBMCS: Karnofsky/Lansky performance status < 60
+Karnofsky or Lansky ? 50
+Adequate Karnofsky Performance score or Lansky Play-Performance scale
+Karnofsky score < 60 or Lansky score < 50
+Performance Status • Karnofsky > 50 % for patients >16 years of age or Lansky > 50 for patients < 16 years of age. Patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score.
+Gleason score 7;
+Internation Prostate Symptom Score score must be ? 15 (alpha blockers allowed);
+Gleason score > 7
+Have good performance score (0-1).
+Performance status as determined by Karnofsky >= 60% or Lansky play scale >= 60% at the time of study drug administration
+Karnofsky/Lansky score >= 50%
+Karnofsky/Lansky score >= 50%
+Karnofsky performance score 70% or higher
+Karnofsky or Lansky score of > 60%
+Patients must have Karnofsky performance score (for patients > 16 years of age) or Lansky performance score (for patients =< 16 years of age) >= 50% assessed within two weeks of study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Subject has an Eastern Cooperative Oncology Group (ECOG) score of 0 1 or Karnofsky Performance Status Score ? 70.
+Performance status: Karnofsky or Lansky score ? 60% (Appendix A)
+Performance status: Lansky >= 50 for patients who are =< 16 years old and Karnofsky >= 50% for patients who are > 16 years old
+Have a Karnofsky score ? 70
+Subject has a TBS with an SBSS score of 1, 2, or 3.
+All patients must have a Karnofsky performance score > 60%
+Lansky score < 60%
+Karnofsky or Lansky performance status (PS): performance status of >= 50 assessed within two weeks prior to registration; neurological deficits in patients must have been relatively stable for a minimum of 1 week prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within 14 days of enrollment must be >= 50
+Patients must have an ECOG performance score between 0 and 1.
+Patients must have an ECOG Performance Score of 0 or 1.
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%); Note: patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purposes of assessing the performance score
+Karnofsky score >= 50 for patients >= 16 years of age and Lansky score >= 50 for patients =< 15 years of age; patients who are unable to walk because of paralysis but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky >= 50%; Note: subjects who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+AT THE TIME OF INFUSION: Karnofsky or Lansky score of ? 50%
+Karnofsky performance score ?70.
+Karnofsky Performance Score (KPS) of ? 70%
+Karnofsky performance score of 70 or higher
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50% for patients =< 16 years of age; neurologic deficits in patients with central nervous system (CNS) tumors must have been relatively stable for a minimum of 7 days; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Lansky (for participants 10 years of age or younger) or Karnofsky (for participants older than 10 years) performance score greater than 50
+ECOG performance score ? 1
+Patients must have Karnofsky performance score >= 60
+Patient must have a score on the Karnofsky performance scale of >= 80%
+Karnofsky performance scale (KPS for >= 16 years [yrs] of age) or Lansky performance score (LPS for < 16 years of age) >= 60 assessed within two weeks prior to registration
+The patient has a Lansky/ Karnofsky performance status score of ? 70%
+Karnofsky Performance Scale (KPS) score greater than or equal to 60.
+Performance status: Karnofsky or Lansky scores ? 50 for subjects > 16 years old or ? 16 years old, respectively.
+Karnofsky performance score (KPS) >= 70%
+Karnofsky performance score ?50 for participants>16 year of age and Lansky play score ?50 for participants ?16 years of age. Neurologic deficits in participants with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment. Participants who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patients must have a Karnofsky performance score (KPS) of >= 60
+ECOG score of 0 or 1
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+The patient must have a Karnofsky performance score of 40 or greater
+Karnofsky performance score (KPS) >= 60%
+Must have a Lansky or Karnofsky performance status of >= 50; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients >= 45 years: comorbidity score of 5 or higher
+Karnofsky performance score >= 60%
+Karnofsky score >= 70 or Lansky score >= 70
+Karnofsky Performance Score ?70%
+Performance score >= 50 (Lansky for research participants =< 16 years and Karnofsky for those > 16 years)
+Subjects must have a performance score of Karnofsky >= 70% at the time of entry into the study
+Karnofsky or Lansky performance score of greater than or equal to 50
+Karnofsky Performance Score (KPS)>=60.
+Patients must have a Lansky or Karnofsky performance status score of >= 60%; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Performance status: Lansky >= 50 for individuals 18 months to < 10 years old; Karnofsky > 50% for individuals 10-21 years old
+Karnofsky performance scale >= 30 (>= 50 for patients ages 60-70 years)
+The patient must have a Karnofsky performance score (KPS) of >= 70% at the time of entry
+Performance score of >= 60 by Karnofsky or performance score (PS) 0 to 2 (Eastern Cooperative Oncology Group [ECOG]) (age > 12 years), or Lansky play-performance scale >= 60 or greater (age < 12 years)
+Lansky/Karnofsky performance status score of 40-100
+Karnofsky/Lansky performance score < 70%.
+Lansky play score >= 60 (< 16 years) or Karnofsky (16 years or older) performance score of >= 60%
+Karnofsky performance score (KPS) < 70%
+Karnofsky performance score >= 60
+Karnofsky score > 50%
+Patient must have proven positive tumor sample for NY-ESO-1 as determined by an H score for immunohistochemistry staining. Positive expression is defined as an H score ? 100 where the H score = [2 x (% cells 2+) + 3 x (% cells 3+)]. NOTE: The percentages of negative or weakly stained nuclei (i.e. 1+) are not to be included in the calculation of the H score.
+ECOG Performance Score of 0 or 1
+For men =< 70 years, biopsy Gleason score =< 6; for men > 70 years, biopsy Gleason score =< (3 + 4) = 7
+Karnofsky scores < 60 or Lansky Score < 50
+Karnofsky performance scale >= 12 years old (y/o) or Lansky performance score for patients < 12 y/o must be >= 50 assessed within two weeks prior to enrollment
+Performance Status: Eastern Cooperative Oncology Group (ECOG) score ? 3 (age ?16) or Lansky Performance Score (LPS) ?40% (age<16). If enrolled with primary CNS tumor to be assessed by RANO, Karnofsky Performance Status (KPS) (age ?16) or LPS (age<16) ? 50%
+Karnofsky performance score (KPS) >= 70%
+Patients must have a Karnofsky performance scores (KPS) of at least 70 at the first postoperative visit; patients under 18 years of age must have a Lansky performance score of at least 70
+Lansky performance score >= 50% for patients =< 16 years of age, or Zubrod performance status score of 0-2 for patients > 16 years of age
+Patients with a Karnofsky/Lansky score >= 50
+Karnofsky performance score < 60 Lansky performance score < 60
+Lansky or Karnofsky scale >50
+Performance Score: Karnofsky ?60% if >10y/o, Lansky ?60 if ?10y/o
+Karnofsky performance score (KPS) or Lansky score >= 40
+Adequate performance status as defined by Lansky Score >= 30 (except for Posterior Fossa Syndrome)
+Performance score of at least 60% by Karnofsky or performance status (PS) less than 3 (Eastern Cooperative Oncology Group [ECOG]) (age greater than or equal to 12 years), or Lansky play-performance scale of at least 60% or greater (age < 12 years)
+Patients should have a life expectancy of at least 12 months and a Karnofsky or Lansky performance score of >= 50; patients who are wheelchair bound because of paralysis should be considered “ambulatory” when they are up in their wheel chair
+Performance status: Karnofsky score < 60 for adult patients
+Karnofsky score < 50%\r\n* Pediatric criteria\r\n** Lansky play-performance score < 40
+Karnofsky score less than 60; pediatric criteria: Lansky Play-Performance Score < 40
+Lansky >= 50 for patients =< 16 years old; Karnofsky >= 50 for patients > 16 years old
+Patients must have a Lansky (< 16 years) or Karnofsky (> 16 years) score of at least 50
+Karnofsky or Lansky performance score is >= 60%; the Lansky performance score should be used for participants < 16 years and the Karnofsky performance score for participants >= 16 years
+Quality of life must be 3 by Lansky and 50% by Karnofsky
+Karnofsky Performance Score ?50%
+The presence of TAM high risk features at baseline (or screening if baseline visit is skipped): Patients ? 16 years must have a Lansky score of ? 70 and patients > 16 must have Karnofsky score ? 70% and/or proteinuria (> 30 mg/dL) measured in two urine spot analyses.
+Karnofsky performance score 60
+Karnofsky Performance Score < 60.
+Subjects ? 16 years: Karnofsky score ? 70%.
+Subjects < 16 years: Lansky score ? 70%.
+Karnofsky/Lansky performance scale\r\n* ARM A: > 60%\r\n* ARM B: No limitation
+Karnofsky Performance Score of at least 70.
+Patients must have an ECOG score =< 3
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of registration must be >= 60
+Karnofsky performance score < 60
+Performance status: Eastern Cooperative Oncology Group (ECOG) 0, 1 or 2, or for children =< 10 years of age, Lansky >= 60; note: patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Performance score of at least 80% by Karnofsky
+Have a Karnofsky Performance Score (KPS) equal to or greater than 70
+Karnofsky performance score 70 or above
+Performance status: Karnofsky (for participants >/= 16 years of age) or Lansky (for participants < 16 years of age) score of >/= 60
+Adequate Karnofsky/Lansky Performance score
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within 7 days of enrollment must be >= 50%; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+NON-PROGRESSED DIPG (STRATUM 2): Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within 7 days of enrollment must be >= 50%; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance status > 80% for ages 16 years and older or Lansky play score > 50 for < 16 years
+Patient has a minimum Karnofsky/Lansky Performance Level of at least 30 at the time of study entry.
+ECOG Performance Score of 0 -2
+Karnofsky Performance Score (KPS) ? 70%.
+Performance status: Lansky >= 50 for patients who are =< 16 years old and Karnofsky >= 50% for patients who are > 16 years old
+Karnofsky or Lansky performance score of greater than or equal to 50
+Karnofsky or Lansky performance score is >= 60%; the Lansky performance score should be used for participants < 16 years and the Karnofsky performance score for participants >= 16 years
+Karnofsky Performance Status (KPS) or Lansky Score ? 50
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; note: neurologic deficits in patients with central nervous system (CNS) tumors must have been relatively stable for a minimum of 1 week prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Patient must have an ECOG Performance Score of 0, 1, or 2 (refer to Appendix II).
+Performance score of at least 80% by Karnofsky or performance status (PS) < 3 (Eastern Cooperative Oncology Group [ECOG]) (age >= 12 years), or Lansky Play-Performance scale of at least 60% or greater (age < 12 years)
+Karnofsky performance score of ? 60 (Eastern Cooperative Oncology Group [ECOG] performance score of 0, 1, or 2)
+Pain scale score >= 5
+Karnofsky performance score at least 70%
+Mirels Criteria Score ? 8. (specific to the target humeral lesion and subject to minimum VAS score requirements)
+Karnofsky or Lansky performance score is >= 60%; the Lansky performance score should be used for participants < 16 years and the Karnofsky performance score for participants >= 16 years
+Karnofsky or Lansky (age-dependent) performance score >= 50
+Karnofsky or Lansky performance score >= 50
+Performance Level: Karnofsky > 50% for pts > 12 years; Lansky > 50% for pts < 12 years of age.
+Patients must have an ECOG performance score of 0, 1, or 2.
+Karnofsky performance score ?70.
+ECOG Performance Score of 0 or 1
+ECOG score greater than 1 (Karnofsky < 70%)
+Karnofsky performance status score ? 50 for patients >16 years of age
+Lansky performance status score ? 50 for patients ? 16 years of age
+Karnofsky performance score ?60
+Performance score of >=50% according to the Karnofsky/Lansky performance status scale.
+Performance score of >=50% according to the Karnofsky/Lansky performance status scale (subjects with a performance status of <=50% can be enrolled if the subject's confinement to bed and inability to carry out activities is due solely to cancer-related pain, as assessed by the investigator).
+Karnofsky Performance Score (KPS) ? 70%
+Karnofsky or Lansky (age-dependent) performance score >= 50
+Karnofsky >= 50% for patients > 16 years of age or Lansky >= 50% for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Performance score ? 60 from Lansky Play Performance Scale if ?16 years
+Karnofsky/Lansky score above 50%
+All patients must have a projected survival time of at least 12 weeks and a Karnofsky performance score: >60% (or Zubrod score of >2).
+Subject has screening MOD score of ?9
+Performance Status: Karnofsky >= 50% for > 10 years of age; Lansky >= 50% for children =< 10 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purposes of assessing performance score
+ECOG performance score of 0-2.
+Karnofsky performance status less than 60% or Lansky less than 40% for patients younger than 16 years old
+Patients must have a Lansky or Karnofsky performance scale score of >= 50% and patients must have a life expectancy of >= 2 months
+Performance score (PS) < 2
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky Performance Status >= 50% for patients 16 years and older and Lansky Play Score >= 50 for patients under 16 years of age
+Score of < 9 on the PHQ-4
+Patient has Karnofsky score > 50 (ambulatory & capable of self-care)
+KPS Score < 60 (See \Definitions\ below)
+Have a baseline Distress Thermometer score of >= 4, or an Impact of Events Scale score of >= 9, or Center for Epidemiological Studies Depression Scale score of >= 16 (i.e. clinically meaningful thresholds)
+Gleason score of 6 - 10
+Performance status: Lansky >= 50 for patients who are =< 16 years old and Karnofsky >= 50% for patients who are > 16 years old
+Karnofsky score >= 60%
+Karnofsky performance score >= 50%
+Either a score of > 15 on the Brief Penn State Worry Questionnaire OR a score >= 12 on the Brooding Subscale of the Rumination Response Scale
+Karnofsky performance scale (KPS) score < 80
+Performance score minimum requirement is >= 50 on Karnofsky/Lanksy performance scale
+Have a Karnofsky score >= 70
+Lansky or Karnofsky performance >= 40%
+Karnofsky performance score or Lansky Play-Performance Scale score < 80
+Has a KPS score of >= 50
+Karnofsky performance scale (KPS) score of >= 60
+Performance status must be > 60 from Lansky (age 1 to 16) or Karnofsky (age > 16)
+Lansky/Karnofsky score < 60
+Subject has a Karnofsky score <50, or a World Health Organization (WHO)/ Eastern Cooperative Oncology Group (ECOG) performance status ?3. Subjects who have a performance status of 3 may be considered for the study if the removal of their fluid would likely improve their performance score by 1 or more.
+Karnofsky performance score (KPS) >= 70%
+Karnofsky score >= 70% at the time of screening
+AYA is able to participate in sessions as evaluated by the Karnofsky/Lansky score of 50% or greater
+Patient has Karnofsky score >= 50 or World Health Organization (WHO)/Eastern Cooperative Oncology Group (ECOG) =< 2 if >= 16 years of age
+Lansky score >= 50 for patients age < 16
+ECOG score of 0,1,or 2 OR Karnofsky score of 50 or higher
+Karnofsky/Lansky score of >= 50
+ELIGIBILITY CRITERIA FOR ENROLLMENT ONTO APEC1621SC: Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age); Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+GENERAL INCLUSION CRITERIA FOR SUBPROTOCOLS: Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age); Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky or Lansky Performance Score < 70%
+Adequate performance status, defined as Karnofsky score greater than 70%;
+Patients must have a Lansky or Karnofsky Performance Scale score of > 50% and patients must have a life expectancy of ? 2 months.
+Karnofsky Performance Status score ? 70% or Eastern Cooperative Oncology Group Performance Status score of 0 to 2.
+Karnofsky score >= 70%
+Karnofsky score >= 70%
+Performance status by Karnofsky of >= 70% or Lansky > 70% for patients < 16 years of age
+Karnofsky or Lansky score of > 60%
+Karnofsky score < 60 for adult patients
+Lansky-play performance score < 50 for pediatric patients
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0 or 1 (>= 70% for Karnofsky/Lansky); use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Karnofsky score >= 70%
+Score at least a 5 on the Contemplation Ladder
+Lansky score < 60%
+Lansky score < 60%
+Performance status: Karnofsky/Lansky score > 60%.
+Karnofsky performance score over 60
+Patients with a Karnofsky/Lansky score of >= 50
+Karnofsky Performance Score of ?60.
+Lansky score ? 50 or
+Karnofsky score > 50 or
+Patients must have a Karnofsky performance score of 70% or above
+Karnofsky performance score < 70%
+Has a Lansky Play Performance score ?60 (participants ?16 years of age) or a Karnofsky score ?60 (participants >16 years of age)
+Karnofsky Performance Score < 70%
+ECOG Performance Score of 0 or 1 within 14 days prior to registration
+Karnofsky performance score >= 70 within 45 days prior to entry
+Karnofsky performance score of at least 80
+Karnofsky score of 60 or higher
+Gleason score of >= 8 (4+4)
+Karnofsky performance of >= 50 corresponding to Eastern Cooperative Oncology Group (ECOG) categories 0, 1, or 2; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky performance score >= 60
+Group I: Karnofsky performance score (KPS) >= 80
+Group II: Karnofsky performance score (KPS) >= 80
+Group III: Karnofsky performance score (KPS) >= 80
+Karnofsky score of >= 60
+Karnofsky performance score >= 70
+Patient must have a Lansky or Karnofsky performance of > 40% corresponding to Eastern Cooperative Oncology Group (ECOG) categories 0, 1, or 2; Karnofsky will be used for patients > 16 years of age and Lansky for patients < 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Karnofsky (patients ? 16 years)/Lansky (patients < 16 years) index ? 70.
+Gleason score =< 6
+Karnofsky performance score >= 70
+Have an ECOG score of 0-1

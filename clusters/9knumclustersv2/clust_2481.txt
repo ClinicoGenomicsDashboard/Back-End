@@ -1,0 +1,139 @@
+Re-registration Eligibility Criteria (for patients who crossover from arm  nivolumab alone to dual agent nivolumab and ipilimumab upon progression)
+Patient MUST have had progressive disease (radiographic or clinical) while on arm  single agent nivolumab while registered to A
+Patients removed from any immunotherapy for reasons other than progressive disease, including arm  single agent nivolumab of A, are NOT eligible for re-registration
+Patients must have completed a minimum of  weeks of single agent nivolumab on arm  of A to be eligible for re-registration
+ARM B (AZACITIDINE + NIVOLUMAB)
+ARM C (AZACITIDINE + MIDOSTAURIN)
+Patients who have been infected with HBV or HCV including those with inactive disease. Additional exclusion criteria for Combination arm PDR+CJM
+Active candida infection, including mucocutaneous infection or history of invasive candidiasis. Additional exclusion criteria for Combination arm PDR+trametinib
+Ability to take aspirin or other anticoagulation (ARM  only)
+MK-+pembro (liver metastasis/lesions) Arm:
+Combination Arm: adequate heart function
+Combination Arm: hypersensitivity to trastuzumab
+Note: the MRI study is mandatory irrespective of randomization to the experimental or control arm of this study
+ARM  - AP
+ARM  - A: ANC: >= /mcL
+If a patient fully meets criteria for Arm , but has profound hearing loss and the physician feels that the patient should not receive cisplatin, the patient will be eligible for Arm 
+If a patient fully meets criteria for Arm , but has a history of solid organ or bone marrow transplant, the patient will be eligible for Arm 
+CLL ARMS (ARM A and ARM C) FOR COMBINATION THERAPY INCLUDING IBRUTINIB or IDELALISIB:
+CLL ARMS (ARM A and ARM C) FOR COMBINATION THERAPY INCLUDING IDELALISIB ARM:
+ARM A OR C EXCLUSION:
+ARM B OR D EXCLUSION:
+Patients with a known hypersensitivity to tacrolimus, methotrexate (Arm A or C) or MMF (Arm B or D)
+Any of the following will exclude patients from the high-dose aldesleukin arm, but may be eligible for the low-dose aldesleukin arm:\r\n* Greater than  invasive thoracic procedures\r\n* Poor exercise tolerance\r\n* Greater than  years of age
+Surgical arm (Arm A) must be predicted pre-operatively to have sufficiently sized tumor to be resected and provide tissue samples for exploratory assessments.
+ARM I&II: Platelets > ,/mm^
+Have a diagnosis of a tumor with evidence of genomic instability on Clinical Laboratory Improvement Amendments (CLIA) certified genomic testing, inclusive of mutations in POLE, POLD for arm  and in BRCA and BRCA for arm ; in arm , enrollment of breast and ovarian histologies will be limited to a total of  patients
+Actively receiving ibrutinib at either  mg (patients enrolled to the escalation arm) or at a stable dose for at least  months prior to starting study treatment (patients enrolled to the expansion arm)
+PARPi naive or prior exposure to PARPi therapy (varies depending on Arm  and Arm )\r\n* Patients in Arm  (single agent rucaparib followed by combination upon progression) must be PARPi naive; prior irinotecan is allowed\r\n* Patients in Arm  (combination) must have been treated with and progressed on a PARPi previously; prior irinotecan is allowed
+Prior Therapy (for patients with R/R PTCL):\r\n* Exposure to any agent targeting PD-, PD-L or CTLA-\r\n* Previous therapy with any of the drugs contained in the regimen the patient is assigned to receive; in this case, the patient will be enrolled in the next treatment arm that does not contain such drugs, according to the sequence Arm A -> Arm B -> Arm C ->Arm D\r\n* Exposure to biologic therapy, immunotherapy, chemotherapy, investigational agent for malignancy, or radiation therapy within  weeks prior to entering the study or lack of resolution of adverse events (AE) due to previously administered antineoplastic therapy to grade  or less according to National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), Version .\r\n* Current or prior use of immunosuppressive medication within  days prior to first dose of durvalumab; the following are exceptions to this criterion: intranasal, inhaled, topical or local steroid injections (eg. intra-articular injection); steroids as premedication for hypersensitivity reactions; systemic corticosteroid at physiologic doses not to exceed mg/day of prednisone or equivalent for at least  days prior to the start of the study drugs\r\n* Prior allogeneic SCT
+Only for subjects enrolled in Arm  - Neratinib and everolimus: history of hypersensitivity to everolimus.
+Only for subjects enrolled in Arm  - Neratinib and everolimus: Major surgery =<  days prior to treatment with everolimus.
+Patients with a history of prior treatment with ipilimumab, anti-programmed cell death protein  (PD ) antibody, or cluster of differentiation (CD) agonist therapy are ineligible for the ipilimumab arm, but are eligible for the nivolumab arm
+Documentation of arm volume measurement by perometer prior to axillary surgery
+ARM B ONLY
+ELIGIBILITY FOR OBSERVATION ARM
+Must have started ADT for metastatic disease within  days (for Arm A and B) or within  days (for Arm C)
+Phase Ia part: advanced solid tumors or metastases including lymphoma localized in the head and neck region or thorax with an indication for fractionated palliative RT (Arm A); or treatment-nave SCCHN eligible for fractionated curatively intended RT with concurrent cisplatin (Arm B)
+ARM B COHORT : Patients must not have a central lesion with radiologic evidence of arterial involvement
+Hematological - Absolute neutrophil count (ANC) ? . x /L (Carboplatin Plus Paclitaxel Arm or Paclitaxel Arm) or ? . x /L (Anastrozole Arm)
+Hemoglobin (Hb) ?  g/dL (Carboplatin Plus Paclitaxel Arm or Paclitaxel Arm) or ?  g/dL (Anastrozole Arm)
+FOR BOTH ARM A AND ARM B:
+Multi-focal or metastatic disease (Arm B)
+History of hypersensitivity to crizotinib for vemurafenib/crizotinib arm
+Eligibility criteria specific to the control arm:\r\n* Participants must be willing and able to provide written informed consent/assent for the control arm of the INdividualized Screening trial of Innovative Glioblastoma Therapy (INSIGhT) trial
+For the romidepsin arm of the study, prior therapy with romidepsin if discontinued due to toxicity
+Accrual to each treatment arm will include standard risk and poor risk patients, except for Regimen D; all patients on Arm D will be poor risk by virtue of risks of relapse and/or transplant related mortality
+Arm : Subjects must have received at least one prior therapy and a maximum of three prior therapies. No prior treatment with -Azacitidine is allowed in this arm.
+Arm  and  Exclusion:
+Inpatient or outpatient with presence of indwelling CVC (ie, totally implantable port, tunneled or non-tunneled CVC, hemodialysis catheter, or peripherally inserted CVC) that has been in place for greater than days from which a bloodstream infection has been documented within  hours prior to enrollment (and from which an isolate of the baseline pathogen(s) is still available for analysis at the central laboratory) and demonstrates the protocol definition of CRBSI/CLABSI; NOTE: For the treatment arm only (MLT Arm and Control Arm), the CVC is expected to be in place through the end of treatment.
+Female subjects of childbearing potential must have a negative urine and/or serum pregnancy test within  days prior to randomization (MLT Arm and Control Arm) ;
+Carcinoma patients in Arm A or Arm B must have received at least  prior regimen of standard of care systemic antitumor therapy for their metastatic disease and experienced tumor progression within  months after the last prior administration of the therapy or experienced unacceptable toxicity to these treatments.
+Subjects in Arm A and Arm B should have measurable CT evidence of liver metastases or liver lesions that are not treatable by surgical resection or local ablation in consultation with hepatobiliary specialist.
+History of liver cirrhosis by radiologic, clinical or laboratory data, or biopsy despite normal liver function tests Phase II Expansion Arm A and Arm B:
+ARM A: Uncontrolled infection
+ARM B: Uncontrolled infection
+ARM B: Any radioembolization or TACE =<  days prior to registration
+PHASE I STUDY -- ARM A (DOSE LEVEL ) AND ARM B (DOSE LEVEL )
+Must be either initiating therapy with romidepsin (Arm A) or currently receiving romidepsin with documented stable disease (SD) or partial response (PR) (Arm B)
+At least  days and no more than  days must have elapsed between the last day of treatment on Arm  and registration to Arm 
+While patients randomized to the standard arm (Arm B, - fractions) may receive concurrent chemotherapy with carboplatin/taxol at their treating physicians discretion, patients enrolled to the experimental arm (Arm A,  fractions) cannot be treated with concurrent chemoradiation and must not have plans for concurrent chemoradiation therapy; sequential chemotherapy (prior to or after radiotherapy) is allowed for either arm
+Chemotherapy given within one week of study registration/enrollment except concurrent chemotherapy may to be given at the investigators discretion to patients randomized to the standard arm (arm B, - fractions)
+Eligibility for crossover registration from Arm A (lenalidomide alone) to Arm B (lenalidomide and epoetin alfa):
+For patients enrolling onto Arm B (mFOLFIRINOX) or Arm C (FOLFIRI)
+For patients enrolling onto Arm D (MM- with -FU and leucovorin)
+Study Arm :
+Study Arm 
+Study Arm 
+Study Arm 
+Negative tuberculosis quantiferon test for anakinra arm.
+Negative serology for histoplasma, blastomycosis, and coccidiomycosis for anakinra arm.
+Patients with known hypersensitivity to any of the components of an investigational treatment will be excluded from participation in the corresponding arm but are eligible for participation in other study arm; Patients that have a history of hypersensitivity to rapamycin derivatives will be excluded from participation in the everolimus arm
+For the ibrutinib arm only: participants must not currently require ongoing anticoagulation for any reason, or have had any major bleeding events within  months of enrollment
+Participants with a history of poor tolerance to either ibrutinib or idelalisib should not be enrolled on the arm containing that drug, but may be enrolled to the other arm; must agree not to share study medication with another person
+Have a histologically proven BCC in which curative resection is unlikely without significant morbidity, or have nodal or distantly metastatic disease which has progressed on smoothened inhibitor monotherapy (ARM ) or has undergone partial response or stable disease on smoothened inhibitor monotherapy (ARM ); individuals who are intolerant or have medical contra-indication to smoothened inhibitor may be enrolled into ARM 
+Patients who meet eligibility for the protocol but are not candidates to receive further chemotherapy may be treated on Arm C
+Patients with p deletion can only be enrolled on Arm C; these patients will receive the expanded T cells without lymphodepleting chemotherapy
+Arm  ONLY: Surgically operable NSCLC or mesothelioma
+ELIGIBILITY FOR TREATMENT ON ARM : Patients must express HLA-A*
+Requires treatment with a strong cytochrome P (CYP) A inhibitor Eligibility Criteria for Open-label Substudy Treatment Arm C The Inclusion/Exclusion criteria for the substudy (Arm C) are identical to those described above for the randomized study but, to be eligible, subjects need to be considered refractory to the last prior rituximab-containing therapy defined as either
+Part B Arm  only:
+REGISTRATION TO SURGERY (ARM S)
+The presence of deletion of the short arm of chromosome 
+CRIZOTINIB PLUS PAZOPANIB ARM A:
+Time since the last dose of prior therapy to treat underlying malignancy:\r\n* Cytotoxic chemotherapy or endocrine therapy: >= the duration of the most recent cycle of the previous regimen (with a minimum of  weeks for all, except  weeks for nitrosourea, mitomycin-C)\r\n*Biologic therapy (e.g., antibodies): >=  weeks\r\n* >=  X half-life of a small molecule therapeutic\r\n* >=  weeks interval between whole brain radiation therapy and initiation of protocol-based therapy for ARM C or D patient with stable brain metastases\r\n* >=  weeks interval between stereotactic radiosurgery (SRS) or gamma knife (or equivalent) and initiation of protocol-based therapy for ARM C or D patient with stable brain metastases\r\n* Patients enrolled in ARM C may remain on trastuzumab without a washout period\r\n* Patients enrolled in ARM D may remain on lapatinib without a washout period
+Patients who have been previously treated with an anti-VEGF agent will be excluded from Arm A and Arm B
+Arm A:
+Patients who were assigned to an axitinib containing treatment arm in a previous clinical trial
+CRITERIA FOR ASSIGNMENT TO THE LOW-RISK ARM OF THE PROTOCOL:
+Desmoplastic medulloblastoma patients who are >=  to <  years of age will NOT be eligible for the low risk arm of the protocol
+CRITERIA FOR ASSIGNMENT TO THE INTERMEDIATE-RISK ARM OF THE PROTOCOL
+Progression following at least  weeks of standard doses of Herceptin (Arm A only)
+Prior treatment with Herceptin (Arm B only)
+Pre-registration chemotherapy given within  days of treatment (treatment meaning surgery if Arm A, chemotherapy if Arm B)
+Hepatic: Total bilirubin ? . x upper limit of normal (ULN) (Arm: idelalisib + nab-paclitaxel ); total bilirubin ?. x ULN (Arm: single agent idelalisib and Arm: idelalisib + mFOLFOX); aspartate transaminase (AST) (SGOT), alanine transaminase (ALT) (SGPT) < . x ULN, and albumin > . g/dL
+Presence of peripheral neuropathy ? Grade  (Arm: idelalisib + nab-paclitaxel and Arm: idelalisib + mFOLFOX)
+Karnofsky/Lansky performance scale\r\n* ARM A: > %\r\n* ARM B: No limitation
+Renal function\r\n* ARM A: Creatinine clearance >  ml/min\r\n* ARM B: No limitation
+Hepatic function\r\n* ARM A:\r\n** Liver enzymes (< x  upper limit of normal [ULN]),\r\n** Bilirubin (< x  ULN) and stable in the  days prior to TCD boost\r\n* ARM B: No limitation
+Cardiac function: \r\n* ARM A: No evidence of uncontrolled heart failure or active angina\r\n* ARM B: No limitation
+Pulmonary function\r\n* ARM A: Spontaneous breathing, not requiring ventilatory support\r\n* ARM B: No limitation
+Subject currently participating in a clinical investigation that includes an active treatment arm
+SELUMETINIB ARM: Platelets <  x ^/L (, per mm^)
+LAPATINIB DITOSYLATE ARM: LVEF < %
+Patient must have at least  measurable lesions that are >= . cm in one dimension; one of the lesions, must meet additional criteria a or b depending on the treatment arm:\r\n* For Arm A patient must have at least one lesion that is >= . cm and is amenable to image-guided cryoablation and multiple vaccine injections as determined by Interventional Radiology (including tumors that can be safely accessed using imaging guidance and treated with minimal risk to adjacent structures)\r\n* For Arm B patient must have one lesion that can be excised for in vitro vaccine preparation
+Enrollment into Arm B will be permitted if ibrutinib is considered the standard of care in the clinical practice. EXPANSION COHORT  OF ARM C:
+Part I Histologically- or cytologically-confirmed advanced solid tumors that are refractory to standard therapy or for which no standard therapy exist. Part II Arm A have head and neck cancer or K-Ras wild type EGFR expressing colon cancer, Arm B, have non small cell lung cancer, Arm C, have BRAF VE mutated melanoma and Arm D have HER positive breast or gastric cancer that has progressed following one or more treatments for advanced or metastatic disease.
+Measurable disease per RECIST version . (Arm A and B) and modified RECIST for Arm C.
+Eastern Cooperative Oncology Group (ECOG) Performance Status of - for Arm A and C subjects and - for Arm B.
+Arm C: Patients with CML in CP after failure of  FDA-approved TKIs (i.e., Non-Acute group patients)
+Current use of alpha-adrenergic receptor blockers For Combination Arm only:
+Have previously been enrolled in Study CT or CNTOMCD (either treatment arm)
+Absolute neutrophil count ?  per microliter Stages I and II, Arm C or Stage II Arm D:
+Stage I Arm A: Pregnancy, lactation, or intention to become pregnant or fathering a child during the study
+Additionally, for participants in the ibrutinib combination arm (Cohort E), use or consumption of any of the following substances:
+Have stable arm LE; LE will be considered stable if during the  months prior to study enrollment there was no arm infection requiring antibiotics, no change in ability to perform activities of daily living related to LE, and no subjective report of significant persistent changes in limb volume
+Current infection or lymphangitis involving the affected arm
+Ready to use reliable contraceptive procedures Inclusion Criteria Specific to HCC (Arm A and Arm F):
+Active hepatitis B (chronic or acute), or hepatitis C (exception for participants in Arm A and Arm F)
+Presence of islet cell neoplasms Exclusions Specific to Arm E (Metastatic Esophageal Cancer) (Patients who meet any of the following specific exclusion criteria will be excluded from enrollment in Arm E:)
+Platelets >=  x ^/L (for Arm L pembrolizumab and Arm M nivolumab and expansion cohorts for all arms, platelets >=  x ^/L)
+Hemoglobin >=  g/dL (for Arm L pembrolizumab and Arm M nivolumab and expansion cohorts for all arms, hemoglobin >=  g/dL
+Arm C: Patients with a methotrexate allergy are excluded
+Patient should be at least  weeks removed from surgery or radiation in affected arm
+Arm circumference between - cm
+The affected arm must be >  cm larger than the unaffected arm; differences of  cm or more between the affected and unaffected arm are considered by experts to be clinically significant; each affected arm will be measured in two areas: upper arm and forearm; the larger of the two measures -upper arm or forearm- will be used for analysis
+For Arm  patients, participation in this study, in the opinion of the treating physicians, will not introduce delays in surgery that would adversely affect the patient
+Willing to undergo two surgical procedures (if participant chooses the ISDO arm)
+Participants must not have been treated with iloprost at any time; Note: participants on the placebo arm of previous iloprost trials are eligible, but participants on the placebo arm of cohort A of this study may not be enrolled in cohort B
+Phase  Part: Patients with confirmed diagnosis of MF who meet all of the following criteria: (a) DIPSS of intermediate- or higher, (b) Platelet count: ?  (monotherapy arm) or ?  (combination arm), (c) ANC ? ., (d) Palpable spleen ? cm, (e) Peripheral blood blast count <%, (f) At least  symptoms measurable using the MFSAF v., (g) Monotherapy Arm patients: Previously treated with a JAK inhibitor and be intolerant, resistant, refractory or lost response to the JAK inhibitor, (h) Combination Arm patients: Be on a stable dose of Ruxolitinib
+Participants who have previously enrolled and received study drugs on arm  of this study cannot re-enroll onto arm  after being removed from this study, but if they were removed from arm  for disease progression, they are eligible to re-register onto this study in order to enroll onto arm  of this study if they otherwise meet all of the eligibility criteria for this study; all participants who received an investigational product on a clinical trial, including arm  of this study, must wait  days prior to course  day  (CD) of this study
+Prior use of CC- (Arm B)
+Women desiring future fertility except in the screening arm of the trial
+At least  doses of fusion vaccine were produced (Arm A only)
+ARM II ONLY: Nonspecific or no evidence for disease on standard imaging modality
+ARM III ONLY: Patients must have identifiable metastatic disease on at least  clinically indicated imaging modality; if only soft tissue metastasis, one lesion must measure at least  mm or greater; patients must have confirmation of prostate cancer prior to F-DCFBC imaging\r\n* Note: a patient who is eligible for one arm, subsequently may cross-over into a different arm
+Study Arm : Patients previously diagnosed with a non-mucinous epithelial ovarian carcinoma (including serous, clear cell, and endometrioid histologies as well as borderline ovarian tumors) currently undergoing routine surveillance for recurrence, having been diagnosed with recurrence but prior to initiation of chemotherapy; patients from Study Arm  will automatically be included in Study Arm  as well unless they withdraw consent; finally, patients who have been diagnosed with an ovarian cancer of acceptable histology, who have already undergone surgery or biopsy, but not yet initiated adjuvant chemotherapy are eligible for Study Arm 
+Active substance use disorder (diagnosed or strongly suspected) (Arm )
+Additional Exclusion Requirements for arm  only (nivolumab Plus TAK-)
+Additional Exclusion Requirements for arm  only (vedolizumab Plus nivolumab Plus ipilimumab)

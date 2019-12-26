@@ -1,0 +1,90 @@
+Prior use of ibrutinib is allowed unless patient has had disease progression while receiving ibrutinib
+Subject must be referred for treatment with ibrutinib.\r\n* Since ibrutinib will not be supplied as part of the study, the subject’s ability to obtain ibrutinib from a commercial supplier must be confirmed prior to enrollment
+Concurrent enrollment in another therapeutic investigational study or have previously taken ibrutinib and/or lenalidomide.
+Prior exposure to ibrutinib or ulocuplumab
+Patients who are receiving any other investigational agents; all investigational agents other than ibrutinib must have been discontinued at least 4 weeks prior to beginning treatment; prior ibrutinib therapy must have been discontinued at least 2 weeks prior to beginning therapy
+Completion of any prior treatment with radiation, chemotherapy, biologics, and/or other investigational agents at least 4 weeks prior to the first dose of ibrutinib; patients must have completed any prior immunotherapy (e.g., rituximab or PD-1 inhibition) or antibody drug conjugate therapy (e.g. brentuximab vedotin) at least 4 weeks prior to the first dose of ibrutinib in the absence of clear disease progression
+Participants who have had prior exposure to ibrutinib
+Prior use of ibrutinib
+Cohort #2: prior treatment with ibrutinib is allowed; patients should not have received any anti-lymphoma therapy within 3 weeks from start of study treatment, with the exception of ibrutinib
+Prior therapy: Patients must have been receiving single agent ibrutinib therapy at the time of disease progression. Patient may have received other therapy in combination with ibrutinib earlier in the treatment course. Patients may have received other therapies after ibrutinib but stopped based on the defined wash-out periods and still meet iwCLL criteria for treatment
+Primary ibrutinib resistance, defined by progressive disease within the first 2 months of first initiating ibrutinib therapy
+Lack of a complete response after receiving ibrutinib for > 1 year OR presence of known ibrutinib resistance mutation
+Prior therapy with ibrutinib or other BTK inhibitors
+Prior therapy for lymphoma including chemotherapy or immunotherapy including ibrutinib/anti-CD20 agents; patient may have received corticosteroids, but should be off them 2 weeks prior to study entry; known prior significant hypersensitivity to obinutuzumab (not including infusion reactions) or ibrutinib
+Patients must have a diagnosis of CLL/SLL and EITHER have high-risk cytogenetic features or molecular features, defined as: del(17p), del(11q), mutated TP53, complex metaphase karyotype (defined as >=3 unrelated chromosomal abnormalities, present in at least 2 metaphases on conventional, stimulated cytogenetic analysis) OR have developed a BTK or PLCG2 mutation, detected by sequencing and have not developed disease progression during ibrutinib therapy as defined by International Workshop on Chronic Lymphocytic Leukemia (IWCLL) criteria OR B2M has not normalized after at least 1 year (yr) on ibrutinib therapy\r\n* Note: some patients treated with ibrutinib may no longer have detectable fluorescence in situ hybridization (FISH), karyotypic or molecular abnormalities after 12 months of therapy. These patients will be eligible if they fulfill the above criteria on a bone marrow biopsy or peripheral blood specimen taken within the 3 months prior to starting ibrutinib or at some time during their ibrutinib therapy and analyzed at a Clinical Laboratory Improvement Act (CLIA)-accredited laboratory
+Patients must have received at least 12 months of ibrutinib therapy and have measurable CLL by at least one of the following: Absolute monoclonal lymphocyte count > 4000/microL; OR measurable lymph nodes with at least one node > 1.5 cm in diameter on computed tomography (CT); OR Bone marrow with >= 30% lymphocytes or peripheral blood specimen taken within the 3 months prior to starting ibrutinib or at some time during their ibrutinib therapy and analyzed at a CLIA-accredited laboratory
+Prior treatment with either venetoclax or ibrutinib
+Patients should be previously untreated or have only been treated with single agent ibrutinib therapy for a period of < 3 months and were deemed ibrutinib intolerant
+Participants who have previously received ibrutinib for another indication
+Prior therapeutic intervention with any of the following:\r\n* Therapeutic anticancer antibodies within 4 weeks (rituximab), except within 6 months for obinutuzumab or a similar investigational type II monoclonal antibody;\r\n* Radio- or toxin-immunoconjugates within 10 weeks;\r\n* Inhibitors of BTK (ibrutinib), PI-3K (idelalisib), BH3-mimetic venetoclax, lenalidomide and other “targeted” therapy (including but not limited to investigational BTK and PI-3K inhibitors, etc.) – within 6 half-lives (i.e., 36 hours for ibrutinib)\r\n* All other chemotherapy, radiation therapy within 3 weeks prior to initiation of therapy\r\n* SYK inhibitors at any time
+History of treatment with ibrutinib or blinatumomab
+Has progressed on prior therapy with ibrutinib or other BTK inhibitors
+Known hypersensitivity to either study drug (umbralisib or ibrutinib)
+Any major surgery, radiotherapy, chemotherapy, biologic therapy, immunotherapy, experimental therapy within 4 weeks prior to the first dose of the study drugs (except ibrutinib for patients in cohort 3); NOTE: for patients on oral targeted therapies (such as ibrutinib, idelalisib, IPI-145, ACP-196), a wash-out of 3 days from cycle 1 day 1 is acceptable
+Prior treatment with venetoclax or ibrutinib
+Patients previously treated with ibrutinib > 14 days are ineligible; if patient has been treated with ibrutinib for < 14 days, it must be discontinued 1 week (7 days) weeks prior to study initiation
+Patients must be currently receiving ibrutinib for at least 6 months prior to enrollment in the study and:\r\n* Not experiencing any >= grade 2 non-hematologic ibrutinib-related toxicity\r\n* The best response to ibrutinib therapy must not have exceeded partial response or stable disease (i.e. no complete response [CR] or complete response with incomplete marrow recovery [CRi])\r\n* Note: patients carrying a deletion at chromosome 17p (i.e. deletion [del][17p]), and/or tumor protein (TP)53, Bruton's tyrosine kinase (BTK), and at the phospholipase C, gamma 2 (PLCgamma 2) loci mutations, will be eligible if they are receiving frontline therapy with ibrutinib
+Patients that previously were treated with ibrutinib for > 7 days
+Previous chemotherapy, immunotherapy, biologically targeted therapy, other investigational agent, or radiation therapy within 3 weeks of initiation of ibrutinib therapy or radio-immunotherapy within 12 weeks of initiation of ibrutinib therapy
+No more than 4 prior lines of anti leukemia therapy (not including ibrutinib)
+Subjects experiencing toxicity with ibrutinib
+Use of an investigational treatment (except for ibrutinib) from 30 days prior to the first dose
+No more than 4 prior lines of anti leukemia therapy (not including ibrutinib)
+Subjects experiencing toxicity with ibrutinib
+Use of an investigational treatment (except for ibrutinib) from 30 days prior to the first dose
+Currently taking ibrutinib and first took ibrutinib > 3 months ago
+Inability to continue taking ibrutinib for any reason
+Patients that have previously been treated with ixazomib, or participated in a study with ixazomib whether treated with ixazomib or not; (NOTE: prior ibrutinib treatment is allowed as per: patients with prior exposure to ibrutinib will be allowed if they do not have disease refractory to ibrutinib; patient receiving ibrutinib will be allowed on this trial if they have measurable disease and did not have disease progression while receiving ibrutinib; prior bortezomib treatment is allowed as per: patients with prior exposure to bortezomib will be allowed if they do not have disease refractory to bortezomib)
+Intolerance of ibrutinib
+History of allergy to or intolerance of ibrutinib or lenalidomide
+Prior exposure to ibrutinib or other ITK inhibitors
+A treatment regimen containing ibrutinib unless patient is not a candidate
+Patients who have been previously treated with ibrutinib (or any Bruton’s tyrosine kinase inhibitor) are eligible for the ibrutinib pre-treated cohort as long as prior ibrutinib or BTK inhibitor therapy was not discontinued due to toxicity/adverse event; there is no minimum dose of ibrutinib; any prior administration will disqualify patients for the ibrutinib-naïve cohort and will require enrollment on the ibrutinib pre-treated cohort
+Eligible and able to secure sourcing for ibrutinib
+Previous treatment with ibrutinib
+Intolerant of ibrutinib
+Ongoing AE attributed to ibrutinib therapy
+Treatment with systemic anticancer therapy for CLL is prohibited between discontinuation of ibrutinib and enrollment on this trial.
+CLL requiring treatment; patients must be eligible for ibrutinib therapy
+Patients who have received any treatment with ibrutinib prior to study entry
+Previous treatment with ibrutinib
+History of hypersensitivity to ibrutinib
+For the ibrutinib arm only: participants must not currently require ongoing anticoagulation for any reason, or have had any major bleeding events within 6 months of enrollment
+Known hypersensitivity to ibrutinib or any component of the ibrutinib formulation
+Prior use of ibrutinib or other BTK inhibitors, rituximab or lenalidomide
+Prior treatment with ibrutinib
+Known hypersensitivity to ibrutinib
+Participants who are receiving any other investigational agents\r\n* Patients who have previously received ibrutinib will be ineligible in the Phase Ib portion of the study of the CLL arm\r\n* MCL patients who have been on ibrutinib for less than 6 months (180 days) from the time of registration are eligible in the Ib portion of the trial; no washout will be required
+Treatment with chemotherapy, monoclonal antibodies or biological agents (e.g. ibrutinib, lenalidomide) within 28 days prior to entering the study
+Prior exposure to ibrutinib or other BTK inhibitors.
+Subjects (other than those in the ibrutinib + JCAR017 combination therapy cohort) must have received previous treatment as follows:
+Subjects in the ibrutinib + JCAR017 combination therapy cohort must be either:
+receiving ibrutinib and progressing at the time of study enrollment
+have BTK or PLCgamma2 mutations per local laboratory assessment, with or without progression on ibrutinib
+Prior therapy with ibrutinib or venetoclax
+Patients may have received prior ibrutinib, lenalidomide, rituximab, and/or bortezomib either alone or in combination
+Prior treatment with ibrutinib or other Bruton's tyrosine kinase inhibitors or prior randomization in any other clinical study evaluating ibrutinib
+Concurrent enrollment in another therapeutic investigational study or have previously taken ibrutinib
+Prior treatment with ibrutinib
+Patients who have previously received treatment with ibrutinib (modified by amendment 1), including:
+Discontinuation of ibrutinib treatment at an earlier time due to toxicity
+Prior exposure to ibrutinib
+Prior exposure to ibrutinib
+Receipt of any investigational agents within 14 days before the first dose of ibrutinib
+Known hypersensitivity to ibrutinib or nivolumab
+Subject must currently be participating in an ibrutinib clinical trial, deriving clinical benefit from treatment with ibrutinib in the opinion of the treating physician and do not have access to commercial ibrutinib within their region.
+Ongoing continuous treatment with ibrutinib.
+Subject must have completed all assessments in their parent protocol and want to continue treatment with ibrutinib.
+Meeting any requirement in the parent protocol to permanently discontinue ibrutinib treatment.
+PRIOR TO ADMINISTRATION OF IBRUTINIB (DAY 60-DAY 90 POST SCT)
+Prednisone equivalent of > 2m/kg for treatment of GVHD prior to administration of ibrutinib
+Prior treatment with either obinutuzumab or ibrutinib
+INCLUSION CRITERIA (PRIOR TO IBRUTINIB ADMINISTRATION)
+EXCLUSION CRITERIA (PRIOR TO IBRUTINIB ADMINISTRATION): Karnofsky performance status < 60%
+EXCLUSION CRITERIA (PRIOR TO IBRUTINIB ADMINISTRATION): Any uncontrolled active systemic infection
+EXCLUSION CRITERIA (PRIOR TO IBRUTINIB ADMINISTRATION): Lactating or pregnant
+Concurrent enrollment in another therapeutic investigational study or prior therapy with ibrutinib or other BTK inhibitors
+Patients must have been receiving single agent ibrutinib therapy at the time of disease progression; patient may have received other therapy in combination with ibrutinib earlier in their treatment course; prior obinutuzumab therapy is also permitted
+Patients must have progressive disease on single agent ibrutinib therapy (but not within the first 2 months of initiating ibrutinib therapy); progression is based on 2008 iwCLL definition, but excluding patients who have treatment-related lymphocytosis as the sole progressive factor; therefore, patients must have at least one of the following:\r\n* >= 50% increase in the products of at least two lymph nodes on two consecutive determinations two weeks apart (at least one lymph node must be >= 2 cm); appearance of new palpable lymph nodes\r\n* >= 50% increase in the size of the liver and/or spleen as determined by measurement below the respective costal margin; appearance of palpable hepatomegaly or splenomegaly, which was not previously present\r\n* Decrease in hemoglobin >= 2 gm/dL, or decrease >= 50% in platelet or granulocyte count with a bone marrow biopsy showing CLL cell infiltrate\r\n* Progressive lymphocytosis, >= 50% higher than lowest absolute lymphocyte count (ALC) on single agent ibrutinib therapy, excluding ibrutinib treatment-related lymphocytosis\r\n* If receiving ibrutinib as part of a clinical trial: meets criteria for disease progression based on trial defined criteria
+Primary ibrutinib resistance, defined by progressive disease within the first 2 months of first initiating ibrutinib therapy

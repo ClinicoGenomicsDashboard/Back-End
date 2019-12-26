@@ -1,0 +1,11 @@
+Cluster 35: carcinoma cell basal local cervix resection exception squamous treated skin 
+Cluster 159: carcinoma malignancies cell situ basal cervix squamous skin years treated 
+Cluster 1637: carcinoma prostate cancer cell basal situ squamous treated skin years 
+Cluster 1707: superficial cancer bladder basal cell carcinoma squamous skin malignancy situ 
+Cluster 1740: cured carcinoma malignancy basal cervix years skin situ excised cell 
+Cluster 1954: curatively carcinoma treated malignancy situ skin basal cell years squamous 
+Cluster 2071: carcinoma cell basal malignancy situ skin squamous cervix years treated 
+Cluster 2097: resected completely cell basal squamous skin carcinoma exceptions situ recurred 
+Cluster 2267: intent treated curative carcinoma malignancy years situ cell basal skin 
+Cluster 2359: situ carcinoma cervix breast cis uteri bladder adequately history treated 
+Cluster 2393: situ carcinoma definitively cervix squamous basal melanoma skin malignancy cell 

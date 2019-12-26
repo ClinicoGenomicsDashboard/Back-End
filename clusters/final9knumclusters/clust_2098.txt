@@ -1,0 +1,19 @@
+The following laboratory values must be greater than the lower limits of normal prior to starting study drug (supplementation allowed): potassium, magnesium, calcium
+Patient must have the following laboratory values or have the following laboratory values corrected with supplements to be above the lower limit of normal before the first dose of ceritinib:\r\n* Potassium\r\n* Magnesium\r\n* Phosphorus\r\n* Total calcium (corrected for serum albumin)
+Unacceptable electrolyte values, including:\r\n* Potassium < 4.0 mmol/L despite supplementation, or elevated potassium above the CTCAE grade 1 upper limit\r\n* Magnesium below the lower limit of normal range despite supplementation, or elevated magnesium above the CTCAE grade 1 upper limit\r\n* Ionized calcium or corrected calcium values below the normal range or hypercalcemia above the CTCAE grade 1 upper limit
+Serum phosphorus, calcium, magnesium and potassium >= lower limit of normal
+Calcium >= lower limit of normal
+Potassium, magnesium, phosphorus and total calcium values ? LLN (lower limit of normal)
+Calcium >= lower limit of normal (=< 48 hours prior to enrollment/randomization)
+Calcium >= lower limit of normal (=< 48 hours prior to registration)
+Normal serum potassium (K+), magnesium (Mg+), phosphates (PO4), and total Ca++ (calcium) (pre-treatment abnormal values may be therapeutically corrected before starting therapy and must be documented as normal or if abnormal values persist must be documented as clinically insignificant)
+Magnesium, potassium and calcium < the lower limit of normal per institution normal lab values
+Magnesium > the lower limit of normal per institution normal lab values
+Potassium > the lower limit of normal per institution normal lab values
+Calcium > the lower limit of normal per institution normal lab values
+Magnesium or potassium lower than the normal institutional values
+Magnesium, potassium and calcium > the lower limit of normal per institution normal lab values
+Magnesium >= the lower limit of normal per institution normal lab values
+Potassium >= the lower limit of normal per institution normal lab values
+Calcium >= the lower limit of normal per institution normal lab values
+Magnesium, potassium and calcium > the lower limit of normal per institution normal lab values

@@ -1,0 +1,24 @@
+Creatinine no greater than the institutional upper limits of normal
+128.0
+Serum sodium and potassium within the institutional limits of normal, within 14 days of registration and within 7 days of the start of treatment
+180.0
+Creatinine =< 2 x institutional upper limits of normal
+42.0
+Patients must have serum creatinine =< 2 x institutional upper limits of normal (IULN) within 7 days prior to registration
+38.0
+Creatinine within normal institutional limits OR
+12.0
+Cardiac function within institutional normal limits on echocardiogram
+35.0
+Bilirubin =< 2.0 x upper limits of normal (ULN)
+420.0
+Within 14 days of registration: Bilirubin =< 1.5 x upper limits of normal (ULN)
+110.0
+Creatinine within normal institutional limits OR
+15.0
+Serum bilirubin =< 1.5 x institutional upper limits of normal (ULN); must be obtained within 28 days prior to registration
+180.0
+Thyroid stimulating hormone (TSH) within institutional limits (ie: normal); if TSH is greater or less than institutional limits patients may participate if their T4 is within normal limits (WNL); patients may be on a stable dose of replacement thyroid medication; dose adjustments are allowed if needed
+60.0
+Creatinine within normal institutional limits
+24.0

@@ -1,0 +1,56 @@
+Weight ?  kg
+Patient with a BMI >  kg/m and weighing at least  kg
+Weight ?  kg
+At least  kg
+ELIGIBILITY FOR SCREENING: Weighs at least  kg
+Patient weight >=  kg; patients >=  kg with MUDs must be discussed with the principal investigator
+Must be >=  kg
+STRATUM B: Must meet the following weight and body surface area (BSA) restrictions:\r\n* For enrollment on dose level A, must have a weight  >= kg and < kg\r\n* For enrollment on dose level B must have a weight >= kg and BSA >= .m^\r\n* For enrollment on dose level , must have a weight >= kg and BSA >= .m^\r\n* For enrollment on dose level , must have a weight >= kg and BSA >= .m^\r\n* For enrollment on dose levels  or A, must have a weight >= kg \r\n* For enrollment on dose levels B or , must have a weight >= kg and =< kg
+Weight <  kg
+>  kg
+CELL PROCUREMENT: Pediatric subjects (weight must be >=  kg)
+Weight over  kg
+Patients must be >=  kg
+Weight > kg (required for flat dose-based administration of study agents)
+Less than or equal to  kg
+PRIOR TO CELL PROCUREMENT: For pediatric subjects (weight must be ?  kg)
+Weight ?  kg ( lb)
+Patients with a weight of <  kg
+Patients weighing less than  Kg
+Weight >  kg
+Weight > kg ( lb) and ? kg ( lb); if between  and  years of age must weigh >=  kg ( lb)
+Patients must be >=  kg
+Must be  -  years of age and at least  kg
+Weighs at least kg
+Clearance to be calculated using Cockcroft formula: Males: . x ( - age) x weight (kg) - serum creatinine (?mol/l) ; Females: . x ( - age) x weight (kg) - serum creatinine (?mol/l)
+Weight >=  kg
+Weight <  kg
+At least  kg
+( - age) x (weight in kg) x (. if female)/  x (serum creatinine in mg/dL)
+Patients weighing less than  kg
+Patient must be >  kg
+Age  and above and > kg.
+Weight <  kg
+Subjects with a body weight >  kg (for Cohorts dosing  mg/kg of ALXN and higher only).
+Weight of at least kg.
+Weight between  kg and  kg
+Weight >=  kg
+Weight ?rd percentile for age and gender (and ?. kg)
+>  kg at the time of apheresis; patients between - kg. must be approved by the apheresis unit prior to enrollment on protocol
+Weight ?  kg.
+Weight >=  kg
+Patients weighing <  kg
+Weight >  kg ( lbs)
+Patient weight >=  kg
+Patients <  kg or >  kg, based on literature regarding accuracy of FloTrac
+Overweight or obese (>  kg/m^)
+Patients whose BMI falls outside the eligible range (<  kg/m^ or >  kg/m^)
+Patients weighing <  kg
+Weight > kg
+weight of less than or equal to  kg (for sites using cefuroxime only).
+Weight between  kg to  kg
+Patient weight at least . kg.
+Normal weight (BMI < . kg/m^)
+Body weight between  kg ( lb) and  kg ( lb), inclusive
+Patient weighs >  kg
+Unexplained change in weight (> . kg) within the past  months

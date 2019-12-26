@@ -1,0 +1,8 @@
+Phase II Group 1 (EGFRmut, any T790M, any c-MET, 2/4L antineoplastic, EGFR TKI resistant) only: Patients demonstrated a documented clinical benefit (CR (any duration), PR (any duration), or SD for at least 6 months) on prior EGFR TKI (e.g. erlotinib, gefitinib or afatinib, and subsequently demonstrated progression according to RECIST v1.1.
+Phase II Group 2 (EGFRmut, de novo T790M, any c-MET, 1/3L antineoplastic, EGFR TKI naïve) only: Advanced NSCLC patients who have not been previously treated with any therapy known to inhibit EGFR and harbor de novo T790M mutation .
+Phase II Group 3 (EGFRmut, T790M negative, any c-MET, 1L antineoplastic) only: patients must harbor an EGFR activating mutation and must be naïve from any line of systemic antineoplastic therapy in the advanced setting.
+Phase II Group 4 (EGFRmut, any T790M, any c-MET, 1L (treatment-naïve), 2//3L antineoplastic): All patients must harbor an EGFR activating mutation and 2/3L patients must have failed (defined as intolerance to treatment or documented disease progression) a maximum of 2 prior lines of antineoplastic therapy in the advanced setting
+Phase II Group 1 (EGFRmut, any T790M, any c-MET, 2/4L antineoplastic, EGFR TKI resistant):
+Phase II Group 2 (EGFRmut, de novo T790M, any c-MET, 1/3L antineoplastic, EGFR TKI naïve):
+Phase II Group 3 (EGFRmut, T790M negative, any c-MET, 1L antineoplastic):
+Phase II Group 4 (EGFRmut, any T790M, any c-MET, 1/3L antineoplastic):

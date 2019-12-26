@@ -1,0 +1,116 @@
+Prior autologous or allogeneic HCT
+Ages =< 50 years of age with hematologic diseases treatable by allogeneic HCT who refuse a high-dose HCT; transplants must be approved for these inclusion criteria by the principal investigators at the collaborating centers and at FHCRC
+Aggressive non-Hodgkin lymphomas (NHL) and other histologies such as diffuse large B cell NHL: not eligible for autologous HCT, not eligible for high-dose allogeneic HCT, or after failed autologous HCT
+Previous history of autologous or allogeneic-HCT
+A prospective patient for allogeneic HCT for a malignant hematologic disorder
+Prior cytotoxic chemotherapy within 21 days from the initiation of HCT conditioning. Note, certain low intensity treatments not intended to induce remission but rather stabilize disease are acceptable up to 7 days prior to initiation of HCT conditioning
+Prior allogeneic or autologous HCT at any time.
+Prior allogeneic HCT.
+Patients 50-60 years old will be enrolled in Arm B or D (lower intensity); patients eligible for Arms B or D also include those who have received previous allogeneic HCT, or who have co-morbid conditions rendering them unsuitable for high-dose conditioning, determined in consultation with the principal investigator
+PHASE I: If post allogeneic HCT: Confirmed CD19+ leukemia recurrence defined as >= 0.01% disease by Seattle Children’s Hospital (SCH) or University of Washington (UW) Pathology Department following allogeneic HCT
+Patients with a nonmalignant disease treatable by allogeneic HCT
+AUTOLOGOUS APHERESIS: Patients with a history of prior allogeneic hematopoietic cell transplantation (HCT) must be clinically recovered from prior HCT therapy, have no evidence of active graft versus host disease (GVHD) and have not received a donor lymphocyte infusion (DLI) within the 28 days prior to apheresis
+MANUFACTURING SJCAR19: CD19+ ALL with any of the following:\r\n* Primary refractory disease despite at least 2 cycles of an intensive chemotherapy regimen designed to induce remission\r\n* Refractory disease despite salvage therapy\r\n* 2nd or greater relapse\r\n* Any relapse after allogeneic hematopoietic cell transplantation \r\n* 1st relapse if patient requires an allogeneic HCT as part of standard of care relapse therapy, but is found to be ineligible and/or unsuitable for HCT
+Patients with a prior autologous or allogeneic HCT
+Have received a T cell-depleted allogeneic (i.e., non-autologous) HCT within the previous 100 days.
+If post allogeneic HCT: Confirmed CD19+CD22+ leukemia recurrence defined as >= 0.01% disease following allogeneic HCT
+If relapse/refractory status with no prior history of allogeneic HCT (one of the following)\r\n* 2nd or greater marrow relapse, with or without extramedullary disease\r\n* 1st marrow relapse at end of 1st month of re-induction with marrow having >= 0.01% blast by morphology and/or MPF\r\n* Primary refractory as defined as having > 5% blasts by multi-parameter flow or polymerase chain reaction (PCR) after 2 or more separate induction regimens\r\n* Subject has indication for HCT but has been deemed ineligible, inclusive of persistent MRD prior to HCT
+Patients who have relapsed or have MRD after HCT may receive other agents for treatment of disease and remain eligible for the protocol
+Previous HCT
+Has had relapse prior to primary neutrophil engraftment or =< 21 days post HCT
+Ages =< 50 years with hematologic diseases treatable by allogeneic HCT who refuse a high-dose HCT; transplants must be approved for these inclusion criteria by the principal investigators at the collaborating centers and at FHCRC
+Aggressive nonHodgkin lymphomas (NHL) and other histologies such as diffuse large B cell NHL– not eligible for autologous HCT, not eligible for high-dose allogeneic HCT, or after failed autologous HCT
+If post allogeneic HCT: confirmed CD22+ leukemia recurrence defined as >= 0.01% disease by following allogeneic HCT
+If relapse/refractory status with no prior history of allogeneic HCT (one of the following)\r\n* 2nd or greater marrow relapse, with or without extramedullary disease\r\n* 1st marrow relapse at end of 1st month of re-induction with marrow having >= 0.01% blast by morphology and/or MPF\r\n* Primary refractory as defined as having > 5% blasts by multi-parameter flow after 2 or more separate induction regimens\r\n* Subject has indication for HCT but has been deemed ineligible, inclusive of persistent MRD
+Received an allogeneic HCT within the last 100 days; enrollment within 30-100 days after transplant, and after adequate recovery of counts
+Prior autologous or allogeneic HCT
+Prior allogeneic HCT
+RESEARCH SAMPLE COLLECTION: Myeloma patients who are not candidates for high-dose melphalan followed by autologous HCT based on institutional standards
+Received high-dose melphalan (>= 140 mg/m^2) followed by autologous HCT based on the institutional guidelines and within +45 and +180 after autologous HCT at the time of panobinostat maintenance initiation
+Patients must have achieved at least partial response (PR) prior to autologous HCT and must not have progressive disease (PD) prior to the initiation of maintenance therapy
+Prior allogeneic HCT
+Prior allogeneic HCT
+Subjects with second or subsequent relapse, any relapse refractory to salvage, or with persistent disease after at least two lines of therapy\r\n* Subjects with relapsed disease after prior allogeneic HCT (myeloablative or non-myeloablative) will be eligible if they meet all other inclusion criteria and\r\n** Have experienced graft rejection (no evidence of donor cells by short tandem repeat [STR] analysis on 2 occasions separated by at least 1 month), OR\r\n** Donor cells are present but there is no active graft-versus-host disease (GVHD), subject does not require immunosuppression and is more than 6 months from transplant\r\n** Have relapsed after prior syngeneic HCT and is more than 3 months from transplant\r\n* Subjects with relapsed disease after prior autologous HCT will be eligible if they meet all other inclusion criteria and it has been more than 3 months from transplant
+HCT-CI/age score =< 5 points (patients with greater than 5 points will be allowed for trial with approval of the PI and the co-PI or his designee; this is an adjustment to account for healthy patients who meet the spirit of this protocol but have histories that result in higher than HCT-CI 5 points
+HCT-CI/age score > 5 points (patients with greater than 5 points will be allowed for trial with approval of the principal investigator and the co-principal investigator or his designee; this is an adjustment to account for healthy patients who meet the spirit of this protocol but have histories that result in higher than HCT-CI 5 points
+Expected to undergo HCT within 120 days of enrollment
+Patients with:\r\n* CLL who are beyond first remission and who have failed combination chemoimmunotherapy with regimens containing a purine analogue and anti-CD20 antibody or who were not eligible for such therapy; patients with CLL for whom ibrutinib is now standard first line therapy, must have progressed on ibrutinib; patients with fludarabine refractory disease are eligible; patients may be treated following allogeneic hematopoietic cell transplant (HCT); for the concurrent ibrutinib cohort, patients must agree to continue on or be restarted on ibrutinib and must not have had prior intolerance to ibrutinib that would prevent this; patients managed with prior dose reductions for toxicity will continue at the reduced dose for the remainder of this study\r\n* Indolent NHL or mantle cell NHL who are beyond first remission and previously treated with chemoimmunotherapy or who were not eligible for such therapy; patients who have relapsed following autologous or allogeneic HCT are eligible\r\n* Aggressive NHL such as diffuse large B-cell lymphoma (DLBCL), who have relapsed or have residual disease following treatment with curative intent; patients should have relapsed following, or not be eligible for high-dose therapy and autologous HCT; patients with chemotherapy refractory disease or marrow involvement or comorbidities precluding successful autologous HCT are eligible; patients may be treated following allogeneic HCT\r\n* Patients with CD19 expressing, relapsed or refractory ALL\r\n* Patients with one of the above diagnoses whose disease state does not qualify but who have prognostic indicators that suggest a high risk of progression of disease may be screened and undergo leukapheresis; enrollment for T cell therapy would require meeting the full disease state eligibility
+Does not have any other active malignancy other than the one for which this HCT is indicated
+No prior allogeneic HCT, and no autologous HCT within the previous 12 months
+Patients who are currently undergoing or who previously underwent matched allogeneic HCT for:\r\n* AML: Prospective enrollment will now be limited to patients with relapsed disease (overt relapse or minimal residual disease) at any time post allogeneic HCT\r\n* MDS will no longer be a criterion for eligibility\r\n* CML will no longer be a criterion for eligibility
+Active bacterial infection within one week of HCT
+Active fungal infection at time of HCT
+First autologous or allogeneic HCT and hematologic disease in remission on initiation of antiviral therapy for hepatitis C infection
+If undergoing myeloablative allogeneic HCT:
+If undergoing non-myeloablative allogeneic HCT:
+Contraindication to haploidentical HCT as defined by the Investigator
+Ongoing systemic immunosuppressive therapy after haploidentical HCT
+Administration of G-CSF after haploidentical HCT
+CD3+ cells ? 100/µl at day of planned experimental infusion after haploidentical HCT
+Patients with prior allogeneic hematopoietic cell transplantation (HCT) must be at least 90 days post-HCT and must be on =< 20 mg of prednisone (or equivalent dose of an alternative corticosteroid) for treatment/prevention of graft-vs-host disease
+Patients with chemorefractory non-Hodgkin’s or Hodgkin’s lymphoma or multiple myeloma\r\n* Criteria for consideration of enrollment will include:\r\n** Primary refractory or refractory relapsed disease for which autologous hematopoietic cell transplantation (HCT) is unlikely to be beneficial\r\n** Relapse after autologous HCT\r\n** Ineligibility for standard myeloablative or nonmyeloablative allogeneic (allo)-HCT because of either lack of a donor or patient considerations\r\n*** Non-Hodgkin’s lymphoma, or Hodgkin’s lymphoma: primary refractory or refractory relapse\r\n*** Multiple myeloma; primary refractory or refractory relapse\r\n*** Patients with the above malignancies who have had a previous autologous or allogeneic bone marrow or stem cell transplant
+Patients with previous autologous or allogeneic HCT are allowed to enroll
+> 20% blast in the PB or BM prior to hematopoietic cell transplantation (HCT) or had leukemic transformation (> 20% blasts in PB or BM any time prior to HCT)
+Patient willing to consider HCT
+Prior allogeneic HCT
+Have previously received HCT
+Planning to receive autologous HCT per institutional standards as part of standard of care. Eligibility for autologous HCT should be based on institutional guidelines. However, at minimum all patients must meet the following criteria:\r\n* Karnofsky performance status (KPS) greater than 70\r\n* Cardiac left ventricular ejection fraction of greater than 40%\r\n* Calculated creatinine clearance of greater than 40 cc/min\r\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) of less than 2 x upper limit of normal\r\n* Direct bilirubin of less than 2 x upper limit of normal
+Prior allogeneic HCT (prior autologous transplant is allowed regardless of response)
+Hematopoietic cell transplantation (HCT) recipients
+Relapse of primary hematologic malignancy that served as indication for HCT
+Prior allogeneic HCT.
+Ages =< 50 years of age with hematologic diseases treatable by allogeneic HCT who refuse a high-dose HCT; transplants must be approved for these inclusion criteria by the principal investigators at the collaborating centers and at FHCRC
+Recurrence or progression of primary malignancy after HCT
+Aggressive non-Hodgkin lymphomas (NHL) and other histologies such as diffuse large B cell (DLBC) NHL - a) not eligible for autologous HCT, b) not eligible for high-dose HCT, c) after failed autologous HCT, or d) be part of a tandem auto-allo approach for high risk patients
+Patients must be expected to have disease controlled for at least 60 days after HCT
+Patients eligible for a curative autologous HCT
+Patients who have received a prior allogeneic HCT must have no active GVHD requiring immunosuppressive therapy for at least 21 days prior to start of conditioning
+Patients will then be assigned to one of two cohorts:\r\n* Cohort 1 will include patients who have relapsed /progressed within the first 180 days post-transplant and who are still within 3 months from date of progression-relapse\r\n* Cohort 2 will include patients who have either i) relapsed/progressed beyond day 180 post-HCT, ii) those with persistent stable disease or persistent disease with regression between days 28-100 after allogeneic HCT, or iii) those who progressed or relapsed within 180 days after HCT but were not started on this protocol within 3 months from date of progression or relapse could also be enrolled under cohort 2\r\n** NOTE: the inclusion of patients with persistent stable or persistent regressing disease in this protocol is not meant to advocate treatment; however, if the attending physician is inclined to offer treatment then these patients would be eligible for this study
+Diagnosis of skin, gut and/or liver steroid-refractory GVHD by clinical assessment of treating physician following allogeneic HCT. Patients who fail to respond to steroids by 7 days are considered steroid-refractory
+No evidence of HCT graft failure or multi-organ failure
+Candidate committed to HCT independent of participation in this study, with the following requirements:
+Meets local transplant center eligibility requirements for HCT
+Prior allogeneic or autologous HCT or adoptive cellular therapies, including T-cell chimeric antigen receptor (CAR) therapy
+Diagnosis of a nonmalignant disorder considered treatable by HCT.
+Extramedullary disease noted during pre-HCT work up can receive a boost of radiation as clinically indicated
+Patient has any other active malignancy other than the one for which HCT is indicated
+Anti-thymocyte globulin, alemtuzumab, bortezomib, or cyclophosphamide administered within 14 days before or planned to receive with HCT conditioning or as part of GVHD prophylaxis in the 14 days after HCT
+Patients must be previously untreated with HCT
+Normal WBC (3.5-10.8 x 103µL), PLT (140-400 x 103µL), and HCT (37-52%)
+Prior to Administration of Ibrutinib (Day 60 to Day 90 post HCT)
+Planned use of post-HCT cyclophosphamide for GVHD prophylaxis
+T deplete HCT
+Adult caregivers of patients undergoing autologous or allogeneic HCT at Massachusetts General Hospital (MGH), and they must attend the HCT consent visit with the patient
+Received >= 1 autologous or allogeneic (related or unrelated) HCT with curative intent at a participating transplant center for a hematologic malignancy
+Survival 2-5 years after last HCT when first approached for enrollment
+Refusing to use contraception up to 90 days post-HCT
+At least 1 year after HCT
+Planned HCT with minimal to no-T cell depletion of graft
+Conditioning regimens 30 days (d) prior to trial participation and up to d28 post-HCT
+Patients considered by PIs/protocol team to have a complicated prior therapy or HCT regimen, or who have a low survival probability (e.g., refractory leukemia and/or undergoing 2nd HCT)
+Adult patients with hematologic malignancy who underwent an allogeneic HCT at least 3 months prior to study enrollment
+Patients with relapsed disease post-HCT
+Planned HCT with no ex-vivo T cell depletion of graft; conditioning and immunosuppressive regimens according to institutional guidelines are permitted
+Planned HCT with minimal to no-T cell depletion of graft
+Participants must be at least 100 days after HCT
+Adult (? 18 years at time of allogeneic HCT recipient at participating transplant centers)
+Survival 1-2 years after most recent HCT with no evidence of relapse, disease progression, or secondary cancer on last follow-up
+Patient may have received more than one HCT
+Participants must be at least 100 days after HCT
+Currently 2-10 years after first HCT
+Prior autologous or allogeneic HCT;
+RECIPIENT: Planned medications from the time of HCT to day 70 post?HCT
+Between day +60 and day +90 after allogeneic HCT
+Aggressive non-Hodgkin lymphomas (NHL) and other histologies such as diffuse large B-cell NHL – not eligible for autologous HCT, not eligible for high-dose allogeneic HCT, or after failed autologous HCT
+Patients must have either relapsed after previous high-dose chemotherapy and autologous or allogeneic HCT, or else be ineligible for such an approach due to age, failure to mobilize sufficient hematopoietic stem cells, medical comorbidities, or patient refusal
+Patients who refuse to be treated on a conventional autologous or allogeneic HCT protocol
+Patients eligible for and willing to receive potentially curative high-dose chemotherapy and autologous HCT
+Prior diagnosis of an acute leukemia or lymphoma or any receipt of HCT for a malignant condition.
+Planned haematopoietic stem cell transplant (HCT) during the study period. (If a HCT occurred prior to enrolment in the study, the subject may not receive study vaccine until at least 50 days after the transplant procedure).
+Patients undergoing MRD allogeneic HCT
+Patients who have not received an allogeneic HCT
+At least 4 months after HCT, either autologous or allogeneic (of any source, with any preparatory regimen, for any indication), prior to study treatment.
+Evidence of active malignancy at the time of HCT or at any time since the HCT.
+History of malignancy (other than the disease that required the HCT) within 5 years prior to screening.
+Scheduled to receive an autologous HCT
+Did not receive an allogeneic HCT at Dana-Farber

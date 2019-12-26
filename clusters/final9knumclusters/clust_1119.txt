@@ -1,0 +1,42 @@
+ANC < 1500/ul
+ANC < 1,500/µL.
+ANC ? 1000/µL
+ANC ?1.5 x 10?/L
+ANC > 1000/µL
+ANC ? 1,000/?L
+ANC < 1,500/µL
+ANC ? 1,500/µl
+ANC ? 1.5 x 109/L
+ANC ? 1000/uL
+ANC >/=1500 cells/mcL (Cohort C)
+ANC ?1500/mcL
+ANC ? 1,000/?L
+ANC <1500/?L
+ANC >/=1 x10(9)/L and platelets >/=100 x10(9)/L.
+ANC ?1.0 × 10^9/Liter (L)
+ANC ? 1.5 x 109/L
+ANC >= 1000 K/CUMM
+ANC ? 750/µL (?0.75 x 10^9/L)
+ANC ?1.5×10^9/L.
+ANC 1500 cells/?l
+ANC ? 1.0 x 109/L
+ANC ?1,500/µl
+ANC > 1000/mcL
+Granulocytes (ANC) >= 1,500/mcl
+ANC ?1.5×10^9/L
+ANC ?1500/?L
+ANC ? 1500 /?L
+ANC ? 1500 cells/µL
+ANC ? 1.5 x 10?/L
+COHORT B: ANC >= 1000/uL
+ANC < 1,000/µL
+ANC 1000 cells/mL
+ANC ? 1000/uL
+ANC < 1,500/µL
+ANC > 1000 /ml
+ANC >= 1000/uL
+ANC > 750 cells/mcl
+ANC > 1000/uL
+ANC ? 1,000/?L
+ANC ?1000/µL
+ANC ? 1.0 x 10?/L

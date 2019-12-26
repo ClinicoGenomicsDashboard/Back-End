@@ -1,0 +1,4 @@
+Cluster 63: extramedullary isolated disease cns relapse leukemia testicular solitary marrow bone 
+Cluster 742: remission complete cr leukemia relapse risk high induction patients disease 
+Cluster 1690: cr response complete pr achieved partial cri disease leukemia patients 
+Cluster 2045: ckit favorable karyotype mutated cr remission npm mutation inv risk 

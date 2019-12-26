@@ -1,0 +1,8 @@
+Cluster 158: excipients hypersensitivity known drugs intolerance study allergies allergy ribociclib history 
+Cluster 338: pembrolizumab excipients hypersensitivity severe known grade epacadostat substance active history 
+Cluster 735: palbociclib ribociclib cdk possible hypersensitivity fulvestrant endocrine excipients abemaciclib previous 
+Cluster 859: various analogues formulations excipients allergy medications agent known study allergic 
+Cluster 2078: sirolimus temsirolimus everolimus hypersensitivity rapamycins known excipients analogs rapamycin intolerance 
+Cluster 2274: classes excipients formulations hypersensitivity study drugs allergy suspected given drug 
+Cluster 2416: allergies known drug intolerance subjects classes separate history vaccine adhesives 
+Cluster 2454: azd structure similar inactive excipients chemical osimertinib drugs hypersensitivity class 

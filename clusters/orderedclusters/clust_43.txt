@@ -1,0 +1,50 @@
+Serum total bilirubin =< twice the institutional upper limit of normal (ULN) within 21 days of registration on study (or within 21 days prior to day 1 of chemotherapy post-surgery for those patients having started chemotherapy prior to first step registration)
+545.0
+Total bilirubin within institutional upper limit of normal (IULN)
+162.0
+REGISTRATION #2 - PRIOR TO CONSOLIDATION CHEMOTHERAPY: Total bilirubin =< IULN
+162.0
+Serum creatinine =< 2 x institutional upper limit of normal (IULN), unless due to lymphoma, within 42 day prior to registration
+155.0
+Total bilirubin =< 2 x institutional upper limit of normal (IULN) (unless due to Gilbert syndrome) within 42 days prior to registration
+155.0
+Within 14 days prior to registration: Total bilirubin =< 1.5 x institutional upper limit of normal (IULN)
+130.0
+Patients must have bilirubin =< 2 x IULN within 7 days prior to registration (unless the bilirubin is primarily unconjugated)
+38.0
+Serum bilirubin =< institutional upper limit of normal (IULN) within 28 days prior to sub-study registration; for patients with liver metastases, bilirubin must be =< 5 x IULN
+10000.0
+Total bilirubin =<1.5 x institutional upper limit of normal (IULN)
+35.0
+Patients must have total bilirubin =< 2.0 x IULN within 14 days prior to registration
+44.0
+AST and ALT =< 3.0 x institutional upper limit of normal (IULN) within 14 days prior to registration
+44.0
+Total bilirubin =< 2.0 x IULN within 14 days prior to registration
+44.0
+Registration Step 3 � Maintenance: Patients must have AST and ALT =< 3.0 x institutional upper limit of normal (IULN) within 14 days prior to registration
+44.0
+Registration Step 3 � Maintenance: Patients must have total bilirubin < 2.0 x institutional upper limit of normal (IULN) within 14 days prior to registration
+44.0
+Obtained within 28 days prior to registration: Total bilirubin =< 1.5 x institutional upper limit of normal (IULN)
+223.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN)
+150.0
+Within 14 days prior to registration: Total bilirubin =< 1.5 x institutional upper limit of normal (IULN)
+143.0
+CLINICAL/LABORATORY CRITERIA: Total bilirubin =< 1.5 x institutional upper limit of normal (IULN); these results must be obtained within 28 days prior to registration
+53.0
+Obtained within 28 days prior to registration: Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) (or =< 3.0 x IULN with Gilbert's syndrome)
+77.0
+Within 28 days prior to registration: Total bilirubin =< 2.0 x institutional upper limit of normal (IULN) or for documented/suspected Gilbert�s disease, total bilirubin =< 3.0 x IULN
+707.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) (except Gilbert�s syndrome, who must have a total bilirubin < 3.0 mg/dL), obtained within 28 days prior to step 2 registration
+1000.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) except patients with documented Gilbert�s syndrome within 28 days prior to registration
+64.0
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) (=< 5 x IULN if secondary to lymphoma, Gilbert�s syndrome, or medication related [e.g., indinavir, tenofovir, atazanavir]) within 28 days prior to registration
+150.0
+Direct bilirubin =< 1.5 x IULN (=< 5 x IULN if secondary to lymphoma) within 28 days prior to registration
+150.0
+Total bilirubin =< 2.5 x institutional upper limit of normal (IULN) (except patients with Gilbert�s syndrome) within 28 days prior to registration
+94.0

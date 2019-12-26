@@ -1,0 +1,451 @@
+Patient is at least  years of age
+Be ? years of age.
+Age .-. years.
+Must be ?  years of age.
+Age ?  years
+Patients must be >=  years of age
+Age >=  years (>=  years in Germany)
+Age  years or above
+?  years of age
+Age ?  years.
+Age ? years.
+Subject is at least  years of age.
+Age >=  years.
+Subjects must be ? years of age.
+Age ?  years of age
+Age >/=  years;
+Age >  years.
+Subjects ?  years of age.
+Age:  years
+Patients must be ? years of age
+At least  years of age
+?  years of age
+Age > years
+Age > or =  years
+? years of age
+Age ?  years
+Subject is at least  years of age.
+Age ?  and <  years
+Be >  months and <  years of age
+Age ? years
+Age ? years.
+Age ?  years.
+Age ?  years
+Age ? years
+Age > years.
+? years of age.
+Age >  years.
+Be ? years of age.
+? years of age.
+Age ? years
+Age > years and ? years.
+Age ? years; or
+? , but <  years of age
+Age >/=  years
+Age ? years .
+Patients ? years of age
+Age >=  years
+Age ?  years
+Between  months and < years of age (or between  years and < years of age for rrcHL participants) on day of signing informed consent/assent (the first  participants dosed in Part  are to be ?  years of age)
+Age ?  years.
+Age at least  years.
+Is of age ?  years
+?  years of age
+Age ?  years.
+Age >  years
+? years of age.
+Patients must be ?  years of age
+Age ?  years.
+?  years of age
+Age ? years.
+? years of age.
+Age ? years and ?.
+Subject is >  years of age.
+?  years of age.
+ years of age or less.
+Age >  years
+Must be > =  years of age.
+Age ?  months and <  years
+Age >/= to  years
+Must be at least  years of age.
+Age ? years
+Age ?  years
+?  years of age
+Patients who are ?  years of age.
+Age ?  years
+Age > years
+At least  years of age.
+Age ?  years.
+Age ?  years
+ to less than  years of age.
+At least  years of age
+Patient is at least  years of age.
+Subjects must ? years of age
+At least  years of age.
+Participant must be >=  years of age.
+ to  for Participants >=  years of age or
+ to  for Participants >=  to  years of age.
+Patients must be ?  years of age.
+Age ? years
+Patient must be >  years of age.
+?  years of age
+Age ?  years.
+Age >=  years
+Age ? years
+Age > years
+ for (age < years), + for (age - years), + for (age > years).
+Age ?  years
+Age ? years
+be ? years of age;
+Patients must be ?  years of age.
+Age ?  years
+At least  years of age.
+Age ? years.
+Age  or more years
+At least  years of age.
+Age ? years;
+Subjects ?  years of age at screening
+?  years of age OR
+of  to  for participants ?  years of age or
+of  to  for participants between  to  years of age.
+Age  to  years
+Patients must be at least  years of age
+Patient is at least  years of age
+At least  years of age.
+Patients must be at least  years of age.
+Age ? years
+Subject is ? years of age
+? years of age
+Minimum age of  years
+Age ?  years.
+Age >  years.
+Age ? years
+Age ? years
+Age ?  years
+Age  or more years
+Age *  years
+Age ?  years.
+? years of age
+At least  years of age.
+Age ? years
+?  years of age.
+Age ?  years
+Age <  years
+Age  months to < years
+At least  years of age
+Patient is <  years of age
+For Phase I Only: Age >/= years
+Must be > =  years of age.
+Age > or =  years
+Age ?  years
+Age at least  years.
+Age ?  years
+Age >  years.
+Patients must be > years of age.
+At least  years of age
+Participants must be >  years of age
+Age ? years;
+Patients < years of age
+Age of at least  years.
+age < years;
+Age ?  years.
+At least  years of age.
+Age - years
+Age ?  years
+At least  years of age
+Patients must be >_ years of age
+Patients must be age >/=  years.
+Age >/=  years.
+At least  years of age
+At least  years of age
+At least  years of age
+At least  years of age.
+Age > years
+Age >  years
+Age ? years;
+Patients must be  years of age.
+Age > =  years of age
+Age <  years of age
+Age > years
+Patients must be at least  years of age.
+Age >/=  years
+Age ?  years.
+Age ?  years and ?  years
+Age ?  years and ?  years
+Age > years;
+Be ?  years of age.
+Age ?  years.
+Age ?  years
+Age >/=  years
+Age ? years.
+Age >  years
+Participants must be ?  years of age.
+Age ? years
+Subjects must be ? years of age.
+Subject must be ? years of age.
+Patient must be ? years of age
+Must be at least  years of age
+Age ? years
+Age ? years.
+Age ?  years.
+Age at diagnosis at least  years.
+Be ? years of age;
+?  years of age.
+Age ?  years
+Women ?  and ?  years of age.
+The patient must be ? years of age
+Patients must be ? years of age
+Age >=  years
+?  years of age
+Patients must be ?  years of age
+Age  years and above
+<  years of age
+Age (at the time of consent) ? years of age
+? years of age and has not had menses for over  years
+Age ?  years
+Age ?  years.
+Subject is ? years of age
+Patients ? years of age;
+?  years of age
+Age > years
+Age > years
+?  years of age.
+Patients must be ?  years of age.
+Age ?  years
+Patients must be ?  years of age.
+Age ?  years.
+Age ?  years
+Age ?  years
+At least  years of age
+Age > =  years
+?  years of age
+Age ?  years.
+At least  years of age
+All patients must be at least  years of age
+Age >=  years
+Age ?  years.
+Patients must be >/=  years of age.
+Subject is <  years of age.
+Age ?  years.
+Subject is ?  years of age.
+Be at least  years of age
+Patients must be ?  years of age.
+Age ? years.
+Women ?  years of age.
+Age: at least  years of age
+Age ?  years
+Age ? years.
+Age >/=  years
+Age ?  years.
+Age ? years;
+Patients must be ?  years of age.
+Age ? years
+Age ? years
+Age ?  years.
+Age at least  years.
+Age ?  years.
+Subject must be ? years of age.
+?  years of age
+? years of age.
+Age ?  years of age
+Age ? years.
+Age ?  years (Age ?  years for patients with bone sarcomas).
+At least  years of age
+Age ? years
+ years to  years of age
+Age ?  years.
+Patients must be ?  years of age.
+Up to  years of age
+Age >=  years
+Age >  years
+Age ? years.
+?  years of age
+?  years of age.
+At least  years of age.
+Age >= years.
+Be at least  years of age
+Age >  years
+Subjects age ? years
+Age >/=  years
+>=  years of age
+Age of >/=  years.
+? years of age
+Patients ? years of age.
+Age ?  years of age
+Age >  years
+Age at least  years at enrollment.
+Age ? years
+Age >=  years.
+Patients must be ?  years of age.
+At least  years of age;
+Age ? years.
+Age ? years.
+Age ?  years
+Age >  years
+Age >= years
+Age ?  years
+age ? years through ? years of age;
+Age ?  years
+Age <  years
+Age >/=  years
+Age ?  years
+Age ? years.
+Age ? years of age.
+Age  years.
+Women ?  years of age
+? years of age
+ years of age.
+Age ?  years.
+Age ?  years
+> years of age.
+Patients must be > years of age
+Age >/=  years.
+?  months and <  years of age
+Age >/=  years
+? years of age
+Subjects at least  years of age
+Age >= years (For subjects in Taiwan, Age >=  years)
+Must be ? years of age
+?  years of age.
+. Age ? years.
+At least  years of age
+Age ?  years.
+Age ?  years.
+Age > or = to  years
+Age ?  years
+Age >=  years.
+Age ?  years
+Age ? years
+Age ?  years
+Age ? years.
+Age ? years
+Age ?  years;
+Patient is at least  years of age.
+Age ? years
+Patients ?  years of age.
+Age > or = to  years
+Age  to  years of age.
+? years of age.
+At least  years of age.
+Age >/=  years
+Age ? years
+Age ? years
+ <  years of age
+Patient must be ?  years of age.
+Age ?  years
+Age ?  years.
+Age >=  years
+Age > years
+At least  years of age.
+Age ?  years
+Age ?  years.
+Age ?  years.
+Age ?  years. .
+Age ?  years.
+Age ?  years
+Age ? years
+Subject must be ? years of age
+Age ? years.
+Be at least  years of age
+At least  years of age
+Age >=  years
+Age: > months to < years of age.
+Age ?  years
+Age ?  years.
+Age ? years
+?  years of age
+At least  years of age
+Age < years.
+Age > years of age.
+Age ? years
+?  years of age
+Age ? years
+Age > years
+?  years of age.
+Age between  and  years
+Age ?  years.
+Age >= years
+Age ? years
+Age >= years
+Subject must be at least  years of age.
+Age  years or above
+Women ?  years of age
+Age  through  years
+-  Age > years.
+Age ?  years.
+Age ? years
+Age < years.
+?  years of age
+Be ? years of age.
+Age ?  years
+Patients must be >  years of age
+Age of </=  years.
+Age ?  years of age
+At least  years of age
+Age ?  years.
+ years of age
+Age > or = to  years.
+Patient is ? years of age.
+Must be ?  years of age
+Age ? years
+Age ? years
+Age ?  years.
+Must be at least  years of age
+Age ? years.
+at least  years of age
+Must be at least  years of age
+Age ?  years
+Age >/=  years.
+The participant is age ?  years
+Patient is ?  and <  years of age.
+ to <  years of age
+Age ?  years
+Age  years or more
+Be over  years of age
+EXCLUSION FOR PARENTS: Patient is <  years of age, or >  years of age
+EXCLUSION CRITERIA FOR PATIENTS: Patient is <  years of age, or >  years of age
+PATIENTS: Age - years
+Age >=  years
+Be at least  years of age
+Are between  and  years of age
+Patients age ? years who:
+Any patient age ?  years.
+Patients age ? years who:
+Any patient age ?  years.
+Age ?  years
+Subjects must be at least  years of age
+Subject is ? years of age.
+<  years of age
+Patients must be between  and  years of age
+Age >=  years
+Age >=  years and =<  years
+Age >=  years
+Patient is at least  years of age
+Age ? and ? years
+Age >  years
+?  years of age
+ to  years of age
+At least  years of age
+Age - years at screening
+Age less than  years.
+Age <  years
+Age ?  years
+Age ?  years
+Age ? years.
+Age at treatment  to  years.
+Age >  years
+Age ?  years.
+ years of age or over.
+Participants must be at least  years of age
+Patients who are at least  years of age
+Age >/=  years
+Under  or over  years of age
+Be ?  years of age
+Age ?  years.
+age ?  years
+Age >  years
+Patients must be > years-of-age.
+? years of age
+Patient is at least  years of age.
+Age ?  years
+Age ?  years

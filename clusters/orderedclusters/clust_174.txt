@@ -1,0 +1,68 @@
+Absolute neutrophil count (ANC) >= 1,500/mcL
+36.0
+Absolute neutrophil count (ANC) >= 1,500/mcl
+360.0
+Absolute neutrophil count (ANC) >= 1,000 cells/mcL within 42 days prior to registration
+155.0
+Absolute neutrophil count (ANC) >= 1,500/mcl
+52.0
+Absolute neutrophil count (ANC) >= 1,500/mL within 28 days prior to registration
+1900.0
+Absolute neutrophil count (ANC) >= 1500/mcL (1.5 x 10^9/L) obtained within 2 weeks prior to registration
+189.0
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2): Absolute neutrophil count (ANC) >= 1.0 x 10^9/L
+97.0
+Absolute neutrophil count (ANC) greater than or equal to 1,500/mcl
+540.0
+Absolute neutrophil count (ANC) >= 1,200/mcL (subjects may be treated with hematopoietic growth factors to achieve or maintain this level)
+130.0
+Absolute neutrophil count (ANC) >= 1,500/mcl obtained within 28 days prior to sub-study registration
+10000.0
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L measured within 28 days prior to randomization
+1500.0
+Absolute neutrophil count (ANC) >= 1,500/mcL
+230.0
+Absolute neutrophil count (ANC) >= 750/mcl within 28 days prior to registration
+44.0
+Obtained within 28 days prior to registration: Absolute neutrophil count (ANC) >= 1,500/mcL
+223.0
+Absolute neutrophil count (ANC) >= 1,500/mcL
+150.0
+Absolute neutrophil count (ANC) >= 1,000/mcL; must be obtained within 28 days prior to registration
+180.0
+Absolute neutrophil count (ANC) >= 1,500/mcL
+46.0
+Absolute neutrophil count (ANC) of >= 1,500/mL within 21 days prior to registration
+333.0
+Absolute neutrophil count (ANC) >= 1,500/mcL
+150.0
+Within 14 days prior to registration: Absolute neutrophil count (ANC) >= 1,500/mcL
+143.0
+CLINICAL/LABORATORY CRITERIA: Absolute neutrophil count (ANC) >= 1500/mcL; these results must be obtained within 28 days prior to registration
+53.0
+Absolute neutrophil count (ANC) greater than or equal to 1,500/mcl, within 14 days prior to registration; this ANC cannot have been induced by granulocyte colony stimulating factors
+147.0
+Absolute neutrophil count (ANC) >= 1,500/mcl
+84.0
+Obtained within 28 days prior to registration: Absolute neutrophil count (ANC) >= 1,500/mcl
+77.0
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L within 14 days prior to registration.
+186.0
+Within 28 days prior to registration: ANC >= 1,000/mcL
+707.0
+Within 14 days prior to registration: Absolute neutrophil count (ANC) >= 1,500/mcl
+488.0
+Absolute neutrophil count (ANC) >= 1,500 microliter (mcL)
+148.0
+Within less than or equal to 14 days prior to registration: Absolute neutrophil count (ANC) >= 1.5 x 10^9/L
+40.0
+Absolute neutrophil count (ANC) >= 1,500 microliter (mcL), obtained within 28 days prior to step 2 registration
+1000.0
+Absolute neutrophil count (ANC) >= 1,500/mcL within 28 days prior to registration
+64.0
+Absolute neutrophil count (ANC) >= 1,500/mcL within 28 days prior to registration
+150.0
+Absolute neutrophil count (ANC) >= 1,500/mcL within 28 days prior to registration
+94.0
+Absolute neutrophil count (ANC) >= 1 x 10^9/L within 30 days of day 1 of study
+27.0

@@ -1,0 +1,4 @@
+Cluster 685: undergoing patients treatment cancer therapy chemotherapy surgery radiation laparotomy currently 
+Cluster 1287: lung cancer radiation prior therapy patients chemotherapy diagnosis screening surgery 
+Cluster 2259: currently receiving treatment therapy patients chemotherapy patient radiation medications neoplastic 
+Cluster 2498: emergency surgery room requiring leukapheresis radiation needs hyperleukocytosis undergoing procedure 

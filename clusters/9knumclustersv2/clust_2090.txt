@@ -1,0 +1,30 @@
+For all patients:\r\n* Radiation dose should range from  cGy to  cGy\r\n* No treatment for this disease following radiation therapy
+Prior radiation therapy with  cGY or more of TBI.
+Prior radiation therapy with cGy or more of TBI.
+Patient must be able to pass radiation evaluation (i.e.: able to receive  cGy)
+Any prior therapeutic radiation therapy >  cGy has been delivered
+Have received radiation therapy with concurrent temozolomide; total radiation dosage can range from  to  cGy administered in daily fractions of  to  cGy over  weeks, or the equivalent in a hypofractionated protocol (for example, cGy in  fractions or cGy in  fractions); patients who are MGMT negative do not need to have received temozolomide
+Prior radiation doses equivalent to, or greater than,  cGy to the target lesions at  cGy fractions at any timepoint
+No thoracic radiation >  cGy allowed
+Significant prior external beam dose-limiting radiation to a critical organ based on review of the prior radiation treatment records by the Radiation Oncology PI; patients who have had prior external beam radiation >  cGy (at  to  cGy per day) to the lung will be ineligible; patients with ANY prior radiation to the heart are ineligible; patients with >  cGy to the kidney will be excluded from the study; Note: patients who have had electron beam therapy are still eligible and will be evaluated on a case by case basis by the Radiation Oncology PI
+Patients who had prior radiation to more than % bone marrow containing areas or to any areas exceeding  cGy
+Patients will be ineligible if any prior therapeutic radiation therapy >  cGy has been delivered
+Significant prior external beam dose-limiting radiation to a critical organ based on review of the prior radiation treatment records by the radiation oncology PI; patients who have had prior external beam radiation >  cGy (at  to  cGy per day) to any portion of the lung will be ineligible; patients with ANY prior radiation to the heart are ineligible; patients with >  cGy to any portion of the kidney will be excluded from the study
+Kidney:  cGy
+Liver:  cGy
+Lungs:  cGy
+Previous irradiation that precludes the safe administration of an additional dose of  cGy of TBI
+Patients undergoing a total body irradiation (TBI)-based conditioning regimen (TBI  cGy)
+Patients will be ineligible if any prior therapeutic radiation therapy >  cGy has been delivered to the target volume
+Prior radiation therapy with  cGy or more of TBI; if  cGy of prior TBI then only  cGy of TBI on this protocol is permitted
+Patients will be ineligible if any prior therapeutic radiation therapy >  cGy has been delivered to the target volume
+Patients will be ineligible if any prior therapeutic radiation therapy >  cGy has been delivered to the central nervous system
+Previous radiation therapy to more than % of bone marrow containing areas, or to any area exceeding  cGy, is an exclusion
+Patients who have received >  cGy radiation to the kidneys will be excluded from the study
+Patients are not eligible if they have received local radiation which includes any of the following:  centigray (cGy) to more than % of both kidneys (patient must have at least  kidney that has not exceeded the dose/volume of radiation listed) or  cGy to more than % of liver and/or  cGy to more than % of liver; emergency local irradiation is allowed prior to study entry, provided the patient still meets eligibility criteria
+Received >=  centigray (cGy) radiation to the heart/chest
+>= Ten years post-radiation therapy following an accumulated dose of >=  cGY to the heart/chest
+Receiving a dose of radiation therapy greater than or equal to  centigray (cGy) to one third of the oral cavity
+Current diagnosis of cancer that supports the use of continuous definitive or adjuvant external-beam RT to the pelvis to a minimum dose of  cGy with the following parameters:\r\n* The pelvis must be encompassed by the planned RT fields; the superior border may not lie inferior to the most inferior aspect of the sacroiliac joints; portions of the rectum may have special blocking, depending upon disease site\r\n* The total prescription dose must lie between - cGy (inclusive); a boost to primary tumor or tumor bed may be planned\r\n* Planned treatment is to be given - times per week on a onetreatment-per-day basis; the daily prescribed dose must lie between - cGy (inclusive) per day
+Patient must be cleared pre-transplant by Radiation Oncology to be able to receive  cGy
+Patients whose clinical treatment plans include a continuous course of external beam radiotherapy by intensity-modulated radiation therapy (IMRT) and/or image-guided radiation therapy (IGRT), given as a cumulative dose of    centigray (cGy) in single daily fractions of  -  cGy, combined with a concurrent course of weekly or tri-weekly cisplatin or carboplatin chemotherapy

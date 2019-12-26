@@ -1,0 +1,8 @@
+Patient with thyroid cancers
+292.0
+Patient with advanced skin cancers
+292.0
+Patients with known other active cancers; skin cancers (basal or squamous) are exempted
+35.0
+Patients with known active cancers who are on therapy for those cancers at time of screening
+27.0

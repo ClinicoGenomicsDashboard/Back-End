@@ -1,0 +1,43 @@
+Absolute neutrophil count (ANC) >= 1,500 microliter (mcL)
+Absolute neutrophil count ? 1,000/microliter (uL)
+Platelet count >= 100,000 x 10^9/microliter
+Absolute neutrophil count (ANC) >= 1,500 microliter (mcL)
+Absolute neutrophil count >= 1,000/microliter
+Platelet count >= 50,000/microliter
+Absolute neutrophil count >= 1500 per microliter
+Absolute neutrophil count (ANC) >= 1,500/microliter
+Absolute neutrophil count >= 1,000 microliter
+absolute neutrophil count greater than or equal to 1,500 cells/microliter
+Absolute neutrophil count >= 1,500/microliter
+Absolute neutrophil count (ANC) ? 1500/microliter
+Absolute neutrophil count >= 1,300/microliter
+Absolute neutrophil count > 1000/microliter
+Platelet count > 100,000/microliter
+Absolute neutrophil count >= 1000/microliter (mcL)
+Absolute neutrophil count (ANC) >= 1000/microliter
+Absolute neutrophil count less than 1500 per microliter.
+Absolute neutrophil count of > 1500 per microliter
+Platelet count > 100,000 per microliter
+Platelet count >= 100,000/microliter
+Absolute neutrophil count (ANC) greater than or equal to (?) 1000/microliter
+Absolute neutrophil count >= 1,500/microliter
+Absolute neutrophil count less than 200/microliter
+Platelet count less than 20,000/microliter
+Absolute neutrophil count >= 1,500/microliter
+Absolute neutrophil count >= 1,500/microliter
+Absolute neutrophil count >= 1,500/microliter
+Neutrophils (absolute neutrophil count [ANC]) >= 1,500/microliter
+Absolute neutrophil count >= 1,500/microliter
+Absolute neutrophil count >= 1,500/microliter
+Absolute neutrophil count >= 1,500/microliter
+Absolute neutrophil count >= 1,500/microliter
+Absolute neutrophil count >= 1,500/microliter
+Absolute neutrophil count >= 1,500/microliter
+Absolute neutrophil count >= 1,000/microliter
+Leukocyte count >= 3,000/microliter
+Platelet count >= 100,000/microliter
+Absolute neutrophil count >= 1,500/microliter
+Leukocyte count >= 3,000/microliter obtained =< 45 days prior to randomization
+Absolute neutrophil count >= 1,500/microliter obtained =< 45 days prior to randomization
+Absolute neutrophil count >= 1,500/microliter
+Absolute neutrophil count >= 1,500/microliter

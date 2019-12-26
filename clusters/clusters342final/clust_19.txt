@@ -1,0 +1,17 @@
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) = 0-2
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1, or 2
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0, 1 or 2
+ECOG performance status (PS) 0-3 (restricted to ECOG PS 0-2 if >= 70 years of age)
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1
+Eastern Cooperative Oncology Group (ECOG) performance status (PS): 0, 1 or 2
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0, 1, or 2
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1, or 2
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0, 1, 2 or 3
+STEP I: Eastern Cooperative Oncology Group (ECOG) performance status 0, 1, or 2 (performance status [PS] 3 allowed if secondary to pain)
+STEP II: ECOG performance status 0, 1, or 2 (PS 3 allowed if secondary to pain)
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1, or 2
+Patients must have a performance status of 0 or 1 Eastern Cooperative Oncology Group (ECOG) performance status (PS) scale
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 (Karnofsky >= 60%) unless due to neurologic deficits caused by CNS lymphoma with the following exceptions: patients with ECOG performance status (PS) = 4 where neurologic deficits are unlikely to resolve with tumor resolution and may cause clinical management problems are excluded
+Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-3 (restricted to ECOG performance status [PS] 0-2 if age > 70 years)
+Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-3 (restricted to ECOG performance status [PS] 0-2 if age > 70 years)
+Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0 or 1

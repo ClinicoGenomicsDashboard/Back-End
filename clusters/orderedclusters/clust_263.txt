@@ -1,0 +1,50 @@
+Patients who have an uncontrolled infection are not eligible
+253.0
+Patient must not have an active, uncontrolled infection
+747.0
+Patients who have an active or uncontrolled infection are excluded
+62.0
+STEP I: Patients must not have active, uncontrolled infection
+1080.0
+Patients must not have uncontrolled infection
+74.0
+Patients who have an uncontrolled infection are not eligible
+77.0
+Patient must not have an active uncontrolled infection
+509.0
+Patients who have an uncontrolled infection are not eligible
+154.0
+Patients who have an uncontrolled infection are not eligible
+148.0
+Patients who have an uncontrolled infection are not eligible
+484.0
+Patients who have an uncontrolled infection are not eligible
+81.0
+Uncontrolled infection
+30.0
+Patients who have an uncontrolled infection are not eligible
+67.0
+Patients with documented active, uncontrolled infection at the time of study entry
+56.0
+Patients who have an uncontrolled infection are not eligible
+65.0
+Patients who have an uncontrolled infection are not eligible
+36.0
+Patients who have an uncontrolled infection are not eligible
+146.0
+Patients who have an uncontrolled infection are not eligible
+51.0
+Patients who have an uncontrolled infection are not eligible
+49.0
+Patients who have an uncontrolled infection are not eligible
+98.0
+Patients who have an uncontrolled infection are not eligible
+49.0
+Patients who have an uncontrolled infection are not eligible
+49.0
+Patients who have an uncontrolled infection are not eligible
+144.0
+Patients who have an uncontrolled infection are not eligible
+49.0
+GENERAL EXCLUSION CRITERIA FOR SUBPROTOCOLS: Patients who have an uncontrolled infection are not eligible
+1500.0

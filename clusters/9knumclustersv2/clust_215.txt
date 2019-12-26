@@ -1,0 +1,277 @@
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL, within  weeks of randomization
+Leukocytes >= ,/mcL
+Within  days of treatment initiation: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL within  weeks before randomization
+Leukocytes >= ,/mcL
+leukocytes ?,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes ? ,/mcL within  days of registration
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes ? ,/mcL
+Leukocytes >= ,/mcL (>= ,/mm^)
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+Leukocytes >= ,/mcL
+ENDOCRINE RESISTANT AND ADJUVANT COHORT: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+Leukocytes ? ,/mcL
+Obtained within  days prior to study registration: leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcl
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Within  weeks prior to initiation of study treatment: Leukocytes >= ,/mcL
+COHORT I: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes ? ,/mcL
+Leukocytes >= ,/mcL.
+Leukocytes >= ,/mcL, =<  days prior to cycle  (C) day  (D)
+Leukocytes >= ,/mcL.
+Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+Leukocytes >= ,/mcL.
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL within  days of treatment initiation
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Obtained within  days of registration: leukocytes > ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL  days or fewer from registration
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL (without growth factor)
+Leukocytes >= ,/mcL
+Leukocytes >= /mcL
+Leukocytes >= ,/mcL
+Leukocytes >= /mcL, within  days prior to treatment
+Leukocytes >=  mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+PHASE II: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Within  days prior to registration: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL, obtained within  days of first dose of drug
+PHASE I: Leukocytes >= ,/mcL
+PHASE II SCLC: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes: >= ,/mcl (lymphocyte [lymph] %: >= %)
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes < ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Within  weeks of preregistration: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >,/mcL
+Leukocytes ? ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+Leukocytes >= ,/mcL
+DOSE EXPANSION COHORT: Leukocytes ? ,/mcL
+Leukocytes >= ,/mcL
+Measured within  days prior to administration of study treatment: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= /mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Within  days of registration: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+PHASE II: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL; these results must be obtained within  days prior to registration
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Obtained within  days of registration: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL, within  days of study registration
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes greater than ,/mcL
+Leukocytes >= ,/mcL
+PHASE I: Leukocytes >= ,/mcL
+PHASE II: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+PART B: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+REGISTRATION INCLUSION CRITERIA: Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes ? ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes ? ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Performed within  days of treatment initiation: Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >=  K/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL (within  days of study registration)
+Leukocytes >= ,/mcL
+Leukocytes ? ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes >= ,/mcL
+Leukocytes > ,/mcL
+Leukocytes > ,/mcL
+Leukocytes > ,/mcL
+Leukocytes >= ,/mcL

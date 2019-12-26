@@ -1,0 +1,168 @@
+Any prior therapy must have been completed >=  weeks or, if known, >=  half-lives of the prior agent (whichever is shorter) prior to enrollment on protocol (minimum of  week between prior therapy and study enrollment), and the participant must have recovered to eligibility levels from prior toxicity; patients should be at least  weeks out from nitrosoureas and mitomycin C; prior definitive radiation should have been completed >=  weeks or palliative radiation should have been completed >=  weeks prior to study enrollment and all associated toxicities resolved to eligibility levels (patients on study may be eligible for palliative radiotherapy to non-targeted lesions after  cycles of therapy at the principal investigator [PI]s discretion); patients who have had prior monoclonal antibody therapy must have completed that therapy >=  weeks (or  half-lives of the antibody, whichever is shorter) prior to enrollment on protocol (minimum of  week between prior therapy and study enrollment); patients who have received more than a cumulative dose of  mg/m^ of doxorubicin may be enrolled at the discretion of the coordinating center PI, with a screening echocardiogram
+All adjuvant or neoadjuvant chemotherapy, radiation, and surgery completed at least  days prior to registration\r\n* All triple negative patients must receive chemotherapy of the treating physicians choice\r\n* ER/PR+ patients must receive chemotherapy (of the treating physicians choice) unless Oncotype Dx or another genomic predictor score indicates that they are at low or intermediate risk of disease recurrence with endocrine therapy alone\r\n* Patients may have breast reconstruction during protocol participation, but definitive breast cancer surgery must be completed at least  days prior to registration\r\n** Concomitant biologic therapy, hormonal therapy, and bisphosphonates are acceptable
+Patients may have received only one prior chemotherapy regimen for metastatic disease provided treatment was completed >=  weeks prior to randomization
+Any prior surgeries must have been completed at least  weeks prior to randomization
+Any prior chemotherapy (based on administration schedule) must have been completed in greater than or equal to the following times prior to registration:\r\n* Chemotherapy/ targeted oral therapy administered in a daily or weekly schedule must be completed >=  week prior to registration; \r\n* Any chemotherapy administered in an every  week or greater schedule must be completed >=  weeks prior to registration\r\n* Additionally, patients should be recovered to equal to or less than grade  Common Terminology Criteria for Adverse Events (CTCAE) v. from toxicities related to any prior treatment, unless adverse event (AE)(s) are clinically nonsignificant and/or stable on supportive therapy
+Radiation therapy (except palliative to relieve bone pain) within  weeks of study entry; palliative radiation (=<  fractions) must have been completed at least  hours prior to study entry; stereotactic or small field brain irradiation must have completed at least  weeks prior to study entry; whole brain radiation must have completed at least  weeks prior to study entry
+History of prior cancers except for those that have been curatively treated, with no evidence of cancer currently (provided all chemotherapy was completed > months prior and/or bone marrow transplant > years prior to first dose of rucaparib).
+Previous androgen suppression therapy is allowed if it was completed at least  months prior to initiation of study treatment
+Prior treatment including chemoembolization or other ablative therapy, any cytotoxic, biologic or other investigational agents must have been completed at least  weeks prior to study entry
+Subjects must have completed systemic therapy at least  days prior to first dose.
+Previous immunotherapy/monoclonal antibody use must be completed at least  weeks or  half lives, whichever is longer prior to administration of TAK-; in addition, radiation therapy to the target lesion must be completed at least  months prior to administration of TAK-; all associated toxicity from previous therapies must be resolved to ? grade  or considered baseline prior to administration of TAK-
+Prior antitumor therapy that is not completed at least  weeks prior to first dose of study drug, or at least  weeks if progressing. Prior CAR T-cell therapy must be completed  weeks before first dose of study drug.
+Patients may have received prior radiation, chemoembolization, radioembolization or other local ablative therapies or hepatic resection if completed >=  weeks prior to registration AND if patient has recovered to =< grade  toxicity
+Prior chemotherapy or immunotherapy (tumor vaccine, cytokine, or growth factor given to control the cancer: systemic or IT) must have been completed at least  weeks prior to enrollment and all adverse events have either returned to baseline (or resolved to < grade ); note: subjects who have received prior platinum therapy are eligible irrespective of their response.
+Prior systemic radiation therapy (either IV, intrahepatic or oral) completed at least  weeks prior to study drug administration.
+Platelets >= ,/microliters, completed within  days prior to the date of registration
+Participants must have known HIV infection and histologically confirmed solid malignancy that is metastatic or unresectable and for which standard curative or palliative measures do not exist or are no longer effective; any number of prior cancer therapies will be permitted; at least  weeks must have elapsed since prior chemotherapy or biological therapy,  weeks if the regimen included carmustine (BCNU) or mitomycin C; prior radiation therapy to the thoracic cavity, abdomen, or pelvis must be completed at least  months prior to registration; radiotherapy to any other site (including bone or brain metastases) must be completed at least  days prior to registration
+Previous radiation therapy completed =<  days prior to the start of study drugs
+Patient must have completed immunotherapy (e.g. tumor vaccines, oncolytic viruses, etc.) at least  days prior to enrollment
+Prior radiation therapy must be completed >=  weeks prior to enrollment and the patient must have recovered from all toxicity; prior radiopharmaceuticals (strontium, samarium, alpharadin) must be completed >=  weeks prior to enrollment
+Prior therapy, including everolimus, octreotide, surgery, chemoradiation, is all permitted after being properly noted; this prior therapy must have been completed at least  days prior to study enrollment
+Must have completed prior chemotherapy or radiation therapy at least  weeks prior to registration
+Subjects may have previously treated brain or central nervous system (CNS) metastasis with radiation completed at least  weeks prior to registration; prior radiation to places other than CNS disease must be completed at least  days prior to registration; any number of prior radiation therapy regimens is allowed provided all toxicity of prior therapy is resolved to grade  or less.
+Any prior therapy must have been completed at least  weeks prior to entry into the study
+Prior radiation therapy is permitted, provided it is completed at least  days prior to the start of study drug
+Prior radiation therapy must be completed at least  weeks prior to study enrollment
+Radiation therapy (except palliative to relieve bone pain) within  days of study entry; palliative radiation (=<  fractions) must have been completed at least  hours prior to study entry; stereotactic or small field brain irradiation must have been completed at least  days prior to study entry; whole brain radiation and radiation for leptomeningeal metastasis must have been completed at least  weeks prior to study entry; acute effects of radiation must have resolved to baseline severity or to CTCAE grade =<  except for AEs that in the investigators judgment do not constitute a safety risk for the patient
+Patients who have received radiation therapy must have completed this at least  weeks prior to starting therapy with cabozantinib, with the following exceptions:\r\n* Local radiation therapy to enhance bone healing of a pathologic fracture may have been performed, as long as it was completed at least  weeks prior to starting cabozantinib\r\n* Local radiation therapy to treat post-fracture pain that is refractory to analgesics may have been performed, as long as it was completed at least  weeks prior to starting cabozantinib
+Prior systemic chemotherapy or other investigational therapy must have been completed at least two weeks prior to administration of nivolumab
+Prior radiation therapy is allowed if completed at least  calendar days prior to registration
+Prior cetuximab permitted if it was given for no more than  doses in combination with radiation therapy or chemoradiation therapy for initial treatment of locally advanced or metastatic disease and completed at least  months prior to study enrollment
+Previously received at least one line of prior systemic therapy for metastatic disease; if the patient has a sensitizing EGFR mutation or ALK rearrangement, the patient must have received at least one prior targeted therapy for metastatic disease (ie, EGFR tyrosine kinase inhibitor [TKI] therapy or ALK TKI therapy, respectively); there is no limit on prior therapies allowed; patients must have completed previous treatment (including other investigational therapy) in greater than or equal to the following times prior to initiation of trial treatment:\r\n* Anti-cancer monoclonal antibody (mAb) therapy must be completed >=  weeks prior to trial treatment\r\n* Chemotherapy administered in a daily or weekly schedule must be completed >=  week prior to trial treatment\r\n* Chemotherapy administered in an every -week schedule must be completed >=  weeks prior to trial treatment\r\n* Chemotherapy administered in an every -week schedule must be completed >=  weeks prior to trial treatment\r\n* Targeted small molecule therapy must be completed >=  week prior to trial treatment OR\r\n* Have not received prior systemic therapy for their cancer in recurrent or metastatic setting, AND have a tumor with tumor proportion score (TPS) >= % as measured by C PD L immunohistochemistry (IHC) test, AND no evidence of a sensitizing EGFR mutation or ALK rearrangement
+Patients who have had cranial radiation therapy need to have completed it >=  weeks prior to enrollment
+Prior resection of extra-hepatic metastatic disease allowed if completed more than  months previous to study enrollment and no new extra-hepatic disease has been found
+Any prior chemotherapy, immunotherapy, radiation therapy or surgeries must have been completed at least  weeks prior to initiation of study medication.
+Prior locoregional therapy is allowed if completed at least  weeks prior to enrollment
+Prior chemotherapy is allowed if stopped/completed at least  weeks prior to enrollment
+Radiation therapy must be completed at least  weeks prior to study entry; radiated lesions may not serve as measurable disease unless they have been radiated >=  months prior to enrollment
+Radiation therapy with >=  Gy tumor dose, completed >=  weeks prior to study entry
+Prior therapy(ies), if applicable, must be completed according to the criteria below:
+Patients should not have received prior systemic therapy for metastatic RCC; prior radiotherapy must have been completed at least  weeks prior to the administration of study drug; patients must be  weeks from prior major surgery and  week from pre-treatment biopsy; prior systemic adjuvant therapy (excluding with PD or CTLA pathway blockers) is allowed if treatment completed >  months previously
+Patient must have completed any systemic therapy regimens (except an ALK inhibitor) and therapeutic radiation a minimum of  days prior to initiation of study therapy
+Prior treatment of cancer (chemotherapy, radiation therapy, and surgery) is allowed if completed at least  weeks prior to start of treatment with nintedanib and if all treatment-related toxicities are resolved
+Patients must have failed external beam radiotherapy >= , cGy to the brain, and if eligible and tolerated, undergone appropriate treatment with temozolomide chemotherapy; all radiation and additional chemotherapies must have been completed at least  weeks prior to enrollment; prior therapy with nitrosoureas must have been completed at least  weeks prior to enrollment
+Diagnosis of stage -III breast cancer within  years prior to enrollment; all indicated surgery, chemotherapy, and/or radiation therapy must have been completed at least  weeks prior to enrollment; concomitant endocrine therapy and targeted therapies such as palbociclib, pertuzumab, and trastuzumab are permitted
+Prior radiation therapy completed >=  months, and/or chemotherapy completed >=  month before study entry, and patient should have recovered from any adverse effects
+Patients must have had at least one prior chemotherapeutic regimen; steroids alone and local radiation do not count as regimens; radiotherapy must have been completed at least  weeks prior to entry into the study; Rituxan alone does not count as a regimen; however, Bexxar or Zevalin (ibritumomab tiuxetan) do and patients must have completed radioimmunotherapy (RIT) >  months prior to enrollment
+PART II: All eligibility requirements and exclusion criteria as described in PART  must be fulfilled within  days of receiving subsequent doses; testing completed from Part  may be accepted as long as completed within this time frame (+/-  day)
+radiation therapy (gamma knife) was completed ?  weeks prior to baseline
+surgery was completed ? weeks prior to baseline
+Prior cancer therapy with pemetrexed/cisplatin must have been completed at least  days prior to the first cycle of milataxel; prior radiotherapy (less than % of the bone marrow) must have been completed at least  days prior to study enrollment.
+Completed the following investigations
+Have completed a patisiran study (i.e., completed the last efficacy visit in the parent study) and, in the opinion of the investigator, tolerated study drug
+Previous radiation therapy completed =<  days prior to the start of study drugs
+Major surgical procedures and open biopsies must be completed >=  days prior to randomization with documentation of adequate recovery from associated complications to grade =< 
+Completed planned breast surgeries and any radiation therapy >=  days prior to randomization
+All prior systemic cancer therapy (hormonal, chemotherapeutic, and immunotherapeutic) must be completed at least  weeks before the baseline visit
+All previous chemotherapy or radiation must be completed at least  weeks prior to study entry; immunologic therapy must be completed at least  week prior to study entry; patients with prior stem cell transplant must be greater than  days post-transplant
+Patients with a history of malignancy that has been completely treated, with no\n             evidence of that cancer currently, are permitted to enrol in the trial provided all\n             chemotherapy was completed greater than  months prior and/or bone marrow transplant\n             greater than  years prior
+Prior local radiation therapy must be completed at least  days prior to enrollment and the patient must have recovered from all toxicity
+Patients must be completed radiation therapy at least  weeks previously
+Prior chemoembolization, local ablative therapies, or hepatic resection permitted if completed >=  weeks prior to study enrollment if patient has recovered with =< grade  toxicity and if measurable disease is present
+Any exogenous hormone therapy must be completed  weeks prior to registration
+Patients with prior radiation therapy completed less than  weeks prior enrollment
+Prior investigational therapy must be completed at least  days prior to study entry
+Has completed a prior therapy (ies) according to the criteria below:
+Patients must have completed their last chemotherapy regimen >  weeks prior to treatment initiation.
+Non-CNS site of radiation must be completed >  weeks prior to CTL infusion
+Prior systemic, regional and radiation anticancer therapies for melanoma must have been completed at least  months prior to randomization.
+Completed last cycle of chemotherapy or radiation >  days prior to first vaccination
+Prior therapy(ies), if applicable, must be completed according to the criteria below prior to first dose of tazemetostat:
+Patient must have not received systemic chemotherapy for metastatic disease; prior chemotherapy, radiation therapy, concurrent chemoradiation are allowed if used for treatment of non-metastatic disease; prior palliative radiation for symptom management is allowed; any chemotherapy must have been completed  weeks prior to enrollment; any radiotherapy must have been completed  weeks prior to enrollment
+Must have completed definitive resection of primary tumor. The last surgery for breast cancer must have been completed at least  days prior to registration for protocol therapy.
+Prior chemotherapy must have been completed  days prior to initiation of protocol therapy and all toxicities must < grade .
+Patients must have completed initial radiation therapy (RT) and temozolomide (TMZ) for the treatment of their glioblastoma (i.e., completed -week course of RT and, completed >= % of -week course of induction TMZ chemotherapy)
+Any chemotherapy must have been completed  weeks prior to enrollment
+Subject agrees to refrain from blood donations during therapy on study and for  weeks after therapy is completed
+Patients must have previously received at least one line of prior systemic chemotherapy or targeted treatment for metastatic disease OR have received prior adjuvant systemic chemotherapy within prior  months; patients with MBC, must have received at least a taxane based regimens; patients with epidermal growth factor receptor (EGFR) and anaplastic lymphoma receptor tyrosine kinase (ALK) mutations should have failed prior standard tyrosine kinase inhibitor (TKI) therapy; patients must have completed previous treatment (including other investigational therapy) in greater than or equal to the following times prior to initiation of study treatment:\r\n* Chemotherapy/targeted therapy administered in a daily or weekly schedule must be completed >=  weeks prior to study treatment \r\n* Chemotherapy/targeted therapy administered in a -weekly schedule must be completed >=  weeks prior to study treatment\r\n* Chemotherapy/targeted therapy administered in a -weekly or greater schedule must be completed >=  weeks prior to study treatment
+Prior anti-cancer therapy within  weeks prior to study enrollment. Prior radiation therapy within  weeks prior to enrollment. Prior palliative radiotherapy to metastatic lesion(s) is permitted, provided it has been completed  days prior to study enrollment and no clinically significant toxicities are expected (eg, mucositis, esophagitis).
+Any prior chemotherapy, immunotherapy or targeted therapy must have been completed at least  weeks prior to start of this protocol and all side effects (except alopecia, lymphopenia and hyperglycemia) resolved to grade  or less; any prior radiation must have been completed at least  weeks prior to start of therapy
+Any prior chemotherapy, immunotherapy or targeted therapy must have been completed at least  weeks prior to start of this protocol and all side effects (except alopecia, lymphopenia and hyperglycemia) resolved to grade  or less; any prior radiation must have been completed at least  weeks prior to start of therapy
+Prior treatment (somatostatin analogs excepted) must be completed at least  weeks prior to registration; in addition, prior treatment (somatostatin analogs excepted) must be completed at least  weeks prior to initiation of study drug; treatment-related toxicities must have improved to =< grade  prior to registration, with the exception of alopecia
+Prior systemic anti-cancer therapy, unless administered for localized SCCHN and completed at least  months prior to disease recurrence
+Prior radiation therapy must be completed >  weeks prior to enrollment and the patient must have recovered from all toxicity. Prior radiopharmaceuticals (strontium, samarium) must be completed ?  weeks prior to enrollment.
+Patients must have been treated previously with radiation therapy and treatment must have been completed at least  weeks prior to surgery for catheter implantation
+Patients may have received prior systemic chemotherapy; such therapy must have been completed at least  years prior to study entry and the patient has no evidence of disease subsequent to such therapy
+Radiation therapy to brain for DIPG that was completed at least  months prior to planned reirradiation
+Previous chemotherapy, immunotherapy, and hormone therapy must be completed at least  weeks prior to the administration of MLN and radiation must be completed at least  weeks prior to the administration of MLN; all associated toxicity must be resolved to ? Grade 
+Completed cancer specific therapy at most  months prior to entry
+Prior experimental systemic therapies must have been completed greater than  weeks prior to study entry
+Any prior radiation therapy must be completed at least  weeks prior to registration
+Subject may have received prior radiation therapy (except to inguinal region) but must have completed such therapy prior to enrollment
+Radiation therapy was completed on the index vertebra(e) ?  days before enrollment,
+Patients with a history of malignancy that has been completely treated, and currently with no evidence of that cancer, are permitted to enroll in the trial provided all chemotherapy was completed >  months prior and/or bone marrow transplant >  years prior to first day of study treatment
+Chemotherapy must have been completed at least  weeks prior to initiation of study medication
+Prior CNS directed radiation treatment completed within  weeks prior to registration
+All prior chemotherapy completed at least three weeks before study treatment
+The participant may have prior treatment for bladder tumor (excluding radiation therapy) provided that treatment:\r\n* Was completed greater than  days prior to the first dose of study agent
+Prior radiation therapy is allowed but must have been completed >=  weeks prior to study entry; patients with history of prior radiation to the liver including radio-labeled microspheres cannot take part in this study
+Completed at least one cycle of the treatment
+Completed their last dose of chemotherapy or had their last cancer surgery more than  weeks, whichever came later, prior to randomization.
+Have completed treatment greater than  weeks prior to enrollment.
+Concomitant CRT completed prior to randomisation
+Has completed the CS trial.
+Chemotherapy, targeted therapy (such as a tyrosine kinase inhibitor), or radiotherapy must have been completed at least  days before administration of T-cells; prior immunotherapy with checkpoint blockade (i.e., PD inhibitor, PDL inhibitor, or CTL-antagonist or similar agent) must have been completed more than  month before the T-cell infusion\r\n* Chemotherapy must have been completed at least  days prior to leukapheresis
+Chemotherapy, targeted therapy (such as a tyrosine kinase inhibitor), or radiotherapy must have been completed at least  days prior to administration of T cells; continuation of hormonal therapy (i.e. for breast cancer) is acceptable; prior immunotherapy with checkpoint blockade (i.e. PD inhibitor, PDL inhibitor, or CTL-antagonist or similar agent) must have been completed more than  month prior to the T cell infusion\r\n* Chemotherapy must have been completed at least  days prior to leukapheresis
+Prior radiation therapy completed >=  weeks prior to enrollment
+TURBT successfully completed
+CNS disease unless radiation therapy and/or surgery has been completed and serial evaluation demonstrates stable disease
+Prior chemotherapy for curative intent is permitted providing the cytotoxic chemotherapy was completed >=  months prior to enrollment; patients must have a CT or MRI scan of the brain to evaluate for central nervous system (CNS) disease within  days prior to registration; patient must not have brain metastases unless: () metastases have been treated and have remained controlled for at least two weeks following treatment, AND () patient has no residual neurological dysfunction off corticosteroids for at least  day; any radiation therapy completed prior to chemotherapy, except gamma-knife radiosurgery,  week prior to chemotherapy
+Prior chemotherapy for prostate cancer, except estramustine and except adjuvant/neoadjuvant treatment completed > years ago. No further anti-cancer therapy after the previous AR targeted therapy and before inclusion. Prior docetaxel in hormone sensitive setting is allowed if completed > year before randomization. Prior immunotherapy is allowed.
+Completed  weeks of treatment in Protocol -
+Prior chemotherapy completed at least  weeks prior to study enrollment
+Radiation therapy and surgery must be completed  weeks prior to therapy, except for limited field radiation therapy, which must be completed  weeks before therapy.
+completed all treatment and follow-up through at least  weeks
+Any prior systemic therapy (before randomization) for the treatment of NSCLC (including chemoradiation), except if for non-metastatic disease and was completed at least  months prior to randomization
+Anti-cancer therapy (including conventional cytotoxic chemotherapy and/or biological therapy) and radiotherapy must be completed and any associated toxicities resolved to </= Grade  levels or baseline levels and at least  weeks must have elapsed before enrollment. Treatment with monoclonal antibodies must be completed at least  days before entry. Must have completed immunosuppressive medications or vaccinations before enrollment.
+Prior chemotherapy or surgery must have been completed at least  days prior to registration, and all toxicities must have resolved
+Any prior therapy must have been completed >=  weeks prior to enrollment on protocol and the participant must have recovered to eligibility levels from prior toxicity; patients should be at least  weeks out from nitrosoureas and mitomycin C; prior radiation should have been completed >=  weeks prior to study enrollment and all associated toxicities resolved to eligibility levels; patients who have had prior monoclonal antibody therapy must have completed that therapy at least  half-lives of the antibody or  weeks ago; patients who have received more than a cumulative dose of  mg/m^ of doxorubicin may be enrolled at the discretion of the coordinating center principal investigator (PI) after consultation with a cardiologist and if screening echocardiogram is normal
+Prior treatment with an EGFR inhibitor is allowed if it was administered as part of definitive therapy for locally advanced disease and completed >/= year before study enrollment
+Patients are candidates for stereotactic radiosurgery as determined by the treating radiation oncologist; intra-cranial tumors must measure  cm or less in greatest dimension; patients may have received prior neurosurgical resection(s) of intra-cranial metastases if their operation(s) was (were) completed at least  days prior to starting study drug; patients may have had prior whole brain radiation therapy (WBRT) if it was completed at least  month prior to study enrollment
+Has completed any prior hormonal therapy ?  weeks prior to randomization
+Prior treatment with cytotoxic anti-cancer therapy (previous cytokine or investigational immunotherapy are permitted, but must be completed  days prior to first dose of study medication)
+Prior cancer treatment must be completed at least  days prior to registration for protocol therapy and the patient must have recovered from the acute toxic effects of the regimen. With the exception of Bevacizumab treatment, which must be completed  days prior to registration for protocol therapy.
+May not receive chemotherapy until valacyclovir completed
+Prior systemic chemotherapy must be completed >  weeks of radioembolization
+Have completed all surgery, chemotherapy and/or radiation therapy within the last - months
+PHASE I: Completed primary surgery, chemotherapy, and radiation
+Have completed neurotoxic chemotherapy at least  months prior to enrollment
+Have completed active cancer treatment at least  year prior to study enrollment
+Completed preoperative therapy and are on their presurgical rest period
+Have completed primary treatments (including surgery, radiation, and chemotherapy) - years prior to recruitment
+Chemotherapy has already commenced or been completed
+Completed local definitive treatment (i.e., surgical treatment, chemotherapy and/or radiation therapy)
+Completed a minimum of  years of education
+Have completed all cancer treatment (including surgery, chemotherapy and/or radiation) at least  months prior to enrollment
+YBCS: Completed treatment with surgery, radiation and chemotherapy (if applicable)
+Gynecologic cancer treatment (e.g., surgery, chemotherapy, radiation therapy) was completed within  years prior to date of enrollment
+Treatment has been completed (except hormone therapy) for >=  days prior to registration
+Have completed treatment with surgery, radiation, and/or chemotherapy
+PATIENTS: Have completed surgery with no plans for chemotherapy
+PATIENTS: Completed more than half of prescribed chemotherapy treatments
+Child: child is in treatment remission and has completed intensive therapy
+Completed in person pretest counseling
+Have completed their course of CTX
+Radiation therapy (RT) completed >=  months
+Women who have completed more than two rounds of chemotherapy
+Completed all primary treatment
+Completed initial regional and systemic treatment
+Completed surgery
+Surgical resection and axillary assessment, radiation therapy, and/or chemotherapy, as indicated, completed at least  months prior to enrollment
+Completed chemotherapy >  months prior to enrollment and no concurrent adjuvant therapy other than hormone manipulation therapy for breast cancer (confirmed by patient self-report on the Health History Questionnaire; if patient is unable to confirm whether or not she completed chemotherapy  months prior to enrollment, we will send a letter to her physician to confirm eligibility on this criterion)
+Patient must have completed cancer treatment >=  years prior to study enrollment
+Completed appropriate surgical therapy to include:
+Patients with history of cancer must be in remission, with surgery completed at least  months prior to enrollment and chemotherapy completed at least  year prior to enrollment (except for basal cell carcinoma of the skin)
+Prior administration of anthracyclines is acceptable if therapy was completed >  months prior to study enrollment
+Completed radiation therapy
+Prior chemotherapy completed <  days prior to planned study entry
+Patients who are not expected to receive cancer therapy before imaging sessions are completed.
+Bilirubin =< . x ULN, completed within  weeks prior to start of protocol therapy
+Radiation therapy (except palliative to relieve bone pain) within  days of study entry; palliative radiation (=<  fractions) must have been completed at least  hours prior to study entry; stereotactic or small field brain irradiation must have been completed at least  days prior to study entry; whole brain radiation must have been completed at least  weeks prior to study entry
+Any prior systemic therapy (e.g., chemotherapy, molecularly targeted agent, immunotherapy, etc.) or major surgery must have been completed at least  days (or as determined by the local requirement, whichever is longer), or at least  half lives for drugs with half lives of  days or longer prior to initiation of crizotinib treatment. Any prior radiation (except palliative) or minor surgeries/procedures must have been completed at least  weeks prior to the initiation of crizotinib treatment. Palliative radiation (?  fractions) must have been completed  hours prior to the initiation of crizotinib treatment. Any acute toxicity must have recovered to Grade ? (except alopecia).
+Patient: Has completed surgical therapy
+Colonoscopy not completed in the last  years
+Sigmoidoscopy not completed in the last  years
+Colonoscopy completed within the last  years
+Sigmoidoscopy completed within the last  years
+Prior local intravesical chemotherapy or immunotherapy is allowed if completed at least  weeks prior to the initiation of study treatment

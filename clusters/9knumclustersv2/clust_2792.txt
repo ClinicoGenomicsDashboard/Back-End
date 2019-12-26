@@ -1,0 +1,36 @@
+Platelets >= , cells/mm^; obtained within  days prior to study entry
+Platelets > , mm^, must be obtained within  weeks prior to screening for protocol therapy
+Platelets >= ,/mm^ must be obtained =<  days prior to protocol registration
+Within  weeks prior to registration: Platelets >= ,/mm^
+Within  days prior to registration on study: Platelets >= ,/mm^
+Platelets >= , cells/mm^, within  days prior to registration
+Platelets >= , cells/mm^, within  days prior to study entry
+Obtained =<  weeks prior to registration: Platelets >= ,/mm^
+Platelets >= , cells/mm^ obtained within  days prior to registration
+Platelets >= , per mm^ obtained within  days prior to initiating study treatment.
+Obtained within  days prior to registration: platelets >= , cells/mm^
+Platelets >= , cells/mm^ within  days of study registration
+Platelets ? ,/mm^ within  days prior to on study status
+Within  weeks prior to the registration: platelets >= , cells/mm^
+Within  days prior to registration for protocol therapy: Platelets >= , K/mm^
+Platelets > ,/mm^, within  days prior to registration
+Obtained =<  days prior to registration: Platelets >= , cells/mm^ for patients who have bone marrow
+Obtained within  days prior to registration; platelets ?, cells/mm^
+Platelets >= ,/mm^, within  day prior to registration
+Platelets >= ,/mm^, within  days prior to study entry
+Platelets >= ,/mm^; this value must be obtained within four weeks before protocol entry
+Blood counts performed within  weeks prior to starting study therapy must have platelets >= ,/mm^
+Platelets ? ,/mm^ (? days [d] of study day )
+Within  days of study registration: Platelets >= , cells/mm^ (independent of blood transfusion and/or growth factors within  months prior to registration)
+Within  days prior to step  registration: Platelets >= , cells/mm^
+Platelets count >= , cells/mm^, obtained within  days prior to registration for protocol therapy
+Platelets >= , cells/mm^, within  days prior to registration
+Platelets >= , cells/mm^ within  days prior to study registration
+Platelets >= ,/mm^ (within  days prior to day  of protocol therapy)
+Obtained within  weeks prior to registration on study: platelets >= , cells/mm^
+Platelets >= , cells/mm^ within  days prior to registration
+Within  days prior to registration: Platelets >= ,/mm^
+Platelets greater than , cells/mm^; these results can be within last  days from the day of signing informed consent
+Has baseline neutrophil counts of >  cells/mm within  hours prior to registration
+Within  days prior to study entry: Platelets > ,/mm^
+Platelets >= ,/mm^, obtained within  days prior to C-AMT PET scan

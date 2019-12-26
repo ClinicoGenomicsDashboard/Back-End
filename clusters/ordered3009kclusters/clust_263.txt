@@ -1,0 +1,822 @@
+Any documented donor-derived PTLD
+Has undergone 1 allo-HSCT from any donor (related or unrelated with any degree of HLA matching) and any donor source (bone marrow, peripheral blood stem cells, or cord blood) for a hematologic malignancy or disorder. Recipients of myeloablative and reduced-intensity conditioning regimens are eligible.
+7. Patients are eligible if no formal unrelated donor search has been activated prior to date of consent. A formal unrelated donor search begins at the time at which samples are requested from potential National Marrow Donor Program (NMDP) donors. Patients who have started a sibling donor search or who have found a matched sibling donor are eligible.
+Intent to proceed with RIC alloHCT if a matched sibling or matched unrelated donor is identified. There is no requirement as to the timing of the transplantation.
+A suitable donor must be identified; there are no restrictions on donor type and can include a matched sibling, a matched or mismatched unrelated donor, a family haplotype matched donor or a cord blood donor (single or double)
+A positive cross-match exists between the donor and recipient
+DONOR: If the patient is homozygous at the mismatch HLA class I locus or II locus, the donor must be heterozygous at that locus and one allele must match the patient (i.e., patient is homozygous A*01:01 and donor is heterozygous A*01:01, A*02:01); this mismatch will be considered a one-antigen mismatch for rejection only
+DONOR: Donors are excluded when preexisting immunoreactivity is identified that would jeopardize donor hematopoietic cell engraftment; this determination is based on the standard practice of the individual institution; the donor should be excluded if any of the flow cytometric B and T cell cytotoxic cross match assays are positive
+DONOR: Only filgrastim (G-CSF) mobilized PBSC only will be permitted as a hematopoietic stem cell (HSC) source on this protocol
+DONOR: Donor (or centers) who will exclusively donate marrow
+DONOR: Donors who are HIV-positive and/or, medical conditions that would result in increased risk for G-CSF mobilization and harvest of PBSC
+DONOR: Patients who are homozygous at the mismatched HLA class I locus or II locus, the donor is excluded if homozygous at the mismatched locus (i.e., patient is homozygous A*01:01 and donor is homozygous A*02:01); this type of mismatch is considered a two-antigen mismatch and is not allowed
+Prior transfusions from selected donor
+DONOR: When more than one donor is available, the donor with the lowest number of HLA allele mismatches will be chosen, unless there is HLA cross-match incompatibility or a medical reason to select otherwise, in which case donor selection is the responsibility of the principal investigator (PI), in consultation with the immunogenetics laboratory; in cases where there is more than one donor with the least degree of mismatch, donors will be selected based on the most favorable combination of (i) HLA compatibility in cross-match testing and (ii) ABO compatibility; will prioritize the lowest number of mismatches in the host-versus-graft (HVG) direction (to potentially minimize graft rejection risk)
+DONOR SELECTION CRITERIA, IN DECREASING ORDER OF PRIORITY:
+DONOR: Donor must be medically, socially, and psychologically fit to donate
+DONOR: For a partially HLA-mismatched transplant, the patient must lack antibodies against donor HLA molecules; specifically, complement dependent cytotoxicity and flow cytometric crossmatch assays must be negative, and the mean fluorescence intensity (MFI) of any anti-donor HLA antibody by solid phase immunoassay should be < 3000; consult with Immunogenetics for the clinical significance of any anti-donor antibody; desensitization to remove anti-donor antibody should only be performed for patients who have no other donor options
+DONOR: If there is more than one donor with the least amount of HVG allele mismatches, the following prioritization will be used: (will always minimize HVG mismatch as highest priority)\r\n* ABO compatibility (in order of priority)\r\n** Compatible or minor ABO incompatibility\r\n** Major ABO incompatibility\r\n* Cytomegalovirus (CMV) status\r\n** The CMV status of the pair donor-recipient is frequently employed to select a potential donor; this is a controversial issue and the data available is somewhat limited; the following guidelines are recommended:\r\n*** For a CMV seronegative recipient, use a CMV seronegative donor\r\n*** For a CMV seropositive recipient, use a CMV seropositive donor\r\n* In CMV- patients with CMV+ stem-cell donors, primary CMV infection/reactivation develops in about 30%; data from the European Registry shows the following: seropositive patients receiving grafts from CMV+ HLA-identical sibling donors had the same survival as patients grafted from CMV- donors; however, matched unrelated donor (MUD) recipients receiving grafts from CMV+ donors had an improved 5-year survival, an improved event-free survival, and a reduced transplant-related mortality; there was no influence on the relapse incidence; the effects of donor CMV status remained in multivariate analyses; the effect of donor status was different among different disease categories; in patients with chronic myelogenous leukemia, T-cell depletion abrogated the beneficial effect of donor status, suggesting that the effect is mediated through transfer of donor immunity; these data suggest that donor CMV status influences outcome of unrelated stem cell transplant (SCT)
+DONOR: The cytomegalovirus (CMV) status of the pair donor-recipient is frequently employed to select a potential donor; the following guidelines are recommended:\r\n* For a CMV seronegative recipient, use a CMV seronegative donor\r\n* For a CMV seropositive recipient, use a CMV seropositive donor
+DONOR: Donor parity and sex mismatch, have also been associated with an increased risk of acute GVHD (aGVHD) and decreased survival in some but not all studies; donor age and weight should be also taken into consideration\r\n* Suggestions (in no order of priority):\r\n** Younger (18 years of age or older) and lighter donors should be preferred\r\n* If all else is equal, male donors may be preferred over nulliparous female donors who may be preferred over multiparous female donors\r\n* Other factors such as donor age and health history will be integrated into the donor selection process per standard practice and may be prioritized over HLA, ABO and CMV status; children donors may be used if appropriate
+De novo recipients of a primary orthotopic liver transplant from a deceased or living donor
+Recipients of donor/recipient ABO incompatible grafts.
+Participants must be at least 100 days after the transplantation or a donor lymphocyte infusion
+Donor lymphocyte infusion within 100 days prior to enrollment
+DONOR: Willing to undergo multiple apheresis procedures (except donors < 12 years who will undergo bone marrow harvests)
+DONOR: Inadequate documentation that donor and recipient are syngeneic
+DONOR: Donors who do not fulfill criteria as apheresis donors as established by institutional guidelines
+DONOR: Concordant for autoimmune neurological disease(s) as determined by neurological evaluation
+DONOR: Donor-recipient pairs in which the HLA-mismatch is only in the host-versus-graft (HVG) direction; patients are homozygous and donor is heterozygous
+DONOR: HIV-positive donors
+DONOR: A positive anti-donor cytotoxic cross match is absolute donor exclusion
+DONOR: < 6 months old and > 75 years old
+DONOR: Donors must meet all criteria for donation as per 21 Code of Federal Regulations (CFR)1271 Subpart C
+DONOR: Unrelated donors must be >= 18 as per National Marrow Donor Program (NMDP) guidelines
+DONOR: Related donors will be selected from the patient’s family members and relatives; preference will be given to related donors over the age of 18 whenever possible; if minor donors are to be enrolled, they will be a minimum of 12 years old
+DONOR: Related donors must meet all requirements to donate as per Lucile Packard Children's Hospital (LPCH) standard of procedure (SOP) for donors
+DONOR: Donors who do not meet 21 CFR 1271 Subpart C requirements per the Food and Drug Administration (FDA) to donate
+DONOR: Pregnant females will not be eligible to donate as per NMDP and LPCH guidelines
+Patients with suitably matched related or unrelated donor, as defined per institutional practice.
+Planned use of prophylactic donor lymphocyte infusion (DLI) therapy.
+Have undergone allogeneic stem cell transplantation (alloSCT) from any donor source (matched unrelated donor, sibling, haplo-identical) using bone marrow, peripheral blood stem cells, or cord blood. Recipients of non-myeloablative, myeloablative, and reduced intensity conditioning are eligible
+Patients must have a related or unrelated peripheral blood stem cell donor that meet one of the following criteria:
+Planned preemptive/prophylactic administration of donor lymphocytes (as per section 2.5.2)
+Participant is considered a suitable candidate for HCT and has an acceptable source of allogeneic donor stem cells, as defined per institutional practice (allogeneic HCT for any donor source [matched sibling, unrelated donor (URD), mismatched URD, related haploidentical, or umbilical cord blood] and any graft source [umbilical cord, BM, peripheral blood (PB)], and any conditioning [myeloablative conditioning (MAC), reduced intensity conditioning (RIC), or non-myeloablative conditioning (NMA)] will be permitted).
+Available alternative donor:
+DONOR: Related donors undergoing bone marrow harvest should be deemed fit for the operative procedure and related donors undergoing apheresis should be deemed fit for the collection procedure
+DONOR: Related donors will undergo the donor health history screen by skilled staff in the Blood Services Section for adult donors and age-appropriate questioning when indicated for pediatric donors to determine donor eligibility using standard Department of Transfusion Medicine (DTM) criteria
+DONOR: Unrelated donors will be evaluated in accordance with existing National Marrow Donor Program (NMDP) Standard Policies and Procedures except for the additional requirement of EBV serostatus testing; note that participation in this study is offered to all unrelated donors but not required for clinical donation, so it is possible that not all unrelated donors will enroll on this study
+DONOR: Other medical constraints that in the opinion of the PI constitute exclusion
+DONOR: Unrelated donors: failure to qualify as a National Marrow Donor Program (NMDP) donor per current NMDP standards
+DONOR: Identical twin
+DONOR: Donors unwilling to donate PBSC
+DONOR: Pregnancy
+DONOR: Infection with HIV
+DONOR: Current serious systemic illness
+DONOR: Failure to meet institutional criteria for stem cell donation
+DONOR: Patient and donor pairs must not be homozygous at mismatched allele
+Available donor-derived multiTAA-specific T cell line
+Patients receiving a donor lymphocyte infusion within 4 weeks of planned T cell infusion
+DONOR ELIGIBILITY
+Available donor-derived multiTAA-specific T cell line
+DONOR ELIGIBILITY
+Patients receiving a donor lymphocyte infusion within 4 weeks of planned T cell infusion
+Subjects who developed aGVHD after unplanned donor lymphocyte infusion.
+Known T-cell donor chimerism of < 50%
+DONOR INCLUSION:
+DONOR EXCLUSION:
+Patients with Hodgkin Lymphoma with either of the following: • Primary induction failure (failure to achieve initial CR) and/or primary refractory disease OR First, Second or Third relapse AND History of prior ablative auto HSCT or ineligible for an ablative auto HSCT or ?25% residual disease after at least two reinduction chemotherapy cycles AND HLA matched family donor (6/6 or 5/6) or matched unrelated adult donor (MUD) (8/8) or matched umbilical cord blood unit (?5/6) with prethaw cell dose of at least 3 x 107/kg TNC.
+Patients who don't have an eligible donor are ineligible.
+For non-myeloablative transplants, >= 50% cluster of differentiation (CD)3 donor chimerism at screening
+No identified 8/8 (based upon A, B, C, DRB1 loci) allele matched unrelated donor, or unable to wait sufficient time to procure an 8/8 allele matched unrelated donor
+DONOR: blood relative of the subject
+DONOR: must be capable of and consent or assent to donation of peripheral blood stem cells
+DONOR: meet criteria for related donor including infectious disease testing and history and physical exam and receive clearance by transplant physician per University of Utah standard operating procedure (SOP)
+DONOR: Donor is at least 18 years of age
+DONOR: Donor is a family member
+DONOR: Donor is not pregnant or breast-feeding
+DONOR: Donor is human immunodeficiency virus (HIV) negative
+DONOR: Donor does not have any other medical condition that, in the opinion of an independent physician, precludes performance of an apheresis procedure
+DONOR: PBSC is the preferred cell source (when feasible) for fully matched donors; PBSC may also be used for a mismatched donor following discussion with the PI; bone marrow is allowed when PBSC is not feasible or as determined by the PI
+DONOR: Deemed unable to undergo marrow harvesting or PBSC mobilization and leukapheresis
+DONOR: HIV-positive
+DONOR: With active infectious hepatitis
+DONOR: Females with a positive pregnancy test
+DONOR: Unrelated Umbilical Cord Blood: The patient and the cord blood unit(s) must be matched for at least 4 of 6 loci as defined above
+DONOR: Unrelated Umbilical Cord Blood: Selection of two umbilical cord blood (UCB) units is allowed to provide sufficient cell dose
+DONOR: Unrelated Umbilical Cord Blood: Each UCB unit MUST contain at least 1.5 x 10^7 TNC per kilogram recipient weight
+DONOR: Unrelated Umbilical Cord Blood: The total cell dose of the combined units must be at least 3.0 x 10^7 TNC per kilogram recipient weight
+DONOR: Unrelated Umbilical Cord Blood: Any cord blood units with < 1.5 x 10^7 total nucleated cells per kilogram recipient weight
+DONOR: Able to provide informed consent for the donation process per institutional standards.
+DONOR: Meet standard criteria for donor collection as defined by the National Marrow Donor Program Guidelines.
+DONOR: Both arms: All donors in both arms should be evaluated and approved by DSC
+DONOR: Donor selection for both arms must be approved by the donor selection committee
+DONOR: Evidence of active infection
+DONOR: Medical or physical reason which makes the donor unlikely to tolerate or cooperate with growth factor therapy or leukapheresis
+DONOR: Factors which place the donor at increased risk for complications from leukapheresis or granulocyte-colony stimulating factor (G-CSF) therapy could be harvested for bone marrow (BM) if safer for the donor and if approved by PI
+The patient must have an identified RELATED haploidentical (haplo)-identical donor.
+DONOR: The donor must be healthy and must be willing to serve as a donor, based on standard National Marrow Donor Program (NMDP) guidelines and DHMC SOP – Donor Evaluation.
+DONOR: The donor must have no significant co-morbidities that would put the donor at marked increased risk.
+DONOR: There is no age restriction for the donor.
+DONOR: Informed consent must be signed by donor.
+DONOR: Pregnant or lactating donor.
+DONOR: HIV or active hepatitis (Hep) B or C in the donor.
+DONOR: A donor with a psychiatric disorder or mental deficiency that makes compliance with the procedure unlikely and informed consent impossible.
+DONOR: donor evaluation and eligibility will be assessed as per current City of Hope standard operating procedure (SOP)
+Any donor type (e.g., related, unrelated) or stem cell source (bone marrow, peripheral blood, cord blood).
+Patients with no available and suitably matched related or unrelated donor in the required time period.
+Donor lymphocyte infusion (DLI) within 28 days prior to enrollment
+Patients without a matched related or unrelated donor
+Presence of donor-specific antibodies against chosen graft source
+Suitable related haploidentical donor identified:\r\n* Must be matched at least at 5 of 10 HLA antigens (A, B, C, DRB1, DQ)\r\n* Must not be matched at more than 7 of 10 HLA antigens\r\n* Recipient should not have HLA antibodies to potential donor; if the recipient does have HLA antibodies to the potential donor, an alternative donor is preferred; however, if there are no suitable alternative donors, the donor to whom the patient has HLA antibodies can be utilized as long as the antibody titer is less than 2000 median fluorescence intensity (MFI); if the titer is > or = to 2000 MFI, the recipient must undergo successful antibody desensitization prior to enrollment on this study; any patients who have demonstrated donor specific antibodies will not be evaluated for the end points measured in this study but will be followed for treatment related toxicities\r\n* Haploidentical donors that are ABO compatible with the recipient are preferred; Minor ABO incompatibility is preferred to major ABO incompatibility; major ABO incompatibility between recipient and donor is the least preferred but still acceptable for this study\r\n* It is preferred that the haploidentical donor must be available to donate on day -1 and day 0 at Roswell Park Cancer Institute (RPCI), so that fresh product can be processed by the RPCI stem cell lab and administered to the patient on day 0; while less preferable, cryopreserved product may be utilized on this protocol
+Treating physician or considers the potential HLA haploidentical donor to be ineligible to receive G-CSF, and/or concern on the part of the treating physician for risk of harm to the potential donor with administration of G-CSF, and/or refusal by the potential donor (or donor’s guardian) to receive G-CSF
+DONOR SELECTION INCLUSION
+DONOR SELECTION EXCLUSION
+Unrelated donor residing outside of the United States of America (USA)
+Physician decision (e.g., lack of available stem cell donor).
+DONOR: Donor (or centers) who will exclusively donate marrow
+DONOR: Donors who are HIV-positive and/or, medical conditions that would result in increased risk for G-CSF mobilization and harvest of peripheral blood stem cell (PBSC)
+DONOR: Patients who are homozygous at the mismatched HLA class I or II locus, the donor is excluded if homozygous at the mismatched locus (i.e., patient is homozygous A *01:01 and donor is homozygous A *02:01); this type of mismatch is considered a two-antigen mismatch and is not allowed
+HLA-MATCHED UNRELATED DONOR: Donors are excluded when preexisting immunoreactivity is identified that would jeopardize donor hematopoietic cell engraftment; this determination is based on the standard practice of the individual institution; the recommended procedure for patients with 10 of 10 HLA allele level (phenotypic) match is to obtain a panel reactive antibody (PRA) screens to class I and class II antigens for all patients before HCT; if the PRA shows > 10% activity, then flow cytometric or B and T cell cytotoxic cross matches should be obtained; the donor should be excluded if any of the cytotoxic cross match assays are positive; for those patients with an HLA Class I allele mismatch, flow cytometric or B and T cell cytotoxic cross matches should be obtained regardless of the PRA results; a positive anti-donor cytotoxic crossmatch is an absolute donor exclusion
+HLA-MATCHED UNRELATED DONOR: Patient and donor pairs homozygous at a mismatched allele in the graft rejection vector are considered a two-allele mismatch, i.e., the patient is A*0101 and the donor is A*0102, and this type of mismatch is not allowed
+Availability of eligible haploidentical donor
+DONOR: Testing for communicable disease will be performed according to the University of Washington (UW) Hematopoietic Stem Cell Transplant Program guidelines set forth in the most current standard operating policies and procedures (UW Foundation for the Accreditation of Cellular Therapy [FACT]-accredited Clinical Hematopoietic Cell Processing Laboratory [CHCPL] standard of procedure [SOP]) for hematopoietic cell donor evaluation and selection
+DONOR: The potential donor must be in good general health as determined by the evaluating medical provider using the UW Hematopoietic Stem Cell Transplant Program guidelines set forth in the most current standard operating policies and procedures (UW FACT-accredited CHCPL SOP) for hematopoietic cell donor evaluation and selection
+Donor lymphocyte infusion administered to treat relapse or loss of donor chimerism
+Meets institutional criteria for a RIC allogeneic (allo) BMT to treat a B?cell derived hematologic malignancy of a fully matched or partially mismatched related or unrelated donor source
+Acceptable allogeneic stem cell donor with imminent plans to proceed with allo-SCT.
+DONOR: Absence of pre-existing donor-specific anti-HLA antibodies (DSA) in the recipient; Patients with pre-existing DSA could undergo desensitization per City of Hope (COH) standard operating procedures [SOP] and should have DS < 2000 prior to conditioning at discretion of principal investigator (PI)
+DONOR: Is approved and completed evaluation prior to recipient initiation of the preparative regimen per institutional guidelines
+DONOR: Active infection
+DONOR: Thrombocytopenia < 150,000 cells /mm^3 at baseline evaluation
+DONOR: Medical or physical reason which makes the donor unlikely to tolerate or cooperate with growth factor therapy and leukapheresis
+DONOR: Factors which place the donor at increased risk for complications from leukapheresis or G-CSF therapy
+PHASE I: Patients who have evidence of donor chimerism after allogeneic transplantation
+Patients will have a back-up graft from any of the following: an available fraction of autologous marrow; or peripheral blood progenitor cells (PBPCs) harvested and cryopreserved; or family member donor; or a third cord blood unit.
+DONOR ELIGIBILITY
+Available original donor (same donor as used for the initial stem cell transplant) that is willing and eligible for non-mobilized collection
+DONOR: Same donor as used for the autologous hematopoietic cell transplantation (allo-HCT)
+DONOR: In general good health, and medically able to tolerate leukapheresis
+DONOR: Active hepatitis, positive for human T-cell lymphotropic virus (HTLV), or HIV on donor viral screen
+DONOR SELECTION:
+Voluntary written consent (and assent if donor < 18 years of age) prior to the performance of any research related procedure
+Donor T cell engraftment after allo-HSCT (> 90% donor chimerism of the T cell compartment)
+Prior donor lymphocyte infusions (DLIs) are not necessary
+DONOR: 12 to 70 years of age - priority should be given to age (< 35 years), followed by HLA matching (haploidentical and if not available then fully mismatched donor)
+DONOR: In general good health as determined by the evaluating medical provider
+DONOR: WBC within 10% of upper and lower limit of normal range of test (gender based for hemoglobin)
+DONOR: Platelet within 10% of upper and lower limit of normal range of test (gender based for hemoglobin)
+DONOR: Able and willing to undergo apheresis
+DONOR: Voluntary written consent (using assent form if donor < 18 years of age)
+Donor lymphocyte infusions (DLI) within 6 weeks of JCAR017 administration
+Must have baseline donor T cell chimerism of >= 20%
+Patients who have had donor lymphocyte infusion (DLI) within 8 weeks prior to registration
+Recipients of allogeneic stem cell transplantation with myeloablative or non-myeloablative conditioning regimens; alternative donor transplants (umbilical cord blood and haploidentical) are allowed
+Donor lymphocyte infusion within 100 days prior to enrollment
+DONOR: Ability of donors < 18 years of age to undergo bone marrow harvest
+DONOR: Complete blood count (CBC) with differential and platelet count within normal limits, as deemed acceptable by the principal investigator
+DONOR: Positive anti-donor HLA antibody
+DONOR: Active infection
+DONOR: Presence of a hemoglobinopathy
+Subjects have undergone alloSCT > 90 days prior to enrollment from a matched-related donor (MRD), matched-unrelated donor (MUD), cord blood donor, or haplo-identical and cord blood donor
+Subjects must not have received a donor lymphocyte infusion (DLI) within 8 weeks prior to the first dose of study medication
+Available haploidentical donor willing and eligible to undergo a peripheral blood collection
+All ABO blood group combinations of the donor/recipient are acceptable
+Donor availability-the patient must have an identified donor\r\n* Sibling: Availability of a 6/6 identical donor\r\n* Unrelated donor: Availability of a 6/6 unrelated donor
+DONOR: The donor must be healthy and must be willing to serve as a donor, based on standard NMDP guidelines and DHMC SOP – Donor Evaluation
+DONOR: The donor must have no significant co-morbidities that would put the donor at marked increased risk
+DONOR: There is no age restriction for the donor
+DONOR: Informed consent must be signed by donor (if sibling donor) or by third party (i.e. NMDP) if unrelated donor
+DONOR: Syngeneic donor
+DONOR: Pregnant or lactating donor
+DONOR: HIV or active hepatitis (Hep) B or C in the donor
+DONOR: A donor with a psychiatric disorder or mental deficiency that makes compliance with the procedure unlikely and informed consent impossible
+Have undergone Allogeneic Stem Cell Transplanttaion (alloSCT) from any donor source (matched unrelated donor, sibling, haplo-identical) using bone marrow, peripheral blood stem cells, or cord blood. Recipients of non- myeloablative, myeloablative, and reduced intensity conditioning are eligible
+DONOR: Meets criteria outlined in the Foundation for the Accreditation of Cellular Therapy (FACT)-approved standard operating procedure (SOP) for \DONOR EVALUATION AND SELECTION FOR ALLOGENEIC TRANSPLANTATION\ in the Blood and Marrow Transplant Program Manual, document E-1
+DONOR: Donor must be willing to undergo general anesthesia and bone marrow stem cell harvest
+DONOR: Must be >= 14 years old
+DONOR: Evidence of infection not responding to antibiotic therapy
+DONOR: Factors that place the donor at increased risk of general anesthesia and bone marrow harvest, such as congenital or acquired bleeding disorders, intolerance or allergy to anesthesia, prior serious surgical complications, or uncontrolled cardiac or pulmonary disorders
+Patients must have a haploidentical related donor or a fully matched related or unrelated donor
+Has a suitable single haplotype matched (>= 3 of 6) family member donor
+DONOR: At least single haplotype matched (>= 3 of 6) family member
+DONOR: Related donor (parents, sibling, offspring, or offspring of sibling)
+DONOR: In general good health, and medically able to tolerate leukapheresis required for harvesting the NK cells for this study
+DONOR: Positive for hepatitis, human T-lymphotropic virus (HTLV), or HIV on donor viral screen
+Donor specific antibodies against donor HLA–DQ or –DP
+5/6 or 6/6 related donor match or a 7-8/8 HLA-A, B, C, DRB1 allele matched unrelated donor marrow and/or PBSC donor match per current institutional guidelines; related donors will be evaluated and collected per MT2012-14C; unrelated donors will be identified and collected per usual procedures
+DONOR: Recipient derived anti-donor HLA antibodies identified as “unacceptable\ by Luminex assay; exceptions may be made by the Director of the Histocompatibility Laboratory in conjunction with the recipient’s physician and a plan for desensitization
+DONOR: Not suitable for donation according to UW BMT program donor selection SOP
+Eligible NK donor
+DONOR: Donor is blood-related and HLA-haploidentical to the recipient
+DONOR: Donor must be able to undergo leukapheresis for total volume of 10-15 liters
+DONOR: There is no age restriction for the donor
+DONOR: Cardiac risk factors precluding ability to undergo leukapheresis
+DONOR: Concurrent malignancy or autoimmune disease
+DONOR: Donor is pregnant
+Subjects must have a suitable stem cell donor available who may donate cells if the subject needs to undergo allogeneic hematopoietic cell transplant (HCT); donor may be matched or mismatched and must be found to be suitable according to the institution’s standard criteria
+Has received donor lymphocyte infusion (DLI) product within 6 weeks of CAR T cell infusion
+Any donor type (e.g., related, unrelated) or stem cell source (bone marrow, peripheral blood, cord blood); recipients of non-myeloablative and myeloablative transplants are eligible
+Availability of an eligible haploidentical donor
+DONOR: Donor eligibility will be determined in compliance with Code of Federal Regulations 21 CFR 1271, subpart C; for a donor to be eligible, the donor must meet donor criteria for human cells, tissues and cellular and tissue-based products; specifically, a donor is eligible under these provisions only if:\r\n* Donor screening in accordance with 1271.75 indicates that the donor:\r\n** Is free from risk factors for, and clinical evidence of, infection due to relevant communicable disease agents and diseases; and\r\n** Is free from communicable disease risks associated with xenotransplantation; and\r\n* The results of donor testing for relevant communicable disease agents in accordance with 1271.80 and 1271.85 are negative or nonreactive, except as provided in 1271.80(d)\r\n* If a donor does not meet these criteria, he/she is not eligible
+DONOR: Haploidentical family members, between the ages of 18 and 65 years, identified as an eligible donor by HLA-typing; a biological parent will generally be used as the donor
+DONOR: The potential donor must be in good general health as determined by the evaluating medical provider using the University of Wisconsin (UW) Hematopoietic Stem Cell Transplant Program guidelines set forth in the most current standard operating policies and procedures for hematopoietic donor evaluation and selection
+DONOR: Lactating females
+Donor cellular engraftment of at least 2.5% from the reduced intensity/non-ablative procedure
+Will be matched at least as HLA -A, -B, C and -DRB1; criterion for donation will be those allowing donation following the National Marrow Donor Program (NMDP) accepted donor criterion and program standard operating procedures (SOPs) for the typical matched unrelated donors
+DONOR: For younger donors, no more than 20 mL bone marrow may be harvested per kg of donor body weight
+DONOR: The donor must have been informed of the investigational nature of this study and have signed a consent form in accordance with federal guidelines and the guidelines of the participating institution
+DONOR: Selection of a haploidentical donor will require absence of pre-existing donor-directed anti-HLA antibodies in the recipient
+DONOR: Evidence of active infection
+DONOR: Medical or physical reason which makes the donor unlikely to tolerate or cooperate with growth factor therapy and leukapheresis
+DONOR: HIV positive
+DONOR: In a state of general good health and have completed a donor evaluation with history, medical examination and standard blood tests within 60 days of starting the hematopoietic cell collection procedure; in order to fairly represent the interests of the donor, the donor evaluation and consent will be performed by a study team member other than the recipient’s attending physician
+DONOR: White blood cell count > 3.5 x 10^9/liter, platelets > 150 x 10^9/liter and hematocrit > 35%
+DONOR: Capable of undergoing leukapheresis
+DONOR: No psychological traits or psychological or medical conditions which make them unlikely to tolerate the procedure
+DONOR: Has not developed a new malignancy requiring chemotherapy or radiation in the interval since apheresis for initial hematocrit (HCT)
+Patients must have evidence of mixed CD3 T-cell chimerism based on the day +28 (+/- 7 days) blood sample showing >= 30% and =< 90% donor type cells
+Donor source is matched related, unrelated, haploidentical donor or cord blood.
+Evidence of donor engraftment as defined by institutional standard T cell chimerism > 50%.
+RESEARCH PHASE INCLUSION CRITERIA:\r\nDONOR: Verification of donor eligibility (clearance must be received from the NMDP)\r\n* Donors are evaluated by NMDP affiliated donor centers per NMDP Standards\r\n** Donors who are medically suitable, but ineligible by Food and Drug Administration (FDA) guidelines may still donate peripheral blood stem cells (PBSC) with documentation of urgent medical need by the PI\r\n** Patients who receive stem cell products from ineligible donors will be informed of any increase in risk of transfusion-related diseases prior to initiation of conditioning chemotherapy\r\n* Donors who are ineligible or unwilling to donate bone marrow will not be eligible to donate to study recipients; however, in the event that the patient has already begun conditioning chemotherapy and a donor PBSC collection is terminated early for donor-related medical concerns, a bone marrow graft may be infused; should this occur, the recipient will be removed from the study, but will continue to be managed on this protocol for all transplant-related care and complications\r\n* Inadequate stem cell collection from the selected donor is defined as less than or equal to 2 x 10^6 cluster of differentiation (CD)34+ cells/kg; in most cases, donor cell collections are infused fresh; if a fresh collection is found to have an inadequate cell count, the cells will still be infused, but the recipient will be removed from the study, and managed clinically for all transplant-related care and complications on this protocol; if the patient fails to engraft, the donor may be requested for a second collection or an emergency bone marrow harvest at the discretion of the PI and NMDP Medical Director; in the event of an inadequate collection obtained prior to patient conditioning, the donor may be asked to donate a second time, or another eligible donor may be requested
+Patients who have received donor lymphocyte infusion (DLI) within 28 days of Viralym-A infusion.
+PART 2: Patients without an HLA-identical or 1-allele-mismatched related donor or unrelated donor or umbilical cord blood units that meet transplant criteria
+DONOR: Avoid donor specific antibodies (DSA); select donors with a negative anti-donor cross-match
+DONOR: Younger donors will be preferred
+Donor is either matched related, matched unrelated, mismatched unrelated, or haploidentical; cord blood recipients are also eligible
+Patients who have received donor lymphocyte infusion (DLI) within 28 days
+SUITABLE DONOR – Medically cleared to donate
+ELIGIBLE DONOR – Meets all donor screening and testing requirements related to transmission of infectious disease
+DONOR: Donors must be HLA-haploidentical first-degree relatives of the patient; eligible donors include biological parents, siblings, or children, or half-siblings
+DONOR: Positive anti-donor HLA antibody
+ALLOGENEIC DONOR CRITERIA FOR APHERESIS DONATION: \r\n* Related donor selection will be conducted in accordance with City of Hope's Department of Hematology & Hematopoietic Cell Transplantation criteria and, in the case of unrelated donor from a transplant center, will comply with the National Marrow Donor Program's (NMDP) donor selection standards; when a potentially eligible recipient of an unrelated donor product from an NMDP Center is identified, the recipient will complete an NMDP search transfer request to allow City of Hope (COH) NMDP staff to contact the NMDP Coordinating Center, who in turn, will contact the donor's prior Donor Center; the search will follow the NMDP Policy for subsequent donation requests; any form deemed appropriate and necessary by the NMDP, including the Subsequent Donation Request Form, Therapeutic T Cell Collection Prescription and Therapeutic Stem Cell Collection Prescription, will be submitted as required\r\n* In the case of a related donor: The identified donor must be the original donor whose stem cells were used for the research participant's allogeneic stem cell transplantation (alloSCT)\r\n* For both related and unrelated donors: The donor's hepatitis B surface antigen must be negative and the hepatitis C antibody must be nonreactive; in the case of a positive hepatitis C antibody result, the hepatitis C virus (HCV) viral polymerase chain reaction (PCR) will have to be performed and the results should be negative
+The patient's HCT donor has not been previously infected by or sensitized to CMV (e.g. a cord blood transplant or a marrow or PBSC transplant from a seronegative donor).
+The patient's HCT donor, if seropositive, is either not available or not willing to provide leukocytes for generation of CMV-specific T-cells.
+Patients must have an allogeneic hematopoietic progenitor cell donor (HPCT), either a matched sibling, mismatched (1 allele) sibling, or a matched unrelated donor (MUD) or a mismatched (1 allele) unrelated donor\r\n* Previous autologous hematopoietic progenitor cell transplantation is allowed; a minimum of 6 months should have elapsed from prior autologous hematopoietic progenitor cell transplantation; prior transplantation with conditioning regimens using total body irradiation is not allowed
+Patients who have received donor lymphocyte infusion (DLI) within 28 days
+DONOR ELIGIBILITY: Donor evaluation and eligibility will be assessed as per current City of Hope standard operating procedure (SOP)
+Haploidentical Related Donor Selection Criteria: the recipient must have a related donor haploidentical for HLA A, B, C, and DR (i.e. matched at one locus); they may be partially matched on the other haplotype; if a matched sibling donor is available but disease status (poor disease control, recurrence after allogeneic HSCT) precludes treatment on other protocols, a haplo-identical relative is preferred as the HSC (cluster of differentiation [CD]34+ cell) source
+DONOR: Medical history and physical examination confirm good health status as defined by institutional standards (see Lurie Children’s Hospital of Chicago Stem Cell Transplant Program policy VII-B entitled Allogeneic Donor Identification, Evaluation, Education, Consent and Management)
+DONOR: Donor is to be negative for human immunodeficiency virus (HIV) antigen (Ag), HIV 1+2 antibody (Ab), human T-lymphotropic virus (HTLV) I/II Ab, hepatitis B surface antigen (HbsAg), hepatitis B core antibody (HbcAb) (immunoglobulin [Ig]M [combination screening test] and IgG), hepatitis C virus (HCV), and rapid plasma reagin (RPR) for syphilis within 30 days of apheresis collection; if the only donor is positive for Hepatitis B or C or syphilis, the recipient must be notified - the recipient may proceed if Principal Investigator (PI), recipient and donor agree and there is no alternative related donor
+DONOR: Haploidentical-(related) donor’s age should be 4-60 years and weigh > than 20 kg; general preference of related haplo-identical marrow HSC donors prioritizes male relatives over female relatives and younger age balanced with size and ease/safety of marrow collection
+DONOR: The donor, or legal guardian, must have been informed of the investigational nature of this study and have signed a consent form in accordance with Federal Guidelines
+DONOR: 6/6 HLA identical family donor
+DONOR: Weight > 20 kg (in so far that the weight difference between recipient and donor does not exceed a reasonable likelihood of being able to obtain an adequate cell dose from the donor within two aphereses)
+DONOR: Fit to receive G-CSF (filgrastim) and give peripheral blood stem cells (normal blood counts, normotensive, and no history of stroke)
+DONOR: Hemoglobin S >= 50%, or beta thalassemia intermediate
+Patient with no matched related donor who has a related haploidentical donor identified (=< 7/8 allele match at the A, B, C, DR loci) who is willing to undergo a bone marrow harvest and an NK cell collection approximately 2 weeks of the recipient's admission for transplant; the donor must be 16 years of age or older and weigh at least 110 pounds
+MATCHED RELATED DONOR: Ability to give informed consent
+MATCHED RELATED DONOR: Age 6-70 years
+MATCHED RELATED DONOR: No history of life-threatening opportunistic infection
+MATCHED RELATED DONOR: A donor who is lactating must be willing and able to interrupt breast-feeding or substitute formula feeding for her infant during the period of filgrastim administration and for two days following the final dose
+MATCHED RELATED DONOR: No mutation in GATA2, or in the case where the mutation in GATA2 has not been identified, but the recipient has the clinical syndrome of MonoMAC, the donor is required to have no clinical evidence of MonoMAC
+MATCHED UNRELATED DONOR: The evaluation of donors shall be in accordance with existing National Marrow Donor Program (NMDP) Standard Policies and Procedures
+HAPLOIDENTICAL RELATED DONOR: Age 6-70 years
+HAPLOIDENTICAL RELATED DONOR: No history of life-threatening opportunistic infection
+HAPLOIDENTICAL RELATED DONOR: Haploidentical donors will undergo marrow harvest with general anesthesia; subjects will undergo anesthesia consultation prior to enrollment; cluster of differentiation (CD)34+ fraction will be determined
+HAPLOIDENTICAL RELATED DONOR: No mutation in GATA2, or in the case where the mutation in GATA2 has not been identified, but the recipient has the clinical syndrome of MonoMAC, the donor is required to have no clinical evidence of MonoMAC
+MATCHED RELATED DONOR: Mutation in GATA2, or evidence of loss of expression of one allele of GATA2 by cDNA analysis performed by a CLIA certified laboratory, or in the case where the mutation in GATA2 has not been identified, but the recipient has the clinical syndrome of MonoMAC, the donor is excluded if he or she has the clinical syndrome of MonoMAC
+MATCHED UNRELATED DONOR: Failure to qualify as an NMDP donor
+HAPLOIDENTICAL RELATED DONOR: Age less than 6 years or greater than 70
+HAPLOIDENTICAL RELATED DONOR: HIV infection
+HAPLOIDENTICAL RELATED DONOR: Chronic active hepatitis B; donor may be hepatitis core antibody positive
+HAPLOIDENTICAL RELATED DONOR: Mutation in GATA2, or evidence of loss of expression of one allele of GATA2 by cDNA analysis performed by a CLIA certified laboratory, or in the case where the mutation in GATA2 has not been identified, but the recipient has the clinical syndrome of MonoMAC, the donor is required to have no clinical history of MonoMAC
+The majority of patients on this protocol will have autologous peripheral blood stem cells (PBSCs) available; where a syngeneic donor is available, this donor may also be utilized; in the case of a patient who has received a prior allogeneic transplant, if the donor is available, allogeneic stem cells may be utilized; for these patients, 3 criteria must be met: 1) there must be no evidence of graft vs. host disease (GVHD), 2) the patient must be on no medication for GVHD treatment or prophylaxis and 3) there must be full donor chimerism (> 95% donor on peripheral blood chimerism testing); the only acceptable allogeneic product is CD34-selected PBSC (which will minimize the risk of GVHD)
+Has a suitable single haplotype matched (>= 3 of 6) family member donor
+DONOR: At least single haplotype matched (>= 3 of 6) family member
+DONOR: Identified as either:\r\n* Completed the process of donor eligibility determination as outlined in 21 Code of Federal Regulations (CFR) 1271 and agency guidance; OR\r\n* Does not meet 21 CFR 1271 eligibility requirements, but has a declaration of urgent medical need completed by the principal investigator or physician sub-investigator per 21 CFR 1271
+Donor (donor anti-recipient) ABO incompatibility if an ABO compatible donor is available
+DONOR: Donors must meet the selection criteria as defined by the Foundation for the Accreditation of Hematopoietic Cell Therapy (FACT)
+DONOR: In the event that two or more eligible donors are identified, the following order of priority will be used to determine the preferred donor:\r\n* Medically and psychologically fit and willing to donate\r\n* Killer immunoglobulin receptor (KIR) haplotype B donor\r\n* Red blood-cell compatibility (in order of preference)\r\n** Red blood cell (RBC) cross-match compatible\r\n** Minor ABO incompatibility\r\n** Major ABO incompatibility\r\n* For cytomegalovirus (CMV) seronegative recipients, a CMV seronegative donor; for CMV seropositive recipients, a CMV seropositive donor is preferred\r\n* When possible, HLA-mismatched donors will be prioritized over HLA-matched to maximize an allogeneic benefit
+DONOR: If more than one preferred donor is identified from the above list and there is no medical reason to prefer one of them, then the following guidelines are recommended:\r\n* If the patient is male, choose a male donor\r\n* Choose the youngest preferred donor\r\n* If the patient and family express a strong preference for a particular donor, use that one
+DONOR: Donor screening; all donors will meet the standard blood donor criteria established by the participating local blood center, American Association of Blood Banks (AABB)
+DONOR: Donors will be selected from among the subject’s relatives, adult children preferred
+DONOR: Infectious disease testing will be done per Hemacare policy and AAAB guidelines
+DONOR: Donor and intended recipient red cell type and compatibility will be determined
+DONOR: If patient is cytomegalovirus (CMV)-negative, donors who are CMV-negative will be preferred; CMV serology of the donor will be tested prior to the allogeneic cell donation; donations from CMV-positive donors to CMV-negative recipients will be given if no CMV negative donor is available, and CMV surveillance and pre-emptive treatment given
+DONOR: Personal or family history of severe sickle cell disease or variant (unless donor has tested negative); testing for the presence of hemoglobin S is not required
+DONOR: Positive infectious disease test as dictated by blood collection center’s standard operating procedure (SOP)
+DONOR: Active peptic ulcer disease
+DONOR: Currently taking lithium therapy
+DONOR: History of coronary disease
+Have a haploidentical family peripheral blood donor selected for best possible killer cell immunoglobulin-like receptor (KIR) reactivity; KIR typing will not be indicated if there is only one haploidentical donor; KIR typing is advised to be done if feasible and does not delay transplant
+DONOR: Donor must be 16 years of age or older and weigh at least 110 pounds
+DONOR: Donor must be a human leukocyte antigen (HLA)-haploidentical relative selected for best NK alloreactivity, defined as having a KIR gene present on the donor NK cells for which the relevant HLA haplotype (KIR ligand) is absent in the recipient and present in the donor or selected on the basis of activating KIR gene content
+DONOR: Donor must meet standard institutional eligibility and donor certification criteria for therapeutic cell product donation
+DONOR: Evaluation: history and physical examination; laboratory examinations: hematology, electrolytes, chemistry; infectious disease screening and serology; HLA typing; KIR typing will not be indicated if there is only one haploidentical donor; KIR typing is advised to be done if feasible and does not delay transplant
+Must have donor peripheral blood stem cells mobilized by National Marrow Donor Program (NMDP) standards; no bone marrow donors
+Patients must have a fully-matched sibling donor or a matched unrelated donor identified
+Donor must provide a marrow allograft.
+DONOR: Donor must be Epstein–Barr virus (EBV) or cytomegalovirus (CMV) seropositive
+DONOR: Donor must be age 18 or older
+DONOR: In good general health
+DONOR: Less than 18 years old
+DONOR: Active infectious hepatitis
+DONOR: HIV or human T-lymphotropic virus (HTLV) seropositive
+DONOR: Pregnancy or nursing
+DONOR: Significant medical conditions (e.g. immunosuppressive therapy) that would make the donor an unsuitable T cell donor
+DONOR: Unable to give informed consent
+No change in dosing of immunosuppressive agents in the 2 weeks preceding the naive T-cell depleted donor lymphocyte infusion
+A commitment not to electively taper for a minimum of 60 days, the immunosuppressive medications ongoing at time of naive T-cell depleted donor lymphocyte infusion
+DLI DONOR: The patient’s stem cell donor must be capable of providing informed consent; potential donors under the age of 18 must have a ‘single patient exemption’ approved by the Institutional Review Board (IRB) and the donor and a guardian must provide assent; the donor selection process will be compliant with 21 Code of Federal Regulations (CFR) 1271
+DLI DONOR: Donor must not have any medical condition which would make apheresis more than a minimal risk procedure, and should have the following:\r\n* No evidence of heart failure or hemodynamically significant arrhythmia\r\n* Bilirubin and hepatic transaminases =< 2.5 x upper limit of normal (ULN)\r\n* Adequate hematologic parameters including a hematocrit > 35% for males and 33% for females, white blood cell count of >= 3,000, and platelets >= 80,000\r\n* Donor safety testing as per institutional practice
+DLI DONOR: National Marrow Donor Program (NMDP) donors meet donor eligibility for the study
+DONOR: Each donor must meet criteria outlined by institutional policies
+DONOR: Donor must have adequate peripheral venous catheter access for leukapheresis or must agree to placement of a central catheter
+DONOR: If donors do not meet institutional guidelines, exclusion will be considered
+EBV-specific T-cells from donor of the patient's transplant are not available
+EBV-specific T-cells are available for adoptive immune cell therapy from a consenting third party donor; the third party EBV CTLs to be administered will be selected on the basis of two criteria: 1) that they are matched for at least 2 HLA antigens and 2) that they are restricted by an allele shared with the EBV+ malignancy (if known), or with the donor in HSCT recipients, or patient in organ transplant or immunodeficient patients
+Patients developing EBV lymphomas or lymphoproliferative disorders following an allogeneic hematopoietic progenitor stem cell transplant (HSCT) (ie: marrow, peripheral blood stem cell [PBSC], or umbilical cord blood); in these cases, the HSCT donor, if EBV-seropositive, will be used as the donor of EBV-specific T-cells for adoptive immunotherapy wherever possible, because the EBV-LPD are almost invariably derived from that marrow donor; these patients will be enrolled onto protocol Institutional Review Board (IRB) # 95-024; however, if the HSCT donor is EBV seronegative or not readily available (e.g. a cord blood transplant), the patient will be a candidate to receive EBV-specific T-cells generated from a third party seropositive donor that have been generated and stored in the Memorial Sloan Kettering Cancer Center (MSKCC) bank of cryopreserved immune T-cells for adoptive cell therapy; for these patients, the third party donor derived T cells to be used will be selected primarily on the basis of 1) matching for, at least, 2 HLA antigens and 2) one restricted allele shared by the transplant donor and recipient; however, priority is given to T cells partially HLA antigen matched with, and restricted by, HLA alleles of the transplant donor, since EBV + lymphomas in HSCT recipients are usually (but not always) derived from the transplant donors' cells
+DONOR: Human T-lymphotropic virus (HTLV)/HIV(+) or hepatitis B or C antigen(+) donors
+DONOR: Known EBV seronegative
+Patients developing SR aGvHD after donor lymphocyte infusion (DLI) or after withdrawal of immunosuppression are eligible
+DONOR: The patient's HSCT donor, or if HSCT donor is not available a third party donor, must consent to a leukapheresis or whole blood donation(s) obtained at one or more phlebotomies which, in aggregate, will total approximately 250 ml for adults and no more than 5 ml/kg per draw from pediatric donors
+DONOR: There is no upper age limit for donors; however, the minimum age for a related donor is 7 years as this is the youngest age a person can be considered capable of giving assent to participate in a research study
+DONOR: Evidence of prior sensitization to EBV by EBV serology testing (seropositive)
+DONOR: Complete blood count (CBC) within one week of donation; results of tests must be within a range that would not preclude donating blood or undergoing leukapheresis
+DONOR: Serologic testing for transmissible disease will be performed as per institutional guidelines adopted from extant National Marrow Donor Program (NMDP) and Foundation for Advancement in Cancer Therapy (FACT) guidelines; donors should be considered eligible to donate leukapheresis or blood based on these guidelines (i.e. blood donation guidelines)
+If post allo-HCT, then patient must have baseline donor T cell chimerism of >= 20% (from peripheral blood); evaluation can be made within 4 weeks of treatment start
+DONOR: Potential donors consist of:\r\n* Unrelated donors\r\n* Second-degree relatives\r\n* First cousins
+DONOR: Donor must not be HLA identical to the recipient
+DONOR: Meets institutional selection criteria and medically fit to donate
+Evidence of mixed chimerisms (less than 95% donor cells) OR
+MATCHED RELATED DONOR: Ability to give informed consent; for donors < 18 years of age, he/she must be the oldest eligible donor, their legal guardian must give informed consent, the donor must give verbal assent, and he/she must be cleared by social work and a mental health specialist to participate
+MATCHED RELATED DONOR: Age 2-60 years, and weight of >= 10 kilograms
+MATCHED RELATED DONOR: At least one normal DOCK8 allele demonstrated by a CLIA-certified lab
+MATCHED RELATED DONOR: A donor who is lactating must be willing and able to interrupt breast-feeding or substitute formula feeding for her infant during the period of filgrastim administration and for two days following the final dose
+MATCHED RELATED DONOR: Matched related donors that will undergo marrow harvest with general anesthesia; subjects will undergo anesthesia consultation, and meet criteria for eligibility/enrollment; CD34+ fraction will be determined
+MATCHED RELATED DONORS: Matched related donors that will have their cells collected via apheresis will also undergo the donor health history screen to determine donor eligibility using standard DTM criteria in the Dowling Apheresis Clinic by skilled staff in the Blood Services Section for adult patients and age-appropriate questioning when indicated for pediatric subjects
+MATCHED UNRELATED DONOR: The evaluation of donors shall be in accordance with existing National Marrow Donor Program (NMDP) Standard Policies and Procedures; general donor inclusion criteria specified in the NMDP Standards (22nd edition)
+HAPLOIDENTICAL RELATED DONOR: Age 4-60 years and weight of >= 15 kilograms
+HAPLOIDENTICAL RELATED DONOR: At least one normal DOCK8 allele demonstrated by a CLIA-certified lab in a sibling donor
+HAPLOIDENTICAL RELATED DONOR: No history of life-threatening opportunistic infections
+HAPLOIDENTICAL RELATED DONOR: Haploidentical donors that will undergo marrow harvest with general anesthesia; subjects will undergo anesthesia consultation, and meet criteria for eligibility/enrollment; cluster of differentiation 34 positive (CD34+) fraction will be determined
+HAPLOIDENTICAL RELATED DONOR: Subjects will also undergo the Donor Health History Screen to determine donor eligibility using standard Department of Transfusion Medicine (DTM) criteria in the Dowling Apheresis Clinic by skilled staff in the Blood Services Section for adult patients and age-appropriate questioning when indicated for pediatric subjects
+HAPLOIDENTICAL RELATED DONOR: Adult related donors would be preferred over related donors who are minors
+HAPLOIDENTICAL RELATED DONOR: Subjects will undergo follow-up evaluation within 1 week of donation
+MATCHED RELATED DONOR: History of severe cutaneous viral infections with herpes simplex, herpes zoster, or molluscum contagiosum
+MATCHED RELATED DONOR: HIV infection
+MATCHED RELATED DONOR: Chronic active hepatitis B; donor may be hepatitis core antibody positive
+MATCHED RELATED DONOR: Other medical conditions that in the opinion of the PI constitute exclusion as a donor
+MATCHED RELATED DONOR: Mutation of DOCK8 on both alleles
+MATCHED UNRELATED DONOR: Failure to qualify as an NMDP donor
+HAPLOIDENTICAL DONOR: HIV infection
+HAPLOIDENTICAL DONOR: Chronic active hepatitis B; donor may be hepatitis core antibody positive
+HAPLOIDENTICAL DONOR: Other medical contraindications that in the opinion of the PI constitute exclusion as a donor; history of prior malignancy; however, cancer survivors who have undergone potentially curative therapy may be considered for stem cell donation on a case-by-case basis; the risk/benefit of the transplant and the possibility of transmitting viable tumor cells at the time of transplantation will be discussed with the patient
+HAPLOIDENTICAL DONOR: Mutation of DOCK8 on both alleles in a sibling donor
+-  INCLUSION CRITERIA:\n\n          -  Recipient:\n\n               -  Patients diagnosed with one of the following hematologic diseases which are\n                  associated with reasonable longevity, shown to be curable by allogeneic BMT but\n                  where concern for a high procedural mortality with conventional BMT may delay or\n                  prevent such treatment:\n\n                    -  1) Paroxysmal nocturnal hemoglobinuria (PNH) associated with\n                       life-threatening thrombosis, and/or cytopenia, and/or transfusion dependence\n                       and/or recurrent and debilitating hemolytic crisis\n\n                    -  2) Severe aplastic anemia (SAA) or pure red cell aplasia (PRCA [acquired or\n                       congenital]) associated with transfusion dependence and/or neutropenia in\n                       patients who are not candidates for, or who have failed immunosuppressive\n                       therapy\n\n                    -  3) Refractory anemia (RA) or RARS MDS patients who have associated\n                       transfusion dependence and/or neutropenia.\n\n               -  Ages 4 to 80 (both inclusive), and weight >18kg\n\n               -  Availability of HLA identical or single HLA locus mismatched family donor or\n                  10/10 matched unrelated donor at the allelic level (HLA alleles A, B, C, DR, and\n                  DQ).\n\n               -  9/10 donors where all the HLA sequences have the same antigen/peptide binding\n                  domains in key exons to the patient. This can result in identical protein\n                  sequences between patient and donor. Allele mismatches in p and g groups can be\n                  considered acceptable due to the exact matching which exists in the binding\n                  domains.\n\n               -  Telomere Length Testing\n\n               -  Germline/Inherited gene panel in patients where a suspicion for a familial bone\n                  marrow failure syndrome (BMFS) exists, TERC and TERT mutations testing will be\n                  performed on protocol 04-H-0012 or performed elsewhere prior to enrolling on\n                  04-H-0012.\n\n        EXCLUSION CRITERIA:\n\n        -Recipient: any of the following\n\n          -  Major anticipated illness or organ failure incompatible with survival from PBSC\n             transplant\n\n          -  Diffusion capacity of carbon monoxide (DLCO) <40% predicted (patients under the age of\n             10 may be excluded from this criterion if they have difficulty performing the test\n             correctly and thus are unable to have their DLCO assessed) using DL Adj and DL/VA/Adj.\n\n          -  Left ventricular ejection fraction <40% (evaluated by ECHO) or <30% (evaluated by\n             MUGA)\n\n          -  Serum creatinine greater than 2.5mg/dl or creatinine clearance less than 50 ml/min by\n             24 hr urine collection\n\n          -  Serum bilirubin greater than 4 mg/dl, transaminases greater than 5 times the upper\n             limit of normal\n\n          -  Pregnant or lactating\n\n          -  Fanconi s anemia\n\n          -  ECOG performance status of 3 or more (See Bone & Marrow Transplant Consortium\n             Supportive Care Guidelines for HSCT Recipients)\n\n          -  Other malignant diseases liable to relapse or progress within 5 years, with the\n             exception of a separate hematologic malignancy where allogeneic stem cell transplant\n             has been shown to be potentially curative.\n\n          -  Presence of an active infection not adequately responding to appropriate therapy.\n\n          -  Inability to comprehend the investigational nature of the study and provide informed\n             consent. The procedure will be explained to subjects age 8 -17 years with formal\n             consent being obtained from parents or legal guardian.\n\n        INCLUSION CRITERIA:\n\n        -Related Donor:\n\n          -  HLA identical or single HLA mismatched family donor\n\n          -  Age greater than or equal to 4 and less than or equal to 80 years old\n\n          -  Weight > 18 kg\n\n          -  If there is a suspicion of familial BMFS in the recipient, then the donor must have\n             underong genetic testing for genes associated with BMFS -performed at a CLIA-certified\n             laboratory, prior to enrolling in this protocol.\n\n        EXCLUSION CRITERIA:\n\n        -Related Donor: any of the following\n\n          -  Pregnant or lactating\n\n          -  Unfit to receive filgrastim (G-CSF) or undergo apheresis (history of stroke, MI,\n             unstable angina, uncontrolled hypertension, severe heart disease or palpable spleen)\n\n          -  HIV positive (donors who are positive for HBV, HCV or HTLV-I/II, T.cruzi [Chagas] may\n             be used at the discretion of the investigator following counseling and approval from\n             the recipient)\n\n          -  Sickling hemoglobinopathies including HbSS or HbSC. Donors with HbAS are acceptable\n\n          -  Inability of donor or guardian of donor to comprehend the investigational nature of\n             the study and provide informed consent.\n\n          -  Screening test positive for Chagas disease (Trypanosoma cruzi /T.\n             cruzi/trypanosomiasis) confirmed by the Center for Disease Control (CDC).\n\n        INCLUSION CRITERIA & EXCLUSION CRITERIA: Unrelated Donor\n\n        -The NMDP unrelated donor inclusion criteria will be used as outlined in document (link).\n        Donor eligibility will be completed per NMDP standards and in accordance with most recent\n        and stringent FDA guidelines.
+DONOR: Donors will be excluded if for medical or psychological reasons they are unable to tolerate the procedure of peripheral stem cell donation
+DONOR: Each donor must meet criteria outlined by institutional guidelines
+DONOR: Donor should agree to undergo general anesthesia and bone marrow harvest collection if peripheral blood stem cell (PBSC) yield is inadequate or otherwise not transplantable for whatever reason
+DONOR: If donors do not meet institutional guidelines, exclusion will be considered
+Recipients (patients with B-cell malignancy) must have received an human leukocyte antigen (HLA)-identical sibling allogeneic hematopoietic stem cell transplant, or a >= 9/10-matched unrelated donor (URD) alloHSCT for any CD19+ B-cell malignancy; haploidentical donors will not be used in this protocol; patients with any CD19+ B-cell malignancy that is persistent or relapsed after all of the following interventions are eligible:\r\n* Donor T cell engraftment after alloHSCT (> 50% donor chimerism of the T cell compartment and a peripheral blood T cell number from the National Institutes of Health (NIH), Clinical center (CC) clinical lab of at least 50 CD3+ cells/uL)\r\n* A trial of withdrawal of immunosuppressive therapy\r\n* At least one donor cell infusion (DCI) with a minimum T cell dose of 5 x 106 CD3+ cells/kg; Exception: prior DCI (donor lymphocyte infusion [DLI]) is not an eligibility requirement for patients with acute lymphopblastic leukemia (ALL), Burkitt lymphoma, ALL-like high-grade lymphomas, or diffuse large B-cell lymphoma\r\n** NOTE: at least 28 days must have elapsed since the latest trial of withdraw of immunosuppression or DCI until the patient can be deemed to have persistent disease
+Recipients of unrelated donor transplants from a National Marrow Donor Program (NMDP) Center must sign a release of information form to authorize NMDP transfer of information to the NIH
+Previous allogeneic donor must be willing and available to donate again
+DONOR: Donors >= 18 years of age must be the same individual whose cells were used as the source for the patient’s original stem cell transplant
+DONOR: Ability to give informed consent
+DONOR: Donor selection will be in accordance with NIH/CC Department of Transfusion Medicine (DTM) criteria and, in the case of an unrelated donor from a Transplant Center, the National Marrow Donor Program (NMDP) standards; when a potentially eligible recipient of an unrelated donor product from an NMDP Center is identified, the recipient will complete an NMDP search transfer request to allow NIH NMDP staff to contact the NMDP Coordinating Center, who will, in turn, contact the donor’s prior Donor Center; the NMDP Policy for Subsequent Donation Requests will be followed and the appropriate forms (Subsequent Donation Request form and Therapeutic T Cell Collection Prescription) will be submitted as required
+DONOR: Donors must not be pregnant
+DONOR: Anemia (Hb < 11 gm/dl) or thrombocytopenia (platelets < 100,000 per ul); however, potential donors with Hb levels < 11 gm/dl that is due to iron deficiency will be eligible as long as the donor is initiated on iron replacement therapy; the NIH Clinical Center, Department of Transfusion Medicine/NMDP physicians will determine the appropriateness of individuals as donors
+DONOR: Donors must be HLA-haploidentical first-degree relatives of the patient; eligible donors include biological parents, siblings, or children, or half-siblings
+DONOR: Donors must meet the selection criteria as defined by the Foundation for the Accreditation of Cell Therapy (FACT) and will be screened per the American Association of Blood Banks (AABB) guidelines
+DONOR: Positive anti-donor HLA antibody
+Marrow is the preferred source of stem cells from the HLA-haploidentical donor, however, peripheral blood mononuclear cells (PBMC) could be used as stem cell source, after clearance with the Fred Hutchinson Cancer Research Center (FHCRC) principal investigator, in the case of difficulties or contraindications to bone marrow harvest from the donor
+DONOR: Marrow is the preferred source of stem cells from the HLA-haploidentical donor, however PBMC could be used as stem cell source, after clearance with the FHCRC principal investigator, in the case of difficulties or contraindications to bone marrow harvest from the donor
+DONOR: Donor-recipient pairs in which the HLA-mismatch is only in the host-versus-graft (HVG) direction
+DONOR: A positive anti-donor cytotoxic crossmatch
+DONOR: Age >= 17
+DONOR: Willing to have a central venous catheter placed for apheresis if peripheral veins are inadequate
+DONOR: Serious medical or psychological illness
+Available matched related or unrelated donor; selected donor must be a complete match or have only a single antigen mismatch
+DONOR: The unmanipulated CB unit(s) will be Food and Drug Administration (FDA) licensed or will be obtained under a separate investigational new drug (IND), such as the National Marrow Donor Program (NMDP) Protocol 10-CBA conducted under BB IND-7555 or another IND sponsored by (1) a participating institution or (2) an investigator at FHCRC or one of the participating institutions
+DONOR: Any cord blood units with < 1.5 x 10^7 total nucleated cells per kilogram recipient weight
+No available and suitably matched related or unrelated donor
+DONOR: Any cord blood units with < 1.5 x 10^7 total nucleated cells per kilogram recipient weight
+Inability to obtain a suitable donor
+DONOR: all matching will be performed at the allele level, with high resolution typing
+DONOR: donor selection will follow the Children’s Memorial Hospital Stem Cell Transplant Program policy VII-B entitled Allogeneic Donor Identification, Evaluation, Education, Consent and Management in the Stem Cell Transplant Standard Operating Manual
+DONOR: if the donor is unrelated, Children's Memorial Hospital will follow the National Marrow Donor Program (NMDP) protocol for hematopoietic progenitor cells-apheresis (HPC-A) or HPC-marrow (M) (bone marrow) procurement
+DONOR: all donors will have to meet the standard infectious diseases criteria (Children’s Memorial Hospital Stem Cell Transplant Program policy VII-B entitled Allogeneic Donor Identification, Evaluation, Education, Consent and Management) and study-specific infectious disease criteria prior to study entry
+DONOR: HPC-cord blood (CB) units will be obtained from established cord blood banks including, but not limited to: the National Marrow Donor Program, New York National Cord Blood Program, St. Louis Cardinal Glennon Cord Blood Bank, and University of Colorado Cord Blood Bank; umbilical cord blood unit (UCB) grafts will meet criteria established in Children’s Memorial Hospital Stem Cell Transplant Program policy VII-B entitled Allogeneic Donor Identification, Evaluation, Education, Consent and Management
+Inability to find a suitable donor for the patient
+DONOR: Donors will be < 55 years of age and in good health as approved by the National Marrow Donor Program (NMDP) donor and collection centers; related donors will be < 70 years of age
+No available histocompatible related donor
+Donor meeting 1 of the following criteria:
+Very well-matched related or unrelated donor
+Minor (donor anti-recipient) ABO incompatibility if an ABO compatible donor is available
+Prior transfusions from donor or recipient alloimmunization vs. donor cells
+DONOR: HLA crossmatching (in order of priority)\r\n- 1. Mutually compatible (no cross-matching antibodies)\r\n- 2. Recipient non-cross-reactive with donor, donor cross-reactive with recipient\r\n- 3. Mutually cross-reactive
+DONOR: Donor must have a hemoglobin S < 50%
+Lack of suitable conventional donor (i.e. 5/6 or 6/6 related or 5/6 or 6/6 unrelated donor) or presence of a rapidly progressive disease not permitting time to identify an unrelated donor
+Donor cells should be collected and frozen before conditioning starts
+Unplanned donor lymphocyte infusion (DLI) for residual or relapsed malignancy or mixed chimerism. DLI as part of the planned HCT protocol is allowed.
+DONOR: A sibling donor–fully matched
+DONOR: A sibling donor–haploidentical
+DONOR: An unrelated donor–fully matched
+DONOR: An unrelated donor–9/10 matched
+The donor-recipient Human Leukocyte Antigen (HLA) match criteria required for participation in this protocol are not research subjects in this study and they must meet criteria as National Marrow Donor Program (NMDP) donors. Procedures for selection of donors and stem cell dose will follow FDA Code of Federal Regulations requirements for Blood Products (21 CFR 640) and Human Cellular and Tissue Based Products (21 CFR 1271). The standard institutional practices for stem cell transplants also will be followed. The donors are:
+Patients who have a matched related donor who is eligible and willing to donate stem cells
+Patients must have a 10/10 matched sibling peripheral blood progenitor cell donor
+All patients, irrespective of participation in a clinical trial, must have a signed informed consent for the performance of matched related donor transplantation
+DONOR: The donor must not be an exception to standard donor National Marrow Donor Program (NMDP) selection criteria except the donor may be over 55 years of age
+Less than 2 months following bone marrow or peripheral blood stem cell transplantation or treatment with donor lymphocyte infusion (DLI).
+DONOR: Donor must meet all Robert Wood Johnson (RWJ) Blood Services requirements for hematopoietic stem cell donation including:\r\n* Age >= 18 years old;\r\n* Normal hemogram (white blood cells [WBC] 4.0-10.0 x 10^3/mm^3; platelet count 150,000 to 440,000/mm^3 ; hemoglobin/hematocrit; 12.5-18 g/dl, 38 to 54% \r\n* Not pregnant or lactating;\r\n* Not human immunodeficiency virus (HIV)-1, HIV-2, hepatitis C virus (HCV), hepatitis B core or human T-cell lymphotropic virus (HTLV)-I/II seropositive; hepatitis B surface antigen (HB S ag) (-); meet other infectious disease screening criteria utilized by RWJ Blood Services;\r\n* No uncontrolled infections, other medical or psychological/social conditions, or medications that might increase the likelihood of patient or donor adverse effects or poor outcomes;\r\n* Meet other blood bank criteria for blood product donation (as determined by RWJ Blood Center screening history and laboratory studies)
+1. Patients with Adenovirus infections post allogeneic HSCT or with primary\n             immunodeficiencies with:\n\n               -  Increasing or persistent quantitative ADV RT-PCR DNA copies despite two weeks of\n                  appropriate anti-viral therapy and/or\n\n               -  clinical symptoms attributed to adenovirus, including pneumonitis, hemorrhagic\n                  cystitis, colitis, hepatitis AND/OR\n\n               -  Medical intolerance to anti-viral therapies including:\n\n                    -  grade 2 renal insufficiency secondary to cidofovir Consent: Written informed\n                       consent given (by patient or legal representative) prior to any\n                       study-related procedures.\n\n             Performance Status > 30% (Lansky < 16 yrs and Karnofsky > 16 yrs) Age: 0.1 to 30.00\n             years The first 3 patients entered and possibly the next 3 patients entered will be\n             limited to age 12.0 - 30.99 years. See section 9.3.4 for age eligibility in the first\n             6 patients.\n\n             There will be a temporary hold until 45 days after the 3rd patient and possibly the\n             6th patient has received their ADV-CTLs, The study should be reopened for patients of\n             all ages (0.1-30.99 years). (See Section 9.3.4 for instructions)\n\n             Females of childbearing potential with a negative urine pregnancy test\n\n          2. Donor Eligibility Related donor available with a T-cell response to the viral MACS®\n             GMP PepTivator antigen(s) of adenovirus.\n\n               1. Original related allogeneic donor (if AlloHSCT recipient) if available:\n                  confirmatory testing to respond to corresponding MACS GMP Peptivators\n\n               2. Third Party Related Allogeneic Donor: If original donor is not available or does\n                  not have a T-cell response: third party allogeneic donor (family donor > 1 HLA A,\n                  B, DR match to recipient) with a T-cell response at least to the viral MACS® GMP\n                  PepTivator antigen(s) of adenovirus.\n\n             AND Allogeneic donor disease screening is complete similar to hematopoietic stem cell\n             donors (Appendix 1).\n\n             AND Obtained informed consents by donor or donor legally authorized representative\n             prior to donor collection.\n\n          3. Patient exclusion criteria:\n\n        A patient meeting any of the following criteria is not eligible for the present study:\n\n        . Patient with acute GVHD > grade 2 or extensive chronic GVHD at the time of CTL infusion\n        Patient receiving steroids (>0.5 mg/kg prednisone equivalent) at the time of CTL infusion\n        Patient treated with donor lymphocyte infusion (DLI) within 4 weeks prior to CTL infusion\n        Patient with poor performance status determined by Karnofsky (patients >16 years) or Lansky\n        (patients ?16 years) score ?30% Concomitant enrollment in another experimental clinical\n        trial investigating the treatment of refractory adenovirus infection(s) Any medical\n        condition which could compromise participation in the study according to the investigator's\n        assessment Known HIV infection Female patient of childbearing age who is pregnant or\n        breast-feeding or not willing to use an effective method of birth control during study\n        treatment.\n\n        Known hypersensitivity to iron dextran Patients unwilling or unable to comply with the\n        protocol or unable to give informed consent.\n\n        Known human anti-mouse antibodies
+Donor screening; all donors will meet the standard blood donor criteria established by the participating local blood center, American Association of Blood Banks (AABB)
+Donor and intended recipient red cell type and compatibility will be determined
+Personal or family history of severe sickle cell disease or variant (unless donor has tested negative); testing for the presence of hemoglobin S is not required
+DONOR: The CB unit selected for transplant must have a MINIMUM of 2.5 x 10^7 TNC/kg
+DONOR SELECTION
+Donor selection criteria in decreasing order of priority:\r\n* Absence of donor-specific HLA antibodies is preferred (negative flow cytometric cross-match assay or the mean fluorescence intensity [MFI of any anti-donor HLA antibody by solid phase immunoassay < 1000); if donor-specific anti-HLA antibodies cannot be avoided, the risks will be discussed with the patient and consenting parent/guardian and options including debulking or deferring transplant will be considered\r\n* The lowest number of mismatches in the host-versus-graft direction is prioritized to minimize graft rejection\r\n* If more than one donor with the same degree of HLA match, absent or equivalent donor-specific anti-HLA antibodies, and equivalent host-versus-graft allele mismatches, the following prioritization will be used:\r\n** Homozygous normal donor is preferable to heterozygote (carrier)\r\n** ABO-compatible donor is preferable to ABO-incompatible donor\r\n** Cytomegalovirus (CMV) status\r\n*** For a CMV seronegative patient, prefer a CMV seronegative donor\r\n*** For a CMV seropositive patient, prefer a CMV seropositive donor\r\n** Younger donor is preferable to older, avoiding those > 55 years of age if possible\r\n** Male donor preferred over nulliparous female donor over multiparous female donor
+DONOR: Donor selection will be in compliance with 21 Code of Federal Regulations (CFR) 1271
+DONOR: HIV positive
+DONOR: Pregnant donor
+DONOR: Factors which place the donor at increased risk for complications from leukapheresis
+DONOR: Related donor (sibling, parent, offspring, parent or offspring of an HLA identical sibling) >= age 14 years (if < 18 years, > 40 kg)
+DONOR: In general good health in the opinion of the evaluating medical provider
+DONOR: Able and willing to undergo leukapheresis
+DONOR: HLA-haploidentical donor/recipient match by at least class I serologic typing at the A&B locus
+DONOR: Agree to undergo donor viral screening panel
+DONOR: Not pregnant
+DONOR: Voluntary written consent
+DONOR: HIV-positive
+DONOR: Lactating female
+DONOR: Identical twin
+DONOR: HIV seropositivity or presence of HBV deoxyribonucleic acid (DNA) or HCV ribonucleic acid (RNA) in the serum
+DONOR: Homozygous NOD2 mutation
+DONOR: History of a serious disease or disorder that could be adoptively transferred by infusion of donor hematopoietic cells
+DONOR: Failure to meet institutional criteria for donation as described in the Standard Practice Guidelines
+Patients who have a 5/6 or better matched related donor or a 4/6 or better umbilical cord blood donor and who are medically eligible for conventional myeloablative or nonmyeloablative transplant will be excluded
+DONOR: Choice of donor, when more than one donor with the same phenotype is available, will be based on the following factors:\r\n* Age (younger donor preferable) and physical health of the donor\r\n* Cytomegalovirus (CMV) serostatus of donor and patient; preferable combinations are (D- => R-) (D+ => R+)\r\n* ABO blood group of donor and patient
+DONOR: Pregnancy
+DONOR: Current serious systemic illness
+DONOR: Donors weighing less than 40 kg (children) will need evaluation by a pediatrician for suitability of the apheresis procedure
+DONOR: In general good health as determined by the evaluating medical provider
+DONOR: Not pregnant
+DONOR: Agree to undergo donor viral screening panel
+DONOR: Voluntary written consent
+DONOR: In general good health as determined by the evaluating medical provider
+DONOR: Donor/recipient match based on a minimum of intermediate resolution DNA based class I typing of the A&B locus
+DONOR: Not pregnant
+DONOR: Able and willing to undergo apheresis
+DONOR: Voluntary written consent
+DONOR: Donors able to undergo peripheral blood stem cell collection or bone marrow harvest
+DONOR: Individuals deemed unable to undergo marrow harvesting or PBSC mobilization and leukapheresis
+DONOR: Individuals who are HIV-positive
+DONOR: Individuals with active infectious hepatitis
+DONOR: Females with a positive pregnancy test
+Minimum donor chimerism of 10%
+Cord blood as a donor source is not acceptable
+DONOR: Weight >= 15 kilograms and for unrelated donors, >= 18 years
+DONOR: For donors <18 years of age, he/she must be the oldest suitable donor, their legal guardian must give informed consent, the donor must give verbal assent, and he/she must be cleared by social work and a mental health specialist to participate
+DONOR: For donors >= 18 years of age, ability to give informed consent
+DONOR: Adequate peripheral venous access for apheresis or consent to use a temporary central venous catheter for apheresis; donor selection will be in accordance with National Institutes of Health (NIH)/Clinical Center (CC) Department of Transfusion Medicine (DTM) criteria and, in the case of an unrelated donor, the National Marrow Donor Program (NMDP) standards and Food and Drug Administration (FDA) 21 Code of Federal Regulations (CFR) 1271
+DONOR: Identical twins will be excluded
+DONOR: High risk of inability to comply with protocol requirements as determined by the principal investigator and donor center team
+Donors: A positive anti-donor cytotoxic cross match is absolute donor exclusion
+Donors: If a patient is homozygous at a particular loci, mismatching at that loci is not allowed due to an isolated graft rejection vector, i.e., patient A*0101 and the donor is A*0101, A*0201; such a mismatch may increase the risk of graft rejection; if patient and donor pairs are both homozygous at a mismatched loci, they are considered a two-HLA antigen mismatch, i.e., the patient is A*0101 and the donor is A*0201, and this type of mismatch is not allowed
+Donor: Donor < 6 months old, > 75 years old
+Patients may be transplanted under this protocol using a syngeneic (identical) twin donor
+Syngeneic donor
+An unrelated donor search is not required for a patient to be eligible for this protocol, or a donor search and donor mobilization may be abandoned if the clinical situation dictates an urgent transplant; clinical urgency is defined as high likelihood that greater 6-8 weeks will be required to proceed to transplant or a low-likelihood of finding a matched, unrelated donor
+DONOR: Donors must meet the selection criteria as defined by the Foundation for the Accreditation of Hematopoietic Cell Therapy (FACT)
+DONOR: The following criteria, in order of importance, should also be used for donor selection:\r\n* Medically and psychologically fit and willing to donate\r\n* The patient must lack antibodies against donor HLA molecules potentially clinically significant\r\n* ABO compatibility (in order of priority)\r\n** Compatible or minor ABO incompatibility\r\n** Major ABO incompatibility\r\n* Cytomegalovirus (CMV) status\r\n** For a CMV seronegative recipient, use a CMV seronegative donor\r\n** For a CMV seropositive recipient, use a CMV seropositive donor
+DONOR: If there is more than one donor option based on the above criteria, additional suggested criteria to consider (in no order of priority as none of these characteristics have been shown to make a difference in the setting of haploBMT with post-transplantation cyclophosphamide [PT/Cy]) include:\r\n* Younger adults age >= 18 years and non-obese donors should be preferred\r\n* If all else is equal, male donors may be preferred over nulliparous female donors who may be preferred over multiparous female donors\r\n* If all other criteria equal and if the patient and family express a strong preference for a particular donor, that donor should be selected
+Cadaveric and donation by cardiac death (DCD) donors (no living donor liver transplantation [LDLT])
+Living donor liver transplant (LDLT)
+Donor lymphocyte infusion (DLI) is considered a reinduction attempt.
+At least 4 weeks (from first dose) elapsed from donor lymphocyte infusion (DLI) without conditioning.
+Patients with acute GVHD developing after a donor lymphocyte infusion.
+Allogeneic cellular therapy: Any donor lymphocyte infusions (DLI) must be completed > 6 weeks prior to CTL019 infusion
+Allogeneic cellular therapy: Any donor lymphocyte infusions (DLI) must be completed > 6 weeks prior to CTL019 infusion
+Is undergoing matched or single-antigen mismatched unrelated-donor myeloablative transplant for the treatment of ALL or AML; Is less than or equal to (<=) 60 years of age For the cohort after Recommended phase 2 dose (RP2D)
+Is undergoing matched or single-antigen mismatched related or unrelated-donor transplant and receiving myeloablative conditioning or RIC for the treatment of hematologic malignancies or myeloproliferative neoplasms; Is less than or equal to (<=) 75 years of age
+Matched Related Donor: Donor age < 75 yrs unless cleared by institutional PI
+Matched Related Donor: Donor must consent to PBSC mobilization with G-CSF and apheresis
+Unrelated Donor: Patient and donor pairs homozygous at a mismatched allele in the graft rejection vector are considered a two-allele mismatch, i.e., the patient is A*0101 and the donor is A*0102, and this type of mismatch is not allowed
+HLA Matched Unrelated Donor: Donor must consent to PBSC mobilization with G-CSF and apheresis; bone marrow unrelated donors are not eligible for this protocol
+Matched Related Donor: Identical twin
+Matched Related Donor: Any contra-indication to the administration of subcutaneous G-CSF at a dose of 16mg/kg/d for five consecutive days
+Matched Related Donor: Serious medical or psychological illness
+Matched Related Donor: HIV seropositivity
+Unrelated Donor: A positive anti-donor cytotoxic crossmatch is an absolute donor exclusion; donors are excluded when preexisting immunoreactivity is identified that would jeopardize donor hematopoietic cell engraftment; this determination is based on the standard practice of the individual institution; the recommended procedure for patients with 10 of 10 HLA allele level (phenotypic) match is to obtain a panel reactive antibody (PRA) screens to class I and class II antigens for all patients before HCT; if the PRA shows > 10% activity, then flow cytometric or B and T cell cytotoxic cross matches should be obtained; the donor should be excluded if any of the cytotoxic cross match assays are positive; for those patients with an HLA class I allele mismatch, flow cytometric or B and T cell cytotoxic cross matches should be obtained regardless of the PRA results
+Unrelated Donor: Marrow donors
+Unrelated Donor: Donors who are HIV-positive and/or medical conditions that would result in increased risk to the donor G-CSF mobilization and G-PBMC collections
+Unrelated Donor: Serious medical or psychological illness
+Unrelated Donor: HIV seropositivity
+An adequate graft for the defined donor type\r\n* Haplo-cord requires a haploidentical adult donor of 14 years of age and at least 50 kg, and a cord blood unit with at least 1.0 x 10(7) TNC/kg and a match of at least 4/6 by intermediate resolution for HLA-A and B and high resolution at DRB1; donor provides standard of care consent for harvest following institutional policy; any donor samples or donor research data would be obtained on separate donor research protocol\r\n* For MUD requires a 7/8 or 8/8 HLA matched unrelated donor with high resolution matching at HLA-A, -B, -C, and DRB1; DP matching or DP permissive should be achieved when possible using T-cell epitope strategy
+DONOR: A positive anti-donor cytotoxic crossmatch is an absolute donor exclusion; donors are excluded when preexisting immunoreactivity is identified that would jeopardize donor hematopoietic cell engraftment; this determination is based on the standard practice of the individual institution; the recommended procedure for patients with 10 of 10 HLA allele level (phenotypic) match is to obtain a panel reactive antibody (PRA) screens to class I and class II antigens for all patients before HCT; if the PRA shows > 10% activity, then flow cytometric or B and T cell cytotoxic cross matches should be obtained; the donor should be excluded if any of the cytotoxic cross match assays are positive; for those patients with an HLA Class I allele mismatch, flow cytometric or B and T cell cytotoxic cross matches should be obtained regardless of the PRA results
+DONOR: Patient and donor pairs homozygous at a mismatched allele are considered a two-allele mismatch, i.e., the patient is A*0101 and the donor is A*0102, and this type of mismatch is not allowed
+DONOR: Peripheral blood stem cells (PBSC) only will be permitted as a HSC source on this protocol
+DONOR: Marrow donors
+DONOR: Donors who are HIV-positive and/or medical conditions that would result in increased risk to the donor filgrastim (G-CSF) mobilization and PBSC collections
+DONOR: Identical twin
+DONOR: Serious medical or psychological illness
+DONOR: Children < 12 years old
+Have undergone first allo-HSCT from any donor source (matched unrelated donor, sibling, haploidentical) using bone marrow, peripheral blood stem cells, or cord blood for hematologic malignancies. Recipients of nonmyeloablative and myeloablative transplants are eligible.
+Evidence of residual donor chimerism on most recent analysis (within 4 weeks of enrollment)
+Matched sibling or un-related donor (A, B, C, and DR) available to undergo leukopheresis
+DONOR: Considered medically eligible for leukopheresis procedure by independent donor physician (University of Pennsylvania physician who is not the recipient’s primary transplant physician for related donors; physician designated by National Marrow Donor Program for unrelated donors)
+DONOR: Considered medically eligible to receive G-CSF (filgrastim) by independent donor physician
+Donor does not consent to or is unable to participate in this trial
+DONOR: Unable to participate in a leukopheresis procedure or receive G-CSF (filgrastim)
+DONOR: Donor must be in general good health and eligible for apheresis as determined by the medical provider
+DONOR: Pregnancy
+DONOR: Patients must have an HLA matched donor as well as standard Seattle Cancer Care Alliance (SCCA) and or National Marrow Donor Program (NMDP)/other donor center criteria for PBSC donation
+Eligible NK donor
+DONOR: Donor is blood-related and HLA-haploidentical to the recipient
+DONOR: Donor must be able to undergo leukapheresis for total volume of 10-15 liters
+DONOR: There is no age restriction for the donor
+DONOR: Cardiac risk factors precluding ability to undergo leukopheresis
+DONOR: Concurrent malignancy or autoimmune disease
+DONOR: Donor is pregnant
+Donor lymphocyte infusion (DLI) within 28 days prior to enrollment
+DONOR ELIGIBILITY:
+DONOR PRIORITIZATION:
+Donors will be prioritized in the following order:\r\n* Fit to donate\r\n* HLA-matched prioritized over HLA-mismatched\r\n* Lack of major ABO incompatibility\r\n** In order of priority:\r\n*** Compatible\r\n*** Minor incompatibility\r\n*** Major incompatibility\r\n* Cytomegalovirus (CMV) serostatus: CMV negative donor preferred, if the patient is CMV negative; CMV positive donor preferred, if the patient is CMV is positive\r\n* Avoidance of female donor for male recipient
+Other factors such as donor age and health history will be integrated into the donor selection process per standard practice and may be prioritized over HLA, ABO and CMV status
+Donor lymphocyte infusion within 100 days prior to enrollment
+DONOR: Excellent health per conventional pre-donor history (medical and psychosocial evaluation)
+DONOR: Donor ability to understand and provide informed consent
+DONOR: Meets standard institutional criteria for GCSF mobilized peripheral blood stem cell (PBSC) donation
+DONOR: Donors must not have any medical condition which would make apheresis more than a minimal risk, and should have the following:\r\n* Family members will be considered for donation if they do not have a history of known cardiac problem and do not have abnormal cardiac findings by physical examination; those with a history of cardiac problems or abnormal cardiac findings by physical examination should undergo a stress evaluation or be evaluated by a cardiologist and deemed eligible to donate\r\n* Bilirubin and hepatic transaminases =< 2.5 x upper limit or normal (ULN)\r\n* Adequate hematologic parameters including a hematocrit > 35% for males and 33% for females, white blood cell count of >= 3,000, and platelets >= 80,000\r\n* Foundation for the Accreditation of Cellular Therapy (FACT) laboratories (labs) must be drawn within 7 days of collection and final test results available prior to infusion into the patient; in the case of multiple donations from the donor, the FACT labs must be redrawn within 7 days of each initiation of apheresis (positive serologies are not repeated as they remain positive for lifetime but all other donor labs are performed)
+Donor lymphocyte infusion within 12 wks prior to starting dose of AMG 592.
+Donor lymphocyte infusions (DLI) within 2 months prior to leukapheresis
+DONOR: Unrelated donors donating outside of the United States of America (USA) or Germany
+Donor lymphocytes available or able to be collected
+Unlikely to be able to procure additional donor lymphocytes
+DONOR: Patients must have a healthy HLA matched or mismatched related or unrelated donor who is willing to receive filgrastim (G-CSF) injections and undergo apheresis for peripheral blood stem cell (PBSC) collection, or undergo a marrow harvesting procedure
+DONOR: Donors must be at least HLA-haploidentical first degree relatives of the patients; eligible donors include biological parents, siblings, half-siblings or children
+DONOR: Recipient derived anti-donor high-titer (> 3000 MFI) HLA antibody as determined by Luminex assay
+DONOR: Not suitable for donation according to UW BMT program donor selection SOP
+HAPLO-IDENTICAL DONOR: A HLA-haplo-identical related donor will be selected as available as per standard MSKCC adult bone marrow transplantation (BMT) guidelines; mismatched family members who are matched at more than 5 of 10 HLA-loci are permitted; factors to be taken into account when selecting a haplo-identical donor will include donor age, weight, health status and comorbidities, compliance, venous access, recipient donor specific HLA-antibody status, and natural killer (NK) cell alloreactivity
+HAPLO-IDENTICAL DONOR: The donor must meet criteria outlined in the Functional Assessment of Cancer Therapy (FACT)-approved standard operating procedure (SOP) for \DONOR EVALUATION AND SELECTION FOR ALLOGENEIC TRANSPLANTATION\ in the Blood and Marrow Transplant Program Manual, document E-1
+HAPLO-IDENTICAL DONOR: The donor must have adequate peripheral venous catheter access for leukapheresis or must agree to placement of a central catheter
+HAPLO-IDENTICAL DONOR: The donor must be > 25 kg in weight
+HAPLO-IDENTICAL DONOR: Medical or physical reason which makes the donor unlikely to tolerate or cooperate with growth factor therapy and leukapheresis
+Patients may have had prior treatment for myelodysplastic syndrome (MDS) or acute myelogenous leukemia (AML), including lenalidomide; patient may have had prior autologous or allogeneic transplant (family member, unrelated donor, or cord blood) if there is at least 90 days between transplant and study entry; patients may also have had donor lymphocyte infusion if there is at least 60 days between donor lymphocyte infusion and study entry; patients on immunosuppression are also eligible
+DONOR: In general good health as determined by the evaluation medical personnel
+DONOR: Agrees to undergo donor viral screening panel
+DONOR: Voluntary written consent
+DONOR: Meets criteria outlined in the Functional Assessment of Cancer Therapy (FACT) approved standard operating procedures (SOP) for \DONOR EVALUATION AND SELECTION FOR ALLOGENEIC TRANSPLANTATION\ in the Blood and Bone Marrow Transplant Program Manual, document E-1
+DONOR: Donor must have adequate peripheral venous catheter access for leukapheresis or must agree to placement of a central catheter
+DONOR: Medical or physical reason which makes the donor unlikely to tolerate or cooperate with growth factor therapy and leukapheresis
+DONOR: Factors which place the donor at increased risk for complications from leukapheresis or G-CSF (filgrastim) therapy (e.g. autoimmune disease, sickle cell trait, symptomatic coronary artery disease requiring therapy)
+Diagnosis of CML except patients who have evidence of residual or persistent disease (morphologic, cytogenetic, or molecular) after a prior donor leukocyte infusion with a minimum cell dose of 1 x 10^8 cells/kg
+DONOR: Donors must be 18-75 years of age, inclusive
+DONOR: Donors must be in a state of general good health
+DONOR: Donors must have a white blood cell count > 3.5 x 10^9/liter
+DONOR: Platelets > 150 x 10^9/liter
+DONOR: Hematocrit > 35%
+DONOR: Donors must be capable of undergoing leukapheresis
+DONOR: Donors must not have psychological traits or psychological or medical conditions which make them unlikely to tolerate the procedure
+DONOR: Donors must not have developed a new malignancy requiring chemotherapy or radiation in the interval since apheresis for transplant
+Patients must have a fully-matched related donor or a matched unrelated donor identified; double cord (at least 4/6 matched) can be used if no adult matched donor is available
+DONOR: Donor age < 75 unless cleared by the principal investigator
+DONOR: Donor must consent to peripheral blood stem cell (PBSC) mobilization with G-CSF (filgrastim) and apheresis
+DONOR: Identical twin
+DONOR: HIV seropositivity
+DONOR: Donor must consent to PBSC mobilization with G-CSF and apheresis as well as collection and donation of plasma; bone marrow unrelated donors are not eligible for this protocol
+DONOR: In general good health as determined by the evaluating medical provider
+DONOR: HLA-haploidentical donor/recipient match by at least class I serologic typing at the A & B locus
+DONOR: Not pregnant
+DONOR: Able and willing to undergo apheresis
+DONOR: Voluntary written consent
+DONOR: Related donor (sibling, parent, offspring, parent or offspring of an HLA identical sibling) 12-75 years of age (it is recognized individual institutions may have differing donor age guidelines; this is acceptable as long as no donor is younger than 12 years or older than 75 years)
+DONOR: In general good health as determined by the medical provider
+DONOR: HLA-haploidentical donor/recipient match by at least class I serologic typing at the A&B locus
+DONOR: Able and willing to have up to 4 separate apheresis collections
+DONOR: Not pregnant
+DONOR: Voluntary written consent
+MATCHED RELATED DONOR: Donor selection will be in accordance with NIH/Clinical Center (CC) Department of Transfusion Medicine criteria and must be able to medically endure stem cell collection or as per local institutional guidelines
+MATCHED RELATED DONOR: Donors must be physically able to and willing to tolerate marrow harvest collection preferably, or in the absence of this option, able and willing to donate via peripheral blood pheresis
+MATCHED RELATED DONOR: History of medical illness that in the estimation of the PI or Department of Transfusion Medicine (DTM) physician precludes donation of marrow
+MATCHED RELATED DONOR: Anemia (hemoglobin [Hb] < 10 gm/dl) or thrombocytopenia (< 100,000/ul)
+MATCHED RELATED DONOR: Pregnant females
+MATCHED RELATED DONOR: Current psychiatric diagnosis that would compromise compliance with transplant protocol or precludes appropriate informed consent
+MATCHED RELATED DONOR: Presence of any blood transmissible infectious disease that cannot be cleared prior to stem cell collection and poses an unacceptable risk for the recipient (excludes cytomegalovirus [CMV])
+MATCHED RELATED DONOR: Active malignancy will exclude the donor; any malignancy less than five years post-remission will exclude the donor; non-hematologic malignancies greater than 5 years ago will not exclude the donor; any history of hematologic malignancy will be considered on a case by case basis
+MATCHED RELATED DONOR: Any medical contraindication to anesthesia or marrow donation will exclude the donor
+MATCHED RELATED DONOR: Donors receiving experimental therapy or investigational agents
+MATCHED RELATED DONOR: Active autoimmune disease that in the opinion of the PI or AI would compromise the success of the transplant
+MATCHED UNRELATED DONOR: The evaluation of donors shall be in accordance with existing National Marrow Donor Program (NMDP) Standard Policies and Procedures at all institutions
+DONOR: Donors must meet HLA matching criteria and standard SCCA and/or National Marrow Donor Program (NMDP) or other donor center criteria for PBSC or bone marrow donation
+DONOR: Donors are excluded when preexisting immunoreactivity is identified that would jeopardize donor hematopoietic cell engraftment; this determination is based on the standard practice of the individual institution; the recommended procedure for patients with 10 of 10 HLA allele level (phenotypic) match is to obtain a panel reactive antibody (PRA) screens to class I and class II antigens for all patients before HCT; if the PRA shows > 10% activity, then flow cytometric or B and T cell cytotoxic cross matches should be obtained; the donor should be excluded if any of the cytotoxic cross match assays are positive; for those patients with an HLA class I allele mismatch, flow cytometric or B and T cell cytotoxic cross matches should be obtained regardless of the PRA results; a positive anti-donor cytotoxic crossmatch is an absolute donor exclusion
+DONOR: Patient and donor pairs homozygous at a mismatched allele in the graft rejection vector are considered a two-allele mismatch, i.e., the patient is A*0101 and the donor is A*0102, and this type of mismatch is not allowed
+DONOR: Only filgrastim (G-CSF) mobilized PBSC only will be permitted as a hematopoietic stem cell (HSC) source on this protocol
+DONOR: Donor (or centers) who will exclusively donate marrow
+DONOR: Donors who are HIV-positive and/or, medical conditions that would result in increased risk for G-CSF mobilization and harvest of PBSC
+DONOR: Adult donors must be capable of providing informed consent; potential donors under the age of 18 must have a ‘single patient exemption’ approved by the Institutional Review Board (IRB) and the donor and a guardian must provide assent
+DONOR: Donor must not have any medical condition which would make apheresis and filgrastim (G-CSF) administration more than a minimal risk
+DONOR: Hepatic transaminases =< 2.5 x ULN
+DONOR: Platelets >= 80,000
+DONOR: Marrow will be the only allowed hematopoietic stem cell source
+DONOR: Haploidentical donor selection will be based on standard institutional criteria, otherwise no specific prioritization will be made amongst the suitable available donors; donors will not be selected based on killer cell immunoglobulin-like receptor (KIR) status
+DONOR: HIV-positive donors
+DONOR: Donors who are cross-match positive with recipient
+DONOR INCLUSION: The donor of WT-1 specific T lymphocytes will be the same donor who provided the patient's hematopoietic stem cell transplant (HSCT)
+DONOR INCLUSION: Re-evaluation for this blood donation will be limited to a clinical history, physical examination and blood tests to insure against any new condition which, in the opinion of the donor's physician, precludes the donor from donating the blood required
+DONOR EXCLUSION: New health conditions which would exclude a transplant donor from a second blood donation are limited, but include:\r\n* New onset of an human immunodeficiency virus (HIV) infection\r\n* Other uncontrolled infection which could be transmitted to the patient by blood cells and would place the patient at significant increased risk of severe morbidity or death\r\n* Significant anemia with hemoglobin (Hgb) =< 10 gm/dl, persisting since the time of the original transplant donation\r\n* History of myocardial infarction or stroke since the time of hematopoietic stem cell transplant (HSCT) donation which might increase the risk of blood donation
+Cross-match positive with donor
+The patient has a potentially suitable 8/8 donor if they are between the ages of 69-74 years of age or a potentially suitable 8/8 or 7/8 unrelated donor(s) in the National Marrow Registry or other available Registry if they are between the ages of 18-74
+Available suitably HLA- matched unrelated donor is unwilling to donate peripheral blood stem cells (PBSC), and no alternate donor is found
+DONOR: General donor inclusion criteria specified in the National Marrow Donor Program (NMDP) Standards (20th edition)
+DONOR: The evaluation of donors shall be in accordance with existing NMDP Standard Policies and Procedures
+DONOR: Ability to give informed consent
+DONOR: Donor exclusion will be in accordance with existing NMDP Standards (20th edition)
+DONOR: In addition to NMDP donor exclusion criteria, for the purposes of this protocol, donors who are unwilling to donate PBSC and only wish to pursue a bone marrow donation will be excluded; an alternate donor will be selected if possible, but in the event that no alternate donor is available, the patient will be removed from the trial
+DONOR: Current treatment with lithium
+Unrelated cord blood will be used as a source of hematopoietic support if a 5 or 6/6 related or 6/6 unrelated bone marrow donor is not available, or if the tempo of a patient's disease dictates it is not in the patient's best interest to wait for an unrelated marrow donor to be procured
+Matched related or unrelated donor identified and available; donor must be a complete match or have only a single allele or antigen mismatch
+UNRELATED DONORS: Donors are excluded when preexisting immunoreactivity is identified that would jeopardize donor hematopoietic cell engraftment; this determination is based on the standard practice of the individual institution; recommended procedure for patients with 10 of 10 HLA allele level (phenotypic) match is to obtain a panel reactive antibody screens to class I and II antigens for all patients before HCT; if the PRA shows > 10% activity, then flow cytometric or B and T cell cytotoxic cross matches should be obtained; the donor should be excluded if any of the cytotoxic cross match assays are positive; for those patients with an HLA Class I allele mismatch, flow cytometric or B and T cell cytotoxic cross matches should be obtained regardless of the PRA results; a positive anti-donor cytotoxic crossmatch is an absolute donor exclusion
+UNRELATED DONORS: Patient and donor pairs homozygous at a mismatched allele in the graft rejection vector are considered a two-allele mismatch, i.e., the patient is A*0101 and the donor is A*0102, and this type of mismatch is not allowed
+DONOR: Identical twin
+DONOR: Pregnancy
+DONOR: Infection with HIV
+DONOR: Current serious systemic illness
+Patients with less than 50% donor CD3 peripheral blood chimerism on two separate, consecutive evaluations; the two evaluations must be at least 14 days apart OR patients with absolute decreases of donor CD3 peripheral blood chimerism of >= 20% if the second test shows < 50% donor CD3 cells; the two evaluations must be at least 14 days apart
+Patients must have persistent donor CD3 cells (>= 5% donor CD3 cells by a deoxyribonucleic acid [DNA]-based assay that compares the profile of amplified fragment length polymorphisms [ampFLP] [or fluorescent in situ hybridization (FISH) studies or variable number of tandem repeats (VNTR)])
+DONOR: Alternatively to a fresh unmodified leukapheresis product, previously collected cryopreserved peripheral blood stem cells (PBSC) after mobilization with G-CSF or cryopreserved unmodified leukapheresis product from the original donor can be used; if cryopreserved product is not available, the following criteria apply for the DLI product:
+DONOR: Original donor of hematopoietic cell transplantation
+DONOR: Donor must give consent to leukapheresis
+DONOR: Donor must have adequate veins for leukapheresis or agree to placement of central venous catheter (femoral or subclavian)
+DONOR: Donor must be medically fit to undergo the apheresis procedure (institutional guidelines for apheresis)
+DONOR: Donors who are not suitable for medical reasons to donate peripheral blood mononuclear cells (PBMC) by continuous centrifugation according to the criteria of the American Association of Blood Banks (AABB)
+DONOR: Pregnancy
+DONOR: Recent immunization may require a delay
+DONOR: HLA genotypically or phenotypically identical related donor
+DONOR: Must have adequate veins for leukapheresis or agree to placement of central venous catheter (femoral or subclavian)
+DONOR: Age < 75 years (yrs), older donors may be considered after review at Patient Care Conference
+DONOR: Donors are excluded when preexisting immunoreactivity is identified that would jeopardize donor hematopoietic cell engraftment; this determination is based on the standard practice of the individual institution; the recommended procedure for patients with 10 of 10 HLA allele level (phenotypic) match is to obtain a panel reactive antibody (PRA) screens to class I and class II antigens for all patients before HCT; if the PRA shows > 10% activity, then flow cytometric or B and T cell cytotoxic cross matches should be obtained; the donor should be excluded if any of the cytotoxic cross match assays are positive; for those patients with an HLA class I allele mismatch, flow cytometric or B and T cell cytotoxic cross matches should be obtained regardless of the PRA results; a positive anti-donor cytotoxic crossmatch is an absolute donor exclusion
+DONOR: Patient and donor pairs homozygous at a mismatched allele in the graft rejection vector are considered a two-allele mismatch, i.e., the patient is A*0101 and the donor is A*0102, and this type of mismatch is not allowed
+DONOR: Only G-CSF mobilized peripheral blood mononuclear cells (PBMC) only will be permitted as a hematopoietic stem cell (HSC) source on this protocol
+DONOR: Identical twin
+DONOR: Pregnancy
+DONOR: Current serious systemic illness
+DONOR: Failure to meet FHCRC criteria for stem cell donation
+DONOR: Donor (or centers) who will exclusively donate marrow
+Subjects who received an unplanned (not part of the original transplant therapy plan) donor lymphocyte infusion.
+DONOR: Donors must meet the selection criteria as defined by the Foundation for the Accreditation of Cell Therapy (FACT) and will be screened per the American Association of Blood Banks (AABB) guidelines
+DONOR: Identical twin
+DONOR: Current pregnancy
+DONOR: HIV seropositivity
+DONOR: Failure to meet institutional criteria for donation as described in the Standard Practice Guidelines
+The donor has a BW of at least 50 kg.
+The donor is in good health
+The donor has had: (1) a trauma or surgery in the past 2 months
+The donor has a documented or self-reported history of tuberculosis or recent travel to countries of endemic disease (last 8 weeks)
+Allogeneic cellular therapy: Donor lymphocyte infusions (DLI) are prohibited within 4 weeks prior to leukapheresis
+DONOR ELIGIBILITY:
+Donor >= 18 years old
+Donor has a chest x-ray (CXR) and electrocardiogram (EKG) performed
+Donor is not allergic to G-CSF
+Donor must be able to undergo leukapheresis
+Donor is not pregnant
+Donor does not have concurrent malignancy or autoimmune disease
+DONOR: Ability to give informed consent
+DONOR EXCLUSION:
+Donor has cardiac risk factors precluding ability to undergo leukapheresis
+Donor has evidence of concurrent malignancy or autoimmune disease
+Donor is pregnant
+Patient must have a fully matched related or unrelated donor willing to donate stem cells
+Must have suitable matched sibling or matched unrelated donor for stem cell source
+DONOR:\r\n* Donor eligibility will be determined per standard blood or marrow transplantation (BMT) criteria
+Participant whose GvHD developed after donor lymphocyte infusion
+DONOR: No history of significant cardiopulmonary, renal or neurologic disease
+DONOR: No evidence of significant liver abnormalities
+DONOR: BMI > 35
+DONOR: History of blood product donation to the recipient
+DONOR: Significant pulmonary disease
+DONOR: Significant renal disease
+DONOR: Ongoing malignancies
+DONOR: Severe local or systemic infection
+DONOR: Severe neurologic deficits
+DONOR: Active substance abuse
+DONOR: Untreatable/unstable psychiatric illness
+DONOR: all donors are selected and screened for their ability to provide adequate infection-free apheresis products for the patient
+DONOR: donors should be selected based on two principles\r\n* First, a parent or offspring is preferable to siblings\r\n* Second principle is that the donor will optimally have natural killer (NK) cells that express killer immunoglobulin (Ig)-like receptors that are mismatched with the subject’s HLA receptor ligands
+Full donor myeloid chimerism; patients after T cell depletion transplant can have a significant mixed T cell chimerism and this can affect the testing of marrow chimerism; in this case, the neutrophil chimerism will be used to determine eligibility for this trial; patients will be excluded if neutrophils are less than 90% donor cells; a higher percentage of host cells could be due to relapse or impending relapse
+Has an available HCT donor or identified cord blood unit. Related and unrelated donors, and bone marrow, peripheral blood, or cord blood stem cell sources allowed
+Lack of suitable conventional donor
+Must have a potential haploidentical donor (parent, sibling, child)
+DONOR: donor must meet all New Brunswick Affiliated Hospitals (NBAH) requirements for hematopoietic stem cell donation, including:
+DONOR: no uncontrolled infections, other medical or psychological/social conditions, or medications that might increase the likelihood of patient or donor adverse effects or poor outcomes
+DONOR: meet other blood bank criteria for blood product donation (as determined by NBAH Blood Center screening history and laboratory studies)
+DONOR: Age > 18 years (yr)
+DONOR: Donors must meet the selection criteria as defined by the BMT Policy Manual
+DONOR: In case there are two or more donors with an equivalent HLA mismatch in the host-versus-graft (HVG) direction, donors will next be selected based on the most favorable combination of (i) HLA compatibility in cross-match testing and (ii) ABO compatibility:\r\n* HLA cross matching (in order of priority)\r\n1. Mutually compatible (no cross-matching antibodies)\r\n2. Recipient non-cross-reactive with donor, donor cross-reactive with recipient\r\n3. Mutually cross-reactive\r\n* ABO compatibility (in order of priority)\r\n1. Compatible\r\n2. Minor incompatibility\r\n3. Major incompatibility\r\n4. Major and minor incompatibility
+MSC DONOR: male sex
+MSC DONOR: donor must meet the selection and eligibility criteria as defined by the Foundation for the Accreditation of Hematopoietic Cell Therapy (FACT) and Food and Drug Administration (FDA) 21 Code of Federal Regulations (CFR) Part 1271
+MSC DONOR: inability to provide informed consent
+The patient will need to be available for evaluation within 72 hours of symptoms of GVHD, occurring within 60 days of the planned donor lymphocyte infusion
+No chemotherapy, RT, donor lymphocyte infusion (DLI) or biologic therapy for lymphoma at least 4 weeks prior to scheduled treatment
+DONOR: Able and willing to undergo leukapheresis
+DONOR: Agree to undergo donor viral screening panel
+DONOR: Complete blood count (CBC)/diff/platelet count near normal limits (plus/minus 10%)
+DONOR: In general good health as determined by the evaluating medical provider
+DONOR: Voluntary written consent
+Has an available HPC-A donor
+Patients who have received donor lymphocyte infusion (DLI) within 28 days of Viralym-C infusion.
+DONOR: (Female only) is not breastfeeding
+DONOR: meets donation eligibility requirements as outlined by 21 Code of Federal Regulations (CFR) 1271 and agency guidance
+Patient should have an already identified sibling, matched unrelated donor or cord blood donor at the time of enrollment to this clinical trial
+No available suitable matched related (6/6 or 5/6) or unrelated donor (8/8 or 7/8 allele matched) or unwilling or unable to pursue allogeneic stem cell transplant
+Has a suitable single haplotype matched (>= 3 of 6) family member donor
+DONOR: At least single haplotype matched (>= 3 of 6) family member
+Does not have a suitable matched related/sibling donor (MSD) or volunteer matched unrelated donor (MUD) available in the necessary time for stem cell donation
+Patient has a suitable MSD, volunteer MURD, or killer-cell immunoglobulin-like receptor (KIR) mismatched haploidentical donor available in the necessary time for stem cell donation
+ABO compatibility with donor
+DONOR: History of blood product donation to recipient
+DONOR: Evidence of hepatitis B infection
+Received donor lymphocyte infusion (DLI) within 28 days
+Received any experimental non-drug therapy (e.g., donor leukocyte/mononuclear cell infusions) within 56 days of entry
+Peripheral blood neutrophil chimerism: less than 95% donor
+DONOR: At least single haplotype matched (>= 3 of 6) family member
+DONOR: Has completed the process of donor eligibility determination as outlined in 21 Code of Federal Regulations (CFR) 1271 and agency guidance; OR
+Donor must be HIV-1&2 antibody and HTLV-1&2 antibody sero-negative by FDA licensed test.
+Donor must demonstrate ability to be compliant with study regimen.
+Donor must not have an active infection at the time of study entry.
+DONOR: Medically fit to and willing to donate
+Donor cellular engraftment of at least 2.5% from the non-myeloablative procedure and prior to the first infusion
+DONOR: Adult donors must be the same donor used for the non-myeloablative allogeneic transplant and a related family member with a HLA 3-6/6 match with the subject and must be capable of providing informed consent; potential donors under the age of 18 must have a ‘single patient exemption’ approved by the Institutional Review Board (IRB) and the donor and a guardian must provide assent; the donor must be the same donor used for the original allogeneic transplantation; selection of donors will be compliant with 21 Code of Federal Regulations (CFR) 1271
+DONOR: Donors will complete the Adult Donor History Questionnaire and have all laboratory studies included in the Donor Referral National Testing Laboratory (NTL) Panel, complete blood count (CBC) with auto or manual differential, and a chemistry panel within 7 days of scheduled collection procedure; donors who were evaluated greater than 1 year prior for transplant collection will also have a history and physical exam, chest x-ray (CXR), and electrocardiogram (EKG) completed; donors must not have any medical condition which would make apheresis more than a minimal risk, and should have normal range laboratory findings; all abnormal laboratory findings will be evaluated by the treating physician within the context of the entire donor assessment process
+Patients < 55 years (myeloablative regimen #1) or > 55 and =< 75 years or significant comorbidities (reduced intensity regimen #2) old lacking a matched related volunteer donor identified in time for transplant for which a related haploidentical donor (=< 7/8 allele match at the A, B, C, DR loci), a 7/8 allele matched related or unrelated donor is identified, or a matched unrelated donor (MUD); the patients must be diagnosed with high-risk disease as following:
+DONOR: Autologous or allogeneic gene modified cells allowed
+DONOR: Allogeneic donors must not have HIV infection
+DONOR: Ability to give informed consent
+DONOR: A donor who is lactating must substitute formula feeding for her infant during the period of cytokine administration
+DONOR: History of hypertension that is not controlled by medication, stroke, or severe heart disease; individuals with symptomatic angina will be considered to have severe heart disease and will not be eligible to be a donor
+DONOR: Anemia (Hb < 11 gm/dl) or thrombocytopenia (platelets < 100,000 per ul); however, potential donors with Hb levels < 11 gm/dl that is due to iron deficiency will be eligible as long as the donor is initiated on iron replacement therapy and the case is individually approved by National Institutes of Health (NIH) Blood Bank
+Matched unrelated donor must consent to provide a marrow allograft
+Any diagnosis, donor or source of hematopoietic stem cells (HSC) is allowed, including donor leukocyte infusions (DLI)
+Puget Sound Blood Center Recipient Donor Battery Panel
+Patients may also have had donor lymphocyte infusion if there is at least 60 days between donor lymphocyte infusion and study entry
+Predominant donor chimerisms as measured by CD3 and CD33 (or other myeloid marker)
+Anticipated planned donor lymphocyte infusion in the first 3 months post-SCT
+Adult HCT survivors as defined by being at least 100 days post autologous or allogeneic transplantation for a malignant disease; all hematologic malignancies will be included; there is no restriction to enrollment by donor type, donor cell source, presence or absence of graft versus host disease
+DONOR ELIGIBILITY
+Must meet the criteria for donor selection defined in the Standard Operating Procedures of University Hospitals Seidman Cancer Center Stem Cell Transplant Program (SOP B6.00 Allogeneic Donor Selection, Evaluation, and Management)
+History of abdominal surgery precluding free flap donor site
+DONOR: medically fit to and willing to donate
+DONOR: donors will be prioritized in the following order:\r\n* Fit to donate\r\n* HLA-matched prioritized over HLA-mismatched prioritized over unrelated\r\n* Lack of major blood group antigens (ABO) incompatibility; in order of priority:\r\n** Compatible\r\n** Minor incompatibility\r\n** Major incompatibility\r\n* Cytomegalovirus (CMV) serostatus; CMV negative donor preferred, if the patient is CMV negative; CMV positive donor preferred, if the patient is CMV is positive\r\n* Avoidance of female donor for male recipient
+DONOR: Must be willing and able to undergo peripheral blood stem cell (PBSC) collection
+DONOR: Donors who are known CMV seronegative
+Patients may have received a prior allogeneic hematopoietic stem cell transplant (alloHSCT) for any indication and from any donor; patients developing cGvHD after donor lymphocyte infusion (DLI) are also eligible
+The patient must be undergoing allogeneic HCT from any donor (including matched related) with any stem cell source for any underlying condition
+Original transplant utilized an unrelated donor graft
+Received a donor lymphocyte infusion (DLI) or hematopoietic cell transplantation (HCT) within 3 months of enrollment
+DONOR: Donor selection will be in compliance with 21 Code of Federal Regulations (CFR) 1271
+DONOR: HIV positive
+DONOR: Pregnant donor
+Planned use of prophylactic donor lymphocyte infusion (DLI) therapy
+Undergoing allogeneic HSCT from a related or unrelated donor
+Donor lymphocyte infusion within 100 days prior
+Availability of an unrelated donor, identified and screened by the National Marrow Donor Program (NMDP); the donor will have at least 7/8 human leukocyte antigen (HLA)-A, -B, -C and –DRB1 matching by high resolution molecular typing and will meet NMDP eligibility criteria to serve as a peripheral blood stem-cell donor
+Patients who have received donor lymphocyte infusion (DLI) within 28 days
+DONOR: Willingness to give informed consent
+DONOR: History of myopathy
+DONOR: Hypersensitivity to atorvastatin
+DONOR: Pregnancy
+DONOR: Nursing mother
+DONOR: Current serious systemic illness
+DONOR: Current use of statin drug
+DONOR: Failure to meet Fred Hutchinson Cancer Research Center (FHCRC) or local criteria for stem cell donation
+DONOR: Total creatinine kinase > 2 times the ULN
+Patients whose GVHD developed after donor lymphocyte infusion (DLI)
+DONOR: Donor evaluation and eligibility will be assessed as per current City of Hope SOP
+Donor lymphocyte infusion in the preceding 100 days
+Patients must have a related or unrelated donor as follows:
+Unrelated donor must be an 8/8 match at HLA-A, -B, -C and -DRB1 at high resolution using DNA-based typing. Unrelated donor must be medically eligible to donate according to National Marrow Donor Program (NMDP) (or equivalent donor search organization) criteria. At time of enrollment, the donor should not have any known preferences or contraindications to donate bone marrow or peripheral blood stem cells. (Selection of unrelated donors is to be performed according to institutional practice. It is recommended that the time from collection to initiation of the cell processing be considered when prioritizing donors, as data shows better results for CD34 selection when cell processing begins within 36 hours of the end of collection)
+mBP donor collection that meets protocol specifications;
+Subjects who have received stem cell boost or delayed donor lymphocyte infusion within 90 days of enrollment, including day of enrollment
+FOR THE 31 SUBJECTS ENROLLED IN YEAR 1: Subjects who have received stem cell boost or delayed donor lymphocyte infusion within 90 days of enrollment, including day of enrollment
+Female candidate for renal transplant, expected to undergo transplant surgery >= 30 days and =< 12 months after enrollment\r\n* For potential participants on the institutional waiting list for deceased donor transplant, a study clinician confirms the candidate is likely to receive a transplant within the next 12 months, taking into account the candidate’s priority on the waiting list, age, medical status, institutional policies, and scores like the Estimated Post-Transplant Survival (EPTS) Score and Calculated Panel Reactive Antibody (CPRA) percentage, etc\r\n* For potential participants expected to undergo a living donor transplant, one or more donor(s) have been identified and is/are in work-up (even though all work-up status may or may not be complete); a study clinician confirms the living donor transplant is likely to be scheduled within the next twelve months after taking into account donor work-up progress, age and medical status, and institutional policies\r\n** Note: the study was originally restricted to participants who were expecting to receive only living donor renal transplants; however, less than a third of kidney transplants in the United States occur with kidneys from living donors; a majority of transplants are in the setting of donation of kidneys from deceased donors; to permit efficiencies in accrual, the study is amended to also open enrollment to recipients of deceased donor kidneys
+Subjects who have received stem cell boost or delayed donor lymphocyte infusion within 90 days of enrollment, including day of enrollment
+No donor lymphocyte infusion (DLI) prior to day 100, and no plans for a DLI in the upcoming 30 days
+Patients who have undergone allogeneic HSCT in CR1 from a matched related or matched unrelated donor. All of the following criteria must also be met:
+DONOR: Unfit to undergo standard stem cell mobilization and apheresis e.g. abnormal blood counts, history of stroke, uncontrolled hypertension
+DONOR: Sickling hemoglobinopathy including HbSS, HbAS, HbSC
+Histocompatible donor identified:\r\n* Related donor or unrelated donor matched 5/6 or better (A, B, DRB1)
+Have received first peripheral blood, marrow or cord blood transplant from a family or unrelated donor for hematologic malignancy or myeloproliferative disorder
+Available matched unrelated donor
+Donor must be willing to donate peripheral blood stem cells
+Suitable donor - Medically cleared to donate per National Marrow Donor Program (NMDP)
+Donor choices per matched unrelated donor (MUD) committee according to center standard operating procedure (SOP)
+DONOR
+Among several potential donors, will choose in order of priority:\r\n* Matched cytomegalovirus (CMV) IgG serologic status between donor and recipient\r\n* ABO-matched donor preferred, then minor ABO mismatch, then major ABO mismatch\r\n* Younger donor preferred: child, then sibling, and then parent\r\n* For male recipient, male donor will be preferred; avoid mother as a donor unless no other choices
+One of following donor graft sources:\r\n* sibling donor\r\n* haploidentical donor (with post-transplant cyclophosphamide)\r\n* unrelated donor\r\n* unrelated umbilical cord blood
+DONOR ELIGIBILITY
+Patients may have received no more than one donor lymphocyte infusion (DLI), DLI must have been administered > 6 weeks prior to enrollment on study, and no plans for a DLI in the upcoming 30 days
+RELATED DONOR: a 5/10, 6/10, 7/10, 8/10, 9/10 or 10/10 matched (or partially matched) family donor will be required for study entry; HLA typing can be performed at any time prior to conditioning and must be performed twice on both donor and recipient
+DONOR: unrelated donors will be identified through the National Marrow Donor Program (NMDP) or equivalent donor search organization
+DONOR: related donors must meet eligibility criteria as per BMT Standard Operating Procedures (SOP) 1002
+DONOR: Willingness to give informed consent
+DONOR: History of myopathy
+DONOR: Hypersensitivity to atorvastatin
+DONOR: Pregnancy
+DONOR: Nursing mother
+DONOR: Current serious systemic illness
+DONOR: Failure to meet local criteria for stem cell donation
+DONOR: Total creatinine kinase > 2 times the ULN
+ABO compatibility with donor
+Patient plans on receiving stem cells from a matched (8/8) related donor
+Clinical justification of allogeneic stem cell transplantation where a suitable HLA matched sibling or unrelated donor is unavailable in a timely manner. An unrelated donor search is not required for a patient to be eligible if the clinical situation dictates an urgent transplantation. Clinical urgency is defined as 6-8 weeks from referral to transplant center or low likelihood of finding a matched unrelated donor
+Availability of a donor aged ? 16 years and ? 75 years who is eligible according to local requirements and regulations
+Availability of a fully matched related or unrelated donor following a donor search
+Presence of a readily available 6/6 matched sibling donor who is a candidate for donation
+Lack of suitable conventional donor (i.e. 7/8 or 8/8 related or 7/8 or 8/8 unrelated donor) or presence of rapidly progressive disease not permitting time to identify an unrelated donor
+Donor lymphocyte infusions (DLI) within 6 weeks of JCAR017 administration
+Sibling Donor Transplant
+Unrelated Donor Transplant
+Patients must have a related or unrelated peripheral blood stem cell donor as follows:
+Unrelated donor must be a 7/8 or 8/8 match at HLA-A, -B, -C and -DRB1 at high resolution using DNA-based typing. Unrelated donor must be willing to donate peripheral blood stem cells and be medically cleared to donate stem cells according to National Marrow Donor Program (NMDP) criteria.
+Unrelated donor, umbilical cord blood, mismatched, or haploidentical transplants
+DONOR: Individuals not donating stem cells
+DONOR: Pregnancy or breastfeeding
+DONOR: Inability to give informed consent
+Stable donor cell chimerism in at least 3 consecutive tests prior to treatment.
+If the subject had allogeneic HCT for a malignant disease, the subject should have complete donor chimerism. (*complete donor chimerism determined by the investigator per site's standards)
+Availability of eligible donor material
+DONOR: Provides written consent
+PBSC donors must meet the same criteria as NMDP marrow donors. These criteria are set forth in NMDP Standards and the Donor Center Manual of Operations.
+At least 4 weeks (from first dose) has elapsed from donor lymphocyte infusion (DLI) without conditioning.

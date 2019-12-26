@@ -1,0 +1,8 @@
+Cluster 178: aspirin daily heparin prophylactic anticoagulation molecular weight mg asa low 
+Cluster 761: heparin fondaparinux lmwh warfarin molecular weight derived coumarin low prophylaxis 
+Cluster 829: warfarin low heparin thrombin lmwh inhibitors xa dose therapeutic molecular 
+Cluster 1193: heparin low molecular weight warfarin anticoagulation therapeutic aspirin dose anticoagulants 
+Cluster 1436: warfarin anticoagulation inr pt receiving patients therapeutic prophylactic dose therapy 
+Cluster 1948: bleeding dose heparin molecular weight inr stable carries warfarin low 
+Cluster 2006: heparin low flush acetylsalicylic dwelling dose anticoagulation acid needed maintenance 
+Cluster 2271: anticoagulation therapeutic receiving patients therapy anticoagulant aspirin require anticoagulants stable 

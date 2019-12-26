@@ -1,0 +1,9 @@
+Have a Karnofsky performance status greater than or equal to  for patients aged  years or older and a Lansky performance status greater than or equal to  for patients less than  years old
+Patients must have a Karnofsky performance status of greater than or equal to  for patients older than  years of age or Lansky performance status of greater than or equal to  for patients less than or equal to  years of age.
+Lansky play score greater than or equal to % or Karnofsky Performance Status score greater than or equal to %. Use Karnofsky for participants greater than or equal to  years of age and Lansky for participants less than  years of age.
+Have a Karnofsky performance status greater than or equal to  for patients aged  years or older and a Lansky performance status greater than or equal to  for patients less than  years old
+Performance status Lansky for children =<  years equal to at least , or greater Karnofsky status for those >  years of age equal to at least  or greater
+Performance status greater than or equal to (>=)  by Lansky scale (for participants less than [<]  years of age) or Karnofsky scale (for participants [>=]  years of age)
+Lansky Performance Status (participants less than [<]  years old) or Karnofsky Performance Status (participants greater than or equal to [>=]  years old) >=
+Performance score of at least % by Karnofsky or performance status (PS) less than  (Eastern Cooperative Oncology Group [ECOG]) (age greater than or equal to  years), or Lansky play-performance scale of at least % or greater (age <  years)
+Participants less than or equal to  years of age must have performance status of Lansky greater than or equal to % and participants greater than  years of age must have performance status of Karnofsky greater than %.

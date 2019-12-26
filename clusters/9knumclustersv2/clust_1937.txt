@@ -1,0 +1,20 @@
+Active psychiatric disorder which may compromise compliance with the transplant protocol, or which does not allow for appropriate informed consent
+DONOR: History of a psychiatric disorder which in the opinion of the PI may compromise compliance with the transplant protocol, or which does not allow for appropriate informed consent
+RECIPIENT: History of psychiatric disorder which may compromise compliance with transplant protocol, or which does not allow for appropriate informed consent
+MATCHED RELATED DONOR: History of psychiatric disorder which in the opinion of the PI may compromise compliance with transplant protocol, or does not allow for appropriate informed consent
+HAPLOIDENTICAL RELATED DONOR: History of psychiatric disorder which in the opinion of the PI may compromise compliance with transplant protocol, or which does not allow for appropriate informed consent
+History of psychiatric disorder which may compromise compliance with transplant protocol, or which does not allow for appropriate informed consent
+HAPLOIDENTICAL DONOR: History of psychiatric disorder which in the opinion of the PI may compromise compliance with transplant protocol, or which does not allow for appropriate informed consent
+Active psychiatric disorder which may compromise compliance with the treatment protocol, or which does not allow for appropriate informed consent (as determined by principal investigator and/or his designee)
+DONOR: History of psychiatric disorder which may compromise compliance with this protocol or which does not allow for appropriate informed consent
+History of psychiatric disorder which may compromise compliance with transplant protocol, or which does not allow for appropriate informed consent
+History of psychiatric disorder which may compromise compliance with the protocol or which does not allow for appropriate informed consent
+History of psychiatric disorder which may compromise compliance with transplant protocol, or which does not allow for appropriate informed consent
+MATCHED RELATED DONOR: Current psychiatric diagnosis that would compromise compliance with transplant protocol or precludes appropriate informed consent
+History of psychiatric disorder which may compromise compliance
+History of psychiatric disorder which may compromise compliance with transplant protocol, or which does not allow for appropriate informed consent (as determined by principal investigator or lead associate investigator)
+History of psychiatric disorder which may compromise compliance with the protocol or which does not allow for appropriate informed consent
+History of psychiatric disorder which may compromise compliance with the protocol or which does not allow for appropriate informed consent
+Psychiatric disorder that may interfere with consent and/or protocol compliance.
+History of psychiatric disorder which may compromise compliance with transplant protocol, or which does not allow for appropriate informed consent (as determined by principal investigator or study chairman)
+DONOR: History of psychiatric disorder which may compromise compliance with transplant protocol, or which does not allow for appropriate informed consent

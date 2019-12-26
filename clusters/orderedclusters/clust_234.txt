@@ -1,0 +1,24 @@
+STEP I: Bilirubin =< 1.5 mg/dL (obtained within 28 days prior to randomization)
+1080.0
+STEP II: Any adverse event related to step 1 therapy must have resolved to grade 2 or less
+1080.0
+STEP II: Hemoglobin >= 8 g/dL (within 28 days prior to randomization to Step II)
+1080.0
+STEP II: Platelet count >= 75,000 cells/mm^3 (within 28 days prior to randomization to Step II)
+1080.0
+STEP II: Absolute neutrophil count >= 1000 cells/mm^3 (within 28 days prior to randomization to Step II)
+1080.0
+STEP II: Calculated creatinine clearance >= 30 mL/min (within 28 days prior to randomization to Step II)
+1080.0
+STEP II: Bilirubin =< 1.5 mg/dL (within 28 days prior to randomization to Step II)
+1080.0
+STEP II: SGPT (ALT) and SGOT (AST) < 2.5 times the upper limit of normal (within 28 days prior to randomization to Step II)
+1080.0
+STEP 2: RANDOMIZATION
+280.0
+RANDOMIZATION (STEP 1)
+345.0
+PRIOR TO STEP ONE RANDOMIZATION:
+186.0
+PRIOR TO STEP TWO RANDOMIZATION:
+186.0

@@ -1,0 +1,10 @@
+Cluster 12: minute creatinine clearance ml calculated gault serum cockcroft formula measured 
+Cluster 79: creatinine clearance gault cockcroft hour collection min ml urine formula 
+Cluster 321: equation creatinine gault cockcroft clearance min ml calculated estimated using 
+Cluster 446: creatinine gault clearance cockcroft formula min calculated ml using uln 
+Cluster 922: creatinine clearance gault cockcroft min ml calculated mg dl formula 
+Cluster 1071: gault cockcroft clearance creatinine min ml formula calculated renal function 
+Cluster 1671: estimation creatinine gault cockcroft basis clearance min glomerular filtration ml 
+Cluster 2214: estimated cockcroft gault creatinine clearance min ml cc serum equal 
+Cluster 2312: formula estimated creatinine gault clearance ml cockcroft min cockroft using 
+Cluster 2436: crcl creatinine gault cockcroft clearance formula ml min using calculated 

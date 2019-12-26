@@ -1,0 +1,12 @@
+ECOG status <3
+ECOG status <3
+ECOG status 3 or 4
+ECOG functional status 0-2
+Acceptable ECOG status 0, 1, or 2;
+MF PATIENTS: Patients must have an ECOG status 0-2
+ECOG status ?1.
+ECOG status of 0 or 1.
+ECOG status of >= 2
+ECOG status of ? 2
+ECOG performed status of 0 or 1
+ECOG status > 3

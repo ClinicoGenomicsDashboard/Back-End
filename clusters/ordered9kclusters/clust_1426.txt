@@ -1,0 +1,57 @@
+Carfilzomib: 7 days
+Plans to receive maintenance treatment within 100 days post-engraftment (e.g. Lenalidomide, Bortezomib, Pomalidomide, Thalidomide, Carfilzomib, etc.)
+Patients not able to tolerate lenalidomide or carfilzomib or dexamethasone
+ARM 1: Must have prior exposure to an immunomodulatory drug (IMiD) and proteasome inhibitor (PI) and have had 2 prior regimens/lines of therapy; but there is no maximum number of prior regimens, and prior autologous bone marrow transplant is acceptable if > 12 weeks from transplantation; patients may have received prior carfilzomib (sensitive, relapsed and refractory [having progressed while receiving carfilzomib or within 60 days of stopping carfilzomib] are all eligible), but must be > 4 weeks from last dosing of carfilzomib
+ARM 2: Must have had at least 1 but no more than 3 prior lines of anti-myeloma therapy; may be refractory to lenalidomide but sensitive to carfilzomib; prior exposure to carfilzomib is allowed but may not be refractory to carfilzomib; subjects must be >= 8 weeks from last carfilzomib therapy
+Patients may have received prior carfilzomib (sensitive, relapsed and refractory all eligible);  response and duration of prior carfilzomib therapy must be known
+Male subjects must agree to practice contraception for at least 90 days after the last dose of carfilzomib, and must agree not to donate sperm for at least 90 days after the last dose of carfilzomib
+Prior treatment with carfilzomib for lymphoma
+Male subjects must agree not to donate semen or sperm while taking pomalidomide and/or carfilzomib until at least 28 days after the last pomalidomide/carfilzomib dose
+Pts who have received prior treatment with carfilzomib (Phase II only)
+Pts who have received prior treatment with both carfilzomib & pomalidomide (Phase I only)
+For patients that relapse following a response to prior treatment with bortezomib or carfilzomib, six months must have elapsed since the last dose of treatment
+The patient is refractory to carfilzomib or bortezomib; (refractory is defined as patients who never achieved a response and progressed while on carfilzomib or bortezomib or within 60 days of completing treatment)
+Patients must have been previously treated with an immunomodulatory drug (IMiD) and proteasome inhibitor, must be refractory to carfilzomib defined as progression on or within 2 months of a carfilzomib-containing therapy, and must be progressing
+Patients eligible for this trial will be those who have failed carfilzomib either as a single agent as the last form of therapy, or carfilzomib in combination with dexamethasone, or carfilzomib in combination with revlimid and dexamethasone; given the potential for compounding/worsening toxicities with the addition of cabozantinib to carfilzomib, patients eligible for the trial will have to have had very good tolerance to carfilzomib in the context of described regimens, with resolved prior toxicity to grade 1 or better, and no toxicities due to carfilzomib that required dose reductions to less than 27 mg/m^2
+Allergy to carfilzomib or cabozantinib or any excipients
+Subjects who have carfilzomib-related posterior reversible encephalopathy syndrome (PRES) and thrombotic microangiopathy (TMA) should not be challenged with carfilzomib
+Must have received at least 2 consecutive cycles of a bortezomib- or carfilzomib-containing regimen, and either:
+Achieved at least a partial response (PR) and did not have PD during treatment with or within 60 days after the last dose of bortezomib or carfilzomib, OR
+Had bortezomib and/or carfilzomib intolerance (defined as discontinuation because of drug-related adverse events (AEs) before completion of the planned treatment course) without PD before the start of the next regimen.
+Subjects not able to tolerate elotuzumab, lenalidomide, carfilzomib, or dexamethasone
+Prior treatment with carfilzomib
+No prior irinotecan or carfilzomib
+Are refractory to bortezomib or carfilzomib at the last exposure before this study (defined as participants having PD while receiving bortezomib or carfilzomib therapy or within 60 days after ending bortezomib or carfilzomib therapy).
+Criteria 5 Prior therapy with carfilzomib is allowed as long as the patient had at least a PR to most recent therapy with carfilzomib, was not removed due to toxicity, did not relapse within 60 days from discontinuation of carfilzomib, and will have at least a 6-month carfilzomib treatment-free interval from last dose received until first study treatment. (Patients may receive maintenance therapy with drugs that are not proteasome inhibitors or CD38 antibodies during this 6-month carfilzomib treatment free interval)
+Subjects must have been treated with at least 2 prior therapies including a proteasome inhibitor and a cereblon-binding agent\r\n* Subjects who are refractory to carfilzomib may enroll throughout the trial; carfilzomib refractory status is defined by IMWG criteria: disease that is nonresponsive while on salvage therapy, or progresses within 60 days of last therapy in patients who have achieved minimal response (MR) or better at some point previously before then progressing in their disease course\r\n* In the twice weekly dosing cohort of the study, enrollment will be limited to patients meeting carfilzomib refractory status\r\n* In the weekly dosing cohort, it will be required that one of the expansion cohorts (20 subjects) enrolls carfilzomib refractory subjects and the other (20 subjects) enrolls carfilzomib/proteasome inhibitor (PI) naive/sensitive subjects
+Male patients must agree not to donate semen or sperm while they are taking carfilzomib and 28 days after the last carfilzomib dose.
+Patients may not have received any prior carfilzomib treatment
+Patient must have been eligible for and initially randomized to Arm 1 (low dose carfilzomib), begun cycle 2 of treatment, and progressed prior to completing 12 cycles of protocol therapy
+Patients must have begun cycle 2 (carfilzomib – 27 mg/m^2) and must not have received any dose reduction for toxicity in the last cycle of treatment, immediately preceding progression
+Subject must have received a regimen containing carfilzomib in combination with dexamethasone as their most recent line of therapy and have:
+For carfilzomib-lenalidomide-dexamethasone (KRd) regimen: newly diagnosed myeloma. For carfilzomib-dexamethasone (CFZ-dex) regimen: relapsed or refractory disease
+Subjects with relapsed/refractory MM who have received at least two prior lines of therapy including lenalidomide and either bortezomib or carfilzomib and have demonstrated disease progression on or within 60 days of the completion of the most recent treatment regimen.
+Any prior treatment with carfilzomib
+Prior treatment with carfilzomib or oprozomib
+Is refractory to VELCADE or another PI, like ixazomib and carfilzomib (had progression of disease while receiving VELCADE therapy or within 60 days of ending VELCADE therapy or another PI therapy, like ixazomib and carfilzomib
+Prior treatment with either carfilzomib or oprozomib
+Prior therapy with carfilzomib if discontinued due to toxicity
+Intolerance to previous bendamustine, carfilzomib or dexamethasone or mannitol; subjects who are allergic to bortezomib are not excluded
+Prior dose limiting toxicity from carfilzomib or lenalidomide
+Prior carfizolmib is not required but is allowed if a patient had at least 2 cycles of carfilzomib alone or in combination with a dose of at least 20/27 mg/m2, as long as the patient :
+Had at least a partial response to prior carfilzomib therapy
+Was not removed from carfilzomib therapy due to toxicity, unless approved by the medical monitor
+Male subjects must agree not to donate semen or sperm while taking lenalidomide and/or carfilzomib and 28 days after the last lenalidomide/carfilzomib dose
+Patients should be proteasome inhibitor naive (including bortezomib and carfilzomib) OR have received less than 6 cycles of therapy with a bortezomib or carfilzomib containing regimen and were not refractory to the bortezomib or carfilzomib based regimen (less than a PR or progression on or within 60 days of discontinuation)
+Confirmed relapsed or refractory multiple myeloma (MM) or plasma cell leukemia (PCL); patients should have received at least 1 prior treatment regimen; prior treatment must have included at least one full cycle of a proteasome inhibitor (e.g., bortezomib) and at least one full cycle of an immunomodulatory (IMiD) (e.g., thalidomide, lenalidomide or pomalidomide); patients who have had prior ARRY-520 and carfilzomib will be allowed in the dose escalation phase, however prior ARRY-520 and carfilzomib will be excluded in the dose expansion cohort 1 of part A; there will be 2 cohorts in the dose expansion of part A: cohort 1 will be patients who are carfilzomib sensitive; cohort 2 will be patients who are carfilzomib refractory
+Patients who have received any previous carfilzomib treatment
+Prior treatment with carfilzomib, filanesib, or any other KSP inhibitor.
+Known hypersensitivity to carfilzomib
+Subjects must have progressed on standard dose/schedule of carfilzomib without having had any carfilzomib related grade 3 or 4 toxicities
+Prior therapy with carfilzomib is allowed as long as the patient had at least a PR to prior carfilzomib therapy, was not removed from carfilzomib therapy due to toxicity, and had at least a 6-month carfilzomib treatment-free interval from last dose received until first study treatment. (Patients may receive maintenance therapy with drugs that are not in the proteasome inhibitor class during this 6 month carfilzomib treatment-free interval). The exception to this is patients randomized or previously randomized in any other Onyx-Sponsored Phase 3 trial.
+c. carfilzomib. Demonstrated disease progression on or within 60d of completion of carfilzomib therapy
+Prior carfilzomib treatment
+Not received carfilzomib within 6 months (183 days) of Cycle 1 Day 1 (C1D1), and
+Carfilzomib was not part of their most recent therapy for the treatment of MM, and
+Did not discontinue carfilzomib treatment because of adverse effects.
+For Concomitant Treatment: No prior treatment with MRZ or any other PIs, including BTZ, carfilzomib (CFZ), or ixazomib (IXZ)

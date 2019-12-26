@@ -1,0 +1,20 @@
+Patients must have resolved any serious infectious complications related to induction* NOTE: Patients with an HLA-matched donor and proceeding to transplant will be allowed up to one cycle of consolidation treatment
+747.0
+Any significant medical complications related to induction must have resolved
+747.0
+Patients must have resolved any serious infectious complications related to consolidation cycle 2
+747.0
+Any significant medical complications related to consolidation cycle 2 must have resolved
+747.0
+Patients must have resolved any serious infectious complications related to induction
+509.0
+Any significant medical complications related to induction must have resolved
+509.0
+Patients must have resolved any serious infectious complications related to therapy
+509.0
+Any significant medical complications related to therapy must have resolved
+509.0
+CRITERIA FOR MAINTENANCE THERAPY-STEP 4: Patients must have resolved any serious infectious complications related to therapy
+509.0
+CRITERIA FOR MAINTENANCE THERAPY-STEP 4: Any significant medical complications related to therapy must have resolved
+509.0

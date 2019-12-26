@@ -1,0 +1,286 @@
+Tumor verified by a thoracic surgeon to be in a location that will permit sublobar resection
+Stage T3 or T4a, histologically-confirmed NPNSCC requiring orbital or skull base resection:\r\n* Stages T3 and T4a disease will be included regardless of nodal status (N0 or N1-3), provided that surgical therapy would require orbital or skull base resection\r\n* The surgical oncologist in each institution will determine the need for resection of the orbit OR base of skull at baseline for patients on both Arms A and B and following neo-adjuvant chemotherapy for patients on Arm B\r\n** Resection of skull base will be deemed necessary according to skull base bone erosion by CT or marrow involvement by MRI is noted; for any disease abutting the skull base\r\n** Resection of orbital contents will be deemed necessary according to skull base society guidelines, based on involvement of periorbital fat documented by MRI imaging
+Unsuitable for resection or transplant or radiofrequency ablation (RFA)
+Patients with complete surgical resection of disease are not eligible
+Patient must fit into one of the following three categories:\r\n* Patients who received neoadjuvant chemotherapy and pathologic stage at surgical resection is >= pT2 and/or N+ OR\r\n* Patients who are not cisplatin-eligible (according to >= 1 of the following criteria: Eastern Cooperative Oncology Group [ECOG] performance status of 2, creatinine clearance < 60 mL/min, grade >= 2 hearing loss, grade >= 2 neuropathy, or New York Heart Association class III heart failure and pathologic stage at surgical resection is >= pT3 or pN+) OR\r\n* Patients that decline adjuvant cisplatin-based or other systemic chemotherapy based on an informed discussion with the physician and pathologic stage at surgical resection is >= pT3 or pN+
+Patient must have had radical surgical resection of their bladder cancer >= 4 weeks but =< 16 weeks prior to pre-registration
+Patients who have undergone complete surgical resection of the recurrent tumor and have no evidence of residual disease evaluable clinically and by CT or MRI imaging, following resection
+No prior treatment other than surgical intervention and corticosteroids; patients are allowed to have had more than one attempt at resection prior to enrollment
+Patients with codeleted low grade gliomas must also be considered “high risk” by exhibiting one or more of the following characteristics:\r\n* Age >= 40 and any surgical therapy\r\n* Age < 40 with prior and subtotal resection or biopsy (i.e., anything less than gross total resection)\r\n* Documented growth following prior surgery (NOTE: patients with prior surgery cannot have received prior radiation, chemotherapy or targeted therapy)\r\n* Intractable seizures
+A diagnostic contrast-enhanced magnetic resonance imaging (MRI) (no other scan type allowed) of the brain must be performed postoperatively; the residual enhancing tumor and/or resection cavity must have a maximal diameter of 5 cm or less; the tumor diameter will be the greatest diameter as measured on the contrast-enhanced postoperative MRI and will include residual disease and/or the postoperative surgical cavity as appropriate\r\n* The postoperative brain MRI should be obtained within 72 hours of resection; if it is not obtained within 72 hours post-resection, then an MRI obtained 2 weeks or longer after surgery is required and can be utilized to ensure maximal diameter of residual tumor and/or resection cavity is 5 cm or less\r\n* For cases where a gross total resection of enhancing tumor is performed, but postoperative surgical cavity is NOT identifiable, the patient will be excluded from the trial
+Patients with T2 or T3 primary tumors (N0-3, M0) not amenable to surgical resection by standard radical vulvectomy
+All patients with T1 urothelial carcinoma must undergo re-transurethral resection of bladder tumor (TURBT) within 60 days prior to registration, and must have uninvolved muscularis propria in the pathologic specimen from either the first or the second TURBT; tissue from the re-resection must be submitted; the TURBT that identified the recurrent T1 disease may have taken place more than 60 days prior to registration
+Patients may have had surgical resection of the hepatic malignancy prior to enrollment; all other anti-cancer therapy for the current liver lesion is prohibited
+Patients must have histologically confirmed well-differentiated islet cell carcinoma (PNET) not amenable to surgical resection
+Not scheduled to start radiation within 42 days of surgical resection of tumor;
+SURGICAL STUDY (STRATUM 2): Patients for whom surgical intervention is clinically indicated (gross total resection or sub-total resection) at recurrence and are amenable to receiving ribociclib for 7 – 10 days prior to resection\r\n* Note: patients with DIPG are excluded from the surgical study
+Patients who are otherwise deemed clinically unsuitable for surgical resection (applicable for surgical study only)
+Participant has a history of >= grade 3 AST, ALT, or bilirubin increase or has extensive liver resection (i.e., left lobe resection).
+Absence of resectable disease after transurethral resection (TURBT) procedures (residual carcinoma in situ (CIS) acceptable; patients with T1 tumors must undergo repeat resection and biopsy [inclusive of muscularis propria] if initial biopsy did not include muscularis propria). Patients with high-grade Ta and/or T1 disease should have complete resection before study treatment.
+Cutaneous, subcutaneous soft tissue, or superficial lymphatic metastasis not suitable for surgical resection
+Sub-optimal resection as their surgical outcome
+There must be a commitment by the surgical team to resect the primary tumor within 3 days following the 4 weeks of sirolimus unless the clinical situation at the time of resection suggests that these interventions are not in the patient's best interest
+Not eligible for surgical resection or liver transplant or have refused such procedures
+Adjuvant chemotherapy or radiation therapy for UC following surgical resection
+Patients with no evidence of metastatic disease as well as patients with a local recurrence following surgical resection of primary lesion.
+Inclusion Criteria:\n\n        Patients must meet all of the following inclusion criteria to be eligible for participation\n        in this study:\n\n          -  Surgical or biopsy-proven diagnosis of WHO grade 3 AA.\n\n          -  Unequivocal evidence of first AA tumor progression or recurrence ? 3 months prior to\n             randomization based on MRI criteria for tumor progression using enlarging Gd-contrast\n             enhancement and/or T2 hyperintensity. Patients with non-measurable Gd contrast\n             enhancing tumors will only be eligible if there is no necrosis seen on MRI and/or\n             histopathological confirmation of AA per standard of care procedures is obtained.\n\n          -  First tumor progression or recurrence following surgical resection or biopsy, if\n             resection is not feasible, EBRT and temozolomide chemotherapy.\n\n          -  Completion of EBRT ? 6 months prior to randomization.\n\n          -  A patient whose AA tumor has progressed or recurred and has had another surgical\n             resection prior to randomization will be eligible if a) pathology review confirms AA,\n             and b) post-surgical MRI demonstrates measurable tumor on T2/FLAIR.\n\n          -  Karnofsky Performance Status (KPS) score of ? 70.\n\n        Exclusion Criteria:\n\n        Patients who meet any of the following exclusion criteria are not eligible for study\n        participation:\n\n          -  MRI defining progression is consistent with a diagnosis of glioblastoma or radiation\n             necrosis.\n\n          -  Patients who are considered to be refractory to EBRT and temozolomide but who have not\n             progressed.\n\n          -  Prior systemic therapy for recurrence of AA.\n\n          -  Presence of extracranial or leptomeningeal disease.\n\n          -  Prior lomustine use.\n\n          -  Any other clinical condition or prior therapy that, in the opinion of the\n             Investigator, would make the patient unsuitable for the study.\n\n          -  Pregnant or breastfeeding.
+Before enrollment, patients must show non-enhancing T2-fluid-attenuated inversion recovery (FLAIR) lesions that are amenable to surgical resection; surgical resection of at least 0.5 grams of tumor is expected to ensure adequate evaluation of the study endpoints
+All patients must have developed recurrent disease/progression (evidence of recurrence to be established by MRI or CT scan with contrast; there is no limit to the number of relapses) after receiving all standard treatments, which must include the following: \r\n* Surgical resection, if possible;\r\n* Definitive radiation therapy for unresectable meningioma, or for recurrent meningioma after resection\r\n* (Note: At registration, patients must be at least 28 days post-surgery, and must be at least 28 days post-radiation therapy, with resolution of related cytotoxicities down to grade 2)
+Patients eligible for resection with one or more of the following
+Before enrollment, patients must show supratentorial, non-enhancing T2-FLAIR lesions that are amenable to surgical resection and are likely WHO grade II glioma; surgical resection of at least 500 mg tumor tissue to ensure adequate evaluation of the study endpoints
+Candidate for MLA based on the size, location, and shape of the recurrent tumor as determined by the performing neurosurgeon; surgical resection/debulking prior to MLA is allowed per standard of care, but is not required; if the patient undergoes resection or debulking, it must have occurred at least 3 weeks prior to the first dose of MK-3475
+Initiation of chemotherapy is planned within 6 weeks (42 days) of the definitive biopsy or surgical resection
+Complete macroscopic resection of all known disease
+Treatment directed against the melanoma (eg, chemotherapy, targeted agents, biotherapy, limb perfusion) that is administered after a prior complete resection other than adjuvant radiation after neurosurgical resection and IFN for resected melanoma
+No prior therapy to primary tumor prior to surgical resection (no induction therapy or recurrent disease).
+Prior surgical castration
+An interval of >= 28 days and full recovery (i.e., no ongoing safety issues) from surgical resection prior to randomization.
+An interval of ? 21 days since surgical resection prior to treatment on the trial
+Maximal tumor resection has been performed as feasible
+Subjects with disease that is amenable to surgical resection
+Criteria for surgical resection of at least one metastasis per neurosurgeon discretion
+Surgical resection able to be performed within 1 – 3 days after radiosurgery
+Patients who received anti-VEGF therapy within 6 weeks prior to enrollment, as there is increased risk of fatal brain hemorrhage with surgical resection
+Patients on the Intratumoral Studies surgical arm must be undergoing repeat surgery that is clinically indicated as determined by their care providers, where a significant debulking or a gross total surgical resection of the contrast-enhancing area is intended
+An interval of at least 2 weeks for surgical resection and 1 week for stereotactic biopsy from the start of study treatment
+Subjects deemed surgically unresectable or subjects unwilling to undergo surgical resection
+Prior surgical resection of pancreatic tumor
+Plan for next therapeutic intervention to be surgical resection of metastatic disease.
+Patients must have disease determined to be surgically resectable and candidates for upfront surgery as agreed upon by a multidisciplinary consensus (Surgical Oncology, Medical Oncology, Radiation Oncology) after presentation at sarcoma multidisciplinary conference. Resectable tumors are defined as having no significant vascular, neural or bony involvement. Only cases where a complete surgical resection can safely be achieved are defined as resectable.
+Disease that is considered surgically unresectable, including, but not limited to significant vascular, neural, or bone involvement, and in cases where a complete surgical resection cannot be safely performed.
+Disease amenable to surgical resection in the opinion of the treating surgeon
+Patients must have stage IIIB, IIIC, or IVM1a (equivalent staging at time of enrollment) metastatic melanoma which is eligible for complete surgical resection
+Unfit to receive study treatment or subsequent surgical resection
+All disease should be deemed resectable based on imaging studies e.g.:\r\n* Hepatic metastases (unilateral or bilateral =< 5 lesions, =< 15 cm total diameter)\r\n** Note: Hepatic lesions must be amenable to complete resection\r\n* Primary peritoneal metastases (small disease load =< P2 disease) without intestinal obstruction\r\n* Lung metastases (=< 3 unilateral/bilateral, 9 cm total diameter)\r\n** Note: lung lesions must be amenable to complete resection\r\n* Note: Patients with both pulmonary and hepatic metastases will be enrolled at the discretion of the principal investigator (PI)\r\n* Note: In situations where resection to completeness of cytoreduction score (CC) 0 or 1 is uncertain, patients may undergo diagnostic laparoscopy prior to enrollment to determine feasibility of resection
+Completed an R0 or R1 surgical resection as determined by pathology
+Evidence of disease recurrence or metastasis following surgical resection at any time prior to the first vaccination administration; most patients will undergo restaging midway through adjuvant chemotherapy and at the completion of therapy; however, timing of imaging is at the discretion of the patient’s medical oncologist
+Patient must have stage I NSCLC and is not undergoing surgical resection
+Patients are only eligible if complete resection of a plexiform neurofibroma with acceptable morbidity is not feasible, or if a patient with surgical option refuses surgery
+An interval of at least 4 weeks (to registration) between prior surgical resection or one week for stereotactic biopsy
+Patients must be undergoing surgery that is clinically indicated as determined by their care providers; patients must be eligible for surgical resection with the expectation that the surgeon is able to resect at least 400 mg of tumor with low risk of inducing neurological injury
+prior surgical procedures affecting absorption including total gastric resection;
+Scheduled date of surgical resection that would limit the amount of time taking the intervention to less than 21 days
+Patients must have undergone prior standard therapy for their primary disease; for patients with glioblastoma, this would include surgical resection or biopsy, if safe resection was not permitted due to the tumor location, radiation and adjuvant temozolomide; for patients with anaplastic astrocytoma, this would include surgical resection, radiation and adjuvant chemotherapy (procarbazine, lomustine and vincristine [PCV] or temozolomide)
+Patients must be registered within 6 weeks of most recent resection
+Patient may have had prior therapy for brain metastasis, including radiosurgery and surgical resection however must have completed prior resection and radiosurgery at least 90 days before enrollment and not received further active treatment
+Patients must have clinical indication for standard-of-care surgical resection of relapsed PFEPN tumor for enrollment in Stratum 1
+Surgical consultation at enrolling site to confirm that patient will be able to undergo curative resection after completion of chemoradiation =< 56 days prior to registration\r\n* Tumor is amenable to standard resection and reconstruction
+Have disease amenable to surgical resection
+For patients who will participate in the optional DSF pharmacokinetic study, they should be eligible for surgical resection for which at least 0.2 cubic cm or approximately 200 mg of tumor will be removed in additional to tumor specimen required for pathology evaluation; patients enrolled after undergoing surgical resection or biopsy with histologically confirmed GBM are not required to meet this point of inclusion
+Willing to defer definitive surgery for one week while taking DSF and Cu; patients who declined the optional pre-operative pharmacokinetic study or enrolled after undergoing surgical resection or biopsy with histologically confirmed GBM are not required to meet this point of inclusion
+Prior therapy < than 2 weeks since surgical re-resection or biopsy
+The patient is not eligible for a complete surgical resection of their disease as evaluated by a radiologist and/or surgeon.
+Patient may undergo surgical resection prior to reirradiation
+Patients with brain metastases for whom complete surgical resection is clinically appropriate
+Patient has undergone major surgical resection within 4 weeks prior to enrollment
+PHASE II DOSE EXPANSION IN RECURRENT GBM UNDERGOING RESECTION: Be at first relapse; Note: relapse is defined as progression following initial therapy (i.e., radiation, chemotherapy, or radiation plus (+) chemotherapy); if the participant had a surgical resection for relapsed disease and no antitumor therapy instituted for up to 12 weeks, this is considered one relapse; for participants who had prior therapy for a lower grade glioma, the surgical diagnosis of glioblastoma or gliosarcoma will be considered first relapse
+PHASE I: A baseline brain MRI must be obtained no more than 14 days (+ 3 working days) prior to study enrollment; the patient must either be on no steroids or a stable dose of dexamethasone no greater than 2 mg a day for at least 5 days prior to entrance onto the study; patients having undergone recent surgery are eligible as long as they are at least 3 weeks from resection or 1 week from stereotactic biopsy, and recovering from any operative or perioperative complications; no measurable disease post resection will be required
+PHASE 1: Patients having undergone recent surgery are eligible as long as they are at least 3 weeks from resection or 1 week from stereotactic biopsy, and recovering from any operative or perioperative complications; no measurable disease post resection will be required
+Subjects must have had a definitive resection with residual radiographic contrast enhancement on post-resection CT or MRI of less than or equal to 2 cm in any two perpendicular planes on any images
+Prior history of surgical resection, chemotherapy, transarterial chemoembolization (TACE), and/or radiofrequency ablation are allowed
+Local surgical resection is not possible due to tumor or patient factors
+Patients with solid tumors or lymphoma must have 1 or more tumors accessible to biopsy or resection, including biopsy allowing multiple cores from at least 1 lesion (fine needle aspiration is excluded), incisional or excisional biopsy, and/or resection. Note: Patients with resectable brain metastases must be undergoing planned resection. Patients with rHGG must be undergoing planned subtotal or gross total resection.
+For patients with rHGG, the patient intends to undergo treatment with the Gliadel® wafer at the time of planned resection (ie, on-study surgery) or has received the Gliadel wafer < 30 days from the date of planned resection.
+Complete surgical resection of the primary NSCLC is mandatory. All gross disease must have been removed at the end of surgery. All surgical margins of resection must be negative for tumour.
+Patients who are not eligible for resection and are chemotherapy naïve
+Patients must be eligible for surgical resection of their breast cancer or repeat biopsy after completing 14 days of treatment
+Resection: at least 3 weeks from the last surgical resection, prior to start study drug
+Complete surgical resection of the primary NSCLC is also mandatory. All gross disease must have been removed at the end of surgery. All surgical margins of resection must be negative for tumour. Resection may be accomplished by open or VATS techniques Note: Patients with synchronous primary tumours will not be eligible due to the potential uncertainty regarding their appropriate PD-L1 status. Prior Systemic Therapy:
+Patients must have histologically or cytologically confirmed stage IIIB/C melanoma; the definition of resectability can be determined by the patient’s surgical oncologist and verified via discussion at multidisciplinary tumor conference attended by melanoma medical and surgical oncology staff; resectable tumors are defined as having no significant vascular, neural or bony involvement; only cases where a complete surgical resection with tumor-free margins can safely be achieved are defined as resectable
+Patient must have undergone gross total resection, subtotal resection, or biopsy with the extent of resection determined by the treating neurosurgeon, and must begin radiation within 12 weeks of this procedure
+HCC not amenable to surgical resection, liver transplantation, chemoembolization, or ablation therapy
+Not a candidate for surgical resection according to the local guidelines for resection and in the Investigator's judgment.
+Symptomatic brain metastases; symptoms may be present from the surgical lesion prior to resection or LITT but must have resolved by the time of administration of study drug
+Patients with brain metastases for whom complete surgical resection is clinically appropriate
+Ineligible for surgical resection
+Prior surgical resection of targeted tumor
+Able to get a Whipple resection per surgeon assessment performed within 4 weeks of registration
+Subjects deemed surgically unresectable or subjects unwilling to undergo surgical resection
+Recurrent disease/progression after receiving all standard treatments, which must include the following:\r\n* Surgical resection, if possible\r\n* Definitive radiation therapy for unresectable meningioma, or for recurrent meningioma after resection
+Previous treatment for glioblastoma must include surgery (biopsy, partial resection, or full surgical resection), conventional radiation therapy and temozolomide (TMZ)
+Patient deemed medically unfit to undergo surgical resection of brain metastasis
+Histologically confirmed adenocarcinoma of the rectum in patients with no prior therapy who are candidate for surgical resection
+Subjects must be able and willing to schedule surgical resection of their tumor 2 or more weeks following the start of the study agent
+Tumor types – tumor type/location:\r\n* Stratum A: Patients with a recurrent ependymoma with the primary site in the posterior fossa; patients may have non-bulky asymptomatic, metastatic disease; patients may have undergone surgical resection or debulking prior to enrollment\r\nStratum B: Patients with a recurrent ependymoma with the primary site outside the posterior fossa; patients may have non-bulky asymptomatic, metastatic disease; patients may have undergone surgical resection or debulking prior to enrollment
+Patients must have a life expectancy of at least 12 weeks, a Zubrod performance status of =< 1 and be willing and medically able to undergo surgical resection
+Patients will be excluded if they have had prior surgical resection of metastatic cancer from the brain
+Patients must have been previously treated with surgical resection (any extent okay) and radiation therapy plus temozolomide
+Participants must plan to begin radiation therapy 14-42 days after surgical resection
+Patients with brain metastases for whom complete surgical resection is clinically appropriate
+For Part C (surgical): Have metastatic brain lesion(s) for which surgical resection is clinically indicated.
+Initial surgical resection of the paranasal sinuses or nasal cavity region rendering the patient clinically and radiologically disease free.
+Surgical procedure may have been complete resection, partial resection, or biopsy
+Patient has to start gefitinib within 6 weeks of hepatic resection with full recovery
+Tumor accessible for injection that is classified as borderline-resectable or locally advanced but considered potentially resectable after central review by surgical investigators. Resection may include major vascular resection with reconstruction as needed.
+Microscopically complete resection, defined as no evidence of microscopic residual disease based on surgical reports, histopathology and post-operative imaging. Detailed pathological and surgical reports prepared according to guidelines detailed in appendix x and y should be available for assessment.
+Scheduled to undergo surgical resection in 2 weeks or longer
+Pathological diagnosis of DCIS requiring surgical resection
+Undergone complete resection of primary tumour
+Has a known clinically significant GI disorder(s) including, but not limited to, inflammatory bowel disease or a history of extensive gastric resection and/or small intestinal resection.
+Patients who are eligible for surgical resection of the primary breast cancer and targeted dissection of the axilla
+Surgical resection must be planned as primary therapy with expected adjuvant radiation therapy. Patients are eligible with previous surgical intervention if they have residual or recurrent disease, and it is greater than 4 weeks since surgery and they have fully recovered from surgery.
+Must have undergone a surgical resection with definitive intent, either by open or laparoscopic resection of the primary gastric or GE junction cancer. Patients must have undergone a total gastrectomy, subtotal gastrectomy, or distal gastrectomy (depending on the location of primary gastric lesion) with at least a modified D2 lymphadenectomy.
+Patients must be treated within 6 weeks of most recent resection.
+Patients must be eligible for surgical resection of their breast cancer or repeat biopsy after completing treatment
+Participants must be at first relapse of GBM; relapse is defined as progression following initial therapy (i.e. radiation+/- chemo if that was used as initial therapy); the intent therefore is that patients had no more than 1 prior therapy (initial treatment); if the patient had a surgical resection for relapsed disease and no anti-cancer therapy was instituted for up to 12 weeks, and the patient undergoes another surgical resection, this is considered to constitute 1 relapse
+Tumor recurrence or progression documented after previously failing surgical resection, chemotherapy or radiation
+Patients with oral cavity cancer are excluded from participation if the patient is medically operable and resection of the primary tumor is considered technically feasible by an oral or head and neck cancers surgical subspecialist;(please consult the surgical oncology co-principal investigator [PI], Steven Chang, Doctor of Medicine [MD], if clarification is needed on an individual case)
+Patients must have a primary tumor that are determined by multidisciplinary team (medical oncology, orthopedic/surgical oncology, and radiation oncology) to require radiation therapy for optimal management prior to surgical resection
+Patients must have at least one of the following high risk pathologic features:\r\n* Extracapsular nodal extension\r\n* Invasive cancer at the primary tumor resection margin (tumor on ink); Note: Patients who have a positive margin and undergo re-resection with final negative margin are eligible only if they can be enrolled within 63 days of initial gross total resection AND extracapsular nodal extension was also present; patients who have a positive margin and undergo re-resection with final negative margin and do not have extracapsular nodal extension, are NOT eligible
+ARM A: Patient for whom surgical resection or liver transplantation would be more appropriate
+ARM B: Patient for whom surgical resection or liver transplantation would be more appropriate
+An interval of >= 4 weeks since surgical resection prior to study treatment
+Patients must not be eligible for curative liver resection or has refused resection
+Stereotactic biopsy (without further resection)
+Complete surgical resection of metastatic disease (lymph node, in transit, satellite lesion[s], distant metastases) with negative margins on resected specimens as confirmed by pathologic review has not been performed, but is deemed feasible by the treating surgical oncologist; surgical resection of the primary melanoma may or may not have been performed
+Prior resection of lung cancer is allowed, if at least five years have elapsed between previous resection and registration
+More than 8 weeks between resection and radiosurgical procedure
+Patients must not have received any adjuvant treatment (chemotherapy, biotherapy, or limb perfusion) after the resection(s) that make(s) them eligible for this trial\r\n* NOTE: previous radiation therapy, including after the surgical resection, is allowed as long as 21 days have elapsed between the radiation and initiation of this adjuvant systemic therapy
+Patients who may benefit from surgical resection
+All disease should be deemed resectable based on imaging studies e.g.:\r\n* Hepatic metastases (unilateral or bilateral =< 5 lesions, =< 15 cm total diameter)\r\n** Note: Hepatic lesions must be amenable to complete resection\r\n* Primary peritoneal metastases (small disease load =< P2 disease) without massive ascites or intestinal obstruction\r\n* Lung metastases (=< 3 unilateral/bilateral, 9 cm total diameter)\r\n** Note: lung lesions must be amenable to complete resection\r\n** Note: Patients with both pulmonary and hepatic metastases will be enrolled at the discretion of the principal investigator (PI)\r\n** Note: In situations where resection to completeness of cytoreduction score (CC) 0 or 1 is uncertain, patients may undergo diagnostic laparoscopy prior to enrollment to determine feasibility of resection
+Inoperable tumor or residual disease after resection
+Patients must have had surgical resection at University of California, Los Angeles (UCLA), for which a separate informed consent was signed for the collection of their tumor prior to surgery
+Surgical consultation to confirm that patient will be able to undergo curative resection after completion of chemoradiation within 56 days prior to step 2 registration
+Patients must have undergone surgical resection with curative intent within 6 months of enrollment; neoadjuvant or adjuvant chemotherapy, radiation, and/or chemoradiation will be allowed as long as no more than 6 months have passed between surgical resection and enrollment; if patients receive sequential chemotherapy and radiation, they are allowed 9 months between surgical resection and enrollment
+Clinical staged III or IV HNSCC that is not amenable to surgical resection
+Patients who are receiving adjuvant chemoradiation after surgical resection of the primary site of disease
+The recurrent or the second primary tumor is unresectable, the patient elects against surgical resection; patients who underwent surgery who has indications for postoperative radiation therapy is also eligible
+Histological diagnosis of ATC made through surgical resection is also acceptable.
+Histologically confirmed diagnosis of stage IIIB, IIIC or IVM1a melanoma eligible for complete surgical resection.
+Post resection serum cancer antigen (CA)19-9 =< 180 units/mL AND prior to any systemic treatment
+The patient must have had an en bloc complete gross resection of tumor (curative resection) by open laparotomy or laparoscopically-assisted colectomy. The distal extent of the tumor must have been greater than or equal to 12 cm from the anal verge. (Patients who have had a two-stage surgical procedure to first provide a decompression colostomy and then in a later procedure to have a surgical resection are eligible.)
+Measurable disease or non-measurable disease; extent of resection: patients with complete resection, partial resection, or biopsy are eligible
+Planned resection of primary tumor
+An interval of >= 4 weeks since surgical resection prior to entry in to the trial
+Patients must be able to undergo surgical resection of their tumor as determined by the treating surgeon
+Surgical resection or major surgery within 4 weeks or stereotactic biopsy within 1 week of first G-202 treatment
+Patients who underwent an R2 resection are not eligible
+Stage IIIB, IIIC, IVM1a, IVM1b, or IVM1c disease that is not suitable for surgical resection
+Surgical resection within 90 days of first dosing
+Patients may have had surgical resection of some or all sites of hepatoblastoma prior to enrollment
+Patients must begin radiation therapy within 30 days of surgery or radiographic diagnosis, whichever is the later date; date of surgery or radiographic diagnosis is considered day 1 (radiation treatment must start no later than day 31); if a patient has a biopsy followed by a surgical resection then the date of the surgical resection is considered day 1
+Circumferential resection margin: CRM+ (Positive)
+Prior surgical resection and radiation therapy for the progressive meningioma are not required for study enrollment
+Diagnosis must be made by surgical excision, either partial or complete; stereotactic biopsy will not be allowed; maximal safe surgical resection is required
+Current diagnosis of histological or cytopathological HNSCC malignancy borderline resectable stage III up to stage IVb (T1-4, N0-2, M0) or unresectable stage IV with high nodal status defined as >= N2b (by the American Joint Committee on Cancer [AJCC] 7th Edition Staging) that is amenable or appropriate for curative treatment; borderline resectability is assessed; NOTE: surgical unresectability will be defined as the combination of the treating surgeon’s judgment of unresectability plus one of the following objective criteria:\r\n* Encasement of tumor or nodes to the carotid artery or 3/4 encasement of the carotid artery\r\n* Involvement of prevertebral musculature\r\n* Need for glossectomy or extensive glossal resection where functional outcome is considered unacceptable to surgeon or patient\r\n* Involvement of the cervical spine\r\n* Severe, unacceptable functional deficit that would result from any proposed definitive surgical resection\r\n** NOTE: the principal investigator (PI) of the study, Dr. Mendez, is a surgical ear, nose and throat (ENT) (head and neck) oncologist and all HNSCC cases will be discussed at the University of Washington/Seattle Cancer Care Alliance weekly tumor conference where two other ENT surgical oncologists, and co-investigators in this study, will help assess resectability; as surgical unresectability may vary from patient to patient based on individual anatomy, treating physicians may, with the approval of the surgical team, declare a tumor not meeting the above criteria to be unresectable; in this case, the reason for unresectability should be documented in the medical record; medical co-morbidity and poor performance status may not be used to declare a patient unresectable
+Cohort 2 patients must have had a complete resection of all sites of metastatic disease within 30 days prior to enrollment\r\n* Patients will only be eligible after they have undergone complete surgical resection of suspected metastatic disease that is histopathologically confirmed to be osteosarcoma prior to enrollment\r\n** Note: the definition of complete resections is: gross resection of all disease as per the operating surgeon; post-operative imaging is not required for confirmation of complete resection\r\n* Patients must undergo resection of any lung lesion meeting criteria for likely metastatic disease, defined as: \r\n** 3 or more lesions > 5 mm in diameter OR a single lesion > 1 cm\r\n* Patients with lung as the only site of resected metastatic disease must have refused participation in protocol AOST1421\r\n** Note: this applies if AOST1421 is open to enrollment at the enrolling institution on the day the patient consents
+An interval of at least 4 weeks (to start of study agent) between prior surgical resection or one week for stereotactic biopsy
+R1 or R2 resection
+Documented tumor recurrence or progression after failing prior surgical resection, chemotherapy, or radiation
+Subjects are only eligible if complete resection of a plexiform neurofibroma with acceptable morbidity is not feasible, or if a subject with surgical option refuses surgery
+at least 4 weeks since craniotomy and resection or stereotactic radiosurgery
+No plans for surgical resection
+Patient must not have an intercurrent illness likely to interfere with protocol therapy or prevent surgical resection
+Cohorts 1 and 2: In addition, patients have to meet one of the following high risk conditions: \r\n* Age >= 40 with any extent resection \r\n* Age 16-39 with incomplete resection (post-op MRI showing > 1 cm residual disease, based on the maximum dimension of residual T2 or fluid-attenuated inversion recovery [FLAIR] abnormality from the edge of the surgical cavity either laterally, anteroposteriorly, or superoinferiorly)\r\n* Age 16-39 with neurosurgeon-defined gross total resection (GTR) but the tumor size is >= 4 cm (the maximum preoperative tumor diameter, based on the axial and/or coronal T2 or FLAIR magnetic resonance [MR] images)
+Have histologically confirmed epithelial or biphasic MPM not amenable to potentially curative surgical resection (subjects with biphasic tumors that have a predominantly (?50%) sarcomatoid component will be excluded)
+Has failed prior standard therapy including maximal safe surgical resection, radiation therapy (when appropriate for the specific cancer type), and systemic therapy\r\n* For diagnosis of GBM: has undergone maximal safe surgical resection, a course of postoperative radiation therapy with concurrent temozolomide, and maintenance temozolomide\r\n* For diagnosis of meningioma: has no other option of standard therapy such as surgical resection (partial or total resection) or radiation
+Prior surgical resection allowed
+Any previous radiation to sites of planned SRS; a patient may be deemed eligible in this case if a non-radiation mode of local ablation such as surgical resection is deemed safe and feasible by the principal investigator (PI)
+Resection cavity must measure < 5.0 cm in maximal extent on the post-operative MRI or CT brain scan obtained =< 35 days prior to pre-registration; Note: it is permissible for the resection of a dominant brain metastasis to include a smaller “satellite” metastasis as long as the single resection cavity is less than the maximum size requirements
+Local failure after surgical resection will be considered a metastatic lesion for purposes of protocol inclusion
+There is a planned definitive surgical resection of the primary tumor
+Patients must meet the following criteria for unresectability as determined by two hepatobiliary surgeons and one radiologist:\r\n* When a margin negative resection would require resection of all three hepatic veins, both portal veins, or the retrohepatic vena cava\r\n* Requiring a resection that leaves less than 2 hepatic segments (not including the caudate lobe) behind with adequate arterial/portal inflow, venous outflow and biliary drainage\r\n** A patient is considered resectable if the procedure includes a minor wedge or thermo-ablation encompassing 10% or less of the volume of the remaining 2 segments\r\n* Patient’s liver metastases must comprise < 70% of the liver parenchyma; all patients must be clinically fit to undergo surgery as determined by the pre-operative evaluation
+Patients should not be candidates for further surgical resection or definitive tumor-directed radiation therapy (XRT) based upon prior therapies and/or extent of disease at recurrence
+“Failure” of prior therapy is defined as:\r\n* A > 25% increase in the products of perpendicular diameters of measurable tumor masses during prior therapy which are not amenable to surgical resection\r\n* The presence of new tumors which are not amenable to surgical resection\r\n* An increase in AFP or beta-hCG (two separate determinations at least one week apart are required if rising tumor markers are the only evidence of failure)\r\nNOTE: subjects with clinically growing “teratoma” (normal declining tumor markers and radiographic or clinical progression) should be considered for surgery
+Patients with tumors whose resection would necessitate a free-tissue transfer for reconstruction of the surgical defect
+R0 or R1 resection
+No plans for surgical resection
+Metastatic CRC not amenable to surgical resection
+Brain biopsy or resection;
+Previously undergone surgical resection of the cholangiocarcinoma
+Patients must be those for whom surgical resection is clinically indicated; the intent of surgical resection may include debulking or attempt to resect as much of the tumor as safely feasible; if a gross total or near total resection is not feasible, HSV1716 injection into the wall of the resection cavity, encompassing residual tumor, is permissible
+Resection declined by surgical staff based on designation of LAPC
+Patients in the surgical arm only: patients with recurrent glioblastoma must be eligible for surgical resection as deemed by the site Investigator.
+Received maximal, safe, surgical resection
+Patients must not have other concurrent uncontrolled malignancies, defined as a malignancy that currently requires therapy or other intervention. Patients with suspected cuSCCs should have them excised prior to study registration. Surgical resection should not be performed within 7 days of starting protocol therapy.
+TREATMENT: Patients who were initially rendered NED by surgical resection must remain NED at the time of treatment
+Resection of all pTa/pT1 papillary disease
+Any major thoracic (thoracotomy with lung or esophageal resection) or abdominal (laparotomy with organ resection) operation must have occurred at least 28 days before study enrollment; patients who have undergone diagnostic video assisted thoracoscopy (VATS) or laparoscopy can be included in the study
+Greater than 3 months since melanoma resection;
+CNS disease requiring immediate neurosurgery intervention (e.g., resection, shunt placement, etc.)
+Eligible patients are expected to have a complete resection based on preoperative imaging; any patient not found to be able to have complete resection will not be eligible for this study
+Treatment directed against the melanoma (eg, chemotherapy, targeted agents, biotherapy, limb perfusion) that is administered after a prior complete resection other than adjuvant radiation after neurosurgical resection and IFN for resected melanoma.
+Patient will undergo surgical resection as per consultation with their thoracic surgeon and medical oncologist
+Macroscopic complete resection of the primary tumor must be planned
+Patients enrolling in the retreatment cohort may have experienced localized disease progression that was treated with definitive therapy to return the patient to a state of stable disease. Examples include localized disease progression treated with complete surgical resection, a solitary brain metastasis treated with complete surgical resection or curative intent stereotactic radiosurgery, or a solitary bone metastasis that is treated with curative-dose radiation therapy.
+If the patient had a surgical resection for relapsed disease and no anti-cancer therapy was instituted for up to 12 weeks, and the patient undergoes another surgical resection, this is considered one relapse; for patients who had prior therapy for a low-grade glioma, the surgical diagnosis of the recurrent tumor as GBM will be considered the first relapse
+Require hepatic resection due to trauma.
+Medically or technically inoperable as per thoracic surgeon or patient's preference not to undergo surgical resection
+breast carcinoma in situ with full surgical resection
+HCC patients only: Cancer potentially amenable to local modalities of therapy or surgical resection (phase I)
+Cancer potentially amenable to local modalities of therapy or surgical resection
+Single brain metastasis status post surgical resection with =< 1 cc of residual enhancing tumor
+Resection cavity volume on planning scan of =< 35 cc
+Post-operative MRI within 72 hours of surgical resection
+Resection cavity volume > 35 cc
+More than 8 weeks between resection and radiosurgical procedure
+Completion of multimodality therapy; this must include surgical resection by either pleurectomy/decortication or extrapleural pneumonectomy; the surgery should be performed with the intent of complete resection, though patients with an R1 resection will still be eligible; patients should have also received treatment with chemotherapy and/or radiation; patients with an R2 resection are also eligible as long as the site of residual disease is treated post-operatively with radiotherapy
+Randomization must occur ? 6 weeks after complete surgical resection.
+Unequivocal and measurable CT evidence of liver metastases which are not treatable by surgical resection or local ablation.
+Patients who have undergone stereotactic radiosurgery prior to or following surgical resection, or the placement of Gliadel® Wafers.
+Surgical resection of all gross disease\r\n* This assessment will be made by the local investigator based on review of the operative report, pathology results, and/or radiology reports; microscopically positive margins (e.g. R1 resection) are permitted
+Has received prior chemotherapy for any malignant disorder, thoracic radiation therapy or prior surgical resection of an esophagogastric tumor
+Tumor verified by a thoracic surgeon to be in a location that will permit a sublobar resection
+Treatment with bevacizumab may not be initiated until 4 weeks after surgical resection or radiation therapy completion
+Prior surgical resection for brain metastases
+Patients scheduled for surgical resection
+Patients can receive chemoradiotherapy preoperatively prior to surgical resection or as definitive/primary chemoradiotherapy
+COHORT B SPECIFIC INCLUSION: Patients must have relapsed/progressed following therapy (consisting of at least maximum feasible surgical resection and radiation therapy)
+A minimum of 2 months post-surgical resection or biopsy (if applicable) and/or a minimum 1 month post radiation treatment (if applicable)
+Planning to receive surgical resection at MGH (including both curative and palliative resections)
+Undergoing surgical resection with pancreaticoduodenectomy (Whipple)
+An interval of at least 6 weeks between prior surgical resection and study enrollment
+Patients may have had prior therapy for brain metastasis, including radiosurgery and surgical resection; patients must have completed prior therapy by at least 14 days prior to Step 2 for surgical resection and 7 days for radiosurgery
+Need for vascular resection/reconstruction
+Patient without chemotherapy and/or radiation therapy as part of cancer treatment (e.g., surgical resection only patients are not-eligible)
+Incomplete tumor resection (R2 resection, grossly positive resection margin)
+Surgery for bowel resection (including esophagus to rectum), pancreatic resection, or peritoneal surface malignancy resection
+No prior systemic chemotherapy, radiation therapy to the thorax, or total surgical resection
+Newly diagnosed with a primary invasive colorectal adenocarcinoma (all stages) and have a resection at any hospital in Ohio between 1/1/2013 and 12/31/2015\r\n* For individuals who have neoadjuvant treatment and show a complete response at resection, the tumor screening will be attempted on their original biopsy (even if it occurred in 2012) as long as their resection occurred between 1/1/2013 and 12/31/2015\r\n* Many individuals with stage IV CRC will not have a resection; therefore, the tumor screening will be attempted on their original biopsy as long as their primary diagnosis occurred between 1/1/2013 and 12/31/2015; if only metastatic CRC is available on a biopsy, tumor screening will be attempted on the metastatic tissue
+Newly diagnosed with a primary invasive endometrial cancer (any histology except sarcoma) and have a resection between 1/1/2013 and 12/31/2015 exclusively at Ohio State University (OSU)\r\n* For individuals who have neoadjuvant treatment and show a complete response at resection, the tumor screening will be attempted on their original biopsy (even if it occurred in 2012) as long as their resection occurred between 1/1/2013 and 12/31/2015
+Not planned for surgical intervention
+Patients must be registered between 180 days and 465 days (inclusive) of primary resection; patients must show no evidence of disease (NED) based on post-operative colonoscopy (performed at least 180 days after the colon resection date or at least 120 days after the rectal resection date and prior to registration) and computed tomography (CT) scans* of chest, abdomen and pelvis (performed at least 180 days after the colon resection date or at least 120 days after the rectal resection date and prior to registration); patients with adenomas detected at the one-year postoperative colonoscopy are eligible if all adenomas have been completely removed\r\n* CT scan is for high risk patients, as per National Comprehensive Cancer Network (NCCN) guidelines and at the discretion of the treating physician\r\n* NOTE: magnetic resonance imaging (MRI) evaluation is an acceptable alternative to CT scans for eligibility purposes
+Patient treated with neoadjuvant chemotherapy with or without radiation therapy prior to surgical resection, AND/OR placement of a biliary stent and/or drain for biliary tree decompression
+Individuals with a history of colon resection or colectomy due to any reason
+Patient has evidence of current mucositis, mucosal ulceration, or unhealed surgical wounds from surgical resection or biopsy
+Patients who have received a single dose of mitomycin C following staging trans-urethral resection (TUR)
+The lesion plus the resection margin should not exceed 4.0 cm circumferentially; planned to undergo surgical treatment by resection without flap reconstruction and without neck dissection
+Patients with lung lesions undergoing anatomic resection (lobectomy/segmentectomy/bilobectomy/pulmonary sleeve resection/pneumonectomy) OR
+Subject has a presence of mucosal ulceration or oral mucositis at screening or develops this prior to randomization, and/or has unhealed wounds remaining from surgical resection and/or excisional biopsy procedure.
+Patients who are medically unfit to undergo surgical resection
+Subjects who do not wish to have subsequent surgical resection
+Suspected malignancy scheduled to be treated with surgical resection at the sarcoma or cancer center of participating sites
+Prior thoracic radiotherapy directed to the ipsilateral lung or prior surgical wedge resection in the involved lobe
+Resection: tumor must be judged suitable for resection on the basis of imaging studies
+Subjects must be eligible for resection as determined by the operating surgeon
+Patients getting a planned wedge resection as the only thoracic resectional procedure
+Participation in this trial will not significantly alter pre-surgical, surgical or post-surgical care
+Patients who require and agree to surgical resection of their evolving post-treatment brain lesion (a clinical decision made prior to and independent of enrollment in this study)
+Kinetic Studies Arm only:\r\n* Participant with a suspected or confirmed cancer diagnosis who is scheduled for surgical resection, biopsy, or chemotherapy treatment\r\n* One or more tumor sites measuring >= 1 cm in the shortest transaxial diameter by CT
+Subject has a tumor that will undergo upfront resection
+Standard of care surgical resection and/or stereotactic biopsy of the brain tumor planned using the FDOPA-PET/MRI study
+Planned craniotomy and resection or biopsy
+Is being evaluated for surgical resection of the mass
+Medical contraindications to low anterior resection or abdominoperineal resection
+Surgical resection, chemotherapy, radiation therapy, or biologic therapy since last Octreoscan + CT; continuation of the same dose of Sandostatin–LAR or subcutaneous Sandostatin is allowed
+Subjects must be deemed eligible for resection by a surgeon who is listed as an Investigator in this study
+Patients must have received prior surgical resection and radiation therapy for the progressive meningioma
+An interval of at least 2 weeks (to start of study agent) between prior surgical resection or one week for stereotactic biopsy
+Subjects must be eligible for resection as determined by the operating surgeon
+Planned for treatment with radiation, chemotherapy and surgical resection or any of these treatment strategies combined
+OR a brain lesion that is concerning for malignancy for which histopathological confirmation is anticipated following enrollment (e.g., biopsy or surgical resection of the tumor is scheduled)
+Tumor must be determined to be surgically resectable; surgical resection is planned to take place at University of California, San Francisco (UCSF)
+For patients who have undergone surgical resection prior to joining the study, in whom baseline magnetic resonance (MR) images exhibit enough signal degradation (due to susceptibility artifact in the region of the surgical bed) such that the data are uninterpretable will be excluded
+Subjects must be planned for resection (this includes localized resectable disease or patients with metastatic disease with planned palliative resection) and scheduled to begin neoadjuvant chemotherapy
+Patients are not required to have measurable disease; post-operative patients (patients who have had surgical resection of the lung) are eligible
+Patients must have a planned surgical resection of the rectum
+Participants must have histologically confirmed adenocarcinoma of the colon that is localized, with no evidence of distant metastasis (stage I, II, or III), and for which surgical resection of the primary tumor is being planned; OR participants must have histologically or cytologically confirmed adenocarcinoma of the colon with resectable liver metastases for which liver resection is being planned; OR participants may have a colon biopsy that is suspicious for adenocarcinoma if clinical and/or endoscopic findings strongly support the presence of malignancy, and if surgical resection is being planned; NOTE: in the unlikely event that the final pathology of the surgical resection specimen is consistent with high-grade adenoma or dysplasia, the patient will not be considered ineligible and collected research samples will still be utilized
+Prior surgical evaluation and plan for surgical biopsy or surgery to remove the tumor being injected.
+Patients must have a previous diagnosis of a recurrent or progressive glioblastoma for which surgical resection is now indicated
+Planned surgical resection
+Scheduled date of surgical resection that would limit the amount of time taking the intervention to less than 21 days
+Patients who are seen by members of the Thoracic Surgical oncology Group at Vanderbilt Ingram Cancer Center for their initial surgical consultation
+the OSCC treatment plan includes surgical resection
+No history of colon cancer or colon resection
+History of colon cancer or colon resection
+Subjects must have histologically or cytologically confirmed esophageal, colorectal or pancreatic adenocarcinoma (inclusive of high grade dysplasia) on a biopsy prior to surgery and must be scheduled for surgical resection, inclusive of endoscopic mucosal resection, of the primary tumor. Subjects at any cancer stage will be enrolled.

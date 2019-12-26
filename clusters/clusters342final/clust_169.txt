@@ -1,0 +1,26 @@
+AST =< 2 x upper limit of normal
+TREATMENT: Creatinine =< 2 x upper limit of normal for age
+Creatinine =< 1.5 x upper limit of normal (ULN)
+Creatinine =< 1.5 x upper limit of normal (ULN)
+Creatinine =< twice upper limit institutional normal
+Creatinine < 1.5 times institutional upper limit of normal, within 21 days prior to study entry
+Creatinine < 1.5 institutional upper limit of normal OR
+Serum creatinine of =< 1.5 X the upper limit of normal
+TREATMENT: AST (SGOT)/ALT (SGPT) =< 3 x institutional upper limit of normal
+Creatinine =< 1.5 x upper limit of normal (ULN) within 14 days prior to study registration
+Serum creatinine > 2 times the upper limit of normal
+Creatinine =< institutional upper limit of normal OR
+Creatinine =< 1.5 x institutional/laboratory upper limit of normal (ULN)
+AST/ALT =< 3 x upper limit of normal (ULN)
+Creatinine (Cr) < 1.5 upper limit of normal (ULN)
+Creatinine =< 1.5 x institutional upper limit of normal
+Creatine phosphokinase =< institutional upper limit of normal
+Serum creatinine =< 1.5 x upper limit of normal (ULN)
+Creatinine =< 1.5 x upper limit of normal (ULN)
+Serum creatinine of =< 1.5 x the upper limit of normal
+Creatinine =< 1.5 x upper limit of normal (ULN)
+Note: ULN is institutional or laboratory upper limit of normal
+Creatinine =< 1.5 x upper limit of normal (ULN) or
+Within 14 days prior to registration: Creatinine =< 1.5 x institutional upper limit of normal (ULN)
+Creatinine =< 1.5 x upper limit of normal (ULN) or
+AST =< 8 x upper limit of normal (ULN)

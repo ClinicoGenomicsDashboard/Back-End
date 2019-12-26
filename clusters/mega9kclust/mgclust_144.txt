@@ -1,0 +1,6 @@
+Cluster 180: nci institute national neuropathy common ctcae grade terminology peripheral criteria 
+Cluster 906: effects toxic terminology common grade ctcae institute resolution national adverse 
+Cluster 1135: institute national terminology events common adverse nci ctcae grade criteria 
+Cluster 2197: pathology national nci institute cancer laboratory confirmation confirmed diagnosis metastatic 
+Cluster 2263: resolved institute terminology national common grade version ctcae nci cancer 
+Cluster 2441: institute national nci common grade ctcae version adverse cancer events 

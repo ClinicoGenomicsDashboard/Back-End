@@ -1,0 +1,91 @@
+Patients must have corrected QT (QTc) =<  msec by electrocardiogram (ECG) (corrected using the Bazetts formula) within  days prior to registration
+Corrected QT interval (QTc) <  milliseconds (msec) on a -lead electrocardiogram (ECG) =<  days before registration
+Screening electrocardiogram (ECG) with a corrected QT interval (QTc) >  msec
+Rate-corrected QT interval of electrocardiograph (QTc) >  msec on a -lead electrocardiography (ECG) during screening
+Adequate cardiac conductivity with corrected QT interval (QTC) of <  ms on screening electrocardiogram (ECG)
+Has ECG abnormalities that make QT interval corrected (QTc) evaluation difficult (e.g., severe morphologic abnormalities).
+Mean resting corrected QT (QTc) interval using the Fridericia formula (QTcF) >  ms (i.e., grade  or higher) for males and >  ms for females on electrocardiogram (ECG) prior to initiation of study treatment obtained from  electrocardiograms (ECGs) obtained - minutes apart at study entry, or history of congential long QT syndrome\r\n* If baseline QTc on screening ECG is >  ms for males or >  ms for females:\r\n** Check potassium and magnesium serum levels\r\n** Correct any identified hypokalemia and/or hypomagnesemia and repeat ECG to confirm QTcF interval\r\n* For patients with baseline heart rate (HR) <  bpm or >  bpm, manual measurement of QT interval by cardiologist is required, with Fridericia correction applied to that manual measurement to determine the QTc for eligibility consideration\r\n* Note: For patients with HR - bpm, manual measurement of QTc interval is NOT required
+Have a mean QT interval corrected for heart rate (QTc) of ? milliseconds on screening electrocardiogram (ECG) as calculated using the Bazett's formula at several consecutive days of assessment.
+Electrocardiogram (EKG) documenting corrected QT (QTc) interval <  mili (m)second and no clinically significant arrhythmia
+Corrected QT Interval (QTc) >  milliseconds (msec) on a -lead ECG obtained during the screening period\r\n* Note: If a machine reading is above this value, the ECG should be reviewed by a qualified reader and confirmed on a subsequent ECG
+QT interval corrected for rate (QTc) >  msec on the electrocardiogram (ECG) obtained at Screening
+Electrocardiogram (ECG) corrected QT (QTC) <  msec
+Have QT corrected interval of > milliseconds (msec) on screening electrocardiogram (ECG)
+Corrected QT (QTc) interval ?  msec on screening electrocardiogram (ECG)
+Significant cardiac disease as determined by the investigator including:\r\n* Known or suspected cardiac amyloidosis\r\n* Congestive heart failure of class III or IV of the New York Heart Association (NYHA) classification\r\n* Uncontrolled angina, hypertension or arrhythmia\r\n* Myocardial infarction in the past  months\r\n* Any uncontrolled or severe cardiovascular disease\r\n* Corrected QT Interval (QTc) >  milliseconds (msec) on a -lead electrocardiogram (ECG) obtained during the screening period. If a machine reading is above this value, the ECG should be reviewed by a qualified reader and confirmed on a subsequent ECG
+Have normal QT interval on electrocardiogram (ECG) evaluation QT corrected of =<  ms in males or =<  ms in females obtained from  electrocardiograms (ECGs), using the screening clinic ECG machine-derived corrected QT (QTc) value
+Electrocardiogram (ECG) without evidence of clinically significant ventricular arrhythmias or ischemia as determined by the investigator and a rate-corrected QT interval (QTc, Bazett's formula) of <  msec
+Cardiac electrophysiologic stability as defined by an electrocardiogram (ECG) with a corrected QT (QTc) interval <  msec at screening
+Subject has familial short QT syndrome, is receiving medications that are known to shorten the QT interval, or has a clinically significant abnormal electrocardiogram (ECG).
+Corrected QT (QTc) >  milliseconds (msec) on a -lead ECG obtained during the screening period; Note: If a machine reading is above this value, the ECG should be reviewed by a qualified reader and confirmed on a subsequent ECG
+QT interval corrected for heart (QTc) >=  ms calculated from  electrocardiogram (ECG) using Fridericia's correction
+Electrocardiogram (ECG) - corrected QT (QTc) <  msec, within  weeks of registration (except where specified otherwise)
+Screening rate-corrected QT interval (QTc) must be <msec and a resting heart rate of at least - bpm via a standard -lead ECG within  days prior to registration.
+Corrected QT interval (QTc) >  msec on screening electrocardiogram; if QTc prolongation is felt to be related to electrolyte imbalance, an electrocardiogram (EKG) can be repeated after correction of electrolytes
+Rate-corrected QT interval of electrocardiograph (QTc) >  msec on a -lead ECG during screening
+Screening -lead electrocardiogram (ECG) with a measurable QTc interval according to Fridericias correction >  ms
+Normal electrocardiogram with corrected QT (QTc) =< 
+Resting electrocardiogram (ECG) with corrected QT interval (QTc) >  msec (Fridericias scale)
+Patients with clinically relevant abnormal electrocardiography (ECG) findings, including abnormal corrected QT interval (QTc) >  ms on screening ECG (note: if a patient has a QTc interval >  ms on screening ECG, the screening ECG may be repeated twice [at least  hours apart] for a total of  ECGs)
+QT interval corrected for rate (QTc) ?  msec on the electrocardiogram (ECG) obtained at Screening
+Corrected QT (QTc) interval >  ms (>= grade ) on a -lead electrocardiogram (ECG)\r\n* If baseline QTc on screening ECG is >= grade :\r\n** Check potassium and magnesium serum levels\r\n** Correct any identified hypokalemia and/or hypomagnesemia and repeat ECG to confirm exclusion of patient due to QTc\r\n* For patients with heart rate <  beats per minute (bpm) or >  bpm, manual read of the QT interval by a cardiologist is required, with Fridericia correction applied to determine Fridericia QTc (QTcF) which must be used to determine eligibility\r\n* Note: If heart rate is - bpm, manual read of the QT interval and correction to QTcF is not required
+Mean resting corrected QT interval (QTc) > msec, obtained from  ECGs, using the screening clinic ECG machine-derived QTc value.
+QT interval corrected for rate (QTc) ?  msec on the electrocardiogram (ECG) obtained at Screening (average of  readings)
+Rate-corrected QT interval of electrocardiograph (QTc) >  msec on a -lead electrocardiogram (ECG) during screening
+Corrected QT(c) >=  ms (>= grade ) on electrocardiogram (ECG) prior to initiation of treatment\r\n* If baseline QTc on screening ECG meets exclusion criteria:\r\n** Check potassium and magnesium serum levels\r\n** Correct any identified hypokalemia and/or hypomagnesemia and repeat ECG to confirm exclusion of patient due to QTc\r\n* For patients with HR - bpm, no manual read of QTc is required\r\n* For patients with baseline HR <  or >  bpm, manual read of QT by cardiologist is required, with Fridericia correction applied to determine QTc
+Screening electrocardiogram (ECG) with a corrected QT interval (QTc) >  msec confirmed by central laboratory prior to enrollment to the study
+Corrected QT (QTc) >  ms (grade  or greater) on screening electrocardiogram (ECG)\r\n* If baseline QTc on screening ECG meets exclusion criteria on screening assessment:\r\n** Check potassium and magnesium levels\r\n** Correct any identified hypokalemia and/or hypomagnesemia and repeat ECG to confirm exclusion of patient due to QTc\r\n** For patients with a heart rate (HR) - bpm, no manual read of QT is required\r\n** For patients with baseline HR <  or >  bpm, manual read of QT by cardiologist is required using Fridericia correction
+Corrected QT (QTc) >  milliseconds (msec) on a -lead ECG obtained during the Screening period\r\n* Note: If a machine reading is above this value, the ECG should be reviewed by a qualified reader and confirmed on a subsequent ECG
+Mean resting corrected QT interval (QTc) > millisecond (msec), obtained from  ECGs recordings, using the screening clinic ECG machine-derived QTc value.
+Has a corrected QT interval (QTc) >  ms or has an electrocardiogram (ECG) with a new abnormal finding that is clinically significant.
+QT interval corrected for rate (QTc) >  msec for on the ECG obtained at Screening using Fridericia method for QTc calculation
+Electrocardiogram (ECG) corrected QT (QTc) =<  msec
+To be performed within  days prior to day  of protocol therapy: Corrected QT (QTc) interval =<  ms ( lead-electrocardiography [ECG])
+Corrected QT (QTc) interval >  ms on screening -lead electrocardiogram (ECG)\r\n* If baseline QTc on screening ECG meets exclusion criteria:\r\n** Check calcium, potassium, and magnesium serum levels\r\n** Correct any identified hypocalcemia, hypokalemia, and/or hypomagnesemia and repeat ECG to confirm exclusion of patient due to prolonged QTc interval\r\n* For patients with heart rate (HR) - beats per minute (bpm), manual read of QTc is not required\r\n* For patients with a baseline HR <  bpm or >  bpm, manual read of the QT interval by a cardiologist is required, with Fridericia correction applied to determine QTc (ie, QTcF)
+Inability to measure QT interval on ECG
+Patient must have an electrocardiogram (ECG) performed within  days prior to registration; patient must not have mean corrected QT (QTc) >  msec (with Bazetts correction) in screening electrocardiogram, or other significant ECG abnormality, New York Heart Association (NYHA) classification III or IV; patient must not require concurrent use of drugs or biologics with proarrhythmic potential
+Patient must have a corrected QT interval (QTc) interval <  msec on the  lead electrocardiogram (ECG) within  days prior to registration, patients with asymptomatic or incidental bundle branch blocks may have QTc measured by a cardiologist or standard formulas such as Bazetts or Fridericias to adjust for pre-existing blocks
+Electrocardiogram (ECG) demonstrating clinically significant arrhythmias (Note: participants with chronic atrial arrhythmia, ie, atrial fibrillation or paroxysmal supraventricular tachycardia, are eligible). A clinically significant ECG abnormality, including a marked prolonged QT/QTc interval (eg, a repeated demonstration of a QTc interval of greater than  ms).
+Corrected QT interval (QTc) >  milliseconds (msec) on a -lead electrocardiography (EKG) obtained during the screening period; if a machine reading is above this value, the EKG should be reviewed by a qualified reader and confirmed on a subsequent EKG
+History of prolonged QT syndrome or electrocardiogram (ECG) at screening QT interval corrected for heart rate (QTc) of >  ms with Bazetts or Fridericias formula
+Patient must have a corrected QT (QTc) interval on electrocardiogram (ECG) =< . seconds by Bazetts calculation at screening
+Mean resting corrected QT interval (QTc) > msec, obtained from  ECGs, using the screening clinic ECG machine-derived QTcF value.
+The QTc is the QT interval corrected for heart rate according to either Bazett's formula (QTcB)
+For purposes of this data analysis, Bazett's formula will be used as the primary method of calculating the corrected QT interval. The QTc should be based on either a single Electrocardiogram (ECG) or an average of  sequential ECGs obtained within  hours of each other.
+Patients with baseline corrected QT (QTc) prolongation greater than grade  are excluded from this study; patients with grade  QTc elevation are eligible but must be monitored with electrocardiogram (ECG) (EKG) exams, for the first  cycles of treatment; eribulin time to maximum concentration (Cmax) after infusion is about  minutes, and half life is  minutes; ECG (EKG) should be performed between  to  minutes after eribulin administration (on day  and day  of treatment); continued ECG (EKG) monitoring beyond cycle  can be done at the discretion of the treating physician
+Patients must have a baseline electrocardiogram (ECG) showing corrected QT (QTc) interval =<  msec within  days prior to registration
+Electrocardiogram (ECG) corrected QT (QTC) interval <  ms
+Corrected QT interval using Bazett's formula (QTcB) >  milliseconds (msec) on a -lead electrocardiogram (ECG) obtained during the screening period; if a machine reading is above this value, the ECG should be reviewed by a qualified reader and confirmed on a subsequent ECG
+Electrocardiogram (ECG) without evidence of clinically significant ventricular arrhythmias or ischemia as determined by the investigator and a rate-corrected QT interval (QTc, Bazett's formula) of <  msec
+Inability to determine the QT interval on ECG
+Corrected QT (QTc) interval =<  ms on screening electrocardiogram (ECG)
+Inability to monitor the QT interval on electrocardiogram (ECG)
+Corrected QT (QTc) =<  msec on baseline electrocardiogram (ECG)
+Baseline corrected QT (QTc) >  msec or other clinically significant baseline electrocardiogram (ECG) abnormality
+Has electrocardiogram (ECG) abnormalities that make QT interval corrected (QTc) evaluation difficult.
+Inability to measure QT interval on ECG
+Has a corrected QT interval (QTc) >  ms or has an electrocardiogram (ECG) with a new abnormal finding that is clinically significant
+Grade >=  QT interval corrected (QTc) prolongation on screening electrocardiogram (ECG) within  days of enrollment, or history of ventricular arrhythmia
+QT/QTc interval > msec, before CD treatment administration, as determined by screening electrocardiogram (ECG)
+QT/QTc interval >  msec, as determined by screening ECG performed no earlier than  week before CD
+Corrected QT (QTc) interval >=  ms (ie, grade  or higher) on electrocardiogram (ECG) prior to initiation of study treatment\r\n* If baseline QTc on screening ECG is >=  ms (ie, grade  or higher):\r\n** Check potassium and magnesium serum levels\r\n** Correct any identified hypokalemia and/or hypomagnesemia and repeat ECG to confirm QTc interval\r\n* For patients with baseline heart rate (HR) <  beats per minute (bpm) or >  bpm, manual measurement of QT interval by cardiologist is required, with Fridericia correction applied to that manual measurement to determine the QTc for eligibility consideration\r\n* Note: For patients with HR - bpm, manual measurement of QTc interval and use of Fridericia calculation is NOT required
+Participants with electrocardiogram (ECG) abnormalities considered by the investigator to be clinically significant, or repeated baseline prolongation of the rate-corrected QT interval (QTc).
+Participants with electrocardiogram (ECG) abnormalities considered by the investigator to be clinically significant, or repeated baseline prolongation of the rate-corrected QT interval (QTc).
+Cardiac function: -lead electrocardiogram (ECG) with normal tracing, or non-clinically significant changes that do not require medical intervention; corrected QT (QTc) interval is to be <  msec
+Corrected QT interval (QTc) prolongation (defined as a QTc interval >  msec) or other significant electrocardiogram (ECG) abnormalities
+Patients with corrected QT (QTc) prolongation (defined as a QTc interval equal to or greater than  msec) or other significant electrocardiogram (ECG) abnormalities are excluded
+Have corrected QT (QTc) interval of > milliseconds on screening electrocardiogram (ECG).
+Inability to measure QT interval on ECG
+Corrected QT interval (QTc) >  milliseconds in a -lead electrocardiogram (ECG) during screening.
+Baseline corrected QT interval (QTc) >  msec (average of triplicate electrocardiogram [ECG] recordings); a consistent method of QTc calculation must be used for each patient's QTc measurements; QTcF (Fridericia's formula) is preferred
+Important abnormalities of the ECG that may interfere with the interpretation of QTc interval changes at screening
+Electrocardiogram (-lead ECG) QTc ?  ms
+QT/QTc interval > msec, as determined by screening electrocardiogram (ECG)
+Serious cardiac condition such as myocardial infarction within the past  months, unstable angina, or Class III or IV congestive heart failure as defined by the New York Heart Association (NYHA); have ECG abnormalities including baseline -lead ECG with Fridericia-corrected QT interval (QTcF) >  msec (female) or >  msec (male), a history of congenital long QT syndrome, or any ECG abnormality that, in the opinion of the Investigator, would preclude safe participation in the study
+Any of the following cardiac abnormalities or history:\r\n* Clinically significant abnormal -lead electrocardiograph (ECG), QT interval corrected using Fridericia's method (QTcF) >  msec\r\n* Inability to measure QT interval on ECG\r\n* Personal or family history of long QT syndrome\r\n* Implantable pacemaker or implantable cardioverter defibrillator\r\n* Resting bradycardia <  beats/min
+Corrected QT interval (QTc) >  milliseconds on baseline electrocardiogram (ECG) (using corrected QT interval using Fridericia [QTcF] or Bazett [QTcB]); if electrolytes are abnormal, they may be corrected and baseline ECG should be repeated
+Prolonged corrected interval between the Q wave and T wave (QTc) by Fridericia's correction factor (QTcF) interval on pre-entry ECG ? ms (average of  ECG readings done in triplicate);
+Patients must have electrocardiogram with corrected QT (QTc) with correction within  days prior to registration
+-lead ECG with QTc interval within defined limit
+Have corrected QT interval of > millisecond (msec) on screening electrocardiogram (ECG).
+Have corrected QT interval of > milliseconds on screening electrocardiogram (ECG).

@@ -1,0 +1,6 @@
+Cluster 104: creatinine institutional normal levels clearance min ml upper limit patients 
+Cluster 693: iuln creatinine serum registration days prior clearance min levels cockcroft 
+Cluster 970: creatinine institutional normal limits clearance min levels ml patients gault 
+Cluster 1550: creatinine clearance min ml uln calculated normal upper limit serum 
+Cluster 1857: creatinine hour clearance min ml serum uln hr cr institutional 
+Cluster 2478: scr creatinine ccr renal serum clearance min ml upper limit 

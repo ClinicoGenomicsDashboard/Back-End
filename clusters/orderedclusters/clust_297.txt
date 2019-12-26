@@ -1,0 +1,42 @@
+Patients may not have received any other investigational agents within 4 weeks of study entry
+36.0
+Have received any investigational new drug within the past 30 days or planning to receive such during the study period
+240.0
+Patients may not be planning to receive any other investigational agents
+162.0
+Participants who received investigational agents, other than investigational antiretroviral agents for HIV, within the 4 weeks before randomization, unless approved by the study chair
+150.0
+Patients who are receiving any other investigational agents or who have received pomalidomide in the past
+63.0
+Participants who received any other chronic (defined as more than 50% of the time in the last 6 months) systemic immunomodulatory agents (replacement doses of steroids for adrenal insufficiency are permitted or treatment with prednisone =< 5 mg/day); receipt of investigational agents within the 4 weeks before randomization enrollment, other than investigational antiretroviral agents for HIV and investigational or approved agents for hepatitis C, are also exclusionary
+5058.0
+Concurrent administration of any other investigational agents
+23.0
+Patients must not receive any other investigational agents while on study or within four weeks prior to registration
+300.0
+Participants who are receiving any other investigational agents within 4 weeks prior to enrollment; investigational antiretroviral agents for HIV are acceptable
+56.0
+Patients must not be planning to receive any other investigational agents during the course of protocol treatment
+223.0
+Patients must not receive any other investigational agents while on study or within four weeks prior to randomization
+400.0
+Use of any investigational product within 4 weeks prior to randomization
+990.0
+Patients may not be receiving any other investigational agents nor have participated in an investigational trial within the past 4 weeks
+549.0
+Any other investigational agents within the past 4 weeks
+680.0
+Patients should not have received any other investigational agents within the past 4 weeks
+126.0
+Patients who are receiving any other investigational agents; all investigational agents other than ibrutinib must have been discontinued at least 4 weeks prior to beginning treatment; prior ibrutinib therapy must have been discontinued at least 2 weeks prior to beginning therapy
+50.0
+Patients must not be receiving or planning to receive any other investigational agents
+180.0
+Concurrent anticancer therapy (including other investigational agents)
+24.0
+Concomitant therapy with any anticancer agents, immunosuppressive agents, other investigational anticancer therapies
+84.0
+Patients must not have received radiation therapy, non-cytotoxic agents or investigational agents or systemic corticosteroids within 14 days prior to registration
+77.0
+Participants should not have received any other investigational agents nor have participated in an investigational trial within the past 4 weeks
+70.0

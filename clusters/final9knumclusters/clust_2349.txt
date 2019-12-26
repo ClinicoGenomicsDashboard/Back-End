@@ -1,0 +1,49 @@
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): ECOG performance status 0 or 1 within 2 weeks prior to randomization
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Patients must have completed treatment with any investigational agent >= 30 days prior to randomization for protocol therapy, if applicable
+STEP I: Hemoglobin >= 8 g/dL (obtained within 28 days prior to randomization)
+STEP I: Bilirubin =< 1.5 mg/dL (obtained within 28 days prior to randomization)
+STEP II: Hemoglobin >= 8 g/dL (within 28 days prior to randomization to Step II)
+STEP II: Platelet count >= 75,000 cells/mm^3 (within 28 days prior to randomization to Step II)
+STEP II: Absolute neutrophil count >= 1000 cells/mm^3 (within 28 days prior to randomization to Step II)
+STEP II: Calculated creatinine clearance >= 30 mL/min (within 28 days prior to randomization to Step II)
+STEP II: Bilirubin =< 1.5 mg/dL (within 28 days prior to randomization to Step II)
+STEP II: SGPT (ALT) and SGOT (AST) < 2.5 times the upper limit of normal (within 28 days prior to randomization to Step II)
+STEP 2 RANDOMIZATION
+Brain metastases are allowed if they have been adequately treated with radiotherapy or surgery and stable for at least 30 days prior to step 2 randomization; eligible patients must be neurologically asymptomatic and without corticosteroid treatment for at least 7 days prior to step 2 randomization
+Platelets >= 75,000/mcL within 14 days prior to step 2 randomization
+Hemoglobin >= 9 g/dL within 14 days prior to step 2 randomization
+Bilirubin =< 1.5 mg/dL within 14 days prior to step 2 randomization
+STEP 2: RANDOMIZATION
+After completing one cycle of therapy, patients will be registered for randomization between intermittent and continuous dosing, provided that they were eligible for the initial step 1 registration and satisfy the following criteria
+REGISTRATION STEP 2-RANDOMIZATION: Patients must not be known to have AML in the CNS
+REGISTRATION STEP 2-RANDOMIZATION: Pretreatment cytogenetics must be performed on all patients; collection of pretreatment specimens must be completed within 42 days prior to randomization (registration Step 2); reports of the results must be submitted
+REGISTRATION STEP 2-RANDOMIZATION: FLT3 results will be used for stratification purposes at the time of randomization; E-mail notification that FLT3 specimens have been processed must be received prior to randomization (registration Step 2)
+REGISTRATION STEP 2-RANDOMIZATION: Prior treatment with hydroxyurea is permitted; prior all-trans retinoic acid (ATRA) for suspected APL and prior intrathecal therapy are permitted, but must plan to be discontinued prior to initiating protocol therapy; patients with signs/symptoms of hyperleukocytosis or white blood cells (WBC) >= 50,000/mcL can be treated with leukapheresis prior to randomization (registration to Step 2)
+REGISTRATION STEP 2-RANDOMIZATION: Patients may have received non-intensive therapy for antecedent hematologic disorders, including lenalidomide; patients may have received prior chemotherapy for prior cancers; these therapies must be discontinued at least 5 days prior to randomization (registration to Step 2)
+REGISTRATION STEP 2-RANDOMIZATION: Patients must have complete history and physical examination within 28 days prior to randomization (registration to Step 2); history must include autoimmune disease status (to determine whether patient is eligible for Arm B)
+All tests for establishing baseline values must be completed within 14 days prior to registration to Step 2 (randomization)
+RANDOMIZATION (STEP 1)
+RANDOMIZATION TO BLINATUMOMAB OR NO BLINATUMOMAB-STEP 3
+STEP II (THERAPY)
+PRIOR TO STEP ONE RANDOMIZATION:
+PRIOR TO STEP TWO RANDOMIZATION:
+STEP 2: RANDOMIZATION
+REGISTRATION STEP 1: INITIAL RANDOMIZATION
+STEP 2 REGISTRATION (RANDOMIZATION CRITERIA):
+RANDOMIZATION (STEP 1)
+Patients must have BRAFV600E mutant status documented by a Clinical Laboratory Improvements Amendments (CLIA) certified laboratory on a pathology report prior to Step 2 registration; use of an Food and Drug Administration (FDA)-approved test is preferred although other BRAF tests at a CLIA-certified laboratory will also be accepted \r\n* If a BRAFV600E mutation is known, then the patient must be registered to Step 2 Randomization immediately following Step 1 Initial Registration\r\n* If testing has not been performed locally, BRAFV600E testing must be completed by the central laboratory (lab) prior to Step 2 Randomization; if the specimen does not have a BRAFV600E mutation, the patient is ineligible for Step 2 Randomization
+STEP 2 RANDOMIZATION:
+Patients with known BRAF mutation must be registered to Step 2 Randomization immediately following Step 1 Initial Registration
+Patients must have an electrocardiogram (ECG) within 14 days prior to Step 2 Randomization
+STEP 2 RANDOMIZATION REGULATORY CRITERIA:
+REGISTRATION/RANDOMIZATION TO STEP 2 - ARMS A, B, C AND D
+STEP 2 ENROLLMENT AND RANDOMIZATION: less than or equal to three metastatic lesions and no evidence of disease progression based on RECIST criteria; note that patients that had > 3 metastatic lesions in Step 1 may be eligible for enrollment in Step 2 if the number of metastatic sites is reduced to three or less
+STEP 2 ENROLLMENT AND RANDOMIZATION: platelet count >= 100,000/mm^3 within 3 weeks of study entry
+STEP 2 ENROLLMENT AND RANDOMIZATION: hemoglobin >= 9 g/dL within 3 weeks of study entry
+STEP 2 ENROLLMENT AND RANDOMIZATION: bevacizumab will not be permitted within 2 weeks of the initiation of the radiation therapy course
+STEP 2 ENROLLMENT AND RANDOMIZATION: the patient has signed informed consent
+STEP 2 (RANDOMIZATION)
+PRIOR TO STEP 2 RANDOMIZATION
+STEP 2 REGISTRATION (Randomization)
+STEP 2: INCLUSION CRITERIA PRIOR TO RANDOMIZATION
+STEP 2: EXCLUSION CRITERIA PRIOR TO RANDOMIZATION

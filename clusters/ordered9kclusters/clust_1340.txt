@@ -1,0 +1,60 @@
+Lansky >= 50% for patients =< 10 years of age or Karnofsky >= 50% for patients > 10 years of age
+Karnofsky >= 50% for patients > 10 years of age
+Adequate performance status: Karnofsky ? 50 for patients ? 16 years of age
+Adequate performance status: Lansky ? 50 for patients < 16 years of age
+Subjects > 10 years of age: Karnofsky >= 50%; Subjects =< 10 years of age: Lansky scale >= 50%
+Patients must have a Lansky or Karnofsky performance status score of >= 50; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Subjects must have a performance status of > 50%; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Karnofsky ? 50 for patients ? 16 years of age, and Lansky ? 50 for patients < 16 years of age.
+Karnofsky > 50 for patients > 16 years of age and Lansky > 50 for patients =< 16 years of age
+Karnofsky performance status >= 50% for patients > 16 years of age, or Lansky performance status >= 50% for patients =< 16 years of age.
+Patient must have Karnofsky >= 60% for patients > 10 years of age; Lansky Play Scale >= 60 for children =< 10 years of age
+Patients must have a performance status of 0, 1 or 2; use Karnofsky >= 60 for patients > 16 years of age and Lansky >= 60 for patients =< 16 years of age
+Performance status: Karnofsky >= 50 for patients > 16 years of age; Lansky >= 50 for patients =< 16 years of age
+Karnofsky performance status >= 50 for patients >= 16 years of age and a Lansky performance status >= 50 for patients aged < 16 years
+Patients must have a performance status of >= 70; (Karnofsky if > 16 years and Lansky if =< 16 years of age)
+Karnofsky ? 50% for patients > 16 years of age and Lansky ? 50 for patients ? 16 years of age.
+Patients must have a performance status of >= 70; (Karnofsky if > 16 years and Lansky if =< 16 years of age
+Patients must have a Lansky performance status of >= 30 for children =< 10 years of age or a Karnofsky performance status of > 30 for children > 10 years of age
+Patients must have a performance status of >= 70; (Karnofsky if > 16 years and Lansky if < 16 years of age)
+Performance status: Karnofsky >= 80% (subjects >= 16 years of age); Lansky >= 80% (for subjects 10-15 years of age)
+Performance level: Lansky ? 50% for patients ? 16 years of age and Karnofsky ? 50% for patients > 16 years of age.
+Performance status greater than or equal to (>=) 70 by Lansky scale (for participants less than [<] 16 years of age) or Karnofsky scale (for participants [>=] 16 years of age)
+PRE-REGISTRATION: Performance level as measured by Karnofsky >= 60% for patients > 16 years of age or Lansky >= 60% for patients =< 16 years of age.
+ENROLLMENT: Performance level as measured by Karnofsky >= 60% for patients > 16 years of age or Lansky >= 60% for patients =< 16 years of age.
+Patients must have a Lansky or Karnofsky performance status score of >= 70; Karnofsky system will be used for patients > 16 years of age and Lansky system for patients < 16 years of age
+Patients must have a Karnofsky performance level of >= 30 for patients > 16 years of age or a Lansky performance scale of >= 30 for patients =< 16 years of age and life expectancy > 8 weeks
+Performance status - Karnofsky >= 60 (16 years and older) or Lansky >= 50 (less than 16 years of age)
+ECOG 0, 1 or 2, or for children =< 10 years of age, Lansky >= 60
+If <12 years of age: Lanksy Performance Status >50%
+If ?12 years of age: Karnofsky Performance Status >50%
+Karnofsky (age ? 16 years) or Lansky (age < 16 years) performance status ? 50 at screening
+Karnofsky (age ? 16 years) or Lansky (age < 16 years) performance status ? 50 at screening.
+Have an ECOG performance status of 0-2 for ? 16 years of age and a Lansky performance status of 70-100 for < 16 years of age
+Karnofsky performance status (KPS) must be >= 70 for patients >= 16 years of age and Lansky performance status must be >= 70 for patients < 16 years of age
+Must have a Lansky or Karnofsky performance status of >= 50; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients must have a Lansky or Karnofsky performance status score of >= 60%; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Age ?18 years (non-ESFT candidates) ECOG performance status (PS) 0-1. Pediatric patients with Lansky or Karnofsky Performance Status Scale ? of 50%.
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 for adults, Karnofsky performance status >= 50% for pediatric patients > 10 years of age, and Lansky performance status >= 50 for pediatric patients =< 10 years of age
+Karnofsky > 50% for patients > 16 years of age and Lansky > 50% for patients ? 16 years of age.
+ECOG 0-2 or Karnofsky ? 50% for patients > 16 years of age; Lansky ? 50% for patients ?16 years of age.
+Subjects < 16 years of age: Lansky scale ? 60% (Appendix A)
+Karnofsky performance status > 70% for patients 16 years and older and Lansky performance status > 50% for patients under 16 years of age
+Karnofsky > 50% for patients > 16 years of age and Lansky > 50% for patients less than or equal to 16 years of age. (See Appendix I for Performance Scales).
+Performance Level: Karnofsky > 50% for pts > 12 years; Lansky > 50% for pts < 12 years of age.
+Performance status: Karnofsky > 50% for >= 16 years of age; Lansky > 50% for children < 16 years of age
+Performance status: Karnofsky >= 50 for > 10 years of age; Lansky >= 50 for children =< 10 years of age
+Performance status: Karnofsky ? 60% for 12 to <18 years of age; Lansky play scale ? 60% for 1 to < 12 years of age.
+Performance status - Karnofsky 50-100% (> 16 years of age)
+Performance status - Lansky 30-100% (? 16 years of age)
+Karnofsky performance status >= 50% for patients >= 16 years of age and Lansky >= 50% for patients < 16 years of age
+Performance status must be > 60 from Lansky (age 1 to 16) or Karnofsky (age > 16)
+Karnofsky >= 50% for patients > 10 years of age and Lansky >= 50 for patients =< 10 years of age
+Performance status by Karnofsky of >= 70% or Lansky > 70% for patients < 16 years of age
+ECOG 0-1, or for children ?10 years of age, Lansky > 60
+Karnofsky performance status >= 50 for patients >= 12 years of age; for children < 12 years of age, the Lansky play scale >= 50% can be substituted
+Karnofsky >= 70 for patients >= 16 years of age, and Lansky >= 70 for patients < 16 years of age
+PHASE I: Performance status >= 60 on Karnofsky scale for patients > 16 years of age and > 60 on Lansky scale for patients < 16 years of age
+EXPANSION COHORT: Performance status of >= 60 on Karnofsky scale for patients > 16 years of age and > 60 on Lansky scale for patients =< 16 years of age
+Patients must have a performance status of >= 50 using the Karnofsky scale for patients > 16 years of age and the Lansky scale for patients =< 16 years of age
+Karnofsky (patients ? 16 years)/Lansky (patients < 16 years) index ? 70.

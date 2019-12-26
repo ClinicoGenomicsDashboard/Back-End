@@ -1,0 +1,224 @@
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Leukocytes >= 2,000/mm^3, within 2 weeks prior to enrollment
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Absolute neutrophil count >= 1,000/mm^3, within 2 weeks prior to enrollment
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Platelets >= 75,000/mm^3, within 2 weeks prior to enrollment
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Hemoglobin >= 9 g/dL, within 2 weeks prior to enrollment
+PARTICIPANTS NOT ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Serum albumin >= 2.8 g/dL, within 2 weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Leukocyte count: no lower limit, within 2 weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Absolute neutrophil count: > 500/mcL, within 2 weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Platelets: > 50,000/mcL, within 2 weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Hemoglobin: >= 9 g/dL unless bone marrow involvement secondary to Hodgkin lymphoma is present, within 2 weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Serum albumin: >= 2.8 g/dL, within 2 weeks prior to enrollment
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: AST (SGOT) / ALT (SGPT): =< 3 x ULN
+PARTICIPANTS ON THE HODGKIN LYMPHOMA EXPANSION COHORT: Creatinine: < 1.5 x upper normal limit (UNL) or CrCl > 50ml/min, within 2 weeks prior to enrollment
+Histologic diagnosis of CD30-positive classical HL as defined by the 2008 World Health Organization (WHO) Classification of Hematological diseases; nodular lymphocyte predominant Hodgkin lymphoma is not eligible
+Aggressive non-Hodgkin lymphomas (NHL) and other histologies such as diffuse large B cell NHL: not eligible for autologous HCT, not eligible for high-dose allogeneic HCT, or after failed autologous HCT
+Hodgkin lymphoma: must have received and failed frontline therapy
+Histologically confirmed diagnosis of classical Hodgkin lymphoma (excluding nodular lymphocyte predominant Hodgkin lymphoma) according to the World Health Organization (WHO) classification, with hematopathology review at the participating institution
+Relapsed or refractory diffuse large B cell lymphoma with measurable disease as determined by Non-Hodgkin's Lymphoma Cheson response criteria (2014)
+Mature B-Cell non-Hodgkin Lymphoma that is Relapsed/Refractory to standard therapy
+NON-HODGKIN LYMPHOMA INCLUSION CRITERIA:
+Patients must have a histologically confirmed diagnosis of classical Hodgkin lymphoma including nodular sclerosis, mixed cellularity, lymphocytic-rich, and lymphocyte depleted subtypes by the 4th edition of the World Health Organization (WHO) Classification of Tumors of Hematopoietic and Lymphoid Tissues published in 2008 (nodular lymphocyte-predominant Hodgkin lymphoma [NLPHL] excluded)
+Histologically confirmed non-Hodgkin lymphoma and be considered ineligible for standard curative therapeutic options, including high dose chemotherapy with autologous stem cell rescue
+Histological or cytological diagnosis of advanced/metastatic solid tumor malignancy; or relapsed or refractory Non-Hodgkin lymphoma for whom no standard therapy is available..
+Participants must have a pathologic diagnosis of classical Hodgkin lymphoma (cHL) who are relapsed or refractory with one of the following: I. Autologous stem cell transplant (ASCT) ineligible patients ii. Patients after failure of ASCT
+Participants with nodular lymphocyte-predominant Hodgkin lymphoma (HL)
+Patients with histologically/cytologically confirmed solid tumor, or lymphoma. For the expansion cohort, only patients with peripheral/cutaneous T cell lymphoma, Hodgkin's lymphoma, and other non-Hodgkin's lymphoma would be considered eligible
+Men and women, 18 years or older, with advanced, relapsed or refractory solid tumors, Multiple Myeloma (MM) or non-Hodgkin's lymphoma (NHL) in Part A. In Part B, relapsed or refractory CD20-positive NHL subjects only.
+PHASE II: CD19+ non-Hodgkin lymphoma (NHL) refractory or relapsed with no known curative therapies available
+Patients must have histologically confirmed relapsed or refractory non-Hodgkin's lymphoma or Hodgkin's disease (World Health Organization [WHO] criteria) (Phase I)
+Untreated cutaneous T-Cell non-Hodgkin lymphoma (CTCL) (with the exception of untreated tumor stage Mycosis fungoides)
+Histopathologically-confirmed diagnosis of classical Hodgkin lymphoma
+At least 90 days have elapsed since bone marrow transplant and participant is off immune suppression for >= 2 weeks, if applicable; participants with ALL or non-Hodgkin lymphoma (NHL) who were transplanted in first remission are eligible for this study
+Presence of measurable disease defined per the 2008 International workshop on CLL guidelines, or by 2014 Lugano criteria for non-Hodgkin lymphoma
+Subjects must have relapsed or refractory non-Hodgkin lymphoma treated with at least two lines of therapy. Disease must have either progressed after the last regimen or presented failure to achieve partial or complete remission with the last regimen.
+Non-Hodgkin lymphoma (NHL) or Hodgkin lymphoma (HL) at high-risk of relapse or progression if not in remission:\r\n* Eligible patients with aggressive histologies (such as, but not limited to, diffuse large B-cell NHL, mantle cell NHL, and T-cell histologies) in CR.\r\n* Eligible patients with indolent B cell NHL (such as, but not limited to, follicular, small cell or marginal zone NHL) will have 2nd or subsequent progression with stable disease/CR/partial remission (PR) with no single lesion equal to or more than 5 cm.\r\n* Eligible patients with HL will be without progression of disease (POD) after salvage chemotherapy with no single lesion equal to or more than 5 cm.
+Indolent NHL or Hodgkin lymphoma with POD after most recent salvage chemotherapy.
+Has a diagnosis of lymphocyte-predominant Hodgkin Lymphoma (HL)
+Any B-cell non-Hodgkin lymphoma would be eligible for phase I portion of the study
+Undergoing autologous stem cell transplant for one of the following diagnoses:\r\n* Multiple myeloma\r\n* Non-Hodgkin lymphoma
+Hodgkin lymphoma – must have received and failed frontline therapy
+Patients with histologically proven Hodgkin lymphoma (HL) will be eligible for transplantation after failing prior therapy
+For NHL, detectable PET-positive disease according to the “Recommendations for Initial Evaluation, Staging, and Response Assessment of Hodgkin and Non-Hodgkin Lymphoma: The Lugano Classification”
+Active CNS involvement of non-Hodgkin lymphoma (NHL)
+Eligible patients with Hodgkin lymphoma must fulfill one of the following criteria: 1) have received two prior therapies, one of which must be an autologous stem cell transplant, or 2) have received three prior lines of therapy; eligible patients with any of the listed peripheral T cell lymphomas or non-Hodgkin lymphomas must have received two lines of prior therapy, at least one of which must contain cytotoxic chemotherapy; patients with diffuse large B-cell lymphoma or primary mediastinal B-cell lymphoma must have received 2 prior treatment regimens at least 1 of which included an anthracycline and an anti-CD20 monoclonal antibody
+Patients must have a histopathologically confirmed diagnosis of an aggressive B-cell non-Hodgkin lymphoma that is recurrent or refractory to standard therapy
+Classic Hodgkin Lymphoma (cHL), relapsed or refractory
+Patients must have histologically documented or cytologically confirmed Hodgkin lymphoma; confirmation must include CD30 expression
+For patients with Hodgkin lymphoma (HL) involvement of the liver, AST/ALT =< 5.0 x institutional ULN; total bilirubin within 3.0 x institutional ULN
+Must not have had second line chemotherapy for Hodgkin lymphoma
+Patients must have histologically documented or cytologically confirmed Hodgkin lymphoma with CD30 expression
+To be performed within 10 business days prior to day 1: Aspartate aminotransferase (AST) =< 3 x upper limit of normal (ULN) unless demonstrated Hodgkin lymphoma involvement of the liver
+To be performed within 10 business days prior to day 1: Alanine aminotransferase (ALT) =< 3 x ULN unless demonstrated Hodgkin lymphoma involvement of the liver
+There must be histological confirmation of relapse after alloSCT of any of the following diseases: any mature B cell lymphoma (classical Hodgkin lymphoma [cHL] or non-Hodgkin lymphoma [NHL]), acute myeloid leukemia (AML) or myelodysplastic syndrome (MDS)
+Relapsed Hodgkin's disease or non-Hodgkin's lymphoma (NHL)
+Hodgkin lymphoma:\r\n* Relapsed disease with progression after autologous bone marrow transplant or are ineligible for this procedure\r\n* Responding to therapy prior to enrollment
+Non-Hodgkin lymphoma:\r\n* Responding to therapy prior to enrollment; \r\n* Progression after autologous bone marrow transplant or are ineligible for this procedure
+PHASE I: Patients with relapsed or refractory Hodgkin lymphoma or non-Hodgkin lymphoma; patients with chronic lymphocytic leukemia (CLL) and small lymphocytic lymphoma (SLL) are also eligible; in addition, patients with NHL other than diffuse large B cell lymphomas (DLBCL) must have received at least 2 prior therapies; patients with DLBCL and Hodgkin lymphoma (HL) will be eligible if there is no available standard therapy
+Patients must have histologically documented or cytologically confirmed Hodgkin lymphoma with CD30 expression
+Prior ibrutinib for Hodgkin lymphoma is not allowed
+Non-Hodgkin's lymphoma (NHL) in second or third complete remission, or relapse (including relapse post autologous hematopoietic stem cell transplant); relapsed double hit lymphomas; patients with options for treatment that are known to be curative are not eligible
+Large-cell lymphoma, Hodgkin lymphoma and multiple myeloma with chemotherapy sensitive disease who are ineligible for an autologous transplant
+Has a myeloid or lymphoid malignant disease that is treated with TLI and ATG reduced-intensity conditioning for allogeneic transplant (any of the following: acute myeloid leukemia [AML]; chronic lymphocytic leukemia [CLL]; B or T cell non-Hodgkin lymphoma [NHL]; Hodgkin lymphoma [HL]; myelodysplastic syndrome (MDS); or myeloproliferative disease syndrome [MPD])
+Histologic verification of B-cell lineage leukemia or B cell non-Hodgkin lymphoma and evidence of relapse/refractory disease with the presence of CD19 and/or CD22 by flow cytometry or immunohistochemistry of bone marrow aspirate, peripheral blood or node/tumor biopsy
+Histologically confirmed diagnosis of Indolent non-Hodgkin's lymphoma (iNHL) in CD20 positive patients, with histological subtype limited to:
+Hodgkin lymphoma\r\n* Primary treatment failure ineligible for autologous HSCT\r\n* Relapse/progression after autologous HSCT
+Mature T-cell non-Hodgkin lymphoma (see World Health Organization [WHO] for specific malignancies)\r\n* First CR\r\n* Relapse after greater than or equal to 1 prior regimen
+Previously untreated non-Hodgkin lymphoma or Hodgkin lymphoma; all stages of disease are allowed; also eligible are patients who have started or completed one or more cycles of treatment as part of a planned first line regimen, or those who have received local radiation or surgery or corticosteroids for disease control
+Planned treatment with standard first line therapy for non-Hodgkin lymphoma (NHL) or Hodgkin lymphoma (HL)
+Eligible to receive standard brentuximab vedotin for relapsed Hodgkin lymphoma
+Patients must have primary refractory or first relapse of cluster of differentiation 30 (CD30)+ Hodgkin lymphoma
+Patients must have histologically confirmed transformed indolent B-cell non-Hodgkin lymphoma that is relapsed or refractory to at least one line of therapy
+Relapsed or refractory lymphoid malignancies (including non-Hodgkin lymphoma, Hodgkin lymphoma and chronic lymphocytic leukemia) meeting the following criteria:\r\n* Disease status: stable disease, partial remission or 2nd and 3rd complete remission
+Histologically or cytologically confirmed T-cell NHL or classic HL (i.e., nodular sclerosis HL, mixed cellularity HL, lymphocyte rich classic HL, and lymphocyte depleted HL) that has relapsed from, or is refractory to, standard therapies (including autologous transplantation) known to provide clinical benefit, but have not been treated with bendamustine for their lymphoma; patients with limited exposure to bendamustine (less than 2 full cycles) may be included, based on principal investigator (PI) discretion; patients with classical Hodgkin lymphoma must have failed brentuximab vedotin and a PD-1 inhibitor
+Patients with non-Hodgkin lymphoma (NHL) other than DLBCL; including \transformed\ DLBCL
+Patients must have pathologically confirmed relapsed or refractory classical Hodgkin lymphoma (cHL); a biopsy at any relapse is acceptable; other histologies including lymphocyte predominant (LP) HL are not permitted
+RANDOMIZED PHASE II (ARMS K AND L): Patients must have pathologically confirmed relapsed or refractory classical Hodgkin lymphoma (cHL); a biopsy at any relapse is acceptable; other histologies including lymphocyte predominant (LP) HL are not permitted
+Patients with refractory B-cell or T-cell non-Hodgkin's lymphoma or Hodgkin's lymphoma who are eligible for allogeneic transplantation
+Recipients of first/second ASCT for the treatment of hematologic malignancies (multiple myeloma, Hodgkin's and non Hodgkin's lymphoma)
+Non-Hodgkin lymphoma with chemoresponsive disease in any of the following categories:\r\n* Intermediate or high grade lymphomas who have failed to achieve a first complete remission (CR) or have relapsed following a 1st remission who are not candidates for autologous transplants\r\n* Any non-Hodgkin lymphoma (NHL) in remission which is considered not curable with chemotherapy alone and not eligible/appropriate for autologous transplant
+Lymphocyte-predominant Hodgkin lymphoma
+History of relapsed or refractory CD19+ malignancies (e.g. non Hodgkin lymphoma) who have failed prior treatment and require autologous hematopoietic stem cell transplant; evidence of disease not required (cohort 2)
+Histologic diagnosis of classical CD30 positive Hodgkin lymphoma confirmed at enrolling institution
+Non-Hodgkin’s lymphoma with chemoresponsive disease in any of the following categories: \r\n* Intermediate or high grade lymphomas who have failed to achieve a first CR or have relapsed following a 1st remission who are not candidates for autologous transplants\r\n* Any non-Hodgkin lymphoma (NHL) in remission which is considered not curable with chemotherapy alone and not eligible/appropriate for autologous transplant
+DISEASE CHARACTERISTICS:\n\n          -  Diagnosis of nodular lymphocyte-predominant Hodgkin lymphoma\n\n               -  Stage IA or IIA disease\n\n        PATIENT CHARACTERISTICS:\n\n          -  Not specified\n\n        PRIOR CONCURRENT THERAPY:\n\n          -  No prior therapy
+Lymphoma: patients with \r\n* Diagnosis of non-Hodgkin lymphoma (NHL) or Hodgkin's lymphoma (HL), of any histological grade\r\n* Refractory or relapsed disease after standard chemotherapy\r\n* High risk of early relapse following autograft alone
+Hodgkin disease: Must have received and failed frontline therapy
+Patients with acute lymphoblastic leukemia (ALL) or high grade (stage III or IV) non-Hodgkin lymphoma (NHL) after first relapse or with primary refractory disease
+Large-cell lymphoma, Hodgkin lymphoma and multiple myeloma with chemotherapy sensitive disease that has failed or patients who are ineligible for an autologous transplant
+Non-Hodgkin lymphoma (NHL) previously untreated with cytotoxic chemotherapy; however, patients may be entered if they have had prior cyclophosphamide for an urgent problem at diagnosis (e.g. epidural cord compression, superior vena cava syndrome) and/or a single dose of intrathecal methotrexate (MTX) at the time of the pre-treatment diagnostic lumbar puncture
+Non-Hodgkin's lymphomas in the following categories: mediastinal gray zone lymphoma and primary mediastinal B cell lymphoma
+Histologically proven within the last 6 months of relapsed or refractory\r\n* Non-Hodgkin lymphoma (NHL) or Hodgkin lymphoma (HL) nodal or extranodal OR\r\n* Cutaneous T-cell lymphoma (CTCL) including mycosis fungoides (MF), as well as transformed MF OR\r\n* Breast adenocarcinoma with nodal or cutaneous metastases (stage 4)\r\n** NOTE: Patients must be refractory to or intolerant of existing therapy(ies) known to provide clinical benefit for their condition\r\n** NOTE: The patient must not be a candidate for any curative therapy or any known life-prolonging therapy
+Non-Hodgkin's lymphoma (NHL) in second or third complete remission, or relapse (including relapse post autologous hematopoietic stem cell transplant); double hit lymphomas in first remission or more advanced disease
+Phase 1b only: B-cell non-Hodgkin's lymphoma (NHL), relapsed or refractory to standard approved therapies
+Classical Hodgkin lymphoma determined by local hematopathology review
+Have had prior chemotherapy or radiotherapy for Hodgkin lymphoma
+Non-Hodgkin or Hodgkin lymphoma without active central nervous system (CNS) involvement associated with poor prognosis with medical therapy alone or for which autologous peripheral blood stem cell (PBSC) transplant is indicated:\r\n* Hodgkin’s lymphoma beyond first remission or first partial remission or induction failure with subsequent response to salvage therapy\r\n* Non-Hodgkin’s lymphoma beyond first remission or first partial remission or induction failure with subsequent response to salvage therapy\r\n* Chemotherapy responsive disease
+Non-Hodgkin lymphoma with poor risk features not suitable for autologous HCT
+Patients must have histologically documented (confirmed at the Laboratory of Pathology, National Cancer Institute [NCI]), relapsed solid tumor malignancy or Hodgkin's disease/non-Hodgkin lymphoma that is metastatic or unresectable for which standard curative measures do not exist, or are associated with minimal patient survival benefit
+Non-Hodgkin lymphoma (NHL), Hodgkins, chronic lymphocytic leukemia, multiple myeloma demonstrating chemosensitive disease
+Histologically confirmed diagnosis of recurrent B-cell non-Hodgkin's lymphoma (any\n             histology by WHO criteria) or recurrent chronic lymphocytic leukemia (by NCI\n             criteria) (Reference Appendix C)
+All patients must have a pathologically confirmed diagnosis of classical Hodgkin's lymphoma (HL) as outlined in the World Health Organization (WHO) classification system of lymphoid tumors; patients with nodular lymphocyte-predominant HL (NLPHL) are not eligible
+B-cell non-Hodgkin lymphoma involving the brain, as demonstrated by contrast-enhanced magnetic resonance imaging (MRI) and histologic confirmation by one of the following within 6 weeks prior to registration:             \r\n* A positive cerebral spinal fluid (CSF) cytology for lymphoma or a monoclonal lymphocyte population as defined by cell surface markers\r\n* A biopsy of the vitreous or uvea demonstrating non-Hodgkin lymphoma\r\n* Brain biopsy \r\n* NOTE: patients in whom the type of lymphoma could not be determined or is unknown (e.g., not enough tissue for further analysis) are assumed to have a B-cell lymphoma and are eligible
+Hodgkin and non-Hodgkin lymphoma (all types, including mantle cell lymphoma)\r\n* Primary treatment failure\r\n* Relapse after autologous stem cell transplant (SCT)\r\n* Non-CR after salvage regimen
+Diagnosis of CD30+ classical Hodgkin lymphoma reconfirmed by histopathology. Note: where reconfirmation is not possible, patients will still be eligible where they have confirmation clearly documented in their medical records.
+Relapsed or refractory Hodgkin lymphoma following failure of standard frontline chemotherapy for the treatment of classical Hodgkin lymphoma
+AIDS-related non-Hodgkin lymphoma and other non-Hodgkin lymphoma\r\n* Failed standard first-line therapy; and\r\n* Failed autologous stem cell transplant if indicated for histology (i.e diffuse large B-cell lymphoma) or autologous stem cell transplant is not feasible
+Classical Hodgkin lymphoma\r\n* Relapsed or refractory de novo classical Hodgkin lymphoma having failed standard first-line therapy; and\r\n* May have failed to achieve a response or progressed after treatment with brentuximab vedotin or may be brentuximab vedotin naïve but is ineligible or unable to receive brentuximab vedotin; and\r\n* May have failed to achieve a response to, progressed after, or is ineligible for autologous stem cell transplant (auto-SCT)
+Subjects with any previously treated advanced (metastatic or refractory) solid tumor type and B-cell non-Hodgkin lymphoma
+Subjects must have a previously treated advanced solid tumor or B cell non-Hodgkin's lymphoma to be eligible
+Phase I (Cohort T): Participants with non-Hodgkin's lymphoma, regardless of PIK3CA mutation status
+non-Hodgkin lymphoma
+Pediatric solid tumor (including Hodgkin's and Non-Hodgkin's lymphoma), for which prior treatment had proven to be ineffective (that is, relapsed or refractory) or intolerable
+Transformation of CLL to aggressive Non-Hodgkin's Lymphoma (NHL) (Richter's transformation)
+Non-Hodgkin's lymphoma (NHL), limited to those patients for whom standard curative or palliative treatment do not exist or are no longer effective,
+Hodgkin's lymphoma (HL), limited to those patients for whom standard curative or palliative treatment do not exist or are no longer effective
+Newly diagnosed and previously untreated classical Hodgkin Lymphoma (cohort D)
+Subjects with nodular lymphocyte-predominant Hodgkin Lymphoma
+Serum bilirubin =< 1.5 x institutional upper limit of normal (IULN) OR serum bilirubin =< 3.0 x IULN for patients with Gilbert’s disease or documented hepatic involvement with non-Hodgkin lymphoma (NHL)
+Histologically confirmed diagnosis of a non-Hodgkin or Hodgkin lymphoma that has progressed in spite of prior treatment, and for which additional effective standard therapy is not available
+Histologically proven diffuse large B-cell non-Hodgkin's lymphoma
+Recurrent/refractory CNS non-Hodgkin's lymphoma involving CNS (Brain, Cerebrospinal fluid (CSF) or intraocular compartments)
+Histological evidence of transformation of FL into high-grade B-cell non-Hodgkin's lymphoma (NHL)
+Histologically confirmed B-cell non-Hodgkin's lymphoma that has relapsed after or failed to respond to at least one prior treatment regimen and for which no suitable therapy of curative intent or higher priority exists
+Patients must have histologically confirmed CD30 positive relapsed or refractory Hodgkin lymphoma
+Patients must have failed autologous stem cell transplant or at least 2 prior cytotoxic regimens for Hodgkin lymphoma; patients who have failed only 1 prior cytotoxic regimen for Hodgkin lymphoma are permitted to enroll as long as they are not eligible for autologous stem cell transplant
+Patient with Hodgkin's lymphoma with relapsed or refractory disease who are not eligible for stem cell transplantation or other standard therapies
+Indolent / aggressive B-cell non-Hodgkin's lymphoma (NHL)
+Hodgkin's lymphoma (HL)
+Histologically confirmed classical Hodgkin Lymphoma (HL)
+Nodular lymphocyte predominant Hodgkin lymphoma
+Patients must have histologically confirmed relapsed or refractory mantle cell lymphoma or low grade B-cell non-Hodgkin lymphoma (NHL); patients with evidence of transformation to a high grade histology will not be eligible
+Any patient, regardless of age or sex, with one or more of the following EBV-positive or associated disorders, regardless of the histological subtype:\r\n* Hodgkin lymphoma\r\n* Non-Hodgkin lymphoma\r\n* Lymphoproliferative disorder\r\n* Nasopharyngeal carcinoma\r\n* Leiomyosarcoma\r\n* Severe chronic active EBV infection syndrome (SCAEBV), defined as high EBV viral load in plasma or peripheral blood mononuclear cell (PBMC) (> 4000 genomes per ug PBMC deoxyribonucleic acid [DNA]) and/or biopsy tissue positive for EBV
+Any patients, regardless of age or sex, with one or more of the following EBV-positive or associated disorders, regardless of the histological subtype:\r\n* Hodgkin lymphoma\r\n* Non-Hodgkin lymphoma\r\n* Lymphoproliferative disorder\r\n* Nasopharyngeal carcinoma\r\n* Leiomyosarcoma\r\n* Severe chronic active EBV infection syndrome (SCAEBV), defined as high EBV viral load in plasma or PBMC (> 4000 genomes per Mg PBMC DNA) and/or biopsy tissue positive EBV
+Pathologically confirmed T or NK cell lymphoma at the enrolling institution; for cutaneous T-cell non-Hodgkin lymphoma (CTCL), patients with stage IB disease or greater are eligible
+Transformation of CLL to aggressive Non-Hodgkin's Lymphoma (NHL) (Richter's transformation)
+Absolute neutrophil count (ANC) > 1000 cells/mm^3, unless cytopenias due to non-Hodgkin lymphoma (NHL) (i.e., bone marrow involvement or splenomegaly)
+Relapsed or refractory de novo classical Hodgkin lymphoma
+Patients must have at least one bi-dimensionally measurable lesion (which has not been previously irradiated) according to the Recommendations for Initial Evaluation, Staging, and Response Assessment of Hodgkin and Non-Hodgkin Lymphoma: The Lugano Classification.
+Transformation of CLL to aggressive non-Hodgkin's lymphoma (Richter's transformation)
+Transformation of CLL to aggressive Non-Hodgkin's Lymphoma (NHL) (Richter's transformation)
+Measurable disease (at least one lesion that is 1.5 cm in the longest diameter on cross?sectional imaging and measurable in 2 perpendicular dimensions per computed tomography [CT]) for non-Hodgkin's lymphoma (NHL) and Hodgkin's lymphoma (HL) subjects; for myeloma patients measurable disease is defined as presence of more than 5% plasma cells in the bone marrow aspiration and/or presence of monoclonal gammopathy in serum protein electrophoresis (SPEP) and immunofixation
+Confirmed diagnosis of Hodgkin's Lymphoma
+Phase I: Patients must have histologically confirmed relapsed or refractory non-Hodgkin lymphoma or Hodgkin lymphoma (World Health Organization [WHO] criteria), with no accepted curative options
+Diagnosed or treated for malignancy other than indolent Non-Hodgkin lymphoma
+Has received prior therapy for Hodgkin lymphoma, except as noted
+Histopathological diagnosis of classical Hodgkin lymphoma
+Non-Hodgkin's lymphoma (NHL): High risk subjects with responsive disease after first relapse. High risk includes those with Burkitt's Lymphoma and those with extensive marrow involvement at diagnosis-precluding autologous transplant.
+Histologically confirmed relapsed or refractory Hodgkin lymphoma (HL) or anaplastic large cell lymphoma (ALCL)
+Subject must have histologically documented diagnosis of non-Hodgkin's lymphoma as defined by a B-cell neoplasm in the World Health Organization classification scheme except as noted in exclusion criteria.
+Subject (non-diffuse large B-cell lymphoma) must have relapsed or refractory non-Hodgkin's lymphoma, and require treatment in the opinion of the investigator.
+A concurrent diagnosis of systemic ALCL, or other non Hodgkin lymphoma (excluding LyP) or Sezary syndrome or B2 disease
+Patients with non-Hodgkin lymphoma (NHL) other than MCL
+Patients must have no evidence or history of non-Hodgkin lymphoma (NHL) outside of CNS
+Previously untreated classical Hodgkin lymphoma (i.e., nodular sclerosis, mixed cellularity, lymphocyte depleted, lymphocyte-rich, and not otherwise specified [NOS]); nodular lymphocyte predominant Hodgkin lymphoma is not eligible
+Patients must not have received prior chemotherapy or radiation therapy for the treatment of Hodgkin lymphoma
+Hodgkin Lymphoma beyond first remission achieving at least a partial response to most recent therapy with no evidence of progression prior to transplant.
+Non-Hodgkin Lymphoma beyond first remission achieving at least a partial response to most recent therapy with no evidence of progression prior to transplant.
+Histologically-confirmed advanced solid tumor, chronic lymphocytic leukemia, small lymphocytic lymphoma, T-cell prolymphocytic leukemia, Non-Hodgkin Lymphoma or multiple myeloma
+For participants with follicular lymphoma: prior treatment for non-Hodgkin's lymphoma with chemotherapy, immunotherapy, or radiotherapy
+Patients with histologically confirmed CD20 positive B-cell non-Hodgkin lymphoma (NHL) who are candidates for autologous stem cell transplantation (SCT)
+Biopsy-proven relapsed or refractory non-Hodgkin lymphoma requiring treatment, who have failed, unable to tolerate, or refused other available active therapies; patients should not have other treatment options considered curative (NOTE: for patients with lymphoma without central nervous system [CNS] involvement, a re-biopsy is necessary unless the patient has had a previous biopsy =< 6 months prior to treatment on this protocol if there has been no intervening treatment; patients with biopsy-proven CNS lymphoma at any time are not required to have a re-biopsy to be eligible for this study); NOTE: relapsed NHL is defined as NHL that relapses after at least one prior therapy and does not have available curative therapy; refractory NHL is defined as NHL that has progressed or not responded to most recent therapy and has had at least one prior therapy and have no available curative therapies
+Patient must have histologically documented classical Hodgkin lymphoma that was recurrent or refractory to standard chemotherapy
+Core biopsies are acceptable if they contain adequate tissue for primary diagnosis and immunophenotyping; if the original diagnostic specimen is not available, relapsed or refractory specimens may be used; bone marrow biopsies as the sole means of diagnosis are not acceptable; however, they may be used in conjunction with nodal biopsies; fine needle aspirates (FNA) are not acceptable; pathology reports must be submitted with the appropriate case report forms (CRFs), and the actual biopsy specimens are not requested for central review; patients with classical Hodgkin lymphoma (cHL) have one of the following World Health Organization (WHO) subtypes:\r\n* Nodular sclerosis Hodgkin lymphoma\r\n* Lymphocyte-rich Hodgkin lymphoma\r\n* Mixed cellularity Hodgkin lymphoma\r\n* Lymphocyte-deplete Hodgkin lymphoma\r\ncHL patients without one of these subtypes designated cHL not otherwise specified are also eligible\r\nNOTE: patients with nodular lymphocyte-predominant HL are not eligible
+Histologically documented Hodgkin lymphoma subclassified according to the World Health Organization (WHO) modification of the Rye Classification and staged according to the modified Ann Arbor Staging Classification system; patients must have clinical stage IA, IB, IIA or IIB; patients with “E” extensions will be eligible if all other criteria have been met; nodular lymphocyte predominant Hodgkin lymphoma is excluded
+Patient has histologically confirmed diagnosis of follicular lymphoma or Hodgkin lymphoma
+Hodgkin lymphoma patients must have received at least 2 prior regimens and received, declined, or be ineligible for autologous transplant
+Patient has histologically confirmed diagnosis of Hodgkin lymphoma
+Previously treated or refractory large B-cell lymphomas, grey-zone lymphoma, Hodgkin lymphoma, including lymphocyte predominant Hodgkin lymphoma (LPHL)
+Non-Hodgkin's lymphoma - induction failures, second or third complete remission, or relapse (including relapse post autologous hematopoietic stem cell transplant)
+Hodgkin lymphoma – must have received and a) failed frontline therapy, b) not be eligible for autologous HCT, or c) or be part of a tandem auto-allo approach for high risk patients
+Non-Hodgkin's lymphoma (NHL) in second or third complete remission, or relapse (including relapse post autologous hematopoietic stem cell transplant); double hit lymphomas in first remission or more advanced disease; or
+Other non-Hodgkin lymphoma (NHL) histologies
+Having \currently active\ second malignancy unrelated to Hodgkin lymphoma (HL) or NHL, unless they have completed anti-cancer therapy, are in complete response and are considered by their physicians to be at less than 30% risk of relapse
+No evidence of systemic non-Hodgkin's lymphoma.
+Tumor type criteria: relapsed/refractory non-Hodgkin's lymphoma (NHL) that meets one of the following criteria:
+Biopsy proven EBV(+) or KSHV(+) malignancy, including but not limited to:\r\n* EBV(+) non-Hodgkin lymphoma or lymphoproliferative disease\r\n* EBV(+) Hodgkin lymphoma\r\n* KSHV(+) Kaposi sarcoma involving skin, with or without visceral involvement\r\n* KSHV(+) primary effusion lymphoma\r\n* EBV(+) gastric cancer\r\n* EBV(+) nasopharyngeal cancer\r\n* EBV(+) leiomyosarcoma\r\n* KSHV(+) Castleman disease\r\n* Chronic active EBV
+Have biopsy-confirmed non-Hodgkin lymphoma, of any type
+Have evidence of progressive non-Hodgkin lymphoma
+Patients with relapsed/refractory lymphoma (B cell non-Hodgkin) who have lack of objective response to at least two prior chemotherapy regimens
+Clinical evidence of extra-central nervous system (CNS) (systemic) non-Hodgkin lymphoma
+Plasma cell myeloma and Hodgkin lymphoma are excluded
+Patients with confirmed CD30-positive DLBCL or grade 3b follicular non-Hodgkin lymphoma (NHL).
+Participants with Hodgkin or Non-Hodgkin lymphoma must meet one of the following criteria:\r\n* Relapsing disease in 2nd or greater relapse and measurable disease, or\r\n* Refractory disease failing to achieve complete response (CR) with >= 2 induction or re-induction attempts
+Patient must have relapsed or refractory non-Hodgkin's lymphoma (NHL) or Hodgkin's disease. Patients must have CNS 1 disease. Patient must have histologic verification of disease at original diagnosis. Patient must have measurable disease documented by clinical or radiographic criteria or bone marrow disease present at study entry.
+Prior HSCT for Hodgkin's Lymphoma: Patients with Hodgkin's lymphoma must have had prior attempt at autologous HSCT.
+Diagnosis of multiple myeloma or non-Hodgkin lymphoma
+Diagnosis of Hodgkin lymphoma or non-Hodgkin lymphoma
+Chronic lymphocytic leukemia, Hodgkin lymphoma, and non-Hodgkin lymphoma are excluded
+Histologically confirmed, previously untreated Hodgkin lymphoma
+Patients must have a histologically or cytologically confirmed lymphoid malignancy (like Hodgkin lymphoma or one of the mature B- or T-cell non-Hodgkin lymphomas as classified by World Health Organization [WHO]) for which standard curative or palliative measures do not exist or are no longer effective
+Patients with Hodgkin's lymphoma may have one of the following World Health Organization (WHO) subtypes:\r\n* Nodular sclerosis Hodgkin's lymphoma\r\n* Mixed cellularity Hodgkin's lymphoma\r\n* Lymphocyte-rich Hodgkin's lymphoma\r\n* Lymphocyte-deplete Hodgkin's lymphoma\r\n* Nodular lymphocyte-predominant Hodgkin's lymphoma
+Non-Hodgkin's lymphoma (NHL) or Hodgkin's disease (HD) in 2nd or greater complete remission, partial remission
+Patients must have histologically documented or cytologically confirmed Hodgkin lymphoma with CD 30 expression
+Histologically confirmed classical Hodgkin lymphoma (nodular sclerosis, mixed cellularity, or lymphocyte-rich classical HL)
+Chemotherapy-sensitive relapsed lymphoma (complete or partial response), Hodgkin or non-Hodgkin lymphoma, no evidence of \bulky\ disease (> 10 cm in diameter)
+Transformation of CLL to aggressive Non-Hodgkin's Lymphoma (NHL) (Richter's transformation)
+Diagnosis of AML, Multiple myeloma, Hodgkin's or Non-Hodgkin's lymphoma for whom standard curative or palliative measures do not exist or are no longer effective
+Diagnosis of leukemia, non-Hodgkin's lymphoma, Hodgkin's disease or other hematologic malignancy.
+Non-Hodgkin lymphoma (NHL)\r\n * Patients with NHL will be eligible if they fail to achieve a CR with initial chemotherapy or if they relapse following an autologous transplant\r\n * Patients who relapse following initial therapy, but are unable to undergo autologous transplantation, will also be eligible
+T-cell non-Hodgkin's lymphoma (T-NHL) with one of the following: \r\n* Primary refractory (=< CR to 1st line or relapse within 6 months); or\r\n* Nonresponsive (SD/PD) to >= 1 line of salvage
+Patients must have a histologically confirmed diagnosis of non-Hodgkin lymphoma (NHL); the World Health Organization (WHO) classification will be used to sub-classify the NHL; original pathology reports will be used to confirm eligibility; review of biopsy tissue slides will be attempted, but not necessary for eligibility
+Histologic confirmation of classical Hodgkin lymphoma after imaging documenting primary refractory or relapsed disease
+Received > 1 line of therapy for Hodgkin lymphoma
+COHORT B OVERVIEW: patients 60 or older with untreated classical Hodgkin lymphoma (regardless of stage) will be eligible for cohort B
+Histologic diagnosis of classical Hodgkin lymphoma
+Patients undergoing their first T-cell replete allogenic (allo)-HCT for CLL, MCL, follicular lymphoma (FL), Hodgkin disease (HD)
+Diagnosis of B cell non-Hodgkin lymphoma confirmed by World Health Organization (WHO) criteria
+Participants must have histologically or cytologically confirmed multiple myeloma, or non-Hodgkin lymphoma and must be undergoing melphalan conditioning for autologous HSCT
+Previously untreated stage IA, IB, IIA or IIB classical Hodgkin lymphoma
+Large-cell lymphoma, Hodgkin lymphoma and multiple myeloma with chemotherapy sensitive disease that has failed or patients who are ineligible for an autologous transplant
+Hodgkin lymphoma beyond CR1 with chemosensitive disease, stable disease (SD) may be included if no mass > 3 cm
+Hodgkin and non-Hodgkin lymphoma: must have a complete or partial response with prior therapy
+Diagnosis of recurrent Hodgkin's lymphoma (HL) with a treatment plan that will include high dose chemotherapy with/without total body irradiation and autologous cell transplantation
+Aggressive non-Hodgkin lymphomas (NHL) and other histologies such as diffuse large B-cell NHL – not eligible for autologous HCT, not eligible for high-dose allogeneic HCT, or after failed autologous HCT
+Hodgkin lymphoma – must have received and failed frontline therapy
+Large-cell lymphoma, Hodgkin lymphoma and multiple myeloma with chemotherapy sensitive disease that has failed or patients who are ineligible for an autologous transplant
+Any malignancy metastatic to other organ, excluding Hodgkin’s or non-Hodgkin's lymphoma
+Lymphoma (including Hodgkin's)
+History of histologically confirmed non-Hodgkin lymphoma (NHL) as assessed per medical record review
+Clinically stable patients undergoing I-131 tositumomab (Bexxar) or Y-90 ibritumomab tiuxetan (Zevalin) for treatment of non-Hodgkin lymphoma
+Previously untreated stage I or II non-bulky (defined as a mass measuring < 10 cm in the longest dimension by CT) Hodgkin lymphoma
+Patients must have relapsed/refractory disease, with at least one line of prior chemotherapy, but =< 2 prior lines of treatment, for Hodgkin lymphoma; NOTE: patients must not have had prior immune checkpoint inhibitors; however, there are no other limitations to prior agent or regimen types
+EBV-positive or KSHV-associated malignancy, including but not limited to:\r\n* EBV+ Hodgkin lymphoma\r\n* EBV+ non-Hodgkin lymphoma or lymphoproliferative disease\r\n* Primary effusion lymphoma\r\n* Kaposi's sarcoma\r\n* EBV+ gastric cancer\r\n* EBV+ nasopharyngeal cancer
+Diagnosis of leukemia, non-Hodgkin's lymphoma, Hodgkin's disease, or other hematologic malignancy.
+Key Inclusion Criteria [(Non-Hodgkin Lymphoma (NHL) and Hodgkin Lymphoma (HL)]:\n\n          1. Have documented CD20+ B-cell NHL or documented HL, with active disease that is either\n             not responsive to or relapsed after prior therapy, for whom no standard of care\n             options exists.\n\n          2. Must have at least 1 bi-dimensionally measurable lesion (?1.5 cm) documented by\n             diagnostic imaging (CT, PET-CT or MRI).\n\n          3. Eastern Cooperative Oncology Group (ECOG) performance status ?1\n\n          4. Life expectancy of at least 6 months\n\n          5. Adequate bone marrow function\n\n          6. Adequate organ function\n\n          7. Willing and able to comply with clinic visits and study-related procedures\n\n          8. Provide signed informed consent\n\n        Key Exclusion Criteria (NHL and HL):\n\n          1. Primary central nervous system (CNS) lymphoma, or known or suspected CNS involvement\n             by nonprimary CNS NHL\n\n          2. History of or current relevant CNS pathology\n\n          3. Ongoing or recent (within 2 years) evidence of significant autoimmune disease that\n             required treatment with systemic immunosuppressive treatments, which may suggest risk\n             for iAEs\n\n          4. Prior allogeneic stem cell transplantation\n\n          5. Prior treatment with an agent that blocks the programmed death-1/ programmed\n             death-ligand 1 (PD-1/PD-L1 pathway), unless benefit was demonstrated\n\n          6. Uncontrolled infection with human immunodeficiency virus (HIV), hepatitis B or\n             hepatitis C infection or other uncontrolled infection\n\n          7. History of hypersensitivity to any compound in the tetracycline antibiotics group\n\n          8. Known hypersensitivity to both allopurinol and rasburicase\n\n          9. Pregnant or breastfeeding women\n\n         10. Continued sexual activity in men or women of childbearing potential who are unwilling\n             to practice adequate contraception during the study\n\n         11. Prior treatment with idelalisib

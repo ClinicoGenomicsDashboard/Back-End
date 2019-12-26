@@ -1,0 +1,34 @@
+Patients must not be receiving or planning to receive trastuzumab; concurrent bisphosphonate therapy is allowed; patients must not have prior exposure to mechanistic target of rapamycin (serine/threonine kinase) (mTOR) inhibitors (rapamycin, everolimus, temsirolimus, deforolimus); patients must not have prior treatment with any investigational drug within the preceding 28 days and must not be planning to receive any other investigational drug for the duration of the study
+Patients who have previously received temsirolimus, another mTOR inhibitor, or any other investigational agent
+Patients who are receiving any other anticancer or investigational or/and anti-neoplastic therapies, including chemotherapy, immunotherapy, target therapy, biological response modifiers\r\n* Previous treatment with CDK4/6 inhibitors (such as PD-0332991, abemaciclib) and/or mTOR inhibitors (such as sirolimus, temsirolimus or everolimus)\r\n* Patients who are currently receiving treatment with agents that are known to cause corrected QT (QTc) prolongation or induce Torsades de Pointes\r\n* Known need for major surgery within 14 days of the first dose of ribociclib and everolimus; please note: gastrostomy, insertion of a gastrostomy (G) tube, ventriculo-peritoneal shunt, endoscopic ventriculostomy and central venous access are NOT considered major surgery
+Patients who have received prior treatment with an mTOR inhibitor (sirolimus, temsirolimus, everolimus)
+Prior treatment with mTOR or TORC1/2 inhibitors (eg, rapamycin, temsirolimus, everolimus, deferolimus) is NOT allowed
+Prior treatment with an mTOR inhibitor (including, but not limited to, everolimus, temsirolimus, sirolimus, and ridaforolimus)
+Prior treatment with an mTOR inhibitor (sirolimus, temsirolimus, everolimus)
+Patients who have been previously treated with mTOR inhibitors such as everolimus and temsirolimus, or with c-MET inhibitors such as cabozantinib
+Patients can have had prior treatment for RCC including prior surgery, radiation therapy, immunotherapy with interleukin (IL)-2 or interferon (but not anti-programmed cell death [PD]1 or anti-cytotoxic T-lymphocyte-associated protein 4 [CTLA-4]), target therapy with receptor tyrosine kinase (RTK) inhibitors/mammalian target of rapamycin (mTOR) inhibitors, such as sunitinib, sorafenib, pazopanib, axitinib, everolimus, and temsirolimus (but not bevacizumab) or chemotherapy
+Patients who have received prior treatment with an mTOR inhibitor (sirolimus, temsirolimus, everolimus)
+TREATMENT: Patients who have received prior everolimus or other mechanistic target of rapamycin (mTOR) inhibitors or those with known intolerance or hypersensitivity to other rapamycin analogs (e.g., sirolimus, temsirolimus) would not be eligible to receive everolimus on study; if these patients have mutations of interest in pathways other than the phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha (pI3K) pathway, they will be eligible to receive agents based on that mutation
+DOSE ESCALATION COHORT: Subjects who have received sirolimus, everolimus, temsirolimus, or any other agent for current malignancy that theoretically targets PI3K, AKT and / or mTOR
+DOSE EXPANSION COHORT: Subjects who have received sirolimus, everolimus, temsirolimus, or any other agent for current malignancy that theoretically targets PI3K, AKT and / or mTOR
+Prior treatment with everolimus other than in combination with hormonal therapy for treatment of breast cancer or prior treatment with another mammalian target of rapamycin (mTOR) inhibitor (sirolimus, temsirolimus) for any indication
+Prior treatment with an mammalian target of rapamycin (MTOR) inhibitor (including everolimus, sirolimus, temsirolimus)
+Patients who have received prior treatment with a known mammalian target of rapamycin (mTOR) inhibitor (sirolimus, temsirolimus, everolimus)
+Patients who have received prior treatment with an mammalian target of rapamycin (mTOR) inhibitor (e.g., sirolimus, temsirolimus, everolimus)
+For RCC, prior treatment with everolimus or temsirolimus
+Prior treatment with mTOR inhibitors (everolimus or temsirolimus) or CB-839
+Patients who have prior therapy with everolimus or any other mammalian target of rapamycin (mTOR) inhibitor
+Patients who have received prior treatment with an mTOR inhibitor (e.g., sirolimus, temsirolimus, everolimus).
+Patients must not have prior exposure to mammalian target of rapamycin (mTOR) inhibitors (e.g. rapamycin, everolimus, sirolimus, temsirolimus, deforolimus)
+Prior therapy with mTOR inhibitors, including sirolimus, temsirolimus, deforolimus within 6 months prior to enrollment
+Patients who have received prior treatment with a mammalian target of rapamycin (mTOR) inhibitor (e.g., sirolimus, temsirolimus, everolimus)
+Patients who have received prior treatment with an mTOR inhibitor (sirolimus, temsirolimus, everolimus)
+Prior therapy with mammalian target of rapamycin (mTOR) inhibitors (e.g. sirolimus, temsirolimus)
+Patients who have received prior systemic therapy for their RCC with vascular endothelial growth factor (VEGF) pathway inhibitor (such as sunitinib, sorafenib, and bevacizumab) or with mammalian target of rapamycin (mTOR) inhibitors (such as sirolimus, temsirolimus, everolimus, or deforolimus)
+Patients who have received prior treatment with an mTOR inhibitor (e.g., sirolimus, temsirolimus, everolimus); patients who have received prior treatment with Navelbine within prior 12 months
+Had any prior treatment with temsirolimus or mTOR inhibitor.
+Previously received rapamycin or rapamycin analogs, including ridaforolimus, temsirolimus, or everolimus
+Patients who have received prior treatment with an mTOR inhibitor (e.g. sirolimus, temsirolimus, everolimus)
+Patients who have received prior treatment with an mTOR inhibitor (sirolimus, temsirolimus, everolimus)
+Patients who have received prior treatment with an mammalian target of rapamycin (mTOR) inhibitor (e.g., sirolimus, temsirolimus, everolimus)
+Prior treatment with everolimus or another mammalian target of rapamycin (mTOR) inhibitor (temsirolimus)

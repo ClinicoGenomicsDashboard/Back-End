@@ -1,0 +1,4 @@
+Cluster 1087: postmenopausal women status defined menstrual patient premenopausal female months year 
+Cluster 1332: menses year postmenopausal defined screening spontaneous prior post menopausal estradiol 
+Cluster 1834: visit screening postmenopausal year months investigational prior weeks subjects days 
+Cluster 2443: hrt cessation menopausal estradiol female hormone fsh year value experienced 

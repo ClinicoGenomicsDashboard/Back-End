@@ -1,0 +1,5 @@
+Cluster 224: contraindications mri medical patients metallic nrt known claustrophobia use pancreatectomy 
+Cluster 495: clips metal aneurysm mri implants pacemakers metallic devices objects ferromagnetic 
+Cluster 1149: injectables combined implants contraceptives devices partner iuds intrauterine condoms oral 
+Cluster 1380: implanted devices electronic device pacemakers pacemaker defibrillators defibrillator stimulator brain 
+Cluster 1850: implants breast metal metallic bilateral patients mri contraindicated reconstruction women 

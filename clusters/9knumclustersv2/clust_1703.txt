@@ -1,0 +1,35 @@
+Hemoglobin ? g/L
+Hemoglobin >= 
+Hemoglobin < g/L
+Hemoglobin ?  g/L.
+Hemoglobin >= 
+Hemoglobin >=  g/L
+Hemoglobin >= 
+Hemoglobin >=  prior to biopsy
+Hemoglobin >=  g/L
+Hemoglobin <  g/L
+Hemoglobin > .
+Hemoglobin <  g/L
+Hemoglobin >=  g/L, at screening
+Anemia: normochromic, normocytic with a hemoglobin value of > g/ ml below the lower limit of normal or a hemoglobin value < g/ ml
+Hemoglobin >=  g/L
+Hemoglobin >=  g/L
+Hemoglobin =< 
+Hemoglobin >= . g/L
+B-Hemoglobin ? g/L
+Hemoglobin > .
+Anemia: hemoglobin value of >  g/L below the lower limit of normal, or a hemoglobin value <  g/L
+Patients with a hemoglobin of less than %
+Hemoglobin >=  prior to biopsy
+DONOR: Presence of sickle hemoglobin as demonstrated by appropriate testing such as hemoglobin electrophoresis
+Hemoglobin of 
+Hemoglobin ? 
+Hemoglobin >= 
+Hemoglobin >= 
+Hemoglobin >=  g/L
+Hemoglobin >  g/L within  week of enrollment in the study
+Hemoglobin ?  g/L
+Hemoglobin ?  g/L
+Hemoglobin >=  g/L
+Hemoglobin >=  g/L
+Hemoglobin >  g/L

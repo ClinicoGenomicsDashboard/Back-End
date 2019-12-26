@@ -1,0 +1,7 @@
+Cluster 462: count platelet hemoglobin neutrophil absolute dl anc function marrow bone 
+Cluster 1228: marrow bone involvement count neutrophil absolute anc unless platelet cytopenias 
+Cluster 1337: anc neutrophil absolute count ml platelet liter csf greater platelets 
+Cluster 1827: microliter count neutrophil absolute platelet anc mcl leukocyte equal randomization 
+Cluster 2018: filgrastim support neutrophil absolute mm count greater anc equal gcsf 
+Cluster 2048: equal greater neutrophil absolute count anc mm mcl ul creatinine 
+Cluster 2239: microl count absolute equal neutrophil greater platelets platelet registration anc 

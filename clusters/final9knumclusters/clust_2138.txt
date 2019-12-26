@@ -1,0 +1,200 @@
+Measurable or non-measurable (evaluable) tumor parameter(s); non-measurable tumor parameters will be defined as not having bi-dimensional measurements (i.e., gastric or marrow involvement) but can be followed for response by other diagnostic tests such as gallium, PET imaging and/or bone marrow biopsy
+Imaging investigations including CT/MRI of chest/abdomen/pelvis or other scans as necessary to document all sites of disease performed within 21 days prior to randomization. Patients with either measurable disease or non-measurable evaluable disease are eligible.
+Measurable disease (defined by RECIST v. 1.1) or evaluable disease (defined as solid and/or cystic abnormalities on radiographic imaging that do not meet RECIST 1.1 definitions for target lesions OR ascites and/or pleural effusion that has been pathologically demonstrated to be disease related in the setting of cancer antigen [CA]25 >= 2 x upper limit of normal [ULN])
+COHORT A: Patients must have histologically or cytologically confirmed primary desmoplastic melanoma that is deemed resectable; the decision to perform surgery on patients must be based on good clinical judgment; eligible patients for surgical resection must have disease that, in the judgment of the surgeon, is deemed completely resectable resulting in free surgical margins; patients must have residual disease after initial biopsy which can be measurable or non-measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1; residual disease can either be confirmed with fine-needle aspiration (FNA) or if measurable disease is present, no FNA needs to be obtained OR
+Measurable disease and/or non-measurable disease\r\n* Measurable disease, defined as bidimensionally measurable lesions with clearly defined margins by magnetic resonance imaging (MRI) scans, with a minimum diameter of 10 mm in both dimensions\r\n* Progressive disease required in cohort B, defined as any progressive measurable disease after surgery and radiation; progressive or recurrent disease is not required in cohort A, but is allowed provided it is a new diagnosis and patient has not received prior treatment
+For patients enrolled in the Dose Escalation Phase, one or more tumors measurable on radiograph or CT scan, or evaluable disease defined as non-measurable lesions per RECIST v. 1.1 (e.g., malignant ascites). All patients enrolled to the Randomized Study Phase must have measurable disease only.
+Patients may have measurable disease only, non-measurable disease only, or both (Response Evaluation Criteria in Solid Tumors [RECIST] 1.1); concomitant treatment with bone-targeted therapies such as RANKL inhibitors or bisphosphonates is allowed; it is anticipated that most patients will have measurable disease, given the behavior of HER2+ metastatic breast cancer
+Relapsed patients must have measurable disease; patients without measurable disease may be considered after discussion with principal investigator
+Measurable disease, defined as any quantifiable monoclonal protein value
+Progressive OR residual disease, as defined by the following:\r\n* Progressive disease, as defined as an increase in size of the measurable primary lesion on imaging by greater than 25% (bidirectional area); the change must occur between scans separated by no more than 24 months\r\n* Residual measurable disease: for grade II or III meningioma, residual measurable disease immediately after surgery without requirement for progression; residual measurable disease will be defined by measurable lesions with clearly defined margins by MRI scans, with a minimum diameter of 10 mm in one dimension\r\n* Post radiation patients: patients with measurable and progressive meningioma who have received radiation are potentially eligible, but need to show evidence of progressive disease in the radiated field after completion of radiation; >= 24 weeks must have elapsed from completion of radiation to registration; patients that have progressive disease outside of the radiation field do not need to wait 24 weeks from completion of radiation
+Measurable disease: measurable disease is defined by a main lesion measurable on MRI or computed tomography (CT) images (MRI preferred) with clearly defined margins and >= 10 mm in one dimension; multifocal disease is allowed as long as one lesion meets criteria for measurable disease and progressive disease
+Measurable disease defined by laboratory test results
+Measurable disease defined as any of the following:
+Patients must have active, measurable disease to be included in the study
+Radiologically measurable disease
+Subjects must have radiographically measurable disease at the time of study enrollment to be eligible; patients with neuroblastoma who do not have measurable disease but have metaiodobenzylguanidine (MIBG)+ evaluable disease are eligible; measurable disease in patients with CNS involvement is defined as tumor that is measurable in two perpendicular diameters on magnetic resonance imaging (MRI) and visible on more than one slice
+Measurable disease or non-measurable disease; for patients with non-measureable disease, they must also have a cancer antigen (CA)-125 measurement of > 35 U/mL or 2 X their documented nadir on 2 separate measurements 1 week apart
+Patients must have measurable residual disease, defined as tumor that is measurable in two diameters on magnetic resonance imaging (MRI); diffuse leptomeningeal disease is not considered measurable
+Measurable, secretory disease as defined by any of the following:
+Evaluable disease; either measurable on imaging or with informative tumor marker.
+Measurable disease by breast ultrasound and MRI
+During dose escalation only, participants not meeting the above criteria for measurable disease should, at least, have measurable bone marrow plasmacytosis (greater than or equal to [>=] 10 percent [%]) and/or plasmacytoma (>=1 centimeter [cm] in diameter) detected by physical examination or imaging.
+For B-cell NHL subjects, measurable disease by imaging scan.
+Participants must have measurable disease in at least one dimension of at least 10 mm in diameter or thickness, according to modified RECIST for pleural malignant mesothelioma; bone metastases are not considered measurable; prior radiation to the only site of measurable disease will make the participant ineligible unless the lesion has been demonstrated to grow after completion of radiation therapy
+Disease must be measurable according to the corresponding guidelines
+Patients with neuroblastoma who do not have measurable disease but have iodine-131 - meta-iodobenzylguanidine positive (MIBG+) evaluable disease are eligible.
+Radiologically-measurable disease
+Subjects must have measurable disease defined as at least 1 of the following:
+Approximately 60 out of 80 patients with mCRPC enrolled must have measurable disease (approximately 30 out of 40 in each of the mCRPC Cohorts) that is suitable for repeated measurements. Enrollment will be monitored to ensure the required number of patients with measurable disease enter the study.
+measurable disease based on central protein assessment
+Radiologically or visually measurable recurrent or metastatic disease that is measurable and at least 10mm in longest dimension.
+All subjects must have measurable disease in 2-dimensions on MRI scan of the brain; disease should be consistently measured with the two largest perpendicular dimensions
+Patients who have measurable disease after diagnostic biopsy
+Measurable disease (according to RANO guidelines)
+Patients must have measurable disease defined by at least 1 of the following 3 measurements:
+Measurable disease defined as any of the following:
+STRATUM A: Evaluable disease, as defined as meeting any of the following:\r\n* Patients who have measurable disease \r\n* Patients with radiologically discernible but non-measurable lesions (i.e. leptomeningeal disease)\r\n* Patients with cerebrospinal fluid (CSF) positive disease
+STRATUM B: Evaluable disease, as defined as meeting any of the following:\r\n* Patients who have measurable disease \r\n* Patients with radiologically discernible but non-measurable lesions (i.e. leptomeningeal disease)\r\n* Patients with CSF positive disease
+STRATUM C: Evaluable disease, as defined as meeting any of the following:\r\n* Patients who have measurable disease \r\n* Patients with radiologically discernible but non-measurable lesions (i.e. leptomeningeal disease)\r\n* Patients with CSF positive disease
+Has measurable disease per investigator assessment
+Patients must have measurable or evaluable disease for the dose escalation portion of the study and measurable disease for the expanded cohort portion of the study (except for patients in the CNS metastases and leptomeningeal cohorts).
+N0 M0 disease
+Patients must have measurable disease per irRECIST criteria for part 2 (dose expansion)
+Measurable disease that can be accurately measured in at least one dimension as ? 2.0 cm with CT, ultrasound, or MRI techniques; extranodal disease that is measurable by FDG-PET imaging only will also be allowed; Note that if an excisional biopsy was performed that removed the sole site of measurable disease, the patient will not be eligible for leukapheresis and generation of CAR T cell product; measurable disease can be based on the imaging study done during the screening unless the patient received treatment in the interim, in which case imaging should be repeated
+Measurable disease at Screening as defined by any of the following:
+Subject has measurable disease defined as a tumor that is measurable in 2 perpendicular diameters on MRI. For a lesion to be considered measurable, it must be at least twice the slice thickness on MRI (ie, visible on 2 or more axial slices)
+Have measurable disease based on irRECIST
+Measurable disease by irRECIST
+Measurable disease according to the Lugano classification
+For dose escalation phase, patients may have evaluable or measurable disease. For ovarian cancer, if no measurable disease is present, patients should have assessable disease such as pleural effusion, ascites, with CA-125 Gynecological Cancer Intergroup (GCIG) criteria
+Must have measurable disease defined by at least 1 of the following 3 measurements:
+Patients must have at least one focus of measurable metastatic disease
+Measurable metastatic disease that is refractory
+Measurable disease (> 10 mm) and have progression of disease based on RECIST criteria; previously irradiated tumor lesions are not considered measurable unless they have progressed since radiation
+Must have measurable or evaluable disease during the dose escalation phase (measurable disease is preferred for the expanded cohort after MTD is reached).
+Patients may have either measurable or non-measurable within 30 of days of registration; (lesions treated with radiation therapy must not be used as a target lesion); (Note: per Response Evaluation Criteria in Solid Tumors [RECIST] criteria version [v.] 1.1, measurable disease is defined as at least one lesion that can be accurately measured in at least one dimension; non-measurable disease is defined as all other lesions, including small lesions [longest diameter < 10 mm or pathological lymph nodes with P10 to < 15 mm short axis] as well as truly non-measurable lesions; lesions considered truly non-measurable include: leptomeningeal disease, ascites, pleural or pericardial effusion, and inflammatory breast disease, lymphangitic involvement of skin or lung, abdominal masses/abdominal organomegaly identified by physical exam that is not measurable by reproducible imaging techniques)
+Previous diagnosis of MM with objective evidence of measurable disease
+Have evidence of measurable or unmeasurable disease
+Must have measurable disease as defined by irRECIST
+Measurable disease is not required\r\n* Patients who have measurable disease must have had X-rays, scans or physical examinations used for tumor measurement completed within 28 days prior to initial administration of drug\r\n* Patients must have non-measurable disease (such as nuclear medicine bone scans) and non-target lesions (such as PSA level) assessed within 28 days prior to initial administration of drug\r\n* Soft tissue disease that has been radiated within two months prior to registration is not assessable as measurable disease; soft tissue disease that has been radiated two or more months prior to registration is assessable as measurable disease provided that the lesion has progressed following radiation; patients must have at least one measurable lesion outside the previously irradiated region in order to be considered to have measurable disease\r\n* If PSA is the only indicator of disease and patients do not have any metastatic disease, PSA value must be 5.0 or higher
+Patients must have measurable disease; linear enhancement of leptomeningeal without measurable mass is excluded
+Measurable disease is not required\r\n* Patients who have measurable disease must have had X-rays, scans or physical examinations used for tumor measurement completed within 28 days prior to initial administration of drug\r\n* Patients must have non-measurable disease (such as nuclear medicine bone scans) and non-target lesions (such as PSA level) assessed within 28 days prior to initial administration of drug\r\n* Soft tissue disease that has been radiated within two months prior to registration is not assessable as measurable disease; soft tissue disease that has been radiated two or more months prior to registration is assessable as measurable disease provided that the lesion has progressed following radiation; as the biology of previously irradiated tumors may be different from non-irradiated tumors, patients must have at least one measurable lesion outside the previously irradiated region in order to be considered to have measurable disease\r\n* If PSA is the only indicator of disease and patients do not have any metastatic disease, PSA value must be 5.0 or higher
+INCLUSION CRITERIA FOR TNBC: Patients must have measurable disease by at least one of the criteria below:\r\n* Extra skeletal disease that can be accurately measured in at least one dimension as >= 10 mm with conventional CT techniques as defined by RECIST 1.1\r\n* Skeletal or bone-only disease measurable by FDG PET imaging
+All patients must have measurable disease and tumors of sufficient sizes for biopsy; in general, liver and lung lesions should be at least 1.0 cm, and patients with lymph node-only disease should have lesions of >= 1.5 cm in shortest dimension; patients with disease confined to bone may be eligible if a measurable lytic defect is present; the study principal investigator (PI) is the final arbiter in questions related to measurability; patients with a three-dimensional mass or pelvic sidewall fixation on bladder examination under anesthesia are considered to have measurable disease
+PHASE II:\r\n* Patients without measurable disease by imaging\r\n* Patients with persistent platinum-refractory disease after primary therapy
+Measurable disease by RECIST criteria\r\n* For the lead-in, non-randomized portion of Part I, either measurable or evaluable disease is acceptable\r\n* For Part I, randomized portion, measurable disease is required
+Solid tumors must have measurable disease (Recommended Phase 2 Dose Cohort patients with non-measurable disease may enter on a case-by-case basis); not required for DDI sub-studies.
+Confirmed measurable MM based on the following:
+All patients must have measurable or evaluable disease; in general, liver and lung lesions should be at least 1 cm, and patients with node-only disease should have lesions of >= 1.5 cm in greatest dimension; patients with disease confined to bone may be eligible if a measurable lytic defect is present or a serum marker is elevated (> 4 x upper limit of normal [ULN]); the principal investigator is the final arbiter in questions related to measurability; patients with a three-dimensional mass or pelvic sidewall fixation on bladder examination under anesthesia are considered to have measurable disease
+Patients must have measurable residual disease, defined as tumor that is measurable in two or three perpendicular diameters on MRI; for a lesion to be considered measurable, it must be at least twice the slice thickness on MRI (i.e visible on more than one slice)
+Soft tissue disease that has been radiated within the two months prior to registration is not assessable as measurable disease; soft tissue disease that has been radiated two or more months prior to registration is assessable as measurable disease provided that the lesion has progressed following radiation; patients must have at least one measurable lesion outside the previously irradiated region in order to be considered to have measurable disease
+Patients enrolled in the main branch should have measurable disease; patients with a predominance of bone disease who have small, non-measurable or small measurable lesions other than bone, may be included per the principal investigator’s discretion, in the exploratory branch of the study for patients with bone metastases only
+Subject does not have measurable disease
+Participants do not need to have measurable disease at the time of radiation
+Measurable disease by exam or CT scan, or for patients with cancer antigen (CA)-125 elevation or with microscopic residual but without measurable disease on imaging, willingness to undergo laparoscopy for evaluation of treatment effect if no radiographic progression after 6 treatment cycles
+Patients must have measurable disease per RECIST criteria 1.1 performed within 28 days prior to enrollment. All other required tests to assess non-measurable disease must be performed within 42 days prior to enrollment.
+Radiologically measurable disease
+Patients do not need to have measurable disease at time of enrollment; patients with measurable disease must have stable disease by RECIST criteria on two scans at least 6 weeks apart
+Have measurable disease. Patients must have clinically and/or radiographically documented measurable primary disease according to RECIST 1.1. At least one site of disease must be unidimensionally measurable. All radiology scans must be performed within 28 days prior to registration
+Clinically or radiographically evident structural disease; patients with measurable disease and those with only non-measurable (“non-target”) structural disease (according to modified Response Evaluation Criteria in Solid Tumors [RECIST] version [v] 1.1 criteria) are eligible;\r\nNOTE 1: Modification of the RECIST v1.1 measurable disease criteria includes a change in the definition of what is considered a measurable malignant lymph node; a malignant lymph node is considered measurable if any of the following apply:\r\n* It is noted to be RAI-avid on radioactive iodine imaging (diagnostic or post-therapy whole body scans acceptable) and it measures >= 1 cm in the long axis,\r\n* It is pathologically proven to be involved with thyroid cancer (by cytology or pathology) and it measures >= 1 cm in the long axis, or\r\n* Its short axis is >= 1.5 cm when assessed by computed tomography (CT) scan\r\nNOTE 2: Patients only with biochemical evidence of disease without structural evidence of cancer are not eligible for this study
+Patients with tumors other than DSRCT without measurable or evaluable disease will only be considered if they have < 20% chance of long term disease-free survival
+Measurable or evaluable disease: measurable disease in 2 dimensions on imaging studies performed within 4 weeks of starting treatment
+Have measurable disease by at least 1 of the following measurements:
+Patients must have measurable disease (using modified Severity-Weighted Assessment Tool [mSWAT]) and/or use of indicator lesions must be designated prior to study enrollment (from imaging); measurable disease upon physical exam with a negative scan is acceptable
+Patient with measurable progressive disease defined by at least one of the following two measurements:
+One or more tumors measurable on radiograph or CT scan, or evaluable disease defined as non-measurable lesions per RECIST or detection of protein M in serum and/or urine of patients with Multiple Myeloma (serum ? 10 gm/L and urine ? 200 mg/24 hr).
+Measurable disease at screening as defined per protocol.
+Presence of measurable disease as defined by: presence of immunoglobulin M (IgM) paraprotein, measurable lymphadenopathy on imaging studies and/or physical exam, and/or bone marrow infiltration > 10%
+Measurable disease per modified Severity Weighted Assessment and/or Sezary count
+Measurable disease is not required for enrollment
+Measurable disease is not required:\r\n* Patients who have measurable disease must have had X-rays, computed tomography (CT) scans or physical examinations used for tumor measurement completed within 28 days prior to initial administration of drug\r\n* Patients must have non-measurable disease (such as nuclear medicine bone scans) and non-target lesions (such as PSA level) assessed within 28 days prior to initial administration of drug\r\n* Soft tissue disease that has been radiated within two months prior to registration is not assessable as measurable disease; soft tissue disease that has been radiated two or more months prior to registration is assessable as measurable disease provided that the lesion has progressed following radiation; as the biology of previously irradiated tumors may be different from non-irradiated tumors, patients must have at least one measurable lesion outside the previously irradiated region in order to be considered to have measurable disease\r\n* If PSA is the only indicator of disease without any evidence of metastasis, PSA value must be 5.0 or higher
+Have measurable disease based on irRECIST 1.1
+Documentation of disease:\r\n* Histologic documentation: histologically proven intracranial meningioma as documented by central pathology review\r\n* Molecular documentation: presence of SMO, PTCH1 or NF2 mutation in tumor sample as documented by central laboratory\r\n* Progressive OR residual disease, as defined by the following: \r\n** Residual measurable disease: residual measurable disease immediately after surgery without requirement for progression; for grade I disease, progression pre-operatively needs to be documented, with an increase in size of the measurable primary lesion on imaging by 25% or more (bidirectional area); the change must occur between scans separated by no more than 12 months; residual measurable disease will be defined by bidimensionally measurable lesions with clearly defined margins by MRI scans, with a minimum diameter of 10 mm in both dimensions\r\n** Progressive measurable disease: progression defined as an increase in size of the measurable primary lesion on imaging by 25% or more (bidirectional area); the change must occur between scans separated by no more than 12 months\r\n** Post radiation patients: patients with measurable and progressive meningioma who have received radiation are potentially eligible, but need to show evidence of progressive disease after completion of radiation; at least 24 weeks must have elapsed from completion of radiation to registration
+Measurable disease: measurable disease is defined by a bidimensionally measurable main lesion on MRI or computed tomography (CT) images (MRI preferred) with clearly defined margins; multifocal disease is allowed
+Measurable disease defined by 1 or more of the following:
+Phase III study: evaluable disease - defined as RECIST 1.1 measurable disease OR non-measurable disease (defined as solid and/or cystic abnormalities on radiographic imaging that do not meet RECIST 1.1 definitions for target lesions OR ascites and/or pleural effusion that has been pathologically demonstrated to be disease-related in the setting of a cancer antigen [CA]125 >= 2 x upper limit of normal [ULN])
+Patients must have measurable disease in the serum and/or urine
+Participants may have either measurable or non-measurable disease, but in all cases eligible patients must have disease that can be clinically evaluated for improvement or progression
+Have measurable disease evident on radiographs (preferred) or clinical examination; for this protocol, measurable disease is defined as at least one evaluable tumor that is at least 10 mm in longest dimension
+Patients must have measurable disease; cutaneous lesions measuring at least 1 cm will be considered measurable; baseline CT or magnetic resonance imaging (MRI) scans of measurable disease sites must be performed within 4 weeks of study entry
+Measurable disease must be present either on physical examination or imaging studies; non-measurable disease alone is not acceptable; any tumor mass > 1 cm is acceptable; lesions that are considered non-measurable include the following:\r\n* Bone lesions\r\n* Leptomeningeal disease\r\n* Ascites\r\n* Pleural/pericardial effusion\r\n* Inflammatory breast disease\r\n* Lymphangitis cutis/pulmonis\r\n* Bone marrow involvement (involvement by non-Hodgkin lymphoma should be noted)
+Patients must have clear residual disease, defined as tumor that is measurable in two perpendicular diameters on magnetic resonance imaging (MRI) OR diffuse leptomeningeal disease OR clear MRI evidence of disease that may not be measurable in two perpendicular diameters
+Measurable or non-measurable tumor parameter(s); non-measurable tumor parameters are defined as not having bidimensional measurements (e.g., gastric or marrow involvement), but can be followed for response by other diagnostic tests such as gallium, positron emission tomography (PET) imaging, and/or bone marrow biopsy
+Participants with measurable disease or non-measurable disease are eligible. Participants may or may not have cancer-related symptoms.
+Soft tissue disease progression defined by RECIST 1.1 at Screening or ? 28 days of C1D1. Measurable disease is not required for entry. Lymph nodes ? 1.5cm (short axis) are considered measurable disease (PCWG3)
+Only evidence of disease is non measurable at study entry.
+Presence of measurable disease by RECIST v1.1 for solid tumors or Cheson criteria for B cell NHL (including DLBCL) or HL. For subjects with glioblastoma, presence of measurable disease is not required.
+Measurable disease of MM as defined by at least ONE of the following:
+Patients with measurable disease defined as at least one of the following:
+measurable lymphadenopathy
+The extramedullary plasmacytoma (EMP) sub-group, must have radiologically measurable EMP disease (soft tissue or bone related) that is amenable to biopsy and does not need to have measurable disease.
+Patients with a history of measurable disease as defined by RECIST criteria or bone only disease are eligible; Note: those patients with non-measurable disease and bone metastases are eligible
+For Parts B, C, D, E and F: Have measurable disease or reliable biomarker measure.
+Patients must be at least 3 weeks from prior thoracotomy (if performed); if prior thoracotomy then measurable disease on imaging must be present
+Measurable disease, as defined by the 2014 Lugano Classification.
+Measurable disease defined by at least ONE of the following:
+Subject should have stable disease for at least 6 months on the current regimen with the last 2 scans taken at least 6 weeks apart; measurable disease is not required
+Patients may have either measurable or non-measurable disease, but in all cases eligible patients must have disease that can be clinically evaluated for improvement or progression
+Patients must have measurable disease; disease in previously irradiated sites is considered measurable if there is clear disease progression following radiation therapy
+Patient has measurable disease defined as any of the following:
+For MM, Diffuse large B-cell lymphoma (DLBCL): Subjects must have disease that is objectively measurable, measurable levels of myeloma paraprotein in serum (> 0.5 g/dL) or urine (> 0.2 g excreted in a 24-hour collection sample) for MM and measurable disease by Internatonal Working Group (IWG) for NHL (with at least one measurable lesion's longest diameter ? 2cm).
+Previous exposure to murine CA-125 antibody (only applicable to those patients with non-measurable disease by RECIST)
+Measurable disease, as defined by the International Harmonization Project
+Patient must have either measurable disease or If no measurable disease is present, then at least one predominantly lytic bone lesion
+Have either measurable disease or nonmeasurable bone-only disease
+Measurable disease defined as one or both of the following
+Bidimensional measurable disease
+Patients must have at least one objective measurable disease parameter; baseline measurements and evaluations must be obtained within 4 weeks of registration to the study; abnormal PET scans will not constitute evaluable disease, unless verified by CT scan or other appropriate imaging; measurable disease in the liver is required if the liver is the only site of lymphoma; if the only radiographically assessable disease is splenomegaly (without discrete measurable nodules), the patient can be enrolled, but for such patients CR cannot be differentiated from PR, while the spleen will be considered nodal with respect to criteria for progressive disease (PD)
+Disease and disease status:
+Subjects may have measurable or non measurable but evaluable disease; subjects with surgically resected locally advanced or metastatic disease at high risk of relapse are also eligible
+Progressive metastatic disease defined by one of the following, occurring within 6 months of study entry:\r\n* At least a 20% increase in radiologically or clinically measurable disease\r\n* Appearance of any new lesion\r\n* Symptomatic disease (including worsening hormonal symptoms or symptoms related to tumor burden)
+Prior chemoembolization, radiofrequency ablation, or radiation to the liver is allowed as long as the patient has measurable disease outside of the treated area or measurable progression at the site of the treated area
+Measurable disease with greatest diameter ? 10 mm
+Have measurable disease based on irRECIST (Safety expansion only)
+Measurable disease defined as serum monoclonal IgM >0.5 g/dL.
+Have either measurable disease or nonmeasurable bone only disease
+Patients must have measurable or evaluable disease (subjects with elevation of tumor marker with no evidence of disease on imaging or exam are not eligible)
+Patients must have at least 1 measurable tumor
+Measurable disease as indicated by 1 or more of the following:
+All patients must have measurable residual disease defined as tumor measurable in two perpendicular diameters on magnetic resonance imaging (MRI); measurements are required for both the solid and cystic components
+Measurable disease is required unless patient is post-operative and in that case patient can have no evidence of disease
+Must have had measurable disease, defined by at least 1 of the following 3 measurements:
+Measurable disease is required; measurable disease is defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded) as >= 20 mm with conventional techniques or as >= 10 mm with spiral computed tomography (CT) scan; bone lesions, leptomeningeal disease, ascites, pleural/pericardial effusions, lymphangitis cutis/pulmonis, inflammatory breast disease, abdominal masses identified by physical exam that are not measurable by reproducible imaging techniques, and cystic lesions are all considered nonmeasurable; as of 4/30/14, the evaluable/non-measurable cohort has been filled and only patients with measurable disease are allowed moving forward; prior to 4/30/14, up to 20% of patients entered on this trial (i.e. 14 patients) were entered with evaluable but nonmeasurable disease
+Patients must have measurable residual disease, defined as tumor that is measurable in two perpendicular diameters on magnetic resonance imaging (MRI); for a lesion to be considered measurable, it must be at least twice the slice thickness on MRI (i.e. visible on more than one slice)
+Measurable disease must be present either on physical examination or imaging studies; non-measurable disease alone is not acceptable
+Measurable or assessable disease is required; measurable tumor size (at least one node measuring 2.25 cm^2 in bidimensional measurement)
+It is anticipated that patients who have intracranial disease amenable to surgery will have measurable CNS disease prior to study entry and to resection; however, this is not an eligibility requirement; measurable disease is also not required to continue on protocol subsequent to surgical resection
+Patients must have measurable disease; patients with a diagnosis of neuroblastoma with Iobenguane (MIBG) avid disease only are permitted to enroll on this study
+Patients must have bi-dimensional measurable disease within 60 days prior to starting treatment (at least 1.5 cm); patients with non-measurable disease in addition to measurable disease must have been assessed within 60 days prior to starting treatment
+During the dose expansion part of the study patients must have measurable disease defined by at least 1 of the following 2 measurements:
+For Parts A and G: Have measurable or nonmeasurable disease
+For Parts B, C, D, E and F: Have measurable disease
+Patients with lower M-protein values or non-secretory myeloma will be eligible if measurable disease can be established, such as serum FreeliteTM chain ratio >5x ULN, measurable soft tissue plasmacytoma >2cm by either physical exam and/or applicable radiographs (i.e. MRI, CT-scan) and/or bone marrow involvement >30%
+All patients must have measurable or evaluable disease. In general, liver and lung lesions should be at least 1 cm, and patients with node-only disease should have lesions of >/= 1.5 cm in greatest dimension. Patients with disease confined to bone may be eligible of a measurable lytic defect is present or a serum marker is elevated (>4 x ULN). The Study Chairman is the final arbiter in questions related to measurability. Patients with a three-dimensional mass or pelvic sidewall fixation on bladder examination under anesthesia are considered to have measurable disease.
+Presence of measurable lymphadenopathy
+Patients with T-cell LL must have recurrent disease, documented by clinical or radiographic criteria, as well as histologic verification of the malignancy at original diagnosis. Patients with T-cell LL enrolled in the phase I dose-escalation study are not required to have measurable disease; however, patients enrolled in the phase II cohort expansion at the MTD must have measurable disease.
+Measurable disease according to the Lugano Classification
+During the escalation phase of the protocol, patients may have evaluable or measurable disease; during the expansion phase of the protocol, patients must have 1) measurable disease, 2) disease amenable to biopsy and 3) willingness to undergo pre- and post-treatment biopsies
+Subjects in Group 3 are not required to have measurable disease but must have cytologic confirmation of leptomeningeal disease
+Presence of measurable lymphadenopathy
+Unilobar disease
+Presence of clinically and/or radiologically documented disease. At least one site of disease (which will not be removed during the course of the study) must be uni-dimensionally measurable as per RECIST 1.1 or clinically quantifiable (such as in the case of skin disease)
+Measurable disease as determined by per RECIST criteria v1.1. If the only site of measurable disease is a previously irradiated lesion, documented progression of disease and a 4 week period since radiotherapy completion is required
+Patients with measurable disease defined as at least one of the following
+Patients must have measurable disease as defined in Section 10.1 (cutaneous lesions measuring at least 1 cm will be considered measurable). Baseline CT or MRI scans of measurable disease sites must be performed within 4 weeks of study entry.
+Radiologically measurable disease
+All patients must have no measurable disease. Measurable disease is defined as lesions that can be measured by physical examination or by means of imaging techniques. Imaging must be done within 6 weeks of study entry.
+Evidence of measurable disease based on imaging studies within 28 days before the first dose of study drug
+Measurable disease will be required; biopsiable disease will be required
+Measurable disease is not required for study participation
+Patients may have measurable or nonmeasurable but evaluable disease; patients with surgically resected metastatic disease at high risk of relapse are also eligible
+Imaging investigations including CT/MRI of chest/abdomen/pelvis or other scans as necessary to document all sites of disease done within 21 days prior to randomization. Patients with either measurable disease OR non-measurable evaluable disease will be eligible.
+Evaluable disease. In the absence of lymphadenopathy, splenomegaly with defects or measurable extra-medullary disease is acceptable
+Measurable disease requiring systemic therapy
+Measurable disease, as indicated by one or more of the following:
+Patients must have measurable disease as defined by revised RECIST criteria (version 1.1, Appendix C) with one or more lesions that can be accurately measured in one or more dimensions within 4 weeks of entry. Areas of previous radiation may not serve as measurable disease.
+Measurable Disease must be present either on physical examination or imaging studies; non-measurable disease alone is not acceptable; any tumor mass > 1 cm is acceptable; lesions that are considered non-measurable include the following:\r\n* Bone lesions\r\n* Leptomeningeal disease\r\n* Ascites\r\n* Pleural/pericardial effusion\r\n* Inflammatory breast disease\r\n* Lymphangitis cutis/pulmonis\r\n* Bone marrow involvement (involvement by non-Hodgkin lymphoma should be noted)
+Has measurable or nonmeasurable disease
+Have the presence of measurable or nonmeasurable disease
+Measurable disease defined as at least one of the following:
+Measurable disease defined as at least one of the following:
+Measurable disease defined as at least one of the following:
+Measurable disease at the time of study entry
+Patients must have measurable disease; patients may or may not have cancer-related symptoms
+Bidimensionally measurable disease (field not previously radiated)
+Measurable evidence of active disease within 1 year before study enrollment
+Symptomatic, histologically confirmed MM, based on IMWG guidelines. Patients must have measurable disease as defined by at least one of the following:
+Symptomatic MM, based on IMWG guidelines. Patients must have measurable disease.
+COHORT A SPECIFIC INCLUSION: Measurable disease on imaging (1 cm) or measurable non-enhancing tumor
+Patients with no active disease; (as defined as no detectable disease)
+Measurable disease on preoperative imaging
+Patients who have measurable disease after diagnostic biopsy
+Measurable disease, including at least one of the following:
+T2 disease
+Disease that is measurable; this is defined as lesions measuring at least 10 mm on radiologic imaging
+Patient must have measurable residual disease, defined as tumor that is measurable in two perpendicular diameters on MRI; diffuse leptomeningeal disease is not considered measurable
+Histologically confirmed MM with measurable disease per IMWG guidelines as defined by at least 1 of the following:
+Have measurable disease based on irRECIST
+Part 1, Dose Escalation: Participants may have measurable or non measurable disease as defined by RECIST 1.1/mRECIST (depending on tumor type).
+For Participants with MM, measurable disease defined as one of the following:

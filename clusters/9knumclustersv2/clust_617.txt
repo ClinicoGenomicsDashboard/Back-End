@@ -1,0 +1,10 @@
+Creatinine clearance >=  milliliter per minute per . square meter (mL/min/. m^) based either on Cockcroft-Gault estimate or based on a - or -hour urine collection.
+Creatinine clearance greater than or equal to (>=)  milliliter per minute (mL/min) either as estimated by the Cockcroft-Gault equation or based on urine collection ( or  hours).
+Estimated creatinine clearance by Cockcroft-Gault >= milliliter per minute (mL/min) / . square meter (m^);
+Creatinine clearance >= milliliter per minutes (mL/min).
+Calculated creatinine clearance ?  milliliter per minute (mL/min).
+Renal: creatinine clearance >= milliliter per minute (mL/min).
+Renal: serum creatinine >= milliliter per minute (mL/min) either as estimated by the Cockcroft-Gault equation or based on urine collection ( or  hours).
+Creatinine clearance (CrCl) >=  milliliter per minute (mL/min)
+Renal: serum creatinine <=.*ULN or creatinine clearance >= milliliter per minute (mL/min) as estimated by the Cockcroft-Gault equation or based on urine collection ( or  hours).
+Creatinine clearance must be greater than or equal to (>=)  milliliter per (mL/) minute as estimated by the Cockcroft Gault equation or based on urine collection ( or  hours).

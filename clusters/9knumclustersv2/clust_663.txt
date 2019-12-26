@@ -1,0 +1,255 @@
+Documented progression on or following most recent systemic chemotherapy regimen (not required for chemotherapy-nave patients), within  months prior to screening
+Patients must have completed standard neoadjuvant or adjuvant taxane and/or anthracycline based chemotherapy prior to randomization; completion of chemotherapy will be determined by the treating oncologist, but should include a minimum of  cycles (a cycle of weekly paclitaxel is considered  doses); patients must be registered within  weeks after the last dose of chemotherapy; patients may have started endocrine therapy at any time after the diagnosis of the current breast cancer
+For patients who receive adjuvant chemotherapy after surgery, a maximum of  weeks of intended chemotherapy may be administered but must be completed before randomization; (if treatment delays occur, chemotherapy must be completed within  weeks); the dose and schedule of the adjuvant chemotherapy are at the investigator's discretion; Note: it is preferred that all intended chemotherapy be administered in the neoadjuvant setting
+Patients receiving systemic chemotherapy within  weeks prior to randomization
+Newly diagnosed and histopathologically confirmed, potentially resectable NRSTS of the extremity and trunk will be eligible for the chemotherapy or non-chemotherapy cohort based on:\r\n* Evidence of chemotherapy sensitivity of the histologic sarcoma subtype based on existing evidence from prior clinical trials\r\n* Sufficient risk of metastatic disease to warrant chemotherapy based on size and grade and\r\n* Medically deemed able or unable to undergo chemotherapy\r\n* Notes: an incisional biopsy or core biopsy is preferred; fine needle aspiration biopsy is not acceptable to establish the diagnosis
+Patients meeting the above criteria (histology, size, and grade) with the EXCEPTION of histologies noted above may enroll on the chemotherapy cohort or the non-chemotherapy cohort at the discretion of the enrolling investigator; patients meeting these criteria with the EXCEPTION of histologies noted above but medically deemed unable to receive chemotherapy or who elect not to receive chemotherapy are eligible for the non-chemotherapy cohort
+Patients meeting the criteria (histology, size, and grade) with the EXCEPTION of histologies noted above may enroll on the non-chemotherapy cohort at the discretion of the enrolling investigator; patients meeting these criteria with the EXCEPTION of histologies noted above but medically deemed unable to receive chemotherapy or who elect not to receive chemotherapy are eligible for the non-chemotherapy cohort; note that tumors arising in bone are NOT eligible for this study
+Must have received - cycles of cisplatin-based chemotherapy as part of first-line (initial) chemotherapy; prior cisplatin, vincristine, methotrexate, bleomycin, actinomycin D, cyclophosphamide, etoposide (POMBACE), carboplatin, bleomycin, vincristine, and cisplatin-bleomycin, etoposide, and cisplatin (CBOP-BEP), or methotrexate, actinomycin-D, etoposide, cisplatin, peg filgrastim (GAMEC) are allowed; Note: for patients requiring immediate treatment,  cycle of conventional-dose salvage chemotherapy is allowed (including TI or TIP); therefore, these patients may have received  prior cycles of chemotherapy;  cycles as part of first-line chemotherapy and  cycle of salvage conventional chemotherapy
+No previous chemotherapy within  days prior to enrollment except for bleomycin which cannot have been given within  days prior to enrollment
+At least three weeks since the last chemotherapy
+Chemotherapy
+Cohort B Safety Run-In (Ribociclib + PDR + Fulvestrant): Prior chemotherapy:\r\n* Participants may have received chemotherapy for advanced breast cancer as long as the last dose is >=  days prior to registration
+Prior systemic chemotherapy requirements are as follows:\r\n* Nivolumab plus carboplatin and pemetrexed cohorts (Cohorts A and B): NO prior systemic chemotherapy is allowed; NOTE: Prior adjuvant or neoadjuvant chemotherapy is allowed if received more than  months prior to the study; in addition, one prior cycle (dose) of chemotherapy is allowed if there was no evidence of disease progression following the dose\r\n* Nivolumab plus ipilimumab cohorts (Cohorts C and D): Participants must have received a platinum-based combination chemotherapy for their advanced lung cancer and either progressed on/after this chemotherapy or are intolerant; up to two prior lines of chemotherapy are allowed; NOTE: Prior adjuvant or neoadjuvant chemotherapy does not count as an additional line of chemotherapy if received more than  months prior to the study
+Receiving prior hepatic intra-arterial chemotherapy
+Patient has had prior treatment with bevacizumab, a chemotherapy wafer implant (Gliadel), or any other FDA- approved chemotherapy except temozolomide.
+Prior chemotherapy for mCRPC prostate cancer; chemotherapy given neoadjuvantly, adjuvantly, or for hormone sensitive metastatic disease is permitted as long as the cancer did not progress on chemotherapy AND >  months have elapsed
+Progression at any time during initial asparaginase based chemotherapy and up to  months after end of initial asparaginase based chemotherapy, OR
+Failure to achieve at least PR with initial asparaginase based chemotherapy.
+Subjects may not be receiving any chemotherapy or other agents intended for oncologic treatment
+Participants who have received systemic chemotherapy within  weeks of starting study drug
+Chemotherapy:  weeks
+More than one prior line of chemotherapy administered at any time; a subject treated with chemotherapy in the hormone sensitive setting would count as one line of chemotherapy; a subject treated with chemotherapy in the hormone sensitive setting and subsequently treated with chemotherapy in the castration resistant setting would count as two lines of chemotherapy and would be excluded
+Prior chemotherapy within the last  years
+CMR following S chemotherapy
+Prior systemic chemotherapy
+Administration of chemotherapy within the last  month
+Previous treatment with chemotherapy for metastatic CRPC (mCRPC) (adjuvant chemotherapy is permitted), or chemotherapy for any reason within  years prior to registration
+Intention to receive chemotherapy within  months after enrollment in protocol therapy
+Prior chemotherapy or tumor vaccine therapy or biological therapy for the treatment of melanoma. Subjects who received chemotherapy for the management of other malignancies are potentially eligible if the subject has not received chemotherapy in prior  years, remained disease free, and following discussion with and agreement by the principal investigator
+Must be at least  days since last chemotherapy was administered (this does not include intrathecal chemotherapy which can be administered at any given time pre study or upon enrollment nor does it include maintenance chemotherapy for the subset of patients who relapse during maintenance); for patients who were previously enrolled on the trial but were removed prior to receiving T cell therapy and are re-enrolling on the trial and already have a useable T cell product generated during previous enrollment, the duration and chemotherapy agents used is not restricted
+Ineligible for or have declined initial conventional combination chemotherapy
+Patients receiving concomitant chemotherapy administration in the  days preceding brachytherapy (except for gynecological cancer patients who may have received concurrent chemotherapy as a component of their treatment regimen)
+Subjects who progressed on at least one prior chemotherapy
+Receiving any investigational agents or concurrent biological, intensive chemotherapy or radiation therapy for the previous  weeks from conditioning\r\n* NOTE: low dose chemotherapy or maintenance chemotherapy given within  days of planned study enrollment is permitted; these include: hydroxyurea, -meraptopurine, oral methotrexate, vincristine, oral etoposide, and tyrosine kinase inhibitors (TKIs); FLT- inhibitors can also be given up to  days before conditioning regimen
+Chemotherapy naive (prior docetaxel chemotherapy [as per chemohormonal therapy versus androgen ablation randomized trial for extensive disease (CHAARTED) data] for castration sensitive disease is allowed)
+ weeks from prior chemotherapy.
+Any diagnosis without prior immunosuppressive chemotherapy within  months of intended admission for transplant.
+Treatment with any systemic chemotherapy within  weeks
+Salvage chemotherapy including TKIs for Ph+ ALL within  week prior to enrollment
+Must be at least  days since last chemotherapy was administered (this does not include intrathecal chemotherapy which can be administered at any given time pre study or upon enrollment nor does it include maintenance chemotherapy for the subset of subjects who relapse during maintenance)\r\n* If subject has an apheresis product or T cells available for manufacturing of T cell product, the duration and chemotherapy agents used is not restricted
+Completion of preoperative systemic chemotherapy.
+Patients may have had prior chemotherapy or be chemotherapy naive
+If HCC patients, they should have progressive disease (PD) on intolerant of or refusing sorafenib. If mCRC, they should have received at least one regimen of -fluouracil based systemic chemotherapy such as FOLFOX, FOLFIRI, CAPOX, or XELOX, with or without a VEGF or EGFR receptor inhibitor. For patients with metastatic gastric cancer, they should have failed at least one line of systemic chemotherapy. For patients with NSCLC, they should have been treated with a PD- inhibitor (either with or without chemotherapy) for at least  months but are not able to achieve a response.
+Must be at least  days since last chemotherapy was administered (this does not include intrathecal chemotherapy which can be administered at any given time pre study or upon enrollment nor does it include maintenance chemotherapy for the subset of subjects who relapse during maintenance)\r\n* If subject has an apheresis product or T cells available for manufacturing of T cell product, the duration and chemotherapy agents used is not restricted
+CHEMOTHERAPY/CELL INFUSION ELIGIBILITY: Compete history and physical examination will be required within  weeks prior to initiation of chemotherapy
+Prior chemotherapy for any other cancer within the last  years
+Patients may have unlimited prior chemotherapy treatments
+Patients must have received platinum based chemotherapy; the submission of a tissue sample for the mesothelin assay to determine eligibility for the study may occur prior to, during or after receipt of the frontline chemotherapy; patients will not be required to submit another tissue sample after receipt of the chemotherapy
+Patients should receive chemotherapy to attempt to achieve CR or minimal disease state pre-transplantation; the use of up to three cycles of non-cross resistant combination chemotherapy is advised
+Prior chemotherapy with nitrosoureas, prior mitomycin C cumulative dose ?  mg/m, prior bone marrow transplant, or prior intensive chemotherapy with stem cell support;
+CRITERIA FOR LYMPHODEPLETING CHEMOTHERAPY AND huJCAR TREATMENT
+CRITERIA FOR LYMPHODEPLETING CHEMOTHERAPY AND huJCAR TREATMENT: Uncontrolled and serious infection
+CRITERIA FOR LYMPHODEPLETING CHEMOTHERAPY AND huJCAR TREATMENT: DLI within  weeks prior to lymphodepletion chemotherapy
+Must have received systemic chemotherapy, minimum  months or maximum  months, prior to enrollment\r\n* Systemic therapy should consist of at least fluoropyrimidine-based and/or platinum-based chemotherapy\r\n* Trastuzumab may be added for HER-neu over-expressing cancers as clinically indicated\r\n* Last dose of chemotherapy within  weeks of enrollment with recovery to grade  from chemotherapy-related toxicities\r\n* Documentation of chemotherapy administration must be obtained
+Patients at least  weeks from last cytotoxic chemotherapy at the time of starting lymphodepleting chemotherapy. Patients may continue tyrosine kinase inhibitors or other targeted therapies until at least two weeks prior to administration of lymphodepleting chemotherapy.
+Prior treatment with intravenous chemotherapy
+Taxane-based chemotherapy that was aborted due to allergic reactions or intolerance to chemotherapy and therefore received  cycle of prior therapy is allowable
+Low dose chemotherapy (e.g., vincristine, rituximab, cyclophosphamide ? mg/m) given after leukapheresis to maintain disease control must be stopped ? days prior to lymphodepleting chemotherapy.
+LYMPHODEPLETION: Subjects currently receiving maintenance doses of chemotherapy are eligible and the need for intrathecal prophylaxis prior to lymphodepletion is left to the discretion of the investigator; maintenance chemotherapy is defined as methotrexate =<  mg/m^/week, mercaptopurine =<  mg/m^/day and vincristine =<  mg/ days; for subjects who receive chemotherapy, including intrathecal chemotherapy, that does not fit this definition of maintenance chemotherapy, a two week washout between the last dose of standard of care chemotherapy and the beginning of lymphodepletion will be required
+Participants in cohort B must have completed  cycle of systemic chemotherapy; therapy with the combination must start no sooner than  weeks from the last dose of chemotherapy and no later than  weeks from the last dose of chemotherapy; participants in cohort B must not have had progression of disease prior to the start of therapy
+Participants who are not considered candidates for pertuzumab + trastuzumab + chemotherapy
+Patients must have had no more than  prior lines of chemotherapy; this includes the initial treatment and two relapses; concurrent and adjuvant TMZ-based chemotherapy, including the combination of TMZ with another agent, is considered one line of chemotherapy; for clarification, please contact the principal investigator (PI), Dr. Orin Bloch, at () -
+Patients must be at least  weeks from last dose of chemotherapy.
+Prior chemotherapy within  days of starting treatment
+Patients who do not undergo chemotherapy
+Patients with prior chemotherapy for this cancer
+At least one prior chemotherapy
+Patients should be off all previous intensive therapy, chemotherapy or radiotherapy for  weeks prior to commencing therapy on this study\r\n* (NOTE: Low dose chemotherapy or maintenance chemotherapy given within  days of planned study enrollment is permitted; these include: hydroxyurea, -meraptopurine, oral methotrexate, vincristine, oral etoposide, and tyrosine kinase inhibitors [TKIs]; FLT- inhibitors such as sorafenib, crenolanib, midostaurin can also be given up to  days before conditioning regimen)
+Patients may not be receiving any other investigational agents, or concurrent biological, intensive chemotherapy, or radiation therapy for the previous three weeks from conditioning\r\n* (NOTE: Low dose chemotherapy or maintenance chemotherapy given within  days of planned study enrollment is permitted; these include: hydroxyurea, -meraptopurine, oral methotrexate, vincristine, oral etoposide, and tyrosine kinase inhibitors [TKIs]; FLT- inhibitors such as sorafenib, crenolanib, midostaurin can also be given up to  days before conditioning regimen)
+May have been previously chemotherapy-treated; patients may have received up to two prior lines of chemotherapy (excludes neoadjuvant or adjuvant therapy) for recurrent/advanced disease (it is anticipated that patients would have been previously treated with MVAC or GC, or variations of these standard frontline regimens); chemotherapy-naive patients who decline to receive frontline chemotherapy are eligible
+Patients who have received systemic chemotherapy or radiotherapy within two months prior to first scheduled cycle of postoperative chemotherapy
+Patients must have received prior induction chemotherapy for at least  months and up to  months; at least three weeks should have elapsed after the last chemotherapy
+be considered unfit to receive chemotherapy on reason of age, concomitant morbidities, and/or residual toxicity from previous treatments, or unwillingness to receive chemotherapy. These patients must also have had a progression-free and treatment-free interval of at least  months after completion of the last rituximab-containing treatment. Patients in whom chemotherapy is contraindicated are defined by one of the following features:
+Systemic chemotherapy or radiation cannot have been given within  weeks prior to the Y- dose of radioimmunotherapy (RIT), with the exception of single agent cyclophosphamide priming chemotherapy administered for mobilization
+Administration of chemotherapy or any other cancer therapy in the pre-operative period
+Patients must be anticipated to complete  cycles of chemotherapy
+Patients previously treated with chemotherapy are eligible unless they have evidence of local or distant disease progression; patients must have completed their last cycle of chemotherapy at least two weeks prior to study enrollment
+Prior first-line treatment with surgery or biopsy followed by fractionated radiotherapy with concurrent temozolomide-containing chemotherapy is required for glioblastoma patients; additional prior chemotherapy is allowed, without limitation on number of recurrences
+Receiving intensive chemotherapy within  days of registration; maintenance type of chemotherapy will be allowed
+Prior high-dose chemotherapy (HDC)-ASCT
+Subjects must have received adjuvant post-operative chemotherapy meeting the following requirements:\r\n* Completed chemotherapy as per the discretion of their physician\r\n* Chemotherapy must have been completed within - months of starting study treatment
+Subjects with rectal cancer must have received chemotherapy meeting the following requirements:\r\n* Completed chemotherapy as per the discretion of their physician\r\n* Chemotherapy must have been completed within - months of starting study treatment
+If chemotherapy is planned, new chemotherapy regimen should have started no more than  days prior to enrollment
+If systemic chemotherapy was given, patient must have had clips or markers placed at the time of surgery (if they are needed) and patient must have simulation scans within  weeks of the completion of the chemotherapy.
+Patients must be anticipated to complete at least  cycles of chemotherapy on study
+Prior systemic chemotherapy within the last three years
+Systemic chemotherapy or radiation within  weeks prior to the Y- dose of radioimmunotherapy (RIT), with the exception of single agent Cytoxan priming chemotherapy administered for mobilization
+Prior systemic chemotherapy
+Patients must be enrolled within  months of completing chemotherapy or after surgery of the primary site; any acute/subacute > or = grade  toxicities from the chemotherapy must be resolved to < or = grade  at the time of study entry; it is suggested that patients undergo prophylactic cranial irradiation as a soon as they have recovered from chemotherapy or surgery, at a minimum of  weeks, and up to  months following chemotherapy or surgery
+Prior chemotherapy (i.e., as administered strictly for cancer treatment) within the previous  years. Use of chemotherapy agents for non-cancer treatment purposes (i.e., arthritis treatment, etc.) are excluded from this criterion.
+Prior chemotherapy (last  weeks)
+Prior chemotherapy within  years.
+Previous chemotherapy for this lung or mediastinum tumor; chemotherapy for another invasive malignancy is permitted if it has been treated definitively and the patient has remained disease free for >  years
+At least one prior regimen of chemotherapy, with no maximum number of chemotherapy cycles
+Chemotherapy-nave
+At least  weeks since chemotherapy
+Previous chemotherapy or radiotherapy, except:\r\n* Pure seminoma relapsing after adjuvant radiotherapy or adjuvant chemotherapy with - doses of single agent carboplatin\r\n* Non-seminoma and poor prognosis by IGCCC criteria in the rare case where low-dose induction chemotherapy is given prior to registration because patient is not fit enough to receive protocol chemotherapy (e.g. organ failure, vena cava obstruction, overwhelming burden of disease); acceptable regimens include cisplatin  mg/m^ days - and etoposide  mg/m^ days -; carboplatin area under curve (AUC)  days - and etoposide  mg/m^ days -; or baby-BOP; patients must meet all other inclusion and exclusion criteria at the time of registration\r\n* Participants who need to start therapy urgently prior to completing study-specific baseline investigations may commence study chemotherapy prior to registration and randomization; such patients must be discussed with the coordinating center prior to registration, and must be registered within  days of commencing study chemotherapy
+Received more than  prior systemic chemotherapy regimens, including adjuvant systemic chemotherapy following definitive chemoradiation (OUTBACK chemotherapy); concurrent chemotherapy with prior radiation treatment is not to be counted
+Patients must not be suitable for fluorouracil (FU)/mitomycin chemotherapy
+Patients must be anticipated to complete at least  cycles of chemotherapy
+Chemotherapy-naive patients (for this malignancy)
+One to two line(s) of prior taxane-based chemotherapy allowed. If docetaxel chemotherapy is used more than once, this will be considered as one regimen.
+<  years who are considered candidates for standard chemotherapy
+Patients who have had chemotherapy or radiotherapy =<  days prior to registration are not eligible\r\n* NOTE: Patients may not have had systemic chemotherapy within  days
+Subjects must have had prior high dose chemotherapy (HDCT) treatment when indicated
+Subjects must be at least  weeks from last chemotherapy
+At a maximum of twelve weeks after the last dose of chemotherapy, patients must fulfill the following criteria:\r\n* Complete clinical response after first-line chemotherapy for newly-diagnosed patients, or after second-line chemotherapy for relapsed patients who require secondary cytoreduction\r\n** Complete clinical response is defined as normal exam, normal computed tomography (CT) scan, and normal CA- level; tumor tissue for relapsed patients would be obtained under informed consent at the time of a secondary surgical debulking, which would be performed as part of standard relapse management in appropriate patients\r\n* Asymptomatic, low volume disease not requiring further chemotherapy prior to initiating vaccination
+The patient should have no immediate need for chemotherapy
+>=  days from completion of frontline chemotherapy for NHL
+No prior chemotherapy
+Prior chemotherapy within the last  weeks
+Patients with chemotherapy prior to TEMLA are eligible
+Patients who have had prior chemotherapy for this tumor
+Patients should not be felt to have an immediate need for chemotherapy
+Patients must consent to have voided urine (- mL) submitted prior to initiating chemotherapy (pre-treatment) and after chemotherapy prior to surgery (post-treatment)
+Patients must consent to whole blood ( x  mL) submitted prior to initiating chemotherapy
+Subjects who are not indicated for chemotherapy treatment with first line Standard of Care chemotherapy (docetaxel and prednisone)
+Chemotherapy:
+Chemotherapy other than lymphodepleting chemotherapy within  weeks of infusion
+Subjects who are not eligible for standard chemotherapy
+At least  weeks from end of chemotherapy with resolution of neutropenia to above level
+No clinical evidence for locoregional or distant relapse during or after preoperative chemotherapy. Local progression during chemotherapy is not an exclusion criterion.
+Previously received >  course of chemotherapy (not including immunotherapies or targeted therapies) for the treatment of metastatic a. Note: Subjects may have received  course of chemotherapy prior to surgery for the treatment of locally advanced disease and  course of chemotherapy for the treatment of metastatic BC; however, if surgery could not be performed, this will count as the  chemotherapy course allowed prior to study
+Chemotherapy: The following drugs must be stopped >  week prior to CTL infusion and should not be administered concomitantly or following lymphodepleting chemotherapy: hydroxyurea, vincristine, -mercaptopurine, -thioguanine, methotrexate <  mg/m, cytosine arabinoside <  mg/m/day, asparaginase (non-pegylated) The following drugs must be stopped > weeks prior to CTL infusion: salvage chemotherapy (e.g. clofarabine, cytosine arabinoside >  mg/m, anthracyclines, cyclophosphamide), excluding the required lymphodepleting chemotherapy drugs Pegylated-asparaginase must be stopped >  weeks prior to CTL infusion
+Part A: Subject must have failed at least one prior chemotherapy regimen for metastatic disease and/or is unfit for cisplatin-based chemotherapy.
+Subject meets the criteria per investigator's institution to receive SOC R-chemotherapy (ie, R-CHOP [ or ] or R-DA-EPOCH or R-CHOEP) of  cycles. Subjects may be enrolled on study prior to cycle  or cycle  of SOC R-chemotherapy
+Subject must have completed  cycles of SOC R-chemotherapy and achieved CR, PR or stable disease by PET/CT performed  weeks (  days) after cycle  of SOC R-chemotherapy. Subjects with PD are not eligible for treatment with blinatumomab and will end the study.
+Subject who has had cytotoxic chemotherapy within  weeks prior to lymphodepleting chemotherapy; immune therapy (including monoclonal antibody therapy, checkpoint inhibitors or biological therapy within  weeks prior to lymphodepleting chemotherapy; corticosteroids or any other immunosuppressive therapy within  weeks prior to lymphodepleting chemotherapy; tyrosine kinase inhibitor (TKI) (e.g. erlotinib, gefitinib) within  week prior to lymphodepleting chemotherapy.
+Phase b Dose Escalation - Individuals may have had unlimited prior hormonal therapy and a total of  prior chemotherapy regimens (adjuvant chemotherapy is considered  regimen). Individuals may have progressed on fulvestrant or exemestane.
+Patients may have a history of resectable urothelial cancer (including neoadjuvant chemotherapy) as long as patients meet one of the following:\r\n* pT, Tis, or TN and have no evidence of disease (NED) for more than  years from surgery or chemotherapy;\r\n* pT-aN and NED for more than  years from surgery or chemotherapy; or\r\n* > pTb, or N+ and NED for more than  years from surgery or chemotherapy
+Subjects who have had any prior chemotherapy within  years of enrollment
+At least  weeks from last chemotherapy or before chemotherapy
+Prior chemoradiotherapy for a pelvic recurrence is permitted. Prior chemotherapy in the adjuvant setting for Stage I, II or III disease is permitted. Note: No prior chemotherapy in the setting of Stage IV disease is permitted unless the patient was without evidence of disease at the completion of chemotherapy and had at least six months of progression-free survival since the completion of chemotherapy. Regardless of circumstances, no more than one prior chemotherapy regimen (including chemo-radiotherapy) is permitted.
+The interval between definitive surgery for breast cancer and the first dose of chemotherapy must be no more than  weeks ( days). The first cycle of chemotherapy must be administered within  days of randomization or on Day , whichever occurs first
+Use of chemotherapy
+Patients must be treated with a standardly accepted chemotherapy regimen if chemotherapy is indicated; (certain tumors of low-grade or small size may not require chemotherapy)
+No previous chemotherapy, radiotherapy or transarterial embolization (with or without chemotherapy)
+History of prior chemotherapy
+MEDI + nab-paclitaxel + gemcitabine chemotherapy cohort: treatment-nave patients with metastatic PDAC who have received no previous systemic chemotherapy  MEDI + Cohort: Patient should receive no more than  prior systemic chemotherapy regimen.
+Have undergone treatment with systemic chemotherapy within the last - years
+Patients may have up to three prior lines of systemic cytotoxic chemotherapy for metastatic or unresectable disease; prior use of hormonal agents (agents targeting the androgen receptor or biosynthesis pathway [goserelin, leuprolide, bicalutamide, enzalutamide, abiraterone], tamoxifen, aromatase inhibitors, fulvestrant, etc) are allowed; other hormonal agents not listed need to be reviewed by the principal investigator prior to enrollment; combination chemotherapy is considered to be a single line of chemotherapy; docetaxel is a reasonable treatment option for their malignancy
+Suitable for conventional single agent chemotherapy
+Completion of cytoreductive surgery and has completed one (and only one) course of platinum-based chemotherapy (- cycles) >=  but =<  weeks prior to registration; NOTE: cytoreductive surgery may have been prior to or after the first cycle of chemotherapy but must include hysterectomy and bilateral salpingo-oophorectomy, if the uterus and/or ovaries had not previously been removed; NOTE: patients may have had more than one chemotherapy regimen (ex: paclitaxel/carboplatin switched to docetaxel/carboplatin due to allergy; weekly treatment switched to every  week treatment due to intolerance), but may not have received a separate course of treatment for recurrent ovarian cancer (OC); NOTE: patients may receive both neoadjuvant and adjuvant chemotherapy provided both regimens are platinum-based and total  or fewer chemotherapy cycles
+Completion of preoperative systemic chemotherapy
+Prior chemotherapy\r\n* Up to  prior chemotherapy regimens for treatment of metastatic disease are allowed as long as study subject is in the investigators opinion acceptable for study treatment with the chemotherapy agents required on this study in cohort  study treatment at progression on T+P; all chemotherapy has to be discontinued >=  days before starting the study treatments with T+P\r\n* The chemotherapy regimen in cohort  will be based on the patients prior treatment; patient must not have previously progressed on the chemotherapy agent chosen by the principal investigator (PI) for the addition to the trastuzumab + pertuzumab backbone in this study\r\n* One of the following chemotherapy agents: eribulin mesylate (eribulin) or paclitaxel or nab-paclitaxel (abraxane) or docetaxel or vinorelbine tartrate (vinorelbine) or capecitabine at schedules and doses prespecified in the body of this protocol has to be acceptable for the study treatment and can be chosen by the PI at progression on trastuzumab and pertuzumab therapy\r\n* If needed chemotherapy dose adjustments are allowed per standard of care
+For chemotherapy part of this study the study chemotherapy drug label guidelines have to be used to assure safety
+Unable to receive background chemotherapy based on prior treatment history and cardiac function
+Patients with metastatic sites that requires chemotherapy
+Prior treatment with HAI chemotherapy
+Participants may have received prior docetaxel-based chemotherapy for prostate cancer; such chemotherapy must have been stopped at least three weeks prior to the first dosing in this study
+History of prior chemotherapy
+Prior chemotherapy for prostate cancer, with the exception of neo-adjuvant chemotherapy, because of the potential effect of chemotherapy on the immune system.
+Prior systemic chemotherapy
+Current or prior chemotherapy
+For patients >  years of age the  cycle of standard chemotherapy is not required if either of the following criteria is met:\r\n* Relapse within  months of last chemotherapy\r\n* Blast count < % within  days of starting protocol therapy
+Prior anti-cancer therapy that fulfills the following criteria: a total of more than three (Arms A and B) or two (Arms C and D) prior cytotoxic chemotherapy regimens, high-dose chemotherapy requiring stem-cell support, and irradiation to >= percent (%) of bone marrow-bearing areas
+Patients may receive any number of cycles of chemotherapy prior to treatment with SBRT, but not within  weeks of the first fraction of radiotherapy (RT); patients are not required to receive any chemotherapy to be eligible for study enrollment
+Fludarabine-based chemotherapy within  months
+More than  prior chemotherapy regimen for mCRC; previous adjuvant FOLFOX based chemotherapy is allowed; prior FOLFIRI or single agent irinotecan is prohibited
+Documentation regarding the details of administration of all systemic chemotherapy must be available
+Subject may have received chemotherapy or other therapy after harvest of tumor and prior to enrollment; subjects who have achieved complete response following chemotherapy are still eligible for participation
+Patients who are chemotherapy naive
+Any chemotherapy within  days of enrollment.
+No prior chemotherapy, including carmustine-containing wafers (Gliadel)
+No previous chemotherapy, radiotherapy or transarterial embolization (with or without chemotherapy).
+Chemotherapy: no limit to prior therapies; however, patients with multiple chemotherapy regimens will be screened for lymphocyte proliferation at investigators discretion
+Prior treatment with chemotherapy for CRPC
+Chemotherapy <  weeks prior to starting study drug with the following exception: There is no time restriction in regard to prior intrathecal chemotherapy provided there is complete recovery from any acute toxic effects of such
+Prior immunotherapy (e.g. sipuleucel-T), and chemotherapy are permitted ( week washout period from chemotherapy)
+Pts with NSCLC who have received, are receiving or are planning to receive two to four cycles of standard frontline chemotherapy are eligible; choice of chemotherapy is at the discretion of the medical oncologist; concurrent chemoradiotherapy will not be permitted during the active study period; post-operative radiotherapy can be administered as clinically indicated
+Patients on chemotherapy &/or targeted agents for palliation
+Prior chemotherapy.
+Any of the following prior therapies:\r\n* Systemic chemotherapy for bladder cancer at any time; NOTE: intravesical chemotherapy is allowed\r\n* Systemic chemotherapy for other malignancies =<  years prior to pre-registration
+Prior chemotherapy regimen given for first (st) relapse, not including the use of hydroxyurea or plasmapheresis that is used prior to the initiation of chemotherapy
+Key inclusion criteria:\n\n          . Histological or cytological confirmation of epithelial ovarian, primary peritoneal, or\n             fallopian cancer from any previous time point.\n\n          . Recurrent or relapsed after completion of initial therapy of epithelial ovarian,\n             primary peritoneal, or fallopian cancer from any previous time point (includes\n             completion of surgery with or without postoperative chemotherapy, including\n             maintenance chemotherapy)\n\n          . Elevation of CA- according to the following definitions:\n\n               -  Patients with an elevated CA- before chemotherapy and normalization of CA-\n                  with/after chemotherapy must show evidence of CA- greater than or equal to \n                  times the upper limit of normal (ULN) on  occasions at least  week apart\n\n               -  Patients with an elevated CA- before cancer chemotherapy, which never\n                  normalizes, must show evidence of CA- greater than or equal to  times the\n                  nadir value on  occasions at least  week apart\n\n               -  Patients with CA- in the normal range before cancer chemotherapy must show\n                  evidence of CA- greater than or equal to  times the ULN on  occasions at\n                  least  week apart\n\n                    -  For patients who have received subsequent treatment for recurrent cancer,\n                       \chemotherapy\ in the above criteria refers to the most recent round of\n                       chemotherapy.\n\n          . Patients with a history of ovarian cancer who are asymptomatic and who do not have\n             documented previous CA- levels may enroll if the CA- is greater than three times\n             the ULN on two occasions, at least one week apart\n\n          . Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of \n\n        Key exclusion criteria:\n\n          . Symptoms (other than ? grade  fatigue, anxiety, depression, or other psychological\n             symptoms) that, in the opinion of the treating oncologist, are a direct result of\n             cancer recurrence. (Examples of symptoms that would preclude enrollment include\n             unintentional weight loss, ? grade  fatigue, and new abdominal pain unrelated to\n             operative procedures for the ovarian malignancy.)\n\n          . Receiving any other investigational agent that would be considered a treatment for the\n             primary neoplasm. Anti-cancer chemotherapy, radiotherapy, immunotherapy, or\n             investigational agents ? days of first dose of study drug\n\n          . Major surgery ? days before start of treatment\n\n          . History of another primary malignancy with an associated disease-free interval of less\n             than  years, except for curatively treated basal cell or squamous cell carcinoma of\n             the skin or in situ cancer of the cervix.
+Patients must have completed at least  prior line of chemotherapy for germ cell tumor (except patients who present with primary pure teratoma who need not have received any previous chemotherapy)
+For patients who received prior adjuvant chemotherapy or chemoradiotherapy: a treatment-free interval of at least  months since last chemotherapy or chemoradiotherapy cycle
+Subjects considered eligible for intensive chemotherapy
+Subject has had chemotherapy within  weeks prior to the first study dose.
+Prior systemic anticancer therapy: patients will have received no more than  prior chemotherapy regimens; the regimen(s) may have included biological, molecularly targeted or immune therapies; patients with primary refractory disease (i.e., those patients with progressive disease on first line chemotherapy) and patients with disease relapse within  days of completion of initial chemotherapy (chemotherapy resistant) are excluded; patients with limited stage small cell lung cancer (SCLC) and systemic relapse who are not felt to be candidates for repeat platinum-based chemotherapy at relapse are eligible for enrollment
+Up to  prior chemotherapy regimens for recurrent disease are allowed; adjuvant chemotherapy and maintenance Taxol after completion of six cycles of adjuvant carboplatin-Taxol will not be counted as a prior chemotherapy regimen for the purpose of this study; treatment with targeted agents or hormones would not be considered as a systemic chemotherapy regimen; previous treatment with gemcitabine is not allowable
+Prior primary chemotherapy.
+Prior chemotherapy
+Patients must be pemetrexed-nave; patients may have received any number of prior chemotherapy or molecularly targeted agents; if crizotinib was used in the first (st) line setting then chemotherapy naive patients are also eligible; if patient received crizotinib in combination with chemotherapy, prior chemotherapy must have been discontinued at least  days prior to registration and all adverse events must have resolved to =< grade 
+Prior chemotherapy is allowed if >= one month from the end of treatment; patients must not have received chemotherapy within  weeks of the start of study drug
+Patients who are not appropriate to receive more intensive chemotherapy in the judgment of the investigator
+If a transplant is used as consolidation following chemotherapy, without intervening disease progression, it will be considered  line of treatment with the preceding chemotherapy
+Prior radiation or chemotherapy exposure inclusive of low dose chemotherapy such as methotrexate for autoimmune conditions.
+Prior chemotherapy is acceptable if last dose given >=  weeks prior to registration to this study; (Note: no chemotherapy to be given after resection of liver lesions prior to treatment on this study)
+RT must be administered within  weeks of definitive surgery if the patient is not treated with chemotherapy; if adjuvant chemotherapy is given, RT must begin within - weeks after the last dose
+Patients with locally advanced or metastatic disease, any solid tumor except hepatocellular carcinoma, who have been previously treated with systemic chemotherapy (chemotherapy administered through the blood) and who have had relapsed or had progressive disease following standard of care treatment with chemotherapy prior to enrollment, or intolerant to prior standard of care treatment with chemotherapy
+Prior chemotherapy within the last  weeks
+Patients must have had at least one prior chemotherapy regimen that included temozolomide and no more than one prior salvage chemotherapy
+No prior chemotherapy
+Prior systemic chemotherapy for transitional cell carcinoma of the bladder; subjects who have received prior intravesical chemotherapy are allowed if completed  days prior to cycle  day
+Patients may have received one prior chemotherapy regimen for recurrence or progression; cisplatinum with concurrent radiation does not count as a prior chemotherapy; prior treatment with bevacizumab is allowable
+At the time of enrollment, patient must have completed at least  weeks of maintenance chemotherapy, and is scheduled to receive at least  more weeks of maintenance chemotherapy
+Concurrent chemotherapy; patients may be on other non-chemotherapy anti-cancer treatments, per Food and Drug Association (FDA) labeling of radium-, provided that these are not changed during the primary pain assessment period
+with same chemotherapy regime (as documented from patient medical dossier), And
+do NOT plan to initiate a new chemotherapy for pain palliation should be eligible for the study. Note: Planned multiple courses of chemotherapy are not considered New Chemotherapy.
+Patients initiating a new chemotherapy regime for pain purposes only, or radiation (for the targeted most painful lesion) within the last  weeks Note: Planned multiple courses of chemotherapy are not considered New Chemotherapy.
+COHORT C SPECIFIC INCLUSION: Histologically confirmed PCNSL that has recurred after prior methotrexate-based chemotherapy or for whom methotrexate-based chemotherapy is deemed medically not in the patient's best interest
+Patients who are candidates for treatment with standard chemotherapy agents (there is no limit to the number of lines of chemotherapy);
+No prior chemotherapy
+Patients receiving intensive chemotherapy requiring a prolonged - week hospitalization
+Active treatment with chemotherapy
+The expected hospitalization is at least  days to receive moderate to high intensity chemotherapy
+Has not yet begun chemotherapy
+Patients not receiving intravenous, intraperitoneal or oral chemotherapy at the time of enrollment
+Unresectable pancreatic adenocarcinoma, receiving either ) no chemotherapy ) st cycle of chemotherapy or ) greater than  cycle of chemotherapy if the patients prognosis is greater than  months as determined by oncology collaborators
+Off active chemotherapy treatment for minimum of  months
+Patients with previously diagnosed peripheral neuropathy pre-dating their neurotoxic chemotherapy administration or from causes other than chemotherapy
+Have at least  weeks of cancer treatment (e.g. chemotherapy or biologics such as Herceptin) remaining
+Unable to receive R-CHOP chemotherapy
+Off active chemotherapy treatment for minimum of  months.
+PATIENTS: Treatment plans to include weekly outpatient chemotherapy
+Diagnosed with incurable cancer (defined as receiving treatment with palliative intent as per chemotherapy order entry designation, trial consent forms, or not receiving chemotherapy but followed for incurable disease as per oncology clinic notes)
+Patients who have or have not undergone chemotherapy are both eligible; if the patient has undergone chemotherapy she must have completed adjuvant chemotherapy for >=  months and =<  years prior to study enrollment
+Patients with at least one more chemotherapy appointment at the time of enrollment
+Patients must have completed all of their prescribed chemotherapy at least one week prior to study entry; the plan for PCI should be such that PCI begins no more than  days from the start of induction chemotherapy
+Recent administration (less than  week) of highly emetogenic chemotherapy (Hesketh scale class -); subjects may otherwise be undergoing chemotherapy
+Willing to participate in blood draws and cognitive testing at three time points: baseline prior to starting chemotherapy, prior to the final cycle of neo-adjuvant chemotherapy, several weeks prior to scheduled surgery or several weeks after final cycle of adjuvant chemotherapy; and ~  months after completion of chemotherapy
+Individuals who have already started chemotherapy for breast cancer or who have previously had systemic chemotherapy for a malignancy
+Receiving weekly chemotherapy
+Randomized cohort only:\r\n* No prior chemotherapy within  months of start date of study\r\n* No planned chemotherapy at least  months from study entry
+Patients ? years unfit to receive intensive (e.g., +) chemotherapy who have:
+Allergic to selinexor or any of the chemotherapy intended to receive
+Receiving outpatient chemotherapy
+Expected to receive at least  additional cycle of chemotherapy after the recruitment visit (i.e., day of randomization); participants will be retained on study if treatment regimens change during the study period (e.g., change in chemotherapy drugs or doses prescribed)
+There are no restrictions on the amount or types of prior therapy; eligible patients must be receiving ongoing chemotherapy that is planned to continue for at least one month following enrollment in this trial; any dose or schedule of chemotherapy administration is allowed as long as patients have self-reported taste disturbance that has either: ) developed since the initiation of chemotherapy, or ) a pre-existing, treatment-induced taste disturbance has subjectively worsened since initiating chemotherapy
+Patients receiving chemotherapy at the University of Wisconsin-Madison
+Expected to receive at least  additional cycles (at least  total weeks) of first line myelosuppressive cyclic chemotherapy after randomization. Subjects should not be expected to receive only maintenance chemotherapy.
+chemotherapy or radiotherapynave
+Be receiving chemotherapy in either weekly, -week or -week cycles and have at least  weeks of chemotherapy treatment remaining; patients are eligible any time before chemotherapy cycle  if on a - or -week cycle, or cycle  if on a -week cycle; (Note: use of biologics [e.g., Herceptin (trastuzumab)] is permitted)\r\n* For patients on a weekly regimen, there should be at least  dosages of chemotherapy remaining\r\n* For patients on either a  week or  week cycle, there should be at least  dosages of chemotherapy remaining\r\n* Patients will not be dropped from the study if their chemotherapy is discontinued after they are enrolled
+Subjects may have had chemotherapy prior to radiation; a minimum of two weeks is required between end of chemotherapy and start of RT
+Anticipate receiving chemotherapy for at least  weeks total from the time of recruitment (ongoing chemotherapy not required for focus group participants)
+Must have received at least one taxane or platinum based chemotherapy drug within two years prior to enrollment; must exhibit a typical symptom of CIPN that was not present prior to chemotherapy; symptoms include numbness, tingling, thermal hyperalgesia, cold allodynia in the hands and/or feet, muscle weakness or unsteady gait in at least two of the last seven days prior to registration
+Be chemotherapy nave and about to begin her first course of chemotherapy.
+No prior chemotherapy
+Receiving chemotherapy known to cause alopecia within  days of study or during the study.
+Chemotherapy =<  months prior to randomization (Note: topical chemotherapy will be assessed on a case-by-case basis)
+Receiving chemotherapy during study period
+Low dose chemotherapy given after leukapheresis to maintain disease control must be stopped ?  days prior to lymphodepleting chemotherapy.
+Patients who elect to shave the scalp hair prior to the initiation of chemotherapy or who plan to do so during the chemotherapy treatment.
+Patient must NOT have a history of >  line of administered chemotherapy for metastatic disease and must be off chemotherapy for a minimum of  weeks; prior chemotherapy in the adjuvant setting is allowed
+Use of bleomycin (chemotherapy agent)
+Participants must be willing to have research biopsies at baseline and after  cycles of preoperative chemotherapy, and possibly at the completion of preoperative chemotherapy
+Group I: Treatment plan to include or have included chemotherapy
+Group II: Treatment plan does not and has not included chemotherapy
+Had or plan to receive any chemotherapy
+For study arm , patients that are currently undergoing chemotherapy for recurrence; maintenance chemotherapy is not considered an exclusion criteria; additionally, as noted above if a patient has not yet begun chemotherapy for recurrence or adjuvant chemotherapy for initial diagnosis they are still a candidate to be enrolled on this study arm; patients undergoing neoadjuvant chemotherapy are not eligible for the study under the current protocol at this time
+Chemotherapy in the last four weeks
+Treated with at least one other chemotherapy that did not work or where cancer relapsed
+The interval between the last surgery for breast cancer (including re-excision of margins) and randomization must be no more than  days if chemotherapy is not delivered adjuvantly; if adjuvant chemotherapy was administered, the interval between the last chemotherapy treatment and randomization must be no more than  days
+Histologically proven trophoblastic neoplasia, or clinically demonstrated trophoblastic neoplasia that has progressed following treatment with at least one chemotherapy regimen that included  or more chemotherapy agents.

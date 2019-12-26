@@ -1,0 +1,38 @@
+Adequate renal function assessed by serum creatinine within reference lab normal limits and creatinine clearance (by Chronic Kidney Disease Epidemiology [CKD-EPI] Collaboration equation) ? mL/min.
+Creatinine clearance <  mL/min calculated by the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation
+Estimated glomerular filtration rate (eGFR) >  mL/min (if eGFR is not included on the clinical lab report,\r\nthe chronic kidney disease epidemiology [CKD-EPI] creatinine calculator may be used)
+Either an estimated creatinine clearance value of >  mL/min as determined by the Chronic Kidney Disease Epidemiology (CKD EPI) or MDRD (Modification of Diet in Renal Disease) formulae or a creatinine clearance value of >  mL/min based on a  hour urine collection
+Calculated creatinine clearance >=  mL/min by the modified Cockcroft and Gault formula OR glomerular filtration rate >=  mL/min/body surface area (BSA) by Modification of Diet in Renal Disease or Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) formula
+Creatinine clearance (CrCl) <  ml/min/.m^. Creatinine clearance is estimated by the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) formula
+GFR ? mL/min/. m calculated by CKD-EPI
+Creatinine clearance >=  mL/min/. m^ for patients with creatinine levels above institutional normal (by the Chronic Kidney Disease Epidemiology Collaboration [CKD-EPI] equation)
+Serum creatinine =< . mg/dL, or if creatinine > . mg/dL, calculated creatinine clearance of >=  mL/min by  hour creatinine clearance or Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI)
+Creatinine >. times ULN or creatinine clearance < mL/min (measured or calculated by Chronic Kidney Disease Epidemiology (CKD-EPI) Collaboration equation); confirmation of creatinine clearance is only required when creatinine is >. times ULN.
+Estimated (by Chronic Kidney Disease Epidemiology Collaboration [CKD-EPI] or Cockgroft-Gault equations) or calculated creatinine clearance (CrCl) >=  ml/min
+Creatinine clearance >  mL/min (calculated according to institutional standards or using Cockcroft-Gault, Modification of Diet in Renal Disease [MDRD], or Chronic Kidney Disease Epidemiology Collaboration [CKD-EPI] formula)
+Within  days of treatment initiation: Serum creatinine =< . X upper limit of normal (ULN) OR estimated glomerular filtration rate (GFR) per Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation >=  mL/min for subject with creatinine levels > . X institutional ULN
+Calculated (using the Chronic Kidney Disease Epidemiology Collaboration [CKD-EPI] equation) or measured creatinine clearance < % lower limit of normal (LLN)
+Estimated glomerular filtration rate (eGFR) (chronic kidney disease [CKD]-epidemiology collaboration [EPI]) >=  mL/min/. m^
+TREATMENT: Glomerular filtration rate (GFR) >  mL/min (calculated by the Cockcroft-Gault, Modification of Diet in Renal Disease [MDRD] study, or Chronic Kidney Disease Epidemiology Collaboration [CKD-EPI] creatinine equations, or equivalent)
+Creatinine clearance or glomerular filtration rate ? mL/min as estimated by the Cockroft-Gault (C-G) or other medically acceptable formulas, such as MDRD (Modification of Diet in Renal Disease) or CKD-EPI (the Chronic Kidney Disease Epidemiology Collaboration).
+Serum creatinine < . x upper limit normal (ULN) or estimated glomerular filtration rate (GFR) >  mL/min based upon Chronic Kidney Disease-Epidemiology Collaboration (CKD-EPI) equation. Patients with estimated GFR between  -  mL/min at baseline will require a mTc-DTPA GFR test and only patients with non-obstructive pathology will be included in the study.
+Glomerular filtration rate (GFR) ? ml/min/. m (assessed using the Chronic Kidney Disease Epidemiology Collaboration [CKD-EPI] equation)
+GFR < mL/min/. m (assessed using the CKD-EPI equation)
+Creatinine within institutional normal limits or glomerular filtration rate >=  mL/min/. m^ by chronic kidney disease (CKD) epidemiology collaboration (EPI) equation
+Creatinine clearance >=  mL/min by either measured (using the Cockcroft-Gault, Modification of Diet in Renal Disease [MDRD] or Chronic Kidney Disease Epidemiology [CKD-EPI] formula) or calculated clearance (i.e. glomerular filtration rate [GFR])
+Estimated glomerular filtration rate (eGFR) >=  ml/min/. m^ using the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation, obtained within  days prior to the first study treatment (cycle , day )
+Creatinine clearance or glomerular filtration rate ? mL/min estimated by the Cockroft-Gault (C-G) or other medically acceptable formulas such as MDRD (Modification of Diet in Renal Disease) or CKD-EPI (the Chronic Kidney Disease Epidemiology Collaboration).
+Creatinine clearance <  mL/min, not eligible for bisphosphonate; estimated glomerular filtration rate will be calculated using the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation and/or the Cockcroft-Gault equation
+Estimated glomerular filtration rate (GFR) (calculated using Chronic Kidney Disease Epidemiology Collaboration [CKD-EPI] equation) >=  mL/min/. sq.m.
+Estimated glomerular filtration rate >=  ml/min/.m^ using the chronic kidney disease (CKD)-epidemiology (EPI) equation
+Absence of renal failure attributed to the plasma cell disorder*: calculated creatinine clearance (according to Cockcroft-Gault method, Modification of Diet in Renal Disease [MDRD], or CKD Epidemiology Collaboration [CKD-EPI] formulae) >  mL/min (or alternatively based on standard creatinine level criteria of  mg/dl)\r\n* To be determined based on clinical and laboratory assessment by the primary oncologist
+Serum creatinine > . x ULN; if creatinine . - . x ULN, creatinine clearance will be calculated according to Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) formula and patients with creatinine clearance <  mL/min should be excluded
+Creatinine clearance >=  ml/min using the Cockcroft-Gault method, Modification of Diet in Renal Disease (MDRD), or Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) formula. If the calculated creatinine clearance (CrCl) based on Cockcroft-Gault method, MDRD, or CKD-EPI is <  mL/min, patient will have a  hour (hr) urine collection to measure CrCl.
+Creatinine clearance >=  ml/min; creatinine clearance (CrCl) can be measured or estimated using Cockcroft-Gault method, modification of diet in renal disease (MDRD), or chronic kidney disease-epidemiology (CKD-EPI) formulae
+Estimated glomerular filtration rate >=  ml/min/. m^ using the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation
+Estimated glomerular filtration rate (eGFR) ? mL/min/. m as estimated by the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation, or measured GFR ? mL/min/. m
+Serum creatinine >  x upper limit of normal, unless there is known CKD (creatinine must be at baseline for subjects with CKD)
+Creatinine within institutional normal limits or glomerular filtration rate >=  mL/min/. m^ by Chronic Kidney Disease Epidemiology Collaboration (CKD EPI) equation
+Creatinine clearance (CrCl) of greater than or equal to  mL/min. using the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) formula; if the CrCl based on the CKD-EPI formula is <  mL/min, the patient will have a  hour (hr) urine collection to measure CrCl; the measured CrCl must also be >=  ml/min
+Creatinine =< . x ULN OR creatinine clearance >=  mL/min/. m^ (calculated using the Chronic Kidney Disease-Epidemiology Collaboration [CKD-EPI] equation or Cockroft-Gault formula) for patients with creatinine levels above institutional normal
+Preoperative eGFR >=  cc/min/. m^ as measured by the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) study equation

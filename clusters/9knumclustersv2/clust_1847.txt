@@ -1,0 +1,20 @@
+DONOR: HLA-identical sibling
+DONOR: HLA genotypically identical sibling matched relative
+Available HLA identical matched sibling donor (unless having failed a prior allogeneic transplant from an HLA identical matched sibling)
+DONOR: Related donor (parents, sibling, offspring, or offspring of sibling)
+Patients must be medically ineligible for allogeneic stem cell transplant (alloSCTx) or not have a known fully HLA matched sibling for planned sibling transplant
+HLA-identical sibling
+DONOR: A sibling donorfully matched
+DONOR: A sibling donorhaploidentical
+Availability of a genetic child, genetic parent or sibling as a potential HLA haploidentical donor
+DONOR: Related donor (sibling, parent, offspring, parent or offspring of an HLA identical sibling) >= age  years (if <  years, >  kg)
+DONOR: Related donors (sibling, parent, offspring, parent or offspring of an HLA identical sibling)
+DONOR: Human leukocyte antigen (HLA) identical sibling donor
+DONOR: Related donors (sibling, parent, offspring, parent or offspring of an HLA identical sibling)
+DONOR: Related donor (sibling, parent, offspring, parent or offspring of an HLA identical sibling) - years of age (it is recognized individual institutions may have differing donor age guidelines; this is acceptable as long as no donor is younger than  years or older than  years)
+DONOR: HLA-matched or -haploidentical, parent, child, sibling, or half-sibling of the recipient
+Must have a potential haploidentical donor (parent, sibling, child)
+DONOR: Related donors (sibling, parent, offspring, parent or offspring of an HLA identical sibling) age  to  years
+DONOR: HLA genotypically identical sibling
+DONOR: HLA genotypically identical sibling
+Sibling Donor Transplant

@@ -1,0 +1,34 @@
+Hemoglobin (Hgb) > 9.0 g/dL obtained =< 21 days prior to registration
+360.0
+Hemoglobin (Hgb) > 9.0 g/dl
+130.0
+Hemoglobin (HgB) > 8.5 g/dL
+48.0
+PROCUREMENT: Hemoglobin (Hgb) > 8.0 (transfusions allowed)
+44.0
+TREATMENT: Hgb > 8.0 g/dL (transfusions allowed)
+44.0
+Obtained =< 7 days prior to registration: Hemoglobin (Hgb) > 9.0 mg/dl
+102.0
+Hemoglobin (HgB) >= 9.0 g/dL
+600.0
+Hemoglobin (Hgb) > 9.0 g/dL, must be obtained within 8 weeks prior to screening for protocol therapy
+562.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Hemoglobin (Hgb) > 9.0 g/dL
+562.0
+Hemoglobin (HgB) >= 9
+60.0
+Hemoglobin (Hgb) > 9
+23.0
+Hemoglobin (HgB) >= 9.0 g/dL
+45.0
+Hemoglobin (Hgb) >= 9.0 g/dL
+64.0
+Hemoglobin (Hgb) >= 8 g/dL
+84.0
+Within 14 days prior to registration: Hemoglobin (Hgb) >= 8 g/dl
+488.0
+Hemoglobin (Hgb) >= 9.0 g/dL
+28.0
+Hemoglobin (Hgb) >= 9 g/dl
+180.0

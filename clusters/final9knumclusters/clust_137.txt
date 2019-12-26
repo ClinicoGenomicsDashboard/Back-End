@@ -1,0 +1,43 @@
+T0-3, N0 to N2c, M0 squamous cell carcinoma of the oropharynx
+Biopsy proven squamous cell carcinoma that is HPV and/or p16 positive
+Patients must have pathologically confirmed HPV-positive head and neck squamous cell carcinoma of the oropharynx; confirmed HPV-positive disease of other subsites are uncommon but also eligible
+Histologically confirmed diagnosis of squamous cell carcinoma of the oropharynx, stage IVa, p16-positive on immunohistochemistry (determination of HPV status using p16 as surrogate is standard of care)
+The patient has newly-diagnosed, biopsy proven squamous cell carcinoma of stage I-IV (T1-3, N0-2b) of the oropharynx
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Carcinoma of the oropharynx associated with HPV as determined by p16 protein expression using immunohistochemistry (IHC) performed by a Clinical Laboratory Improvement Act [CLIA] approved laboratory; using p16 antibody obtained from Roche mtm laboratories AG (CINtec, clone E6H4) is recommended
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: No prior radiation above the clavicles
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Patients must not have evidence of extensive or “matted/ fixed” pathologic adenopathy on preoperative imaging
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Hemoglobin > 9 g/dL
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Lymphocyte count > 500 x 10^9/mL
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Neutrophil count > 1500 x 10^9/mL
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Platelet count > 100,000 x 10^9/mL
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Serum albumin > 3.0 g/dL
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Aspartate aminotransferase (AST/ SGOT) and alanine aminotransferase (ALT/ SGPT) < 3 x the upper limits of normal (ULN)
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Alkaline phosphatase < 2 x ULN
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Calculated creatinine clearance > 50 mL/min
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Willing and able to give informed consent and adhere to protocol therapy
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: ECOG performance status < 2
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Female of childbearing potential (less than 12 months post-menopausal) or male with a partner of childbearing potential either agrees to be abstinent or uses a medically acceptable form of birth control during the study and for a period of 1 year after if on Arm 1
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Negative urine/serum pregnancy test (females only) at the time of screening and within 24 hours of study treatment, if applicable
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Prior surgery, radiation therapy, or chemotherapy other than biopsy or emergency procedure required for supportive care
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Any medical contraindications or previous therapy that would preclude treatment with either nivolumab or IRX-2 or the surgery, reconstruction or adjuvant therapy required to treat the oropharynx tumor appropriately
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Clinical status of either subject or tumor such that administration of neoadjuvant nivolumab or IRX-2 before surgery would be medically inappropriate
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Tumor of the oral cavity
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Any investigational agent within the previous 30 days
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Daily administration of systemic immunosuppressive therapy or corticosteroids (except in physiological doses for hormone deficiency) during the previous 30 days
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Chronic anticoagulation, not including aspirin, but including heparins, warfarin, oral anticoagulation or other platelet function inhibitors
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Myocardial infarction within the last 3 months
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Evidence of distant metastases (M1 disease) or other concurrent primary malignancy
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Known infection with hepatitis B, hepatitis C, or HIV
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Signs or symptoms of systemic bacterial infection (use of antibiotics to treat superficial infection or contamination of tumor shall not, by itself, be considered evidence of infection)
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Stroke or other symptoms of cerebral vascular insufficiency within the last 3 months
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Allergy to ciprofloxacin (or other quinolones), acetylsalicylic acid
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Prior axillary dissection
+Histologically documented squamous cell carcinoma of the oropharynx (stage III-IV A,B)
+Tumor of the oropharynx
+Patients must have pathologically confirmed HPV-positive squamous cell carcinoma
+Pathologically (histologically or cytologically) proven diagnosis of HPV associated squamous cell carcinoma of the oropharynx (tonsil, base of tongue, or oropharyngeal walls) from surgical resection or excisional biopsy regardless of margin status\r\n* Squamous cell carcinoma of the neck of unknown primary is allowed with excision biopsy of a lymph node (or core biopsy) and consent from the principal investigator (PI) or co-PIs (Dr. Nancy Lee, Dr. Eric Sherman, or Dr. Nadeem Riaz)
+Histological confirmation of HPV+ squamous cell carcinoma of the oropharynx; HPV positivity will be defined as positive staining for p16 on immunohistochemistry (IHC)
+Patient must have histologically confirmed p16 positive squamous cell carcinoma of the oropharynx (OPSCC)
+Patients with a previously untreated, T1 or T2, N0-N2b transorally resectable (as determined by the treating surgeon), histologically proven HPV positive, squamous cell carcinoma (SCC) of the oropharynx
+T0-3, N0 to N2c, M0 squamous cell carcinoma of the oropharynx
+Biopsy proven squamous cell carcinoma that is HPV and/or p16 positive

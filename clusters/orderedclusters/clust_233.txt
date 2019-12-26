@@ -1,0 +1,28 @@
+Hemoglobin >= 9.0 g/dL not requiring transfusions within the past 2 weeks
+40.0
+Hemoglobin >= 9 g/dL (transfusions and/or erythropoietin are permitted)
+132.0
+Hemoglobin >= 8.0 g/dL (may receive red blood cell [RBC] transfusions)
+275.0
+For patients with solid tumors without known bone marrow involvement: hemoglobin >= 8.0 g/dL (may receive red blood cell [RBC] transfusions)
+154.0
+For patients with solid tumors without known bone marrow involvement: hemoglobin >= 8.0 g/dL (may receive red blood cell [RBC] transfusions)
+148.0
+* Hemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)
+81.0
+Hemoglobin >= 8 g/dl (may receive transfusions)
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Hemoglobin >= 8 g/dl (may receive transfusions)
+110.0
+Hemoglobin >= 10 g/dL (not requiring red blood cell [RBC] transfusions)
+50.0
+Hemoglobin >= 8.0 g/dL at baseline (may receive red blood cell [RBC] transfusions)
+67.0
+Hemoglobin >= 10.0 g/dL (may receive red blood cell [RBC] transfusions)
+45.0
+Hemoglobin >= 8 g/dl (may receive transfusions)
+25.0
+Hemoglobin >= 10 g/dL (not requiring red blood cell [RBC] transfusions)
+24.0
+Hemoglobin >= 8.0 g/dL (may receive red blood cell [RBC] transfusions) for patients with solid tumors without bone marrow involvement
+146.0

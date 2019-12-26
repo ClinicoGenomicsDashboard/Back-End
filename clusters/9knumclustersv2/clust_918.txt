@@ -1,0 +1,65 @@
+Refractory cytopenia with unilineage dysplasia (RCUD) (includes refractory anemia (RA))
+Patients cannot have:\r\n* Central nerve system involvement\r\n* Primary refractory multiple myeloma, where primary refractory multiple myeloma is defined as disease that is nonresponsive  patients who have never achieved a minimal response (MR) or better  with any therapy over the course of their disease; it includes patients who never achieve MR or better in whom there is no significant change in M-protein and no evidence of clinical progression as well as patients who meet criteria for true progressive disease (PD)\r\n* Primary or secondary plasma cell leukemia\r\n* Light-chain (AL) amyloidosis or polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, and skin changes (POEMS) syndrome\r\n* Known active hepatitis C based on:\r\n** +hepatitis C virus (HCV) antibody (confirmed)\r\n** +HCV RNA\r\n** Liver disease with history of positive serology\r\n** Note: patients with a prior history of hepatitis C that has been successfully eradicated with antiviral therapy are eligible\r\n* Known hepatitis B surface antigen positivity\r\n* Previous hypersensitivity to any of the components of the study treatment\r\n* Prior history of erythema multiforme with thalidomide or lenalidomide treatment
+primary refractory myeloma (PRMM): subjects who have never achieved the minimal response or better to prior therapy OR
+Primary refractory disease (i.e. never responded (? MR) to any prior therapy)
+Asparaginase refractory disease, defined by any one of the following:
+Cohort : Have primary platinum refractory disease.
+INCLUSION - INFUSION: Any patient, regardless of age or sex, with measurable EBV-positive Hodgkins or non-Hodgkins lymphoma, (regardless of the histological subtype) or EBV (associated)-T/NK- or B cell lymphoproliferative disease\r\n* The first  patients enrolled will be adults; patients < years of age are eligible if those first  patients do not experience dose limiting toxicity considered to be primarily related to the EBVST or nivolumab\r\n* Patients with relapsed or refractory lymphoma who failed or are ineligible for an autologous hematopoietic cell transplantation are also eligible for this study; and\r\n* Hodgkins lymphoma patients in second relapse or first relapse and refractory to at least two lines of salvage chemotherapy including brentuximab vedotin or primary refractory disease after at least two lines therapy, or\r\n* Non- Hodgkins lymphoma patients in first relapse and/or refractory to at least one salvage chemotherapy or with primary refractory disease after at least two lines of therapy or in second or subsequent relapse, or\r\n* T/NK- or B lymphoproliferative disease in first relapse and/or refractory to at least one salvage chemotherapy or with primary refractory disease after at least two lines of therapy or in second or subsequent relapse
+Subject must be non-refractory to bortezomib (Refractory is defined: progression of disease while receiving bortezomib therapy or within  days of ending bortezomib therapy).
+Primary refractory HL or DLBCL
+primary refractory myeloma
+refractory to bortezomib
+ALL patient refractory to their first induction only or their first relapse, will be excluded; they must be refractory to at least one salvage therapy, or relapse after first salvage, to be eligible
+Primary refractory disease (i.e. never responded with ? MR to any prior therapy)
+History of refractory systemic infection.
+Primary refractory disease
+Patients refractory to prior therapy with trastuzumab are eligible
+High-risk neuroblastoma with either primary refractory or secondary refractory osteomedullary disease (persistent neuroblastoma at osteomedullary sites after prior treatment)
+For patients with refractory disease they must be at least  weeks out from most recent therapeutic intervention
+Refractory to or intolerant of lenalidomide maintenance following first autologous stem cell transplantation; refractory is defined as disease relapse/progression on therapy or within  days of completing therapy; intolerance is defined as the inability to administer >=  mg per day due to toxicity
+History of refractory systemic infection
+Has received more than one systemic treatment for steroid refractory aGvHD.
+PHASE II:\r\n* Patients without measurable disease by imaging\r\n* Patients with persistent platinum-refractory disease after primary therapy
+For Part  and Part  of the study, patients with primary refractory DLBCL (defined as progression of disease within  weeks after first line of treatment).
+Has primary refractory disease (this is, those whose tumors have progressed at the first restaging during first line therapy)
+Received antileukemic therapy within the last  weeks (with the exception of hydroxyurea or if the patient has definite refractory disease). Refractory patients who received therapy within the last  weeks may be eligible with prior approval of the Medical Monitor.
+Refractory to first or later treatment, or
+Patient must have achieved MR or better with any anti-myeloma therapy (ie, primary refractory disease is not eligible).
+Patients with: A) diffuse large B-cell lymphoma (DLBCL) with one of the following: A.) primary refractory (no CR to st line), A.) high-risk relapse (CR <  months (mo), secondary International Prognostic Index [IPI] >, high lactate dehydrogenase [LDH]), A.) refractory relapse: no response to >=  salvage line and not eligible to receive other novel salvage therapies, such as chimeric antigen receptor T-cells (CAR-T) in a timely fashion or have already failed these; B) Hodgkins with one of the following: B.) primary refractory (no CR or progressive disease [PD] within  months), B.) high-risk relapse (CR <  year, extranodal relapse, B symptoms), B.) refractory relapse: no response to >=  salvage line C) T-non Hodgkin's lymphoma (T-NHL) with one of the following: C.) primary refractory (no CR to st line), C.) high-risk relapse (within  months), C.) refractory relapse to >=  line of salvage. D) any other lymphoma that is refractory or relapsed and that does not qualify for autologous transplant protocols of higher priority.
+For expansion cohorts only: Primary refractory multiple myeloma defined as disease that is non-responsive in participants who have never achieved a minimal response or better with any therapy
+Patients with primary refractory disease with progression of the primary tumor on initial therapy
+Patients must have disease refractory to standard therapy or recurrent malignancy; patients current disease state must be one for which no known curative therapy is available; to be eligible for phase I study patients should have primary refractory or relapsed disease as evidenced by either:\r\n* Local or/and metastatic tumor recurrence or primary refractory tumor measurable on CT or magnetic resonance imaging (MRI) scans\r\n* Refractory persistent bone marrow disease with evidence of NB involvement of bone marrow in at least one site of biopsy\r\n* NB with metaiodobenzylguanidine (MIBG)-positive skeletal lesions (at least one site)\r\n* For sarcoma patients with resected pulmonary lesions pre-surgery CT scans demonstrating disease are required
+Patients with chemorefractory non-Hodgkins or Hodgkins lymphoma or multiple myeloma\r\n* Criteria for consideration of enrollment will include:\r\n** Primary refractory or refractory relapsed disease for which autologous hematopoietic cell transplantation (HCT) is unlikely to be beneficial\r\n** Relapse after autologous HCT\r\n** Ineligibility for standard myeloablative or nonmyeloablative allogeneic (allo)-HCT because of either lack of a donor or patient considerations\r\n*** Non-Hodgkins lymphoma, or Hodgkins lymphoma: primary refractory or refractory relapse\r\n*** Multiple myeloma; primary refractory or refractory relapse\r\n*** Patients with the above malignancies who have had a previous autologous or allogeneic bone marrow or stem cell transplant
+Patients must have experienced at least one and at most two relapses prior to study enrollment; patients with primary refractory disease are eligible
+Patients with primary platinum-refractory disease
+Subject is in second or later hematologic relapse or has received salvage therapy for refractory disease
+Subject must not have primary refractory disease
+Primary refractory patients will be eligible if, on day  of their previous chemotherapy regimen, they have significant residual disease; patients who received only hypomethylating agent or low dose therapy for Induction are not considered primary refractory for purposes of this study and are not eligible
+Subject must not have primary refractory disease
+primary refractory DLBCL
+Primary refractory multiple myeloma defined as patients who have never achieved at least a minimal response (MR) with any treatment during the disease course.
+Relapse or refractory disease after at least  systemic therapy
+Patients refractory to ublituximab + TGR-
+Primary refractory disease
+Subject had disease refractory to an AI
+Primary refractory patients (never responded to any therapy) are eligible
+Patients must have relapsed or relapsed and refractory disease after receiving  or more lines of therapy\r\n* Relapse is the occurrence of any of the following: ) > % increase in in myeloma protein (M-protein) from the baseline levels; ) reappearance of M-protein that had disappeared; or ) definite increase in the size and number of lytic bone lesions recognized on radiographs (compression fractures per se do not constitute a relapse)\r\n* Subjects will be considered refractory to therapy, as defined by progression during treatment or within  days after the completion of salvage treatment; subjects with primary refractory disease, defined as disease that is non-responsive in patients that have never achieved a minor response or better with any therapy are excluded; this includes: ) non-responding, non-progressing; patients who never achieve minor response (MR) or better in whom there is no significant change in M protein and no evidence of clinical progression; and ) progressive; primary refractory, progressive disease where patients meet criteria for true progressive disease
+Participants with primary refractory disease
+Primary refractory de novo DLBCL or primary refractory follicular grade  lymphoma, defined as documented progression within  weeks of the last cycle of the first-line multi-agent regimen.
+Patient was not refractory
+Patients must have achieved PR to primary treatment and not be refractory to prior treatment
+Chemo-refractory is defined as:
+Burkitt or acute lymphoblastic lymphomas\r\n* High-risk disease in remission\r\n* Primary refractory disease\r\n* Recurrent disease\r\n* Relapse/progression after autologous HSCT
+Diagnosis of skin, gut and/or liver steroid-refractory GVHD by clinical assessment of treating physician following allogeneic HCT. Patients who fail to respond to steroids by  days are considered steroid-refractory
+Disease refractory to either, AI, tamoxifen or fulvestrant
+Chemotherapy-refractory disease, defined as one of more of the following:
+RAI-refractory disease on structural imaging
+Disease refractory to a carfilzomib-containing regimen and/or a pomalidomide containing regimen. Refractory is defined as either failure to achieve a minimal response (MR) or better while on therapy, or development of progressive disease (PD) while on therapy or within  days from last dose of therapy.
+Refractory to the most recently received therapy; refractory disease is defined as =< % response or progression during therapy or within  days after completion of therapy
+Refractory disease on most recent therapy, or disease recurrence following remission on most recent therapy;
+Primary refractory patients
+Primary refractory MM
+MM that is refractory to the most recent treatment regimen. Refractory is defined as ? % response to therapy, or progression during therapy, or progression on or within  days after completion of therapy.
+Bulky disease (>  cm) at diagnosis or at relapse/refractory disease confirmation
+Primary refractory disease
+Chemotherapy-refractory disease, defined as one or more of the following:

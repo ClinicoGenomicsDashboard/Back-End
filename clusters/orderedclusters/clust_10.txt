@@ -1,0 +1,54 @@
+Patient who is pregnant and/or breastfeeding
+292.0
+Pregnant or lactating women
+545.0
+Woman who are pregnant or breastfeeding
+128.0
+TREATMENT: Pregnant
+44.0
+Pregnant or breastfeeding
+90.0
+Pregnant women are eligible to participate in this study
+612.0
+Females who are pregnant or breastfeeding are ineligible
+450.0
+Pregnant women are excluded from this study; breastfeeding should be discontinued prior to the first dose of study drug and women should refrain from nursing throughout the treatment period and for 3 months following the last dose of study drug
+140.0
+Breastfeeding should be discontinued prior to the first dose of study drug and women should refrain from nursing throughout the treatment period and for 14 days following the last dose of study drug
+72.0
+Pregnant women are excluded from this study
+72.0
+TUMOR BIOPSY SEQUENCING: Women who are pregnant or breastfeeding
+700.0
+TREATMENT: Breastfeeding should be discontinued while the patient is on this trial and for 30 days following last dose of study drug
+700.0
+TREATMENT: Women who are pregnant or breastfeeding
+700.0
+Women who are pregnant or breastfeeding
+92.0
+Pregnant and breastfeeding women are excluded from this study
+100.0
+Pregnant women are excluded from this study; breastfeeding should be discontinued
+28.0
+Pregnant or breastfeeding women
+1500.0
+Pregnant women are excluded from this study; breastfeeding should be discontinued prior to the first dose of study drug and women should refrain from nursing throughout the treatment period and for 3 months following the last dose of study drug
+24.0
+Pregnant women are excluded; breastfeeding should be discontinued prior to the first dose of study drug and women should refrain from nursing throughout the treatment period and for 3 months following the last dose of study drug
+35.0
+If pregnant or breastfeeding, or expecting to conceive or father children within the projected duration of the trial, starting with the pre-screening or screening visit through 120 days after the last dose of trial treatment; pregnant women are excluded from this study; breastfeeding should be discontinued if the mother is treated with MK-3475
+36.0
+Pregnant women are excluded from this study; breastfeeding should be discontinued prior to treatment with dabrafenib/trametinib
+18.0
+Pregnant women and women who are breastfeeding are excluded from this study
+46.0
+Pregnant women are excluded from this study; breastfeeding should be discontinued
+45.0
+Pregnant women are excluded from this study
+37.0
+Not pregnant or nursing, with negative serum pregnancy test; pregnant women are excluded from this study; breastfeeding should be discontinued; timeline: within 3 weeks prior to enrollment
+18.0
+Pregnant women
+348.0
+Pregnant women and women who are breastfeeding are excluded from this study
+60.0

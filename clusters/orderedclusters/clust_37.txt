@@ -1,0 +1,22 @@
+Participants with known congestive heart failure (CHF); if known, patients with left ventricular ejection fraction (LVEF) =< 40% are excluded
+90.0
+Left ventricular ejection fraction (LVEF) >= 55%
+180.0
+Pediatric patients: normal left ventricular function with ejection fraction > 55% or shortening fraction >= 27%
+73.0
+Left ventricular ejection fraction (LVEF) >= institutional lower limit of normal
+70.0
+Left ventricular ejection fraction >= 45%
+63.0
+Systolic cardiac function will be assessed at screening if clinically indicated by history and physical; only patients with left ventricular ejection fraction (LVEF) >= 50% will be eligible for enrollment
+28.0
+Left ventricular ejection fraction (LVEF) >= 50% (measured within 28 days of study entry)
+96.0
+Patients must have left ventricular ejection fraction (LVEF) > 45% or within institutional normal limits
+57.0
+Left ventricular ejection fraction (LVEF) < 50%, regardless of whether there are symptoms of heart failure
+50.0
+Left ventricular ejection fraction (LVEF) >= 50%
+84.0
+If cardiac function assessment is clinically indicated or performed: participants will be ineligible if left ventricular ejection fraction (LVEF) is less than normal per institutional guidelines, or < 55%, if the threshold for normal is not otherwise specified by institutional guidelines
+70.0

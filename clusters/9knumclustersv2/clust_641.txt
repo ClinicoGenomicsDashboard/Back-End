@@ -1,0 +1,4 @@
+Subjects must be HLA-A positive by central lab
+PD-L+ on immunohistochemistry testing performed by central lab
+TP sequencing by NGS performed by central pathology lab
+Subjects must have confirmed EGFR amplification by central lab

@@ -1,0 +1,91 @@
+Patients with brain metastases or primary brain tumors must have completed treatment, surgery or radiation therapy >= 4 weeks prior to start of treatment
+No radiation therapy (other than to the brain) within 14 days of day 1 of protocol chemotherapy except radiation to brain metastases, which must be completed 7 days prior to start of chemotherapy
+No large (>= 2 cm) hemorrhagic or symptomatic brain metastases until local treatment has been administered (radiation therapy or surgery); treatment may begin >= 7 days after completion of local treatment; patients with small (< 2 cm) and asymptomatic brain metastases are allowed and may be treated with radiation therapy and/or surgery concurrently with Arm A or cycles 1 and 2 of Arm B if deemed medically indicated; radiation therapy should not be given concurrently with high-dose carboplatin or etoposide
+COHORT D: 1-4 brain metastases (where stereotactic radiosurgery would be indicated)
+Will need immediate local surgery or radiation for their brain metastases
+Partial brain radiotherapy (i.e. =< 40% of total brain volume) within the last 2 weeks
+Whole brain radiotherapy within the last 6 months or partial brain radiotherapy exceeding > 40% of total brain volume within the last 6 months
+Participants who have received prophylactic cranial radiation for prevention of brain metastases
+Or have required any type of major treatment, e.g., whole brain radiation treatment, adjuvant chemotherapy, gamma knife, to control symptoms from brain metastases within 30 days of the first study treatment.
+Patients with known brain metastases will be eligible as long as they have completed radiation to the brain, and have been off of corticosteroid therapy for at least 7 days
+Patients who need whole brain radiation to control the brain metastases. Patients will not be eligible unless treated brain lesions are progressive or new brain lesions are observed since the post whole brain radiation therapy MRI.
+Planning of any brain local treatment (including but not limited to surgery, stereotactic radiosurgery, whole brain radiation, intrathecal chemotherapy) following the administration of the first dose of study drug.
+Prior radiation treatment to the brain
+Previous whole brain radiation therapy
+Planned adjuvant focal therapy including additional radiation therapy to the brain
+Must have received prior radiation therapy for brain metastases or be ineligible for radiation therapy
+Patients treated metastatic lesions to the brain may be enrolled after completing stereotactic radiosurgery (may enroll 14 days after treatment) or whole brain radiation (may enroll 14 days after treatment) and being weaned off corticosteroids (may enroll 14 days after weaning)
+Patients with untreated brain metastasis; patients with metastatic lesions to the brain may be enrolled after completing stereotactic radiosurgery or whole brain radiation (may enroll 14 days after treatment and must be off corticosteroids for at least 14 days prior to the start of study treatment
+Previously treated with surgery, whole-brain radiation, or stereotactic radiosurgery, and
+History of radiation therapy to the brain for prior diagnosis of glioma
+Determination by the treating radiation oncologist that the patient is a candidate for SRT (i.e., radiation therapy with a stereotactic setup)\r\n* Note: All brain metastases will receive SRT
+Previous radiation to the brain, including WBRT or brain radiosurgery
+At least 28 days from prior definitive treatment of their CNS disease by surgical resection, stereotactic body radiation therapy (SBRT) or whole brain radiation treatment (WBRT) at the time of registration
+Have had prior radiation therapy to the brain or prior treatment for their brain tumor (except prior biopsy or subtotal resection)
+Patients who have received radiation to brain and/or spine, including whole brain radiation, stereotactic radiosurgery, or stereotactic body radiation therapy (SBRT), are eligible, but must have completed radiation treatment at least 7 days prior to the start of treatment
+Major surgery < 4 weeks or radiation therapy < 2 weeks of starting the study treatment; prior palliative radiotherapy to metastatic lesion(s) is permitted, provided there is at least one measurable lesion that has not been irradiated\r\n* Radiotherapy is defined as whole brain radiation, external beam radiation therapy (EBRT), or stereotactic brain radiation (SBRT)
+Prior radiation therapy to the brain besides radiosurgery
+A history of previously treated brain metastases is allowed, provided that at least 7 days have lapsed between radiation and initiation of pembrolizumab; any brain metastasis >= 20 mm or causing symptoms must be treated with local therapy (i.e. radiation or surgical resection, as clinically appropriate) prior to study enrollment; any lesion present at the time of whole brain radiotherapy (WBRT) or included in the stereotactic radiotherapy field (or within 2 mm of the treated lesion) will NOT be considered evaluable unless it is new or documented to have progressed since treatment
+Patients will have no more than 4 distinct lesions within the brain; at least 1 lesion has been recommended for surgical removal based on size, symptomology, or regional mass effect on the brain
+History of prior radiation therapy to brain or skeleton is allowed, but should have occurred > 2 months from enrollment
+A history of previously treated brain metastases is allowed, provided that at least 14 days have lapsed between radiation and initiation of MK-3475; any lesion present at the time of whole-brain radiotherapy (WBRT) or included in the stereotactic radiotherapy field (or within 2mm of the treated lesion) will NOT be considered evaluable unless it is new or documented to have progressed since treatment
+Prior whole brain radiation therapy (WBRT)
+At least 14 days passed since last brain surgery or radiation therapy.
+Prior whole brain radiation therapy
+Prior radiation to the brain
+At least 14 days passed since last brain surgery, or intracranial radiation therapy/radiosurgery
+Tumor location on both sides of the brain and/or involvement that would present the risk of injecting DNX-2401 into the ventricles of the brain
+Brain metastases per MRI or CT at any time prior to registration; NOTE: patients that have had primary therapy for brain metastasis (i.e. surgical resection, whole brain radiation, or stereotactic radiotherapy [SRT] even if stable) are not eligible
+Resection of brain metastases, otherwise untreated with radiation for those brain lesions (presenting for postoperative consolidative radiotherapy)
+Brain metastases may be treated using gamma knife radiosurgery (GKR) or whole brain radiation therapy (WBRT) per the treating radiation oncologist; total radiation dose and number of fractions will be determined by the treating radiation oncologist based on anatomic and dosing constraints; magnetic resonance imaging (MRI) of the vertebral column is required for all patients with suspected epidural tumor extension
+Patient may have received previous treatment for the brain tumor(s), including radiation (focal brain radiation, whole brain radiation or stereotactic radiosurgery), surgery or chemotherapy
+Prior brain surgery or radiation is allowed as long as the metastatic lesion(s) to be targeted in this study has not previously been treated with radiation
+Prior radiation therapy to the whole brain (prior stereotactic radiosurgery or fractionated stereotactic radiation therapy to focal areas is allowed)
+Unable to reliably be immobilized for safe administration of whole brain radiation therapy
+At least one measurable lesion in the brain (>= 10 mm on T1-weighted, gadolinium-enhanced magnetic resonance imaging [MRI]); (prior neurosurgical resection, whole brain radiation or stereotactic radiation therapy is allowed provided the patient has a measurable CNS progression [at least one new and/or progressive measurable brain metastasis]; measurable or non-measurable extracranial metastases allowed); if the potential participant has received brain radiation there needs to be at least one new and/or progressive measurable brain metastases after radiation is completed; do not consent patients if you are planning on administering brain radiation therapy
+Prior radiation for bone or brain metastases is permitted if patient is now asymptomatic and has completed all radiation and steroid therapy (if applicable) for brain or bone metastases >= 2 weeks prior to study enrollment
+Previous whole brain radiation therapy
+Subjects with brain metastases as their first site of disease recurrence may be eligible if treated by definitive radiation (stereotactic radiosurgery or whole brain) with clinically controlled neurologic symptoms for a period of 21 days prior to study treatment
+Progression of or new brain metastases after completion of whole-brain radiotherapy or stereotactic radiosurgery
+Completion of whole-brain radiotherapy or stereotactic radiosurgery more than 60 days prior to enrollment
+At least one measurable BM by RECIST 1.1 criteria (? 10mm in longest diameter). Target lesions must not have received stereotactic radiotherapy (SRS). If subject had prior whole brain radiotherapy (WBRT), progression in any measurable BM lesion must have occurred at least 3 months after the end of WBRT. Subjects with asymptomatic brain metastases may be enrolled without prior radiation therapy to the brain. Subjects with minimally symptomatic brain metastases may be enrolled without prior radiation therapy to the brain if they do not require immediate surgical or radiation therapy in the opinion of the treating investigator and in the opinion of a radiation therapy or neurosurgical consultant
+Prior therapy for brain metastases is not required; patients may either have refused radiation therapy or have received prior radiation therapy; patients having received prior standard whole brain radiation therapy (WBRT) or stereotactic radiosurgery (SRS) must have completed treatment greater than 4 weeks prior to study initiation; patients are either inappropriate candidates for surgical resection or they may have refused surgical resection
+Prior radiation therapy to the brain is allowed with the exception of whole brain irradiation
+Patients with known brain metastases will be eligible as long as they have completed radiation to the brain and have been off of corticosteroid therapy for at least 2 weeks prior to study treatment
+Patients will be excluded if they have had prior radiation to the brain
+Patients will be excluded if they have had prior surgical resection of brain for other brain tumors
+Concurrent radiation therapy is not allowed with the exception of brain metastases developing on study treatment
+Patients receiving whole brain radiation within 14 days prior to the first dose of study drugs will be excluded; NOTE: patients receiving palliative radiation (other than whole brain) before or during treatment may still be eligible as long as there are evaluable lesions that are not being irradiated
+No prior radiation therapy, surgery, or other local therapy for target brain lesions
+Prior radiation therapy to the brain
+Prior intracranial radiation therapy (whole brain radiation therapy, stereotactic radiosurgery, gamma knife, or equivalent) is allowed, but not required
+Has completed treatment (eg, whole brain radiation treatment [WBRT], stereotactic radiosurgery, or equivalent) ?14 days prior to the first dose of study treatment,
+Patients who have received prior radiation therapy to the brain for any reason
+Subjects with asymptomatic brain metastases found on screening MRI may be entered into Phase 1b or into Group 2 of the Phase 2a without prior radiation therapy to the brain. Subjects with minimally symptomatic brain metastases found on screening MRI may be entered into Phase 1b or into Group 2 of the Phase 2a without prior radiation therapy to the brain if they do not require immediate surgical or radiation therapy
+Deep brain stimulator
+Prior radiation therapy to the brain
+Concurrent or previous anti-cancer chemotherapy, immunotherapy or investigational agents < 3 weeks, or palliative radiation < 2 weeks prior to the first day of study treatment. Patients who receive gamma knife radiosurgery for brain metastases or whole brain radiation are eligible if gamma knife radiosurgery was performed > 2 weeks before treatment is started or whole brain radiation was performed > 4 weeks before treatment is started, and are clinically stable.
+No history of prior whole brain radiation
+Treatment with stereotactic radiosurgery or treatment with whole-brain radiation within treatment specific timeframe.
+Histologically confirmed initial diagnosis of primary WHO Grade IV malignant glioma (glioblastoma), now recurrent; or Cohorts 2 and 3 only: progressive secondary brain tumor, has failed standard brain radiotherapy, and has brain tumor progression after at least one line of systemic therapy. Patients with progressive secondary brain tumors will not be enrolled under this protocol following the completion of Cohort 3.
+Brain stem involvement allowed
+No conditions that may compromise blood-brain barrier permeability (e.g., multiple sclerosis, recent brain trauma, Alzheimer’s disease, or uncontrolled seizures)\r\n* No symptomatic and untreated brain metastases; patients will be eligible for study if radiation therapy for brain metastases was completed at least 7 days prior to registration\r\n* Patients having received stereotactic radiation will be eligible if the radiation was completed at least 7 days prior to registration\r\n* Patients having undergone surgical resection of brain metastases will be eligible after they have healed and recovered from the surgical intervention sufficiently to start systemic treatment for NSCLC, as determined by a neurosurgeon\r\n* No known leptomeningeal carcinomatosis
+BRAIN CANCER: Status post concurrent radiation therapy and daily temozolomide
+SUBJECT: Must be at least 1 year post completion of radiation therapy to the brain or brain and spine.
+Prior external beam radiation therapy to the brain or whole brain radiation therapy\r\n* Prior single-fraction or fractionated radiosurgery is permitted
+Prior radiation therapy to the brain
+Medical treatment plan includes whole-brain radiation therapy and/or stereotactic radiosurgery
+Metastatic cancer to the brain for which palliative whole brain radiotherapy is recommended.
+Whole-brain radiation ? 6 weeks
+Brain metastases requiring focal or whole brain radiation will be excluded
+Prior brain tumor treatment, including surgical resection, radiation therapy or chemotherapy for a primary brain neoplasm. Previous biopsy will not disqualify the patient from participation. Remote history (> 6 month) of non-CNS malignancy in remission, without evidence of current/ prior brain metastasis, will also not disqualify patient from participating.
+Prior brain cancer
+Prior whole brain radiation
+History of radiation therapy to the brain
+Completed fractionated radiation therapy (to 60 Gy for high grade gliomas) or stereotactic radiosurgery or hypofractionated radiation therapy (e.g. for brain metastases, anaplastic meningiomas), without or with concurrent chemotherapy
+Any indication of a risk for an imminent brain herniation, as evaluated by the Principal Investigator, based on the findings on brain MRI.
+Treatment with whole brain radiation therapy (WBRT) within 3 months prior to screening.
+Patient must meet at least one of the four following criteria regarding brain tumor diagnosis:\r\n* Histological diagnosis of a brain tumor\r\n* Histological diagnosis of systemic cancer and brain MR imaging suggestive of metastatic disease to the brain\r\n* Pre-operative brain MR imaging suggestive of a brain tumor\r\n* Radiographic diagnosis of brain tumor in an inoperable location (e.g., brainstem)
+Patient must be clinically eligible for and elect to be treated with GK alone without whole-brain radiation therapy (WBRT)
+Patients must be scheduled to undergo standard brain cancer interventions:\r\n* Chemotherapy or targeted antiangiogenic therapy, in the case of primary brain tumor; or\r\n* Stereotaxic radiotherapy (SRS) or whole brain radiotherapy (WBRT), in the case of brain metastases
+Patients with cancer that spread to the brain

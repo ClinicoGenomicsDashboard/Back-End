@@ -1,0 +1,92 @@
+Absolute neutrophil count (ANC) >= 1,500/mm^3 obtained =< 21 days prior to registration
+360.0
+Absolute neutrophil count (ANC) >= 1,800 cells/mm^3
+285.0
+Absolute neutrophil count (ANC) >= 1,800 cells/mm^3
+37.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+545.0
+Within 60 days prior to registration on study: Absolute neutrophil count (ANC) >= 1,500/mm^3
+2580.0
+Absolute neutrophil count (ANC) >= 1200/mm^3
+48.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+1120.0
+Absolute neutrophil count (ANC) >= 1,200 cells/mm^3, within 21 days prior to study entry
+143.0
+Within 14 days prior to registration: Absolute neutrophil count (ANC) >= 1,000 cells/mm^3 without growth factor support
+130.0
+Absolute neutrophil count (ANC) >= 1,500 cells/mm^3; obtained within 14 days prior to study entry
+368.0
+STEP I: Absolute neutrophil count >= 1000 cells/mm^3 (obtained within 28 days prior to randomization)
+1080.0
+Obtained =< 7 days prior to registration: Absolute neutrophil count (ANC) >= 1500/mm^3
+102.0
+Absolute neutrophil count (ANC) >= 1,800 cells/mm^3
+252.0
+Absolute neutrophil count (ANC) >= 1,000 cells/mm^3
+234.0
+Absolute neutrophil count (ANC) > 1,000/mm^3
+2060.0
+Absolute neutrophil count (ANC) >= 1,500 cells/mm^3 obtained within 30 days prior to registration
+330.0
+Absolute neutrophil count (ANC) > 750 cells/mm^3 within 90 days prior to randomization
+150.0
+Absolute neutrophil count (ANC) >= 1500 cells/mm^3 within 14 days prior to study registration
+440.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+34.0
+Absolute neutrophil count (ANC) >= 1,500 cells/mm^3, within 21 days prior to registration
+924.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+20.0
+Absolute neutrophil count (ANC) >= 500 cells/mm^3
+84.0
+Absolute neutrophil count (ANC) >= 1,500 cells/m^3
+182.0
+Absolute neutrophil count (ANC) >= 1,000/mm^3
+30.0
+Absolute neutrophil count (ANC) >= 1,500 cells/mm^3
+606.0
+Absolute neutrophil count (ANC) >= 1500/mm^3
+NONE
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+420.0
+Absolute neutrophil count (ANC) >= 500 cells/mm^3
+360.0
+Absolute neutrophil count (ANC) > 1500 mm^3, must be obtained within 8 weeks prior to screening for protocol therapy
+562.0
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP 1): Absolute neutrophil count (ANC) > 1500 mm^3
+562.0
+Absolute neutrophil count (ANC) >= 1500/mm^3
+60.0
+Within 6 weeks prior to randomization: Absolute neutrophil count (ANC) must be >= 1200/mm^3
+990.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+195.0
+Re-registration: ANC >= 1,500/mm^3
+195.0
+Within 14 days of registration: Absolute neutrophil count (ANC) >= 1,500/mm^3
+110.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+69.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+130.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+45.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+137.0
+Absolute neutrophil count (ANC) must be >= 1200/mm^3 within 28 days before randomization
+348.0
+Absolute neutrophil count (ANC) >= 1,500/mm^3
+124.0
+Absolute neutrophil count (ANC): >= 1,500 /mm^3
+56.0
+Absolute neutrophil count (ANC) >= 1500 mm^3
+700.0
+Absolute neutrophil count (ANC) >= 750/mm^3
+324.0
+Absolute neutrophil count (ANC) >= 1,000 cells/mm^3
+186.0
+Absolute neutrophil count (ANC) >= 1,500 cells/mm^3
+120.0

@@ -1,0 +1,69 @@
+Patients who are currently receiving drugs that are moderate to strong inducers or inhibitors of CYP3A4 are not eligible; moderate to strong inducers or inhibitors of CYP3A4 should be avoided from 14 days prior to enrollment to the end of the study; Note: CYP3A4 inducing anti-epileptic drugs and dexamethasone for CNS tumors or metastases, on a stable dose, are allowed
+Strong inhibitors and strong or moderate inducers of CYP3A4
+ELIGIBILITY CRITERIA - PHASE I (ARMS A, B, C): Patients should not have received the following within 7 days prior to the first dose of study drug:\r\n* Steroid therapy for anti-neoplastic intent;\r\n* Strong and moderate CYP3A inhibitors;\r\n* Strong and moderate CYP3A inducers
+ELIGIBILITY CRITERIA - PHASE II (ARM D): Patients should not have received the following within 7 days prior to the first dose of study drug:\r\n* Steroid therapy for anti-neoplastic intent;\r\n* Strong and moderate CYP3A inhibitors;\r\n* Strong and moderate CYP3A inducers
+Receiving any medications or substances that are strong or moderate inhibitors of CYP3A4; use of strong or moderate inhibitors are prohibited =< 7 days prior to randomization
+Patients treated within the last 7 days prior to the start of IP with strong/moderate CYP3A4 inhibitors, strong/moderate CYP3A4 inducers, CYP2C8 inhibitors, strong/moderate CYP2C8 inducers, or drugs that are known to prolong the QT interval.
+Participants that require co-administration of strong or moderate CYP3A inhibitors, as these medications may alter dabrafenib and trametinib concentrations
+Participants who require treatment with medications that are strong or moderate CYP3A inducers, as these medications may alter the concentration of trametinib
+Require continued treatment with a medication that is known to be a strong inhibitor of CYP3A enzymes. (Treatment with moderate or weak CYP enzyme inhibitors is allowed.)
+Treatment with strong to moderate CYP3A inhibitors or moderate CYP3A inducers within 7 days prior to the first dose of study treatment.
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Concurrent use of strong CYP3A4 inhibitors/inducers is prohibited due to drug-drug interactions with palbociclib; moderate CYP3A4 inhibitors/inducers should be used with caution
+Prior treatment (< 2 weeks before start of SY-1365) with moderate or strong CYP3A4 inducers or strong CYP3A4 inhibitors. See list in Appendix 3
+Participants that require co-administration of strong or moderate CYP3A inhibitors, as these medications may alter vemurafenib and cobimetinib concentrations
+Participants who require treatment with medications that are strong or moderate CYP3A inducers, as these medications may alter the concentration of cobimetinib
+Taking any medication known to be a moderate or strong inhibitor of the CYP3A4 isozyme or any drugs that are moderate or strong CYP3A4 inducers.
+Concurrent treatment with a non-permitted drug as well as foods or supplements that are strong or moderate CYP3A4 enzyme inducers or inhibitors. Any of the above has to be discontinued at least 7 days prior to cycle 1/ day 1 of study treatment.
+Subject has received the following within 7 days prior to the first dose of the study drug:\r\n* Steroid therapy for anti-neoplastic intent\r\n* Strong and Moderate CYP3A inhibitors \r\n* Strong and Moderate CYP3A inducers
+Consumption of foods, supplements, or drugs that are strong or moderate CYP3A4 enzyme inducers or inhibitors at least 7 days prior to Day 1 of Cycle 1 and during study treatment
+Participant has received strong and/or moderate CYP3A inducers within 7 days prior to the initiation of study treatment; additional details as described in the protocol.
+Strong CYP3A4 inhibitors or inducers should not be used within 3 days of day 1 dosing until the end of study; moderate CYP3A4 inhibitors or inducers should be used with caution
+Participant has received strong or moderate CYP3A inducers 7 days prior to the initiation of study treatment.
+Chinese participants are excluded from receiving strong and/or moderate CYP3A inhibitors 7 days prior to the initiation of study treatment through the end of intensive PK collection (24 hours post dose on Cycle 1 Day 10).
+Receiving, or received, concomitant medications, herbal supplements and/or foods that significantly modulate CYP3A4 inhibitors or moderate CYP3A inhibitors, strong CYP3A inducers or moderate CYP3A inducers
+Participants must not be on medications, including antiretroviral (ARV) regimens such as cobicistat, indinavir, or ritonavir, or agents with moderate or strong CYP3A4 inhibition; if on a moderate or strong CYP3A4 inhibitor regimen prior to study enrollment, participants must be switched to a qualifying regimen with the last dose of the strong CYP3A4 inhibitor taken at least one week before administration of ibrutinib
+Concomitant use or use in the prior two weeks of moderate or strong CYP3A and CYP2C9 inducers or strong CYP2C9 inhibitors, including nutraceutical preparations, e.g., grapefruit juice and St John’s wort
+Concomitant use of known strong cytochrome P450 (CYP) 3A (CYP3A) inhibitors or moderate CYP3A inhibitors. Concomitant use of known strong or moderate CYP3A inducers.
+Concurrent administration of strong inhibitors or moderate inducers of CYP1A2 is not permitted; administration must be discontinued at least 7 days prior to initiating study drug administration.
+Use of moderate to strong CYP3A4 inhibitors within 2 weeks prior to start of study treatment
+Strong or moderate CYP3A inhibitors within 3 days prior to day 1 of protocol therapy
+Strong or moderate CYP3A inducers within 7 days prior to day 1 of protocol therapy
+Received strong cytochrome (CYP) 3A inhibitors, moderate CYP3A inhibitors, strong CYP3A inducers and moderate CYP3A inducers within 7 days prior to initiation of study treatment
+Concomitant use of strong and moderate CYP3A4 inhibitors and inducers
+Patients must not be taking, nor plan to take while on protocol treatment and for 14 days post the last dose of study treatment, drugs, herbal supplements or foods that are known to be strong/moderate CYP3A4 substrates
+Patients must not be taking, nor plan to take while on protocol treatment and for 14 days after the last dose of study treatment, drugs, herbal supplements or foods that are known to be strong/moderate CYP3A4 or CYP2D6 inhibitors and/or inducers
+Patients must not be taking, nor plan to take while on protocol treatment and for 14 days after the last dose of study treatment, drugs, herbal supplements or foods that are known to be strong/moderate CYP3A4 or CYP2D6 substrates
+For Cohort A: Is currently receiving strong or moderate inhibitors of CYP3A4 including azole antifungals; macrolide antibiotics; or protease inhibitors
+For Cohort A: Is currently receiving strong or moderate inducers of CYP3A4
+Use of moderate/strong cytochrome P450 (CYP)3A4 inhibitors or moderate/strong CYP3A4 inducers within 2 weeks prior to the first dose of study drug (with the exception of enzalutamide in the combination arms)
+Use of moderate/strong cytochrome P450 (CYP)3A4 inhibitors or moderate/strong CYP3A4 inducers within 2 weeks prior to the first dose of study drug
+Patients requiring treatment with moderate CYP3A4 inhibitors
+Moderate to strong CYP3A4 inducers
+Concomitant use of known strong or moderate CYP3A inhibitors
+Concomitant use of known strong or moderate CYP3A inducers
+Participants requiring any medications or substances that are strong inducers or inhibitors of CYP3A4 are ineligible; those who may discontinue these medications are eligible after a 7 day washout period; mild or moderate inducers or inhibitors of CYP3A4 are permitted but moderate inhibitors will require dose reduction of ibrutinib
+Received agents known to be strong and moderate Cytochrome P450 3A inhibitors or inducers within 7 days prior to the first dose of study drug
+For ARMS A, C and D, unable or unwilling to discontinue use of any drug known to be a strong or moderate inhibitor or inducer of CYP3A4 (prohibited inducers must be discontinued within 2 weeks prior to first dose of study drug); please note that cotreatment with weak inhibitors of CYP3A4 is allowed
+Concomitant use of known strong CYP3A inhibitors or moderate CYP3A inhibitors;
+Concomitant use of known strong or moderate CYP3A inducers;
+Strong or moderate CYP3A4 inhibitors or inducers
+Strong or moderate P-gp inhibitors or inducers
+Subject requires either moderate or strong (if weak, 2 or more) inhibitors or inducers of Cytochrome P450 3A (CYP3A) mediated metabolism.
+Use of strong/moderate CYP1A2 inhibitors.
+Use of moderate or strong cytochrome P450 (CYP) 3A inhibitors or CYP3A inducers within 2 weeks before the first dose of study drug.
+Systemic treatment with moderate and strong cytochrome P450 (CYP) CYP3A inhibitors or inducers must be discontinued at least 14 days before the first dose of MLN4924. Moderate and strong CYP3A inhibitors and CYP3A inducers are not permitted during the study. Participants must have no history of amiodarone use in the 6 months before the first dose of MLN4924.
+Systemic treatment with strong and moderate inhibitors of CYP1A2, strong and moderate inhibitors of CYP3A, or clinically significant CYP3A inducers or use of Ginkgo biloba or St. John's wort within 14 days before the first dose of study drug
+Currently taking strong or moderate inhibitors/inducers of cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4); Note: dinaciclib is a CYP3A4 substrate; patients should not take grapefruit/grapefruit juice or St. John's wort; use of strong or moderate CYP3A4 inhibitors is prohibited from < 7 days prior to registration; use of CYP3A4 inducers is prohibited from =< 7 days prior to registration
+Strong and moderate Cytochrome P450 3A (CYP3A) inhibitors (Part 1 Dose Determination);
+Strong and moderate CYP3A inducers (Part 1 Dose Determination and Part 2 Cohort Expansion).
+Receiving any medications or substances that are inducers or strong or moderate inhibitors of cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4) =< 7 days prior to registration\r\n* Use of CYP3A4 inducers are prohibited =< 7 days prior to registration\r\n* Use of CYP3A4 strong or moderate inhibitors are prohibited =< 7 days prior to registration
+Received a strong or listed moderate inhibitor of CYP3A4 <2 weeks prior to first study dose
+Use of strong and moderate CYP3A inhibitors and inducers =< 7 days prior to registration
+Subject who has received strong/moderate inhibitors or inducers of CYP3A4 within 14 days prior to the first dose of study drug.
+No concurrent use of moderate/strong CYP3A4 inhibitors, or strong CYP3A4 inducers
+Medications or supplements that are known to be moderate mechanism-based inhibitors or moderate inducers of CYP3A within 7 days or within 5 times the inhibitor or inducer half-life (whichever is longer) before the first dose of study drugs. In general, the use of these agents is not permitted during the study for this combination except in cases in which an AE must be managed. See a list of nonexhaustive moderate CYP3A mechanism-based inhibitors or moderate CYP3A inducers based on the US FDA Draft DDI Guidance.
+Prohibited medications: patients taking CYP3A4 enzyme inducers and moderate or strong inhibitors will be excluded from this trial
+Concurrent administration of medications or foods that are moderate or strong inhibitors or inducers of CYP3A within 7 days prior to first dose of study drug
+Use of any drugs or substances known to be strong or moderate inhibitors of CYP3A4 and CYP2D6 enzymes within 1 week prior to Day 1 or planned to be used during the overall study period.
+Systemic treatment with moderate or strong CYP3A inhibitors or inducers must be discontinued at least 14 days before the first dose of alisertib, and the use of these agents is not permitted during the study (except for the protocol-specified administration of itraconazole).
+Medications or supplements that are known to be strong or moderate Cytochrome P4503A (CYP3A) inhibitors or strong or moderate CYP3A inducers and/or P-glycoprotein (P-gp) inhibitors or inducers within 7 days or within 5 times the inhibitor or inducer half-life (whichever is longer) before the first dose of study drugs. In general, the use of these agents is not permitted during the study except in cases in which an adverse event (AE) must be managed during interruption of study drug dosing.

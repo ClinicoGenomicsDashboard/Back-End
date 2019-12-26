@@ -1,0 +1,5 @@
+Cluster 1257: capacity lung supplementary oxygen monoxide dlco carbon expiratory continuous fev 
+Cluster 1274: fev expiratory dlco forced monoxide predicted carbon volume capacity second 
+Cluster 1369: smoking cigarette prolonged respiratory tested expiratory fev forced predicted dysfunction 
+Cluster 1681: forced capacity fvc fev vital expiratory volume predicted second dlco 
+Cluster 1863: fev expiratory forced volume second predicted pulmonary obstructive copd function 

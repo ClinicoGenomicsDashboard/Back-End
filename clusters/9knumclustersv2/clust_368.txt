@@ -1,0 +1,53 @@
+Serum creatinine < . x ULN; the values must be obtained within  hours prior to randomization
+Creatinine =< . x ULN obtained =<  days prior to registration
+Liver function test must be obtained within  days prior to registration
+Creatinine =< . x ULN (=<  days prior to registration)
+Creatinine =<  x ULN obtained =<  days prior to registration
+Obtained =<  weeks prior to registration: Total bilirubin =< . x ULN
+Obtained within  days prior to registration: Creatinine < . x upper limit of normal (ULN), OR
+Obtained within  days prior to registration: Bilirubin < . X ULN
+OBTAINED =<  DAYS PRIOR TO REGISTRATION: Total bilirubin =< ULN
+OBTAINED =<  DAYS PRIOR TO REGISTRATION: Creatinine =< . x ULN
+Creatinine =<  x ULN =<  days prior to registration
+Obtained =<  days prior to registration: Creatinine =< . x ULN
+Obtained =<  days prior to registration: Total cholesterol =< . x ULN
+Obtained =<  days prior to registration: Triglycerides =< . x ULN
+Obtained =<  days prior to registration: Creatinine =< . x ULN OR
+Total bilirubin =< . x ULN obtained =<  days prior to registration
+Obtained =<  days prior to registration: Direct bilirubin =< . x ULN
+FOR AML ONLY: Obtained =<  days prior to registration: No ANC restriction
+Creatinine =< . x ULN obtained =<  days prior to registration
+Obtained within  days prior to registration; total bilirubin ? ULN
+Obtained within  days prior to registration; serum creatinine ? . x ULN
+Serum creatinine =< . x ULN, obtained =<  days prior to registration
+Creatinine =< . x ULN (obtained =<  days prior to registration)
+Baseline serum testosterone obtained within  days prior to registration
+Liver function test must be obtained within  days prior to registration
+ARM A: obtained =<  days prior to registration: \r\n* Creatinine =< . x ULN
+ARM A: obtained =<  days prior to registration: \r\n* Total bilirubin =< . x ULN
+ARM B: obtained =<  days prior to registration: \r\n* AST/ALT =< . x ULN
+ARM B: obtained =<  days prior to registration: \r\n* Creatinine =< . x ULN
+ARM B: obtained =<  days prior to registration: \r\n* Total bilirubin =< . x ULN
+ARM B: obtained =<  days prior to registration: \r\n* INR =< . x ULN
+ARM B: obtained =<  days prior to registration: \r\n* aPTT =< . x ULN
+Creatinine =< . x ULN, obtained =<  days prior to registration OR
+Bilirubin =< . x ULN obtained within  days prior to registration
+Potassium =< ULN (or corrected to =< ULN with supplements prior to registration), obtained =<  days prior to registration
+Magnesium =< ULN (or corrected to =< ULN with supplements prior to registration), obtained =<  days prior to registration
+Sodium =< ULN (or corrected to =< ULN with supplements prior to registration), obtained =<  days prior to registration
+Phosphorus =< ULN (or corrected to =< ULN with supplements prior to registration), obtained =<  days prior to registration
+Serum bilirubin . x ULN, obtained within  days prior to initiation of study treatment
+Serum creatinine =< . x ULN, obtained within  days prior to initiation of study treatment
+Obtained =<  days prior to registration:\r\nAlkaline phosphatase =<  x ULN
+Obtained =<  days prior to registration:\r\nCreatinine =<  x ULN
+All baseline laboratory requirements will be assessed and should be obtained within - days of study registration
+Serum creatinine =< . x ULN (obtained =<  days prior to randomization)
+Obtained =<  days prior to registration: Potassium WNL
+Obtained =<  days prior to registration: Phosphorus WNL
+Obtained =<  days prior to registration: Creatinine =<. x ULN
+Obtained =<  days prior to registration: Creatinine =< . x institutional ULN
+All subjects must have radiographically assessable disease per RECIST v. obtained by imaging within  days prior to registration.
+Male patients must have free and total testosterone level obtained within  days prior to registration
+Creatinine =< . x Institutional ULN obtained =<  days prior to registration
+Creatinine =< . X ULN obtained =<  days prior to registration
+Creatinine < ULN, performed within  days prior to registration

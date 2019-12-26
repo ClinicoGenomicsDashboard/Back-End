@@ -1,0 +1,36 @@
+Patients with hypersensitivity to albumin are not eligible
+Calcium >= LLN (corrected for serum albumin, if albumin abnormal)
+Serum albumin >=  g/L
+Serum albumin >= .
+Albumin >  g/L
+Within  days of randomization: Albumin >  g/L
+Albumin >= ..
+Serum albumin concentration ? g/L
+Albumin >  g/L
+Serum albumin >  g/L
+Albumin < .
+Albumin >  g/L
+Albumin > .
+Baseline serum albumin >  g/L
+Hypoalbuminaemia (serum albumin <  g/L)
+Calcium >= LLN (corrected for serum albumin, if albumin abnormal) =<  days prior to registration\r\n* NOTE: Supplementation may be given before the first dose of study medication
+Serum albumin >=  g/L
+Albumin within institutional normal range
+Albumin >= 
+Serum albumin >  g/L, or serum albumin =  g/L but normal prothrombin time
+Albumin <.
+Albumin >  g/L
+Albumin >= .
+Serum albumin ?  g/L
+Serum albumin ?. g/dL in the absence of receipt of (IV) albumin within the previous  hours.
+Albumin should be >= 
+Albumin >  g/L
+Serum albumin >= .
+Albumin < .
+Urinary albumin >  g/day
+Serum albumin < .
+Albumin > .
+Albumin within  x ULN
+Serum albumin >=  g/L
+Albumin >= . g/dL (in the absence of receipt of intravenous albumin in the previous  hours)
+Serum albumin < gram per liter (g/L)

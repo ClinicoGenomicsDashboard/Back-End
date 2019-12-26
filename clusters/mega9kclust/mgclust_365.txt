@@ -1,0 +1,2 @@
+Cluster 842: dlco predicted pulmonary fev fvc corrected function oxygen pfts saturation 
+Cluster 1023: fvc vital forced capacity predicted corrected pulmonary hemoglobin expected value 

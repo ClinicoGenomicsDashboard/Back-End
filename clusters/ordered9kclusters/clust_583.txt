@@ -1,0 +1,24 @@
+DONOR: Karnofsky performance status of 90-100% (adults) or Lansky play performance status of 100% (children)
+Patient must have a Karnofsky performance status or Lansky* play status >= 50\r\n* For purpose of determining performance scores, wheelchair-bound patients will be considered ambulatory
+Performance status as determined by Karnofsky >= 60 or Lansky play scale >= 60% at the time of study drug administration
+Adequate performance status as follows\r\n* Patients >= 16 years must have Eastern Cooperative Oncology Group (ECOG) performance status 0-2 (Karnofsky >= 60%)\r\n* Pediatric patients < 16 years must have Lansky play-performance of 60-100%
+Karnofsky performance status of >= 60% or, if less than 16 years of age Lansky play score of >= 60
+Adequate Karnofsky Performance score or Lansky Play-Performance scale
+For subjects < 17 years of age, Modified Lansky Play-Performance Score of >= 70%; for subjects 17 and older, Karnofsky score of >= 70%
+Lansky play-performance score < 40 for pediatric patients
+Lansky play score >= 50
+Karnofsky >= 80%, Lansky play score >= 70
+Performance Status: Karnofsky ? 70%, Lansky play score ? 70
+With Karnofsky index or Lansky play-performance scale > 70% on pre-transplant evaluation
+DONOR: Donors in good general health, with a Karnofsky or Lansky play performance score > 90%
+Karnofsky performance score < 70% or Lansky-Play Performance score < 70 for pediatric patients
+Adequate Karnofsky Performance score or Lansky Play-Performance scale
+Performance status as determined by Karnofsky >= 60% or Lansky play scale >= 60% at the time of study drug administration
+Lansky play score >= 60 (< 16 years) or Karnofsky (16 years or older) performance score of >= 60%
+Karnofsky score < 50%\r\n* Pediatric criteria\r\n** Lansky play-performance score < 40
+Karnofsky score less than 60; pediatric criteria: Lansky Play-Performance Score < 40
+Karnofsky performance status > 80% for ages 16 years and older or Lansky play score > 50 for < 16 years
+Performance score ? 60 from Lansky Play Performance Scale if ?16 years
+Karnofsky Performance Status >= 50% for patients 16 years and older and Lansky Play Score >= 50 for patients under 16 years of age
+Karnofsky performance score or Lansky Play-Performance Scale score < 80
+Lansky-play performance score < 50 for pediatric patients

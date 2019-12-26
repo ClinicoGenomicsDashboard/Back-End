@@ -1,0 +1,14 @@
+Other malignancy, except non-melanoma skin cancer, that is active or has a >= % probability of recurrence within  months
+Other malignancy, except non-melanoma skin cancer, that is active or has a >/= % probability of recurrence within  months.
+Other malignancy, except non-melanoma skin cancer, with a >= % probability of death within  months
+A malignancy [other than the one treated in this study] which required radiotherapy or systemic treatment within the past  years, or has a >= % probability of recurrence within  months (except for non-melanoma skin cancer or Ta urothelial carcinomas)
+Other malignancy, except non-melanoma skin cancer, with a >= % probability of recurrence within  months
+Subjects who, in the opinion of the Investigator, have a high probability of death within  months of randomization due to a disease process other than the CRBSI/CLABSI
+Other malignancy, except non-melanoma skin cancer, with a >= % probability of recurrence within  months
+Estimated > months survival probability.
+Estimated > month survival probability.
+Probability of survival is at least  months
+Estimated probability of surviving less than  months
+Estimated probability of surviving less than  months
+Other malignancy, except non-melanoma skin cancer, with a >= % probability of recurrence within  months
+Other malignancy, except non-melanoma skin cancer, with a >= % probability of recurrence within  months

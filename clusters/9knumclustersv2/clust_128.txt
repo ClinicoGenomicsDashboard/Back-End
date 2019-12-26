@@ -1,0 +1,9 @@
+DONOR: Factors which place the donor at increased risk for complications from leukapheresis or granulocyte-colony stimulating factor (G-CSF) therapy could be harvested for bone marrow (BM) if safer for the donor and if approved by PI
+DONOR: Factors which place the donor at increased risk for complications from leukapheresis or G-CSF therapy
+DONOR: Cardiac risk factors precluding ability to undergo leukapheresis
+DONOR: Factors which place the donor at increased risk for complications from leukapheresis or granulocyte-colony stimulating factor (G-CSF) therapy
+DONOR: Factors which place the donor at increased risk for complications from leukapheresis
+DONOR: Cardiac risk factors precluding ability to undergo leukopheresis
+HAPLO-IDENTICAL DONOR: Factors which place the donor at increased risk for complications from leukapheresis or granulocyte colony-stimulating factor (G-CSF) therapy (e.g., active autoimmune disease, sickle cell trait, symptomatic coronary artery disease requiring therapy)
+DONOR: Factors which place the donor at increased risk for complications from leukapheresis or G-CSF (filgrastim) therapy (e.g. autoimmune disease, sickle cell trait, symptomatic coronary artery disease requiring therapy)
+Donor has cardiac risk factors precluding ability to undergo leukapheresis

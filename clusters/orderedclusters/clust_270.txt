@@ -1,0 +1,48 @@
+Patient must have measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) guidelines
+36.0
+Patients must have newly diagnosed, stage IIA � IV disease and must be entered within eight weeks from surgery; they may have either measurable residual disease by Response Evaluation Criteria In Solid Tumors (RECIST) criteria, or they may have no measurable residual disease; OR, they must have biopsy-proven recurrent disease of any stage and have never received cytotoxic chemotherapy
+128.0
+Patients must have measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1
+40.0
+Patients must show evidence of objective disease progression per Response Evaluation Criteria in Solid Tumors (RECIST) 1 on scans within the 6 month period immediately preceding enrollment; both scans used to determine disease progression should have been obtained within this 6-month period
+70.0
+Part B: Patients must have either measurable disease or must be evaluable for MIBG response without evidence of Response Evaluation Criteria in Solid Tumors (RECIST) measurable lesions; patients with neuroblastoma in bone marrow only are not eligible
+154.0
+Progressive disease defined by RECIST criteria =< 14 months
+34.0
+Patients must have evaluable or measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1
+57.0
+Measurable or evaluable disease as assessed by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 for non-GBM tumors and by Response Assessment in Neuro-Oncology (RANO) criteria for GBM
+23.0
+Patients with confirmed diagnosis of ECD that are asymptomatic and with no visceral involvement are not eligible for this trial (patients with no target lesions as per Response Evaluation Criteria in Solid Tumors [RECIST] 1.1 criteria)
+18.0
+Patients must have measurable or evaluable disease, as defined by Response Evaluation Criteria in Solid Tumors (RECIST) 1.1
+66.0
+Patients must have measurable disease as defined by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1
+209.0
+For patients enrolled in arm A dose level 4, arm A 14-patients expansion cohort, and arm B (first stage of phase II of TRC102 and pemetrexed) measurable disease is required according to the Response Evaluation Criteria in Solid Tumors (RECIST) criteria for patients with solid tumors and modified RECIST criteria as described by Byrne and Novak for patients with malignant pleural mesothelioma; pleural effusion and ascites are not considered measurable disease
+58.0
+Disease may be measurable (by Response Evaluation Criteria in Solid Tumors [RECIST] 1.1 criteria) or non-measurable but must be present in at least one non-liver site, where presence is defined as 1.5 cm or greater and visualized on PET/CT with [18F]-fluorodeoxyglucose (FDG); patients with effusion only disease or disease only in the liver are not eligible for the study
+99.0
+Patients must have evaluable disease � defined as one of the following:* Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 measurable disease OR* Evaluable disease (defined as solid and/or cystic abnormalities on radiographic imaging that do not meet RECIST 1.1 definitions for target lesions OR ascites and/or pleural effusion that has been pathologically demonstrated to be disease-related) AND a cancer antigen 125 (CA125) that has doubled from the post-treatment nadir and is also greater than 2 times upper limit of normal (ULN)
+549.0
+Phase III study: evaluable disease - defined as RECIST 1.1 measurable disease OR non-measurable disease (defined as solid and/or cystic abnormalities on radiographic imaging that do not meet RECIST 1.1 definitions for target lesions OR ascites and/or pleural effusion that has been pathologically demonstrated to be disease-related in the setting of a cancer antigen [CA]125 >= 2 x upper limit of normal [ULN])
+680.0
+CA-125 only disease without Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 measurable or otherwise evaluable disease
+680.0
+Patients must have measurable or evaluable/non-measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1; patients with bone only disease are not eligible; NOTE: for patients with metastatic disease in the liver, tumor burden should not be deemed significant (e.g., to no more than 30% of total liver volume as assessed by local review/investigator)
+45.0
+Patients must have measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) version (v)1.1
+126.0
+Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST 1.1)
+50.0
+If BRAFV600-mutant, documented refractory disease to at least one BRAF inhibitor (dabrafenib or vemurafenib) and/or a MEK inhibitor (trametinib or cobimetinib), defined as progression of measurable disease as per Response Evaluation Criteria in Solid Tumors (RECIST) criteria while on treatment; subjects with MAPK inhibitor-intolerance are eligible if they meet criteria
+32.0
+Measurable disease by Response Evaluation Criteria in Solid Tumors (RECIST) version (v) 1.1 or other tumor-specific criteria or disease assessable by physical exam or other methods if not measurable by RECIST
+60.0
+Measurable disease (defined by RECIST v. 1.1) or evaluable disease (defined as solid and/or cystic abnormalities on radiographic imaging that do not meet RECIST 1.1 definitions for target lesions OR ascites and/or pleural effusion that has been pathologically demonstrated to be disease related in the setting of cancer antigen [CA]25 >= 2 x upper limit of normal [ULN])
+488.0
+Documented radiological evidence for disease progression (measurable or nonmeasurable) =< 12 months prior to enrollment* NOTE: If patient has had previous radiation to the marker lesion(s), there must be evidence of progression since the radiation; at least one measurable lesion as per Response Evaluation Criteria in Solid Tumors (RECIST)
+40.0
+Measurable disease as determined by Response Evaluation Criteria in Solid Tumors (RECIST) (version 1.1) criteria
+400.0

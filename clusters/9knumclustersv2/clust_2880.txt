@@ -1,0 +1,58 @@
+COHORTS  AND : HEALTHY VOLUNTEERS: Males and females aged - years
+COHORTS  AND : HEALTHY VOLUNTEERS: Subjects must participate fully and be willing to comply with the procedures of the protocol
+COHORTS  AND : HEALTHY VOLUNTEERS: Subjects must be co-enrolled in National Institutes of Health (NIH) protocol -HG-
+COHORTS  AND : HEALTHY VOLUNTEERS: Ability of subject to understand and provide written informed consent
+COHORTS  AND : HEALTHY VOLUNTEERS: Access to bathing facilities (Cohort )
+COHORTS  AND : HEALTHY VOLUNTEERS: Ability to swallow capsules or tablets
+COHORTS  AND : HEALTHY VOLUNTEERS: Does not meet inclusion criteria
+COHORTS  AND : HEALTHY VOLUNTEERS: Any female with symptoms and/or serum hormone levels consistent with perimenopause
+COHORTS  AND : HEALTHY VOLUNTEERS: Use of systemic antibiotics in  months preceding baseline sampling
+COHORTS  AND : HEALTHY VOLUNTEERS: Use of swimming pools, hot tubs, or whirlpools in  days preceding baseline sampling
+COHORTS  AND : HEALTHY VOLUNTEERS: Use of topical or oral complementary/alternative medicine (CAM) agents within  weeks of initiation of treatment
+COHORTS  AND : HEALTHY VOLUNTEERS: Known allergic reaction to sulfa, beta-lactam, or tetracycline class drugs; or lidocaine or epinephrine
+COHORTS  AND : HEALTHY VOLUNTEERS: Family history of toxic epidermal necrolysis
+COHORTS  AND : HEALTHY VOLUNTEERS: Known allergy or sensitivity to sodium hypochlorite (NaOCl)
+COHORTS  AND : HEALTHY VOLUNTEERS: History of AD and asthma
+COHORTS  AND : HEALTHY VOLUNTEERS: Inability to comply with the requirements of the protocol
+COHORTS  AND : HEALTHY VOLUNTEERS: Pregnant or lactating
+COHORTS  AND : HEALTHY VOLUNTEERS: Subjects with a primary or acquired immunodeficiency, including human immunodeficiency virus (HIV) seropositivity
+COHORTS  AND : HEALTHY VOLUNTEERS: Any chronic past or present medical illness, including chronic skin diseases like psoriasis
+COHORTS  AND : HEALTHY VOLUNTEERS: Subjects receiving or planning to receive an investigational new drug (IND) agent, ultraviolet light therapy, monoclonal antibodies, or systemic immunosuppressants
+LGBT SUB-STUDY: Participants are healthy volunteers currently living in San Diego Portland, or Albuquerque who attend bars or nightclubs in the LGBT random sample; both current (past  day) smokers and nonsmokers will be included in the focus groups and surveys
+Normal volunteers, either male or female
+Healthy volunteers and normal patients not undergoing endoscopy
+EXCLUSION - HEALTHY VOLUNTEERS: Prior or current malignancy
+EXCLUSION - HEALTHY VOLUNTEERS: Known kidney disease
+For healthy volunteers only: Must have no known medical problems that would make undergoing the scan hazardous to the health of the patient or interfere with the results. In particular subjects should not have any cardiac or immunological disorders as these would likely affect the scan results. Subjects should have had a full physical exam within  months of the study. If healthy volunteers have not had a full medical exam within  months of the study, one of the nuclear medicine physicians will conduct the medical exam prior to any study procedures.
+CRITERIA FOR HEALTHY VOLUNTEERS: Subject meets all criteria above but does not have a clinical diagnosis of respiratory disease
+Healthy volunteers for the Dosimetry Studies Arm must not\r\n* Have a history of cardiopulmonary conditions requiring any treatment or medical intervention\r\n* Be a current smoker
+Participants/volunteers with a pacemaker, aneurysm clip, or any other condition that would warrant avoidance of a strong magnetic field
+Participants/volunteers who are unable to comply or complete the MRI exam due to claustrophobia or high levels of anxiety
+HEALTHY VOLUNTEERS (Group ): Must meet inclusion criteria for all participants described above
+Healthy volunteers
+NORMAL ADULT VOLUNTEERS
+PATIENT VOLUNTEERS
+PATIENT VOLUNTEERS/CONTRAST ENHANCEMENT SUB-GROUP
+Patient Volunteers/Contrast Enhancement Sub-group: Not pregnant or breast-feeding
+Patient Volunteers/Contrast Enhancement Sub-group: Ability to lie motionless for up to  minutes
+NORMAL ADULT VOLUNTEERS:
+PATIENT VOLUNTEERS:
+PATIENT VOLUNTEERS/CONTRAST ENHANCEMENT SUB-GROUP:
+Patient Volunteers/Contrast Enhancement Sub-group: Positive urine pregnancy test or currently breast-feeding
+HEALTHY VOLUNTEERS: Patient is willing to provide informed consent
+HEALTHY VOLUNTEERS: Must have no known medical problems and have had a full medical exam within  months of the study; if healthy volunteers have not had a full medical exam within  months of the study, one of the ultrasound physicians will conduct the medical exam prior to any study procedures
+Normal volunteers
+HEALTHY VOLUNTEERS: Age greater than or equal to 
+HEALTHY VOLUNTEERS: Able to tolerate supine position
+Healthy volunteers
+PART A: Healthy volunteers enrolled from within the Department of Radiology at University of California San Francisco (UCSF)
+NORMAL VOLUNTEERS: Be >=  years of age
+NORMAL VOLUNTEERS: Have a ECOG performance status of -
+NORMAL VOLUNTEERS: Be informed of the investigational nature of this study
+NORMAL VOLUNTEERS: Have electrically, magnetically, or mechanically activated implants that would preclude MRI
+NORMAL VOLUNTEERS: Be using more than one antihypertensive drug
+NORMAL VOLUNTEERS: If female, pregnant or breastfeeding at time of consent
+NORMAL VOLUNTEERS: Have collagen vascular disease
+NORMAL VOLUNTEERS: Currently treated for hyperthyroidism
+NORMAL VOLUNTEERS: Be receiving any active pharmaceutical treatments for cancer
+Healthy volunteers

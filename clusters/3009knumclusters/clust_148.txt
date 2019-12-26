@@ -1,0 +1,725 @@
+Received any biological and/or targeted therapy (including but not limited to vaccines, antibodies, tyrosine kinase inhibitors) or hormonal therapy for management and/or treatment of epithelial ovarian or peritoneal primary cancer
+Participants may not have had prior use of PARP inhibitors; patients may not have received prior treatment affecting the VEGF pathway including but not limited to thalidomide, bevacizumab, sunitinib, or sorafenib
+Prior anticancer therapy is allowed (excluding approved or investigational Trk, ROS1, or ALK inhibitors in patients who have tumors that harbor those respective gene rearrangements)
+Note: prior treatment with crizotinib is permitted only in ALK- or ROS1-rearranged NSCLC patients presenting with CNS-only progression. Other ALK inhibitors are prohibited.
+Prior treatment with approved or investigational Trk, ROS1, or ALK inhibitors in patients who have tumors that harbor those respective gene rearrangements
+Note: prior treatment with crizotinib is permitted only in ALK- or ROS1-rearranged NSCLC patients presenting with CNS-only progression. Other ALK inhibitors are prohibited.
+All previous treatments are acceptable as long as they did not contain bevacizumab, ramucirumab or PARP inhibitors
+Patients who received prior PI3K, AKT or mTOR inhibitors are not allowed
+Patients must not be receiving or planning to receive trastuzumab; concurrent bisphosphonate therapy is allowed; patients must not have prior exposure to mechanistic target of rapamycin (serine/threonine kinase) (mTOR) inhibitors (rapamycin, everolimus, temsirolimus, deforolimus); patients must not have prior treatment with any investigational drug within the preceding 28 days and must not be planning to receive any other investigational drug for the duration of the study
+Prior treatment with pazopanib or any phosphoinositide 3-kinase (PI3K), mTOR, protein kinase B (AKT), or dual PI3K/mTOR complex (CREB regulated transcription coactivator [TORC]1/TORC2) inhibitors will be prohibited
+Chronic concomitant treatment with proton pump inhibitors must discontinue the drug for 7 days prior to registration on the study
+CYP3A4 Inhibitors: patients chronically receiving drugs that are known potent CYP3A4 inhibitors within 7 days prior to study enrollment, including but not limited to itraconazole, clarithromycin, erythromycin many non-nucleoside reverse-transcriptase inhibitors (NNRTIs), diltiazem, verapamil, and grapefruit juice are not eligible
+Human immunodeficiency (HIV) positive (+) patients are eligible provided they meet the other eligibility criteria and:\r\n* Cluster of differentiation (CD)4+ cells are >= 250/mm^3\r\n* There is no history of acquired immunodeficiency syndrome (AIDS) defining conditions other than historically low CD4+ cell count\r\n* The following antiretroviral agents are not allowed: zidovudine, stavudine, protease inhibitors, non-nucleoside reverse transcriptase inhibitors, combination pills with pharmacologic boosters\r\n* Recommended antiretroviral regimens to avoid pharmacokinetic (PK) interactions include strand integrase inhibitors with nucleoside reverse transcriptase inhibitors (for example, dolutegravir given with tenofovir and emtricitabine)
+Patients must not be receiving any proton pump inhibitors at the time of registration
+Not previously received XL184 or another MET/HGF inhibitor (tivantinib or crizotinib); there are no limits on number of prior therapeutic regimens; patients who have been treated with prior VEGF pathway, or RET inhibitors (except XL184) may be eligible
+Patients who are currently receiving drugs that are inhibitors or inducers of p-glycoprotein (P-gp) or adenosine triphosphate (ATP)-binding cassette, subfamily G, member 2 (ABCG2 [BCRP]) are not eligible
+Use of prescription proton pump inhibitors (PPIs) within 12 months prior to study entry\r\n* Dexlansoprazole (Dexilant)\r\n* Pantoprazole (Protonix)\r\n* Rabeprazole (AcipHex)\r\n* Esomeprazole (Nexium)\r\n* Lansoprazole (Prevacid)\r\n* Omeprazole (Prilosec, Zegerid)
+Immunotherapy or therapy with monoclonal antibodies or small tyrosine kinase inhibitors within the past 4 weeks prior to treatment with the trial drug
+Prior exposure to abiraterone acetate or other specific cytochrome P450 (CYP)-17 inhibitors; abiraterone acetate given in the castration-sensitive setting is permissible if stopped at least 6 months prior to initial protocol treatment
+Any number and type of prior anticancer therapies are allowed except BRAF or mitogen-activated protein kinase kinase (MEK) inhibitors
+Prior treatment with angiopoietin inhibitors, or inhibitors of tyrosine kinase with immunoglobulin-like and epidermal growth factor (EGF)-like domains (Tie) 1 or Tie2 including, but not limited to, AMG386, CVX-060, XL880, and XL820
+Concomitant use either of warfarin and/or 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitors (statins).
+The addition of cytotoxic agents for “cytoreduction” with the exception of tyrosine kinase inhibitors (such as imatinib), cytokine therapy, hydroxyurea, low dose cytarabine, chlorambucil, or Rituxan will not be allowed within three weeks of the initiation of conditioning
+ELIGIBILITY CRITERIA - PHASE I (ARMS A, B, C): Patient will not be enrolled if they received prior chemotherapy within 2 weeks before enrollment with the following exceptions: to reduce the circulating lymphoblast count or palliation (i.e., steroids or hydroxyurea) or for ALL maintenance (mercaptopurine, methotrexate, vincristine, thioguanine, and/or tyrosine kinase inhibitors)
+ELIGIBILITY CRITERIA - PHASE II (ARM D): Patient will not be enrolled if they received prior chemotherapy within 2 weeks before enrollment with the following exceptions: to reduce the circulating lymphoblast count or palliation (i.e., steroids or hydroxyurea), for ALL maintenance (mercaptopurine, methotrexate, vincristine, thioguanine, and/or tyrosine kinase inhibitors)
+First generation: AR antagonists (e.g., bicalutamide, nilutamide, flutamide), 5 alpha reductase inhibitors, ketoconazole, estrogens (including diethylstilbesterol [DES]), or progesterones
+Patients who are receiving any other anticancer or investigational or/and anti-neoplastic therapies, including chemotherapy, immunotherapy, target therapy, biological response modifiers\r\n* Previous treatment with CDK4/6 inhibitors (such as PD-0332991, abemaciclib) and/or mTOR inhibitors (such as sirolimus, temsirolimus or everolimus)\r\n* Patients who are currently receiving treatment with agents that are known to cause corrected QT (QTc) prolongation or induce Torsades de Pointes\r\n* Known need for major surgery within 14 days of the first dose of ribociclib and everolimus; please note: gastrostomy, insertion of a gastrostomy (G) tube, ventriculo-peritoneal shunt, endoscopic ventriculostomy and central venous access are NOT considered major surgery
+Cohort B Safety Run-In (Ribociclib + PDR001 + Fulvestrant): Treatment with prior PD1/PDL1/CTLA4 inhibitors is prohibited
+Cohort A Dose Expansion (Ribociclib + PDR001): Treatment with prior CDK4/6 inhibitors is prohibited
+Expansion Cohort B (Ribociclib + PDR001 + Fulvestrant): Treatment with prior CDK4/6 inhibitors are prohibited
+For subjects who have received prior checkpoint inhibitors:
+Must not have required the use of additional immunosuppression other than corticosteroids for the management of an AE related to checkpoint inhibitors, not have experienced recurrence of an AE related to checkpoint inhibitors if re challenged, and not currently require maintenance doses of corticosteroids.
+Concurrent use of potent CYP3A4 inhibitors, such as ketoconazole and erythromycin, should be avoided during the study treatment with T-DM1
+Concomitant therapy with allopurinol and other xanthine oxidase inhibitors
+Participants receiving any medications or substances that are moderate or strong inhibitors or inducers of CYP3A within 7 days of registration; proton pump inhibitors (PPI) may be taken while on study, however it is recommended that the PPI is taken 12 hours from the time of palbociclib administration; if needed, alternative antacid therapies may be used including H2-receptor antagonists and locally acting antacids; H2-receptor antagonists should be administered with a staggered dosing regimen (twice daily); the dosing of palbociclib should occur at least 10 hours after H2-receptor antagonist evening dose and 2 hours before the H2-receptor antagonist morning dose
+Prior exposure to abiraterone acetate, ketoconazole or other specific cytochrome (CYP)-17 inhibitors
+Prior exposure to agents specifically targeting both mammalian target of rapamycin (mTOR) complexes (dual target of rapamycin complex 1 [TORC1] + target of rapamycin complex 2 [TORC2] inhibitors) and/or phosphoinositide 3-kinase (PI3K)/ protein kinase B (AKT) pathways
+Subjects on active anticoagulation therapy including warfarin, factor Xa inhibitors, thrombin inhibitors, or heparin.
+No prior therapy with inhibitors affecting the mitogen-activated protein kinase (MAPK) pathways at any level (BRAF, mitogen-activated protein [MAP]/extracellular signal-related kinase [ERK] kinase [MEK], neuroblastoma RAS viral [v-ras] oncogene homolog [NRAS], ERK inhibitors) for unresectable stage IIIC or stage IV (metastatic) melanoma; no limit to other therapies (immunotherapy or chemotherapy); prior systemic treatment in the adjuvant setting is allowed; (note: ipilimumab treatment must end at least 8 weeks prior to study day 1)
+Patients who have received any other histone deacetylase (HDAC) inhibitors or immunomodulatory (IMID) agents for any reason are not eligible
+Participants may have received any number of prior therapies, from 0 to > 10; prior treatment with phosphatidylinositol 3 (PI3)-kinase or mTOR inhibitors is not permitted, unless they were given as adjuvant therapy without undue toxicity, and without suggestion of resistance to therapy
+Concomitant anticoagulation at therapeutic doses with oral anticoagulants or platelet inhibitors
+Untreated disease EXCEPT for corticosteroids, hydroxyurea, leukapheresis, and/or tyrosine kinase inhibitors for up to 2 weeks prior to initiation of study therapy
+Use of tumor necrosis factor (TNF) alpha inhibitors within four weeks prior to study entry
+Eligible participants must have received at least one line of prior therapy; note: patients will be eligible for participation despite prior treatment with known RET tyrosine kinase inhibitors (TKIs) (e.g. vandetanib, sorafenib, XL-184)
+There is no limit to number of prior treatments; prior bevacizumab is allowed unless it was discontinued due to unacceptable toxicity; prior therapy with tyrosine kinase inhibitors (TKI) targeting vascular endothelial growth factor (VEGF) receptors is allowed
+Patients may have received prior chemotherapy (excluding prior mTOR inhibitors)
+Patients may NOT have received prior mTor inhibitors
+Prior treatment with immune checkpoint inhibitors and MEK inhibitors
+Patients with known and documented allergies to any of the penicillins, cephalosporins, or beta-lactamase inhibitors
+Proton-pump inhibitors and histamine H2-receptor antagonists;
+Patients taking PDE5 inhibitors more than 1/week during the previous 28 days
+Women who have received treatment with Selective Estrogen Receptor Modulators (SERMs) (e.g. tamoxifen, raloxifen) or aromatase inhibitors
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Part I dose escalation: Concurrent use of proton-pump inhibitors (PPIs) is prohibited
+Prior exposure to transcriptional kinase family CDK inhibitors, such as the CDK7 and CDK9 inhibitors alvocidib (Flavopiridol), dinaciclib, and seliciclib. Exception: previous exposure to cell cycle CDK inhibitors such as CDK4 and CDK6 (eg, palbociclib) is allowed
+Previous treatment with CDK4/6 inhibitors or mTOR inhibitors
+Patients must not be on active anti-androgen therapy or 5-alpha reductase inhibitors; patients on stable dose of 5-alpha reductase inhibitors for benign prostatic hypertrophy for at least 12 months may continue; they must withdraw from the study if this is stopped while on study
+Prior therapy with topoisomerase I inhibitors is allowed
+Prior treatment with any drug that targets T cell co-stimulations pathways (such as checkpoint inhibitors)
+Subjects may have received bevacizumab, VEGF-Trap, or other VEGF blocking tyrosine kinase inhibitors, provided that they did not progress while receiving one of these agents. Subjects may not have previously received pazopanib.
+Ongoing therapy with a P-gp inhibitor (e.g., nelfinavir, indinavir, or saquinavir-protease inhibitors for HIV) as these drugs interact with the factor Xa inhibitors
+Patients who have received any targeted therapy (including but not limited to vaccines, antibodies, tyrosine kinase inhibitors) or hormonal therapy for management of their epithelial ovarian, fallopian tube or peritoneal primary cancer
+Prior treatment with 5-alpha reductase inhibitors within 4 weeks of Cycle 1, Day 1
+Prior treatment with approved or experimental therapeutic agents with known inhibition of the PI3K pathway, including PI3K inhibitors, AKT inhibitors, and mTOR inhibitors
+Concurrent use of potent CYP3A4 inhibitors, such as ketoconazole and erythromycin, should be avoided during the study treatment with nab-paclitaxel
+Patients previously treated with hormonal therapy (tamoxifen, AI) or PI3K, AKT, dual PI3K/mTOR, TORC1/2, or mTORC1 inhibitors.
+Patients with hypersensitivity to mTOR inhibitors or tamoxifen.
+Participants who have received prior oral tyrosine kinase inhibitors (TKIs) will be allowed on study if at least 5 half-lives have elapsed since the date of their last dose of TKI
+If using hydroxyurea, tyrosine kinase inhibitors (TKIs)/src inhibitors (including fms related tyrosine kinase 3 [FLT-3] inhibitors), other non-cytotoxics, or leukapheresis for blast count control, the patient must be off these therapies for >= 24 hours (hrs) before starting sertraline
+Hyperleukocytosis with >= 30,000 blasts/uL; if using hydroxyurea, tyrosine kinase/src inhibitors (including FLT-3 inhibitors), other non-cytotoxics, or leukapheresis for blast count control, the patient must be off these therapies for >= 24 hours prior to beginning sertraline
+Patients requiring treatment with other anti-depressive medications including the selective and non-selective monoamine oxidase (MAO) inhibitors (including linezolid), 5 hydroxytryptamine (HT) receptor agonists (triptans), tryptophan or antidopaminergic agents (anti-psychotics, metoclopramide, promethazine, haloperidol)
+Part B3: Have metastatic melanoma carrying BRAF mutation, refractory/relapsed after treatment with Raf and/or MEK inhibitors
+Taking other immunosuppressant drugs for GVHD, including mTor inhibitors (Note: Only steroids, calcineurin inhibitors, and ECP are acceptable).
+Prior therapy with a BRAF and/or mitogen-activated protein kinase kinase (MEK) and/or extracellular signal-regulated kinase (ERK) inhibitors
+Receipt of monoamine oxidase inhibitors (MAOIs), UGT1A9 inhibitors, or melatonin supplements
+Prior treatment with ERK inhibitors.
+?28 days for a prior immunotherapy. No prior therapy with check point inhibitors, costimulatory agonists or immunomodulatory agents is allowed.
+prior treatment with DAC inhibitors
+Subjects who have taken 5a-reductase inhibitors (finasteride or dutasteride), saw palmetto, or PC-SPES within the last 6 weeks are ineligible; subjects will be eligible for the study after the wash out period of 6 weeks
+Prior treatment with PM01183, trabectedin (Yondelis®) or topoisomerase I inhibitors (irinotecan, topotecan, etc.).
+Molecular targeted agents including monoclonal antibodies and tyrosine kinase inhibitors: at least two weeks since last therapy
+Treatment with any of the following; histamine receptor 2 inhibitors, proton pump inhibitors or antacids within 3 days or 5 half-lives of administration of BGB234, whichever is longer.
+Prior exposure to experimental treatment targeting rapidly accelerated fibrosarcoma (Raf), MAP kinase/ERK kinase (MEK), or the mitogen-activated protein kinase (MAPK) pathway
+Patients should have been off conventional therapy for at least 1 week prior to entry in this study; PD1/PDL1 inhibitors will be allowed if medically indicated
+Patients who have had prior treatment with LY2606368 or other Chk inhibitors
+Concurrent use of selective serotonin reuptake inhibitors or aromatase inhibitors
+Concomitant use of the strong CYP2C8 inhibitors gemfibrozil or trimethoprim (Bactrim)
+Use of the following drugs within 4 weeks of study drug administration: 5 alpha-reductase inhibitors (finasteride, dutasteride), estrogens, Cyproterone acetate, biologic, or other agents with anti-tumor activity against prostate cancer, and androgens (testosterone, dihydroepiandrosterone [DHEA], etc.)
+Treatment with proton pump inhibitors within 3 days prior to study entry; if continued use of gastrointestinal (GI) prophylaxis is required, the patient will be switched to an appropriate histamine (H2) antagonist with appropriate counsel and caution
+Prior treatment with bevacizumab or other direct VEGF/ VEGFR inhibitors. For any question of the definition of a direct VEGF/VEGFR inhibitor, consult Sponsor.
+Previous treatment with anti-FGFR directed therapies (e.g. receptor tyrosine kinase inhibitors or FGFR-specific antibodies)
+Patients who have received prior therapy targeting EGFR with small molecule tyrosine kinase inhibitors or monoclonal antibodies are NOT eligible
+Prior treatment with mTOR or TORC1/2 inhibitors (eg, rapamycin, temsirolimus, everolimus, deferolimus) is NOT allowed
+Patients with prior treatment of histone deacetylase (HDAC) inhibitors or doxorubicin liposome or doxil are eligible
+PART I: Stable, concurrent use of tamoxifen or aromatase inhibitors for hormone receptor positive breast cancer
+PART II: Stable, concurrent use of tamoxifen or aromatase inhibitors for hormone receptor positive breast cancer are allowed
+Concomitant therapy with potent inhibitors of CYP450 3A4 (e.g. ketoconazole, verapamil etc) or with potent CYP450 1A2 inhibitors (fluoroquinolone antibiotics including ciprofloxacin, levofloxacin, and norfloxacin; ticlopidine, cimetidine, amiodarone, etc.)
+Has received any of the following in the 4 weeks prior to randomization: 5-alpha-reductase inhibitors, herbal medications, natural hormonally active foods (e.g., phytoestrogens) or other food supplements known to alter PSA in humans
+Patients must not have received previous treatment with PARP inhibitors
+Patients on 5-alpha reductase inhibitors such as finasteride or dutasteride must stop medication at least 28 days prior to study entry.
+Patients with Philadelphia chromosome (Ph)+ ALL or blast crisis of CML must be refractory (not intolerant) to at least 2 second/third generation ABL kinase inhibitors (TKI)
+Patients who have previously received palbociclib or other CDK4/6 inhibitors are not eligible
+Receiving any investigational agents or concurrent biological, intensive chemotherapy or radiation therapy for the previous 2 weeks from conditioning\r\n* NOTE: low dose chemotherapy or maintenance chemotherapy given within 7 days of planned study enrollment is permitted; these include: hydroxyurea, 6-meraptopurine, oral methotrexate, vincristine, oral etoposide, and tyrosine kinase inhibitors (TKIs); FLT-3 inhibitors can also be given up to 3 days before conditioning regimen
+History of significant toxicities associated with previous administration of immune checkpoint inhibitors that necessitated permanent discontinuation of that therapy
+Patients may not be receiving any other investigational agents, or concurrent biological, chemotherapy, or radiation therapy; maintenance therapy with Food and Drug Administration (FDA)-approved targeted therapies (e.g. tyrosine kinase inhibitors for Philadelphia chromosome [Ph] positive [+] acute lymphoblastic leukemia [ALL], and FLT inhibitors for FLT3+ patients) will be allowed after day 60 disease assessment
+Current use of non-nucleoside reverse transcriptase inhibitors (NNRTI) including efavirenz, rilpivirine, etravirine, delavirdine, nevirapine, and lersivirine
+Prior checkpoint inhibitors/blockade in the last 12 months.
+Participants must not have a history of any significant drug allergy (such as anaphylaxis or hepatotoxicity) to prior anti-cancer immune-modulating therapies (eg, checkpoint inhibitors and T-cell co-stimulatory antibodies)
+Previous treatment with dual PI3K/mTOR inhibitors, TORC1/2 inhibitors or TORC1 inhibitors.
+Subjects receiving monoamine oxidase inhibitors (MAOIs) or drug which has significant MAOI activity (meperidine, linezolid, methylene blue) within the 21 days before screening
+Prior therapy with hydroxyurea, biological or targeted therapy (e.g. flt3 inhibitors, other kinase inhibitors) or hematopoietic growth factors is allowed
+COHORT 2: TRIPLE NEGATIVE BREAST CANCER: Eligible patients may or may not have received prior chemotherapy and there is no limit to the number of prior chemotherapy; patients are also eligible if they have received treatment with immunotherapy, such PD-1 inhibitors, PD-L1 inhibitors or CTLA4 inhibitors
+COHORT 3: ENDOMETRIAL CANCER: Women with endometrial cancer must have had at least one prior line of therapy in the metastatic/recurrent setting but there is no limit to the number of prior chemotherapy lines; patients are eligible if they have received treatment with immunotherapy, such PD-1 inhibitors, PD-L1 inhibitors or CTLA4 inhibitors
+Prior therapy with hydroxyurea, chemotherapy, biological or targeted therapy (e.g. FLT3 inhibitors, other kinase inhibitors), or hematopoietic growth factors is permitted in cohort 1 and 2.
+Medically indicated use of known radiosensitizing drugs (such as protease inhibitors)
+Chemo-, or immunotherapy or therapy with monoclonal antibodies or small tyrosine kinase inhibitors within the past 2 weeks prior to treatment with the trial drug
+Prior treatment with cabozantinib or other cMET inhibitors.
+Treatment with androgen receptor antagonists (bicalutamide, flutamide, nilutamide), 5-alpha reductase inhibitors (finasteride, dutasteride), estrogens, chemotherapy, or biologic therapy within 4 weeks of enrollment (day 1 visit)
+Prior use of a drug targeting FGF or FGFR; patients previously treated with medications that affect FGFR signaling as a secondary target (e.g., multi-tyrosine kinase inhibitors that primarily inhibit VEGF, but to a lesser extent also affect FGFR signaling) can be considered after discussion with the principal investigator
+For Combination Therapy cohort only: Prior therapy with MEK inhibitors.
+Participants who have had chemotherapy (not including molecularly targeted agents; examples include, but are\r\nnot limited to, tyrosine kinase inhibitors (such as FLT3 inhibitors) and IDH2 inhibitors), radiation treatment and/or surgery 2 weeks prior to entering the study. Those who have not recovered sufficiently from adverse events due to agents administered more than 2 weeks earlier are also ineligible
+Prior therapy with ibrutinib or other BTK inhibitors
+Concomitant medications\r\n* Corticosteroids: Patients receiving corticosteroids who have not been on a stable or decreasing dose of corticosteroid for at least 7 days prior to enrollment are not eligible; corticosteroids must be held for 24 hours prior to initiation of study therapy\r\n* Investigational drugs: Patients who are currently receiving another investigational drug are not eligible; the definition of “investigational” for use in this protocol means any drug that is not licensed by the Food and Drug Administration (FDA)\r\n* Anti-cancer agents: Patients who are currently receiving or may receive while on therapy, other anti-cancer agents, radiation therapy or immunotherapy are not eligible (except leukemia patients who relapsed on maintenance therapy or patients receiving hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy); intrathecal therapy may be given up to one week prior to initiation of study treatment\r\n* Anti-graft versus host disease (GVHD) or agents to prevent organ rejection post-transplant: Patients who are receiving cyclosporine, tacrolimus or other agents to prevent either graft-versus-host disease post bone marrow transplant or organ rejection post-transplant are not eligible for this trial; at least 3 half-lives must have elapsed after the last dose of GVHD meds\r\n* Angiotensin-converting enzyme (ACE) inhibitors: Patients who are currently receiving ACE inhibitors are not eligible due to the development of angioneurotic edema-type reactions in some subjects who received concurrent treatment with everolimus + ACE inhibitors; at least 3 half-lives must have elapsed after the last dose of ACE inhibitors\r\n* Anti-convulsants: Patients who are currently receiving CYP3A4/PgP enzyme inducing anticonvulsants (eg. phenytoin, phenobarbitol, or carbamazepine) are not eligible; stabilizing on a non-hepatic inducing metabolizing anti-convulsant (ie: gabapentin or levetiracetam) prior to study entry is acceptable; at least 3 half-lives must have elapsed after the last dose of enzyme inducing anti-convulsants\r\n* Inhibitors of everolimus metabolism: Patients receiving treatment with azoles such as fluconazole or voriconazole which are potent inhibitors of everolimus metabolism; at least 3 half-lives must have elapsed after the last dose of azoles
+Subjects receiving monoamine oxidase inhibitors (MAOIs) or drug which has significant MAOI activity (meperidine, linezolid, methylene blue) from 21 days prior to day 1 through 2 weeks after the final dose of epacadostat has been administered
+Hormonal manipulation (excluding 5-alpha-reductase inhibitors) that alters androgen production within the previous 6 months;
+No limit is placed on prior systemic treatment, but subjects must be eligible for immune checkpoint inhibitors therapy, for a Food and Drug Administration (FDA) approved indication
+Prior treatment with immune checkpoint inhibitors
+History of significant toxicities associated with previous administration of immune checkpoint inhibitors that necessitated permanent discontinuation of that therapy
+Subjects who previously received IACS-010759 or oxidative phosphorylation (OXPHOS) inhibitors.
+Relapsed or refractory MM after adequate exposure to and therapeutic response (following IMWG response criteria) to at least one line of treatment with one or more active agents, including alkylating drugs, corticosteroids, immunomodulatory drugs (IMiD: thalidomide, lenalidomide, pomalidomide), proteasome inhibitors (bortezomib, cartilzomib), and monoclonal antibodies (daratumumab, elotuzumab, ixazomab);
+Patients may have received one additional non-cytotoxic regimen for management of recurrent or persistent disease according to the following definition: non-cytotoxic (biologic or cytostatic) agents include (but are not limited to) hormones, monoclonal antibodies, cytokines, and small molecule inhibitors of signal transduction
+Has prothrombin time (PT) or aPTT >1.5× upper limit of normal (ULN) or active uncontrolled coagulopathy or bleeding disorder. Participants therapeutically anticoagulated with warfarin, direct thrombin inhibitors, direct factor Xa inhibitors, or heparin are excluded from enrollment.
+Participants who require continuous use of proton pump inhibitors (PPIs) or histamine-2 (H2) receptor antagonists and participants who are taking PPIs within 5 days before the first dose of study drug.
+All prior chemotherapy must be at least 4 weeks prior to TATE and free from treatment-related toxicity. No gap is needed for prior PD-1 checkpoint inhibitors in NSCLC patients.
+The addition of cytotoxic agents for “cytoreduction” with the exception of tyrosine kinase inhibitors (such as imatinib), cytokine therapy, hydroxyurea, low dose cytarabine, chlorambucil, or Rituxan will not be allowed within three weeks of the initiation of conditioning
+Prior treatment with PI3K/AKT inhibitors
+Prior treatment with histone deacetylase (HDAC) inhibitors (e.g. valproic acid, Zolinza (SAHA), romidepsin (Istodax)
+Inability to suspend treatment with anti-hypertensive medication (including but not limited to: diuretics, beta-blockers, angiotensin converting enzyme [ACE] inhibitors, aldosterone antagonists, etc) for 48 hours pre and post each Pexa-Vec administration
+For participants in the dose-finding phase, a minimum washout period of at least 5 half-lives between the last dose of tyrosine kinase inhibitors (TKI) therapy and the first dose of study treatment is required; for patients on crizotinib, a 7 day washout is sufficient; a shorter washout period may be considered in the event of disease flare, after discussion with the sponsor; no washout is required if the most recent anti-neoplastic therapy is alectinib
+Concurrent use of other tyrosine kinase inhibitors
+Has had prior therapy with indoleamine-pyrrole 2,3-dioxygenase (IDO)-inhibitors
+Has had monoamine oxidase inhibitors within 21 days before screening
+Treatment with any of the following: histamine receptor 2 inhibitors, proton pump inhibitors or antacids within 7 days of start of study treatment.
+Prior usage of PD-1 inhibitors, programed-death ligand 1 and/or 2 inhibitors, CTLA-4 inhibitors including but not limited to ipilimumab, nivolumab, avelumab, durvalumab, tremelimumab, and pembrolizumab
+Prior use of osteoclast inhibitors for osteoporosis will not be allowed
+Additional criteria for escalation cohorts: A) patients must have Ras pathway activation (RPA) (including KRAS, NRAS, NF1, HRAS, and BRAF); B) prior treatment with MEK inhibitors and/or PARP inhibitors is allowed
+P-glycoprotein/ABCB1 inhibitors such as amiodarone, atorvastatin, azithromycin, clarithromycin; if previously on such agents, the patient must be off of it for at least two weeks prior to study treatment
+Subjects already taking drugs known to be 5-lipoxygenase inhibitors
+Subjects taking anti-coagulants or platelet inhibitors
+Patients who have had prior exposure to immune checkpoint inhibitors are not eligible; please contact principal investigator, Maria Matsangou at 312-926-4248 for specific questions on potential interactions\r\n* NOTE: Immune checkpoint inhibitors working through OX40 are an exception (for example, MEDI6383, MEDI6469, MEDI0562, oxelumab, and PF-04518600) and are permitted >= 28 days prior to study registration
+Previous treatment with immune checkpoint inhibitors
+No prior therapy with any CDK 4/6 inhibitors.
+Anticipated use of concomitant chemotherapy (other than the protocol specified agents), immunotherapy, or systemic use of hormonal therapy (such as GnRH analogs, antiandrogens, androgen receptor inhibitors, and 5-? reductase inhibitors) prior to surgery
+Only for subjects enrolled in Arm 1 - Neratinib and everolimus: patients who are taking medications with moderate or potent inhibitors or inducers of CYP450 3A4 should be off for 5 half-lives prior to starting everolimus.
+Only for subjects enrolled in Arm 2 - Neratinib and palbociclib: patients who are taking medications with moderate or potent inhibitors or inducers of CYP450 3A4 should be off for 5 half-lives prior to starting palbociclib.
+Chemotherapy administration in the 14 days preceding enrollment with the exception of hydroxyurea, which can be continued until through cycle 2; a washout period for oral tyrosine kinase inhibitors (e.g. Jakafi, etc) is not required, although tyrosine kinase inhibitors therapy must be discontinued prior to enrollment
+Prior use of CDK4/6 inhibitors
+Patients receiving any medications or substances that are inhibitors or inducers of CYP3A4 are ineligible; the subject requires concomitant treatment with the following inhibitors of CYP3A4:\r\n* Antibiotics: clarithromycin, erythromycin, telithromycin, troleandomycin; specifically, clarithryomycin is permitted for patients considered for this trial\r\n* Antifungals: itraconzaole, ketoconazole, voriconazole, fluconazole, posaconazole\r\n* Antidepressants: nefazodone\r\n* Antidiuretic: conivaptan\r\n* Antiretrovirals: delaviridine or protease inhibitors (ritonavir, indinavir, lopinavir/ritonavir, saquinavir, nelfinavir) or cobicistat-boosted antiretrovirals\r\n* Gastrointestinal (GI): cimetidine, aprepitant\r\n* Hepatitis C: boceprevir, telaprevir\r\n* Miscellaneous: Seville oranges, grapefruit, or grapefruit juice and/or pummelos, star fruit, exotic citrus fruits, or grapefruit hybrids)
+Hormonal therapy (e.g., androgen receptor [AR] antagonists, 5 alpha reductase inhibitors, estrogens)
+Patients are not eligible if they have previously received endocrine therapy within 5 years prior to diagnosis of the current malignancy; this includes use for prophylactic reasons, including treatment of osteoporosis or cancer prevention with tamoxifen, raloxifene, or aromatase inhibitors (AI)
+Received any prior treatment with CD137 agonists or cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) inhibitors.
+Prior use of systemic checkpoint inhibitors for the management of metastatic RCC is excluded; prior IFN-alpha or IL-2 is allowed
+Prior exposure to CYP17 (other than ketoconazole) or PARP inhibitors for prostate cancer; patients with prior exposure to ketoconazole are eligible
+Prior treatment with any drug that targets T cell co-stimulation pathways (such as checkpoint inhibitors)
+Previous treatment with phosphoinositide 3-kinase (PI3K), serine/threonine-specific protein kinase (AKT), dual PI3K/ mammalian (or mechanistic) target of rapamycin (mTOR) inhibitors, target of rapamycin complex 1/2 (TORC1/2) inhibitors or TORC1 inhibitors.
+CELL PROCUREMENT: Subjects with Philadelphia chromosome (Ph)+ ALL will be eligible if they have failed >= 2 ABL tyrosine kinase inhibitors; subjects with the T315I ABL kinase point mutation will be eligible if they have failed ponatinib-containing therapy, regardless of the number of prior ABL tyrosine kinase inhibitors
+Patients who have been previously treated with mTOR inhibitors such as everolimus and temsirolimus, or with c-MET inhibitors such as cabozantinib
+Prior therapeutic intervention with any of the following:\r\n* Therapeutic anticancer antibodies within 4 weeks (rituximab), except within 6 months for obinutuzumab or a similar investigational type II monoclonal antibody;\r\n* Radio- or toxin-immunoconjugates within 10 weeks;\r\n* Inhibitors of BTK (ibrutinib), PI-3K (idelalisib), BH3-mimetic venetoclax, lenalidomide and other “targeted” therapy (including but not limited to investigational BTK and PI-3K inhibitors, etc.) – within 6 half-lives (i.e., 36 hours for ibrutinib)\r\n* All other chemotherapy, radiation therapy within 3 weeks prior to initiation of therapy\r\n* SYK inhibitors at any time
+Need for ongoing therapy with proton pump inhibitors; H2 antagonists are allowed
+Antiandrogens (e.g., bicalutamide, flutamide, nilutamide, abiraterone, enzalutamide) for > 2 months prior to consenting; patients on 5-alpha reductase inhibitors are allowed on study
+Receipt of the last dose of chemotherapy or tyrosine kinase inhibitors should be at least 3 weeks prior to durvalumab and tremelimumab dosing; monoclonal antibodies such as bevacizumab, ziv-aflibercept, ramucirumab, cetuximab, and panitumumab should be at least 6 weeks prior to durvalumab and tremelimumab therapy
+Prior venetoclax or other BCL-2 family inhibitors or prior lenalidomide is not permitted
+Patients previously exposed to, intolerant of, or ineligible for CDK inhibitors, mTOR inhibitors, and/or their combination
+Concurrent use of an angiotensin-converting enzyme (ACE) inhibitor (increased risk of angioedema with ACE inhibitors administered in combination with everolimus, seen in approximately 6.8% of patients)
+Prior therapy with hydroxyurea, chemotherapy, biological or targeted therapy (e.g. FLT3 inhibitors, other kinase inhibitors), or hematopoietic growth factors is allowed
+Has progressed on prior therapy with ibrutinib or other BTK inhibitors
+Prior treatment with poly adenosine diphosphate (ADP) ribose polymerase (PARP) inhibitors (example (e.g.), olaparib, veliparib [ABT-888])
+Concomitant treatment with other hormonal therapy or 5alpha-reductase inhibitors
+Prior therapy with hydroxyurea, interferon, anagrelide, ruxolitinib, hypomethylating agents, revlimid, thalidomide, steroids, other JAK inhibitors is allowed; for acute myeloid leukemia (AML) patients who are back in chronic phase myeloproliferative neoplasm (MPN), prior induction therapy is allowed
+Washout of 2 weeks is required for aromatase inhibitors; washout of 4 weeks is required for CDK 4/6 inhibitor, everolimus or other biological agent
+Chemotherapy, hormonal therapy, radiotherapy (except for brain and extremities), immunotherapy or therapy with monoclonal antibodies or small tyrosine kinase inhibitors within the past 4 weeks prior to treatment with the trial drug
+Prior exposure to IACS-010759 or other oxidative phosphorylation inhibitors
+Concurrent therapy with monoamine oxidase inhibitors (MAOI), selective serotonin reuptake inhibitors (SSRI), or other tricyclic antidepressants (TCA) or use within 2 weeks study start
+Concomitant therapy with any drugs shown to have major interactions with nortriptyline (i.e. known inhibitors of cytochrome P450 family 2 subfamily D member 6 [CYP2D6]) and use during the 30-day period prior to study start
+Patients who have received previous investigational agents or biologic therapy, such as tipifarnib, pirfenidone, Peg-intron, sorafenib, or other vascular endothelial growth factor (VEGFR) inhibitors are eligible for enrollment
+Patients on proton pump inhibitors, potent CYP3A or P-glycoprotein substrates, inhibitors or inducers a minimum 7 day period washout required unless discontinuation or substitution is not in the best interests of the patient as determined by the investigator; in instances where use of these agents is felt to be required for optimal management, inclusion of such patients should be discussed with the principal investigator (PI) and the rationale documented; these patients, if enrolled on study, may require dose modifications for both axitinib and bosutinib
+History of hypersensitivity to any of the kinase inhibitors included in this study
+UROTHELIAL CARCINOMA EXPANSION COHORT ONLY: Patients who have had prior treatment with olaparib or other camptothecin inhibitors
+mCRPC EXPANSION COHORT: Patients who have had prior treatment with olaparib or other camptothecin inhibitors
+Previous treatment with anti-angiogenesis agents including thalidomide, or inhibitors of epidermal growth factor (EGF), platelet derived growth factor (PDGF), or fibroblast growth factors (FGF) receptors within 30 days preceding study entrance
+Patients with history of bleeding diathesis, arterial thromboembolism, current use of therapeutic anticoagulation with oral vitamin K antagonists, factor Xa inhibitors, heparin products, oral direct thrombin inhibitors, or presence of non-healing wounds; low-dose anticoagulants for maintenance of patency of central venous access device or prevention of deep venous thrombosis is allowed
+Previous treatment with AKT inhibitors (e.g., ARQ 092, MK-2206, GSK2141795, AZD5363)
+Subjects who have received investigational or approved oral or “targeted” agents (such as spleen tyrosine kinase [SYK], phosphatidylinositol 3 kinase [PI3K], B-cell chronic lymphocytic leukemia [CLL]/lymphoma 2 [bcl-2], BTK inhibitors) or lenalidomide within 1 week prior to entering the study or those whose adverse events due to agents administered more than 1 week earlier have not recovered to =< grade 1; this excludes hematologic adverse events
+Prior histone deacetylase (HDAC), deacetylase (DAC), heat shock protein (HSP)90 inhibitors or valproic acid for the treatment of cancer is allowed
+Histamine 2 (H2) antagonists and proton pump inhibitors are not allowed
+Patients must have discontinued systemic antineoplastic therapy (including systemic corticosteroids and excluding tyrosine kinase inhibitors for CML) at least four (4) weeks prior to enrollment.
+Patients receiving cytotoxic therapy, radiation therapy, immunotherapy or non-topical steroids for HM within four (4) weeks of enrollment, excluding tyrosine kinase inhibitors in patients with CML.
+CLL who are beyond first remission and who have failed combination chemoimmunotherapy with regimens containing a purine analogue and anti-CD20 antibody, or who have failed tyrosine kinase or phosphatidylinositol 3 (PI3) kinase inhibitors, or who were not eligible for or declined such therapy; patients with fludarabine refractory disease are eligible
+Treatment with high dose immune inhibitors including lymphotoxic monoclonal antibodies such as campath, or rapamycin and its analogs or cytotoxic agents less than 2 weeks prior to enrollment.
+Concurrent use of systemic immune suppressive other than calcineurin inhibitors and sirolimus
+Prior use of neutrophil elastase inhibitors
+Patients must not have been treated with CHK1/2 inhibitors
+Patients who require treatment with UGT1A1 inhibitors during the period of investigational treatment with DFP-13318.
+Patients who have received histone deacetylase (HDAC) inhibitors (including valproic acid, entinostat, vorinostat) are excluded
+Patients must demonstrate progressive disease at the time of treatment\r\n*Note: patients who have received tyrosine kinase inhibitors (e.g. vemurafenib) may be treated if they present with stable disease at the time of treatment
+known to be inducers or inhibitors of P-gp
+HDAC inhibitors: 8 weeks
+5-alpha reductase inhibitors (e.g. finasteride or dutasteride) within 180 days prior to registration.
+Treatment with crizotinib within 7 days prior to enrollment; for all other ALK tyrosine-kinase inhibitors (TKIs), the washout period should be >= 5 half-lives prior to enrollment
+Prior therapy with any agent targeting the vascular endothelial growth factor receptor (VEGFR) pathway to include bevacizumab, pazopanib, and other anti-angiogenesis inhibitors
+Subjects currently receiving H2-blocker or proton pump inhibitors (or unable to stop at least 5 days prior to the first treatment).
+Prior therapy with axitinib and/or sunitinib as well as any prior therapies with other VEGF pathway inhibitors
+Use of other investigational drugs within 28 days (or five half-lives, whichever is shorter; with a minimum of 14 days from the last dose) preceding the first dose of trametinib and during the study; patients previously treated with v-raf murine sarcoma (RAF) and/or mitogen-activated protein kinase (MEK) inhibitors are excluded from the study; multikinase antiangiogenic tyrosine kinase inhibitors such as regorafenib, sorafenib, sunitinib, etc. whose primary mechanism of action is not RAF inhibition, are allowed; if there are any questions, please contact study's principal investigator
+Patients with a prior history of treatment with histone deacetylase (HDAC) inhibitors (e.g., SNDX-275/entinostat, LAQ-824, LBH589, PXD-101/belinostat, etc); patients who have received valproic acid will be excluded from this study
+Prior treatment with CCR2 and/or CCR5 inhibitors
+Concomitant use of known CYP3A4 inhibitors such as ketoconazole, itraconazole, ritonavir, indinavir, saquinavir, telithromycin, clarithromycin and nelfinavir
+PHASE I STUDY ELIGIBILITY CRITERIA:\r\nPatients are allowed to have received prior PARP inhibitors (PARPi), and/or anti-angiogenesis therapy including but not limited to thalidomide, bevacizumab, sunitinib, sorafenib, or other anti-angiogenics; however, patients who were treated with both olaparib and cediranib, either in combination or sequentially are not eligible; for this study, BSI-201 (iniparib) is not considered as PARPi
+Previous treatment with AKT inhibitors (e.g., MK-2206, GSK2141795, AZD5363)
+Use of VEGF inhibitors within 10 days prior to registration
+Prior use of PI3K or Akt inhibitors in the metastatic setting for the treatment of cancer; these include, but are not limited to: taselisib, GDC-0941, GDC-0980, BEZ235, BKM120, LY294002, PIK-75, TGX-221, XL147, XL765, SF1126, PX-866, D-87503, D-106669, GSK615, CAL101; patients who have received PI3K/Akt inhibitors previously for < 4 weeks will be eligible
+Patients should be off all previous intensive therapy, chemotherapy or radiotherapy for 3 weeks prior to commencing therapy on this study\r\n* (NOTE: Low dose chemotherapy or maintenance chemotherapy given within 7 days of planned study enrollment is permitted; these include: hydroxyurea, 6-meraptopurine, oral methotrexate, vincristine, oral etoposide, and tyrosine kinase inhibitors [TKIs]; FLT-3 inhibitors such as sorafenib, crenolanib, midostaurin can also be given up to 3 days before conditioning regimen)
+Patients may not be receiving any other investigational agents, or concurrent biological, intensive chemotherapy, or radiation therapy for the previous three weeks from conditioning\r\n* (NOTE: Low dose chemotherapy or maintenance chemotherapy given within 7 days of planned study enrollment is permitted; these include: hydroxyurea, 6-meraptopurine, oral methotrexate, vincristine, oral etoposide, and tyrosine kinase inhibitors [TKIs]; FLT-3 inhibitors such as sorafenib, crenolanib, midostaurin can also be given up to 3 days before conditioning regimen)
+Patients who are currently receiving angiotensin-converting enzyme (ACE) inhibitors are not eligible due to the development of angioneurotic edema-type reactions in some subjects who received concurrent treatment with temsirolimus + ACE inhibitors
+Prior treatments with Cyp 17 inhibitors like TAK-700/orteronel, ketoconazole, radium 223 or docetaxel (up to 6 cycles of docetaxel given in the non CRPC setting is allowed); prior treatment with sipuleucel-T is allowed
+ARM 1 AND 2 FRONT LINE OLDER COHORT: Patients age 65 years and above with previously untreated AML (>= 20% blasts) who are unfit for or decline standard induction therapy; prior therapy with hydroxyurea, biological or targeted therapy (e.g. FLT3 inhibitors, other kinase inhibitors), or hematopoietic growth factors is allowed, however prior therapy with chemotherapy agents for the disease under study is not allowed; patients may have received one dose of cytarabine (up to 2 g/m2 administered at presentation for control) of hyperleucocytosis; the frontline cohort of vidaza+nivolumab+ipilimumab and vidaza+nivolumab will be open simultaneously and we will enroll alternately to these two frontline protocols with close monitoring for futility and as specified in the predefined statistical futility and toxicity stopping rules
+Prior therapy with hydroxyurea, chemotherapy, biological or targeted therapy (e.g. FLT3 inhibitors, other kinase inhibitors), or hematopoietic growth factors is allowed
+Prior systemic therapy is allowed, although appropriate washout is required for patients who have been on BRAF inhibitors (at least 7 days)
+Angiotensin-converting enzyme (ACE) inhibitors: patients who are currently receiving ACE inhibitors are not eligible
+No prior treatment with agents targeting BRAF mutant tyrosine kinases or MEK inhibitors or radiation of target lesions
+Concomitant use of proton pump inhibitors, H2-receptor antagonists, antacids
+Documented evidence of resistance to prior treatment with idelalisib or other PI3K inhibitors.
+Receipt of monoamine oxidase inhibitors (MAOIs) within 21 days before first dose of study treatment
+Current use of selective estrogen receptor modulators (SERMS) or aromatase inhibitors
+Concomitant use of other histone deacetylase (HDAC) inhibitors
+More than 2 lines of therapy beyond corticosteroids with or without calcineurin inhibitors or sirolimus
+Medications or supplements that are known to be inhibitors of P-glycoprotein (P-gp) or strong inhibitors or inducers of Cytochrome (CY) P3A within 5 times the inhibitor half-life (if a reasonable half-life estimate is known) or within 7 days (if a reasonable half-life estimate is unknown) before the first dose of study drug. In general, the use of these agents is not permitted during the study except for AE management.
+Prior treatment with VEGFR tyrosine kinase inhibitors
+Subjects receiving medications that might affect immune function; additionally, H2 blockers are excluded, as are all antihistamines five days before and five days after each injection of study drug; NOTE: the following are exceptions: proton pump Inhibitors (PPIs), nonsteroidal anti-inflammatory drugs (NSAIDS) including cyclooxygenase (COX)-2 inhibitors, acetaminophen or enteric coated aspirin
+Patients who have received targeted therapy (e.g., sunitinib, sorafenib, pazopanib), except ALK inhibitors, =< 2 weeks prior to starting study drug
+Patients can have had prior treatment for RCC including prior surgery, radiation therapy, immunotherapy with interleukin (IL)-2 or interferon (but not anti-programmed cell death [PD]1 or anti-cytotoxic T-lymphocyte-associated protein 4 [CTLA-4]), target therapy with receptor tyrosine kinase (RTK) inhibitors/mammalian target of rapamycin (mTOR) inhibitors, such as sunitinib, sorafenib, pazopanib, axitinib, everolimus, and temsirolimus (but not bevacizumab) or chemotherapy
+Patients receiving the following drugs that are contraindicated with NFV will be excluded:\r\n* Antiarrhythmics: amiodarone, quinidine\r\n* Antimycobacterial: rifampin\r\n* Ergot derivatives: dihydroergotamine, ergonovine, ergotamine, methylergonovine\r\n* Herbal products: St. John’s wort (hypericum perforatum)\r\n* 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase potential 10 inhibitors: lovastatin, simvastatin\r\n* Neuroleptic: pimozide\r\n* Proton pump inhibitors\r\n* Sedative/hypnotics: midazolam, triazolam
+Patients receiving the following drugs will be clinically evaluated as to whether dosage/medication can be changed to permit patient on study:\r\n* Anti-convulsants: carbamazepine, phenobarbital, phenytoin\r\n* Anti-mycobacterial: rifabutin\r\n* Phosphodiesterase type 5 (PDE5) inhibitors: sildenafil, vardenafil, tadalafil\r\n* HMG-CoA reductase inhibitors: atorvastatin, rosuvastatin\r\n* Immunosuppressants: cyclosporine, tacrolimus, sirolimus\r\n* Narcotic analgesic: methadone\r\n* Oral contraceptive: ethinyl estradiol\r\n* Macrolide antibiotic: azithromycin\r\n* Inhaled/nasal steroid: fluticasone\r\n* Antidepressant: trazodone
+Treatment with p-glycoprotein inhibitors such as cyclosporine A, elacridar, ketoconazole, ritonavir, saquinavir.
+Patients who have previously been treated with systemic sonidegib or with other Hedgehog (Hh) pathway inhibitors
+Patients who have previously been treated with systemic LDE225 or with other hedgehog pathway inhibitors
+Prior treatment with the following agents known to have endocrine effects on prostate cancer: GnRH agonist, GnRH antagonist, anti-androgen (bicalutamide, nilutamide, flutamide), ketoconazole, diethylstilbestrol, estrogen, abiraterone acetate; concurrent use of 5-alpha-reductase inhibitors finasteride or dutasteride is permitted for patients who have been already receiving either of these treatments for at least 1 month at the time of study enrollment; baseline PSA must have been obtained in such patients after at least 1 month on 5-alpha-reductase treatment; initiation of treatment with 5-alpha-reductase inhibitors is not permitted within the first 12 months of study participation
+Patients who are receiving or may receive future treatment with PI3K or TNFalpha inhibitors
+Willing to withdraw from selective serotonin reuptake inhibitors and tricyclic antidepressants prior to treatment initiation
+Patients taking concomitant histone deacetylase (HDAC) inhibitors; use of HDAC inhibitor like compounds such as valproic acid for epilepsy is permitted if there is at least a 2 week wash out
+Patients who are receiving monoamine oxidase (MAO) inhibitors
+Concomitant use of bisphosphonates or RANK-ligand inhibitors is allowed
+Previous treatment with PI3K inhibitors, AKT inhibitors, mTOR inhibitor or fulvestrant
+PHASE II: Patients must not have received prior therapy with sorafenib, everolimus, or related drugs such as tyrosine kinase inhibitors, vascular endothelial growth factor (VEGF) inhibitors (except bevacizumab), or mechanistic target of rapamycin (mTOR) inhibitors
+Prior treatment with any drug that targets T cell co-stimulations pathways (such as checkpoint inhibitors)
+All CYP2C8 inhibitors, inducers, and substrates should be discontinued >= 7 days prior to registration; systemic treatment with CYP2C8 inhibitors (anastrozole, montelukast, quercetin, trimethoprim, gemfibrozil, rosiglitazone, pioglitazone), inducers (carbamazepine, phenytoin, rifabutin, rifampin), or substrates (amiodarone, repaglinide, rosiglitazone, sorafenib, torsemide) should be discontinued >= 7 days prior to registration
+Prior exposure to mitogen-activated protein kinase kinase (MEK), RAS, or RAF inhibitors (note: previous exposure to sorafenib is allowed) OR history of hypersensitivity to selumetinib, thyrotropin alpha (Thyrogen), or any excipient agents
+Treatment with proton pump inhibitors (PPIs) within 7 days prior to enrollment.
+Use of 5-alpha reductase inhibitors (finasteride, dutasteride) specifically prescribed for the treatment of prostate cancer
+Chronic myelogenous leukemia (CML) patients who have failed or are intolerant of tyrosine kinase inhibitors or patients with other myeloproliferative diseases who are high risk and the intent of therapy is cure
+Has had prior B-RAF or mitogen-activated protein kinase kinase (MEK) targeted therapy within 7 days prior to the start of lymphodepletion regimen (Cohort A and Cohort B)
+History of significant toxicities associated with previous administration of immune checkpoint inhibitors that necessitated permanent discontinuation of that therapy
+Patient with known hypersensitivity to receptor tyrosine kinase inhibitors or any of the components of poziotinib tablets or T-DM1 IV solution.
+Ongoing or previous treatment with anti-FGFR directed therapies (e.g. receptor tyrosine kinase inhibitors including rogaratinib or FGFRspecific antibodies) or with taxanes or vinflunine
+Patients are not required to have all approved therapies in a drug class (e.g., patients with kidney cancer do not need all tyrosine kinase inhibitors, patients with melanoma do not need all approved checkpoint blockade inhibitors)
+Received any kinase inhibitors within 2 weeks prior to study treatment.
+Prior treatment with phosphatidylinositol 3-kinase (PI3K) delta inhibitors, Bruton's tyrosine kinase (BTK) inhibitors, janus kinase inhibitor (JAK) inhibitors, mammalian target of rapamycin (mTOR) inhibitors, or spleen tyrosine kinase (Syk) inhibitors
+Patients receiving systemic chemotherapy (includes tyrosine kinase inhibitors)
+Concomitant use of warfarin and HMG-CoA reductase inhibitors (statins)
+Did not receive chemotherapy (including systemic steroids), immunotherapy (interferon), Imids (thalidomide/lenalidomide), proteasome inhibitors (bortezomib), or radiotherapy for at least 21 days prior to Day 1 of Cycle 1
+Patient previously treated by tyrosine kinase inhibitors except imatinib in case of inclusion criteria 2
+Concomitant use of potent inhibitors of CYP 3A4 including ketoconazole, itraconazole and ritonavir. Consumption of grapefruit juice should also be avoided.
+Patients who are on current long term treatment (? 4 consecutive weeks) with Aspirin, NSAID or Cox-2 inhibitors
+Use of Avastin in the preceding two weeks or planned use in the forthcoming two weeks and VEGF inhibitors within + 30 days of treatment
+Prior treatment with mTOR inhibitors or CDK 4/6 inhibitors in combination with endocrine therapy for treatment of metastatic disease
+Off calcineurin inhibitors for at least 2 weeks
+Extensive chronic GvHD requiring ongoing immunosuppression with calcineurin inhibitors
+Bcl2 inhibitors
+Have received cancer therapies including chemotherapy, radiation, biologic, or kinase inhibitors, G-CSF, or GM-CSF within 3 weeks prior ot the first scheduled dose of CMB305
+Concomitant use of P gp inhibitors or inducers or BCRP inhibitors
+Patient has received any chemotherapy, surgery, radiotherapy (for therapeutic purposes), tyrosine kinase inhibitors, investigational drugs, chronic use of systemic corticosteroids or statin therapy within 2 weeks prior to the leukapheresis
+Approved BRAF and MEK inhibitors ? 3 weeks
+Prior systemic anti-cancer treatment (e.g. chemotherapy, tyrosine kinase inhibitors, immunotherapy, or investigational agents)(except for hydroxyurea and/or leukapheresis)
+Must have progressed on at least one prior line of platinum-based therapy for stage IV NSCLC (excluding docetaxel or mitogen activated protein kinase kinase [MEK] inhibitors)
+Part 2: on monoamine oxidase inhibitors, tricyclic antidepressants, or clonidine
+Prior immunotherapy with checkpoint inhibitors
+Patient requiring chronic treatment with BCRP inhibitors (cyclosporine, eltrombopag)
+Patients requiring therapeutic anticoagulation and irreversible platelet inhibitors (e.g. clopidogrel, prasugrel, or ticagrelor). Low dose aspirin for cardiac prophylaxis is allowed.
+Has received monoamine oxidase inhibitors within 21 days prior to starting study
+Patient has any prior use of PI3K inhibitors.
+Current use of tamoxifen, aromatase inhibitors, or SERMs for a breast cancer indication for at last six months
+Prior immunotherapy with immune checkpoint inhibitors
+Melanoma patients must be intolerant of, or have disease that has proven refractory to approved therapies such as B-Raf proto-oncogene, serine/threonine kinase (BRAF) or mitogen-activated protein kinase kinase 1 (MEK1) inhibitors for BRAF-positive metastatic melanoma and/or checkpoint blockade with either anti-programmed cell death 1 (PD1) or anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) for metastatic melanoma
+Prior treatment for MDS with the histone deacetylase (HDAC) inhibitors Zolinza (vorinostat), Belenodaq (belinostat), Farydak (panobinostat), Istodax (romidepsin/depsipetide), or investigational agent with significant action as an HDAC inhibitor.
+Patient has received prior treatment with any PI3K inhibitors
+Previous treatment with talimogene laherparepvec or other herpes virus based therapy; (prior therapy with checkpoint inhibitors and/or other immunotherapy is allowed)
+Prior exposure to Bcl-2 inhibitors, murine double minute 2 (MDM2) antagonists or prior exposure to experimental treatment targeting Raf, mitogen-activated protein kinase (MEK), or the mitogen-activated protein kinase (MAPK) RAS/RAF/MEK/ERK MAPK pathway
+Phase 2 Only: Prior progression while receiving approved or investigational tyrosine kinase inhibitors targeting TRK, including entrectinib, crizotinib and lestaurtanib. Patients who received a TRK inhibitor for less than 28 days of treatment and discontinued because of intolerance remain eligible.
+Patients are not eligible who have received prior PARP inhibitors (including but not limited to veliparib, talazoparib, rucaparib, and olaparib)
+Patients with Philadelphia chromosome (Ph)+ ALL must have had two prior therapy attempts including two different tyrosine kinase inhibitors (TKIs)
+TREATMENT: Patients who have received prior everolimus or other mechanistic target of rapamycin (mTOR) inhibitors or those with known intolerance or hypersensitivity to other rapamycin analogs (e.g., sirolimus, temsirolimus) would not be eligible to receive everolimus on study; if these patients have mutations of interest in pathways other than the phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha (pI3K) pathway, they will be eligible to receive agents based on that mutation
+TREATMENT: Patients who have received prior mitogen-activated protein kinase kinase (MEK) inhibitors would not be eligible to receive trametinib DMSO on study; if these patients have mutations of interest in pathways other than the rat sarcoma (RAS) pathway, they will be eligible to receive agents based on that mutation
+DOSE ESCALATION COHORT: Subjects receiving monoamine oxidase Inhibitors (MAOIs) or drug which has significant MAOI activity (meperidine, linezolid, methylene blue) within the 21 days before screening
+DOSE EXPANSION COHORT: Subjects receiving monoamine oxidase Inhibitors (MAOIs) or drug which has significant MAOI activity (meperidine, linezolid, methylene blue) within the 21 days before screening
+Patients who have received prior treatment with tyrosine kinase inhibitors (e.g. erlotinib), or anti-EGFR agents (e.g. cetuximab, panitumumab)
+Patients who have received hydroxyurea alone or have previously received “non-cytotoxic” therapies for myelodysplastic syndromes (MDS) or myeloproliferative neoplasms (MPN) (e.g., thalidomide or lenalidomide, 5-azacytidine or decitabine, histone deacetylase inhibitors, low-dose Cytoxan, tyrosine kinase or dual tyrosine kinase [TK]/SRC inhibitors) will be allowed
+Prior exposure to ibrutinib or other ITK inhibitors
+Prior exposure to pomalidomide or HDAC inhibitors is allowed
+Prior use of PARP-inhibitors
+Concomitant use of acid reducing agents (e.g., proton pump inhibitors, histamine 2 (H2) receptor antagonists, antacids)
+Use of monoamine oxidase inhibitors (MAOI)s and selective serotonin reuptake inhibitor (SSRIs) within the last 4 weeks or history of serotonin syndrome
+Concomitant systemic treatment with corticosteroids, anti-histamine or non-steroidal anti-inflammatory drugs except in association with preparative regimen and NK cell infusion; any cyclooxygenase (COX)-2 inhibitors are permitted
+Prior treatment with tyrosine-kinase inhibitors targeting VEGF, platelet-derived growth factor, fibroblast growth factor, tyrosine kinase with immunoglobulin-like and epidermal growth factor-like domains 2 (TIE-2), or angiopoietin (or their receptors)
+Prior treatment with histone deacetylase inhibitors or mammalian target of rapamycin (mTOR) inhibitors
+Patients receiving the following drugs that are contraindicated with NFV will be excluded: antiarrhythmics amiodarone, quinidine), antimycobacterial (rifampin), ergot derivatives (dihydroergotamine, ergonovine, ergotamine, methylergonovine), herbal products (St. John’s wort), 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase inhibitors (lovastatin, simvastatin), neuroleptic (pimozide), proton pump inhibitors, sedatives/hypnotics (midazolam, triazolam)
+No line limit on prior therapies as long as the patient meets all other eligibility criteria; patients who have received prior PARP inhibitors and/or PI3kinase inhibitors are allowed to participate on the dose escalation portion; prior PARP inhibitors and/or PI3Kinase inhibitors excludes patients from the dose expansion cohort, but TNBC patients with BRCA mutations can go on if they had previously received a PARP inhibitor
+Any current 5-alpha reductase inhibitors (history of use >= 3 months prior to MRI is acceptable)
+Deoxyribonucleic acid (DNA) methyltransferase inhibitors (azacitidine or decitabine) must have been stopped at least 3 weeks prior to day 1 of treatment on the study
+Patients may have received bevacizumab, vascular endothelial growth factor (VEGF)-Trap, or other VEGF blocking tyrosine kinase inhibitors, but may not have received axitinib
+Prior sensitivity or intolerance to PI3K inhibitors
+For all stage 2 participants, no prior treatment with mTOR, PI3 kinase or Akt inhibitors; prior treatment with mTOR, PI3 kinase or Akt inhibitors allowed in stage 1 only
+For stage 2 GBM participants, no prior treatment with bevacizumab/vascular endothelial growth factor receptor (VEGFR) inhibitors; prior treatment with bevacizumab/VEGFR inhibitors is allowed in stage 1 for all participants, as well as stage 2 endometrial and ovarian cancer participants
+The concomitant use of histamine (H)2 blockers and proton pump inhibitors (PPIs) with dasatinib is not recommended; the use of antacids should be considered in place of H2 blockers or proton pump inhibitors in patients receiving dasatinib therapy; if antacid therapy is needed, the antacid dose should be administered two hours before or after the dose of dasatinib; patients who cannot tolerate discontinuation of H2 blockers or PPIs are ineligible
+Prior anti-cancer treatment with MLN9708 (ixazomib), histone deacetylase (HDAC), deacetylase (DAC), heat shock protein (HSP)90 inhibitors or valproic acid
+Concomitant systemic treatment with corticosteroids, anti-histamine or non-steroidal anti-inflammatory drugs; any cyclooxygenase-2 (COX-2) inhibitors are permitted
+Therapy with monoamine oxidase inhibitors (MAOIs) and selective serotonin reuptake inhibitor (SSRIs) within the last 4 weeks or history of serotonin syndrome
+Study participants with a history of prior treatment with BRAF or MEK inhibitors
+Patients MAY HAVE received non-cytotoxic (biologic or targeted) agent(s) as part of initial treatment and/or for management of recurrent or persistent disease, with the below stated exceptions (see NOTE below); prior hormonal therapy is allowed, but must be discontinued at least one week prior to registration\r\n* NOTE: Prior therapy with PI3K inhibitors, AKT inhibitors and/or mammalian target of rapamycin (mTor) inhibitors (e.g., everolimus, temsirolimus) is NOT allowed; prior therapy with MEK inhibitors (e.g., AZD6244 or selumetinib) is NOT allowed
+Patients receiving the following classes of inhibitors of cytochrome P450 3A4 (CYP3A4):\r\n* Azole antifungals\r\n* Macrolide antibiotics\r\n* Protease inhibitors
+Prior therapy with a tyrosine kinase inhibitors (TKI) other than nilotinib is allowable, however, nilotinib must be the current therapy; all patients must be under the care of a Moffitt Cancer Center physician, and enrollment is expected to be complete within six months
+Prior use of pazopanib (prior use of other kinase inhibitors allowed)
+Prior treatment with veliparib (ABT-888) or other PARP inhibitors (e.g., olaparib)
+Phase II portion: Patients must have not received any prior intensive induction therapy for AML\r\n* Intensive induction includes standard induction chemotherapy such as 7 & 3, high dose cytarabine, mitoxantrone-etoposide, low-dose subcutaneous cytarabine\r\n* Allowed \non-intensive\ prior treatments for pre-existing hematologic conditions (i.e., MDS, chronic myelomonocytic leukemia [CMML]) will include: hydroxyurea, thalidomide, hematopoietic growth factors, Zarnestra, Lenalidomide, arsenic, Imatinib, and corticosteroids, suberoylanilide hydroxamic acid [SAHA] inhibitors; hydroxyurea is allowed up to 24 hours before initiating treatment and to control blood counts during the first cycle of chemotherapy after azacitidine has completed; a minimum of 4 weeks must have elapsed since the administration of thalidomide, Zarnestra, Revlimid, arsenic, SAHA inhibitors, or any investigational medication; a minimum of five days must have elapsed since the administration of growth factors
+No prior treatment with systemic anti-EGFR inhibitors or pemetrexed is permitted
+Patients cannot have any other form of chemotherapy for their MPN (other than hydroxyurea); specifically prior interferon or JAK2 inhibitors are prohibited
+Prior exposure to any CSF1R pathway inhibitors
+Subject has received prior treatment with ASP2215 or other FLT3 inhibitors (with the exception of sorafenib and midostaurin used in first-line therapy regimen as part of induction, consolidation, and/or maintenance).
+Use of mammalian target of rapamycin (mTOR) inhibitors prior to transplant and as post-transplant immunosuppression
+Prior use of raf-kinase inhibitors (sorafenib), vascular endothelial growth factor (VEGF) inhibitors, mitogen-activated protein kinase (MAPK)/extracellular-signal-related kinase (ERK) kinase (MEK) inhibitors, or farnesyl transferase inhibitors
+Prior use of raf-kinase inhibitors, VEGF inhibitors, MEK inhibitors or farnesyl transferase inhibitors, with the exception of sorafenib
+For advanced disease, interleukin-2 at any dose and/or IFN-? (any formulation, no washout required); MEK and BRAF inhibitors: washout for at least 4 weeks prior to the start of dosing in this study
+Prior treatment with a FLT3 targeted therapy including sorafenib or investigational FLT3 inhibitors (not including the multi-kinase inhibitor, midostaurin).
+Participants with prior exposure to poly-ADP-ribose polymerase (PARP) inhibitors.
+Patients must not be taking, nor plan to take while on protocol treatment strong P-glycoprotein (P-gp) inhibitors, P-gp inducers, or breast cancer resistance protein (BCRP) inhibitors
+Subjects on 5-alpha reductase inhibitors such as finasteride (PROSCAR®, PROPECIA®), or dutasteride (AVODART®) within 28 days of study drug initiation.
+BRAF/MEK inhibitors within 2 weeks prior to the first dose of study treatment.
+Prior exposure to EGFR tyrosine kinase inhibitors
+Prior treatment with tamoxifen, raloxifen or aromatase inhibitors for reduction in risk (chemoprevention) of breast cancer and/or treatment for osteoporosis within last 2 years
+For Cohort B: Is currently receiving any of the following classes of inhibitors of CYP3A4: azole antifungals; macrolide antibiotics; or protease inhibitors
+For Cohort C: Has received treatment with 5-? reductase inhibitors (e.g., finasteride, dutasteride), estrogens, and/or cytproterone within 4 weeks of the screening visit
+Monoamine oxidase inhibitors.
+Previous treatments with hormonal therapy (tamoxifen, aromatase inhibitors) and signal transduction agents (e.g., erlotinib, gefitinib, everolimus, bevacizumab) are allowed and are not counted towards the prior line of therapy.
+Prior therapy with PARP inhibitors.
+No more than 3 prior chemotherapy-inclusive regimens for locally advanced and/or metastatic disease (no limit on prior hormonal therapies or targeted anticancer therapies such as mechanistic target of rapamycin (mTOR) or CDK4/6 inhibitors, immune-oncology agents, tyrosine kinase inhibitors, or monoclonal antibodies against CTL4 or VEGF)
+Patients are allowed to receive, but are not required to receive, non-cytotoxic (biologic/targeted agents, such as bevacizumab) therapy as part of their primary treatment regimen; patients are allowed to receive, but are not required to receive, poly adenosine diphosphate (ADP) ribose polymerase (PARP) inhibitors for management of primary or recurrent/persistent disease (either alone or in combination with cytotoxic chemotherapy); PARP inhibitors will NOT count as a prior regimen when given alone
+Other cancer therapies, including chemotherapy, radiation, biologics or kinase inhibitors within 3 weeks prior to the first scheduled dosing.
+Tyrosine kinase inhibitors and hydroxyurea must be stopped > 72 hours prior to CTL019 infusion
+Cancer therapies, including chemotherapy, radiation, biologics or kinase inhibitors, G-CSF or GM-CSF within 3 weeks prior to the first scheduled CMB305 dosing
+Prior or current use of systemic anti-vascular endothelial growth factor (VEGF) inhibitors, cytokines or mammalian target of rapamycin (mTOR) inhibitors (e.g. interferon, interleukin 2)
+Treatment with 5-? reductase inhibitors (finasteride, dutasteride) within 4 weeks of randomization;
+Treatment with kinase inhibitors </= 2 weeks before study treatment
+Patients must have discontinued all biologic therapy at least 14 days prior to registration; prior poly-adenosine diphosphate (ADP) ribose polymerase (PARP) inhibitors are allowed in the metastatic setting; prior PARP inhibitors in the neo/adjuvant setting are permissible; all toxicities related to prior biologic therapy must have resolved to CTCAE v4.0 grade 1 or lower
+Participants on bisphosphonates or receptor activator of nuclear factor kappa B (RANK) ligand inhibitors may continue receiving therapy during study treatment
+Prior treatment with mTOR inhibitors (everolimus or temsirolimus) or CB-839
+Prior systemic regimens must include previously approved therapies, including a platinum-containing chemotherapy regimen; a tyrosine kinase inhibitor for tumors with driver mutations; and checkpoint inhibitors where approved.
+Prior exposure to EGFR inhibitors.
+Abnormal coagulation and current anticoagulant therapy. Patients whose anticoagulation therapy can be temporarily reversed within 7 days prior to treatment are eligible. Platelet inhibitors (ie: ASA) and heparin are not exclusion criteria.
+Prior exposure to bromodomain (BET) inhibitors
+Have previously completed or withdrawn from this study or any other study investigating LY3039478 or other Notch inhibitors.
+GVHD therapies: Any drug used for GVHD must be stopped > 4 weeks prior to CTL019 infusion (e.g. calcineurin inhibitors, methotrexate or other chemotherapy drugs, mycophenolyate, rapamycin, thalidomide, or immunosuppressive antibodies such as anti-CD20 (rituximab), anti-TNF, anti-IL6 or anti-IL6R)
+Cancer therapies, including chemotherapy, radiation, biologics or kinase inhibitors, G-CSF or GM-CSF within 3 weeks prior to the first scheduled LV305 dosing. For patients enrolled in Part 2, Site-specific Amendment, erythropoietin, G-CSF, and GM-CSF will be allowed and anti-PD-1 therapy may be given within 3 weeks if it follows their prior treatment schedule.
+Prior treatment with PARP inhibitors (Patients in Cohort A1)
+Receiving TNF pathway inhibitors, PI3 kinase inhibitors, systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of study drug
+AML secondary to exposure to potentially leukemogenic therapies or agents (eg, radiation therapy, alkylating agents, topoisomerase II inhibitors) with the primary malignancy in remission for at least 2 years.
+Prior use of targeted therapy agents (eg, FLT3 inhibitors, other kinase inhibitors).
+Subject received treatment with 5-? reductase inhibitors (finasteride, dutasteride) within 4 weeks prior to day 1.
+Cancer therapies, including chemotherapy, radiation (non-study regimen related), biologics or kinase inhibitors, G-CSF or GM-CSF within 4 weeks prior to the first scheduled G100 dose
+Prior treatment with: second generation androgen receptor (AR) inhibitors, other investigational AR inhibitors, or CYP17 enzyme inhibitor.
+Use of estrogens or 5-? reductase inhibitors or AR inhibitors.
+Inclusion Criteria: Subjects must have histologically or cytologically confirmed metastatic\n        cutaneous or mucosal melanoma, Able to swallow and retain orally administered medication,\n        Adequate hematological, renal, hepatic, and coagulation laboratory assessments Exclusion\n        Criteria: Clinically significant bleeding within 4 weeks of screening, Current use of\n        warfarin, factor Xa inhibitors, and direct thrombin inhibitors, Infection requiring\n        anti-infective treatments within 1 week of study enrollment, Anti-tumor therapy, Major\n        surgery within 28 days
+Patients on anti-platelet agents including clopidogrel and glycoprotein IIb/IIIa inhibitors; aspirin is allowed, but should be held before surgery according to standard practices
+Prior anti-angiogenic therapy including VEGF sequestering agents (i.e. bevacizumab, aflibercept, etc.) or VEGFR inhibitors (cedirinib, pazopanib, sunitinib, sorafenib, etc.);
+Prior treatment with other next generation anti-androgens or other CYP17 inhibitors, immunotherapy or radiopharmaceutical agents for prostate cancer
+No prior treatment with MRZ or any other proteasome inhibitors or any other anti-angiogenic agents.
+Treatment with proton pump inhibitors within 3 days prior to study entry
+Previous treatment with exemestane or mTOR inhibitors* (Note: Patients with disease refractory to prior LEE011 are excluded for dose expansion Group 3 only).
+Group 1 - Patients must not have received prior treatment with any CDK4/6 inhibitors
+The addition of cytotoxic agents for “cytoreduction” with the exception of tyrosine kinase inhibitors (such as imatinib mesylate), cytokine therapy, hydroxyurea, low dose cytarabine, chlorambucil, or Rituxan will not be allowed within three weeks of the initiation of conditioning
+Receiving TNF pathway inhibitors, PI3 kinase inhibitors, systemic steroid therapy or any other form of immunosuppressive therapy within 7 days prior to the first dose of study drug
+Prior treatment with any drug that targets T cell co-stimulation pathways(such as checkpoint inhibitors)
+Prior exposure to any bromodomain (BET) inhibitors
+Prior therapy with monoclonal antibodies or small molecule inhibitors against Vascular endothelial growth factor (VEGF) or VEGF receptors, including Avastin® or Avastin® biosimilar
+Achlorhydria or use of antacids, proton-pump inhibitors, or other drugs known to raise gastric pH within 2 weeks before study drug administration.
+Prior treatment with PI3K? or Bcl-2 inhibitors.
+Proton pump inhibitors
+Prior cancer immunotherapy, specifically indoleamine 2,3-dioxygenase (IDO) or tryptophan 2,3-dioxygenase (TDO) inhibitors, T-cell costimulatory receptor agonist antibodies, or checkpoint inhibitors among certain participants
+Prior therapy with hydroxyurea, chemotherapy, biological or targeted therapy (e.g. FLT3 inhibitors, other kinase inhibitors), or hematopoietic growth factors is allowed
+Patient has received previous treatment with histone deacetylase (HDAC) inhibitors
+Patients at least 3 weeks from last cytotoxic chemotherapy; patients may continue tyrosine kinase inhibitors and/or lenalidomide until the day of study consent
+Concomitant use of antithrombotic agents with the exception of platelet inhibitors.
+Prior treatment with poly ADP ribose polymerase (PARP) inhibitors (eg., olaparib, ABT-888)
+Previous therapy with Akt, PI3K, and/or mTOR inhibitors
+Participants receiving daily treatment with aspirin >325mg/day or other known inhibitors of platelet function.
+Current or anticipated need for treatment with proton pump inhibitors (PPI); patients on proton pump inhibitors who can be switched to histamine receptor H2 (H2)-blockers before the start of the study are still eligible
+Prior therapy with ibrutinib or other kinase inhibitors that target Bruton’s tyrosine kinase (BTK); patients who previously received therapy with the phosphoinositide-3 kinase (PI3K) delta inhibitor idelalisib (Zydelig) are allowed to be enrolled
+Phase 1b: Prior talimogene laherparepvec, ipilimumab, other CTLA-4 inhibitors, PD-1 inhibitors, or tumor vaccine
+Prior treatment with other small molecule inhibitors of vascular endothelial growth factor receptor (VEGFR) within =< 2 years of study enrollment
+Patient under medications that can affect PSA for the last 3 months prior to MRgFUS treatment (Androgen Deprivation Treatment; alpha reductase inhibitors)
+Patients who are currently receiving angiotensin-converting enzymes (ACE) inhibitors are not eligible
+Prior mTOR inhibitors for the treatment of cancer.
+Any prior systemic chemotherapy, small molecule inhibitors, immune checkpoint inhibitors, other monoclonal antibodies, antibody-drug conjugates, radioimmunoconjugates, T-cell or other cell-based or biologic therapies, or any other anti-cancer therapy than that described in inclusion criteria
+The patient must have received no more than 2 prior regimens with VEGF inhibitors and 1 prior regimen with checkpoint inhibitors for metastatic disease.
+The patient requires treatment with a pH elevating agent, including H2 blockers, proton pump inhibitors, and antacids. If the medication is considered to be medically necessary, the patient should be discussed with the Medical Monitor.
+Patient who received DAC inhibitors
+Patients are allowed to receive, but are not required to receive, up to two additional cytotoxic regimens for management of recurrent or persistent disease, with no more than 1 prior non-platinum cytotoxic chemotherapeutic regimen\r\n* Patients are allowed to receive, but are not required to receive, biologic/targeted (non-cytotoxic) therapy as part of their prior treatment; for the purposes of this study, poly (ADP-ribose) polymerase (PARP) inhibitors will be considered “cytotoxic\; patients are allowed to receive, but are not required to receive, PARP inhibitors for management of primary or recurrent/persistent disease (either alone or in combination with cytotoxic chemotherapy); single agent hormonal therapies will not be counted as a line of treatment
+Chemo-, hormone-, radio-(except for brain and extremities) or immunotherapy or therapy with monoclonal antibodies or small tyrosine kinase inhibitors within the past 4 weeks prior to treatment with the trial drug.
+Pre-treatment with other mTOR inhibitors may be allowed and should be discussed with the medical monitor
+Previous meningioma progression during treatment with other mTOR complex 1 (C1)/2 inhibitors (but not mTORC1 inhibitors such as everolimus or other rapalogues)
+AML participants who are Philadelphia chromosome positive must have received ? 2 lines of therapy, including 2 bcr-abl tyrosine-kinase (TK) inhibitors (among imatinib, nilotinib and dasatinib), or only 1 line including 1 TK inhibitor if the relapse/refractoriness is associated with the detection of a resistance mutation to these inhibitors
+5-? reductase inhibitors
+Prior therapy with axitinib as well as any prior therapies with other VEGF pathway inhibitors.
+Twenty-one or more days must have elapsed since the patient's last radiation or chemotherapy administration before beginning treatment for stem cell transplant; Hydrea, Gleevec and other tyrosine kinase inhibitors (TKI) as well as intrathecal therapy are accepted exceptions
+ELIGIBILITY FOR TREATMENT ON ARM 1: Patients treated with prior immunotherapy including and not limited to vaccines, cytokines, T cell stimulating agents, cytotoxic T lymphocyte antigen 4 (CTLA4) inhibitors and programmed death (PD)-1 check point inhibitors are allowed on therapy provided they did not have any severe grade 4 toxicities due to prior therapy and any toxicities due to prior therapy should have resolved, if resolvable to less than or equal to grade 1
+Treatment with hormonal therapy (eg, androgen receptor inhibitors, 5-alpha reductase inhibitors) or biologic therapy for prostate cancer (other than LHRH analogue therapy) within 4 weeks before enrollment;
+Previous use of pexidartinib or any biologic treatment targeting CSF-1 or the CSF-1R; previous use of oral tyrosine kinase inhibitors, eg, imatinib or nilotinib, are allowed.
+Known allergic reaction or poor tolerability to poly adenosine diphosphate (ADP) ribose polymerase (PARP) inhibitors, carboplatin, or paclitaxel
+Patients may not have received prior poly ADP ribose polymerase (PARP) inhibitors
+Hormonal therapies used as single agents (i.e. tamoxifen, aromatase inhibitors) will not count towards line limit considerations
+Participants may not have had prior use of poly ADP ribose polymerase (PARP) inhibitors; patients may not have received prior treatment affecting the vascular endothelial growth factor (VEGF) pathway in the recurrent setting, including but not limited to thalidomide, bevacizumab, sunitinib, or sorafenib
+Concurrent use of calcineurin-inhibitors plus sirolimus; either agent alone is acceptable
+Patients who have received EGFR tyrosine kinase inhibitors within 72 hours of initiation of study treatment, or treatment with other anti-cancer agents within 21 days of study treatment
+Has plans to receive cytotoxic chemotherapy, immune checkpoint inhibitors (eg CTLA-4 blockade), sipuleucel-T, radiopharmaceuticals, abiraterone or other experimental therapy during this study period
+Patients on immunosuppressive agents (e.g., TNF pathway inhibitors, phosphoinositide 3 [PI3] kinase inhibitors) within 7 days of study treatment
+Patients must not have prior exposure to mammalian target of rapamycin (mTOR) inhibitors (e.g. rapamycin, everolimus, sirolimus, temsirolimus, deforolimus)
+CTCL disease that is known to be refractory to systemic histone deacetylase inhibitors
+Patients who have experienced intolerable adverse events per treating investigator due to other PARP inhibitors, mTOR inhibitors, PI3 kinase inhibitors, or AKT inhibitors
+Prior treatment with c-Met inhibitors
+Prior exposure to ibrutinib or other BTK inhibitors.
+Prior treatment: no previous cytotoxic chemotherapy within 4 weeks prior to initiation of therapy; (this does not include immunomodulatory drugs [IMIDs], proteasome inhibitors, monoclonal antibodies or steroids)
+Any prior medical treatment for CML, including tyrosine kinase inhibitors (TKIs), with the exception of hydroxyurea and/or anagrelide treatment, which are permitted for up to 6 months prior to study entry (signature of ICF) if suitably approved for use in the subject's region.
+Patients must not have been treated with any vascular endothelial growth factor (VEGF) inhibitors
+At least 4 weeks must have elapsed from the use of androgen receptor antagonists (e.g., bicalutamide, flutamide, nilutamide); 5-alpha reductase inhibitors (e.g., dutasteride, finasteride, aminoglutethimide); estrogens; ketoconazole and other anti-cancer pharmacologic therapy prior to enrollment
+Prior treatment with apalutamide or phosphatidylinositol-3 kinase (PI3K)/mTOR pathway inhibitors
+At least 4 weeks must have elapsed from the use of any investigational agent prior to beginning protocol therapy\r\n* Note: prior treatment with phosphatidylinositol 3 kinase (PI3K)/mammalian target of rapamycin (mTOR) pathway inhibitors prohibited
+Prior treatment with PI3K/mTOR pathway inhibitors
+Patients may have been treated with cytotoxic, biologic (antibody), immune or experimental therapy, tyrosine kinase inhibitors, hormone inhibitors or nonsteroidal anti-inflammatory drugs (NSAIDs) provided this has been completed at least 4 weeks prior to registration (6 weeks for mitomycin and nitrosoureas) and recovered from any therapy related toxicity to less than CTCAE grade 2
+Prior failed treatment with mTOR inhibitors
+Treatment with concurrent 5-alpha reductase inhibitors (finasteride, dutasteride), estrogens, and/or cyproterone
+Patients with prior sensitivity or intolerance to PI3K inhibitors are not eligible for participation
+Patients who have received hydroxyurea alone or have received non-cytotoxic therapies previously for treatment of MDS or myeloproliferative neoplasm (MPN) (e.g. azacitidine, decitabine, histone deacetylase inhibitors, tyrosine kinase inhibitors, hematopoietic growth factors, interferon, lenalidomide, thalidomide) will be eligible for this trial as long as immunomodulatory drugs (e.g. lenalidomide, thalidomide) have not been used in the past 3 months
+Patients must be off all non-cytotoxic chemotherapies or biologic agents (e.g. azacitidine, decitabine, histone deacetylase inhibitors, tyrosine kinase inhibitors, hematopoietic growth factors, interferon, but excluding hydroxyurea and cyclophosphamide) for at least 2 weeks prior to starting induction chemotherapy
+?2 prior Tyrosine Kinase Inhibitors (TKI) therapies for CML
+Patients taking monoamine oxidase (MAO)-inhibitors or antipsychotic medications
+Patients must have NOT received any class of drugs targeted to the PI3K pathway (such has PI3K inhibitors or mechanistic target of rapamycin [mTOR] inhibitors) or RAS-ERK pathway for management of recurrent or persistent disease
+Concurrent use of other antiandrogens, estrogen-like agents, or 5a-reductase inhibitors
+Previous allergic reactions to janus kinase (JAK) inhibitors or excipients
+Prior therapy with ruxolitinib or other JAK inhibitors
+Patient has taken monoamine oxidase inhibitors (MAOI) in the past two weeks
+GVHD therapies such as calcineurin inhibitors, methotrexate or other chemotherapeutics, mycophenolate mofetil, rapamycin, or immunosuppressive antibodies (such as anti-tumor necrosis factor-? [TNF?], anti-interleukin-6 [IL-6], or anti-interleukin-6 receptor [IL 6R]) within 4 weeks prior to leukapheresis
+At least 4 weeks must have elapsed from the use of 5-alpha reductase inhibitors, estrogens, and any other anti-cancer therapy prior to randomization
+Prior treatment with CYP17 inhibitors
+PART B: No previous or current exposure to other FGFR inhibitors in the FGFR-pathway selected cohorts, or RET inhibitors in the RET selected cohorts
+Patients must not have received prior therapy with topotecan, pazopanib, or related drugs such as tyrosine kinase inhibitors, vascular endothelial growth factor (VEGF) inhibitors (except bevacizumab); prior treatment with tyrosine kinase inhibitors (TKIs) that do not impact VEGF receptor (R) -1, -2, or -3, platelet-derived growth factor receptor (PDGFR) -a, -b of v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolo (cKIT) could be allowed
+Prior use of 5-alpha reductase inhibitors is permitted provided such medications were stopped 7-14 days prior to enrollment
+Requirement for constant administration of proton pump inhibitors, H2 antagonists, or pancreatic enzymes; intermittent uses of antacids or H2 antagonists are allowed
+Previous treatment with MLN1117 and/or MLN0128; previous treatment with dual mTORC1/2 or dual PI3K-mTOR inhibitors
+Patients who are taking proton pump inhibitors within 7 days of the first dose or who require treatment with proton pump inhibitors during the trial or those who are taking H2 receptor antagonists within 24 hours of the first dose
+Patients who received previous therapy with PI3K inhibitors or rapalogs will be allowed in the study if all other inclusion/exclusion criteria are met
+Any number and type of prior anticancer therapies except BRAF or mitogen-activated protein kinase (MEK) inhibitors
+Patients with prior exposure to BRAF or MEK inhibitors are not eligible
+Prior therapy with mTOR inhibitors, including sirolimus, temsirolimus, deforolimus within 6 months prior to enrollment
+Subjects may have received up to three prior systemic anticancer treatment regimens for adenocarcinoma of the lung (including adjuvant therapies and tyrosine-kinase inhibitors [TKI]), unless discussed with the sponsor.
+Prior history of CYP17 inhibitors (e.g., abiraterone acetate, TAK-700) and second-generation anti-androgen (e.g., MDV3100)
+Prior therapy with a PI3K inhibitor; prior use of Akt or mammalian target of rapamycin (mTOR) inhibitors are allowed
+Prior therapy with strontium-89, samarium, rhenium-186 etidronate, chemotherapy or androgen biosynthesis inhibitors for prostate cancer is not allowed. Previous immunologic, homeopathic, natural, or alternative medicine therapies are acceptable provided treatment ended greater than 28 days prior to initiation of study drug
+Prior treatment with everolimus, other mammalian target of rapamycin (mTOR) inhibitors, or anti-VEGF drug (sunitinib, bevacizumab)
+Group 3: Patients with BRAF mutated melanoma who have progressed on, or are refractory to BRAF and/or MEK inhibitors
+Administration of the cytochrome P450 (CYP)3A4 inducers or inhibitors, as they may induce or inhibit irinotecan or SN38 metabolism within 14 days prior to cycle 1 and throughout study treatment
+Previous treatment with FGFR inhibitors
+Prior treatment with MEK or BRAF inhibitors
+Prior treatment with CYP17 inhibitors (e.g. TAK-700, ketoconazole*) or AR antagonists (e.g. enzalutamide, ARN-509,) or galeterone - abiraterone refractory only
+Prior treatment with CYP17 inhibitors (e.g. abiraterone, TAK-700, ketoconazole*) or AR antagonists (e.g. ARN -509) or galeterone - enzalutamide refractory only
+Previous treatment with mTOR inhibitors.
+History of hypotension and/or blindness during prior treatment with tadalafil or other PDE-5 inhibitors
+Prior treatment with immunotherapy agents including, but not limited to, tumor necrosis factor receptor superfamily agonists or checkpoint inhibitors or natural killer (NK) cell inhibitors.
+Prior therapy with ipilimumab, other BRAF inhibitors, or mitogen-activated protein kinase (MEK) inhibitors
+Patient must not have received any previous treatment with any aurora-kinase inhibitors (MTD expansion cohort only)
+Prior treatment with PI3K inhibitors
+Subjects should have received no anti-leukemic therapy (except hydroxyurea) prior to the first dose of crenolanib as follows: for 14 days for classical cytotoxic agents and for five times the t1/2 (half-life) for FLT3 inhibitors and antineoplastic agents that are neither cytotoxic nor FLT3 inhibitors (e.g. hypomethylating agent or MEK inhibitor)
+Small-molecule inhibitors: interval >= 1 week from last dose before study enrollment; if a previously used agent has a prolonged half-life, the appropriate interval will be determined after consultation with the principal investigator
+Prior therapy with other tyrosine kinase inhibitors (TKI) inhibitors or any other type of investigational agent is allowed if it was an adjunct to definitive local therapy, was given for =< 6 months, and was completed at least 12 months before initiating therapy for metastatic disease
+Prior treatment within the past 6 months with sunitinib, sorafenib, bevacizumab or other multikinase inhibitors targeting any of the following: vascular endothelial growth factors 1–3 (VEGF1–3), FMS-like tyrosine kinase 3 (FLT3), stem cell growth factor (c-KIT), platelet-derived growth factors-alpha and -beta (PDGF-alpha,-beta), colony-stimulating factor 1 (CSF1), and the ‘RET’ receptor for glial-derived neurotrophic factors
+Prior treatment with ibrutinib or other Bruton's tyrosine kinase inhibitors or prior randomization in any other clinical study evaluating ibrutinib
+Patients receiving histone deacetylase (HDAC) inhibitors or compounds with HDAC inhibitor like activity, such as valproic acid, are ineligible; patients who have received such agents may enroll on this study after a 14-day washout period
+Interferons, Everolimus (mTOR-inhibitors) or other systemic therapies within 4 weeks prior to randomization in the study.
+Have no prior exposure to cytochrome 450 family 17(CYP-17) (other than ketoconazole) or PARP inhibitors for prostate cancer; patients with prior exposure to ketoconazole are eligible
+Biologic or other approved molecular targeted small molecule inhibitors should be washed out 1 week before apheresis and must be completed at least 1 week prior to pre-infusion lymphodepletive chemotherapy.
+Current therapy with endocrine agents (tamoxifen, raloxifene, toremifene and all aromatase inhibitors) and/or bisphosphonates and/or tumor necrosis factor (ligand) superfamily, member 11 (RANK)-ligand inhibitors is permitted
+Prior therapy with mammalian target of rapamycin (mTOR) inhibitors (e.g. sirolimus, temsirolimus)
+Patients who have received targeted therapy (including but not limited to vaccines, antibodies, tyrosine kinase inhibitors) or hormonal therapy for management of their primary peritoneal, ovarian, or fallopian tube cancer
+Hypersensitivity to cyclooxygenase-2 inhibitors, sulfonamides, NSAIDs, or salicylates; NSAID associated symptoms of gastritis.
+Dose Expansion phase: Previous treatment with RAF or MEK inhibitors
+Patients who have received prior systemic therapy for their RCC with vascular endothelial growth factor (VEGF) pathway inhibitor (such as sunitinib, sorafenib, and bevacizumab) or with mammalian target of rapamycin (mTOR) inhibitors (such as sirolimus, temsirolimus, everolimus, or deforolimus)
+Prior targeted therapy (anti-vascular endothelial growth factor [VEGF] agents or mammalian target of rapamycin [mTOR] inhibitors) including adjuvant therapy, and prior chemotherapy for metastatic RCC (mRCC); however, prior immunotherapy (cytokines or vaccines) is allowed
+Part B only: Prior treatment with agents targeting both mammalian target of rapamycin (mTOR) complexes (dual mammalian target of rapamycin complex 1/2 inhibitors) and/or PI3K/AKT pathways. However, prior treatment with isolated target of rapamycin complex 1 (TORC1) inhibitors (eg., rapalogs) is allowed in both parts of this study.
+Patients who have had prior therapy with chemokine receptor type 4 (CXCR4) inhibitors
+Chronic myelogenous leukemia who have failed second generation (2G)-tyrosine kinase inhibitors (TKI)
+Previous treatment with anti-angiogenesis agents including thalidomide, or inhibitors of epidermoid growth factor (EGF), platelet derived growth factor (PDGF), or fibroblast growth factors (FGF) receptors
+No prior mTOR inhibitors
+Received immunomodulating agents, histone deacetylase inhibitors, cyclosporine, or mycophenolate within 4 weeks of screening
+Prior histone deacetylase (HDAC), deacetylase (DAC), heat shock protein 90 (HSP90) inhibitors or valproic acid for the treatment of cancer
+Patients receiving treatment with 5-alpha reductase inhibitors (e.g., finasteride, dutasteride) within 90 days prior to preregistration are not eligible; treatment with these agents during the protocol intervention is not permitted
+The addition of cytotoxic agents for “cytoreduction” with the exception of tyrosine kinase inhibitors (such as imatinib), cytokine therapy, hydroxyurea, low dose cytarabine, chlorambucil, or Rituxan will not be allowed within three weeks of the initiation of conditioning
+Prior everolimus or pazopanib therapy; other mammalian target of rapamycin (mTOR) inhibitors and tyrosine kinase inhibitors are allowed
+EXPANSION COHORT ONLY: Prior mTOR pathway inhibitors or VEGF receptor inhibitor therapy
+Patients with CML must have demonstrated resistance and/or intolerance to therapy with at least 2 tyrosine kinase inhibitors (TKI)
+Previous therapy with IMiD compounds (thalidomide, lenalidomide, pomalidomide), proteasome inhibitors (bortezomib, carfilzomib), and corticosteroids must be discontinued at least 14 days before entry onto this study
+Patients must not take the following medications that are strong to moderate inhibitors of CYP2D6 and may alter tamoxifen metabolism: paroxetine (Paxil), fluoxetine (Prozac), buproprion (Wellbutrin) and quindine (Cardioquin) within 2 weeks of registration
+The participant has previously received endocrine therapy for breast cancer prevention (tamoxifen or raloxifene or aromatase inhibitors).
+Subjects previously treated with anagrelide or JAK inhibitors.
+Previous treatment with palbociclib, abemaciclib, ribociclib or other investigational CDK4/6 inhibitors
+Prior exposure to a selective inhibitors of nuclear export (SINE) compound
+Patients who have received any targeted therapy (including but not limited to vaccines, antibodies, tyrosine kinase inhibitors) or hormonal therapy for management of their epithelial ovarian or peritoneal primary cancer.
+Any degree of prior treatment is allowed, including other anti-angiogenic treatments (e.g., vascular endothelial growth factor receptor 2 [VEGFR2] inhibitors or bevacizumab); patients with no prior therapy are eligible, provided they have metastatic disease that is not curable by surgery
+Proton pump inhibitors and histamine-2 (H2) inhibitors
+Patients taking COX-2 inhibitors
+The addition of cytotoxic agents for 'cytoreduction' with the exception of tyrosine kinase inhibitors (such as imatinib mesylate), cytokine therapy, hydroxyurea, low dose cytarabine, chlorambucil, or rituxan will not be allowed within three weeks of the initiation of conditioning
+Proteasome inhibitors within 14 days
+Chemotherapy, radiotherapy, HDAC inhibitors, or other plasma cell directed therapy within 2 weeks
+Received systemic agents other than corticosteroids for treatment of acute GvHD. GvHD prophylaxis agents (example, calcineurin inhibitors) may be continued.
+Previous therapy with cytotoxic agents for AML; persons with previous treatments for myelodysplasia/myeloproliferation such as hydroxyurea, interferon, hypomethylating agents (5-azacitidine or decitabine), lenalidomide, or Janus kinase/signal transducers and activators of transcription (JAK/STAT) inhibitors may participate but must have > 1 week off therapy prior to enrollment
+Prior HDAC, deacetylase (DAC), heat shock protein (HSP)90 inhibitors or valproic acid for treatment of cancer
+Lead-in cohort: resistant or intolerant to 1 or more Janus kinase inhibitors (licensed or experimental).
+Use of targeted agents (e.g., monoclonal antibodies or kinase inhibitors) will not be counted as a prior chemotherapy treatment
+Prior treatment with poly ADP ribose polymerase (PARP) inhibitors (e.g., olaparib, ABT-888).
+Must have received at least 3 of the following classes of anti-myeloma agents either alone or in combination: glucocorticoids, immunomodulatory drugs such as thalidomide, proteasome inhibitors, alkylating chemotherapy, or anthracyclines
+Use of warfarin, factor Xa inhibitors, or direct thrombin inhibitors
+Treatment with investigational GVHD prophylactic agents (eg, CCR5 inhibitors; lenalidomide; and/or bortezomib) within the 7 days prior to the 1st dose of neihulizumab
+Prior therapy with hydroxyurea, chemotherapy, biological or targeted therapy (e.g. fms-related tyrosine kinase 3 [FLT3] inhibitors, other kinase inhibitors), or hematopoietic growth factors is allowed
+BRAF/MEK inhibitors within 2 weeks prior to first dose of study treatment.
+Chemotherapy, hormonal therapy, radiotherapy (except for brain and extremities) or immunotherapy or therapy with monoclonal antibodies or small tyrosine kinase inhibitors within the past 4 weeks prior to treatment with the trial drug
+Previous therapy with other vascular endothelial growth factor (VEGF) or VEGFR inhibitors (other than bevacizumab) or docetaxel for the treatment of NSCLC at any time
+Prior treatment with c-MET/HGF inhibitors
+Inhibitors of P-glycoprotein efflux transporters\r\n* Concomitant medications that are strong inhibitors of P-glycoprotein efflux transporters should be used with caution during the study; examples of these medications include ritonavir, cyclosporine, verapamil, erythromycin, ketoconazole, itraconazole, quinidine, and elacridar
+Previously untreated AML (>= 20% blasts) or AML M6; patients with high-risk (intermediate-2 or\r\nhigh by International Prognostic Scoring System [IPSS] or >= 10% blasts) MDS will also be eligible; prior therapy with hydroxyurea, biological or targeted therapy (e.g. fms-related tyrosine kinase 3 [flt3] inhibitors, other kinase inhibitors, azacitidine), or hematopoietic growth factors is allowed; no prior chemotherapy is allowed except for a single or a two day dose of cytarabine (up to 3 g/m^2) for emergency use is also allowed as prior therapy
+All participants must be on antiretroviral therapy for HIV infection with CD4 count > 50/mm^3 and viral load < 50 copies/mL; participants must be on a stable antiretroviral therapy (ART) regimen that includes at least three agents, as defined below\r\n* If antiretroviral regimen contains zidovudine or strong cytochrome P450, family 3, subfamily A, polypeptide 4 (Cyp3A4) inhibitors (e.g. ritonavir or cobicistat-boosted protease inhibitors) and viral load is suppressed (as measured by HIV viral load =< 50/mL), then antiretroviral therapy must be adjusted to a less toxic therapy not containing these antivirals and must demonstrate stability for at least 4 weeks prior to enrollment\r\n* If on antiviral therapy with zidovudine or protease inhibitors, and viral load is not suppressed (as measured by HIV viral load > 50 copies/mL), then antiretroviral therapy must be adjusted to a less toxic regimen allowing for optimal viral suppression and must demonstrate stability for at least 12 weeks prior to enrollment\r\n* Allowable antiretrovirals include nucleoside or nucleotide inhibitors other than zidovudine, non-nucleoside reverse transcriptase inhibitors including efavirenz, etravirine, rilpivirine, and nevirapine, integrase inhibitors raltegravir or dolutegravir, or entry inhibitors maraviroc or enfuvirtide
+Prior treatment with more than 2 JAK2 inhibitors or with pacritinib
+Prior treatment with tyrosine-kinase inhibitors targeting VEGF, platelet-derived growth factor, fibroblast growth factor, tyrosine kinase with immunoglobulin-like and epidermal growth factor-like domains 2 (TIE-2), or angiopoietin (or their receptors)
+Prior treatment with histone deacetylase inhibitors or mammalian target of rapamycin (mTOR) inhibitors
+Prior treatment with small molecule inhibitors of the MET pathway.
+Prior treatment with a gamma secretase inhibitors or other Notch signaling inhibitors.
+Prior treatment with a PI3K and/or mTOR inhibitors for glioblastoma or for pre-existing neoplasm transformed to glioblastoma (applicable for combination treatment arm only)
+Patient has received previous treatment with any AKT, mTOR inhibitors or PI3K pathway inhibitors;
+Prior treatment for pre-existing hematologic conditions is allowed and includes hydroxyurea, thalidomide, hematopoietic growth factors, Zarnestra, lenalidomide, arsenic trioxide, imatinib, corticosteroids, histone deacetylase inhibitors, azacytidine, midostaurin sorafenib or other targeted agents; use of hydroxyurea for control of blast counts is allowed during the trial
+Concomitant use of phosphodiesterase inhibitors
+Any regular use of cyclooxygenase-2 (COX-2) inhibitors as defined by 2-3 times per week
+Prior treatment with cabozantinib and other met inhibitors
+Received prior treatment with Insulin-like Growth Factor 1 Receptor (IGF-1R) inhibitors, Phosphatidylinositol 3-Kinase (PI3K) inhibitors, or other experimental agents that target PI3K, Protein Kinase B (AKT), or Mammalian Target of Rapamycin (mTOR) pathway
+Prior treatment with PI3K-inhibitors
+Known or suspected history of severe hypersensitivity reaction to tyrosine kinase inhibitors, histone deacetylase inhibitors, proteosome inhibitors, boron, or mannitol
+Concurrent use of other histone deacetylase inhibitors (e.g. valproic acid) are prohibited except for histone deacetylase (HDAC) inhibitors or HDAC-inhibitor like agents used for non-cancer treatment (e.g. epilepsy), where a 14 day washout is allowed
+A single regimen of prior chemotherapy for metastatic melanoma is allowed; patients also may have received other immunotherapy or biologic therapy (including kinase inhibitors, antibodies to checkpoints CTLA4, PD1, PDL1, etc.) for metastatic melanoma and there is a limit of three therapy regimens
+Previous treatment with mTOR inhibitors, or exemestane for advanced disease.
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Patients have had prior histone deacetylase (HDAC), deacetylase (DAC), heat shock protein 90 (HSP90) inhibitors for the treatment of their DIPG
+Prior cytotoxic chemotherapy, immunotherapy, a PI3K/AKT/mTOR agent (including TORC1 and TORC2 inhibitors), or RA 223 dichloride for the treatment of castration resistant prostate cancer (CRPC). Participants may have received docetaxel in the hormone-sensitive setting.
+For subjects with measurable nodal disease, the increase in the sum of diameters of the largest lymph nodes (up to 3 nodes) exceeds 1 cm per day OR the diameter of the largest lymph node exceeds 5 cm during the 5 day wash out. 2. For subjects with lymphocytosis, the increase in the ALC exceeds 2x109/L per day OR the ALC exceeds 100,000 x109/L during the 5-day wash out; b. Arm C: No minimum washout is required after discontinuation of ibrutinib (or other BTK inhibitors) c. Approved PI3 kinase inhibitors: Subjects may start study treatment within 3 days of discontinuation of approved PI3 kinase inhibitors.
+Prior use of histone deacetylases (HDAC) or mammalian target of rapamycin (mTOR) inhibitors
+Prior histone deacetylases (HDAC), deacetylase (DAC), heat shock protein 90 (HSP90) inhibitors or valproic acid for the treatment of cancer
+Patients taking CYP2D6 inhibitors should be carefully monitored, but these drugs are not necessarily contraindicated when used concomitantly with LBH589
+Concomitant use of proton pump inhibitors or histamine (H)2 blockers
+BTK/SYK/JAK/PI3K inhibitors
+Ongoing systemic therapy (other than a GnRH agonist/antagonist) for prostate cancer including, but not limited to:\r\n* CYP-17 inhibitors (e.g. ketoconazole, abiraterone)\r\n* Antiandrogens (e.g. bicalutamide, nilutamide)\r\n* Second generation antiandrogens (e.g. enzalutamide)\r\n* Immunotherapy (e.g. sipuleucel-T, ipilimumab)\r\n* Chemotherapy (e.g. docetaxel, cabazitaxel)\r\nNote: Prior receipt of these agents is acceptable; no washout period is required
+Concomitant treatment with medicinal products that increase the pH (reduce acidity) of the upper gastrointestinal tract, including, but not limited to, proton-pump inhibitors (e.g. omeprazole), H2-antagonists (e.g. ranitidine) and antacids. Patients may be enrolled in the study after a wash-out period sufficient to terminate their effect.
+Concomitant treatment with medicinal products that increase the potential hydrogen (pH), reduce acidity of the upper gastrointestinal tract, including, but not limited to, proton-pump inhibitors (e.g. omeprazole), H2-antagonists (e.g. ranitidine) and antacids. Patients may be enrolled in the study after a washout period sufficient to terminate their effect.
+Oral kinase inhibitors approved by local regulatory authorities may be used within 2 weeks prior to initiation of DLYE5953A, provided that any clinically relevant drug-related toxicity has completely resolved and prior approval is obtained from the Medical Monitor
+Current therapy with proton pump inhibitors
+Prior exposure to PARP (poly ADP-ribose polymerase) inhibitors
+Phase II only: Prior treatment with RAF inhibitors, Wnt pathway inhibitors, cetuximab, panitumumab, and/or other EGFR inhibitors
+Part A: Intolerable AEs due to other PI3K inhibitors, dual PI3K and mTOR inhibitors or AKT inhibitors. Parts B, C, and D: Prior exposure to any of the following: pharmacological inhibitors of AKT, PI3K, or dual PI3K and mTOR kinase activity
+Strong Inhibitors of CYP2D6
+Patients must not have had any prior exposure to heat shock protein 90 (HSP90) inhibitors (such as IPI-504 or ganetespib) or non-crizotinib ALK inhibitors (such as AP26113 or LDK378)
+Patients who have previously been treated with LDE225 or other hedgehog (Hh) pathway inhibitors
+Any number of prior systemic therapeutic regimens including chemotherapy, pathway inhibitors, biochemotherapy, investigational agents, and immunotherapies other than ipilimumab or bavituximab
+Prior therapy (except for adjuvant immunotherapy) with a BRAF and/or mitogen-activated protein kinase kinase (MEK) and/or extracellular signal-regulated kinase (ERK) inhibitors
+Patient has received previous treatment with PI3K inhibitors, lomustine or carboplatin.
+Patient has received previous antineoplastic treatment for recurrent GBM (e.g. VEGF inhibitors, cytotoxic agents).
+No more than one prior line of antitumor therapy for metastatic disease, excluding prior treatment with tyrosine kinase inhibitors. An interval of at least 1 week is required for washout of the tyrosine kinase inhibitor.
+Current and continued use during study treatment period of known Breast cancer resistance protein (BCRP) inhibitors or known P-gp inhibitors.
+Prior therapy with HDAC inhibitors (except for CTCL)
+Current use of any platelet functioning inhibitors (including aspirin) within 14 days of first on-study thrombokinetic study
+Receipt of any other ALK inhibitors in addition to crizotinib
+Receipt of any prior cytotoxic chemotherapy for ALK-positive NSCLC within 4 weeks prior to Day 1. Patients who received crizotinib or any other tyrosine kinase inhibitors need to have a minimum 2-week washout period before the first dose
+Current or recent (within 6-months) use of fibric acid derivatives, lipid-modifying doses of niacin, cyclosporine or strong CYP3A4 inhibitors (i.e. clarithromycin, HIV protease inhibitors, and itraconazole)
+Patient has received previous treatment with PI3K inhibitors
+Treatment with androgen receptor antagonists (bicalutamide, flutamide, nilutamide), 5-? reductase inhibitors (finasteride, dutasteride), estrogens, chemotherapy, or biologic therapy within 4 weeks of Day 1 visit
+Small molecular cell cycle inhibitors >= 2 weeks from registration
+Not a candidate for targeted therapy with BRAF or combined BRAF/MEK inhibitors (e.g., failed or did not tolerate prior therapy, BRAF V600 wild-type or due to drug unavailability or standard of care)
+Patient has known contraindication to PARP inhibitors or vascular endothelial growth factor (VEGF) inhibitors.
+Previous treatment with PI3K inhibitors, AKT inhibitors or fulvestrant
+No prior use of EGFR tyrosine kinase inhibitors or monoclonal antibodies; all other prior treatments are allowed if >= 4 weeks since treatment completed, including chemotherapy (systemic or intraperitoneal), radiation therapy, and/or surgery; there is no limit on the number of previous treatments allowed
+Patients must have metastatic disease which has progressed on or within 6 months of stopping treatment with vascular endothelial growth factor receptor (VEGFR) tyrosine kinase inhibitors; previous therapy with bevacizumab, interleukin 2, or interferon alpha is also permitted
+Patients who have previously been treated with systemic LDE225 or with other Hh pathway inhibitors
+Concurrent or previous treatment with inhibitors of DLL4
+Previous treatment with AKT inhibitors
+For subjects assigned to take vorinostat, prior exposure to vorinostat or other known histone deacetylase (HDAC) inhibitors for cancer therapy; patients should not have taken valproic acid, another histone deacetylase inhibitor, for at least 2 weeks prior to study enrollment; note: this criterion does NOT apply to subjects treated on the Expansion Cohort (accruals post February 1, 2013)
+Current or previous treatment with angiopoietin inhibitors, or inhibitors of Tie1 or Tie2 including, but not limited to, AMG386, CVX-060, XL880, and XL820
+Prior therapy with other histone deacetylase (HDAC) inhibitors, including valproic acid
+Prior therapy with heat shock protein (HSP)-90 inhibitors
+Received prior therapy with monoclonal antibodies, signal transduction inhibitors, or any therapies targeting the vascular endothelial growth factor (VEGF) or vascular endothelial growth factor receptor (VEGFR)
+Prior use of other investigational or licensed tyrosine kinase inhibitors (TKIs), or agents which target VEGF or VEGF receptors (i.e., bevacizumab, VEGF-Trap)
+Part A and Part B: Prior exposure to BRAF or MEK inhibitors unless approved by the GSK Medical Monitor.
+Part C: Prior exposure to BRAF or MEK inhibitors. Prior anti-cancer therapy in the metastatic setting, with the exception of up to one regimen of chemotherapy and/or interleukin-2 (IL-2).
+Part D: Prior exposure to BRAF inhibitors. A washout period of 6 weeks is required for ipilimumab.
+Progressive disease after 1-2 prior VEGF-directed tyrosine kinase inhibitors (TKIs).
+Previous therapy with other vascular endothelial growth factor (VEGF) inhibitors (other than bevacizumab) or pemetrexed for treatment of NSCLC
+Known hypersensitivity to other Src/Abl non-receptor kinase inhibitors.
+Prior treatment with tamoxifen, raloxifen or aromatase inhibitors for reduction in risk (chemoprevention) of breast cancer and/or treatment for osteoporosis within last 2 years
+Patients must be off myeloproliferative neoplasm (MPN) directed therapy, such as Janus kinase (JAK)-inhibitors, for at least 2 weeks prior to administration of the study drug; NOTE: This does not include supportive transfusion, or hydroxyurea; these must be stopped prior to first day of treatment, but no wash –out period is required
+Prior treatment with talazoparib or a poly(adenosine diphosphate [ADP]-ribosyl)ation (PARP)1/2 inhibitor; prior treatment with other agents that inhibit deoxyribonucleic acid (DNA) repair (i.e. WEE1 homolog [S. pombe] [WEE1] inhibitors, ataxia telangiectasia mutated [ATM] inhibitors), is allowed; if there are any questions, please contact the study's principal investigator
+Prior treatment with more than two Janus kinase 2 (JAK2) inhibitors or with pacritinib
+Prior therapy with histone deacetylase (HDAC) inhibitors or immunomodulatory drugs (IMDs) (lenalidomide or thalidomide)
+Prior exposure to BRAF or MEK inhibitors
+Patients who need to take CYP3A4 inhibitors, such as cyclosporine, sirolimus, tacrolimus, verapamil, danazol, gemfibrozil, ketoconazole, or macrolide antibiotics (e.g., azithromycin, clarithromycin, erythromycin) will be excluded; prior use of these agents is acceptable, as long as they are stopped at least a week prior to study entry
+For breast cancer patients only, endocrine therapies are allowed (such as aromatase inhibitors, but not current tamoxifen. Prior tamoxifen is permitted with a 30 day wash out period)
+Prior therapy with inhibitors of IGF-1 (example [ex]: AMG-479, OSI-906)
+BC patients scheduled to go on aromatase inhibitors after treatment\r\n* Note: at MSH only, there is another ongoing Breast Cancer R01 and in order to avoid conflicting with that protocol and overburdening patients, the study will exclude BC patients scheduled to go on aromatase inhibitors. We can easily reach recruitment goals with this approach)
+Prior use of selective estrogen receptor modulator (SERMS) and aromatase inhibitors (AIs) including tamoxifen, raloxifene, anastrozole, letrozole, or exemestane for prevention or therapy within 5 years
+Immune therapy (monoclonal antibody therapy, checkpoint inhibitors) within 4 weeks.
+Either treatment naive to, relapsed/refractory to, or experienced treatment failure due to other reasons with ibrutinib, idelalisib, or any other investigational B-cell receptor (BCR) pathway inhibitors not directly targeting spleen tyrosine kinase (SYK).
+Medications or supplements that are known to be inhibitors of P-glycoprotein (P-gp) and/or strong reversible inhibitors of cytochrome P450 (CYP) 3A within 5 times the inhibitor half-life (if a reasonable half-life estimate is known) or within 7 days (if a reasonable half-life estimate is unknown) before the first dose of study drug. In general, the use of these agents is not permitted during the study except in cases in which an AE must be managed. See a nonexhaustive list of prohibited strong CYP3A reversible inhibitors and/or P-gp inhibitors based on the US Food and Drug Administration (FDA) Draft Drug-Drug Interactions (DDI) Guidance.
+Any previous immunotherapy with immune checkpoint inhibitors such was nivolumab, atezolizumab and others in the class.
+Patients who have received or will receive medication that could affect their hematologic state (tyrosine kinase inhibitors, cytotoxic chemotherapy)
+Patients on drugs with strong CYP 3A4 inhibitors within the previous two weeks (ketoconazole, clarithromycin, itraconazole, nefazodone, telithromycin)
+GIST patients with iron deficiency anemia (IDA) planned to start or are receiving systemic therapy with tyrosine kinase inhibitors (TKIs)
+Moderate or severe cGVHD diagnosed and staged per National Institute of Health (NIH) criteria; responses to Janus kinase (JAK) inhibitors have not been restricted to specific organs, so any organ involvement is eligible
+Hypersensitivity to JAK inhibitors
+Have persistent pain (unrelated to aromatase inhibitors or chemotherapy-induced peripheral neuropathy) for at least 3 months following treatment for breast cancer
+Recently started on anti-depressant medications (past one month for those on selective serotonin reuptake inhibitors [SSRI] and past two months for those started on monoamine oxidase inhibitors [MAOI])
+Receiving histamine type 2 (H2) antagonists (cimetidine, ranitidine, famotidine, nizatidine) or proton pump inhibitors 9lansoprazole, omeprazole, pantoprazole, esomeprazole, raberprazole, dexlansoprazole) AND unable to hold the drug for 24 h prior to and 24 h after each cisplatin course on cycles 1-4
+Patients taking monoamine oxidase (MAO) inhibitors, tricyclic antidepressants, clonidine, psychostimulants, concurrent steroids or other medications specifically for fatigue
+Subjects taking selective serotonin reuptake inhibitors (SSRIs).
+Use of monoamine oxidase inhibitors (MAOI) inhibitors
+Concurrent use of tamoxifen, raloxifene, or any of the aromatase inhibitors
+History of grade 2 depression or anxiety or treatment with antidepressants, antipsychotics or monoamine oxidase inhibitor (MAO) inhibitors within 30 days of registration
+Patients must not take MAO-Inhibitors for 14 days before registration or any time during study treatment; concomitant therapy with heparin and warfarin is also not permitted at registration
+Any of the following current (=< 4 weeks prior) or planned therapies:\r\n* Antineoplastic chemotherapy (anti-HER2 agents allowed)\r\n* Androgens\r\n* Estrogens (any delivery route)\r\n* Progestogens\r\n* Tamoxifen, raloxifene and aromatase inhibitors are allowed, but patient must have been on a constant dose for at least 28 days and must not be expected to stop the medication during the study period\r\n* Selective serotonin reuptake inhibitors (SSRIs)/serotonin–norepinephrine reuptake inhibitors (SNRIs), when being used for hot flash management or other indications such as depression, is allowed, assuming the dose will remain unchanged for the study duration\r\n* Gabapentin/pregabalin, when being used for hot flash management (use for other indications, such as pain, is allowed, assuming the dose will remain unchanged for the study duration)\r\n* Clonidine\r\n* Agents with known potent anticholinergic activity; agents with mild-moderate anticholinergic activity are allowed
+Eligible to receive AHT (tamoxifen or an aromatase inhibitors [AI]) for the first time
+Current treatment with angiotensin converting enzyme (ACE)-inhibitors or beta blockers
+Other investigational agents in addition to LHRH agonist/antagonist are allowed (e.g. novel anti-androgens, androgen synthesis inhibitors)
+Prior treatment with quizartinib or other FLT3-ITD inhibitors;
+No concomitant use of proton pump inhibitors (PPI) is allowed; any prior PPI must be discontinued at least one week before receiving MLN0128 (TAK-228)
+Part B only: Prior treatment with SYK or Janus Kinase (JAK) inhibitors, except MF subjects.
+Need monoamine oxidase inhibitors, tricyclic antidepressants, or clonidine
+Patients taking didanosine, azathioprine, or nucleoside reverse transcriptase inhibitors
+Need monoamine oxidase inhibitors, tricyclic antidepressants, or clonidine
+Currently receiving phenobarbital, diphenylhydantoin, primidone, phenylbutazone, monoamine oxidase inhibitors (MAOIs), clonidine and tricyclic antidepressant drugs
+No other concurrent angiotensin-converting enzyme (ACE) inhibitors, ?-blockers, or digoxin
+Patients using carbonic anhydrase inhibitors (acetazolamide [Diamox], brinzolamide [Azopt], methazolamide [Neptazane], dorzolamide [Trusopt], pomegranate ellagitannins), cimetidine, or topiramate
+Patients taking other phosphodiesterase Type 5 (PDE5) inhibitors
+Breast cancer (stage 0, I, II, III), 18 months to 5 years post oncologic therapies of surgery, chemotherapy, and/or radiation therapy (does not exclude current selective estrogen receptor modulators or aromatase inhibitors)
+Patients who have previously been treated with systemic LDE225 or with other Hedgehog (Hh) pathway inhibitors
+DONOR: Concurrent treatment with strong inhibitors of hepatic cytochrome P450 (CYP) 3A4 (i.e. clarithromycin, erythromycin, protease inhibitors, azole antifungals)
+Patients receiving calcineurin inhibitors as part of GVHD prophylaxis
+Prior therapy with hydroxyurea, interferon, anagrelide, ruxolitinib, hypomethylating agents, Revlimid, thalidomide, steroids, other JAK inhibitors is allowed for AML patients who are back in chronic phase MPN, prior induction chemotherapy is allowed
+Tamoxifen, raloxifene, or aromatase inhibitors are allowed, but the patient must have been on a constant dose for >= 4 weeks and ust not be expected to stop the medication during the study period
+Must be more than six months from ingestion of antihormonal therapy (tamoxifen, raloxifene, other selective estrogen receptor modulators [SERMs], aromatase inhibitors)
+No allergy to finasteride or other five alpha reductase inhibitors
+Planned post-transplant maintenance therapy except for FLT3 inhibitors or TKIs must be declared prior to randomization. If it is known prior to enrollment that the hematopoietic stem cell product will need to be cryopreserved, the patient should not be enrolled.
+Current treatment with tamoxifen or aromatase inhibitors
+Current use or < 6 months since use of selective estrogen receptor modulator (SERMS) or aromatase inhibitors or any other investigational treatment for breast cancer prevention or therapy
+Use of systemic immunosuppressant agents including anti-metabolites, glucocorticoids, tumor necrosis factor (TNF) alpha antagonists, antibodies to interleukin (IL) 6 or IL6 receptor (R), calcineurin inhibitors, mammalian target of rapamycin (mTOR) antagonists
+Histone deacetylase (HDAC), deacetylase (DAC), heat shock protein (HSP)90 inhibitors or valproic acid for the treatment of cancer within 30 days; only Food and Drug Administration (FDA) approved drug are vorinostat and romidepsin the rest are considered investigational and are not allowed
+DONOR: Concurrent treatment with strong inhibitors of hepatic CYP 3A4 (i.e. clarithromycin, erythromycin, protease inhibitors, azole antifungals)
+Daily therapy with H2 blockers or protein pump inhibitors
+Currently in remission and not on any active anti-cancer therapies (survivors receiving maintenance tyrosine kinase inhibitors are NOT eligible).
+Men on stable doses of 5-alpha reductase inhibitors are eligible as long as there is no planned dose change while on study
+History of 5 alpha reductase inhibitors prior 3 months
+Participants cannot be taking 5-alpha-reductase inhibitors while on study or within 6 months of the baseline study visit
+Participants must consent to refrain from using aspirin or non-steroidal anti-inflammatory drugs (NSAIDs) or cyclooxygenase (COX)-inhibitors for the duration of the trial
+Participants who were taking EGFR tyrosine kinase inhibitors within 3 months of study entry
+History of hypersensitivity to COX-2 inhibitors, sulfonamides, nonsteroidal antiinflammatory drugs (NSAIDs), salicylates, or ursodeoxycholic acid
+Any hematologic disorder involving platelets or clotting abnormalities or any condition requiring treatment with transfusions, anticoagulants except platelet inhibitors (NSAIDs as needed for pain are permitted)
+No use of proton pump inhibitors (PPIs) within the previous 3 months
+Prior history of Grade 3 or greater drug-related diarrhea/colitis during treatment with checkpoint inhibitors or other immunotherapy treatments.
+No prior exposure to abiraterone acetate or other specific CYP-17 inhibitors
+Patients may not have had prior treatment with mTOR, peptidase inhibitor 3, skin-derived (PI3) kinase or Akt inhibitors
+Targeted agents including small-molecule tyrosine kinase inhibitors: 2 weeks
+Patient under medications that can affect PSA for the last 3 months prior to MRgFUS treatment (Androgen Deprivation Treatment; alpha reductase inhibitors)
+Prior exposure to approved receptor tyrosine kinase inhibitors is permitted; at least 5 half-lives must have elapsed since the completion of the kinase inhibitor and the initiation of study treatment
+Targeted agents, including small-molecular tyrosine kinase inhibitors: 2 weeks
+Patients on aromatase inhibitors other than letrozole at study entry.
+Current use of: Finasteroid (propecia), Efavirenz, Red Clover, Ketoconazole, CYP3A4 Inhibitors
+Patients receiving phosphodiesterase type 5 (PDE-5) inhibitors (such as sildenafil, tadalafil, vardenafil)
+Planned post-transplant therapy, including use of tyrosine-kinase inhibitors (TKI).
+Intestinal motility agents, histamine?2 inverse agonists (H?2 blockers), or proton pump inhibitors
+Use of monoamine oxidase inhibitors within 14 days of study entry
+No history of receiving endocrine therapy, tamoxifen, and or aromatase inhibitors for therapeutic measures; these agents used previously as chemoprevention are allowed
+Patient must not have planned treatment with immunotherapies (vaccines, checkpoint inhibitors, T-cells); if the patient’s most recent recurrence occurs while on immunotherapy, this must be judged as true recurrence using Immunotherapy Response Assessment in Neuro-Oncology (iRANO) criteria
+Concurrent administration of lapatinib or other tyrosine kinase inhibitors other than sorafenib
+Has not received prior therapy with CTLA-4, PD-1/PD-L1 inhibitors, other co-stimulatory or co-inhibitory immune checkpoint antibody therapies (e.g. LAG3, TIM3, CD137, KIR3DL, CD70, and CD27) for distant metastatic melanoma; patients who have received MAPK inhibitors are allowed on condition that they have recovered from adverse events to at most grade 1 by Common Terminology Criteria for Adverse Events (CTCAE) v4.03 and at least 15 days have elapsed between last dose of MAPK inhibitors and C11-AMT imaging; patients who have previously received CTLA-4 inhibitors in the adjuvant setting are allowed to participate as long as they discontinued CTLA-4 treatment at least 30 days ago; patients who have previously received adjuvant PD- 1 inhibitors are excluded
+Use of angiotensin-converting enzyme (ACE) inhibitors, angiotensin II receptor blockers, diuretics, aldosterone, renin blockers, aspirin, statins, sildenafil (or other PDE5 inhibitors) and non-steroidal antiinflammatory drugs (NSAIDs)
+Patients who have received and/or are scheduled to receive a combination of the following cardiotoxic chemotherapy agents:\r\n* Anthracyclines (doxorubicin, daunorubicin, epirubicin, idarubicin); antimetabolites (5-fluorouracil); alkylating agents (busulfan, cisplatin, cyclophosphamide, ifosfamide); anthraquinones (mitoxantrone); antimicrotubules (paclitaxel, vinca alkaloids [vinblastine, vincristine]); biological agents (interferon-alpha, interleukin-2); hormone-modifying therapy (androgen-deprivation therapy, aromatase inhibitors); tyrosine-kinase inhibitors (bevacizumab, imatinib, lapatinib, sorafenib, sunitinib, trastuzumab); rituximab; docetaxel (Taxotere); any other potentially cardiotoxic treatment
+Hormone therapy for locally advanced disease (except patients on 5-alpha reductase inhibitors to reduce the size of the prostrate)
+Patients must not have received hormonal therapy (i.e., tamoxifen, raloxifene, and/or aromatase inhibitors) for prevention of breast cancer within 3 months of the biopsy documenting DCIS
+Prior treatment with venetoclax or other BCL2 inhibitors
+Pre-treatment with other mTOR inhibitors may be allowed and should be discussed with the medical monitor
+Previous meningioma progression during treatment with other mTORC1/2 inhibitors (but not mTORC1 inhibitors such as everolimus or other rapalogs)
+History of 5 alpha reductase inhibitors prior 3 months
+Current or recent use of reproductive hormone therapy, tamoxifen, aromatase inhibitor or other estrogen inhibitors within the last 90 days, which may affect biomarkers
+Prior treatment with mammalian target of rapamycin (mTOR) inhibitors will be allowed as long as the patient did not have >= grade 3 toxicity attributed to the mTOR inhibitor with prior therapy
+Concurrent use of any proton pump inhibitors
+Antiangiogenic therapy, specifically vascular endothelial growth factor (VEGF) and VEGF receptor (VEGFR) inhibitors, can interfere with wound healing and therefore will only be allowed if the agent has been discontinued for at least 14 days prior to day 1; group C patients must be naive to therapies which target mitogen-activated protein kinase (MAPK)
+Refractory or relapsed after at least 1 prior line of therapy for whom no effective standard therapy is available per investigator's assessment. • Participants who are either treatment-naive to, relapsed after, or refractory to ibrutinib, idelalisib, or any other investigational B cell receptor (BCR) pathway inhibitors not directly targeting spleen tyrosine kinase (SYK) are allowed.
+Prior exposure to targeted SYK inhibitors.
+Participants who are relapsed after or refractory to regimens containing venetoclax or other BCL2 inhibitors.
+Requiring chronic treatment with breast cancer resistance protein (BCRP) inhibitors.
+Subjects who have received dasatinib beyond first or second line treatment and meet other enrollment criteria are eligible for the study provided prior Tyrosine-kinase inhibitors (TKI) were discontinued due to intolerance or lack efficacy, although only one instance of lack of efficacy to TKI is allowed.
+Previous treatment with BCR-ABL inhibitors other than nilotinib for more than a total cumulative duration of 4 weeks
+Prior treatment with any tyrosine kinase inhibitors, anti vascular endothelial growth factor (VEGF) angiogenesis inhibitors, non VEGF targeted angiogenesis inhibitors, or mammalian target of rapamycin (mTOR) inhibitors.
+Additional Inclusion Requirements for TAK-580 + nivolumab a) BRAF V600 mutation-positive or NRAS mutation-positive disease previously untreated with RAF, MEK, or other inhibitors of the mitogen-activated protein kinase (MAPK) pathway. Participants who have progressed on these agents can still be enrolled in TAK-202 (plozalizumab) + nivolumab or vedolizumab + nivolumab + ipilimumab.
+Prior treatment with any drug that targets T cell co-stimulation pathways (such as checkpoint inhibitors)
+The patient has either failed, demonstrated intolerance, or a combination of prior failure and intolerance, to prior treatments with at least 2 tyrosine kinase inhibitors (TKI's). Failure of TKI treatment may either be primary (never achieved a response) or secondary resistance (loss of response).
+Medications or supplements that are known to be inhibitors of P-glycoprotein (P-gp) and/or strong reversible inhibitors of cytochrome P450 (CYP) 3A within 5*the inhibitor half-life (if a reasonable half-life estimate is known), or within 7 days (if a reasonable half-life estimate is unknown), before the first dose of study drug.
+Medications or supplements that are known to be inhibitors of P-glycoprotein (P-gp) and/or strong reversible inhibitors of cytochrome P450 (CYP) 3A within 5 times the inhibitor half-life (if a reasonable half-life estimate is known) or within 7 days (if a reasonable half-life estimate is unknown) before the first dose of study drug. In general, the use of these agents is not permitted during the study.
+Prior systemic chemotherapy, small molecule inhibitors, immune checkpoint inhibitors, other monoclonal antibodies, antibody-drug conjugates, radioimmunoconjugates, T-cell or other cell-based or biologic therapies, or any other anticancer therapy for the treatment of (limited or extensive) SCLC.
+Prior therapy with mechanistic target of rapamycin (mTOR), phosphoinositide-3-kinase (PI3K), or dual PI3K-mTOR inhibitors, serine/threonine-specific protein kinase (AKT) inhibitors, or fulvestrant.

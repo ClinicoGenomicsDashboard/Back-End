@@ -1,0 +1,31 @@
+Karnofsky >= %,
+Karnofsky >= %
+Karnofsky >= %
+Karnofsky >= %
+ECOG >  (Karnofsky < %)
+Karnofsky >= %
+Karnofsky >= %
+Karnofsky >= %
+Karnofsky >= %
+Karnofsky >= %
+Karnofsky >= %
+Karnofsky rating -.
+Karnofsky >= %
+Karnofsky >= %
+Karnofsky index >= %;
+Karnofsky > %
+Karnofsky >= % at time of screening
+Karnofsky >= %
+Karnofsky >= %
+ECOG ?  OR Karnofsky ? %.
+Karnofsky >= %
+Karnofsky > %
+Karnofsky >= %
+Karnofsky >= %
+Karnofsky >= %
+Karnofsky > %
+Karnofsky >= %
+In poor health (Karnofsky <%, ECOG >/-)
+Karnofsky >= %
+In poor health (Karnofsky <%, ECOG >)
+Karnofsky >= %

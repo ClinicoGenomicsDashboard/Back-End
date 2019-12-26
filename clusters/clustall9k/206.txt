@@ -1,0 +1,855 @@
+relapsed and refractory multiple myeloma (RRMM): subjects who have received at least 2 prior regimen, were responsive to at least 1 prior regimen (as defined by IMWG criteria) and then are refractory to their most recent therapy (? 25% response or progression during therapy or within 60 days after completion of therapy). Prior therapies for subjects with PRMM or RRMM must include an immunomodulatory drug (IMiD) and a proteasome inhibitor as separate lines or a combined line of therapy. If prior therapy includes autologous stem cell transplantation (ASCT), then induction/ASCT/maintenance therapies will be considered as one line of therapy altogether. Subjects who have relapsed after ASCT or are unable to receive ASCT are eligible. The interval from ASCT to entry in the study must be ?12 weeks.
+Have high-risk relapsed or refractory Hodgkin lymphoma (HL), defined as at least one of the following:\r\n* Primary refractory disease to front-line therapy\r\n* Relapse within 1 year of completing front-line therapy\r\n* Extranodal involvement at the time of pre-ASCT relapse\r\n* B symptoms at pre-ASCT relapse\r\n* More than one type of pre-ASCT salvage therapy required
+Planning to receive or have received autologous stem cell transplantation (ACST) per institutional standards as part of standard of care\r\n* Pre-ASCT participants may consent but will not be eligible to begin treatment until after ASCT, and will have to fulfill all inclusion and exclusion criteria before starting protocol\r\n* All participants must initiate day 1 of protocol therapy within 30-60 days post stem cell reinfusion; study PI can grant exception for a patient to start as late as 75 days post stem cell reinfusion with a reasonable justification for a delay (e.g. recovery from post -ASCT toxicity) and this will not be a protocol deviation, nor require an exception to be filled
+Recovery from ASCT toxicity as defined as outpatient status, able to drink, eat normally, and do not need intravenous hydration prior to day 1 of therapy
+Post-ASCT anti-lymphoma or investigational therapy; immediate post-ASCT consolidative radiation therapy is allowed as long as it occurs prior to initiation of study therapy; baseline imaging and pulmonary function tests (PFTs) must be performed after completion of radiation
+For lymphoma patients only: Participants must have received and relapsed after autologous stem cell transplantation (ASCT), or be ineligible for ASCT (including on the basis of refractory disease), or have declined ASCT
+Completion of ASCT within 100 days prior to Day 1 of Cycle1.
+Participants must have a pathologic diagnosis of classical Hodgkin lymphoma (cHL) who are relapsed or refractory with one of the following: I. Autologous stem cell transplant (ASCT) ineligible patients ii. Patients after failure of ASCT
+Patients with relapsed or refractory classical HL who have previously received autologous stem cell transplant (ASCT); patients must have received prior ASCT at least 12 weeks (3 months) before the first dose of ibrutinib or patients with relapsed or refractory HL who have failed at least 2 lines of prior therapy and are not eligible for ASCT due to:\r\n* Inability to achieve a complete response (CR) or partial response (PR) prior to transplant\r\n* Age or comorbid conditions\r\n* Inability to collect stem cells
+Patients must have received all approved therapies known to provide clinical benefit for their disease subtype and for which they are eligible or must have refused these treatment options prior to consideration for enrolment. In the case of patients who have lymphomas for which high-dose chemotherapy and autologous stem cell transplantation (HD-ASCT) is considered a standard curative therapy, eligibility for this study requires that the patient's disease has relapsed after HD-ASCT, that the patient is not eligible for HD-ASCT, or that the patient has refused HD-ASCT.
+Lenalidomide-related toxicities before ASCT necessitating its discontinuation as part of treatment
+Have relapsed or treatment refractory disease with >= 10% CD138+ malignant plasma cells (IHC) on bone marrow (BM) core biopsy, either:\r\n* Following autologous stem cell transplant (ASCT)\r\n* Or, if a patient has not yet undergone ASCT, the individual must:\r\n** Be transplant ineligible, due to age, comorbidity, patient choice, insurance reasons, concerns of rapidly progressive disease, and/or discretion of attending physician, and,\r\n** Demonstrate disease that persists after > 4 cycles of induction therapy and that is double refractory (persistence/progression) after therapy with both a proteasome inhibitor and immunomodulatory drug (IMiD) administered either in tandem, or in sequence.
+Previously treated ASCT naive MM patients, currently with relapsed or refractory disease who are being considered for single ASCT for relapsed disease; patients must be eligible to undergo a stem cell transplant as per institutional criteria for selection at the time of registration
+Patients must be eligible to undergo high dose chemotherapy (HDT) followed by ASCT as a form of remission consolidation
+Patients without evidence of documented disease progression clinically or radiographically after ASCT (stable disease [SD], partial remission [PR] or complete remission [CR]) who have had count recovery (absolute neutrophil count [ANC] > 500 cells/mm^3, non-transfused platelet count > 20,000 K/mm^3) and are at least 30 days post ASCT but no more than 120 days post ASCT
+After failure of allogeneic stem cell transplant (ASCT) or after failure of frontline therapy in subjects who declined or are not ASCT candidates
+PRE-ASCT ELIGIBILITY CRITERIA
+Sufficient recovery from first or second ASCT within 60-120 days of transplant (Cohort C)
+Have a contraindication to post-ASCT maintenance lenalidomide
+For Part 2 and Part 3 of the study, participants that are eligible to undergo first time HD-ASCT.
+Patients whose primary therapy was changed due to suboptimal response or toxicity will be eligible, however no more than 2 regimens will be allowed prior to ASCT
+Prior high-dose chemotherapy (HDC)-ASCT
+Patients must be between 100 to 180 days after ASCT
+Dasatinib use prior to ASCT is allowed
+Patients who have evidence of disease progression before day 100 after ASCT
+Subjects must not be candidates for intensive high-dose chemotherapy, with or without an autologous stem cell transplant (ASCT), due to one or more of the following factors:\r\n* Age >= 65 years: Patients < 65 years of age must be ineligible for high-dose chemotherapy (HDT)/ASCT on the basis of comorbidity, organ dysfunction or patients refusal for HDT/ASCT\r\n* Comorbid disease, such as coronary artery disease (CAD), congestive heart failure (CHF), pulmonary dysfunction, liver or kidney dysfunction, precluding high dose therapy secondary to expected increased morbidity and mortality: poor performance status (Karnofsky performance scale [KPS] 70% or less); ejection fraction < 45%; impaired pulmonary function test with diffusing capacity of lung for carbon monoxide (DLCO) < 50% expected\r\n* Patient refusal\r\n* Medical conditions which in the opinion of the treating physician and DMT preclude HDT/ASCT
+Patients must have disease that is recurrent or refractory to standard therapy; patients must have failed front-line therapy and declined or are not candidates for autologous stem cell transplant (ASCT) or have failed prior ASCT
+Patients with planned standard of care ASCT using melphalan 200 mg/m^2
+Eligibility for ASCT is determined by the above inclusion criteria.
+Has received high-dose melphalan and autologous stem cell transplant (HDM-ASCT) within 12 weeks before the first infusion or are planning for HDM-ASCT
+Refractory or relapsed HL patients that are also candidates for ASCT
+30-120 days post ASCT for non-Hodgkin’s lymphoma
+Myocardial infarction (MI) with ASCT or developed dilated cardiomyopathy with ASCT
+Participants who plan to proceed with ASCT as part of first line therapy
+Histologically confirmed DLBCL at last relapse(by central pathology review before enrolment. .- Relapsed or refractory disease after ?2 lines of chemotherapy including rituximab and anthracycline and either having failed autologous Hematopoietic stem cell transplantation (ASCT), or being ineligible for or not consenting to ASCT
+Eligible for and consenting to ASCT
+Relapsed following, or refractory to, previous ASCT
+Refused intensification treatment and/or ASCT
+Patients not considered in the opinion of the investigator eligible, or patients unwilling to undergo intensive salvage therapy including ASCT
+Plasmacytomas > 1 cm in marrow areas measured by magnetic resonance imaging (MRI) or extramedullary plasmacytomas (radiated lesions are exempt from this criteria); patients may receive cytoreductive therapy, including allogeneic stem cell transplant (ASCT) (if high risk) or second ASCT (if failed a prior ASCT) to achieve disease control, but may not receive any cytoreductive therapy within 30 days of the dosimetry infusion and must have bone marrow cellularity meeting inclusion criteria obtained at least 21 days after any cytoreductive/myelosuppressive chemotherapy was last administered
+Participants must be planning to receive or have received autologous stem cell transplantation; participants may enroll prior to ASCT, but will not be eligible to begin treatment until after ASCT, and must fulfill all inclusion and exclusion criteria at that time; ASCT will be performed according to institutional standards and is not a part of this study
+No more than 1 line of anthracycline-containing chemotherapy prior to ASCT, and no more than 3 lines of therapy total prior to ASCT for arms A and B; no more than 1 line of therapy prior to ASCT for arm C
+Participants must begin study treatment no later than 21 days from the post-ASCT discharge; additionally, they must have recovered from ASCT toxicities at the time of first study treatment; recovery from ASCT toxicity is defined using the eligibility criteria in this section, as well as outpatient status, ability to drink and eat normally, without the need for intravenous hydration; participants must be no later than 60 days from stem cell reinfusion; exceptions to these time frames may be made in discussion with the overall principal investigator (PI) and will not constitute study violations
+Must have not received post-ASCT consolidation therapy.
+Double (tandem) ASCT.
+Relapsed or refractory after an autologous stem cell transplant (ASCT) or at least two prior multi-agent chemotherapy regimens in patients not candidates for ASCT
+Must not be a candidate for autologous stem cell transplant (ASCT), has declined the option of ASCT, or has relapsed after prior ASCT
+Suitable and interested to proceed to ASCT
+Patients whose primary therapy was changed due to suboptimal response of toxicity will be eligible, however no more than 2 regimens will be allowed prior to ASCT
+Dasatinib use prior to ASCT is allowed
+Patients who have evidence of disease progression before day 100 after ASCT
+Prior peripheral ASCT within 12 weeks of C1D1
+If not previously transplanted, patient should be either ineligible for autologous stem cell transplant (ASCT), or must have declined the option of ASCT; patients who have previously had ASCT and have subsequently progressed are eligible, provided other entry criteria are met
+Patient must have undergone ASCT between 60 and 90 days prior to study registration
+Patient who shows evidence of progressive disease during salvage chemotherapy or following ASCT
+Patients with HL who have received ASCT in the previous 30-45 days
+Patients at high risk of residual HL post ASCT
+Patients who were determined to have a best clinical response of progressive disease with salvage treatment immediately prior to ASCT
+Post ASCT or current therapy with other systemic anti-neoplastic or investigational agents
+Subject is eligible for and plans to undergo ASCT
+ASCT within 4 weeks (i.e., ASCT is allowed if it occurred before enrollment in Study NEOD001-201 or after completion of Study NEOD001-201 if it was at least 4 weeks before Month 1-Day 1 of this study)
+Subjects with prior ASCT or allogenic HCT. Subjects ineligible for available curative options after failing ASCT and have met the hematologic criteria are eligible to participate in this study. Subjects with prior allogenic HCT will be excluded.
+Refractory post-ASCT i. Disease progression or relapsed less than or equal to 12 months of ASCT (must have biopsy proven recurrence in relapsed subjects) ii. If salvage therapy is given post-ASCT, the subject must have had no response to or relapsed after the last line of therapy
+Eligible for ASCT
+Patient either is not a candidate for autologous stem cell transplant (ASCT), has declined the option of ASCT, or has relapsed after prior ASCT.
+Prior to enrollment on ANBL0032, a determination of mandatory disease staging must be performed (tumor imaging studies including computed tomography [CT] or magnetic resonance imaging [MRI], MIBG scan, and vanillylmandelic acid [VMA]/homovanillic acid [HVA]; bone marrow aspirates are required but biopsy may be omitted if negative prior to ASCT); this disease assessment is required for eligibility and should be done preferably within 2 weeks, but must be done within a maximum of 4 weeks before enrollment\r\n* For those with residual disease before radiotherapy, re-evaluation of irradiated residual tumors is preferably performed at the earliest 5 days after completing radiotherapy; patients with residual disease are eligible; biopsy is not required; patients who have biopsy proven residual disease after ASCT will be enrolled on Stratum 07\r\n* Patients must not have progressive disease at the time of study enrollment except for protocol specified bone marrow response and except for elevations of catecholamines as the only sign of disease in a patient who had normal catecholamines at pre-ASCT evaluation
+Patients must be enrolled before treatment begins; the date protocol therapy is projected to start must be no later than ten (10) calendar days after the date of study enrollment; patients should be enrolled preferably between day 56 and day 85 after peripheral blood stem cell (PBSC) infusion (day from 2nd stem cell infusion for tandem transplant); patients must be enrolled no later than day 200 after PBSC infusion; enrollment must occur after completion of radiotherapy, and after completion of tumor assessment post-ASCT and radiotherapy; informed consent should be obtained within 3 weeks pre-ASCT up to the time of registration
+For post autologous stem cell transplant (ASCT) patients, salvage therapy plus ASCT just prior to MDV9300 treatment must have resulted in a PR or stable disease;
+Scheduled to have high-dose chemotherapy and ASCT
+Treatment plan for HDC-ASCT
+Patients must have had histologic verification of malignancy at original diagnosis or relapse\r\n* Parts A & C: patients with recurrent or refractory solid tumors, without central nervous system (CNS) tumors or known CNS metastases, are eligible; note: CNS imaging for patients without a known history of CNS disease is only required if clinically indicated\r\n* Part B1: patients with relapsed or refractory neuroblastoma\r\n* Part B2: patients with relapsed or refractory osteosarcoma\r\n* Part B3: patients with relapsed or refractory rhabdomyosarcoma\r\n* Part B4: patients with relapsed or refractory Ewing sarcoma or peripheral primitive neuroectodermal tumor (PNET)\r\n* Part B5: patients with relapsed or refractory Hodgkin lymphoma\r\n* Part B6: patients with relapsed or refractory non-Hodgkin lymphoma\r\n* Part B7: patients with unresectable melanoma or metastatic melanoma or relapsed melanoma or refractory melanoma\r\n* Part B8: Patients with relapsed or refractory neuroblastoma (MIBG evaluable disease without Response Evaluation Criteria in Solid Tumors [RECIST] measurable lesion)\r\n* Once the dose-escalation portion of Part A is completed, cohorts that are open concurrently for eligible patients (including Parts B and C and potential pharmacokinetic [PK] expansion cohorts) may be selected at the treating physician’s discretion pending slot availability; in the event a disease group cohort in Part B is completed after the initial stage of Simon’s optimal two-stage design, for selected disease cohorts, a corresponding cohort in the same disease group for select disease types will be open in Part D:\r\n* Part D1: Patients with relapsed or refractory neuroblastoma\r\n* Part D2: Patients with relapsed or refractory osteosarcoma\r\n* Part D3: Patients with relapsed or refractory rhabdomyosarcoma\r\n* Part D4: Patients with relapsed or refractory Ewing sarcoma or peripheral PNET \r\n* Part D5: Patients with relapsed or refractory non-Hodgkin lymphoma\r\n* Part D6: Patients with relapsed or refractory neuroblastoma (MIBG evaluable disease without RECIST measurable lesion)\r\n* Part E3: Patients with relapsed or refractory rhabdomyosarcoma\r\n* Part E4: Patients with relapsed or refractory Ewing sarcoma or peripheral PNET
+Refractory cytopenia with unilineage dysplasia (RCUD) (includes refractory anemia (RA))
+Part B: Patients with relapsed or refractory neuroblastoma
+Part C: Patients with relapsed or refractory medulloblastoma or CNS PNET
+Part D: Patients with relapsed or refractory rhabdomyosarcoma
+Relapsed or relapsed/refractory multiple myeloma (MM) with progressive disease (PD) parameters according to International Myeloma Working Group (IMWG) criteria\r\n* Refractory is defined as experiencing less than minimal response to or PD within 60 days of the most recent line therapy\r\n* Relapsed is defined as patients requiring salvage therapy for PD who are not refractory to the most recent line of therapy
+Diagnosis of multiple myeloma (MM) with relapsed and/or refractory disease. Participants must have received at least 3 prior lines of therapy. Participants must have previously received all of the following therapies and must be refractory to the last line of therapy prior to entering the study:
+Subjects who have previously participated in Merck pivotal trial NCT02576977: Study of Pomalidomide and Low Dose Dexamethasone With or Without Pembrolizumab (MK-3475) in Refractory or Relapsed and Refractory Multiple Myeloma (RRMM) (MK-3475-183/KEYNOTE-183).
+Refractory to or relapsed after at least 1 prior treatment line.
+Relapsed or refractory disease, defined by failure to achieve a partial response within 6 months of initiation of therapy, or a 50% increase of baseline disease measurements after achieving a clinical response
+Confirmed diagnosis of a relapsed or refractory malignancy in 1 of 2 treatment groups:
+Diagnosis of relapsed or refractory lymphoid malignancy for which there are no available therapies.
+Pathologically confirmed relapsed or refractory lymphoma
+Confirmed evidence of relapse/disease progression from immediately prior MM therapy or relapsed and refractory to the immediately prior treatment; relapsed and refractory disease is defined as those who are non-responsive (< minimal response) on salvage therapy or experience disease progression within 60 days of last therapy in patients who have achieved an MR or better to previous therapy; relapsed disease is defined as previously treated myeloma that progresses and requires the initiation of salvage therapy but does not meet IMWG criteria for relapsed and refractory
+Diagnosis of one of the following:\r\n* Relapsed/refractory peripheral T-cell lymphoma of any subtype including mycosis fungoides and Sezary syndrome of advanced stage (IIB-IVB)\r\n** For the expansion cohort: patients must have biopsy-proven T-cell lymphoma and measurable disease\r\n* Relapsed/refractory DLBCL (up to 6 DLBCL patients are allowed in the dose-escalation portion of the study)\r\n* Relapsed/refractory Hodgkin lymphoma (HL)\r\n* Note: extracorporeal photopheresis is NOT considered a systemic therapy for this study
+Asparaginase refractory disease, defined by any one of the following:
+Relapsed and relapsed/refractory multiple myeloma requiring systemic therapy
+Relapsed or refractory to the most recently received therapy.
+All pts must have received prior lenalidomide therapy and been determined to be refractory, relapsed, or intolerant.
+For Daratumumab + lenalidomide + dexamethasone (D-Rd) regimen: relapsed or refractory disease
+Relapsed or refractory disease after at least 1 prior regimen, defined using the 2014 Lugano classification
+Patient must have disease that has either relapsed or is refractory to prior therap
+Part D only: Patients diagnosed with CLL who are intolerant to, or have disease that is relapsed/refractory after, at least two prior therapies
+Part F only: Patients with documented HTLV-1 infection and histologically or cytologically proven ATLL of any stage, and who are intolerant to, or have disease that is relapsed/refractory after, at least one prior therapy
+ALK+ ALCL: patients must have disease that has relapsed and or is refractory to prior therapy, which must have included a multiagent chemotherapy regimen including an anthracycline, if not contraindicated, and prior brentuximab; prior crizotinib or other ALK inhibitor therapy, while recommended, is not mandatory; patients must have relapsed following or be ineligible for, or refuse, autologous stem cell transplant
+MCL: patients must have disease that has relapsed and or is refractory to prior therapy, which must have included a multiagent chemotherapy regimen and prior ibrutinib or other BTK inhibitor therapy; patients must have relapsed following or be ineligible for, or refuse, autologous stem cell transplant
+BCL6+ DLBCL: patients must have disease that has relapsed and or is refractory to prior therapy, which must have included an anthracycline, if not contraindicated; patients must have relapsed following or be ineligible for, or refuse, autologous stem cell transplant
+INCLUSION - INFUSION: Any patient, regardless of age or sex, with measurable EBV-positive Hodgkin’s or non-Hodgkin’s lymphoma, (regardless of the histological subtype) or EBV (associated)-T/NK- or B cell lymphoproliferative disease\r\n* The first 3 patients enrolled will be adults; patients <18 years of age are eligible if those first 3 patients do not experience dose limiting toxicity considered to be primarily related to the EBVST or nivolumab\r\n* Patients with relapsed or refractory lymphoma who failed or are ineligible for an autologous hematopoietic cell transplantation are also eligible for this study; and\r\n* Hodgkin’s lymphoma patients in second relapse or first relapse and refractory to at least two lines of salvage chemotherapy including brentuximab vedotin or primary refractory disease after at least two lines therapy, or\r\n* Non- Hodgkin’s lymphoma patients in first relapse and/or refractory to at least one salvage chemotherapy or with primary refractory disease after at least two lines of therapy or in second or subsequent relapse, or\r\n* T/NK- or B lymphoproliferative disease in first relapse and/or refractory to at least one salvage chemotherapy or with primary refractory disease after at least two lines of therapy or in second or subsequent relapse
+TREATMENT INCLUSION: Diagnosis and clinical course falling into one of the following categories:\r\n* Hodgkin lymphoma refractory to second line chemotherapy; relapsed or progressive after high dose therapy/autologous stem cell transplantation; relapsed or progressive after treatment with brentuximab or a checkpoint inhibitor\r\n* Aggressive non-Hodgkin lymphoma refractory to second line chemotherapy; relapsed or progressive after high dose therapy/autologous stem cell transplantation\r\n* ALK-negative anaplastic T cell lymphoma or other peripheral T-cell lymphoma refractory to first line chemotherapy; relapsed after first line therapy (possibly including high dose therapy/autologous stem cell transplantation)\r\n* ALK-positive anaplastic T cell lymphoma refractory to second line therapy; relapsed after second line therapy
+Refractory (no prior CR/CMR) or relapsed (prior CMR) following front line treatment of standard multiagent chemotherapy containing an anthracycline AND an approved anti-CD20 agent. For subjects with refractory disease and who have received radiotherapy, PET positivity should be demonstrated no less than 6 weeks after the last dose of radiotherapy
+Histologically-confirmed relapsed or refractory CD20+ B-cell lymphoma of one of the following types, with documented disease progression or recurrence following the immediate prior therapy:
+For subjects with DLBCL, PMBCL, and Gr3b-FL: relapsed or refractory disease following at least 2 prior regimens or following an auto-HSCT
+The patient has confirmed relapsed or refractory MM
+Previous treatment with nelarabine for relapsed or refractory disease
+requiring treatment for relapsed or relapsed/refractory disease
+refractory to bortezomib
+Men and women, 18 years or older, with advanced, relapsed or refractory solid tumors, Multiple Myeloma (MM) or non-Hodgkin's lymphoma (NHL) in Part A. In Part B, relapsed or refractory CD20-positive NHL subjects only.
+AML relapsed or refractory to prior therapy, or ? 60 years of age and not a candidate for other therapies Phase 2a:
+Patients must have relapsed or refractory disease following at least two prior platinumcontaining chemotherapy regimens
+Patients with T-cell lymphoma (untreated, relapsed or refractory) (Phase II)
+Patients with previously untreated or relapsed/refractory disease will be eligible
+Participants must have a diagnosis of acute lymphoblastic leukemia and disease meets at least one of the following criteria:\r\n* Relapsed or refractory to chemotherapy as defined by ? 5% leukemic blasts in the bone marrow\r\n* Relapsed after hematopoietic stem cell transplantation (HSCT)
+Relapsed, relapsed and refractory or refractory multiple myeloma patients who have received > 3 prior lines of therapy including a proteasome inhibitor, an immunomodulatory agent, and an anti-CD28 monoclonal antibody
+History of refractory systemic infection.
+Patients must have histologic evidence of relapsed or refractory B-cell ALL
+Patient must have relapsed/refractory disease with an indication for treatment
+Osteosarcoma cohort only: Subjects with osteosarcomas must have relapsed or become refractory to conventional therapy and have received a regimen including some combination of high-dose methotrexate, doxorubicin, cisplatin, and/or ifosfamide.
+Patients must be either refractory to or relapsed after 1 line of therapy
+Relapsed or relapsed/refractory disease
+Subjects must have relapsed/refractory DLBCL or relapsed/refractory FL\r\n* For DLBCL, patients must have relapsed after, declined, or considered ineligible for high-dose chemotherapy and autologous stem cell transplantation\r\n* For FL, in addition to relapsed/refractory disease status, patients must have received therapy with CD20 antibody-directed therapy, and must have an indication for treatment; FL eligibility also requires patients have no standard options with curative potential, nor options with more favorable risk/benefit ratio in the judgment of the investigator
+Relapsed or refractory B-precursor ALL defined as one of the following:
+Relapsed or refractory disease after first or later salvage therapy
+Must have biopsy-proven primary refractory disease or relapsed disease after front-line chemo-immunotherapy (with anti-CD20 monoclonal antibody [mAb]) in combination with anthracycline-based chemotherapy) or at least one of the following\r\n* For subjects with DLBCL: relapsed or refractory disease after ? 2 prior line(s) of therapy; for both de novo and transformed disease, patients must have received at least 1 prior regimen with anti-CD20 mAb and anthracycline\r\n* For subjects with FL or SLL: relapsed or refractory disease after ? 2 prior line(s) of therapy\r\n* For subjects with CLL: must be relapsed or refractory disease and\r\n** with no unfavorable cytogenetics and have failed ? 3 prior line(s) of therapy\r\n** with unfavorable cytogenetics including del17p/mutated p53 or unmutated immunoglobulin heavy chain variable region relapsed or refractory disease after ? 2 prior line(s) of therapy which must have included ibrutinib\r\n* For subjects with MCL: relapsed or refractory disease after at least 1 prior regimen with chemoimmunotherapy\r\n* For subjects with Burkitt’s: relapsed or refractory disease after at least 1 prior line of therapy\r\n* Any patient, with subtypes listed above, having either failed autologous HSCT after at least 1 prior regimen, or those patients ineligible for, but not an appropriate candidate, or not consenting to autologous HSCT
+Relapsed or refractory after at least one prior treatment regimen
+Patients must have relapsed (first or greater relapse) or refractory T-cell acute lymphoblastic leukemia (T-ALL) with: \r\n* Relapsed T-ALL with an M2 (blasts >= 5 to =< 25%) or M3 (> 25% blasts) marrow with or without an extramedullary site of relapse; including central nervous system (CNS) 2 OR\r\n* Refractory disease after induction failure of newly diagnosed patients OR no more than two more cycles of therapy OR\r\n* Refractory disease with no more than one prior salvage attempt following the current relapse
+AML that is refractory to or relapsed after standard induction therapy.
+Disease status defined as refractory to or relapsed after >=1 prior treatment lines.
+Relapsed and/or refractory myeloma; there is no minimum or maximum number of previous therapies that a patient may have received previously before being put on the current trial
+Relapsed/refractory disease, or inadequate response to at least 6 cycles of hypomethylating therapy. Subjects must not have received any MDS or MAL directed therapy for >28 days prior to receiving the study treatment.
+Relapsed or refractory AML, who require salvage therapy
+Relapsed and/or refractory disease on at least 1 prior treatment regimen, as follows:\r\n* Aggressive B-cell lymphoma: relapsed after and/or refractory to at least 1 prior doxorubicin-containing regimen\r\n* Indolent B-cell lymphoma: relapsed after and/or refractory to at least 1 prior rituximab-containing regimen
+Pathologically confirmed stage IV unresectable relapsed, or unresectable refractory abdominal neuroendocrine tumor from the last biopsy available which may be the initial diagnostic biopsy; relapsed disease is defined as progressive disease following systematic therapy with lanreotide or equivalent and either sunitinib or everolimus or both; refractory disease is defined as disease not responding to or having progressed within 1 month of the last dose of most recent systemic therapy to include lanreotide or an analog and either sunitinib or everolimus; (Note, small cell carcinoma and large cell undifferentiated neuroendocrine tumors will be excluded from this trial)
+for subjects with DLBCL, PMBCL, and Gr3b-FL: relapsed or refractory disease following at least 2 prior regimens or following an auto-HSCT
+Patients >= 18 years of age with relapsed/refractory Ph-positive ALL.
+For patients with refractory disease they must be at least 4 weeks out from most recent therapeutic intervention
+Diagnosis of R/R B-cell NHL or ALL as defined below:\r\n* Relapsed or refractory B-cell NHL meeting all of the following criteria:\r\n** Diffuse large B-cell lymphoma (DLBCL), not otherwise specified (NOS); high grade B cell lymphoma with MYC and BCL2 and/or BCL6 rearrangements; LBCL transformed from any indolent histology; or primary mediastinal B-cell lymphoma (PMBCL)\r\n** Prior treatment with an anthracycline and rituximab or another CD20-targeted agent (unless the disease is CD20-negative); transformed DLBCL (tDLBCL) must have failed treatment for DLBCL\r\n** At least one of the following:\r\n*** Refractory disease after frontline chemo-immunotherapy\r\n*** Not eligible for autologous hematopoietic stem cell transplant (auto-HSCT)\r\n*** Relapsed or refractory disease after at least 2 lines of therapy or after auto-HSCT\r\n*** Relapsed or refractory disease after allogeneic hematopoietic stem cell transplant (allo-HSCT)\r\n* Relapsed or refractory B-cell ALL (patients with Burkitt’s lymphoma/leukemia are not eligible)\r\n* All B-ALL patients must have detectable disease by morphology, flow cytometry, cytogenetic analysis (e.g. polymerase chain reaction [PCR], fluorescence in situ hybridization [FISH], karyotyping) or imaging (positron emission tomography [PET]-computed tomography [CT])\r\n** Refractory: failure to achieve complete response (CR) (minimal residual disease [MRD]-negative) at the end of induction\r\n** Relapsed: recurrence of disease after achieving CR
+Patients must have CD19+ B cell malignancy with relapsed or refractory disease, defined as below:\r\n* Patients with chronic lymphocytic leukemia (CLL):\r\n** Refractory to or relapsed after at least 2 prior chemo or chemoimmunotherapy (e.g. fludarabine, cyclophosphamide, rituximab [FCR], bendamustine plus rituximab [BR]) requiring further treatment \r\n** Refractory to or relapsed after at least 1 prior biologic agent (e.g. ibrutinib, idelalisib, venetoclax, except a single agent anti-CD20 monoclonal antibody) requiring further treatment\r\n* Patients with indolent non-Hodgkin lymphoma (iNHL) (follicular lymphoma [FL], marginal zone lymphoma [MZL], Waldenstrom macroglobulinemia [WM]):\r\n** Refractory or relapsed after at least 2 lines of chemoimmunotherapy (including at least one course of anti-CD20 antibody)\r\n** Refractory or relapsed after at least 1 prior biologic agent (e.g. lenalidomide, ibrutinib, idelalisib)\r\n** Patients must have measurable disease (for WM patients, measurable disease is demonstrable monoclonal paraprotein and bone marrow involvement)\r\n* Patients with diffuse large B cell lymphoma (DLBCL), transformed B cell lymphoma, or high grade B cell lymphoma:\r\n** Refractory to or relapsed after 1 or more prior chemoimmunotherapies with at least one containing an anthracycline and CD20 directed therapy\r\n** Transplant ineligible\r\n** Biopsy proven relapsed disease\r\n* Patients with acute lymphoblastic leukemia (ALL), chronic myeloid leukemia (CML) in lymphoid blast crisis or Burkitt‘s lymphoma:\r\n** Refractory to at least 1 prior induction chemotherapy\r\n** Relapsed after at least 1 prior multiagent systemic chemotherapy that included induction and consolidation\r\n** Patients with Philadelphia chromosome-positive ALL must have failed a second generation tyrosine kinase inhibitor
+Diagnosis of relapsed/refractory advanced malignancies; specifically:\r\n* Patients relapsed refractory acute myeloid leukemia that have failed at least one line of prior therapy, \r\n* Patients with myelodysplastic syndrome that have failed hypomethylating agents, \r\n* Patients with myelofibrosis that have failed or are ineligible to receive ruxolitinib\r\n* Patients that have myelofibrosis on maximal tolerated doses of ruxolitinib, who are unable to discontinue ruxolitinib, are eligible if;\r\n** They have been on stable dose for 1 month and continue to have residual symptoms, splenomegaly or inadequately controlled blood counts
+Have relapsed, refractory, or progressive disease following last line of treatment
+Relapsed or refractory disease after first-line chemoimmunotherapy
+Relapsed or refractory B-cell NHL, including
+Refractory to or relapsed after at least two prior standard therapeutic regimens for advanced/metastatic TNBC. Prior use of cisplatin (or carboplatin) is permitted.
+Patients must have relapsed or refractory cancers for which there is no known curative option
+Evidence that the endometrial cancer is advanced, recurrent, or persistent and has relapsed or is refractory to curative therapy or established treatments.
+Part A: Relapsed or refractory extracranial solid tumors and (Phase 1b expansion) relapsed or refractory extracranial solid tumors with molecular alterations, non-gene fusions;
+Part C: Relapsed or refractory neuroblastoma;
+Patient must be either refractory to or relapsed after 1 line of therapy; prior radiation therapy is allowed
+Patients must be either refractory to or relapsed after 1 line of therapy; exception: in the expansion cohort only, no BV refractory patients will be allowed
+Relapsed/refractory disease
+with relapsed or refractory disease without established alternative therapy or
+Subjects must have a histologically determined B cell NHL subtype as defined in the bullets below. In addition, they must have disease that is primary refractory after initial therapy or have relapsed disease.
+Relapsed within 1 year of first response
+History of refractory systemic infection
+Subjects with acute myeloid leukemia (AML) should have failed any prior induction therapy regimen or have relapsed after prior therapy (defined as patients in first relapse and less than 12 months from diagnosis [short first remission] or in second or later relapse; refractory defined as failure to achieve complete response [CR] to standard induction therapy, such as \7 and 3\, high dose ara-C-containing regimen or a hypomethylating agent): dose-escalation phase: subjects with confirmed relapsed or refractory AML and no available treatment options with known benefit; expansion phase: subjects with relapsed/refractory AML who have failed therapy with up to one prior salvage regimen and no available treatment options with known benefit; exception: stem cell transplant (SCT) or stem cell therapy for subjects who previously underwent SCT/stem cell therapy, and are currently in remission will not be considered a salvage regimen
+PHASES 1 AND 2: patient participants with AML that has relapsed after, or is refractory to, first-line therapy, with or without subsequent additional therapy, and are currently considered unfit for, or unlikely to respond to, cytotoxic chemotherapy
+Disease status defined as:\r\n* Patients with relapsed or refractory DLBCL that has relapsed post-transplant or that has been determined to be ineligible or unsuitable for transplant; patients must have to have received at least one prior systemic therapy
+Patients with relapsed/refractory stage IIB-IV cutaneous T cell lymphoma who have received at least one standard systemic treatment such as extracorporeal photopheresis, bexarotene, or interferon
+Relapsed, refractory, or recurrent malignancy; all solid tumor diagnoses will be eligible
+Patients must be either refractory to or relapsed after 1 line of therapy
+Patient must be either refractory to or relapsed after 1 line of therapy
+All patients with histologically or cytologically confirmed relapsed or refractory AML (except acute promyelocytic leukemia); relapsed disease or refractory (refractory to a non-high-dose cytarabine-containing regimen only); receiving 1st, 2nd or 3rd salvage; any cytogenetic or molecular abnormality; patients with secondary AML (after prior myelodysplasia or therapy for other cancers) will be included
+Patients must meet one of the following disease criteria within 24 months of registration; salvage therapy is allowed between the patient meeting one of the below criterion and registration; patients will be considered eligible regardless of their current disease status (i.e. complete remission, partial remission, stable disease, progressive disease) unless otherwise noted below as long as one of the below criterion has been met within the previous 24 months :\r\n* Relapsed/refractory Hodgkin lymphoma after autologous stem cell transplant (ASCT)\r\n* Relapsed/refractory Hodgkin lymphoma, deemed ineligible for ASCT due to refractory disease\r\n* Relapsed/refractory diffuse large B cell lymphoma after ASCT (history of transformed lymphoma is acceptable); disease must be in at least complete remission or partial remission with the use of salvage therapy before study treatment commences\r\n* Relapsed/refractory diffuse large B cell lymphoma, deemed ineligible for ASCT due to refractory disease (history of transformed lymphoma is acceptable); disease must be in at least complete remission or partial remission with the use of salvage therapy before study treatment commences\r\n* Relapsed/refractory T cell lymphoma relapsed after at least 1 prior line of therapy\r\n* Relapsed/refractory follicular lymphoma relapsed after at least 1 prior line of therapy\r\n* Relapsed/refractory mantle cell lymphoma relapsed after at least 1 prior line of therapy\r\n* Relapsed/refractory small lymphocytic lymphoma/chronic lymphocytic leukemia relapsed after at least 1 prior line of therapy\r\n* Relapsed/refractory non-Hodgkin lymphoma, if not specified above, relapsed after at least 1 prior line of therapy
+Relapsed/refractory lymphoma after CTL019
+Participants who are either refractory to or relapsed within 90 days of receiving a regimen containing a cumulative dose of greater than or equal to (>/=) 18 g/m^2 of cytarabine
+Refractory to or relapsed after at least 1 prior treatment regimen
+Have relapsed or refractory MM after at least one line of therapy
+Relapsed disease after standard chemotherapy
+Patients with malignancy that is suspected or proven to have progressed, relapsed, or be persistent since progressive, relapsed or persistent malignancy documented since BMT
+PHASE II COMPONENT: The population will be restricted to relapsed/refractory sarcomas
+Must have relapsed or refractory acute lymphoblastic leukemia (ALL) or relapsed or refractory lymphoblastic lymphoma (LL). Refractory is defined as persistent disease after at least 2 courses of chemotherapy.
+Patients with recurrent/relapsed AA will be eligible for the trial as long as they were not previously refractory to hATG-based therapy and the relapse occurred > 3 months after response.
+DTC participants must be 131 iodine-refractory/ relapsed as defined by at least one of the following:
+Patients with previously treated B-cell ALL (relapsed and/or refractory after prior therapy)
+Relapsed/refractory disease that has failed conventional therapy and other therapies of higher priority
+Disease which has relapsed, or is refractory, following at least one line of therapy, with no therapy of higher priority available.
+Relapsed or refractory to no more than 1 course of a systemic therapy regimen and is incurable by either surgery or radiation.
+Burkitt’s or Burkitt-like leukemia/lymphoma, either previously untreated, or relapsed/refractory, or human immunodeficiency virus (HIV)-related; patients HIV positive will be described and reported separately or relapsed/refractory acute lymphoblastic leukemia (ALL)
+Refractory disease (i.e. less than a partial response to frontline therapy)
+Patients who are not candidates for, intolerant, or relapsed/refractory to ruxolitinib
+Refractory to or relapsed after at least 1 prior treatment regimen
+Relapsed/refractory MCL: Patient has relapsed and or refractory MCL and must have received at least one prior treatment regimen for their disease; patient with leukemia phase (peripheral blood involvement), leptomeningeal disease, cerebral spinal fluid (CSF) MCL, central nervous system (CNS) MCL, non-measurable disease, gastrointestinal (GI) MCL, or bone marrow (BM) MCL are also eligible
+Relapsed/refractory MCL: Patients with bone marrow or gastrointestinal (GI) only involvement are acceptable
+Relapsed/refractory MCL: The patient has a prior or concurrent malignancy that in the opinion of the investigator, presents a greater risk to the patient’s health and survival, than of the MCL, within the subsequent 6 months at the time of consent
+Relapsed/refractory MCL: Prior treatment with ibrutinib
+Relapsed or refractory AML
+Relapsed or refractory to the most recently received therapy; refractory disease is defined as =< 25% response or progression during therapy or within 60 days after completion
+Relapsed/refractory to at least one prior standard systemic treatment regimen, but no more than 4.
+Refractory or relapsed and refractory multiple myeloma
+Subject has measurable disease according to RECIST v1.1 and has relapsed or is refractory to prior therapy.
+Relapsed disease
+Primarily refractory or relapsed disease
+Relapsed ALL PATIENT CHARACTERISTICS:
+Patients with relapsed disease are eligible if they have had no more than one prior therapy
+Biopsy-proven relapsed or refractory lymphomas; relapsed is defined as a relapse that occurred after having a response to the last therapy that lasted > 6 months; refractory is no response or relapse within 6 months; previous biopsies < 6 months prior to treatment on this protocol will be acceptable\r\n* NOTE: Arms A/B – relapsed or refractory DLBCL within 24 months from the end of anthracycline-based therapy; no prior salvage therapy; patients can have received radiation therapy as part of initial treatment but not specifically for relapse\r\n* NOTE: Arm C patients include relapsed lymphoma patients of any type, other than those eligible for Arms A/B, for which the recommended treatment includes one of the platinum-based regimens; of note, relapsed double-hit high grade lymphoma patients and relapsed Hodgkin lymphoma patients will be enrolled in Arm C; there is no limit on the number of prior therapies for Arm C patients; the patient must be eligible for a platinum-based regimen and must not have received the same regimen in the past without responding
+Patients with relapsed/refractory CMML.
+Refractory to or relapsed after at least 1 prior treatment regimen
+Refractory to first or later treatment, or
+Pathologically confirmed relapsed or refractory (primary refractory and relapsed refractory) Acute Myeloid Leukemia (AML) (defined by World Health Organization (WHO) criteria) for which no further conventional therapy is suitable for the patient, or confirmed myelodysplastic syndrome defined according to WHO classification, with an International Prognostic Scoring System (IPSS) risk category of intermediate-2 or high risk, that is relapsed, refractory or intolerant to conventional therapy within 3 weeks of registration.
+Patient must have a diagnosis of multiple myeloma and have relapsed or relapsed/refractory disease.
+Histologically or cytologically confirmed diagnosis of multiple myeloma that is relapsed or relapsed-and-refractory after at least 2 or more prior lines of therapy. Patients must have achieved at least minor response (MR) to at least one prior line of therapy
+Histological diagnosis of relapsed or refractory classical HL
+Subjects must be primary refractory or relapsed to 1st line intensive treatment for AML or refractory or relapsed after second line of treatment for AML
+Relapsed/refractory disease
+The subject must have precursor B-cell or T-cell acute lymphoblastic leukemia. B-cell: relapsed or refractory after first or subsequent salvage therapy; or T-cell: relapsed or refractory with first remission duration less than or equal to 12 months in first salvage; or relapsed or refractory after first or subsequent salvage therapy
+Patients with T cell and natural killer (NK) cell lymphomas must be refractory to, be intolerant of, have relapsed following, or have refused all standard life-prolonging therapies
+Subjects with myeloma that is relapsed and/or refractory to KRd when used in combination defined as progression of disease while on therapy or within 60 days of completing therapy
+Patients must have disease refractory to standard therapy or recurrent malignancy; patient’s current disease state must be one for which no known curative therapy is available; to be eligible for phase I study patients should have primary refractory or relapsed disease as evidenced by either:\r\n* Local or/and metastatic tumor recurrence or primary refractory tumor measurable on CT or magnetic resonance imaging (MRI) scans\r\n* Refractory persistent bone marrow disease with evidence of NB involvement of bone marrow in at least one site of biopsy\r\n* NB with metaiodobenzylguanidine (MIBG)-positive skeletal lesions (at least one site)\r\n* For sarcoma patients with resected pulmonary lesions pre-surgery CT scans demonstrating disease are required
+Diagnosis of relapsed or refractory AML and not candidate for standard consolidation treatment after daunorubicin and cytosine arabinoside OR diagnosis of APL relapsed after tretinoin (ATRA) and arsenic trioxide therapy or APL with persisting or rising blasts, and no other comparable or satisfactory alternative therapy available (including patients not eligible for, or who have access to, investigational therapies via a clinical trial)
+Patients with relapsed/refractory CLL defined as having received ?2 treatment regimens that included:
+Phase I: Pathologically confirmed relapsed or refractory B cell lymphoma; must have relapsed after initial therapy; no restriction in number of prior lines of therapy
+Phase II: Pathologically confirmed relapsed or refractory HL; no restriction in number of prior lines of therapy
+Participant has a hematologic malignancy that is positive for MLLr as determined by fluorescent in situ hybridization (FISH) or reverse transcriptase (RT)-PCR, and disease meets at least one of the following criteria:\r\n* Relapsed after or is refractory to chemotherapy\r\n* Relapsed after hematopoietic stem cell transplantation (HSCT)\r\n* Relapsed or refractory secondary leukemia\r\n** Relapse is defined as reappearance of leukemia cells after the attainment of complete remission and refractory is defined as >= 5% blasts at the end of induction; patients that achieved MRD negative status followed by reappearance of blasts at less than 5% are eligible
+AML has relapsed after, or is refractory to, first-line therapy, with or without additional subsequent therapy
+Relapsed or refractory after at least 1 front-line therapy
+Biopsy proven WM with relapsed/refractory symptomatic disease are eligible for\n             enrollment.
+Medulloblastoma or PNET of childhood that has relapsed or become refractory to standard chemotherapy; patients with pineoblastoma are eligible
+* Phase 2 (Part B): Patients with ALK+ relapsed or refractory neuroblastoma
+* Phase 2 (Part C): Patients with ALK+ relapsed or refractory ALCL (excluding patients with primary cutaneous ALCL)
+Relapsed, refractory, or progressive disease following at least 2 prior systemic therapies
+Part B: Diagnosis of MM with relapsed or refractory disease with previous exposure to PI (e.g., bortezomib or carfilzomib), IMiDs (e.g., lenalidomide or pomalidomide), and daratumumab, and refractory (based on IMWG criteria) to their last line of therapy
+Portion B: Histological confirmed relapsed or refractory CD20 positive NHL for which no curative therapy is available. Patients enrolled in the expansion cohort must have archival tissue available, sampled within 6 months of study entry. The Expansion cohort includes patients with FL or DLBCL with relapsed or refractory disease.
+Relapsed or refractory Richter syndrome and has received ?1 previous treatment for RS.
+Phase 2 expansion: Relapsed or refractory DLBCL
+Relapsed or refractory pediatric B-cell ALL:
+Has evidence of persistent or recurrent AML in the peripheral blood and/or bone marrow that is refractory to, or has relapsed from, their most recent prior line of treatment.
+Has evidence of persistent or recurrent AML in the peripheral blood and/or bone marrow that is refractory to, or has relapsed from, their most recent prior line of treatment.
+Must be relapsed or refractory after 1 or 2 prior therapies. For this protocol, relapsed is defined as progressive disease (PD) documented more than 60 days after last dose; refractory is defined as documented absence of hematologic response or hematologic progression on or within 60 days after last dose of prior therapy.
+Relapsed or relapsed and refractory MM after receiving at least 2 previous therapies, including an immunomodulator and bortezomib and had either no response or documented disease progression (according to IMWG criteria) to the most recent treatment regimen
+T-ALL or T-LBL participants with relapsed/refractory disease.
+Relapsed or refractory pediatric B-cell ALL.
+For relapsed/refractory subjects only:
+Subjects age ? 18 years with relapsed or refractory AML after ? 2 prior induction regimens, at least one containing anthracyclines
+Documented refractory or relapsed and refractory multiple myeloma
+Relapsed and refractory patients must have achieved at least a partial response to previous treatment with proteosome inhibitor or lenalidomide, or both, but progressed within 6 months, and were refractory to their last treatment
+Refractory to or relapsed after at least 1 prior treatment line.
+Follicular low-grade NHL: either treatment naïve (except for France) or relapsed or refractory following at least one prior treatment. In Part 1 Dose Escalation only, in addition to follicular NHL, marginal zone B cell lymphomas: either treatment naïve or relapsed or refractory following at least one prior treatment.
+Histologically documented, CD20-positive, relapsed or refractory (defined as having relapsed within 6 months to the previous treatment) FL or DLBCL (including primary mediastinal large B-cell lymphoma [PMLBCL])
+Male or female patients, ages 18 years or older with pathologically confirmed relapsed or refractory B-cell lineage NHL who have failed or are intolerant to established therapy, or for whom no other treatment options are available. Refractory or relapsed B-cell NHL (per World health Organization [WHO] Classification system)
+Must have a documented diagnosis of MM and have relapsed or relapsed-and-refractory disease. All patients must have relapsed after having achieved at least stable disease (SD) for at least 1 cycle of treatment to at least 1 prior regimen and then developed progressive disease (PD). Relapsed-and-refractory patients also have documented evidence of PD during or within 60 days of completing last treatment
+relapsed and/or refractory disease
+Patient has a diagnosis of multiple myeloma with documented relapsed and/or relapsed-refractory disease
+have MCL that relapsed after or is refractory to (a) first-line combination chemotherapy with or without stem cell transplant and (b) at least 1 other locally available therapy
+Subject who has documented active relapsed or refractory disease requiring therapeutic intervention.
+Treatment Naive MCL patients requiring treatment with no exposure to prior therapies. Relapsed/Refractory patients defined as disease relapsed or been refractory to ? 1 prior therapies for MCL and requiring further treatment. Patient who discontinued any prior treatment for MCL for tolerability reasons can also be enrolled.
+Subjects must have received prior treatment with a lenalidomide-containing regimen for at least 2 consecutive cycles (full therapeutic dose) and must have been deemed as relapsed, refractory, or intolerant. Refractory is defined as progressing on-treatment or within 60 days of the last dose.
+Relapsed or refractory with at least one (FL) or two (MCL), but not more than four, prior lines of antineoplastic regimens.
+For participants enrolled in the safety run-in phase: lymphoma classified as either relapsed or refractory FL after treatment with at least one prior chemoimmunotherapy regimen or previously untreated Grade 1, 2, or 3a FL that requires treatment
+Relapsed, refractory or previously untreated CLL
+For relapsed disease:
+Patients with relapsed or refractory AML\r\n* Patients without a response after two cycles of a 10-day course of decitabine\r\n* Patients with primary refractory AML (persistent disease after standard induction with 7+3) or relapsed AML\r\n* Patients who have relapsed post-allogeneic transplant
+Documented relapsed, refractory or progressive disease after treatment with systemic therapy and must not be Rituximab-refractory.
+Need of treatment for relapsed, progressed or refractory disease as assessed by the investigator.
+Part I: Subjects must have relapsed or refractory B cell NHL
+Relapse or refractory disease after at least 1 systemic therapy
+Dose Escalation: Patients with relapsed or refractory AML
+Have active, relapsed or refractory Acute Myeloid Leukemia (AML). Active, relapsed or refractory AML is defined as either (1) primary induction failure (PIF) after 2 or more cycles of chemotherapy, (2 first early relapse after a remission duration of fewer than 6 months, (3) relapse refractory to salvage combination chemotherapy containing high-dose AraC, and (4) second or subsequent relapse
+Patients refractory to ublituximab + TGR-1202
+Relapsed or refractory B-precursor ALL defined as one of the following:
+Relapsed or refractory disease after first or later salvage therapy
+Relapsed or refractory CLL patients must meet the following requirements:\r\n* Received at least 1 prior therapy\r\n* Require treatment in the opinion of the investigator\r\n* Relapsed patients must have developed progressive disease following a response to a prior therapy\r\n* Refractory patients must have failed to respond or relapsed within 6 months to the last prior therapy
+Histologically confirmed AML (defined using World Health Organization [WHO] criteria) with one of the following:\r\n* Primary refractory disease following =< 2 cycles of induction chemotherapy, or\r\n* First relapse with no prior unsuccessful salvage chemotherapy, or\r\n* Relapsed or refractory to hypomethylating agent, defined as a lack of response, disease progression, loss of response, or intolerance as deemed by the study investigator
+Relapsed refractory disease after at least 1 but not more than 4 lines of previous systemic therapy
+Patients must have relapsed/refractory PCNSL or relapsed/refractory SCNSL
+Active refractory or relapsed acute leukemia
+Patients with relapsed and refractory multiple myeloma who have received at least 2 prior therapies, which must include lenalidomide and a proteasome inhibitor; patients must have disease refractory to the most recent therapy; refractory myeloma is defined as progressive disease during or within 60 days of last therapy; patients must have previously received or be ineligible for (or refused) autologous stem cell transplant
+Patient has relapsed or relapsed/refractory multiple myeloma (MM);\r\n* Relapsed is defined as the development of disease progression following the achievement of stable disease (SD) or better to the most recent anti-MM regimen\r\n* Refractory is defined as experiencing less than a partial response (PR) to or progressive disease (PD) within 6 months after completion of the most recent anti-MM regimen
+Subject has relapsed/refractory disease with an indication for treatment
+Patients must have a diagnosis of relapsed or relapsed and refractory multiple myeloma with a minimum of one prior regimen and a maximum of 5 prior regimens
+Relapsed or refractory disease
+Patients with relapsed or refractory AML
+Relapsed after, or refractory to, prior BTK inhibitor therapy.
+Multiple myeloma that is primary refractory or relapsed and refractory after at least 2 lines of standard for multiple myeloma including: a. > 2 consecutive cycles of both bortezomib and lenalidomide or thalidomide (alone or in combination) i. Patients who received bortezomib as their last therapy who were not refractory but developed bortezomib intolerance, as defined by the development of Grade 2 peripheral neuropathy with pain or > Grade 3 peripheral neuropathy after ? 2 consecutive cycles, are eligible b. Adequate alkylator therapy defined as: i. High-dose melphalan or other alkylating agent as conditioning for autologous or allogeneic stem cell transplant (SCT), or ii. ? 6 cycles of induction therapy, or iii. PD after ? 2 cycles
+Patients must have relapsed or refractory disease following frontline chemotherapy; no upper limit for the number of prior therapies; patients may have relapsed after prior autologous or allogeneic stem cell transplant
+Must have a documented diagnosis of multiple myeloma and have relapsed-and-refractory disease. Patients must have received at least 2 lines of prior therapies. Patients must have relapsed after having achieved at least stable disease (SD) for at least one cycle of treatment to at least one prior regimen and then developed progressive disease (PD). Patients must also have documented evidence of PD during or within 60 days (measured from the end of the last cycle) of completing treatment with the last anti-myeloma drug regimen used just prior to study entry (refractory disease)
+Disease that has relapsed or was refractory after prior chemo-immunotherapy
+Patients must have relapsed or relapsed and refractory disease after receiving 2 or more lines of therapy\r\n* Relapse is the occurrence of any of the following: 1) > 25% increase in in myeloma protein (M-protein) from the baseline levels; 2) reappearance of M-protein that had disappeared; or 3) definite increase in the size and number of lytic bone lesions recognized on radiographs (compression fractures per se do not constitute a relapse)\r\n* Subjects will be considered refractory to therapy, as defined by progression during treatment or within 60 days after the completion of salvage treatment; subjects with primary refractory disease, defined as disease that is non-responsive in patients that have never achieved a minor response or better with any therapy are excluded; this includes: 1) non-responding, non-progressing; patients who never achieve minor response (MR) or better in whom there is no significant change in M protein and no evidence of clinical progression; and 2) progressive; primary refractory, progressive disease where patients meet criteria for true progressive disease
+Histologically documented relapsed or refractory (defined as having relapsed within 6 months to the previous treatment) follicular lymphoma grade I-IIIA
+Histologically or cytologically proven SCLC that has relapsed or been refractory after at least one line of chemotherapy
+Refractory to or relapsed after at least 1 prior treatment regimen;
+Patients must have either (1) refractory or relapsed high-risk NB (including n-myc proto-oncogene [MYCN]-amplified stage 2/3/4/4S of any age and MYCN-non amplified stage 4 in patients greater than 18 months of age) resistant to standard therapy, or (2) refractory or relapsed GD2-positive tumor after receiving available life-prolonging therapies
+Relapsed or refractory after ? 2 prior lines of therapy (refractory defined as not responding to a standard regimen or progressing within 6 months of the last course of a standard regimen). Patients must have received Rituximab and alkylating agents.
+Relapsed or relapsed/refractory progressive Multiple Myeloma
+Relapsed or Relapsed/Refractory MM with progressive disease (PD) according to IMWG.
+Was refractory to lenalidomide or proteasome inhibitor-based therapy at any line. NOTE: Refractory disease was defined as disease progression on treatment or progression within 60 days after the last dose of a given therapy. Participants who progressed after 60 days from the last dose of a given therapy were considered relapsed and were eligible for inclusion in the study. Participants who were refractory to thalidomide-based therapy were eligible.
+Patients must have relapsed or progressed after at least one prior therapy
+Patients with relapsed or refractory disease following stem cell transplantation are permitted
+Must have relapsed or refractory disease (refractory is defined as progression during treatment or within 60 days after the completion of treatment) requiring 2nd or 3rd line therapy
+Patient was not refractory
+Subjects must be relapsed/refractory. Prior stem cell transplantation is allowed.
+Chemo-refractory is defined as:
+B-cell CLL: Relapsed from or refractory to ? 2 prior lines of treatment, ? 1 of which must have contained rituximab
+Relapsed or refractory B-ALL, defined as:
+Subjects with histologically confirmed relapsed or treatment refractory AML with the exception of subjects who are in first relapse following a remission >12 months in duration and are eligible for standard therapies (e.g., chemotherapy or stem cell transplantation).
+Relapsed or refractory AML
+Relapsed or refractory to hypomethylating agents
+Relapsed/refractory disease failing >= 2 prior therapies; an exception is patients with KS, where patients can be previously untreated, relapsed/refractory to one or more prior therapies, or intolerant of a prior therapy
+Patients must have relapsed or refractory MCL
+have one of the following disease states: Acute Myeloid Leukemia (AML) (age <60 years) with relapsed/refractory disease; •Chronic Lymphocytic Leukemia (CLL) with relapsed disease following a fludarabine-based regimen or relapsed disease following an alkylator-based regimen
+Patients with previously treated ALL (relapsed and/or refractory after prior therapy); patients with relapsed/refractory biphenotypic leukemia expressing the appropriate antigen (CD22) are also eligible to participate; pediatric patients younger than 18 may be considered with sponsor approval once the MTD has been established in the adult population
+Patients must have progressive, relapsed or refractory disease after:\r\n* At least one prior systemic anti-lymphoma regimen (chemotherapy or immunotherapy except for transformed mycosis fungoides as described previously)\r\n* Relapsed or failed autologous or allogeneic stem cell transplant
+Subject must be either resistant to or intolerant of (ie., treatment failures) the last BCR PI and/or venetoclax. Resistant is defined as relapsed or refractory per
+Chemotherapy-refractory disease, defined as one of more of the following:
+Relapsed, refractory, or progressive disease following at least 2 prior systemic therapies
+Adults with pathologically confirmed, relapsed or refractory acute myelogenous leukemia OR those 70 and older who are not candidates for, or decline, conventional frontline chemotherapy
+Relapsed or refractory Primary Central Nervous System Lymphoma (PCNSL) demonstrated by cranial MRI.
+Patients must have relapsed or refractory disease following:
+Patients must have measurable disease according to RECIST 1.1, and have relapsed or become refractory to conventional therapy
+Relapsed/refractory MDS
+Diagnosis of AML or ALL, relapsed or refractory after at least 1 prior treatment regimen. Newly-diagnosed patients ? 60 years old who have refused or are considered unfit for standard chemotherapy regimens or stem cell transplantation are also eligible.
+Patients must have relapsed or relapsed and refractory multiple myeloma (MM) after at least three but not more than six prior therapeutic regimens for MM, including induction therapy and stem cell transplant in candidate patients, which will be considered as only one regimen.
+Participant’s disease has relapsed after, is refractory to induction and/or salvage therapy, or has relapsed after hematopoietic stem cell transplant (HSCT)
+Patients with relapsed/refractory AML regardless of cytogenetic risk
+Patients with relapsed/refractory ALL
+Patients may not have received any anti-cancer therapy for their primary relapsed (rel)/refractory (ref) DLBCL with the exception of palliative radiation therapy (RT)
+Patients must have measurable disease, documented by clinical, radiographic, or histologic criteria, and have relapsed or become refractory to conventional therapy
+Confirmed diagnosis of relapsed/refractory AML (WHO criteria) Refractory subjects, up to second consecutive salvage . Relapsed subjects including first and second relapse.
+Relapsed (progressed after prior response) or refractory (failed to achieve at least a partial response) to at least one prior therapy for amyloidosis.
+Relapsed, refractory, or progressive disease following at least 1 prior systemic therapy. Patients with DLBCL or follicular lymphoma Grade 3 must have also received intensive salvage therapy.
+Adult patients must be relapsed or refractory to at least 1 prior multi-agent systemic therapy. Pediatric patients must be relapsed or refractory to at least 2 prior multi-agent systemic therapies. Patients with acute lymphoblastic leukemia who are Philadelphia chromosome-positive must have failed a second generation tyrosine kinase inhibitor.
+Clinical diagnosis of relapsed/refractory B-cell Malignancies (B-Non-Hodgkins Lymphoma (NHL)) per International Workshop Group (IWG)
+Subjects in Expansion cohorts are restricted to relapsed/refractory diffuse large B-cell lymphoma (DLBCL) or Follicular Lymphoma (FL) subjects who are either relapsed or refractory to prior rituximab or ritxumab-containing chemotherapy regimens
+Refractory to the most recently received therapy; refractory disease is defined as =< 25% response or progression during therapy or within 60 days after completion of therapy
+Patients must have relapsed or refractory disease after ?1 prior line of treatment.
+Patient has relapsed or refractory disease and received at least one prior therapy.
+Patients with relapsed /refractory AML, ALL, or MLL with rearrangement of the MLL gene, including 11q23 or PTD, are eligible for the expanded cohort:
+Patient has relapsed or relapsed/refractory multiple myeloma (MM)\r\n* Relapsed is defined as the development of disease progression following the achievement of stable disease (SD) or better to the most recent anti-MM regimen\r\n* Refractory is defined as experiencing less than a partial response (PR) to or progressive disease (PD) within 6 months after completion of the most recent anti-MM regimen
+Patients with relapsed or refractory myeloma who have had >= 3 lines of prior therapy
+Histologically confirmed relapsed or refractory FL (Grades 1, 2, or 3a) or relapsed or refractory DLBCL
+B1: Refractory or relapsed neuroblastoma
+Relapsed/refractory, pathologically confirmed EBV+ lymphoid malignancy or lymphoproliferative disease
+Participants must have relapsed or refractory cancer.
+Part I: Patients with one of the following histologically- or cytologically-proven conditions: relapsed/refractory AML, relapsed/refractory MDS, or advanced CML in AP or BP (i.e., Acute Group patients).
+Arm A: Patients with AML who are 65 years of age or older with refractory or relapsed disease, or who have not received prior therapy but are not eligible to receive intensive frontline chemotherapy (i.e., Acute Group patients);
+Relapsed or refractory AML with poor prognostic features
+Participants diagnosed with any relapsed or refractory CD30+ hematologic malignancy (e.g., primary mediastinal B-cell lymphoma) may be included in phase 1 of the study
+Relapsed disease after standard 1st line therapy for aggressive lymphoma - not eligible for high dose chemotherapy with stem cell support. Relapsed or refractory disease after two lines of therapy one of which could have included Autologous Stem Cell Transplant (ASCT). Relapsed disease is defined as progression after a disease free interval of at least 6 months after completion of last therapy. Refractory is defined as progression of disease during prior therapy or within 6 months from its completion.
+Relapsed is defined as experiencing PD that requires therapy but which is not refractory following the achievement of stable disease (SD) or better to the most recent anti-MM regimen.
+Subjects must have either refractory or relapsed and refractory disease defined as documented disease progression during or within 60 days of completing their last myeloma therapy
+Previously treated relapsed or refractory B-cell iNHL
+Diagnosis of relapsed or refractory chronic lymphocytic leukaemia.
+Documentation of at least one line of prior myeloma therapy now with relapsed or refractory disease requiring re-treatment
+Patients with relapsed or refractory systemic ALCL who have previously received front line chemotherapy.
+Patients with relapsed/refractory AML regardless of cytogenetic risk
+Patients with relapsed/refractory ALL
+Patients with relapsed or persistent malignancy requiring immunosuppressive withdrawal or modulation (an example of this may be a patient who relapsed and was being treatment with DLI and then developed GvHD)
+Relapsed or refractory to the most recently received therapy. Relapsed is defined as documented evidence of PD after achieving at least SD for ? 1 cycle. Refractory disease is defined as ? 25% response (i.e., patients never achieved minimal response or better) or progression during therapy or within 60 days after completion of therapy.
+Relapsed/refractory myeloma
+Expected chronic thrombocytopenia in patients with relapsed or refractory hematological malignancies or;
+Relapsed/refractory disease within a prior radiation field
+Relapsed or refractory to greater than or equal to (>=) 2 prior lines of chemotherapy based on standard of care with certain requirements for prior therapy.
+Confirmed relapsed/refractory diagnosis of select hematologic malignancies for which no standard/salvage therapies are available.
+Phase II: Participants must have a diagnosis of AML and must have disease that has relapsed or is refractory to chemotherapy, or that has relapsed after hematopoietic stem cell transplantation (HSCT)\r\n* Refractory disease is defined as persistent disease after at least two courses of induction chemotherapy\r\n* Patients are eligible at first or subsequent relapse or any relapse that is refractory to salvage chemotherapy
+Subjects who have relapsed or refractory MDS.
+Participants who are refractory or relapsed after at least 1 prior line of therapy and for whom no effective standard therapy is available per the investigator's assessment.
+Patients must have relapsed/refractory PCNSL or relapsed/refractory SCNSL
+Patients with a relapsed and/or refractory underlying hematologic malignancy
+Disease Status: Refractory or first or multiple relapsed neuroblastoma, or medulloblastoma that has relapsed after, or is refractory to, a chemotherapy-containing treatment regimen.
+Subjects disease must have relapsed or be refractory to at least 2 prior lines of therapy. Previous therapy must have included a CD20-targeted agent and an anthracycline.
+Relapsed or is refractory to previous therapy, or
+Relapsed/persistent malignancy
+Relapsed/Refractory Cohorts: Pathologically confirmed relapsed or refractory (primary refractory and/or relapsed refractory) AML or confirmed intermediate, high, or very high risk MDS that is relapsed, refractory or intolerant to conventional therapy
+Patients are relapsed from or refractory to at least 1 previous line of therapy
+Patients must have had evidence of having relapsed, progressed or become refractory to conventional therapy
+Refractory or relapsed after at least 1 prior line of therapy for whom no effective standard therapy is available per investigator's assessment. • Participants who are either treatment-naive to, relapsed after, or refractory to ibrutinib, idelalisib, or any other investigational B cell receptor (BCR) pathway inhibitors not directly targeting spleen tyrosine kinase (SYK) are allowed.
+Participants who are relapsed after or refractory to regimens containing venetoclax or other BCL2 inhibitors.
+Chemotherapy-refractory disease, defined as one or more of the following:
+Patients with relapsed or refractory disease with no available standard therapy
+Previous diagnosis of multiple myeloma based on standard criteria; tests need not be performed within 30 days of registration
+Multiple myeloma diagnosed according to standard criteria either currently or at the time of initial diagnosis
+Adult male or female participants 18 years or older with a confirmed diagnosis of symptomatic newly diagnosed multiple myeloma (NDMM) according to standard criteria.
+Meeting the criteria for symptomatic multiple myeloma (hypercalcemia renal [kidney] impairment, anemia, bone lesions \[CRAB]” criteria) before the initiation of systemic chemotherapy
+Symptomatic multiple myeloma of any subtype in any disease stage, providing the patient does not have smoldering myeloma, and otherwise met standard criteria (hypercalcemia, renal dysfunction, anemia and/or bone lesions – CRAB criteria) for induction therapy
+Participants must have documented symptomatic myeloma, with organ damage related to myeloma as defined above with laboratory assessments
+Symptomatic multiple myeloma or any evidence of CRAB criteria including the new criteria for overt myeloma; any prior therapy for active myeloma should also be excluded; prior therapy for smoldering myeloma is not an exclusion criterion; bisphosphonates are not excluded
+Adult male or female participants 18 years or older with a confirmed diagnosis of symptomatic multiple myeloma according to standard criteria.
+Patients must have a diagnosis of myeloma (see Appendix A for diagnostic criteria).
+Male or female patients 18 years or older diagnosed with Multiple Myeloma according to standard criteria who have not received prior treatment
+Multiple myeloma diagnosed according to standard criteria either currently or at the time of initial diagnosis. NOTE: The initial diagnosis must have been symptomatic multiple myeloma, although the relapsed disease did not need to be symptomatic.
+Having symptomatic multiple myeloma, defined by any of the following (if due to myeloma): lytic bone lesions, severe osteopenia (low bone density), pathologic fractures, hypercalcemia (too much calcium in the blood), kidney insufficiency; symptomatic hyperviscosity of the blood, or recurrent serious bacterial infections such as pneumonia
+Patients meeting the criteria for symptomatic multiple myeloma (MM):\r\n* Lytic lesions on skeletal survey or\r\n* Plasmacytoma\r\nPatients meeting International Myeloma Working Group definition of symptomatic myeloma with symptoms only related to associated amyloidosis who would otherwise only meet the criteria for smoldering MM are potentially eligible
+Meets diagnostic criteria for symptomatic multiple myeloma
+Patients with multiple myeloma (MM) diagnosed according to standard criteria or patients with a diagnosis of an advanced malignant solid tumor for which standard, curative, or life prolonging treatment does not exist or is no longer effective. Patients with multiple myeloma must have had at least 1 prior therapy
+Symptomatic multiple myeloma or asymptomatic myeloma with myeloma-related organ damage diagnosed according to standard criteria
+Is diagnosed with symptomatic multiple myeloma or asymptomatic myeloma with myeloma-related organ damage according to standard criteria
+Previously untreated, symptomatic multiple myeloma as defined by the 3 criteria below:
+Clinically overt multiple myeloma (i.e. original hypercalcemia, renal failure, anemia, bone lesions [CRAB] criteria); Note: extent of marrow plasmacytosis is not prohibitive
+Histologically confirmed diagnosis of symptomatic multiple myeloma; relapsed disease is myeloma that has previously responded to prior therapy (MR or better) and subsequently progressed
+Participant has received previous multiple myeloma treatment as defined in the protocol for Part 1 and Part 2 of this study.
+Males or females with multiple myeloma who have exhausted available standard therapies.
+Anti-myeloma treatment within 2 weeks
+Participants must have relapsed or refractory (R/R) multiple myeloma (MM) for which no established therapy for MM is appropriate and available or be intolerant to those established therapies
+Patients with relapse/ refractory multiple myeloma
+Histologically confirmed Multiple Myeloma prior to enrolment and randomization.
+Histologically confirmed diagnosis of secretory multiple myeloma (must have measurable M protein in serum or urine) with at least one of the following:
+A prior diagnosis of multiple myeloma with documented disease progression requiring further treatment at time of screening
+Hematologic malignancies (including lymphoma, multiple myeloma)
+Patients must have a confirmed biopsy diagnosis of a multiple myeloma
+Diagnosis of multiple myeloma (MM) and documentation of treatment
+Histologically or cytologically confirmed multiple myeloma
+Myeloma specific therapy with a minimum of 3 cycles
+Cytopathologically or histologically confirmed dx of multiple myeloma
+Any prior therapy for symptomatic multiple myeloma or smoldering multiple myeloma should also be excluded, including prior use of IMIDs, proteasome inhibitors, or CD138 inhibitors; prior therapy for smoldering multiple myeloma with agents that are not therapeutically active against MM is not an exclusion criterion
+Is in need of additional myeloma therapy as determined by the investigator.
+Patients with high risk multiple myeloma (criterion 3a above) in very good partial response (VGPR) or better at the time of enrollment with at most 1 prior progression within 18 months from initiation of systemic anti-myeloma therapy, which may include single or planned tandem autologous HSCT; or
+Patients with standard risk multiple myeloma in VGPR or better at the time of enrollment with 1 prior progression within 18 months from a single or planned tandem autologous HSCT; or
+IgA, IgD, IgE, IgM multiple myeloma: serum M-protein level ?0.5 g/dL (measured by PEP).
+multiple myeloma
+Multiple myeloma that has relapsed after, or was not responsive to, initial therapy.
+Symptomatic multiple myeloma, International Staging System (ISS) stages I-III, within 12 months of starting therapy
+COHORT A: multiple myeloma
+Prior cytotoxic chemotherapy or corticosteroids for the treatment of multiple myeloma; NOTE: prior corticosteroid use for the treatment of non-malignant disorders is permitted
+Multiple myeloma beyond PR2: Patients with chromosome 13 abnormalities, first response lasting less than 6 months, or beta-2 microglobulin > 3 mg/L, may be considered for this protocol after initial therapy
+Relapsed or refractory hematologic malignancy (lymphoma or multiple myeloma) that has progressed, or is currently progressing with standard anticancer therapy or for which no other approved therapy exist. Lymphoma patients must have failed at least 2 standard anticancer therapies, and multiple myeloma patients must have failed at least 3 standard anticancer therapies.
+Received systemic treatment for multiple myeloma, including immunotherapy, within 14 days prior to initiation of study procedures
+Myeloma disease that is refractory to ixazomib treatment
+A prior diagnosis of multiple myeloma with documented disease progression in need of treatment at time of screening
+Pathologically confirmed diagnosis of multiple myeloma who are transplant eligible and have received any prior induction therapy (with or without maintenance)
+Any previous ASCT for multiple myeloma (MM)
+Patients with multiple myeloma in first relapse (or who are primary refractory) following treatment with a bortezomib-containing regimen (excluding prior treatment with ixazomib)
+Participants with measurable multiple myeloma who have progressed on, or could not tolerate, all available established therapies
+Patients must meet the criteria for symptomatic multiple myeloma prior to initiating systemic anti-myeloma treatment.
+Documented multiple myeloma as defined by the criteria below:
+International Staging System (ISS) stage I-III multiple myeloma that has progressive, relapsed, or refractory disease
+Smoldering (asymptomatic) multiple myeloma
+Histologically- or cytologically-confirmed relapsed or refractory multiple myeloma (MM) with measurable disease
+Multiple myeloma, solitary plasmacytoma, or primary malignant lesions in the index vertebra or bone
+Diagnosis of newly diagnosed multiple myeloma with indication for initiation of therapy
+Measurable multiple myeloma that is relapsed or refractory to established therapies with known clinical benefit in relapsed/refractory multiple myeloma or be intolerant of those established multiple myeloma therapies, and a candidate for JNJ-64007957 treatment in the opinion of the treating physician. Prior lines of therapy must include a proteasome inhibitor and an immunomodulatory drug in any order during the course of treatment. Participants who could not tolerate a proteasome inhibitor or immunomodulatory drugs are allowed
+Histologically confirmed diagnosis of multiple myeloma
+Diagnosis\r\n* Phase I: confirmed diagnosis of relapsed or refractory multiple myeloma\r\n* Phase II: confirmed diagnosis of active multiple myeloma and must be newly diagnosed\r\n* NOTE: all tests for establishing disease status must be completed =< 28 days prior to registration
+Relapsed multiple myeloma that is chemotherapy sensitive and has failed or ineligible for an autologous transplant
+Prior or concurrent systemic treatment for SMM; b) bisphosphonates are permitted, including pamidronate, zoledronic acid, alendronate, ibandronate, risedronate; c) treatment with corticosteroids is not permitted, unless the patient is on a stable chronic dose of inhaled steroids to treat respiratory diseases or on stable chronic steroid replacement therapy for endocrinology disorders; d) radiotherapy is not permitted, e) prior treatment for smoldering multiple myeloma with chemotherapy agents approved for the treatment of multiple myeloma or CD38 drugs is not permitted
+Histologic and serologic findings, reviewed at Memorial Sloan Kettering Cancer Center (MSKCC), confirming the diagnosis of multiple myeloma or AL amyloidosis; standard diagnostic criteria for multiple myeloma will be used, as per the International Myeloma Foundation consensus guidelines
+At time of enrollment, subjects must be within 9 months of initiation of systemic therapy for multiple myeloma
+Patients with histologically confirmed multiple myeloma
+Non-secretory multiple myeloma
+Multiple myeloma: stage II or III, symptomatic, secretory multiple myeloma requiring treatment
+RESEARCH SAMPLE COLLECTION: Histologically confirmed diagnosis of multiple myeloma
+Histologically confirmed diagnosis of multiple myeloma
+Relapsed multiple myeloma that is chemotherapy sensitive and has failed or ineligible for an autologous transplant
+Patient must have relapsed and symptomatic multiple myeloma
+Patients who have received > 3 prior treatment regimens for multiple myeloma
+Multiple myeloma beyond PR2: Patients with chromosome 13 abnormalities, first response lasting less than 6 months, or beta-2 microglobulin > 3 mg/L, may be considered for this protocol after initial therapy
+Multiple myeloma progressive on salvage chemotherapy
+Multiple myeloma specific:\r\n* Confirmed evidence of disease progression from immediately prior multiple myeloma (MM) therapy or refractory to the immediately prior treatment\r\n* Measurable disease M protein component in serum (at least 0.5 g/dL) and/or urine (if present), (>=0.2 g excreted in a 24 hour collection sample)\r\n* Subjects with free light chain only disease are excluded
+Histologically confirmed diagnosis of symptomatic multiple myeloma; (patients with multiple myeloma with secondary amyloidosis are eligible)
+Received at least two cycles of any regimen as initial systemic therapy for multiple myeloma and are within 2-16 months of the first dose of initial therapy
+Administration or planned administration of any other concomitant chemotherapy, immunotherapy, radiotherapy, or any ancillary therapy which would be considered a treatment of multiple myeloma until day +28 post-transplant through discontinuation from study; patients may be on corticosteroids if they are being given for disorders other than multiple myeloma (e.g., adrenal insufficiency, rheumatoid arthritis, etc.)
+Non-secretory multiple myeloma
+Recent history of other (non multiple myeloma) cancer
+Patients must have a diagnosis of multiple myeloma
+Multiple myeloma\r\n* Relapse/progression after autologous HSCT\r\n* Plasma cell leukemia\r\n* Adverse cytogenetics: e.g. del(13q) or 11q translocation\r\n* At the time of enrollment, multiple myeloma (MM) must be in complete remission
+Diagnosis of symptomatic multiple myeloma (MM)
+Cytopathologically or histologically confirmed diagnosis of multiple myeloma
+Recipients must have histopathologically confirmed diagnosis of multiple myeloma
+Multiple myeloma beyond PR2; patients with chromosome 13 abnormalities, first response lasting less than 6 months, or beta-2 microglobulin > 3 mg/L, may be considered for this protocol after initial therapy
+Multiple myeloma beyond PR2: Patients with chromosome 13 abnormalities, first response lasting less than 6 months, or beta-2 microglobulin > 3 mg/L, may be considered for this protocol after initial therapy
+Patients must have one of the following diagnoses of multiple myeloma (MM) or primary/secondary myelofibrosis (MF)
+Patients must have a known diagnosis of multiple myeloma with evidence of measurable disease, as defined below:
+Criteria 1 Relapsed or progressive multiple myeloma after last treatment
+IgG multiple myeloma: serum monoclonal paraprotein (M-protein) level
+IgA, IgD, IgE multiple myeloma: serum M-protein level ? 0.5 g/dL,
+Criteria 2 Multiple myeloma of IgM subtype
+Subject has histologically confirmed multiple myeloma that has never before been treated
+Subject has previously been treated for multiple myeloma
+Relapsed/refractory multiple myeloma with progressive disease at study entry
+Patient received chemotherapy or other anti-cancer therapy that may be active against multiple myeloma within 3 weeks prior to the first dose of PRLX 93936.
+Patient is taking any therapy concomitantly that may be active against multiple myeloma.
+Multiple myeloma: stage II or III, symptomatic, secretory multiple myeloma requiring treatment
+Patient with confirmed multiple myeloma requiring systemic therapy. All three criteria must be met:
+Patient whose disease progressed during or within 60 days of bortezomib treatment or of any other Multiple Myeloma therapy
+Confirmed relapsed or refractory multiple myeloma after at least two prior lines of therapy.
+Multiple myeloma (Eligible patients must have quantifiable M-protein levels present in serum and/or urine)
+Progressive disease must have occurred either during or subsequent to the patient's last treatment for multiple myeloma prior to the current enrollment
+Patient must have substantially recovered from clinically significant toxicities from prior therapies for multiple myeloma
+Multiple myeloma with IgM subtype
+Histologically confirmed diagnosis of multiple myeloma; (patients with multiple myeloma with secondary amyloidosis are eligible)
+Received at least two cycles of any regimen as initial systemic therapy for multiple myeloma and are within 2-13 months of the first dose of initial therapy
+Evidence of multiple myeloma (MM) disease progression any time prior to enrollment; progression from smoldering to active myeloma is not exclusionary
+Patients with multiple myeloma in complete response (CR), partial remission (PR), very good partial remission (VGPR), or symptomatic stable disease (no evidence of progression) including patients with light chain multiple myeloma (MM) detected in the serum by free light chain assay.
+Relapsed or refractory multiple myeloma. Participants with primary refractory myeloma only allowed in dose-escalation phase of the study.
+For expansion cohorts only: Primary refractory multiple myeloma defined as disease that is non-responsive in participants who have never achieved a minimal response or better with any therapy
+Subjects must have histologically confirmed diagnosis of multiple myeloma
+Planned concurrent treatment for multiple myeloma other than bisphosphonates
+Diagnosis of multiple myeloma according to International Myeloma Working Group criteria and one of the following:\r\n* Smoldering multiple myeloma (SMM)\r\n* Indolent multiple myeloma (IMM)\r\n* Newly diagnosed multiple myeloma (MM)\r\n* Note: patients with lytic disease and anemia are eligible
+Patients must meet established criteria for the diagnosis of multiple myeloma
+Patients with non-secretory multiple myeloma are not eligible
+Prior cytotoxic chemotherapy or corticosteroids for the treatment of multiple myeloma\r\n* NOTE: Prior corticosteroid use for the treatment of non-malignant disorders is permitted
+FOR PATIENTS WITH MULTIPLE MYELOMA (MM):
+Diagnosis of multiple myeloma
+Symptomatic multiple myeloma requiring treatment
+Received at least two cycles of any regimen as initial systemic therapy for multiple myeloma and are within 2-12 months of the first dose of initial therapy
+Smoldering multiple myeloma (MM) not requiring therapy
+Multiple myeloma progressive on salvage chemotherapy
+Histologically confirmed diagnosis of multiple myeloma
+Received at least two cycles of any regimen as initial systemic therapy for multiple myeloma and are within 2-12 months of the first dose of initial therapy
+MULTIPLE MYELOMA CRITERIA:
+Patients must have received at least 3 different prior treatment regimens for multiple myeloma
+Patients must have histologically or cytologically confirmed multiple myeloma not otherwise specified (NOS) (10028566)
+A diagnosis of multiple myeloma (MM) and documentation of relapsed or relapse/refractory status following at least 2 prior lines of therapy
+Patients must have a confirmed diagnosis of symptomatic multiple myeloma and must be currently relapsed or refractory; except where otherwise indicated below that assessment is required within 14 days, all tests for establishing disease status must be completed within 28 days prior to registration and documented on the Baseline Tumor Assessment Form for Multiple Myeloma
+Any chemotherapy, immunotherapy, biologic, investigational, for treatment of multiple myeloma other than lenalidomide and dexamethasone
+Diagnosis of non-secretory myeloma
+MULTIPLE MYELOMA CRITERIA
+Prior glucocorticosteroid therapy for the treatment of multiple myeloma is not permitted
+Confirmed diagnosis of active multiple myeloma and measurable disease.
+Has non-secretory multiple myeloma
+Has a confirmed diagnosis of active multiple myeloma and measurable disease
+multiple myeloma (MM)
+-  Documented relapsed or progressive Multiple Myeloma (MM) on or after any regimen or is refractory to the most recent line of therapy.
+Any one or more of the following myeloma defining events:
+Has a confirmed diagnosis of active multiple myeloma and measurable disease.
+Has non-secretory or oligosecretory multiple myeloma
+Pathologically documented,multiple myeloma relapsed or refractory progressive disease after at least 3 lines of therapy for multiple myeloma. Prior therapeutic treatment or regimens must include proteasome inhibitors (e.g. bortezomib) and immunomodulatory drugs (e.g. lenalidomide).
+Multiple myeloma with IgM subtype
+Confirmed diagnosis of symptomatic multiple myeloma and measurable secretory disease
+For Multiple Myeloma cohort
+Have a documented diagnosis of multiple myeloma and have relapsed and refractory disease.
+Primary refractory multiple myeloma defined as patients who have never achieved at least a minimal response (MR) with any treatment during the disease course.
+Participant has documented relapsed or progressive multiple myeloma on or after any regimen or who are refractory to the most recent line of therapy. Relapsed myeloma is defined as previously treated myeloma that progresses and requires initiation of salvage therapy, but does not meet the criteria for refractory myeloma. Refractory myeloma is defined as disease that is non responsive (failure to achieve minimal response or development of progressive disease [PD]) while on primary or salvage therapy, or progresses within 60 days of last therapy.
+Histologically confirmed multiple myeloma
+Four or less prior lines of systemic therapy for multiple myeloma
+Newly diagnosed or relapsed multiple myeloma
+For newly diagnosed multiple myeloma: multiple myeloma of IgM subtype
+Diagnosis of smoldering multiple myeloma (SMM) for less than 5 years
+Active multiple myeloma,requiring treatment as defined by the study protocol
+Must have had documented multiple myeloma
+Must have received at least 1 prior line of therapy for multiple myeloma
+Has a history of malignancy (other than multiple myeloma) within 3 years before the date of randomization
+Subjects of ? 18 years of age with histopathologically confirmed diagnosis of lymphoma or multiple myeloma that is refractory to or relapsed after at least 2 prior regimens.
+Documented measurable disease for multiple myeloma at screening as defined in protocol
+Prior or concurrent systemic treatment for SMM; a) bisphosphonates are permitted; b) treatment with corticosteroids is not permitted; c) radiotherapy is not permitted; d) prior treatment for smoldering multiple myeloma with chemotherapy agents approved for the treatment of multiple myeloma is not permitted
+Relapsed multiple myeloma
+Refractory multiple myeloma defined as meeting 1 or more of the following:
+At least 2 but no more than 3 prior therapies for multiple myeloma
+Multiple myeloma of Immunoglobin M (IgM) subtype
+New diagnosis of multiple myeloma with no prior history of treatment (exceptions include corticosteroids, bisphosphonates, single agent cyclophosphamide, =< 21 days of the first cycle of a planned regimen)
+Patient has exquisitely radiosensitive histology, such as multiple myeloma, lymphoma, leukemia, or seminoma
+Must have documented multiple myeloma and measurable disease
+Must have received at least 1 prior line of therapy for multiple myeloma and achieved a response (partial response or better) to at least one prior regimen
+Histologic confirmation of multiple myeloma by the enrolling institution
+Patients with a diagnosis of multiple myeloma (MM) not achieving a VGPR or better to the most recent therapy.
+Patients receiving > 1 cycle of prior treatment or concurrent systemic treatment for multiple myeloma\r\n* Treatment of hypercalcemia or spinal cord compression or aggressively progressing myeloma with current or prior corticosteroids is permitted\r\n* Bisphosphonates are permitted\r\n* Concurrent or prior treatment with corticosteroids for indications other than multiple myeloma is permitted\r\n* Prior treatment with radiotherapy is permitted\r\n* Prior treatment for smoldering myeloma is permitted with a washout period of 2 weeks from last dose; smoldering patients previously treated with carfilzomib are excluded\r\n* Patients with measurable disease who received up to one cycle of any therapy within 60 days with a washout period of 2 weeks from last dose (on a trial or outside a trial) are eligible
+Relapsed or refractory multiple myeloma and has already received =< 4 standard treatment regimens; note: induction, transplant, consolidation, and maintenance is considered one regimen
+Prior treatment for multiple myeloma with either standard of care treatment or investigational regimen
+Diagnosis of multiple myeloma with measureable disease
+Patients requiring therapy who have relapsed and/or are refractory to their last therapy and have been treated with at least 1, but not more than 5 lines of multiple myeloma therapy.
+Must have documented diagnosis of multiple myeloma and have measureable disease by serum and urine protein electrophoresis.
+Non-secretory multiple myeloma.
+Symptomatic multiple myeloma;
+(Part 1) Have relapsed multiple myeloma after receiving a minimum of 2 and a maximum of 4 prior lines of therapy and be eligible for treatment with lenalidomide and dexamethasone (Len/Dex)
+(Part 2) Have received at least 1 prior line of therapy for multiple myeloma
+Recovered from the effects of any prior systemic therapy or radiotherapy for Multiple Myeloma
+Diagnosis of smoldering multiple myeloma (SMM) for <4 years
+Confirmed diagnosis of multiple myeloma that is relapsed and/or refractory for which no curative option exists.
+Patient must not have been previously treated with any prior systemic therapy for the treatment of active multiple myeloma\r\n* Prior treatment of hypercalcemia or spinal cord compression with corticosteroids does not disqualify the patient (the dose should not exceed the equivalent of 320 mg of dexamethasone in a 2 week period)\r\n* Bisphosphonates are permitted\r\n* Prior therapy for smoldering myeloma is permitted
+Patients with relapsed multiple myeloma who have already received one or more standard treatment regimens
+Previously diagnosed with multiple myeloma.
+A histologically established diagnosis of multiple myeloma with evidence of relapse or refractory disease.
+Refractory or relapsed multiple myeloma
+Confirmed diagnosis of multiple myeloma
+Patient must have multiple myeloma that has either relapsed or has high risk cytogenetics
+Patients receiving > 1 cycle of prior treatment or concurrent systemic treatment for multiple myeloma\r\n* Treatment of hypercalcemia or spinal cord compression or aggressively progressing myeloma with current or prior corticosteroids is permitted\r\n* Bisphosphonates are permitted\r\n* Concurrent or prior treatment with corticosteroids for indications other than multiple myeloma is permitted\r\n* Prior treatment with radiotherapy is permitted\r\n* Prior treatment for smoldering myeloma is permitted with a washout period of 4 weeks from last dose; smoldering patients previously treated with carfilzomib are excluded\r\n* Patients with measurable disease who received up to one cycle of any therapy within 60 days with a washout period of 4 weeks from last dose (on a trial or outside a trial) are eligible
+Must have received 1-5 prior therapies for their myeloma and have relapsed or refractory multiple myeloma; prior therapy with bortezomib is allowed as long as they were not refractory to bortezomib
+Patients may have received 1 cycle of prior therapy with dexamethasone for multiple myeloma
+Multiple myeloma\r\n* Relapse/progression after autologous HSCT\r\n* Plasma cell leukemia\r\n* Adverse cytogenetics: del(13q) or 11q translocation
+Multiple myeloma: stage II or III, symptomatic, secretory multiple myeloma requiring treatment
+Lesions due to hematologic malignancy (e.g. multiple myeloma at site of the index vertebra (e),
+Diagnosed with previously treated multiple myeloma.
+Histologically or cytologically confirmed diagnosis of multiple myeloma that has progressed despite at least one line of standard therapy
+Treatment Group C (TGC): Multiple myeloma
+Confirmed diagnosis of multiple myeloma with a BRAF V600 mutation
+Must have received at least one prior systemic therapy for the treatment of multiple myeloma
+Must have relapsed and/or refractory multiple myeloma with measurable disease
+Melanoma, papillary thyroid cancer or hematological malignancies (with the exception of multiple myeloma)
+Patients previously diagnosed with multiple myeloma
+Diagnosis of multiple myeloma
+No more than six months’ worth of multiple myeloma chemotherapy is allowed (from the date of the start of the induction therapy)
+Diagnosis of relapsed multiple myeloma
+Patients with confirmed multiple myeloma whose treatment history must include all of the following:
+Patients with relapsed/refractory multiple myeloma based on standard criteria
+Confirmed multiple myeloma with measurable disease.
+Patients with any hematologic malignancy. This includes leukemia (any form), lymphoma, and multiple myeloma.
+Patients with relapsed/refractory multiple myeloma after at least 1 prior therapy
+No prior treatment for multiple myeloma
+Multiple myeloma of IgM (immunoglobulin M) subtype
+Multiple myeloma
+Relapsed or refractory Multiple Myeloma (MM) a. Treated with at least 1 prior regimen for myeloma
+Patients with relapsed multiple myeloma who have already received one or more standard treatment regimens
+Multiple myeloma with relapsing or progressing disease at study entry.
+Patients must have evaluable multiple myeloma with, at least one of the following (assessed within 21 days prior to randomization):
+Multiple Myeloma of IgM subtype.
+Diagnosis of relapsed or refractory multiple myeloma (MM) and documentation of at least 1 prior therapy; there is no maximum number of prior regimens
+Multiple myeloma (MM)
+Subjects with Multiple Myeloma (MM) and renal function fitting one of three categories:
+Prior systemic therapy for multiple myeloma, including investigational drugs (prior treatment with corticosteroids or localized radiation therapy dose not disqualify the patient)
+Has prior systemic therapy for multiple myeloma, including investigational drugs (prior treatment with corticosteroids or localized radiation therapy dose not disqualify the participantt)
+Subjects must have documented diagnosis of multiple myeloma and have measurable disease
+Use of any anti-myeloma drug therapy within 14 days of initiation of study drug treatment excluding corticosteroids if given for an indication other than myeloma; note: bisphosphonates are not considered anti-myeloma drugs
+Relapsed multiple myeloma. At least ?1 line of therapy and progressed after ?1 prior therapy
+Symptomatic multiple myeloma
+Prior treatment with at least one, but no more than three, regimens for multiple myeloma
+Age 18 years or older with a confirmed diagnosis of multiple myeloma (MM) and documentation of one to three prior therapies.
+Patients must have a diagnosis of active multiple myeloma
+Patients who have not received any chemotherapy treatment for multiple myeloma prior to being enrolled in the study
+Patients who were receiving simvastatin (dose > 40 mg/day) while receiving current chemotherapy regimen for multiple myeloma
+Multiple myeloma that does not express M-protein or FLC (i.e., non-secretory MM is excluded), and quantitative immunoglobulin levels cannot be used instead.
+Participants must have histologically confirmed multiple myeloma that is relapsed or refractory
+Patients may have had 1 or more prior chemotherapy regimens for multiple myeloma but none within the preceding 14 days
+Diagnosis of cancer, not including multiple myeloma or lymphoma/leukemia
+Diagnosis of multiple myeloma
+Documented evidence of multiple myeloma (per local assessment):
+Diagnosis of multiple myeloma
+High risk, or refractory and relapsed multiple myeloma
+Multiple myeloma (MM), requiring treatment, defined by any of the following:
+Pathologically-documented diagnosis of multiple myeloma that is relapsed or is refractory as defined by the following:
+Multiple myeloma with IgM subtype
+Subject has aplastic anemia or multiple myeloma
+Histologically confirmed multiple myeloma (newly diagnosed or relapsed); (Note: multiple myeloma patients with secondary amyloidosis are eligible)
+Patients with the clinical diagnosis of multiple myeloma (MM) will be referred to MRI by hematologists/oncologists at New York University Medical Center (NYUMC) who care for these patients
+A prior diagnosis of multiple myeloma with documented disease progression
+Subject must have a pathologically documented, definitively diagnosed, multiple myeloma relapsed, or refractory progressive disease after at least 2 lines of therapy for multiple myeloma. Prior therapeutic treatment or regimens must include a proteasome inhibitor and lenalidomide.
+Multiple myeloma with IgM subtype.
+Have history of paraproteinemias or multiple myeloma
+Relapsed multiple myeloma
+Received at least 1 prior treatment regimen or line of therapy for multiple myeloma
+Immunoglobulin M (IgM) multiple myeloma
+Previous treatments for multiple myeloma (MM) within 2 weeks of initiation of study treatment
+Hematologic malignancies or multiple myeloma.
+Participant has relapsed or refractory multiple myeloma with documented evidence of progression that occurred during or after the participant's last treatment regimen based on investigator's determination of International Myeloma Working Group (IMWG) criteria.
+Potential subjects with evidence of progressive disease as per International Myeloma Working Group (IMWG) criteria
+Multiple myeloma diagnosed according to the International Myeloma Working Group (IMWG) diagnostic criteria
+Diagnosis of MM requiring systemic therapy (per the International Myeloma Working Group [IMWG])
+Subjects must have documented evidence of progressive disease according to the IMWG uniform response criteria following the last multiple myeloma treatment.
+multiple myeloma as per IMWG 2014 definition
+Completion of induction therapy with very good partial response (VGPR), or better, by International Myeloma Working Group (IMWG) criteria
+Patients with a diagnosis of MM as defined by the 2014 IMWG diagnostic criteria
+Diagnosis of relapsed, symptomatic multiple myeloma by International Myeloma Working Group (IMWG) diagnostic criteria for multiple myeloma
+Documented initial diagnosis of multiple myeloma according to International Myeloma Working Group (IMWG) diagnostic criteria
+Evidence of a response (Partial response [PR] or better based on investigator's determination of response by international myeloma working group [IMWG] criteria) to at least 1 prior treatment regimen
+Multiple myeloma diagnosis according to the IMWG diagnostic criteria
+Diagnosis of multiple myeloma refractory to or relapsed after >= 1 line of prior therapy (International Myeloma Working Group [IMWG] criteria)
+Concurrent multiple myeloma (defined according to 2015 International Myeloma Working Group [IMWG] guidelines)
+Worsening urinary paraproteinemia will be considered in the context of International Myeloma Working Group (IMWG) disease response criteria on a monthly basis; any patient with urinary protein (otherwise unrelated to urinary myeloma associated monoclonal [M]-protein) with excretion > 3.5 g/day will be considered to have developed nephrotic-range proteinuria, and will be taken off study
+Must have a confirmed diagnosis of multiple myeloma (MM) requiring therapy according to International Myeloma Working Group (IMWG) criteria.
+Documented initial diagnosis of multiple myeloma according to International Myeloma Working Group (IMWG) diagnostic criteria
+Diagnosis of symptomatic multiple myeloma as per current International Myeloma Working Group (IMWG) uniform criteria prior to initial treatment
+Subjects with symptomatic multiple myeloma (MM) by International Myeloma Working Group (IMWG) criteria who are receiving or have completed induction chemotherapy, who have achieved at least a partial response (PR) on most recent therapy by IMWG criteria, and are eligible for auto-SCT for consolidation; a specific induction regimen is not dictated for this protocol, however, the induction regimen must not have contained melphalan (L-PAM, Alkeran)
+Subjects must have a confirmed prior diagnosis of active MM as defined by the International Myeloma Working Group (IMWG) criteria
+Measurable relapsed or refractory myeloma as defined by the International Myeloma Working Group (IMWG) Consensus Criteria following treatment with at least 3 lines of therapy including with both a proteasome inhibitor (PI) and an immunomodulatory drug (IMiD), or progressive myeloma that is refractory to a regimen containing both a PI and an IMiD.
+Patients with newly diagnosed multiple myeloma who have at least a partial response after induction therapy based on the International Working Group (IWG) Uniform Response Criteria
+Must have a diagnosis of a MM using current International Myeloma Working Group (IMWG) diagnostic criteria and have received 1 prior line of therapy.
+Diagnosis of multiple myeloma as per International Myeloma Working Group (IMWG) uniform criteria
+Patient with multiple myeloma relapsing according to the International uniform response criteria for multiple myeloma (IMWG 2009/ revised Bladé criteria) to one previous line of treatment
+Have confirmed diagnosis of Multiple Myeloma as defined by the IMWG.
+Documented diagnosis of multiple myeloma (MM) based on standard IMWG criteria.
+Documented diagnosis of symptomatic multiple myeloma, as defined by the IMWG
+Patient has been previously diagnosed with multiple myeloma (MM) based on standard International Myeloma Working Group (IMWG) criteria
+Diagnosis and previously untreated active multiple myeloma by International Myeloma Working Group (IMWG) diagnostic criteria for multiple myeloma
+Evidence of multiple myeloma disease progression (as defined by International Myeloma Working Group [IMWG]) any time prior to ASCT
+Patients must carry a diagnosis of symptomatic multiple myeloma according to international myeloma working group criteria and have relapsed or refractory disease according to international uniform response criteria after at least two prior treatment regimens including a proteasome inhibitor and an immunomodulator (IMiD)
+Diagnosis of MM requiring systemic therapy (per the International Myeloma Working Group [IMWG] ).
+Clinically overt multiple myeloma, according to the International Myeloma Working Group (IMWG) criteria with at least 1 of the following:
+Measurable disease on Screening per International Myeloma Working Group (IMWG) criteria.
+Patient has been previously diagnosed with multiple myeloma (MM) based on standard criteria and currently requires treatment because MM has relapsed following a response, according to International Myeloma Working Group (IMWG) criteria.
+All subjects must have documented disease progression per IMWG criteria during or after their last anti-myeloma therapy.
+Participants proven to have multiple myeloma (MM) diagnosis according to the International Myeloma Working Group (IMWG) diagnostic criteria
+Must have had documented evidence of progressive disease as defined based on Investigator's determination of response of International Myeloma Working Group (IMWG) criteria on or after their last regimen
+Evidence of a response (partial response [PR] or better based on investigator's determination of response by International Myeloma Working Group [IMWG] criteria) to at least 1 prior treatment regimen
+Patients who at initial diagnosis or later met the International Myeloma Working Group (IMWG) definition of active multiple myeloma requiring therapy (Appendix 3)
+Patients must have histologically or cytologically confirmed smoldering multiple myeloma confirmed by Department of Pathology, based on the International Myeloma Working Group Criteria
+Patients with a diagnosis of multiple myeloma (MM) per standard International Myeloma Working Group (IMWG) criteria
+Participants must have a diagnosis of multiple myeloma (MM) according Revised International Myeloma Working Group diagnostic criteria:
+Note: Laboratory assessments used to support the hypercalcemia, renal failure, anemia, bone lesions (CRAB) criteria in the International Myeloma Working Group (IMWG) 2014 diagnostic criteria of MM are performed at the time of diagnosis; these assessments are not required to be performed within the 21 days of initiation of protocol therapy
+Confirmed diagnosis of relapsed and/or refractory multiple myeloma (MM) according to International Myeloma Working Group guidelines (2003); refractory disease is defined as documented disease progression during or within 60 days after their most recent line of anti-myeloma therapy
+Patients must have a history of symptomatic multiple myeloma according to the International Myeloma Working Group criteria (IMWG, 2003)
+Must have documented evidence of progressive disease as defined by the International Myeloma Working Group criteria on or after their last regimen
+Participants must have a previous diagnosis of MM, according to International Myeloma Foundation 2003 diagnostic criteria
+Newly diagnosed, myeloma requiring systemic chemotherapy as per International Myeloma Working Group (IMWG) uniform criteria:\r\n* Prior treatment of hypercalcemia or spinal cord compression or active and/or aggressively progressing myeloma with corticosteroids or lenalidomide or bortezomib-based regimens does not disqualify the patient (the treatment dose should not exceed the equivalent of 160 mg of dexamethasone in a 4 week period or not more than 1 cycle)\r\n* Bisphosphonates are permitted
+Patients must have histologically or cytologically confirmed relapsed multiple myeloma as defined by the International Myeloma Working Group (IMWG)
+Diagnosis of active Multiple Myeloma according to the International Myeloma Working Group (IMWG) diagnostic criteria
+Histologic and serologic findings from Memorial Sloan-Kettering Cancer Center (MSKCC) confirming the diagnosis of multiple myeloma; standard diagnostic criteria for multiple myeloma will be used, as per the revised International Myeloma Working Group diagnostic criteria
+Symptomatic multiple myeloma by International Myeloma Working Group (IMWG) criteria according to the most recent updated version (International Myeloma Workshop [IMW] meeting in Paris 2011)
+Must have a documented diagnosis of relapsed and refractory multiple myeloma defined by the International Myeloma Working Group (IMWG) criteria.
+Patients with progressive or refractory plasma cell myeloma, as defined by International Myeloma Workshop Consensus Panel criteria
+Meets the International Myeloma Working Group (IMWG) definition of Multiple Myeloma
+For more information regarding BMS clinical trial participation, please visit\n        www.BMSStudyConnect.com\n\n        Inclusion Criteria:\n\n          -  Subjects must have histological confirmation of multiple myeloma with measurable\n             disease (per International Myeloma Working Group (IMWG) criteria):\n\n               -  Relapsed/refractory multiple myeloma, subjects who are post autologous transplant\n                  and have achieved very good partial response (VGPR) or complete response (nCR)\n                  with minimal residual disease (MRD)
+Newly diagnosed symptomatic multiple myeloma (per International Myeloma Working Group [IMWG] diagnostic criteria)
+Diagnosis of symptomatic MM as defined by the International Myeloma Working Group (IMWG) :
+Elevated Free Light Chain as per the International Myeloma Working Group (IMWG) criteria
+Patient has relapsed or relapsed/refractory MM with measurable disease parameters according to the International Myeloma Working Group (IMWG) Criteria
+Patients must have a definitive diagnosis of multiple myeloma (using the International Myeloma Working Group Guidelines)
+Participants must have a diagnosis of relapsed multiple myeloma according to standard criteria established by the International Myeloma Working Group
+Multiple myeloma or plasma cell leukemia with a PR or better to the last treatment regimen, based on the International Myeloma Working Group (IMWG) criteria
+Documented diagnosis of multiple myeloma, currently with complete response (CR) or very good partial response (VGPR) (as defined by International Myeloma Working Group [IMWG] criteria), at least two years after induction therapy or autologous stem cell transplant
+Diagnosed with multiple myeloma and in complete, partial or very good partial remission at enrollment as per standard International Myeloma Working Group Criteria
+Documentation of r/r MM as defined by the International Myeloma Working Group (IMWG) criteria.
+Diagnosis of multiple myeloma with documented relapsed or refractory disease according to international Myeloma Working Group (IMWG) criteria, or relapsed/refractory plasma cell leukemia
+Current or prior diagnosis of AML
+AML as defined by the WHO Classification persisting or recurring following one or more treatment courses except promyelocytic leukemia (APML) and except AML with myelodysplasia related changes.
+COHORT 2: Have received NO prior treatment for AML with the exception of hydroxyurea / leukapheresis\r\n* NOTE: Subjects may have been treated for pre-existent myeloid disorder such as myelodysplastic syndrome or myeloproliferative neoplasm including hypomethylating agents
+AML SA expansion group 1: histologically or cytologically proven AML with a FLT3 ITD or TKD mutation previously determined by local testing that is R/R to standard therapy or for whom standard treatments are contraindicated
+AML SA expansion group 2: histologically or cytologically proven AML with intermediate or unfavorable risk cytogenetics in the absence of a detectable FLT3 ITD or TKD mutation as previously determined by local testing that is R/R to standard therapy or for whom standard treatments are contraindicated
+Participant must have metastatic CRPC or AML not amenable to curative therapy, refractory to standard of care therapy or for which standard of care therapy does not exist. Participants with AML who are candidates for stem cell transplantation must have been offered this therapeutic option. Must meet additional criteria specific for each diagnosis, metastatic CRPC and relapsing/remitting AML, as described in the protocol.
+Received any previous treatment for AML
+Diagnosed with APL-M3 or CBF-AML
+Subject has AML secondary to prior chemotherapy.
+diagnosis of AML
+Pathologically-confirmed diagnoses of relapsed AML: patients with AML that have relapsed at least once or are primary induction failure will be eligible
+AML as defined by the WHO Classification persisting or recurring following one or more treatment courses except promyelocytic leukemia (APML) and except AML secondary to prior myelodysplastic syndrome. For Germany only: AML as defined by the WHO Classification either persisting/refractory after at least 2 primary induction courses (ie, no response after at least 2 prior chemotherapy cycles) or recurring after having achieved an initial response to chemotherapy except promyelocytic leukemia (APML) and except AML secondary to prior myelodysplastic syndrome.
+AML (with the exception of AML M3), patients with relapsed or refractory AML following treatment with cytotoxic chemotherapy or a targeted or biologic agent
+AML (with the exception of AML M3):
+AML unsuitable for intensive chemotherapy
+Subject must have received no prior treatment for AML; hydroxyurea is not considered a treatment and is allowed
+> 10% bone marrow blasts at transplant if no history of AML and > 5% if had previous progression to AML;
+Patients with AML or biphenotypic or bilineage leukemia (including a myeloid component) who have failed prior therapy; patients with AML should have failed prior therapy or have relapsed after prior therapy; patients with isolated extramedullary AML are eligible
+Patients diagnosed with APL, AML-M3
+Previously untreated AML (de novo or secondary) defined according to World Health Organization (WHO) criteria, excluding APL [AML with t(15;17)], with locally documented IDH1 and/or IDH2 gene mutation scheduled for induction therapy followed by consolidation therapy. Secondary AML is defined as AML arising after myelodysplastic syndromes (MDSs) or other antecedent hematologic disorders (AHDs) or AML arising after exposure to genotoxic injury including radiation and/or chemotherapy. Subjects may have had previous treatment for MDS or other AHD, including hypomethylating agents (HMAs), provided that the last dose of administration is ? 14 days prior to study drug initiation
+AML associated with inv(16); t(16;16); t(8;21) or t(15;17)
+Patients who have had prior chemotherapy for AML
+> 14 days since any prior therapy for AML excluding hydroxyurea
+A new diagnosis of de novo, secondary or treatment-related AML
+Only patients who are relapsed, refractory, or intolerant of standard AML therapy will be eligible for Part 1 (minimum of 1 prior line of AML-directed therapy)
+Inclusion Criteria:\n\n        AML confirmed subjects aged ? 60 years who have achieved complete remission (CR or CRi)\n        after induction/consolidation Ara-C based therapy, that have MRD positive status and are\n        not planned for stem cell transplantation.\n\n        Exclusion Criteria:\n\n        Subjects diagnosed with acute promyelocytic leukemia or with extramedullary AML or subjects\n        who have achieved CR or CRi following treatment for AML. Subjects who have received\n        treatment with hypomethylating agents.
+Patients with active (blood or bone marrow blasts > 5%) relapsed or refractory CD33+ acute myeloid leukemia (AML) de novo, or secondary. a. Relapsed AML is defined as patients that had a first complete remission (CR) before developing recurrent disease. b. Refractory AML defined as patients that have not achieved a CR after 2 cycles of induction chemotherapy.
+FOR AML ONLY: Obtained =< 14 days prior to registration: No ANC restriction
+AML ONLY: Acute promyelocytic leukemia (PML-RARA rearranged- AML-M3)
+Patients must have newly diagnosed AML or ALL without previous treatment; hydroxyurea will be allowed to control peripheral blast count as clinically indicated but would need to be stopped prior to initiation of tyrosine kinase inhibitor [TKI]); all-trans retinoic acid (ATRA) is permitted during the period prior to ruling out a diagnosis of APL; previous radiation treatment is allowable; patients must be deemed eligible for treatment with cytotoxic induction chemotherapy with cytarabine and idarubicin for AML or hyper-cyclophosphamide, dexamethasone, doxorubicin, vincristine sulfate (CVAD) for ALL; patients newly diagnosed with ALL must have received no prior treatment for their ALL with the exception of steroids (i.e. prednisone, dexamethasone); intrathecal methotrexate or cytarabine, allowed prior to and throughout the enrollment period for AML and ALL
+Therapy-related AML (defined as occurrence of AML due to prior exposure to chemotherapy or radiation for malignancy)
+Secondary AML (defined as development of AML in patients with an antecedent hematological malignancy)
+Diagnosis of AML according to World Health Organization (WHO) 2008 criteria; therapy related AML may be included if in complete response and off treatment for their prior malignancy for more than 2 years; AML arising after documented myeloproliferative disease (MPD) are excluded
+Patients must have histologic evidence of high risk acute myeloid leukemia defined as one of the following:\r\n* Primary refractory non-M3 AML\r\n** Residual leukemia after a minimum of 2 prior courses of chemotherapy (same or different)\r\n** Evidence of leukemia recurrence after a nadir bone marrow biopsy demonstrates no evidence of residual leukemia\r\n** Evidence of leukemia after induction therapy which, in the opinion of the investigator, would be appropriate for reinduction with sirolimus/MEC therapy\r\n* Relapsed non-M3 AML\r\n* Previously untreated non-M3 AML age > 60 with no evidence of favorable karyotype defined by presence of t(8;21)(q22;q22) [AML1-ETO], inversion (inv)16(p13;q22), or t(16;16)(p13;q22) [core-binding factor (CBF)beta; myosin, heavy chain (MYH)11] by cytogenetics, fluorescence in situ hybridization (FISH), or real time-polymerase chain reaction (RT-PCR)\r\n* Previously untreated secondary AML (from antecedent hematologic malignancy or following therapy with radiation or chemotherapy for another disease) with no evidence of favorable karyotype defined by presence of t(8;21)(q22;q22) [AML1-ETO], inv16(p13;q22), or t(16;16)(p13;q22) [CBFbeta;MYH11] by cytogenetics, FISH, or RT-PCR
+AML secondary to any prior chemotherapy unrelated to leukemia
+Patients must meet one of the three treatment history criteria:\r\n* Relapsed AML who have failed at least 1 line of salvage therapy\r\n* De novo AML who have not achieved CR after 2 lines of therapy\r\n* AML evolving from myelodysplastic syndrome (MDS) or myeloproliferative disorder who have failed hypomethylating agent or induction chemotherapy\r\n* Patients who have relapsed after allogeneic hematopoietic cell transplant (HCT) are eligible if they are at least 3 months after HCT, do not have active graft vs. host disease (GVHD) and are off immunosuppression except for maintenance dose of steroids (prednisone 10 mg/day or less)
+ARM 1 SALVAGE COHORT: Patients with AML or biphenotypic or bilineage leukemia who have failed prior therapy; patients with AML should have failed prior therapy or have relapsed after prior therapy will be eligible for Arm 1;
+Recipients with AML in CR1 must have one of the following:\r\n* Adverse cytogenetics (as evaluated by history) as defined as complex karyotype (> 3 abnormalities); inv(3) or t(3;3); t(6;9); t(6;11); monosomy 7; trisomy 8, alone or with an abnormality other than t(8;21), t(9;11), inv(16) or t(16;16); or t(11;19)(q23;p13.1)\r\n* Cytogenetically normal AML (CN-AML) with mutations in FMS-like tyrosine kinase 3 (FLT3), deoxyribonucleic acid (DNA) methyl transferase 3A (DMNT3A), or additional sex coombs like 1 (ASXL1)\r\n* Primary induction failure, defined as failure to achieve CR with primary induction chemotherapy\r\n* Secondary AML, defined as AML related to antecedent myeloid neoplasm or cytotoxic chemotherapy\r\n* Hyperleukocytosis, white blood cell (WBC) > 100,000, at diagnosis
+ARM 1 - AML: Research patients enrolled are those patients with relapsed or refractory CD123+ AML de novo, or secondary OR participant who are at high risk for disease recurrence\r\nNOTE: CD123+ biphenotypic acute leukemia or CD123+ acute lymphoblastic leukemia (ALL) may also be considered but only after discussion with the study principal investigator (PI)\r\n* Relapsed AML is defined as patients that had a first complete remission (CR) before developing recurrent disease (increased bone marrow blasts)\r\n* Refractory AML is defined as patients that have not achieved a first CR after 2 cycles of induction chemotherapy; for patients with AML evolving from myelodysplastic syndrome, they should have completed at least one cycle of induction chemotherapy
+Diagnosis of AML associated with the following karyotypes: inversion (inv)(16), t(16;16), t(8;21), t(15;17), or t(9;22)
+DIAGNOSIS REQUIREMENT FOR PHASE II PATIENTS: Refractory AML without CR after induction therapy (primary induction failure) or relapsed AML after obtaining a CR; favorable-risk core binding factor (CBF) mutated AML and acute promyelocytic leukemia (APL) will be excluded
+Initial diagnosis of poor -risk AML or MDS, treated with either stem cell transplant or cytarabine-based consolidation chemotherapy, within the past 60-185 days; the original diagnosis of AML or MDS must have been confirmed by bone marrow aspirate and/or biopsy review by a Johns Hopkins Hospital (JHH) hematopathologist; poor-risk AML is defined as disease that is therapy-related or arises from a previous marrow disorder, or de novo AML that is associated with any of the following characteristics: patient age 60 years or greater,\r\ntrilineage dysplasia, disease status greater than or equal to second complete remission (CR2), fms-related tyrosine kinase 3 (FLT3)/internal tandem duplication (ITD) mutations, detectable disease at time of consolidation chemotherapy or SCT, or poor-risk cytogenetics, which include abnormalities of chromosome 3, 5, or 7, trisomy 8, 11q23 abnormalities, t(6;9), 20q-, and complex karyotype
+Secondary AML in 1st remission
+Subjects with relapsed/refractory AML must have received either induction chemotherapy for AML or hypomethylating agents for hematologic disease before AML.
+Received more than 2 cycles of induction therapy for AML. Investigational agents as part of front-line therapy for AML may by acceptable following discussion with the Medical Monitor. Hydroxyurea is permitted (see #5 below).
+Group C: Cohort C1A: Subjects age ? 18 years with relapsed/refractory AML by WHO criteria; Cohort C2: Subjects age ? 18 years with relapsed/refractory AML with MLL; Cohort C3: Subjects with previously untreated AML by WHO criteria and who would have met disease eligibility criteria for Group A or B but refuse or are unable to receive chemotherapy and hypomethylating agent as determined by the treating physician
+AML in 1st remission - for patients whose AML does not have 'good risk' cytogenetic features (i.e. t 8;21, t15;17, inv 16)
+Secondary AML in 1st remission
+Patients with therapy-related AML whose prior malignancy has been in remission for at least 12 months
+Patients with relapsed or refractory AML. Relapsed AML is defined as relapse after achieving a response to initial therapy and refractory AML is defined as failure to achieve a response after one previous line of therapy. Response is defined as per IWG criteria (CR, CRi or CRp). Patients who are not candidates to receive or who decline standard of care therapy are also eligible.
+AML either de novo or secondary who either :
+Prior malignancy (other than basal cell carcinoma and cervical in situ carcinoma) unless treated with a curative intend and without evidence of malignant disease for 1 year before screening. Patients with prior hematologic malignancies that have progressed to AML (such as Myelodysplastic syndrome, myeloproliferative neoplasms, bi-phenotypic leukemias, AcuteLymphocyticLeukemia) or AML that has relapsed are eligible;
+Patient with AML-M3 (APL)
+Secondary AML in CR
+secondary AML and ALL in 1st or 2nd relapse or primary refractory
+Has FLT3-ITD mutant (> 3% FLT3-ITD/total FLT3) AML (primary AML or secondary to myelodysplastic syndrome [MDS]) that have failed any prior induction therapy regimen or have relapsed after prior induction/consolidation therapy, have not received more than one salvage therapy, and have not received more than one FLT3 inhibitor during prior AML treatment(s)
+FLT3-ITD mutant (> 3% FLT3-ITD/total FLT3) AML (primary AML or secondary to MDS) is ineligible for intensive induction chemotherapy by meeting at least 1 of the protocol-defined criteria
+Patients who have received any therapy other than hydroxyurea with the purpose of treating their AML are not eligible
+ESCLATION COHORT: Patients must have a diagnosis of newly diagnosed and/ or relapsed/refractory AML with any of the following:\r\n* Confirmed translocation involving 11q23\r\n* Partial tandem duplication(PTD) of the MLL gene (on 11q23)\r\n* FLT3-ITD (internal tandem duplication)\r\n* Increased Fgf2 in serum (2 standard deviations above control serum samples)\r\n* HOX(A9/A10) over-expression in bone marrow ( 2 standard deviations above control values in CD34+ cells from normal subjects)\r\n* Note: Relapsed or refractory AML is defined as either: \r\n** Recurrence of disease after a complete remission (CR), or \r\n** Failure to achieve CR with initial therapy
+EXPANSION COHORT: Patients must have a diagnosis of newly diagnosed AML with any of the following:\r\n* Confirmed translocation involving 11q23\r\n* Partial tandem duplication (PTD) of the MLL gene (on 11q23)\r\n* FLT3-ITD (internal tandem duplication)\r\n* Increased Fgf2 in serum (2 standard deviations above control serum samples)\r\n* HOX(A9/A10) over-expression in bone marrow (2 standard deviations above control values in CD34+ cells from normal subjects)\r\n* Note: Patients with secondary AML are eligible for enrollment into the trial (in both cohorts); secondary AML is defined as AML that has developed in a person with a history of antecedent blood count abnormalities, or myelodysplastic syndromes (MDS), or a myeloproliferative disorder (excluding chronic myeloid leukemia); or a history of prior chemotherapy or radiation therapy for a disease other than AML
+Treatment-related AML and secondary AML in morphological remission (CR1 or beyond) with minimal residual disease as quantified either by flow cytometry, or by cytogenetics or molecular markers
+Patients must have relapsed/refractory disease; patients with secondary AML (including those progressing from MDS or myeloproliferative neoplasm [MPN], and those with AML secondary to chemotherapy or radiotherapy for other malignancies) are eligible whether they have received prior therapy for AML or not
+Have received any prior treatment for AML with the exception of hydroxyurea.
+Cohort Inclusion Criteria - Group B: Subjects must have relapsed or refractory AML according to the WHO classification. For study purposes, refractory AML is defined as failure to ever achieve CR or recurrence of AML within 6 months of achieving CR; relapsed AML is defined as all others with disease after prior remission. (Group B is not currently recruiting. Expected to begin recruiting in 3rd quarter 2017.)
+Specifically, for participants in Cohorts A3 and A4: Treatment naïve participants unfit for induction chemotherapy for AML as defined by the following: Age >= 70 or age 65 to 69 years with at least one of the following: ECOG performance status of 2, Intermediate I/II or adverse risk cytogenetic and molecular alterations per ELN 2010 guidelines or secondary AML, or other comorbidity judged incompatible with intensive chemotherapy
+Any approved AML-related therapy within 14 days prior to enrollment
+Patients may not have received prior chemotherapy for AML with the exception of hydroxyurea for increased blast count or leukapheresis for leukocytosis; patients who have received a limited and short-term exposure of ATRA (all trans retinoid acid) while AML-M3 (acute promyelocytic leukemia) was being ruled out, and which has been discontinued, will be eligible
+>= 55 years of age with AML of any risk classification, or 18-54 years of age with high-risk AML disease based on one of the following:\r\n* Antecedent hematologic disorder including myelodysplasia (MDS)-related AML (MDS/AML) and prior myeloproliferative disorder (MPD)\r\n* Treatment-related myeloid neoplasms (t-AML/t-MDS)\r\n* AML with FLT3-ITD\r\n* Myeloid sarcoma\r\n* AML with multilineage dysplasia (AML-MLD)\r\n* Adverse cytogenetics (defined as -5/-5q; -7/-7q; abnormal 3q, 9q, 11q, 20q, 21q or 17p; t(6;9); t(9;22); trisomy 8; trisomy 13; trisomy 21; complex karyotypes (>= 3 clonal abnormalities); monosomal karyotypes
+Patients with untreated AML and the presence of FLT3 mutation (Cohort A only); untreated AML patients > 60 years who are not candidates for intensive chemotherapy and patients with relapsed or refractory FLT3-mutated AML may enroll to Cohort B
+Patients with secondary AML or therapy related disease (t-AML) are eligible
+Patients with core-binding factor AML (inv[16], t[8;21]) or t(15;17) (Cohort A only)
+AML with favorable risk cytogenetic abnormalities including t(15;17), t(8;21) or inv(16)
+Patients must have histologically or cytologically confirmed acute myeloid leukemia (AML) by World Health Organization (WHO) criteria in the blood and/or marrow AND age >= 60 and not candidates/refuse standard induction treatment OR who have one of the following: poor risk cytogenetics, AML following antecedent hematologic disorder, or therapy-related AML
+Patients must have histologic proof of active AML at time of enrollment
+Refractory to first-line AML therapy is defined as:
+AML secondary to prior chemotherapy for other neoplasms, except AML secondary to prior Myelodysplastic Syndrome (MDS).
+Subject must have received no prior treatment for AML with the exception of hydroxyurea
+Subject has favorable risk cytogenetics as categorized by the National Comprehensive Cancer Network Guidelines Version 2, 2014 for AML.
+No prior therapy for AML, except for hydroxyurea, in this setting is allowed.
+A diagnosis of renal AML > 3 cm confirmed on pre-enrollment DCE-MRI; a previous diagnosis or treatment of a different AML lesion is allowed
+Patients must not have received any prior treatment for AML
+Treatment-related AML, except if it is associated with favorable cytogenetics (e.g., inversion 16, t(16;16), t(8;21), t(15;17)).
+Treatment-related AML, except if it is associated with favorable cytogenetics (e.g., inversion 16, t(16;16), t(8;21), t(15;17)).
+Diagnosis of AML according to WHO criteria 2016.
+AML (including secondary AML) diagnosed as per WHO criteria
+AML with inv(16), t(8;21), t(16;16), t(15;17), or t(9;22) or molecular evidence of such translocations
+AML secondary to exposure to potentially leukemogenic therapies or agents (eg, radiation therapy, alkylating agents, topoisomerase II inhibitors) with the primary malignancy in remission for at least 2 years.
+Absolute WBC count ? 15 × 109/L. AML Cohort:
+For AML patients, no more than 1 prior salvage therapy.
+Patients with AML\r\n* Patients with therapy-related myeloid neoplasms are allowed\r\n* Patients with AML that has evolved from an antecedent hematologic disorder are allowed\r\n* Patients will be eligible regardless of their ultimate plans or candidacy for allogeneic stem cell transplant
+AML patients include de novo AML, AML evolving from MDS or other AHD and AML after previous cytotoxic therapy or radiation (secondary AML)
+Patients with AML or biphenotypic or bilineage leukemia who have failed at least one prior therapy; patients with AML should have failed prior therapy or have relapsed after prior therapy
+AML without complete remission (CR/CRc/CRi) after at least 2 induction therapies OR AML that has relapsed within 6 months after obtaining a CR OR AML that has relapsed more than 6 months after obtaining a CR, and has treatment failure (TF) or progressive disease (PD) following at least 1 re-induction regimen OR AML that has relapsed post-allogeneic transplantation
+Relapsed/refractory AML (>= 5% blasts in bone marrow or extramedullary leukemia) or newly diagnosed AML patients who are not candidates for (age >= 70 years; adverse cytogenetics, e.g., as defined by the Medical Research Council [MRC] Prognostic Groupings; secondary AML; organ dysfunction arising from significant co-morbidities not directly linked to leukemia; Eastern Cooperative Oncology Group [ECOG] = 2) or not willing to undergo intensive chemotherapy; Note that both relapsed/refractory and newly diagnosed AML patients will be eligible for the dose escalation part of the study, but only newly diagnosed patients will be eligible for the dose expansion cohort
+Patients with previously untreated AML with core binding factor (CBF) chromosomal aberrations (inv[16]/t[16;16] or t[8;21]); Note that patients with relapsed or refractory AML with CBF chromosomal aberrations will be eligible
+Subject has received previous therapy for AML, with the exception of the following:
+Subject has clinically significant coagulation abnormality unless secondary to AML.
+Diagnosed with AML
+Patients with secondary AML or therapy related disease (t?AML) are eligible; patients who received decitabine or 5?azacytidine as prior treatment for myelodysplastic syndrome (MDS) or AML remain eligible; however, none of these agents is permitted within 6 months of study entry
+We will define patients as high risk AML and thus eligible if they meet one or more of the following criteria:\r\n* Secondary AML (from underlying MDS or therapy related)\r\n* Presence of complex cytogenetic abnormalities (>= 3 cytogenetic abnormalities), all monosomies, del 5q, del 7q, inv3, t(3;3), t(6;9), t(9;22), abn 11q23 (excluding t[9;11])\r\n* Fms-related tyrosine kinase 3 (FLT3)-internal tandem duplication (ITD) mutation positive\r\n* Age >= 65 years
+Subject has received previous therapy for AML, with the exception of the following:
+Diagnosis of Myelodysplastic syndrome (MDS) according to WHO classification with refractory anemia with excess blasts (subtype RAEB-1 or RAEB-2), or considered high-risk by the Revised International Prognostic Scoring System (IPSS-R), that is recurrent or refractory, or the subject is intolerant to established therapy known to provide clinical benefit for their condition (i.e., subjects must not be candidates for regimens known to provide clinical benefit), according to the treating physician and with approval of the Medical Monitor. Phase 1/Part 1 Expansion: Arm 1: Relapsed or refractory AML and age greater than or equal to 60 years or any subject with AML regardless of age who has relapsed following a Bone marrow transplant (BMT). Arm 2: Relapsed or refractory AML and age <60 years, excluding subjects with AML who have relapsed following a BMT. Arm 3: Untreated AML and age greater than or equal to 60 years that decline standard of care chemotherapy. Arm 4: Isocitrate dehydrogenase protein, 2 (IDH2)-mutated advanced hematologic malignancies not eligible for Arms 1 to 3. Phase 2: Diagnosis of AML according to World Health Organization (WHO) criteria and disease relapsed or refractory as defined by:
+Patients with AML must have either: (a) relapsed or refractory leukemia after receiving at least one prior conventional induction therapy. Those in early first relapse must not have a matched donor and/or they must not be a candidate for allogeneic stem cell transplantation (usually this would mean the patient is too ill, obese, has a co-morbid condition or is over the age of 55 years) or (b) poor-risk AML as defined below: (i) Treatment related AML, except if it is associated with favorable cytogenetics (e.g., inversion 16, t(16;16), t(8;21), t(15;17), and not a candidate for stem cell transplantation, or (ii) AML with an antecedent hematologic disease (e.g., MDS, myelofibrosis, polycythemia vera, etc.), and not a candidate for stem cell transplantation. (iii) De novo AML > 70 years of age. (iv) AML with unfavorable cytogenetics regardless of age (>18 years), if patients are not candidates for allogeneic transplantation. Unfavorable cytogenetics are the following: complex (>3 abnormalities), -7, -5, 7q-, 5q-, abnormalities of 11q23 excluding t(9;11), t(9;22), inversion 3, t(3;3), t(6;9). (c) Patients older than 60 years of age who had AML (i.e., > 20% bone marrow blasts) and no prior therapy for AML
+Patients with previously untreated AML are candidates if they are unable to receive anthracyclines, and have documented AML with >= 20% blasts within one week prior to enrollment
+Newly diagnosed AML (according to the World Health Organization [WHO] 2008 classification) except t(15;17), including:\r\n* De novo AML\r\n* Secondary AML\r\n* Secondary AML arising from previously diagnosed myelodysplastic syndromes (MDS) or other antecedent hematologic malignancy treated with deoxyribonucleic acid (DNA) methyltransferase inhibitor (DNMTi) (i.e., decitabine or azacitidine)
+Patients must have one of the following disease characteristics:\r\n* Therapy-related myeloid neoplasm (t-MN) age >= 18 years\r\n** Patients must have received cytotoxic chemotherapy, radiation, or a drug known to affect the properties of deoxyribonucleic acid (DNA) or cell growth, prior to current diagnosis of t-MN; this broad definition is meant to include any prior therapy with chemicals that affect DNA replication, DNA integrity, or DNA structure, or chemicals that alter cell growth; this includes traditional cytotoxic chemotherapy, newer immunologic agents that have been shown to have cytotoxic activities in addition to immunosuppressive functions, and other chemicals; note that patients with primary AML could be diagnosed with a t-MN if morphology/cytogenetic analysis clearly indicated that the second process is not a relapse of the original disease\r\n* AML arising from an antecedent hematological disorder age >= 18 years\r\n* De novo AML in patients age >= 60 years\r\n* Relapsed and/or refractory AML >= 18 years
+Investigator considers patient ineligible for intensive remission induction therapy based on documented medical reasons (e.g. disease characteristics like AML genetics, type of AML (de novo or secondary), and patient characteristics like performance score, concomitant diagnoses, organ dysfunctions).
+Therapy related AML: t-AML must have a documented history of prior cytotoxic therapy or ionizing radiotherapy for an unrelated disease
+Prior treatment intended for induction therapy of AML; only hydroxyurea is permitted for control of blood counts. For example, a patient with MDS that changes HMA dose and schedule after the diagnosis of AML is excluded. AML-type therapy, such as cytarabine alone (>1g/m2/day) or cytarabine plus an anthracycline as well as prior HSCT are also excluded.
+Confirmed primary AML relapsed or refractory after prior therapy, AML secondary to antecedent chemotherapy or radiation therapy, or AML due to prior myelodysplastic syndrome (MDS)/ myeloproliferative neoplasm (MPN) as defined by WHO criteria with presence of either FLT3 ITD and/or other FLT3 activating mutations
+Patients with secondary AML should have failed no more than two (2) prior regimens
+AML that is considered to be therapy-related
+Patients with evolution to AML are required to be in a morphologic leukemia free-state with blasts < 5%
+Patients with t-AML are required to be in a morphologic leukemia free-state with blasts < 5%
+Relapsed AML or secondary AML (from myelodysplastic syndromes [MDS] or treatment related): not in CR after 1 or more cycles of standard re-induction therapy
+AML relapsed > 2 months after transplant
+Male or female patient ? 18 years of age with newly diagnosed, histologically confirmed, AML including de novo, secondary to antecedent hematologic disorders, or treatment-related disease with intermediate or unfavorable-risk cytogenetics
+AML-associated inv(16)/t(16;16)/del(16q), t(15;17) (i.e. promyelocytic leukemia) with/without secondary aberrations; t(8;21) lacking del (9q) or complex karyotypes
+Previous chemotherapy for AML except for the following, which are allowed:
+Patients with AML at initial diagnosis or at first relapse
+For subjects Age < 65\r\n* Refractory AML\r\n* OR AML relapse within six months of attaining remission\r\n* OR AML relapse more than six months after achieving a remission, who cannot achieve a second remission \r\n* OR Untreated subjects who develop AML after preexisting hematologic disease \r\n* OR Secondary AML\r\nFor subjects Age >= 65\r\n* De novo AML not candidates for induction chemotherapy\r\n* OR Refractory AML\r\n* OR AML relapse within six months of attaining remission\r\n* OR AML relapse more than six months after achieving a remission, who cannot achieve a second remission\r\n* OR Untreated subjects who develop AML after preexisting hematologic disease \r\n* OR Secondary AML
+Recipients with AML in first complete remission (CR1) must have one of the following:\r\n* Adverse cytogenetics with residual disease detectable by flow cytometry, cytogenetic analysis, fluorescence in situ hybridization (FISH), or polymerase chain reaction (PCR); adverse cytogenetics in AML are defined as complex karyotype (>= 3 abnormalities); inversion (inv)(3) or t(3;3); t(6;9); t(6;11); monosomy 7; trisomy 8, alone or with an abnormality other than t(8;21), t(9;11), inv(16) or t(16;16); or t(11;19 (q23;p13.1) \r\n* Primary induction failure, defined as failure to achieve CR with primary induction chemotherapy \r\n* Secondary AML, defined as AML related to antecedent MDS, MPD, or cytotoxic chemotherapy\r\n* Hyperleukocytosis, white blood cells (WBC) >= 100,000, at diagnosis\r\n* Mutations in the FMS-like tyrosine kinase 3 (FLT3) gene (FLT3-LM; FLT internal tandem duplication [ITD]s)
+Patients must have histologically confirmed relapsed or refractory AML and meet the following criteria:\r\n* Relapsed disease is defined as AML is in 1st or greater marrow relapse\r\n* Refractory disease is defined as AML which failed to go into remission after 1st or greater relapse, OR AML which failed to go into remission after two or more induction attempts from original diagnosis
+AML associated with favorable risk karyotypes including inv(16), t(8;21), t(16;16), or t(15;17)
+Secondary AML
+The original diagnosis of AML must have been confirmed by bone marrow aspirate and/or biopsy review by a Johns Hopkins (JH) hematopathologist; patients are eligible if they have AML that is not classified as poor-risk or APL; poor-risk AML is defined as therapy-related, arising from a previous marrow disorder, or de novo AML associated with any of the following characteristics: trilineage dysplasia, fms-related tyrosine kinase 3 (FLT3)/internal tandem duplication (ITD) mutation, poor risk cytogenetics including: chromosome 3, 5, or 7 abnormalities, t(6;9), and complex karyotype
+MDS or high-risk AML, morphologically confirmed and based on World Health Organization criteria), who are transplant candidates with an available human leukocyte antigen (HLA)-matched sibling or unrelated donor with at least 8/8 match\r\n* Definition of high-risk AML:\r\n** Age >= 60 years\r\n** Age < 60 years with any of the following:\r\n*** Secondary AML\r\n*** Poor risk cytogenetics, which include abnormalities of chromosome 3, 5, or 7, trisomy 8, 11q23 abnormalities, t(6;9), 20q-, and complex karyotype\r\n*** Fms-related tyrosine kinase 3 (FLT3) mutation\r\n*** Disease status >= second complete remission (CR2) at time of HCT\r\n*** Detectable disease at time of HCT
+Histologically proven non-M3 AML:\r\n* Refractory/relapsed AML OR\r\n* Initial diagnosis of AML in patient >= 60 years old
+Age ? 60 years with relapsed/refractory AML of any type except for acute promyelocytic leukemia (APL; AML M3), after at least 1 prior AML therapy , who have never undergone, and who are not currently eligible for, stem cell transplantation, and are currently deemed unfit for intensive chemotherapy.
+RR-AML
+Patient must have one of the following histologically or cytologically documented measurable (may be measureable by tumor markers only, such as quantitative RT-PCR for WT1 transcript for AML, or CA-125 for ovarian carcinoma) advanced stage malignancies: non-small cell lung, ovarian, glioblastoma, and AML (not including acute promyelocytic leukemia), known to overexpress the WT1 protein.
+Patient must have histologically or cytologically documented measurable (may be measurable by tumor markers only, such as quantitative RT-PCR for WT1 transcript for AML) advanced stage glioblastoma or AML (not including acute promyelocytic leukemia), known to overexpress the WT1 protein. Note: Determination of WT1 expression will not be assessed prior to patient enrollment.
+Patients with secondary AML or therapy related disease (t-AML) are eligible
+Histologically or cytologically confirmed AML, other than acute promyelocytic leukemia, as defined by the 2008 World Health Organization (WHO) criteria that is relapsed or refractory to standard chemotherapy; Note: newly-diagnosed AML patients who are 60 years or older and are not candidates for or have refused standard chemotherapy are also eligible for this trial
+Diagnosed with AML according to the WHO 2008 classification. Note: subjects with secondary AML following Myelodysplastic syndrome or secondary to previous leukemogenic therapy are allowed provided that a record of previous MDS history or leukemogenic therapy history is available.
+Previous AML treatment (other than hydroxyurea).
+Patients diagnosed with AML meeting one of the following criteria:\r\n* Newly diagnosed, age 60 and older\r\n* High risk cytogenetics and molecular abnormalities (National Comprehensive Cancer Network [NCCN] criteria)\r\n* Relapsed or refractory to prior chemotherapy\r\n* Secondary AML
+Patient must not have received definitive treatment for AML, defined as any prior chemotherapy with antileukemic activity
+The patient has a diagnosis of AML associated with karyotype t(15;17).
+Patients with FLT3 ITD positive AML or AML patients with other cytogenetic abnormalities who are eligible for trials of other targeted investigational agents from which the investigator feels there is greater benefit.
+Morphologically documented primary AML, prior-chemotherapy-related AML or AML secondary to an antecedent hematologic disorder (e.g., Myelodysplastic Syndrome) as defined by WHO criteria, confirmed by pathology review. For Cohort Expansion Phase (Part 2) only: Bone marrow involvement is required.
+Have either relapsed or refractory AML, or who have newly diagnosed Flt3-ITD positive AML but either refuse or are considered by the Investigator not to be an appropriate candidate for standard chemotherapy.
+65+ yrs with AML not eligible for standard frontline chemo
+The leukemia is a de novo or secondary AML.
+The patient has cytologically proven AML, as defined by the WHO classification. The pretreatment AML karyotype should be documented.
+The leukemia could be a de novo or secondary AML.
+Hospitalized patients with high-risk AML, defined as:\r\n* Newly diagnosed patients with AML \r\n* Newly diagnosed AML with antecedent hematologic disorder\r\n* Newly diagnosed therapy-related AML\r\n* Relapsed AML\r\n* Primary refractory AML
+Patients must have one of the following diagnoses and/or treatment plans:\r\n* Newly diagnosed de novo AML\r\n* First or subsequent relapse of AML\r\n* Secondary AML\r\n* Treatment with institutional standard AML therapy in those without AML (for example, myelodysplastic syndrome, bone marrow blasts > 5% or biphenotypia)\r\n* Note: Patients with a history of prolonged antifungal therapy (example, relapsed AML) are eligible
+Newly diagnosed, morphologically documented primary AML or AML secondary to myelodysplastic syndrome or a myeloproliferative neoplasm, based on the World Health Organization (WHO) 2008 classification (at Screening);
+Diagnosis of AML secondary to prior chemotherapy or radiotherapy for other neoplasms;
+Prior treatment for AML, except for the following allowances:
+Previous chemotherapy for AML
+Prior AML therapy, with the exception of intrathecal chemotherapy or emergent radiation for myeloid sarcoma.
+Patients with secondary or relapsed AML or APL should be excluded
+Patients must have AML at initial diagnosis or at first relapse
+diagnosis of AML
+Prior chemotherapy for AML

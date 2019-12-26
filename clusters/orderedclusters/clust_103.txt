@@ -1,0 +1,10 @@
+Patients should avoid concomitant medication known or suspected to prolong QTc interval or cause Torsades De Pointes; if possible, alternative agents should be considered; patients who are receiving drugs that prolong the QTc are eligible if the drug is necessary and no alternatives are available
+77.0
+Correct QT interval (QTc) =< 480 msec; Note: Patients should avoid concomitant medication known or suspected to prolong QTc interval or cause torsades de pointes; if possible, alternative agents should be considered; patients who are receiving drugs that prolong the QTc are eligible if the drug is necessary and no alternatives are available
+154.0
+Corrected QT (QTc) =< 480 msec* Note: Patients should avoid concomitant medication known or suspected to prolong QTc interval or cause Torsades De Pointes; If possible, alternative agents should be considered* Patients who are receiving drugs that prolong the QTc are eligible if the drug is necessary and no alternatives are available
+65.0
+Patients who are receiving drugs that prolong QTc are not eligible
+146.0
+Corrected QT (QTc) interval =< 480 milliseconds; Note: Patients should avoid concomitant medication known or suspected to prolong QTc interval or cause Torsades De Pointes; if possible, alternative agents should be considered; patients who are receiving drugs that prolong the QTc are eligible if the drug is necessary and no alternatives are available
+49.0

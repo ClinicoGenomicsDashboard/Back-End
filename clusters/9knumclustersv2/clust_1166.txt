@@ -1,0 +1,25 @@
+Has known active Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA [qualitative] is detected).
+Has known active Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA [qualitative] is detected)
+Has known history of or is positive for active Hepatitis B (HBsAg reactive) or has active Hepatitis C (HCV RNA). Note: Testing must be performed to determine eligibility.
+COHORT : Has known active hepatitis B (e.g., HBsAg reactive) or hepatitis C (e.g., HCV RNA [qualitative] is detected)
+Known history of Human Immunodeficiency Virus (HIV, HIV / antibodies), known active Hepatitis B (e.g. HBsAg reactive) or Hepatitis C (e.g. HCV RNA [qualitative] is detected).
+Has a known history of Hepatitis B (defined as Hepatitis B surface antigen [HBsAg] reactive) or known active Hepatitis C virus (defined as HCV RNA [qualitative] is detected) infection
+Known active Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA [qualitative] is detected).
+Has a known history of or is positive for Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA [qualitative] is detected). Note: Without known history testing needs to be performed to determine eligibility.
+Has known history of or is positive for active Hepatitis B (HBsAg reactive) or has active Hepatitis C (HCV RNA). Note: Testing must be performed to determine eligibility.
+Has known active Hepatitis B (eg, HBsAg reactive) or Hepatitis C (eg, HCV RNA [qualitative] is detected
+Has known active infection with Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA (qualitative) is detected).
+Has known active hepatitis B (e.g., hepatitis B virus HBsAg surface protein antigen [HBsAg] reactive) or hepatitis C (e.g., hepatitis C viral load measurement [HCV RNA] [qualitative] is detected)
+Has known active Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA [qualitative] is detected).
+Has known active Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA [qualitative] is detected);
+Has a known history of hepatitis B (defined as hepatitis B surface antigen [HBsAg] reactive) or known active hepatitis C virus (defined as HCV RNA [qualitative] is detected) infection
+Known history of or is positive for active hepatitis B (defined as hepatitis B surface antigen [HBsAg] reactive) or hepatitis C (defined as HCV RNA [qualitative] is detected).
+Known history of or is positive for active hepatitis B (HBsAg reactive) or has active hepatitis C (HCV RNA). Note: Testing must be performed to determine eligibility.
+Known history of or is positive for active hepatitis B (hepatitis B surface antigen [HBsAg] reactive) or has active hepatitis C (HCV RNA). Note: Testing must be performed to determine eligibility.
+The participant has active infection requiring systemic therapy, including active tuberculosis or known history of infection with the human immunodeficiency virus (HIV / antibodies), or hepatitis B (e.g., HBsAg reactive) and/or C virus (e.g., HCV RNA [qualitative] is detected).
+Known active Hepatitis B (e.g., HBsAg reactive) or Hepatitis C (e.g., HCV RNA [qualitative] is detected).
+Patients that are known to be positive for Human Immunodeficiency Virus (HIV) (HIV / antibodies), active Hepatitis B (HBsAg reactive), or Hepatitis C (HCV RNA [qualitative] is detected); patients with negative Hepatitis C antibody testing may not need RNA testing.
+Known active Hepatitis B (e.g., HBsAg reactive, confirmed by detectable viral load) or Hepatitis C (e.g., HCV RNA [qualitative] detected)
+Has known active Hepatitis B (eg, HBsAg reactive) or Hepatitis C (eg, HCV RNA [qualitative] is detected
+Positive for hepatitis B (HBsAg reactive), HCV ribonucleic acid (RNA) qualitative, or human immunodeficiency virus (HIV)( HIV / antibodies)
+Known HIV infection or known positivity for active Hepatitis B (HBsAg reactive) or Hepatitis C (HCV RNA [qualitative] is detected).

@@ -1,0 +1,262 @@
+Patients already receiving erythropoietin or granulocyte colony stimulating factor (GCSF) for treatment of HIV-related cytopenia are eligible
+Absolute neutrophil count (ANC) >= 1000/mm^3 (after granulocyte colony-stimulating factor [G-CSF] discontinued)
+Prior exposure to CTLA-4 inhibitors (ipilimumab and tremelimumab) is not permitted; prior exposure to the following is allowed: attenuated vaccines, anti-EGFR agents, and granulocyte-macrophage colony-stimulating factor (GM-CSF)
+Absolute granulocyte count (AGC) >= 1,500/mm^3, within 4 weeks of randomization
+Biologic response modifiers (eg, granulocyte colony-stimulating factor) within 4 weeks before study entry. Chronic erythropoietin therapy is permitted provided that no dose adjustments were made within 2 months before first dose of study treatment
+Treatment within 28 days prior to Cycle 1 Day 1 with: i) long acting erythropoiesis stimulating agents, ii) long acting Granulocyte colony-stimulating factor (G-CSF), iii) granulocyte- macrophage colony stimulating factor (GM-CSF), iv) 5-aza, lenalidomide or decitabine, or v) iron chelation and within 14 days prior to Cycle 1 Day 1 with short acting erythropoiesis stimulating agents and short acting G-CSF.
+Use of granulocyte colony stimulating or granulocyte-macrophage colony stimulating factor in the 2 weeks prior to study drug administration (Cycle 1 Day 1)
+Absolute granulocyte count >= 1.2 x 10^3/mm^3
+Has received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including G-CSF, GM-CSF or recombinant erythropoietin) within 4 weeks prior to study Day 1.
+Concurrent MDS therapies, including lenalidomide, erythropoietin, cyclosporine/tacrolimus, granulocyte-colony stimulating factor (G-CSF), granulocyte-macrophage colony-stimulating factor, etc. (Prior treatment with these agents is permitted, provided that completion is at least 1 week before the first dose of study treatment.)
+Use of hematopoietic colony-stimulating growth factors (e.g. granulocyte colony-stimulating factor [G-CSF], granulocyte macrophage colony stimulating factor [GMCSF], macrophage colony-stimulating factor [M-CSF]) =< 2 weeks prior start of study drug; an erythroid stimulating agent is allowed as long as it was initiated at least 2 weeks prior to the first dose of study treatment
+The absolute neutrophil count (ANC) >= 1000/mm^3 without colony stimulating factor support
+Granulocyte 1500 cells/mm3
+Adequate hematologic status as demonstrated by not requiring transfusion support or granulocyte-colony stimulating factor (G-CSF) to maintain: Absolute neutrophil count (ANC) ?1500 cells/mm3, Platelet count ?100 x 109/L, Hemoglobin (Hgb) ?10 g/dL
+Recent use of hematopoietic colony-stimulating growth factors (e.g. G-CSF, GMCSF, M-CSF) Additional exclusion criteria for Combination arm PDR001+canakinumab and single-agent canakinumab
+Absolute neutrophil count >= 1000/mm^3 without colony stimulating factor support, within 14 days before the first dose of cabozantinib
+Screening ANC should be independent of granulocyte-and granulocyte/macrophage colony stimulating factor (G-CSF and GM-CSF) support for at least 1 week and of pegylated G-CSF for at least 2 weeks
+The absolute neutrophil count (ANC) >= 1500/mm^3 without colony stimulating factor support within 7 days before the first dose of cabozantinib
+Has received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including granulocyte colony stimulating factor [G-CSF], granulocyte macrophage colony stimulating factor [GMCSF] or recombinant erythropoietin) within 4 weeks prior to study start
+Transfusion of blood products (including platelets or red blood cells[RBCs]) or administration of colony stimulating factors (including G-CSF, GM-CSF or recombinant erythropoietin) within 1 week of the NGS blood sample during screening, and 4 weeks of the first dose of mRNA-4157 or pembrolizumab
+Subjects who have used any of the following within 4 weeks prior to registration: blood or platelet transfusions, erythropoietin, and biologic response modifiers such as granulocyte macrophage colony-stimulating factor (GM-CSF) or granulocyte colony-stimulating factor (G-CSF)
+Growth factors: off all colony forming growth factor(s) for at least 1 week prior to registration (filgrastim, sargramostim, erythropoietin) and at least 2 weeks for long-acting formulations
+Absolute neutrophil count (ANC) greater than or equal to 1,500/mcl, within 14 days prior to registration; this ANC cannot have been induced by granulocyte colony stimulating factors
+Use of hematopoietic colony-stimulating growth factors (eg, G-CSF, GM-CSF, M-CSF) ? 2 weeks prior to start of study drug
+Absolute neutrophil count (ANC) ?1.5 × 10e9/L, hemoglobin (Hb) ?9.0 g/dL, and platelet count ?75.0 × 10e9/L independent of transfusion of red blood cells (RBC) or platelet concentrates and independent of granulocyte colony-stimulating factor (G-CSF) or granulocyte-macrophage colony-stimulating factor (GM-CSF).
+Adequate hematologic function independent of transfusion and growth factor support for at least 7 days prior to screening and randomization, with the exception of PEGylated granulocyte colony stimulating factor (GCSF) (pegfilgrastim) and darbepoetin which require at least 14 days prior to screening and randomization
+Concurrent use of granulocyte macrophage colony-stimulating factor (GM-CSF).
+Patients may have had no prior systemic therapy except\r\n* Localized emergency radiation to sites of life threatening or functioning disease\r\n* No more than 1 cycle of chemotherapy according to low or intermediate risk regimens prior to determination of MYCN amplification and histology, as long as the patient DID NOT receive granulocyte colony-stimulating factor (G-CSF) as part of that therapy
+Received transfusion of blood products or administration of colony stimulating factors within 4 weeks prior to the first dose of treatment.
+Concurrent use of human granulocyte-macrophage colony-stimulating factor
+Patients who are planned to receive the following medications concurrent with radiation: granulocyte stimulating factor (G-CSF), bevacizumab, cyclosporine, antitumor necrosis factor agents, amifostine
+Active treatment with growth factors such as erythropoietin stimulating agent (ESA), granulocyte colony-stimulating factor (GCSF), or thrombopoietin stimulating factor within 4 weeks of registration
+Growth factors: all colony forming growth factor(s) have been discontinued for at least one week prior to enrollment (filgrastim, sargramostim, and erythropoietin); for patients on long acting growth factors, the interval should be two weeks
+Patients receiving the following medications at study entry or within the preceding 4 weeks are excluded:\r\n* Agents with putative immunomodulating activity (with the exception of non-steroidal anti-inflammatory agents and topical steroids.\r\n* Allergy desensitization injections.\r\n* Systemic corticosteroids, administered parenterally or orally. Inhaled steroids (e.g. Advair, Flovent, Azmacort) are not permitted. Topical corticosteroids are acceptable, including steroids with very low solubility administered nasally for local effects only (e.g. Nasonex).\r\n* Any growth factors (e.g. granulocyte-macrophage colony-stimulating factor (GM-CSF), granulocyte-colony stimulating factor (G-CSF), erythropoietin).\r\n* Interferon therapy.\r\n* Interleukin-2 or other interleukins.\r\n* For immune modulating agents, it may be necessary for more than 4 weeks to have elapsed since completion of that therapy.
+Granulocyte > 1500/ul within four weeks of enrollment
+DONOR: known allergy to granulocyte colony-stimulating factor (G-CSF) or to Escherichia Coli (E. Coli)-derived recombinant protein products
+Absolute granulocyte count >= 1,500/mm^3 (1.5 x 10^9/L)
+=< 7 days before first dose of protocol-indicated treatment:\r\n* Receipt of granulocyte colony?stimulating factor (G-CSF) or granulocyte?macrophage colony stimulating factor (GM-CSF).
+Absolute neutrophil count >= 1000/uL without growth factor support (e.g. granulocyte colony stimulating factor [GCSF]) in the previous 7 days
+Inability to purify >= 2.5 x 10^6 CD34-enriched cells/kg of patient weight from the pooled granulocyte-colony stimulating factor (G-CSF) mobilized leukapheresis products
+DONOR: Donor unfit to receive granulocyte colony-stimulating factor (G-CSF) and undergo apheresis.
+Granulocyte count ? 1000/mm^3
+Significant allergic reaction to contrast dye or granulocyte-macrophage colony-stimulating (GM-CSF)
+Patients must not be receiving growth factors (granulocyte colony-stimulating factor [G-CSF], granulocyte-macrophage colony-stimulating factor [GM-CSF]), except for erythropoietin
+Neutrophil count ? 1,500/mm3 without granulocyte colony stimulating factor.
+Currently or previously being on erythrocyte stimulating agents (ESA) and granulocyte colony stimulating factors (G-CSF)
+Patients must not have received granulocyte colony stimulating factor (G-CSF) or granulocyte/macrophage colony stimulating factor support 3 weeks prior to first BA3011 administration.
+Have had previous treatment for HCL, including purine analogs, rituximab, and other investigational agents; previous treatment with transfusions and other supportive care such as granulocyte colony-stimulating factor (G-CSF) and erythropoietin are allowed
+Known hypersensitivity reaction to the granulocyte-macrophage colony-stimulating factor (GM-CSF) adjuvant; any known contraindication to GM-CSF
+Obtained within 28 days prior to the first dose of cabozantinib: absolute neutrophil count (ANC) >= 1500/mm^3 without colony stimulating factor support.
+Absolute granulocyte count < 1000; platelets <100,000.
+Granulocyte count >= 1000/mm3 ((within 16 days before starting therapy)
+Granulocyte count >= 1000/mm^3 (within 16 days before starting therapy)
+Known allergy or hypersensitivity to KLH, granulocyte macrophage colony stimulating factor (GM-CSF) or yeast derived products, or a history of anaphylactic reactions to shellfish proteins
+Has received granulocyte-macrophage colony-stimulating factor (GM-CSF) within 14 days of first dose of pembrolizumab
+Current use of granulocyte colony-stimulating factory (G-CSF) or GM-CSF.
+HLA-MATCHED UNRELATED DONOR: Only granulocyte colony-stimulating factor (G-CSF) mobilized PBSC will be permitted as a HSC source on this protocol
+Has received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including G-CSF, GM-CSF, or recombinant erythropoietin) within 4 weeks prior to the first dose of study treatment
+Within 14 days prior to registration: Absolute neutrophil count (ANC) >= 1,000/mcl; this ANC cannot have been induced by granulocyte colony stimulating factor
+Absolute neutrophil count >= 1,000/mcL; red blood cell (RBC) transfusions and use of granulocyte colony-stimulating factor (G-CSF) will be allowed in order to meet eligibility parameters (unless dysfunction is secondary to lymphoma involvement)
+Absolute neutrophil count (ANC) >= 1000 x 10^9/L, unsupported by granulocyte colony-stimulating factor (G-CSF) or granulocytes (within 14 days of study registration)
+Within 7 days before the first dose of study treatment: The absolute neutrophil count (ANC) >= 1500/mm^3 without colony stimulating factor support
+Patients must be able to meet the criteria without transfusion or receipt of colony stimulating factors within 4 weeks before obtaining sample
+Patients must not require “support” to maintain adequate blood counts, as defined by:\r\n* Patients must not have received a transfusion (platelets or red blood cells) =< 4 weeks prior to initiating protocol therapy\r\n* Patient must not have received colony stimulating factors (eg, granulocyte colony-stimulating factor, granulocyte macrophage colony stimulating factor, or recombinant erythropoietin) within 4 weeks prior initiating protocol therapy\r\n* Participant has had any known grade 3 or 4 anemia, neutropenia or thrombocytopenia due to prior chemotherapy that persisted > 4 weeks and was related to the most recent treatment
+Absolute neutrophil count (ANC) < 1500 cells/uL (granulocyte colony-stimulating factor support should not be used within 2 weeks prior to cycle 1, day 1)
+Received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including G-CSF, GM-CSF or recombinant erythropoetin) within 4 weeks prior to the first dose of study treatment.
+Granulocyte-macrophage colony stimulating factor (GM-CSF) or granulocyte colony-stimulating factor (G-CSF) use within 2 weeks of study treatment and throughout the study
+Receipt of transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including granulocyte colony-stimulating factor [G-CSF], granulocyte macrophage colony-stimulating factor [GM-CSF], or recombinant erythropoietin) within 4 weeks prior to study treatment
+White blood cell (WBC) > 2.5 x 10^9/L with an absolute neutrophil count (ANC) > 1.5 x 10^9/L off granulocyte colony-stimulating factor (G-CSF) or granulocyte macrophage colony-stimulating factor (GM-CSF) for 10 days or Neulasta for 21 days
+Granulocyte count <1500/mm3
+Absolute granulocyte count < 1000; platelets <100,000.
+Granulocyte count >= 1,500/mm^3 (within 16 days of enrollment)
+Absolute neutrophil count > 750 cells/mm^3 (0.75 x 10^9/L) independent of transfusion and growth factor support for at least 7 days prior to screening (except for pegylated granulocyte-colony stimulating factor [G-CSF] [pegfilgrastim] and darbepoetin which require at least 14 days prior to screening)
+Granulocyte count > 1500/mm^3
+FULL STUDY INCLUSION CRITERIA: Absolute neutrophil count (ANC) >= 1000/mm^3, without biologic response modifiers, such as granulocyte colony-stimulating factor (G-CSF), within 6 weeks before the start of study treatment
+Has received the following at study entry or within 4 weeks prior to study day 1 or has not recovered (i.e., =< grade 1 or at baseline) from adverse events due to agents administered more than 4 weeks earlier:\r\n* Prior anti-cancer monoclonal antibody (mAb), including anti-PD-1, anti-PD-L1 and anti-PD-L2 blockade\r\n* Any growth factors (e.g. granulocyte-macrophage colony-stimulating factor [GM-CSF], granulocyte-colony stimulating factor [G-CSF], erythropoietin)\r\n* Interferon or interleukin therapy\r\n* Other agents with putative immunomodulating activity
+Patients receiving growth factors including, but not limited to, granulocyte-colony stimulating factor (G-CSF), granulocyte-macrophage colony-stimulating factor (GM-CSF), erythropoietin, within 14 days of study drug administration; use of such agents while on study is also prohibited
+Adequate hematologic status as demonstrated by not requiring transfusion support or granulocyte-colony stimulating factor (G-CSF) to maintain: Absolute neutrophil count (ANC) ?1500 cells/mm3, Platelet count ?100 x 109/L, Hemoglobin ?10 g/dL; subjects with thalassemia having a hemoglobin <10 g/dL may be enrolled, per Investigator discretion
+Platelet and blood transfusions are allowed on protocol; growth factors, including granulocyte colony stimulating factors and erythropoietin are allowed
+No transfusion of blood or blood products within 2 weeks and no granulocyte colony-stimulating factor (G-CSF) or granulocyte-macrophage colony stimulating factor (GM-CSF) within 2 weeks
+DONOR: Donor unfit to receive granulocyte-macrophage colony-stimulating (G-CSF) and undergo apheresis
+Contraindication to CE melphalan or any of the required supportive treatments, including hypersensitivity to granulocyte colony stimulating factor (G-CSF) or pegfilgrastim
+Concomitant therapy with bisphosphonates, RANKL inhibitors or growth-colony-stimulating factors (G-CSF) is allowed as per physician decision
+PART 2 GROUP 2A INCLUSION CRITERIA: Peripheral ANC >= 1000/mm^3 (1.0 x 10^9/L) without granulocyte growth factor for >= 7 days
+PART 2 GROUP 3 INCLUSION CRITERIA: Peripheral ANC >= 1000/mm^3 (1.0 x 10^9/L) without granulocyte growth factor for >= 7 days
+Absolute neutrophil count (ANC) >= 1,500/mcl; this ANC cannot have been induced or supported by granulocyte colony stimulating factors
+Absolute neutrophil count < 1000 cells/mm^3; no granulocyte colony stimulating factors (G-CSF or GM-CSF) allowed within 1 week of enrollment; no pegylated granulocyte colony stimulating factors are allowed within 3 weeks of treatment start
+Patients receiving growth factors including, but not limited to, granulocyte-colony stimulating factor (G-CSF), GM-CSF, erythropoietin, within 14 days of study drug administration; use of such agents while on study is also prohibited
+Patients treated with growth factors targeting the myeloid lineage (e.g. G-CSF, GM-CSF and M-CSF) within 2 weeks of starting study treatment. (applicable to combination part only).
+Absolute neutrophil count >= 1,500/mcL (without granulocyte colony-stimulating factor support within 2 weeks prior to cycle 1, day 1)
+Adequate bone marrow function: WBC > 2000/?L; platelet count > 75,000/?L; Neutrophil count > 1000/?L, without use of colony stimulating factors (CSF).
+Absolute neutrophil count (ANC) >= 1500 K/mm^3 (without use of granulocyte colony-stimulating factor [G-CSF] 4 weeks prior to enrollment)
+Treatment with hematopoietic growth factors (granulocyte-colony stimulating factor [G-CSF]):\r\n* Long-acting (e.g., Neulasta) within 14 days prior to study entry\r\n* Short-acting (e.g., Neupogen) within 7 days prior to study entry
+DONOR: Factors which place the donor at increased risk for complications from leukapheresis or granulocyte-colony stimulating factor (G-CSF) therapy
+Subject has received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including granulocyte colony-stimulating factor [G-CSF], granulocyte-macrophage colony-stimulating factor [GM-CSF] or recombinant erythropoietin) within 4 weeks prior to study day 1
+Granulocyte count >= 1,500/mm^3
+Absolute neutrophil count (ANC) >= 1000/mcl (granulocyte-colony stimulating factor [G-CSF] is allowed) (must be within 7 days of MLA)
+Peripheral absolute granulocyte count of > 1000/mm^3
+Known hypersensitivity to thalidomide, lenalidomide, Keyhole Limpet Hemocyanin (KLH), or granulocyte colony-macrophage stimulating factor (GM-CSF)
+Within 4 days prior to the first dose of cabozantinib: Absolute neutrophil count (ANC) >= 1500/mm^3 without colony stimulating factor support
+Treated with any hematopoietic colony-stimulating growth factors (e.g., granulocyte-colony stimulating factor [G-CSF], granulocyte-macrophage colony-stimulating factor [GM-CSF]) =< 2 weeks prior to study registration; NOTE: erythropoietin or darbepoetin therapy, if initiated at least 2 weeks prior to study registration, may be continued
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], granulocyte-macrophage colony-stimulating factor [GM-CSF]) =< 2 weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least 2 weeks prior to enrollment, may be continued
+Granulocyte count >= 1500/mm^3
+Patients with known hypersensitivity to granulocyte-macrophage colony-stimulating factor (GM-CSF), yeast-derived products, or any component of Leukine
+Prior hydroxyurea for control of leukocytosis or use of hematopoietic growth factors (e.g., granulocyte-colony stimulating factor [G-CSF], granulocyte-macrophage colony-stimulating factor [GM-CSF], procrit, aranesp, thrombopoietins) is allowed at any time prior to or during study if considered to be in the best interest of the patient
+Absolute neutrophil count (ANC) >= 1000 x 10^9/L unsupported by granulocyte-stimulating growth factor (G-CSF) or granulocyte-macrophage colony-stimulating factor (GM-CSF) for 3 days
+Absolute neutrophil count (ANC) >= 1,500/mm^3 (no colony stimulating factor [CSF] support)
+Absolute neutrophil count (ANC) >= 1500/mm^3 without colony stimulating factor support
+Patients receiving growth factors including, but not limited to, granulocyte-colony stimulating factor (G-CSF), granulocyte macrophage-colony stimulating factor (GM-CSF), erythropoietin, etc. within 28 days of study drug administration; use of such agents while on study is also prohibited
+Granulocyte count >= 1,500/mm3
+Granulocyte count >= 1500/mm^3
+Screening ANC should be independent of granulocyte and granulocyte/macrophage colony stimulating factor (filgrastim [G CSF] and sargramostim [GM CSF]) support for at least 1 week and of pegylated G CSF for at least 2 weeks
+Absolute granulocyte count (AGC) >= 1,500
+Granulocyte >= 1500/ul
+Use of hematopoietic colony-stimulating growth factors (eg, G-CSF, GMCSF, M-CSF) ? 2 weeks prior start or study drug. Patients must have completed therapy at least 2 weeks before the screening period begins with any hematopoietic colony-stimulating growth factors. An erythroid stimulating agent is allowed as long as it was initiated at least 2 weeks prior to the first dose of study treatment and the patient is not red blood cell transfusion dependent
+Off all colony forming growth factor(s) >= 2 weeks prior to registration (filgrastim [G-CSF], sargramostim [GM-CSF], erythropoietin)
+Peripheral absolute neutrophil count (ANC) >= 750/uL in absence of granulocyte colony stimulating factor (GCSF) for 72 hours (hrs) or pegylated (peg)-GCSF for 14 days
+No PEGylated granulocyte colony stimulating factor (PEG-GCSF) within 14 days of virus administration (day 0)
+Absolute granulocyte count > 1.5 x 10^3/mm3
+Absolute granulocyte count >= 1.2 x 10^3/mm^3
+Absolute neutrophil count (ANC) ? 1.5 x 10^9/L without granulocyte colony-stimulating factor (G-CSF) support within 7 days preceding the lab assessment.
+Received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including granulocyte colony-stimulating factor [G-CSF], granulocyte macrophage colony-stimulating factor, and recombinant erythropoietin) within 2 weeks before the first dose of study treatment.
+Has received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including granulocyte colony-stimulating factor [G-CSF], GM-CSF or recombinant erythropoietin) within 4 weeks prior to study Day 1;
+Absolute neutrophil count ? 1,500/mm3 (excluding measurements obtained within 7 days after administration of granulocyte colony-stimulating factor [G-CSF]).
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =< 2 weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least 2 weeks prior to enrollment, may be continued; packed red blood cell (PRBC) transfusion at least four weeks prior to start of therapy is allowed
+Any contraindication to receiving granulocyte-macrophage colony-stimulating factor (GM-CSF) based vaccine products
+Received immunotherapy (eg, IFNs, tumor necrosis factor, interleukins, or biological response modifiers [granulocyte-macrophage colony-stimulating factor, granulocyte colony-stimulating factor, macrophage colony-stimulating factor]) within 30 days prior to administration of the first study vaccination;
+RENAL COHORT: Laboratory values as follows within 4 days before the first dose of daratumumab: The absolute neutrophil count (ANC) ? 1500/mm^3 without colony stimulating factor support
+BLADDER: Clinical laboratory values at screening: ANC ? 1500/mm^3 without colony stimulating factor support
+Within 7 days before the first dose of cabozantinib: The absolute neutrophil count (ANC) >= 1000/mm^3 without colony stimulating factor support
+Cancer therapies, including chemotherapy, radiation, biologic, or kinase inhibitors, granulocyte colony-stimulating factor (G-CSF), granulocyte-macrophage colony-stimulating factor (GM-CSF) within 4 weeks prior.
+Granulocyte count ? 1500/mm^3 ? 2 weeks
+Granulocyte >= 1,500/uL
+Hematopoietic growth factors: erythropoietin, granulocyte colony stimulating factor (G-CSF), granulocyte macrophage colony stimulating factor (GM-CSF), or thrombopoietin receptor agonists at least 7 days (14 days for Aranesp), prior to study enrollment.
+Have received granulocyte colony stimulating factor (G-CSF) or granulocyte/macrophage colony stimulating factor support 3 weeks prior to first IMP administration.
+Absolute neutrophil count (ANC) >= 1000/uL; granulocyte colony-stimulating factor receptor (G-CSF) is not permitted within 14 days of screening
+Absolute granulocyte count >= 1.0 x 10^3/mm^3
+Peripheral granulocyte count of > 1,500/mm^3
+Absolute neutrophil count (ANC) >= 500/mm^3 (patients should be off granulocyte colony-stimulating factor [G-CSF] for at least 7 days)
+Absolute granulocyte count (AGC) >= 1,500 cells/mm^3
+Any hematopoietic growth factors (e.g., filgrastim [granulocyte colony-stimulating factor; G-CSF], sargramostim [granulocyte-macrophage colony-stimulating factor; GM-CSF]) within 14 days prior to receiving study treatment
+Absolute neutrophil count (ANC) >= 1500/mm^3, without colony stimulating factor support
+Biopsy-proven unresectable, metastatic melanoma refractory to standard immunotherapy drugs or regimens, including prior treatment with aldesleukin (IL-2), granulocyte-macrophage colony-stimulating factor (GM-CSF), ipilimumab, nivolumab, pembrolizumab, and/or Imlygic (talimogene laherparepvec [T-VEC]); prior clinical trial participation or treatment with molecularly targeted agents (i.e. vemurafenib/cobimetinib, dabrafenib/trametinib) or chemotherapy (i.e. temozolomide, dacarbazine, platinum, or taxanes) is permitted
+Patients must have normal organ and marrow function as defined below, independent of growth factor or transfusion support; patients should not receive growth factors or transfusions for at least 7 days prior to first dose of study drug, with the exception of pegylated granulocyte-colony stimulating factor (G-CSF) (pegfilgrastim) and darbepoetin which require at least 14 days prior to screening and randomization
+Hemoglobin >= 9 g/dL\r\n* Note: blood transfusion will be allowed for patients with hemoglobin < 9 g/dl and granulocyte colony-stimulating factor (G-CSF) is allowed for neutropenic patients at time of enrollment
+Use of hematopoietic colony-stimulating growth factors (e.g. filgrastim [G-CSF], sargramostim [GMCSF], lanimostim [M-CSF]) =< 2 weeks prior to starting study drug; erythropoietin, darbepoetin and erythropoietin-biosimilars are allowed for as long as they have been initiated at least 2 weeks prior to study enrollment
+Granulocyte count >= 1,500/mm^3
+Concurrent use of any other agent for MDS, CMML, or AML; growth factor use with epoetin, darbepoetin, or granulocyte colony-stimulating factor must be terminated at least 2 weeks before initiation of study treatment
+Absolute granulocyte count >= 1,500/mm^3
+Granulocyte > 1500/ul
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =< 2 weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least 2 weeks prior to enrollment, may be continued
+Participants already receiving erythropoietin or colony-stimulating factor therapy are eligible for participation, although the latter must be discontinued at least 24 hours prior to receiving chemotherapy
+Absolute neutrophil count (ANC) greater than or equal to 1,500/mm^3, equivalent to CTEP Common Terminology Criteria for Adverse Events (CTCAE) version 4.0, grade 1; this ANC cannot have been induced or supported by granulocyte colony stimulating factors
+Granulocyte >= 1500/ul
+Absolute neutrophil count (ANC) > 1.5 x 10^9/L off granulocyte colony-stimulating factor (G-CSF) or granulocyte-macrophage colony-stimulating factor (GM-CSF) for 10 days or Neulasta for 21 days
+Use of biologic response modifiers, such as granulocyte colony-stimulating factor (G-CSF), will not be permitted within 3 weeks prior to study entry; G-CSF and other hematopoietic growth factors may be used in the management of acute toxicity, such as febrile neutropenia, when clinically indicated or at the discretion of the investigator; however, they may not be administered to prevent a dose reduction; patients taking chronic erythropoietin are permitted, provided no dose adjustment is undertaken within 1 month prior to randomization or during the study
+Absolute neutrophil count >= 1,500/ul without colony stimulating factor support
+Any hematopoietic growth factors (eg, filgrastim [granulocyte colony-stimulating factor; G-CSF], sargramostin [granulocyte-macrophage colony-stimulating factor; GM-CSF]) within 7 days of the first dose of study drug or pegylated G-CSF (pegfilgrastim) or darbepoetin within 14 days of the first dose of study drug.
+Absolute granulocyte count (AGC) >= 1,500/mm³
+Any hematopoietic growth factors (ESAs, Granulocyte colony-stimulating factor (GCSF) and other RBC hematopoietic growth factors (eg, Interleukin-3)
+Any previous cytotoxic, cytostatic, hormonal, biological or immunological treatment for MDS (Erythropoietin-stimulating agent (ESA) with or without granulocyte colony stimulating factor (G-CSF) are allowed under certain conditions, see exclusion criterion # 5).
+Has received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including G-CSF, GM-CSF or recombinant erythropoetin) within four weeks prior to study Day 1.
+Absolute neutrophil count >1000/mL (without a colony stimulating factor within the last 2 weeks)
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L without granulocyte colony-stimulating factor support, obtained within 14 days prior to initiation of study treatment
+Absolute neutrophil count (ANC) ? 1.0 × 109/L. Screening of ANC should be independent of granulocytecolony stimulating factor (G-CSF) support for at least one week and of pegylated G-CSF for at least two weeks.
+Use of any herbal remedy (eg, St. John's wort [Hypericum perforatum]) Note: Granulocyte colony-stimulating factor (G-CSF) and other hematopoietic growth factors may be used in the management of acute toxicity, such as febrile neutropenia, when clinically indicated or at the investigator's discretion. However, they may not be substituted for a required dose reduction. Subjects are permitted to take chronic erythropoietin.
+Have received granulocyte colony stimulating factor (G-CSF) or granulocyte/macrophage colony stimulating factor support within one week or pegylated G-CSF within two weeks before the Screening Visit.
+Subjects who have received any anticancer therapy (including surgery, percutaneous ethanol injection, radio frequency ablation, transarterial [chemo] embolization, hepatic intra-arterial chemotherapy, biological, immunotherapy, hormonal, or radiotherapy) or any blood enhancing treatment (including blood transfusion, blood products, or agents that stimulate blood cell production, eg, granulocyte colony-stimulating factor [G-CSF]) within 28 days prior to randomization
+DONOR: Donors must consent and be eligible to undergo granulocyte colony-stimulating factor (GCSF) mobilization and PBSC harvest; marrow is not allowed as a source of stem cells on this study
+Use of any other standard anti-neoplastic drug or growth factor (e.g., anagrelide, granulocyte colony-stimulating factor [G-CSF], Revlimid, clofarabine) except hydroxyurea or experimental drugs, with the exception of ruxolitinib, less than 14 days or 5-half lives prior to starting study therapy and/or lack of recovery from all toxicity from previous therapy to grade 1 or better
+Use of hematopoietic colony stimulating growth factors </= 3 weeks prior to first dose Additional exclusion criteria for PDR001/LCL161
+Use of hematopoietic colony-stimulating growth factors (eg, G-CSF, GMCSF, M-CSF) ? 2 weeks prior to start of study drug. Patients must have completed therapy at least 2 weeks before the screening period begins with any hematopoietic colony-stimulating growth factors. An erythroid stimulating agent is allowed as long as it was initiated at least 2 weeks prior to the first dose of study treatment and the patient is not red blood cell transfusion dependent
+Any hematopoietic growth factors (e.g., filgrastim [granulocyte colony-stimulating factor; GCSF], sargramostim [granulocyte-macrophage colony-stimulating factor; GM-CSF]) within 14 days prior to receiving study treatment
+Granulocyte count >= 1000/mm^3 (within 16 days before starting therapy)
+Subjects who have received systemic cancer therapy, radiotherapy, investigational drug treatment outside of this study within 4 weeks before the start of study treatment, granulocyte colony stimulating factors, (G-CSF) or granulocyte macrophage-stimulating factors (GM-CSF), erythropoietin-stimulating agents within 3 weeks before the start of general screening, drugs with known renal toxicity and strong cytochrome P450 3A4 (CYP3A4) inhibitors or strong CYP3A4 inducers within 2 weeks before the treatment.
+Colony stimulating factors within 2 weeks of study
+Absolute neutrophil count (ANC) >= 1500/mm^3 (without use of granulocyte colony-stimulating factor [G-CSF] 4 weeks prior to enrollment)
+Subjects who require the use of granulocyte colony stimulating factors (GCSF) for prophylaxis of neutropenia.
+Known hypersensitivity to granulocyte macrophage colony stimulating factor (GM-CSF) or yeast
+Patients receiving growth factors including, but not limited to, granulocyte-colony stimulating factor (G-CSF), granulocyte macrophage colony-stimulating factor (GM-CSF), erythropoietin, within 14 days of study drug administration; use of such agents while on study is also prohibited
+Peripheral granulocyte count of >= 1,500/mL
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =< 2 weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least 2 weeks prior to enrollment, may be continued
+Use of biologic response modifiers, such as granulocyte macrophage colony-stimulating factor (GM-CSF) or granulocyte colony-stimulating factor (G-CSF) within 4 weeks prior to screening
+Granulocyte count >= 1,500/mm^3
+Hematopoietic growth factor (granulocyte growth factor, erythropoiesis stimulating agent, thrombopoietin mimetic) within 28 days prior to Randomization
+Absolute neutrophil count (ANC) >= 1.0 x 10^9/L within 30 days prior to cycle 1 day 1, without granulocyte-colony stimulating factor (G-CSF)
+Peripheral granulocyte count of >= 1500/mm³
+Participants must have received their last dose of short acting colony stimulating factor, such as filgrastim or sargramostim at least 72 hours prior to enrollment and their last dose of long-acting colony stimulating factors, such as PEG-filgrastim at least 7 days prior to enrollment
+Subjects must have completed therapy with granulocyte?colony stimulating factor (G?CSF) or other myeloid growth factors at least 7 days before study treatment initiation, or at least 14 days before study treatment initiation, if pegylated myeloid growth factors were administered.
+Patients receiving growth factors including, but not limited to, granulocyte-colony stimulating factor (G-CSF), granulocyte macrophage-colony stimulating factor (GM-CSF), erythropoietin, etc. within 2 weeks of study drug administration; use of such agents while on study is also prohibited; prior use of growth factors should be documented in the patient’s medical history
+Absolute neutrophil count (ANC) >= 1.0 x 10^9/L within 7 days of time of consent, without granulocyte- colony stimulating factor (G-CSF)
+Patients with any contraindication to receiving rhu granulocyte macrophage colony stimulating factor (rhuGM-CSF) based products
+Granulocyte count >= 1000/mm^3 (within 16 days before starting therapy)
+Granulocyte count >= 1500/mm^3
+Receipt of colony stimulating factor filgrastim, pegfilgrastim, or sargramostim within 14 days prior to Day 1.
+Granulocyte count >= 1500/mm^3
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =< 2 weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least 2 weeks prior to enrollment, may be continued
+HAPLO-IDENTICAL DONOR: Factors which place the donor at increased risk for complications from leukapheresis or granulocyte colony-stimulating factor (G-CSF) therapy (e.g., active autoimmune disease, sickle cell trait, symptomatic coronary artery disease requiring therapy)
+Absolute neutrophil count (ANC) >= 1500/mm^3 without colony stimulating factor support
+Absolute neutrophil count (ANC) greater than or equal to 1,500/ul, equivalent to Common Toxicity Criteria for Adverse Events v4.0 (CTCAE)  grade 1; this ANC cannot have been induced or supported by granulocyte colony stimulating factors
+Granulocyte count >= 1000/mm^3
+Treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =< 2 weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least 2 weeks prior to enrollment, may be continued
+Hemoglobin count greater than or equal to 9 g/dL or greater than or equal to 5.6 mmol/L\r\n* Note: ANC, platelets, hemoglobin requirement cannot be met by the use of recent transfusions, or growth factor support (granulocyte colony-stimulating factor [G-CSF], erythropoietin, etc.) within 2 weeks prior to treatment initiation
+Absolute peripheral granulocyte count of >= 1,000/mm^3
+Has received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including G-CSF, GM-CSF, or recombinant erythropoietin) within 4 weeks prior to Study Day 1
+Absolute granulocyte count >= 1,500/mm^3
+Absolute neutrophil count (ANC) >= 1000/mm^3, with or without granulocyte colony-stimulating factor (G-CSF) support; this requirement may be waived if the patient has hematologic relapse of disease or if patient has not yet recovered counts from chemotherapy
+Granulocyte growth factors (G-CSF), within 3 weeks of study entry.
+Absolute granulocyte count >= 500/mm^3
+An absolute granulocyte count > 1500/µL
+DONOR: Must consent to granulocyte-colony stimulating factor (G-CSF) (filgrastim) administration and leukapheresis for both PBSC allograft and subsequent donor lymphocyte infusion (DLI)
+It must have been at least 7 days since the completion of therapy with granulocyte colony stimulating factor (GCSF) or other growth factors at the time of enrollment; it must have been at least 14 days since the completion of therapy with pegfilgrastim (Neulasta)
+Patients must have a healthy blood-related donor (parent, child, sibling) willing to undergo apheresis after granulocyte colony-stimulating factor (G-CSF) administration
+Hematopoietic growth factor receptor agonists (eg, erythropoietin (Epo), granulocyte colony stimulating factor, romiplostim, eltrombopag within 28 days of enrollment.
+Patients should have finished their prior systemic therapy or radiation therapy, at least 3 weeks before cyclophosphamide or granulocyte colony-stimulating factor (G-CSF)/plerixafor mobilization, and should have finished dexamethasone at least 7 days prior to Plerixafor priming; administration of bisphosphonates needs to be completed at least 2 weeks before cyclophosphamide priming; bisphosphonates can be resumed or started after day 30
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (eg, granulocyte-colony stimulating factor [G-CSF], granulocyte-macrophage colony-stimulating factor [GM-CSF]) =< 2 weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least 2 weeks prior to enrollment, may be continued
+Platelet count >/=100,000 /mm3, hemoglobin >/=9 g/dL, absolute neutrophil count >/= 1500/mm3 without transfusions or granulocyte colony stimulating factor and other hematopoietic growth factors
+Have used biologic response modifiers, such as granulocyte-colony stimulating factor, within 3 weeks prior to signing the ICF.
+Absolute neutrophil count (ANC) >= 1500/mm^3 without colony stimulating factor support
+Absolute granulocyte count (AGC) >= 2000 cells/mm^3
+Inclusion:\n\n          1. Male or female infants, children and adolescents aged 1 month to <16 years.\n\n          2. Patients with solid tumors without bone marrow involvement, who are scheduled to\n             receive myelosuppressive CTX.\n\n          3. Body weight ?5 kg.\n\n          4. Patients must have an initial diagnosis and histologic proof of their malignancy. All\n             enrolled subjects should have signed consent for a CTX regimen that is known to be\n             myelotoxic, with counts expected to drop below the absolute neutrophil count (ANC) of\n             0.5 × 109/L for at least 3 days. These regimens would include at least one of the\n             following:\n\n               -  Etoposide\n\n               -  doxorubicin\n\n               -  ifosfamide\n\n               -  cyclophosphamide\n\n          5. ANC and platelet count: Patients must have an ANC >1 × 109/L and a platelet count >100\n             × 109/L to be eligible for therapy at the start of CTX.\n\n          6. Normal cardiac, renal, and hepatic function.\n\n          7. All subjects must have a life expectancy of 12 weeks or more.\n\n          8. Performance Status: Lansky performance score >60 (age 1 to <16 years).\n\n               -  More criteria may apply, please contact the investigator for more information.\n\n        Exclusion:\n\n          1. Bone marrow involvement.\n\n          2. Active myelogenous leukemia or history of myelogenous leukemia.\n\n          3. Previous treatment with colony-stimulating factors (granulocyte colony-stimulating\n             factor [G-CSF], granulocyte-macrophage colony-stimulating factor, interleukin 11\n             [IL-11]) less than 6 weeks prior to study entry.\n\n          4. History of congenital neutropenia or cyclic neutropenia.\n\n          5. Pregnant or nursing female patients.\n\n          6. Fertile patients who do not agree to use highly reliable contraceptive measures Prior\n             bone marrow or stem cell transplant, or prior radiation to ?25% of bone marrow within\n             the 4 weeks prior to the first tbo-filgrastim dose.\n\n          7. Ongoing active infection or history of infectious disease within 2 weeks prior to the\n             screening visit.\n\n          8. Treatment with lithium at screening or planned during the study\n\n               -  More criteria may apply, please contact the investigator for more information.
+Bone marrow function: Absolute neutrophil count (ANC) ? 1500 Cells/?L (with no evidence that this ANC was induced or supported by granulocyte colony stimulating factors)
+Have received granulocyte colony stimulating factor (G-CSF) or granulocyte/macrophage colony stimulating factor support within one week or pegylated G-CSF within two weeks before the Screening Visit.
+Absolute neutrophil count (ANC) >= 1500 cells/uL (without granulocyte colony-stimulating factor support within 2 weeks prior to cycle 1, day 1)
+Patients treated with hematopoietic colony-stimulating growth factors e.g., G-CSF, GM-CSF, M-CSF) ? 2 weeks prior to start. Erythropoietin or darbepoetin is allowed if it was initiated at least 2 weeks prior to entry
+Granulocyte count >= 1,500/mm^3 within 16 days of starting therapy
+Receiving prophylactic use of hematopoietic colony stimulating factors
+Allergy to both penicillin & sulfa or suspected hypersensitivity to granulocyte-macrophage colony stimulating factor (GM-CSF), dimethyl sulfoxide, fetal bovine serum, trypsin, yeast, glycerol or other component of the therapy options
+Requirement for routine use of hematopoietic growth factors (including granulocyte colony stimulating factor, granulocyte macrophage colony stimulating factor, or interleukin-11) or platelet transfusions to maintain absolute neutrophil counts or platelets counts above the required thresholds for study entry
+Screening ANC should be independent of granulocyte-and granulocyte/macrophage colony stimulating factor (G-CSF and GM-CSF) support for at least 1 week and of pegylated G-CSF for at least 2 weeks
+Absolute neutrophil count (ANC) >= 1.0 x 10^9/L within 14 days prior to randomization independent of granulocyte colony-stimulating factor (G-CSF) for >= 1 week and pegylated G-CSF for >= 2 weeks
+Treatment with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =< 2 weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least 2 weeks prior to enrollment, may be continued
+Screening ANC should be independent of granulocyte-and granulocyte/macrophage colony stimulating factor (G-CSF and GM-CSF) support for at least 1 week and of pegylated G-CSF for at least 2 weeks
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L for patients in whom < 50% of bone marrow nucleated cells are plasma cells; or an ANC > 1.0 x 10^9/L for patients in whom > 50% of bone marrow nucleated cells are plasma cells; ANC must be independent of granulocyte colony-stimulating factor (G-CSF) for >= 1 week and pegylated G-CSF for >= 2 weeks prior to screening
+Absolute neutrophil count (ANC) >= 1500/mm^3 without colony stimulating factor support
+Adequate organ function, defined as (Note: CBC test should be obtained without transfusion or receipt of colony stimulating factors within 2 weeks before obtaining sample):
+Condition (such as transfusion dependent anemia or thrombocytopenia), therapy, or laboratory abnormality that might confound the study results, or interfere with the patient's participation for the full duration of the study treatment. Patients who received colony stimulating factors (eg, granulocyte colony-stimulating factor [G-CSF], granulocyte macrophage colony-stimulating factor [GM-CSF] or recombinant erythropoietin) within 2 weeks prior to the first dose of study treatment are not eligible
+Condition (such as transfusion dependent anemia or thrombocytopenia), therapy, or laboratory abnormality that might confound the study results, or interfere with the patient's participation for the full duration of the study treatment. Patients who received colony stimulating factors (eg, G-CSF, GM-CSF or recombinant erythropoietin) within 2 weeks prior to the first dose of study treatment are not eligible
+Patients who have been treated with any hematopoietic colony-stimulating growth factors (e.g., filgrastim [G-CSF], sargramostim [GM-CSF]) =< 2 weeks prior to starting study drug; erythropoietin or darbepoetin therapy, if initiated at least 2 weeks prior to enrollment, may be continued
+Absolute neutrophil count (ANC) greater than or equal to 1500/ul, equivalent to Common Toxicity Criteria for Adverse Events v3.0 (CTCAE) grade 1; this ANC cannot have been induced or supported by granulocyte colony stimulating factors
+Absolute granulocyte count >= 1.5 x 10^9/L
+Growth factors: Must be off growth factor(s) > 1 week prior to study entry (filgrastim [GCSF], sargramostim [GM CSF], erythropoietin).
+Engraftment of neutrophils (absolute neutrophil count [ANC] >= 1.0 X 10^9/L) for 3 days without granulocyte colony-stimulating factor (g-csf) support
+Received transfusion of blood products (including platelets or red blood cells) or administration of colony stimulating factors (including granulocyte colony-stimulating factor [G-CSF], granulocyte-macrophage colony-stimulating factor, recombinant erythropoietin) within 14 days prior to the first dose of GSK3359609.
+Subjects must have fully recovered from the toxic effects of any prior therapy; at least 3 weeks should have elapsed since the last dose of chemotherapy (6 weeks in the case of nitrosourea containing therapy); subjects must have recovered from previous colony-stimulating factor therapy and have been off colony-stimulating factors (G-CSF, granulocyte macrophage colony-stimulating factor [GM-CSF], interleukin [IL]-11) for more than 10 days and off erythropoietin for 30 days
+Current systemic treatment for AML, with the exception of granulocyte colony-stimulating factor (G-CSF) must have been discontinued at least 7 days prior to entry into the study; in addition:\r\n* At least 4 weeks before day 1 for interleukin (IL)-11 (oprelvekin)\r\n* At least 8 weeks before day 1 for antithymocyte/antilymphocyte globulin
+Patients with any contraindication or known hypersensitivity to receiving sargramostatin (recombinant human granulocyte macrophage colony stimulating factor [rhuGM-CSF]) or other yeast based products
+DONOR: Willing to receive Triplex vaccination, a minimum of 14 days prior to the start of granulocyte stimulating factor (GSF) mobilization
+Hemoglobin > 8.0 g/dL without transfusion or growth factor support for at least 7 days prior to screening (with the exception of pegylated granulocyte-colony stimulating factor [G-CSF] and darbopoietin, which require at least 14 days of abstinence prior to screening)
+Granulocyte count > 1000/mm^3
+Absolute neutrophil count (ANC) ? 1,500/?L without colony-stimulating factor support
+Total granulocyte count of > 1500
+Total granulocyte count of > 1.5 x 10^9/L
+Subject is receiving concurrent chemotherapy or biologic or hormonal therapy for cancer treatment; subject is receiving bone marrow stimulatory factors (e.g., granulocyte-macrophage colony-stimulating factor [GM-CSF]); Note: Concurrent use of hormones for noncancer-related conditions (e.g., insulin for diabetes) is acceptable
+Treatment with marrow stimulating agents (e.g. granulocyte colony stimulating factor [GCSF]) within 3 weeks of baseline scan
+Absolute neutrophil count (ANC) >= 1500/mm^3 (without granulocyte colony-stimulating factor [G-CSF] support within 2 weeks prior to cycle 1, day 1)
+Absolute neutrophil count >= 1,000/mcL (in the absence of granulocyte colony stimulating factor (GCSF) for >= 14 days)
+No concurrent use of erythroid stimulating agents, granulocyte colony-stimulating factor (G-CSF), granulocyte-macrophage colony-stimulating factor (GM-CSF) is allowed during study except in cases of febrile neutropenia where G-CSF can be used for short term; growth factors must be stopped 14 days prior to study
+Any hematopoietic growth factors (e.g., filgrastim [granulocyte colony-stimulating factor; G-CSF], sargramostim [granulocyte-macrophage colony-stimulating factor; GM-CSF]) within 14 days prior to receiving study treatment
+Treatment with granulocyte–macrophage colony stimulating factor (GM-CSF) or granulocyte (G-CSF) within 4 weeks prior to first PET scan; patients should avoid treatment with these agents between the baseline and 6-12 treatment week imaging sessions
+Have received treatment with agents specifically targeting colony stimulating factor 1 (CSF-1) or CSF-1R, including imatinib, nilotinib, and sunitinib.
+Adequate hematologic status as demonstrated by not requiring transfusion support or granulocyte-colony stimulating factor (G-CSF) to maintain: ANC ?1500 cells/mm3, Platelet count ?100 x 109/L, Hemoglobin ?10 g/dL

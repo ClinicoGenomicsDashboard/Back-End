@@ -1,0 +1,22 @@
+Patients who weigh <  kg are not eligible
+Patients must weigh > ( kg) at the time of study entry
+Patients who weigh >=  kg
+Patients must weigh >  kg at the time of study entry
+Weigh >= kg.
+Subjects who weigh less than  kg
+Patients must weigh greater than  kg
+Must weigh greater than or equal to  kg.
+Patient must weigh a minimum of  kg
+The subject must weigh >=  kilogram (kg).
+Participants who weigh >  kg will be ineligible due to study drug limitations
+Age of  years or older (patient must weigh ?  kg)
+Weigh > kg
+Patients who weigh >=  kg must be discussed with the principal investigator prior to enrolling on the protocol
+Subject must weigh at least  kg
+Patients must weigh between - kg MDS low -int- risk as determined by IPSS score and confirmed by bone marrow examination within  months prior to study entry
+Skeletally mature adolescents must weigh at least  kg
+Must weigh  kg
+The patient must weigh less than  kg ( lb), which is the limit of the imaging couch
+Males and females must weigh >=  Kg
+Weigh more than  kg
+Patients who weigh >  kg are excluded; in addition, patients who weigh >  kg are excluded

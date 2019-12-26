@@ -1,0 +1,6 @@
+Cluster 852: cancer diagnosis active history years patients prior evidence previous skin 
+Cluster 909: curatively treated cancer years situ skin melanoma adequately solid evidence 
+Cluster 1267: treated adequately evidence malignancy situ disease lentigo maligna melanoma cancer 
+Cluster 1303: curatively primary cancer treated resected outcome cervical skin present solid 
+Cluster 1364: cancer treated situ curatively distinct superficial carcinoma bladder cervical years 
+Cluster 2080: pap intraepithelial smear cancer situ cervical localized remission curatively squamous 

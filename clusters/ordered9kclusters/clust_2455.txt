@@ -1,0 +1,13 @@
+Southwest Oncology Group (SWOG) performance status >= 2.0
+Southwest Oncology Group (SWOG)/Eastern Cooperative Oncology Group (ECOG) performance score >= 2
+Southwest Oncology Group (SWOG) performance status 0-1
+Karnofsky performance scale (KPS) >= 70% or Southwestern Oncology Group (SWOG) performance status 0 or 1
+Southwest Oncology Group (SWOG) performance status >= 2.0
+Southwest Oncology Group (SWOG) performance status >= 2.0
+South Western Oncology Group (SWOG) performance status 0-2
+Southwestern Oncology Group (SWOG) performance status >= 2.0
+Southwest Oncology Group (SWOG) performance status 0 or 1
+Southwestern Oncology Group (SWOG) performance status 0 or 1
+Eastern Cooperative Oncology Group (ECOG)/Zubrod/ Southwest Oncology Group (SWOG) performance status < 2 (Karnofsky performance status >= 70%)
+Southwestern Oncology Group (SWOG) performance status of 0 – 2
+Eastern Cooperative Oncology Group (ECOG)/Zubrod/Southwestern Oncology Group (SWOG) performance status < 2 (Karnofsky performance status >= 70%)

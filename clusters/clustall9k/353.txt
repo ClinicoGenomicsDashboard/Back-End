@@ -1,0 +1,299 @@
+A resting electrocardiogram (EKG) with a corrected QT (QTC) >= 470 msec detected on 2 or more time points within a 2 hour period or family history of long QT syndrome; if the EKG demonstrates QTC >= 470 msec, the patient will only be eligible if a repeat EKG demonstrates QTC =< 470 msec
+No supraventricular arrhythmia on electrocardiogram (EKG)
+Adequate cardiac function, defined as:\r\n* No electrocardiogram (EKG) evidence of acute ischemia\r\n* No EKG evidence of active, clinically significant conduction system abnormalities\r\n* No EKG evidence of > grade 2 (> 480 ms) corrected QT (QTc) prolongation \r\n* Prior to study entry, any EKG abnormality at screening not felt to put the patient at risk has to be documented by the investigator as not medically significant\r\n* No uncontrolled angina or severe ventricular arrhythmias\r\n* No clinically significant pericardial disease\r\n* No history of myocardial infarction within 6 months prior to registration\r\n* No class 3 or higher New York Heart Association congestive heart failure
+Patients must have QTcF (by Fridericia calculation) < 480/msec based on electrocardiogram (EKG) performed within 28 days prior to registration
+Patients must not have a screening corrected QT using Fridericia's formula (QTcF) interval > 500 milliseconds (by Fridericia calculation) based on the average of triplicate electrocardiogram (EKG) performed within 7 days prior to registration; note that triplicate EKG is required at other time points
+Resting electrocardiography (EKG) with corrected QT (QTc) > 470 msec or family history of long QT syndrome; if EKG demonstrates QTc > 470 msec, patient will be eligible only if repeat EKG demonstrates QTc ? 470 msec
+Patients who have ongoing cardiac dysrhythmias, atrial fibrillation, or prolongation of corrected QTc interval to > 480 msec on 2 out of 3 electrocardiograms (EKGs) (if first EKG has QTc < 480, no need to repeat, if first EKG has QTc > 480 repeat twice for a total of 3 EKGs)
+Patients may not have any clinically significant cardiovascular disease including the following:\r\n* Myocardial infarction or ventricular tachyarrhythmia within 6 months\r\n* Major conduction abnormality (unless a cardiac pacemaker is present)\r\n* Patients with any cardiopulmonary symptoms of unknown cause (e.g., shortness of breath, chest pain, etc.) should be evaluated by a baseline echocardiogram with or without stress test as needed in addition to electrocardiogram (EKG) to rule out corrected QT (QTc) prolongation; the patient may be referred to a cardiologist at the discretion of the principal investigator; patients with underlying cardiopulmonary dysfunction should be excluded from the study
+TREATMENT INCLUSION: Electrocardiography (EKG) shows no significant arrhythmias
+Fridericia’s corrected QT (QTcF) value of =< 470 msec on screening electrocardiogram (EKG) within 14 days prior to start of protocol therapy.
+Electrocardiogram (EKG) documenting corrected QT (QTc) interval < 480 mili (m)second and no clinically significant arrhythmia
+QTcF (Fridericia Correction Formula) > 480 on 2 out of 3 EKG’s (if first EKG is =< 480, no need to repeat, if first electrocardiogram [EKG] is > 480 repeat twice for a total of 3 EKG’s)
+TREATMENT WITH SJCAR19: Electrocardiogram (EKG) without evidence of clinically significant arrhythmia
+Abnormal electrocardiogram (EKG) (study physician discretion)
+Electrocardiogram (EKG) showing ischemic changes or abnormal rhythm and/or an echocardiogram or MUGA scan showing abnormal wall motion or ejection fraction < 50%
+Baseline electrocardiogram (EKG) shows corrected QT interval by Fredericia (QTcF) > 470 msec.
+CHEMOTHERAPY/CELL INFUSION ELIGIBILITY: Patients with electrocardiogram (EKG) within 14 days of initiation of chemotherapy demonstrating no new significant rhythm, axis or ST segment changes will be included; if clinically significant, new EKG changes are present, patients may be included if cardiac stress test indicates no reversible cardiac ischemia
+Patients must not have corrected QT (QTc)F (Fridericia Correction Formula) > 480 on 2 out of 3 electrocardiograms (EKG’s) (if first EKG is =< 480, no need to repeat, if first EKG is > 480 repeat twice for a total of 3 EKG’s)
+Electrocardiogram (EKG) with QTcB (Bazett’s formula) > 480 ms done within 14 days of enrollment
+Electrocardiogram (EKG) showing no ischemic changes and no abnormal rhythm
+Adequate cardiac function as demonstrated by electrocardiogram (EKG) and/or echocardiographic evidence (may be performed within 30 days prior to treatment)
+Fridericia corrected QT (QTcF) interval on the electrocardiogram (EKG) greater than 480 milliseconds
+Electrocardiogram (EKG) without clinically significant abnormality
+Normal EKG and LVEF >40%, measured by EKG and MUGA scan, radionuclide ventriculogram, or echocardiogram
+Pretreatment electrocardiography (EKG).
+Corrected QT interval less than 500 milliseconds by electrocardiogram (EKG)
+Patients must have undergone an electrocardiogram (EKG) within 28 days prior to registration
+Patients with electrocardiogram (EKG) within 14 days of initiation of chemotherapy demonstrating no new rhythm, axis or ST segment changes will be included; if clinically significant, new EKG changes are present, patients may be included if cardiac stress test indicates no cardiac ischemia
+QTc prolongation defined as a QTc interval >= 480 msecs or other significant electrocardiogram (EKG) abnormalities are ineligible; Note: if unsure about EKG abnormality, the treating physician should discuss this with Drs. Sherman or Bible
+Electrocardiogram (EKG) within 8 weeks of registration
+Evidence of recent myocardial infarction or ischemia by the findings of S-T elevations of >= 2 mm using the analysis of an electrocardiogram (EKG) performed within 7 days prior to registration
+Corrected QTc interval > 480 msec; baseline electrocardiogram (EKG) obtained pre-transplant does not need to be repeated unless clinically indicated
+Corrected QT interval (QTc) > 470 milliseconds (msec) on a 12-lead electrocardiography (EKG) obtained during the screening period; if a machine reading is above this value, the EKG should be reviewed by a qualified reader and confirmed on a subsequent EKG
+Patients with baseline corrected QT (QTc) prolongation greater than grade 1 are excluded from this study; patients with grade 1 QTc elevation are eligible but must be monitored with electrocardiogram (ECG) (EKG) exams, for the first 3 cycles of treatment; eribulin time to maximum concentration (Cmax) after infusion is about 10 minutes, and half life is 40 minutes; ECG (EKG) should be performed between 10 to 40 minutes after eribulin administration (on day 1 and day 8 of treatment); continued ECG (EKG) monitoring beyond cycle 3 can be done at the discretion of the treating physician
+Patients will be required to have a baseline electrocardiogram (EKG) prior to the start of treatment; patients with a corrected QT (QTc) > 480 millisecond (ms) are excluded from the study
+Corrected QT interval less than 500 milliseconds by electrocardiogram (EKG)
+Abnormal electrocardiogram (EKG): severe uncontrolled ventricular arrhythmias, or evidence of acute ischemia or active conduction system abnormalities; prior to study entry, any EKG abnormality at screening has to be documented by the investigator as not medically relevant
+For patients on mefloquine arm, a baseline electrocardiogram (EKG) without evidence of prolonged corrected QT (QTc) interval > 450 ms or clinically significant arrhythmia must be obtained within 14 days prior to registration
+For mefloquine arm, patients with evidence of QTc interval > 450 ms or clinically significant arrhythmia on baseline EKG obtained within 14 days of registration will be ineligible for protocol enrollment
+Patients must not have any clinically significant cardiovascular disease including the following: myocardial infarction or ventricular tachyarrhythmia within 6 months, prolonged corrected QT interval (QTc) > 480 msec (Fridericia correction), ejection fraction less than institutional normal, major conduction abnormality (unless a cardiac pacemaker is present); patients with any cardiopulmonary symptoms of unknown cause (e.g. shortness of breath, chest pain, etc.) are to be evaluated by a baseline echocardiogram with or without stress test as needed in addition to electrocardiogram (EKG) to rule out QTc prolongation; the patient may be referred to a cardiologist at the discretion of the principal investigator; patients with underlying cardiopulmonary dysfunction are excluded from the study
+Patients must have an electrocardiogram (EKG) that shows no significant abnormalities that are suggestive of active cardiac disease
+Patients with any cardiopulmonary symptoms of unknown cause (e.g. shortness of breath, chest pain, etc.) should be evaluated by a baseline echocardiogram with or without stress test as needed in addition to electrocardiogram (EKG) to rule out QTc prolongation; the patient may be referred to a cardiologist at the discretion of the treating physician; patients with underlying cardiopulmonary dysfunction should be excluded from the study
+Donor has a chest x-ray (CXR) and electrocardiogram (EKG) performed
+Participants with a QTcF (Fridericia correction formula) > 480 ms on 2 out of 3 electrocardiograms (EKGs) (if first EKG is < 480, no need to repeat, if first EKG is > 480 repeat twice for a total of 3 EKGs)
+Patients must have an electrocardiogram (EKG) documenting normal intervals (especially QTc interval < 480 msec) and no arrhythmia prior to enrollment
+Electrocardiogram (EKG) abnormalities of:\r\n* Q-wave infarction, unless identified 6 or more months prior to screening\r\n* QTc interval > 470 msec, the upper limit of normal for women
+Patients must have an electrocardiogram (EKG) with no significant abnormalities within 28 days prior to registration
+Evidence of recent myocardial infarction or ischemia by the findings of S-T elevations of >= 2 mm using the analysis of an electrocardiogram (EKG) performed within 14 days prior to registration
+Q-T interval of =< 450 ms as measured by electrocardiography (EKG)
+A history of clinically significant electrocardiogram (EKG) abnormalities, including QT prolongation, a family history of prolonged QT interval syndrome, or myocardial infarction (MI) less than 1 year ago with ensuing unstable EKG
+Electrocardiogram (EKG), vitals and laboratory values outside of normal limits at the time of enrollment, unless these are deemed not clinically significant by clinician
+New (< 6 months) cardiac arrhythmia (electrocardiogram [EKG] should be performed within 2 weeks of starting IFN gamma)
+Electrocardiogram (ECG) with no clinically significant findings as assessed by the Investigator;
+History or presence of an abnormal electrocardiogram (ECG) that, in the Investigator's opinion, is clinically meaningful.
+Any screening laboratory, electrocardiogram (ECG), or other findings that, in the opinion of the investigator or the sponsor, indicate an unacceptable risk for the subject's participation in the study.
+History or presence of an abnormal electrocardiogram (ECG) that is clinically significant in the investigator's opinion
+Cardiac ejection fraction >= 45%, no evidence of physiologically significant pericardial effusion as determined by an echocardiogram (ECHO), and no clinically significant electrocardiogram (ECG) findings
+Corrected QT Interval (QTc) > 470 milliseconds (msec) on a 12-lead ECG obtained during the screening period\r\n* Note: If a machine reading is above this value, the ECG should be reviewed by a qualified reader and confirmed on a subsequent ECG
+Major abnormalities identified by ECG or echocardiogram (ECHO), at the Investigator's discretion.
+Any of the following ECG findings or assessments including: Baseline QTcF interval >=450 milliseconds; Clinically significant ECG assessments should be reviewed by the site cardiologist prior to study entry.
+Subject has an abnormal electrocardiogram (ECG) that, in the Investigator's opinion, is clinically significant and would preclude study participation.
+Have electrocardiogram (ECG) with no clinically significant findings as assessed by the investigator performed within 28 days prior to first dose;
+Significant cardiac disease as determined by the investigator including:\r\n* Known or suspected cardiac amyloidosis\r\n* Congestive heart failure of class III or IV of the New York Heart Association (NYHA) classification\r\n* Uncontrolled angina, hypertension or arrhythmia\r\n* Myocardial infarction in the past 6 months\r\n* Any uncontrolled or severe cardiovascular disease\r\n* Corrected QT Interval (QTc) > 470 milliseconds (msec) on a 12-lead electrocardiogram (ECG) obtained during the screening period. If a machine reading is above this value, the ECG should be reviewed by a qualified reader and confirmed on a subsequent ECG
+Cardiac function (12 lead- electrocardiogram [ECG] versus [vs] non-12 lead ECG), performed within 14 days prior to day 1 of protocol therapy
+Presence of an abnormal ECG
+History or presence of an abnormal electrocardiogram (ECG) that, in the Investigator's opinion, is clinically meaningful.
+Subject has familial short QT syndrome, is receiving medications that are known to shorten the QT interval, or has a clinically significant abnormal electrocardiogram (ECG).
+Cardiac ejection fraction >= 45%, no evidence of physiologically significant pericardial effusion as determined by an echocardiogram (ECHO), and no clinically significant electrocardiogram (ECG) findings
+Corrected QT (QTc) > 470 milliseconds (msec) on a 12-lead ECG obtained during the screening period; Note: If a machine reading is above this value, the ECG should be reviewed by a qualified reader and confirmed on a subsequent ECG
+Abnormalities on 12-lead electrocardiogram (ECG) considered by the investigator to be clinical significant.
+To be performed within 10 business days prior to day 1: Cardiac function (12 lead-electrocardiogram [ECG] versus [vs] non 12 led ECG) shows no underlying arrhythmia or heart blocks (for VRP only)
+Patient must have a 12-lead ECG with ALL of the following parameters at screening:
+Screening 12-lead electrocardiogram (ECG) with a measurable QTc interval according to Fridericia’s correction > 450 ms
+Patients with clinically relevant abnormal electrocardiography (ECG) findings, including abnormal corrected QT interval (QTc) > 500 ms on screening ECG (note: if a patient has a QTc interval > 500 ms on screening ECG, the screening ECG may be repeated twice [at least 24 hours apart] for a total of 3 ECGs)
+Normal cardiac function as assessed by electrocardiogram (ECG) and echocardiogram
+Corrected QT(c) >= 481 ms (>= grade 2) on electrocardiogram (ECG) prior to initiation of treatment\r\n* If baseline QTc on screening ECG meets exclusion criteria:\r\n** Check potassium and magnesium serum levels\r\n** Correct any identified hypokalemia and/or hypomagnesemia and repeat ECG to confirm exclusion of patient due to QTc\r\n* For patients with HR 60-100 bpm, no manual read of QTc is required\r\n* For patients with baseline HR < 60 or > 100 bpm, manual read of QT by cardiologist is required, with Fridericia correction applied to determine QTc
+Corrected QT (QTc) > 480 ms (grade 2 or greater) on screening electrocardiogram (ECG)\r\n* If baseline QTc on screening ECG meets exclusion criteria on screening assessment:\r\n** Check potassium and magnesium levels\r\n** Correct any identified hypokalemia and/or hypomagnesemia and repeat ECG to confirm exclusion of patient due to QTc\r\n** For patients with a heart rate (HR) 60-100 bpm, no manual read of QT is required\r\n** For patients with baseline HR < 60 or > 100 bpm, manual read of QT by cardiologist is required using Fridericia correction
+Corrected QT (QTc) > 470 milliseconds (msec) on a 12-lead ECG obtained during the Screening period\r\n* Note: If a machine reading is above this value, the ECG should be reviewed by a qualified reader and confirmed on a subsequent ECG
+History or presence of an abnormal ECG, ECHO, or MUGA that is clinically meaningful.
+Clinically normal resting 12-lead ECG at screening visit or, if abnormal, considered not clinically significant by the PI
+Clinically normal resting 12-lead ECG at screening visit or, if abnormal, considered not clinically significant by the PI
+Clinically significant abnormal 12-lead ECG findings;
+Screening ECG abnormality documented by the investigator as medically significant
+History or presence of an ECG that, in the investigator's opinion, is clinically meaningful as per protocol-defined criteria.
+Cardiac ejection fraction >= 50%, no evidence of pericardial effusion as determined by an echocardiogram (ECHO), and no clinically significant electrocardiogram (ECG) findings
+Cardiac ejection fraction >= 40%, and no clinically significant electrocardiogram (ECG) findings.
+History or presence of an abnormal electrocardiogram (ECG)
+Major abnormalities identified by electrocardiogram (ECG) or echocardiogram (ECHO), at the investigator’s discretion
+Inability to measure QT interval on ECG
+Electrocardiogram (ECG) abnormalities indicative of arrhythmia (at the discretion of the investigator)
+Patient must have an electrocardiogram (ECG) performed within 42 days prior to registration; patient must not have mean corrected QT (QTc) > 500 msec (with Bazett’s correction) in screening electrocardiogram, or other significant ECG abnormality, New York Heart Association (NYHA) classification III or IV; patient must not require concurrent use of drugs or biologics with proarrhythmic potential
+History or presence of abnormal electrocardiogram (ECG) that, in the investigator's opinion, is clinically meaningful
+Patients must have a baseline electrocardiogram (ECG) performed within 42 days of registration that is normal or considered not clinically significant by the site investigator
+History or presence of an abnormal ECG that, in the investigator's opinion, is clinically meaningful.
+Any of the following ECG findings: Baseline QTcF interval >=450 millisecond (msec); Any clinically significant ECG assessments should be reviewed by the site cardiologist prior to study entry.
+Have a 12-lead Electrocardiogram (ECG) that is not clinically significant at screening, as determined by the investigator
+History or presence of an abnormal electrocardiogram (ECG) that, in the investigator's opinion, is clinically meaningful.
+History or presence of an abnormal electrocardiogram (ECG) that, in the investigator's opinion, is clinically meaningful.
+History or presence of an abnormal electrocardiogram that, in the investigator's opinion, is clinically meaningful.
+history or family history of long QT syndrome; 12-Lead electrocardiogram (ECG) abnormalities considered by the investigator to be clinically significant or QTcF ? 450 milliseconds, regardless of clinical significance, at screening. Abnormal ECG may be confirmed with one repeat assessment. For subjects with QTcF ? 450 msec on initial ECG, the mean of the two QTcF assessments will determine eligibility;
+Subjects must have normal or clinically insignificant ECG at screening
+Known cardiomyopathy and/or clinical significant abnormal ECG findings at Screening disqualifying the patient from nephrectomy and from subsequent sunitinib treatment
+Electrocardiogram (ECG) demonstrating clinically significant arrhythmias (Note: participants with chronic atrial arrhythmia, ie, atrial fibrillation or paroxysmal supraventricular tachycardia, are eligible). A clinically significant ECG abnormality, including a marked prolonged QT/QTc interval (eg, a repeated demonstration of a QTc interval of greater than 500 ms).
+Active, clinically significant Electrocardiogram (ECG) abnormalities
+Any of the following electrocardiogram (ECG) findings: Baseline QTcF >=450 millisecond (msec). NOTE: Any clinically significant ECG assessments should be reviewed by the site cardiologist prior to study entry.
+Evidence of transmural infarction on ECG
+Clinically significant abnormality on electrocardiogram (ECG)
+Corrected QT interval using Bazett's formula (QTcB) > 470 milliseconds (msec) on a 12-lead electrocardiogram (ECG) obtained during the screening period; if a machine reading is above this value, the ECG should be reviewed by a qualified reader and confirmed on a subsequent ECG
+Inability to determine the QT interval on ECG
+Unstable coronary disease or clinically significant electrocardiogram (ECG) (12-lead) abnormalities, as determined by the investigator
+Acute or relevant abnormalities in electrocardiogram (ECG)
+The patient has LVEF ?40% by ECHO or MUGA scan and no clinically significant abnormalities in 12-lead ECG
+Electrocardiogram (ECG): Patients with normal ECG, Asymptomatic patients with abnormal ECGs not requiring medical intervention
+Inability to monitor the QT interval on electrocardiogram (ECG)
+Evidence of transmural infarction on electrocardiogram (ECG)
+Have documented major electrocardiogram (ECG) abnormalities at the investigator's discretion
+Resting ECG with clinically significant abnormal findings;
+Significant screening electrocardiogram (ECG) abnormalities;
+Inability to measure QT interval on ECG
+Clinically significant abnormalities, other than HCV infection, in a participant with HCC based upon the medical history, physical examination, vital signs, laboratory profile and a 12-lead electrocardiogram (ECG) that make the participant an unsuitable candidate for this study in the opinion of the investigator.
+Has acute myocardial infarction within 6 months before starting study drug, current or history of New York Heart Association Class III or IV heart failure; evidence of current uncontrolled cardiovascular conditions including cardiac arrhythmias, angina, pulmonary hypertension, or electrocardiogram (ECG) evidence of acute ischemia or active conduction system abnormalities; Fridericia's corrected QT interval > 475 milliseconds (msec) (males) or > 450 msec (females) on a 12-lead ECG during the Screening period; or abnormalities on 12-lead ECG including, but not limited to, changes in rhythm and intervals that in the opinion of the investigator are considered to be clinically significant.
+Clinically significant ECG changes
+Normal 12-lead ECG (clinically insignificant abnormalities permitted)
+History of myocardial infarction or stroke within the last 6 months, or history of uncontrolled cardiovascular or cerebrovascular disease; a 12-lead electrocardiogram (ECG) will be performed during the screening period
+Have either a normal ECG or one with abnormalities that are considered clinically insignificant by the investigator in consultation with the Sponsor
+Abnormal 12-lead electrocardiogram (ECG) judged to be clinically significant by the Investigator;
+Electrocardiogram (ECG) within normal limits
+Electrocardiogram (ECG) obtained at Screening which shows QTc prolongation or other medically relevant abnormalities which may affect subject safety or interpretation of study results
+Inability to measure QT interval on ECG
+Normal electro cardio gram (ECG) or ECG with no clinically significant findings;
+Subject with electrocardiogram (ECG) abnormalities on a 12-lead ECG performed within 14 days before start of the study drug that are considered by the Investigator to be clinically significant.
+All patients must have an electrocardiogram (ECG) within 2 weeks of starting conditioning
+ECG with no clinically significant findings;
+Important abnormalities of the ECG that may interfere with the interpretation of QTc interval changes at screening
+Electrocardiogram (12-lead ECG) QTc ? 480 ms
+Serious cardiac condition such as myocardial infarction within the past 6 months, unstable angina, or Class III or IV congestive heart failure as defined by the New York Heart Association (NYHA); have ECG abnormalities including baseline 12-lead ECG with Fridericia-corrected QT interval (QTcF) > 470 msec (female) or > 450 msec (male), a history of congenital long QT syndrome, or any ECG abnormality that, in the opinion of the Investigator, would preclude safe participation in the study
+History of severe cardiac disease or clinically significant arrhythmia (either on ECG or by history) which, in the opinion of the Investigator, will interfere with the safety of the individual subject.
+All patients must have an electrocardiogram (ECG) within 2 weeks of starting conditioning
+Abnormalities on 12-lead ECG including, but not limited to, changes in rhythm and intervals that, in the opinion of the investigator, are considered to be clinically significant.
+Patients with a clinically significant abnormality on screening electrocardiogram (ECG) (taken within 12 weeks) that in the opinion of the investigator/co-investigator may increase the patient’s cardiovascular risk in this study
+abnormal electrocardiogram or V02 test results,
+Clinically significant abnormalities on electrocardiogram (ECG) at screening.
+History or presence of an abnormal ECG that in the investigator's opinion is clinically meaningful.
+12-lead ECG with QTc interval within defined limit
+Clinically severe cardiovascular disease or clinically significant electrocardiogram (ECG) abnormality.
+The patient has had a myocardial infarction in the previous 12 weeks. (Prior to study entry, electrocardiogram [ECG] abnormalities at screening must be documented by the investigator as not medically relevant.)
+Clinically significant abnormalities on electrocardiogram (ECG)
+Abnormalities on 12-lead ECG including, but not limited to, changes in rhythm and intervals that in the opinion of the investigator are considered to be clinically significant.
+Resting electrocardiogram (ECG) with corrected QT (QTc) > 470 msec detected on 2 or more time points within a 24 hour period or family history of long QT syndrome; if ECG demonstrates QTc > 470 msec, patient will be eligible only if repeat ECG demonstrates QTc =< 470 msec
+Resting electrocardiogram (ECG) with corrected QT (QTc) > 470 msec on 2 or more time points within a 24 hour period or family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT interval by Fridericia (QTcF) > 470 msec or family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT interval (QTc) > 470 msec on 2 or more time points within a 24-hour period or family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT (QTc) > 470 msec on 2 or more time points within a 24 hour period or family history of long QT syndrome.
+Resting ECG with corrected QT (QTc) > 470 msec on two or more time points within a 24 hour period, noted within 14 days of treatment, or family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT Interval (QTc) > 470 msec on 2 or more time points within a 24-hour period or family history of long QT syndrome.
+Resting electrocardiogram (ECG) with corrected QT (QTc) > 470 msec on 2 or more time points within a 24 hour period or family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT (QTc) > 470 msec on 2 or more time points within a 24 hour period or of long QT syndrome
+PHASE I: Resting electrocardiogram (ECG) with corrected QT QTc) > 470msec on two or more time points within a 24h period, or a family history of long QT syndrome
+PHASE II: Resting ECG with QTc > 470msec on two or more time points within a 24h period, or a family history of long QT syndrome
+Resting electrocardiogram (ECG) with QTc > 470 msec on 2 or more time points within a 24-hour period or family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT interval (QTc) > 470 msec on 2 or more time points within a 24-hour period or family history of long QT syndrome.
+Resting electrocardiogram (ECG) with corrected QT interval (QTc) > 470 msec on 2 or more time points within a 24 hour period or family history of long QT syndrome
+Resting electrocardiography (ECG) with correct QT interval (QTc) > 470 msec on 2 or more time points within a 24 hour period or family history of long QT syndrome.
+Resting electrocardiogram (ECG) with corrected QT interval (QTc) > 470 msec on 2 or more time points within a 24 hour period or family history of long QT syndrome
+Patients who have a resting electrocardiogram (ECG) with a Fridericia corrected QT (QTcF) interval of >= 470 msec at 2 or more time points within a 24 hour period or a family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT (QTc) > 470 msec on 2 or more time points within a 24 hour period or a documented family history of long QT syndrome.
+Patients must have corrected QT (QTc) =< 480 msec by electrocardiogram (ECG) (corrected using the Bazett’s formula) within 28 days prior to registration
+Corrected QT interval (QTc) < 470 milliseconds (msec) on a 12-lead electrocardiogram (ECG) =< 28 days before registration
+Corrected QT interval (QTc) on electrocardiogram (EKG) > 480 msec
+Screening electrocardiogram (ECG) with a corrected QT interval (QTc) > 450 msec
+Participants must have a corrected QT (QTc) of =< 470 msec for females and =< 450 for males on the screening electrocardiogram (EKG)
+Documented within 14 days of registration: Cardiac corrected QT (QTc) interval < 450 msec on electrocardiogram (EKG)
+Have a mean QT interval corrected for heart rate (QTc) of ?470 milliseconds on screening electrocardiogram (ECG) as calculated using the Bazett's formula at several consecutive days of assessment.
+Subject has corrected QT (QTc) interval < 500 msec on baseline electrocardiogram
+Patients who have corrected QT (QTc) interval of > 470 msec on a screening electrocardiogram
+QT interval corrected for rate (QTc) > 450 msec on the electrocardiogram (ECG) obtained at Screening
+Patients with prolonged corrected QT (QTc) interval (> 450 msec) (for cohort 2a and 2b [belinostat cohorts] only, electrocardiogram [ECG] nor required for cohort 1)
+Electrocardiogram (ECG) abnormalities of Q-wave infarction, unless identified 6 or more months prior to screening or QTc Fridericia (F) interval >460 msec
+Electrocardiogram (ECG) corrected QT (QTC) < 450 msec
+Have QT corrected interval of >450 milliseconds (msec) on screening electrocardiogram (ECG)
+Baseline electrocardiogram (EKG) with corrected QT interval (QTc) > 470 msec (including subjects on medication); subjects with ventricular pacemaker for whom QT interval is not measurable will be eligible on a case-by-case basis
+Corrected QT (QTc) interval ? 470 msec on screening electrocardiogram (ECG)
+STRATUM A: Participants with QTc interval of > 450 msec on screening electrocardiogram (ECG)
+Electrocardiogram (ECG) without evidence of clinically significant ventricular arrhythmias or ischemia as determined by the investigator and a rate-corrected QT interval (QTc, Bazett's formula) of < 480 msec
+Baseline electrocardiogram (EKG) with corrected QT (QTc) > 470 msec (including subjects on medication); subjects with ventricular pacemaker for whom QT interval is not measurable will be eligible on a case-by-case basis at medical doctor (MD) discretion
+Cardiac electrophysiologic stability as defined by an electrocardiogram (ECG) with a corrected QT (QTc) interval < 500 msec at screening
+Patients with a corrected QT (QTc) interval of > 450 milliseconds (msec) on screening electrocardiogram (ECG) for men or > 470 msec for women
+Electrocardiogram (ECG) - corrected QT (QTc) < 480 msec, within 2 weeks of registration (except where specified otherwise)
+Baseline corrected QT Interval (QTc) > 470 milliseconds (msec) in women and > 450 msec in men; concomitant treatment with medications that prolong the QT interval and have a known risk of Torsades De Pointes is not contraindicated, but should be avoided if possible and will require more frequent electrocardiogram (EKG) monitoring
+Corrected QT interval (QTc) > 480 msec on screening electrocardiogram; if QTc prolongation is felt to be related to electrolyte imbalance, an electrocardiogram (EKG) can be repeated after correction of electrolytes
+Electrocardiogram (EKG) corrected QT interval (QTc) < 450 msec (females)
+Normal electrocardiogram with corrected QT (QTc) =< 450
+Resting electrocardiogram (ECG) with corrected QT interval (QTc) > 470 msec (Fridericia’s scale)
+QT interval corrected for rate (QTc) ? 480 msec on the electrocardiogram (ECG) obtained at Screening
+12-lead electrocardiogram (EKG) showing no active ischemia and corrected QT (QTc) interval less than 480 msec
+Subject has corrected QT (QTc) interval < 500 msec on baseline electrocardiogram
+QT interval corrected for rate (QTc) ? 480 msec on the electrocardiogram (ECG) obtained at Screening (average of 3 readings)
+Rate-corrected QT interval of electrocardiograph (QTc) > 470 msec on a 12-lead electrocardiogram (ECG) during screening
+Baseline electrocardiogram (EKG) with corrected QT interval (QTc) > 470 msec (including subjects on medication); subjects with ventricular pacemaker for whom QT interval is not measurable will be eligible on a case-by-case basis
+Screening electrocardiogram (ECG) with a corrected QT interval (QTc) > 460 msec confirmed by central laboratory prior to enrollment to the study
+206 Baseline electrocardiogram (ECG) QTc > 470 msec.
+Obtained =< 7 days prior to registration: Corrected QT (QTc) interval =< 500 msec on the baseline electrocardiogram
+Corrected QT (QTc) interval > 480 msec on baseline electrocardiogram (EKG)
+Electrocardiogram (ECG) corrected QT (QTc) =< 450 msec
+Corrected QT (QTc) interval on electrocardiogram must be =< 480 msec (Fridericia correction)
+Patients must have corrected QT (QTc) interval < 500 msec on baseline electrocardiogram (EKG)
+Patient must have a corrected QT interval (QTc) interval < 461 msec on the 12 lead electrocardiogram (ECG) within 42 days prior to registration, patients with asymptomatic or incidental bundle branch blocks may have QTc measured by a cardiologist or standard formulas such as Bazett’s or Fridericia’s to adjust for pre-existing blocks
+Patients with prolonged corrected QT (QTc) interval (> 500 msec) determined by electrocardiogram (EKG) within 28 days prior to registration
+Patient must have a corrected QT (QTc) interval on electrocardiogram (ECG) =< 0.48 seconds by Bazett’s calculation at screening
+For purposes of this data analysis, Bazett's formula will be used as the primary method of calculating the corrected QT interval. The QTc should be based on either a single Electrocardiogram (ECG) or an average of 3 sequential ECGs obtained within 24 hours of each other.
+Patients must have a baseline electrocardiogram (ECG) showing corrected QT (QTc) interval =< 460 msec within 28 days prior to registration
+On electrocardiogram, corrected QT (QTc) interval > 500 msec
+Electrocardiogram (ECG) without evidence of clinically significant ventricular arrhythmias or ischemia as determined by the investigator and a rate-corrected QT interval (QTc, Bazett's formula) of < 480 msec
+Corrected QT (QTc) =< 500 msec on baseline electrocardiogram (ECG)
+Baseline corrected QT (QTc) > 480 msec or other clinically significant baseline electrocardiogram (ECG) abnormality
+At eltrombopag dose levels 200 mg and above cohorts, subjects with a corrected QT (QTc) > 480 msec at screening, if other drugs known to cause prolonged QT are stopped an electrocardiogram (EKG) documenting QTc below 480 msec is required
+Has electrocardiogram (ECG) abnormalities that make QT interval corrected (QTc) evaluation difficult.
+Grade >= 2 QT interval corrected (QTc) prolongation on screening electrocardiogram (ECG) within 28 days of enrollment, or history of ventricular arrhythmia
+QT/QTc interval >480 msec, before C1D1 treatment administration, as determined by screening electrocardiogram (ECG)
+Cardiac function: 12-lead electrocardiogram (ECG) with normal tracing, or non-clinically significant changes that do not require medical intervention; corrected QT (QTc) interval is to be < 470 msec
+Corrected QT interval (QTc) prolongation (defined as a QTc interval > 480 msec) or other significant electrocardiogram (ECG) abnormalities
+Patients with corrected QT (QTc) prolongation (defined as a QTc interval equal to or greater than 500 msec) or other significant electrocardiogram (ECG) abnormalities are excluded
+Screening electrocardiogram (EKG) with a corrected QT (QTc) > 450 msec
+Have corrected QT (QTc) interval of >470 milliseconds on screening electrocardiogram (ECG).
+Corrected QT interval (QTc) > 500 milliseconds in a 12-lead electrocardiogram (ECG) during screening.
+Baseline corrected QT interval (QTc) > 470 msec (average of triplicate electrocardiogram [ECG] recordings); a consistent method of QTc calculation must be used for each patient's QTc measurements; QTcF (Fridericia's formula) is preferred
+Patients must not have prolonged corrected QT (QTc) interval (> 500 msec) determined by electrocardiogram (EKG) within 28 days prior to registration
+QT/QTc interval >450 msec, as determined by screening electrocardiogram (ECG)
+Corrected QT interval (QTc) < 480 msec (with Bazett’s correction) in screening electrocardiogram
+Electrocardiogram (EKG) with mean corrected QT (QTc) interval < 450 msec
+Corrected QT (QTc) interval > 500 msec on baseline electrocardiogram (EKG)
+Have QTc interval of >500 msec on screening electrocardiogram
+Patients must have electrocardiogram with corrected QT (QTc) with correction within 28 days prior to registration
+QTc interval < 480 milliseconds (msec) on the baseline electrocardiogram.
+Corrected QT interval (QTc) > 450 msec (male) or > 470 msec (female) on 12-lead electrocardiogram
+Have corrected QT interval of >500 millisecond (msec) on screening electrocardiogram (ECG).
+Have corrected QT interval of >470 milliseconds on screening electrocardiogram (ECG).
+History of non-pharmacologically induced prolonged QTc interval
+Prolonged rate corrected QT (QTc) interval < 500 msec
+Patients with a pre-existing diagnosis of a prolonged QT syndrome (even if corrected QT interval [QTc] is normal at the time of APL diagnosis) are excluded
+QTc =< 480 msec; Note: Patients with grade 1 prolonged QTc (450- 480 msec) at the time of study enrollment should have correctable causes of prolonged QTc addressed if possible (i.e., electrolytes, medications)
+Patients must not have a history of clinically significant arrhythmia, prolonged corrected QT (QTc) interval, or unexplained syncope not thought to be vasovagal in nature within 6 months prior to registration
+Prolonged corrected QT (QTc) interval > 500 msec, calculated according to Fridericia's formula
+History of prolonged QTc interval.
+Prolonged corrected QT (QTc) interval
+Prolonged baseline QTc
+Subjects with prolonged corrected QT (QTc) (> 450 msec) will be excluded from the study.
+Corrected QT (QTc) interval using Fridericia’s formula (QTcF) >= 450 msec. Bundle branch block and prolonged QTc interval are permitted after discussion with the PI.
+Prolonged rate corrected QT (QTc) interval ? 500 msec, calculated according to institutional guidelines
+Prolonged rate corrected QT (QTc) interval >= 500 msec, calculated according to institutional guidelines
+Unstable or serious concurrent medical conditions in the previous 6 months, eg, pancreatitis, severe/unstable angina, prolonged QT interval corrected by Fridericia’s formula (QTcF) > 470 msec (calculated as average of triplicate readings, taken no greater than 2 minutes apart, and no history of torsades de pointes or symptomatic corrected QT [QTc] abnormality), symptomatic congestive heart failure, myocardial infarction and/or pulmonary hypertension, ongoing maintenance therapy for life-threatening ventricular arrhythmia, stroke, and uncontrolled major seizure disorder
+Prolonged rate corrected QT (QTc) interval of > 500 msec, calculated according to institutional guidelines
+Adequate cardiac function defined as\r\n* No history of congenital QTc syndrome, New York Heart Association (NYHA) class III or IV congestive heart failure (CHF)\r\n* No clinical significant cardiac arrhythmias, stroke or myocardial infarction within 6 months prior to enrollment\r\n* QTc =< 480 msec; Note: Three electrocardiograms (ECGs) must be performed for eligibility determination; if the average of these three consecutive results for corrected QT using Fridericia's formula (QTcF) is =< 480 msec, the subject meets eligibility in this regard; patients with grade 1 prolonged QTc (450-480 msec) at the time of study enrollment should have correctable causes of prolonged QTc addressed if possible (i.e. electrolytes, medications)
+No history of prolonged QTC or cardiomyopathy unless normal QTC and ejection fraction confirmed within 1 month prior to study entry
+Prolonged corrected QT (QTc) interval on pre-entry electrocardiogram (>= 450 msec)
+A clinically significant ECG abnormality, including a marked baseline prolonged QT or QTc interval (eg, a repeated demonstration of a QTc interval greater than 480 msec).
+Patients with known prolonged corrected QT (QTc) syndrome or prolonged QTc syndrome noted on baseline electrocardiography (ECG)
+Prolonged rate corrected QT (QTc) interval >= 500 msec, calculated according to institutional guidelines
+At increased risk for developing prolonged QT interval unless corrected to within normal limits prior to first dose of SNX-5422
+At increased risk for developing prolonged QT interval unless corrected to within normal limits prior to first dose of SNX-5422
+History of non-pharmacologically induced prolonged QTc interval >480 milliseconds.
+History of cardiac disease (arrhythmia, conduction abnormality, congenital prolonged QT syndrome, or prolonged corrected QT [QTc] rhythm noted during initial electrocardiogram [EKG] > 480 ms)
+Documented history of prolonged QTc interval =< 6 months prior to registration
+Clinically significant active cardiovascular disease or history of prolonged QT interval corrected for heart rate (QTc)
+Corrected QT (QTc) =< 480 msec\r\n* Note: patients with grade 1 prolonged QTc (450-480 msec) at the time of study enrollment should have correctable causes of prolonged QTc addressed if possible (i.e. electrolytes, medications)
+Prolonged corrected QT interval (QTc) on pre-entry electrocardiogram (> 470 msec for men and > 480 msec for women per American Heart Association (AHA)/American College of Cardiology (ACC) 2011 scientific statement
+A prolonged QTc of >= 480 ms interval on electrocardiogram
+Patients with a history of prolonged corrected QT (QTc) syndrome
+Patients with a known history of a prolonged QT interval (corrected QT interval [QTc] > 480) may not be enrolled in this study
+Patients may not have any clinically significant cardiovascular disease including the following:\r\n* Myocardial infarction or ventricular tachyarrhythmia within 6 months\r\n* Prolonged corrected QT (QTc) > 480 msec (Fridericia correction)\r\n* Known ejection faction less than institutional normal\r\n* Major conduction abnormality (unless a cardiac pacemaker is present)
+Documentation of the patient’s history of corrected QT interval (QTc) prolongation, family history of prolonged QTc, and relevant cardiac disease within 10 days prior to registration
+Prolonged corrected QT interval (QTC) on electrocardiogram (EKG)
+Prolonged QTC
+Has clinically active heart disease including prolonged corrected QT interval
+Patients with a left ventricular cardiac ejection fraction < 50% as assessed by an echocardiogram or MUGA scan or prolonged QTc interval of Grade 2 or higher or history of prolonged QTc interval from other drugs.
+Prolonged corrected QT (QTc) interval on pre-entry electrocardiogram (> 450 msec) within 30 days prior to study registration
+Patients with a baseline QTc > 500 msec and patients with a family history of prolonged QT syndrome
+Participants with a history of congenitally prolonged corrected QT interval (QTc), a first degree relative with unexplained sudden death under 40 years of age, or a measured QTcB (Bazett’s correction) longer than 480 msec on electrocardiogram (ECG); ECGs should be performed after correction of electrolyte abnormalities; participants with a prolonged QTcB should have a repeat ECG twice, at least 24 hour apart, and the average of the 3 QTcBs should not exceed 480 msec; history of QT prolongation associated with other medications that required discontinuation of that medication
+Prolonged rate corrected QT (QTc) interval >= 500 msec, calculated according to institutional guidelines
+Prolonged QTc interval on pre-entry electrocardiogram (>/= 450 msec)
+Prolonged corrected QT (QTc) interval (>= 500 msec), as calculated by Bazett's formula
+Patients must not have a prolonged PR interval (defined as > 200 ms).
+History of significant cardiovascular disease, defined as:\r\n* Congestive heart failure greater than New York Heart Association (NYHA) class III according to the NYHA functional classification \r\n* Unstable angina or myocardial infarction within 6 months of enrollment\r\n* Serious cardiac arrhythmia\r\n* A prolonged QT/corrected QT (QTc) interval (QTc > 500 ms) demonstrated on electrocardiogram (ECG) at screening or baseline; a history of risk factors for torsade de pointes (e.g., heart failure, hypokalemia, family history of long QT syndrome) or the use of concomitant medications that prolonged the QT/QTc interval
+Prolonged QTc interval on pre-entry electrocardiogram (> 470 msec)
+Clinically active heart disease including prolonged QTc or prolonged PR interval, or history of arrhythmias
+Prolonged rate corrected QT interval (QTc) >=500 millisecond (msec), calculated according to institutional guidelines.
+Prolonged QTcF
+Mean corrected QT (QTc) interval >= 450 (triplicate electrocardiograms [ECGs]) or history congenital prolonged QT interval
+Patients may not have any clinically significant cardiovascular disease including the following:\r\n* Myocardial infarction or ventricular tachyarrhythmia within 6 months\r\n* Prolonged corrected QT interval (QTc) > 480 msec\r\n* Ejection fraction less than 50%\r\n* Major conduction abnormality (unless a cardiac pacemaker is present)
+Patient with prolonged QT/QTc (defined as QTc interval > 450 msec) are not eligible.
+Documented history of prolonged QTc interval =< 6 months prior to registration
+Prolonged QTc interval on pre-entry electrocardiogram (> 450 msec) on the Bazett’s correction
+Prolonged QTC interval >450ms
+Medical disorder that would endanger subject’s well-being (e.g., uncorrected hypothyroidism, cardiac arrhythmia, hypertension requiring treatment, sick sinus syndrome, prolonged corrected QT [QTc])
+Diagnosis of narcolepsy, sick sinus syndrome, arrhythmia, or prolonged corrected QT interval (QTc)
+Subjects having an electrocardiogram with a prolonged corrected QT (QTc) interval by manual reading: QTc greater than 490 msec
+Prolonged QTc interval >450 msec
+Prolonged QTc interval defined as greater than 480 ms.
+Subjects with prolonged QT interval.

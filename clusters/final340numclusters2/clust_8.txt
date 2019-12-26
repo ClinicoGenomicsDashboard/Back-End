@@ -1,0 +1,19 @@
+Absolute neutrophil count >= 1,500/mm^3
+Absolute neutrophil count >= 1,500/mm^3
+Absolute neutrophil count: >= 750/mm^3
+Absolute neutrophil count < 1.5 x 10^9/L
+Absolute neutrophil count >= 1.5 x 10^9/L
+Absolute neutrophil count >= 1,500/mm^3
+Absolute neutrophil count >= 1 x 10^9/L
+Neutrophil count >= 1.5 x 10^9/L
+Absolute neutrophil count: >= 750/mm^3 within 90 days before enrollment
+Absolute neutrophil count >= 1,000/mm^3
+Absolute neutrophil count: >= 1,500/mm^3
+Absolute neutrophil count >= 1,500/mm^3
+Absolute neutrophil count >= 1,500/microliters
+Absolute neutrophil count >= 1,500/mm^3 within 4 weeks prior to randomization
+Absolute neutrophil count >= 1,500/mm^3
+Absolute neutrophil count >= 1,500/mm^3
+Absolute neutrophil count >= 1.0 x 10^9/L
+Absolute neutrophil count >= 1500 cells/mm^3
+Absolute neutrophil count < 1.5 x 10^9/L

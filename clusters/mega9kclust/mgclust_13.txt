@@ -1,0 +1,7 @@
+Cluster 315: cytotoxic chemotherapy prior days therapy weeks treatment received previous cancer 
+Cluster 561: brentuximab vedotin prior treatment bv dose previous bendamustine hypersensitivity received 
+Cluster 967: weeks therapy prior chemotherapy treatment nitrosourea dose cytotoxic mitomycin radiation 
+Cluster 1313: antibody monoclonal weeks prior therapy treatment study received chemotherapy days 
+Cluster 1752: chemotherapy allowable cancer different prior systemic note study therapy previous 
+Cluster 1838: treatments prior previous cancer discontinued patients weeks therapies received systemic 
+Cluster 2139: radiotherapy prior days chemotherapy treatment brain received previous cranial dose 

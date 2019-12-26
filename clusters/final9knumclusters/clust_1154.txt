@@ -1,0 +1,37 @@
+Patients with a corrected QT interval (QTc) > 480 msecs are NOT eligible for participation
+Corrected QT interval (QTc) > 480 msecs using Bazett’s formula
+Corrected QT interval (QTc) > 480 msecs using Bazett’s formula
+Corrected QT (QTc) interval =< 450 msecs
+Corrected QT (QTc) interval =/< 470 msecs, no familial history of QTc prolongation or ventricular arrhythmias
+Corrected QT interval (QTc) > 480 msecs
+Baseline cardiac QTc interval > 450 msecs
+Corrected QT interval (QTc) > 480 msecs using Bazett‘s formula
+Corrected QT interval (QTc) > 480 msecs using Bazett's formula
+Corrected QT (QTC) by 12 lead electrocardiography (EKG) < 450 msecs
+Corrected QT (using Bazett's formula [QTcB]) interval < 500 msecs
+Corrected QT interval (QTc) > 480 miliseconds (msecs)
+Cardiac function: baseline corrected QT (QTc) interval =< 450 msecs
+Baseline cardiac QTc interval > 450 msecs
+Corrected QT interval (QTc) > 480 msecs using Bazett's formula; electrocardiography (EKG) for screening must be =< 28 days before registration
+Patients must not have a corrected QT (QTc) interval >= 480 msecs within 28 days prior to registration
+QTc\t=< 480 msecs
+Corrected QT interval (QTc) > 480 msecs\r\n* Note: correction method should be reported
+Corrected QT (QTc) interval greater than or equal to 480 msecs (>= 500 msec for subjects with bundle branch block)
+Corrected QT interval (QTc) < 480 msecs
+Corrected QT interval (QTc) > 480 msecs using Bazett’s formula
+Corrected QT interval (QTc) > 480 msecs using Bazett’s formula
+QTcF interval greater than 500 msecs at the time of transition to this study.
+Prolongation of corrected QT interval (QTc) > 480 msecs
+Subjects with a baseline corrected QT (QTc) of equal to or greater than 480 msecs or other significant electrocardiogram (ECG) abnormalities
+Corrected QT interval (QTc) > 480 msecs using Bazett’s formula
+Prolongation of corrected QT interval (QTc) > 480 msecs
+Prolongation of corrected QT interval (QTc) > 480 msecs
+EXPANSION COHORT ONLY: Prolongation of corrected QT interval (QTc) > 480 msecs
+Corrected QT interval (QTc) > 480 msecs using Bazett’s formula
+Corrected QT interval (QTc) > 480 msecs using Bazett's formula.
+Corrected QT (QTc) interval using Bazett's Formula; (QTcB) >= 480 msecs
+Corrected QT interval > 480 msecs using Bazett's formula.
+QTc interval greater than or equal to 480msecs.
+Corrected QT interval (QTc) > 480 msecs
+Corrected QT interval (QTc) > 480 msecs (record QTc correction method)
+Patient must not have corrected QT interval (QTc) > 480 msecs using Bazett’s formula

@@ -1,0 +1,14 @@
+Able to swallow and absorb the medication
+102.0
+Patients must be able to swallow pills
+130.0
+Patients must be able to swallow the drug
+110.0
+Able to swallow and absorb the medication
+102.0
+Patients must be able to swallow pills
+126.0
+Patients must be able to swallow whole capsule
+143.0
+Inability to swallow pills
+250.0

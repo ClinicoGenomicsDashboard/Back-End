@@ -1,0 +1,5 @@
+Cluster 1037: sgpt pyruvate glutamate transaminase serum normal upper limit uln iu 
+Cluster 1620: pyruvate sgpt glutamate transaminase alt alanine uln aminotransferase upper limit 
+Cluster 1872: pyruvate glutamate sgpt transaminase alanine alt aminotransferase upper normal serum 
+Cluster 2123: sgpt purpose transaminase pyruvate uln glutamate alt alanine aminotransferase serum 
+Cluster 2316: pyruvate sgpt glutamate transaminase alt alanine aminotransferase serum uln institutional 

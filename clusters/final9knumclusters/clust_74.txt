@@ -1,0 +1,482 @@
+Patient is at least 18 years of age
+Be ?18 years of age.
+Age 50.0-75.0 years.
+Must be ? 18 years of age.
+Age ? 10 years
+Patients must be >= 18 years of age
+Age >= 14 years (>= 18 years in Germany)
+Age 18 years or above
+? 18 years of age
+Age ? 18 years.
+Age ?18 years.
+Subject is at least 18 years of age.
+Age >= 18 years.
+Subjects must be ?18 years of age.
+Age ? 18
+Age ? 18 years of age
+Age >/= 18 years;
+Age > 18 years.
+Subjects ? 18 years of age.
+Age: 18 years
+Patients must be ?18 years of age
+At least 18 years of age
+? 18 years of age
+Age >21 years
+Age > or = 21 years
+?18 years of age
+Age ? 18 years
+Subject is at least 18 years of age.
+Age ? 15 and < 41 years
+Be > 6 months and < 18 years of age
+Age ?18 years
+Age ?18 years.
+Age ? 18 years.
+Age ? 18 years
+Age ?18 years
+Age>= 50
+Age >18 years.
+?18 years of age.
+Age > 18 years.
+Be ?18 years of age.
+?18 years of age.
+Age ?18 years
+Age >18 years and ?75 years.
+Age ?60 years; or
+? 18, but < 75 years of age
+Age >/= 18 years
+Age ?18 years .
+Patients ?12 years of age
+Age >= 21 years
+Age ? 18 years
+Between 6 months and <18 years of age (or between 3 years and <18 years of age for rrcHL participants) on day of signing informed consent/assent (the first 3 participants dosed in Part 1 are to be ? 6 years of age)
+Age ? 18 years.
+Age at least 18 years.
+Is of age ? 18 years
+? 18 years of age
+Age ? 18 years.
+Age > 18 years
+Age ? 18.
+?18 years of age.
+Patients must be ? 45 years of age
+Age ? 18 years.
+? 18 years of age
+Age ?18 years.
+Age +/> 70
+?18 years of age.
+Age ?18 years and ?80.
+Subject is > 22 years of age.
+? 18 years of age.
+45 years of age or less.
+Age > 18 years
+Must be > = 18 years of age.
+Age ? 12 months and < 18 years
+Age >/= to 18 years
+Must be at least 18 years of age.
+Age ?18 years
+Age ? 18 years
+? 18 years of age
+Patients who are ? 18 years of age.
+Age ? 18 years
+Age >18 years
+At least 18 years of age.
+Age ? 18 years.
+Age ? 18 years
+2 to less than 19 years of age.
+At least 18 years of age
+Patient is at least 18 years of age.
+Subjects must ?18 years of age
+At least 18 years of age.
+Participant must be >= 18 years of age.
+0 to 2 for Participants >= 75 years of age or
+0 to 3 for Participants >= 18 to 74 years of age.
+Patients must be ? 18 years of age.
+Age ?18 years
+Patient must be > 18 years of age.
+? 12 years of age
+Age ? 18 years.
+Age >= 18 years
+Age ?18 years
+Age >21 years
+0 for (age <61 years), +2 for (age 61-70 years), +4 for (age >71 years).
+Age >75.
+Age ? 18 years
+Age ?18 years
+be ?18 years of age;
+Patients must be ? 18 years of age.
+Age ? 18 years
+At least 18 years of age.
+Age ?18 years.
+Age 18 or more years
+At least 18 years of age.
+Age ?18 years;
+Subjects ? 18 years of age at screening
+? 75 years of age OR
+of 0 to 2 for participants ? 75 years of age or
+of 0 to 3 for participants between 18 to 74 years of age.
+Age 12 to 65 years
+Patients must be at least 18 years of age
+Patient is at least 18 years of age
+At least 18 years of age.
+Patients must be at least 18 years of age.
+Age ?18 years
+Subject is ?18 years of age
+?18 years of age
+Minimum age of 18 years
+Age ? 18 years.
+Age > 18 years.
+Age ?18 years
+Age ?18 years
+Age ? 16 years
+Age > 18
+Age 18 or more years
+Age * 18 years
+Age ? 18 years.
+Age 6 months - 29.99 years at enrollment
+be over age 18
+?18 years of age
+At least 18 years of age.
+Age ?18 years
+? 18 years of age.
+Age ? 80 years
+Age < 60 years
+Age 12 months to <21 years
+Age ? 50
+At least 18 years of age
+Patient is < 18 years of age
+For Phase I Only: Age >/=18 years
+Must be > = 50 years of age.
+Age > or = 15 years
+Age ? 18 years
+Age > 18
+Age at least 18 years.
+Age ? 18 years
+Age > 16 years.
+Patients must be >18 years of age.
+At least 18 years of age
+Participants must be > 18 years of age
+Age ?18 years;
+Patients <18 years of age
+Age of at least 18 years.
+age <18 years;
+Age ? 18 years.
+At least 18 years of age.
+Age 18-76 years
+Age ? 18 years
+At least 18 years of age
+Patients must be >_18 years of age
+Patients must be age >/= 18 years.
+Age >/= 18 years.
+At least 18 years of age
+At least 18 years of age
+At least 18 years of age
+At least 18 years of age.
+Age >18 years
+Age > 18 years
+Age ?18 years;
+Patients must be 18 years of age.
+Age > = 18 years of age
+Age < 18 years of age
+Age >18 years
+Patients must be at least 18 years of age.
+Age >/= 12 years
+Age ? 2 years.
+Age greater than 18 years.
+Age ? 18 years and ? 60 years
+Age ? 18 years and ? 75 years
+Age >18 years;
+Be ? 18 years of age.
+Age ?60 or
+Age ? 18 years.
+Age ? 18 years
+Age >/= 60 years
+Age ?18 years.
+Age > 18 years
+Participants must be ? 18 years of age.
+Age ?18 years
+Subjects must be ?18 years of age.
+Subject must be ?18 years of age.
+Patients must be > 2 years and < 30 years of age when registered on study.
+Patient must be ?18 years of age
+Demographics show age < 11
+Must be at least 18 years of age
+Age ?18 years
+Age ?18 years.
+Age ? 13 years.
+Age at diagnosis at least 18 years.
+Be ?18 years of age;
+? 18 years of age.
+Age ? 18 years
+Women ? 18 and ? 75 years of age.
+The patient must be ?18 years of age
+Patients must be ?18 years of age
+Age >= 70 years
+? 18 years of age
+Patients must be ? 18 years of age
+Age 18 years and above
+< 55 years of age
+?45 years of age and has not had menses for over 2 years
+Age ? 18 years
+Age ? 18 years.
+Subject is ?18 years of age
+Patients ?18 years of age;
+? 18 years of age
+Age >18 years
+Age >21 years
+? 18 years of age.
+Patients must be ? 18 years of age.
+Age ? 60 years
+Patients must be ? 18 years of age.
+Age ? 18 years.
+Age ? 60 years
+Age ? 18 years
+At least 18 years of age
+Age
+Age ? 50;
+Age > = 18 years
+Age ?18
+? 18 years of age
+Age ? 18 years.
+At least 18 years of age
+All patients must be at least 18 years of age
+Age >= 18 years
+Age ? 18 years.
+Patients must be >/= 18 years of age.
+Subject is < 18 years of age.
+Age ? 18 years.
+Subject is ? 75 years of age.
+Be at least 55 years of age
+Patients must be ? 18 years of age.
+Age ?18 years.
+Patient is at least 18 years of age at randomization.
+Women ? 18 years of age.
+Age: at least 20 years of age
+Age ? 18 years
+Age ?18 years.
+Age >/= 18 years
+Age ? 18 years.
+Age ?18 years;
+Patients must be ? 18 years of age.
+Age ?18 years
+Age ?18 years
+Age ? 18 years.
+Age at least 18 years.
+Age ? 18 years.
+Subject must be ?18 years of age.
+Age greater than18 years
+? 18 years of age
+?18 years of age.
+Age ? 18 years of age
+Age ?18 years.
+Age ?60
+Age ? 18 years (Age ? 12 years for patients with bone sarcomas).
+At least 18 years of age
+Age ?18 years
+2 years to 21 years of age
+Age ? 18 years.
+Patients must be ? 18 years of age.
+Up to 65 years of age
+Age >= 18 years
+Age > 18 years
+Age ?18 years.
+? 18 years of age
+? 18 years of age.
+At least 18 years of age.
+Age >= 65years.
+Be at least 18 years of age
+Age > 21 years
+Subjects age ?18 years
+Age >/= 60 years
+>= 18 years of age
+Age of >/= 18 years.
+?18 years of age
+Patients ?18 years of age.
+Age ? 18 years of age
+Age > 60 years
+Age at least 18 years at enrollment.
+Age ?18 years
+Age >= 18 years.
+Patients must be ? 15 years of age.
+Age ?18
+At least 18 years of age;
+Age ?18 years.
+Age ?18 years.
+Age ? 12 years
+Age > 18 years
+Age >=18 years
+Age ? 65 years
+age ?40 years through ?85 years of age;
+Age ? 18 years
+Age < 30 years
+Age >/= 18 years
+Age ? 18 years
+Age ?18 years.
+Age ?18 years of age.
+Age 18 years.
+Women ? 18 years of age
+?18 years of age
+18 years of age.
+Age ? 18 years.
+Age ? 18 years
+>18 years of age.
+Patients must be >18 years of age
+Age >/= 18 years.
+? 6 months and < 25 years of age
+Age >/= 18 years
+?18 years of age
+Subjects at least 18 years of age
+Age >=18 years (For subjects in Taiwan, Age >= 20 years)
+Must be ?18 years of age
+? 18 years of age.
+7. Age ?18 years.
+At least 18 years of age
+Age ? 18 years.
+Age ? 18 years.
+Age > or = to 16 years
+Age ? 18 years
+Age >= 18 years.
+Age ? 18 years
+Age ?21 years
+Age ? 18 years
+Age ?18 years.
+Age ?18 years
+Age ? 18 years;
+Patient is at least 18 years of age.
+Age ?18 years
+Patients ? 18 years of age.
+Age > or = to 21 years
+Age 18 to 70 years of age.
+?18 years of age.
+At least 18 years of age.
+Age >/= 18 years
+Age ?18 years
+Age ?18 years
+12 < 18 years of age
+Patient must be ? 18 years of age.
+Age ? 18 years
+Age>18
+Age ? 18 years.
+Age >= 18 years
+Age >21 years
+At least 18 years of age.
+Age ? 18 years
+Age ? 18 years.
+Age ? 18 years.
+Age ? 18 years. .
+Age ? 18 years.
+Age ? 18 years
+Age ?21 years
+Subject must be ?18 years of age
+Age ?18 years.
+Be at least 18 years of age
+At least 18 years of age
+Age >= 18 years
+Age: >3 months to <18 years of age.
+Age ? 18 years
+Age ? 18 years.
+Age ?18 years
+? 18 years of age
+At least 18 years of age
+Age <18 years.
+Age >18 years of age.
+Age ?18 years
+? 18 years of age
+Age ?18 years
+Age >21 years
+? 18 years of age.
+Age between 18 and 75 years
+Age ? 18 years.
+Age >=18 years
+Age ?18 years
+Age >=18 years
+Subject must be at least 18 years of age.
+Age 18 years or above
+Women ? 18 years of age
+Age 4 through 65 years
+-  Age >18 years.
+Age ? 18 years.
+Age ?12 years
+Age <18 years.
+? 18 years of age
+Age between 16
+Be ?18 years of age.
+Age ? 18 years
+Patients must be > 18 years of age
+Age of </= 18 years.
+Age 14-21
+Age ? 18 years of age
+At least 18 years of age
+Age ? 18 years.
+18 years of age
+Age > or = to 18 years.
+Patient is ?18 years of age.
+Must be ? 18 years of age
+Age ?18 years
+Age ?18 years
+Age ? 18 years.
+Must be at least 18 years of age
+Age ?18 years.
+at least 18 years of age
+Must be at least 18 years of age
+Age ? 18 years
+Age >/= 18 years.
+The participant is age ? 18 years
+Patient is ? 15 and < 75 years of age.
+1 to < 18 years of age
+Patients must be greater than 18 years of age
+Age ? 18 years
+15 to 39 years of age at diagnosis of first cancer
+Age 18 years or more
+Age ? 22
+Be over 18 years of age
+EXCLUSION FOR PARENTS: Patient is < 2 years of age, or > 24 years of age
+EXCLUSION CRITERIA FOR PATIENTS: Patient is < 2 years of age, or > 24 years of age
+PATIENTS: Age 30-89 years
+Age >= 18 years
+Be at least 18 years of age
+Are between 55 and 85 years of age
+Patients age ?60 years who:
+Any patient age ? 70 years.
+Patients age ?60 years who:
+Any patient age ? 75 years.
+Age ? 18 years
+Subjects must be at least 18 years of age
+Over age 18
+Subject is ?18 years of age.
+Under age 21;
+< 18 years of age
+Patients must be between 18 and 60 years of age
+Age >= 18 years
+Age >= 18 years and =< 70 years
+Age >= 18 years
+Patient is at least 18 years of age
+Age ?18 and ?65 years
+Age > 75 years
+? 18 years of age
+50 to 75 years of age
+At least 18 years of age
+Age 21-75 years at screening
+Age less than 18 years.
+Age < 18 years
+Age ? 18 years
+Age ? 18 years
+Age ?18 years.
+Age at treatment 1 to 35 years.
+Age > 18 years
+Age ? 18 years.
+18 years of age or over.
+Participants must be at least 18 years of age
+Patients who are at least 18 years of age
+Age >/= 18 years
+Under 50 or over 74 years of age
+Be ? 18 years of age
+Age ? 18 years.
+age 18+
+age ? 18 years
+Age > 65 years
+age >=18
+Age ? 18
+Patients must be >18 years-of-age.
+?18 years of age
+Patient is at least 18 years of age.
+Age ? 18 years
+Age ? 18 years

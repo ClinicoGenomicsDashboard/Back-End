@@ -1,0 +1,61 @@
+Radiation to all target lesions within  weeks of study baseline,
+No measurable target lesions.
+Radiotherapy delivered to non-target lesions within one week prior to starting study treatment or delivered to target lesions that will be followed on the study (note: prior sites of radiation will be recorded).
+TARGET POPULATION
+Radiotherapy to target lesions during study or within  weeks of enrollment
+At least  cutaneous, subcutaneous and/or lymph node target lesions that are greater or equal to  cm in the longest diameter. One of the cutaneous, subcutaneous and/or lymph node target lesions should be designated at Screening as a noninjected target lesion. Willing to have biopsy specimens taken at Screening and at Week .
+Any radiation to the target lesions within  months of enrollment
+Target lesions greater than  cm
+ACTolog target expression as evaluated by the in vitro diagnostic device IMA_Detect: Patient's tumor must express at least one ACTolog target as assessed by quantitative PCR (qPCR) (to be assessed from a tumor biopsy to be performed if all other eligibility criteria are met).
+Concurrent palliative radiotherapy for local pain-control may be allowed provided the subject completes the first cycle of treatment, does not meet criteria of progressive disease, and treated lesions will not be included in the target/non-target lesion assessment.
+Patients must have non-measurable disease (such as nuclear medicine bone scans) and non-target lesions (such as PSA level) assessed within  days prior to initial administration of drug
+Radiation within  weeks of study enrollment; radiotherapy not permitted while on study; exception: palliative radiotherapy of metastasis in extremities is allowed, but such lesions cannot be used as target or non-target lesions
+The target lumpectomy cavity must be clearly delineated and the target lumpectomy cavity/whole breast reference volume must be =< % based on the postoperative/pre-enrollment computed tomography (CT) scan
+The gross target volume (GTV) is suitable for motion management using  dimensional computed tomography (D CT), internal target volume (ITV), or respiratory gating; in addition, the target coverage and normal tissue constraints must be met as specified in protocol accounting for the respiratory motion of anatomy as a whole (not just the tumor)
+The target lumpectomy cavity must be clearly delineated and the target lumpectomy cavity/whole breast reference volume must be less than or equal to % based on the postoperative/pre-enrollment computed tomography (CT) scan
+Clear delineation of the extent of the target lumpectomy cavity not possible
+A radiation planning computed tomography (CT) scan which demonstrates a target lumpectomy cavity that is not clearly delineated or a target lumpectomy cavity/whole breast reference volume > %
+Subjects who have received radiotherapy to tumor lesions that would be chosen as target lesions (measurable disease) within  weeks before the start of treatment, except if there is objective evidence of progression of the lesion by Response Evaluation Criteria in Solid Tumors (RECIST) . between the prior radiotherapy and the screening CT or magnetic resonance imaging (MRI) scan; palliative radiotherapy to non-target lesions is allowed at the investigators discretion
+Previous treatment of the target lesions with radiation therapy
+Target Population
+Target Disease Exceptions
+Type of Participant and Target Disease Characteristics
+Measurable (target) disease.
+Measurable disease by RECIST . criteria. Target lesions selected for tumor measurements should be those where surgical resection or radiation are not indicated or anticipated.
+Target Population
+Target Disease Exceptions
+Participants must have progressive or symptomatic meningioma\r\n* NOTE: Histologic confirmation of target meningioma is not required in the setting of compatible radiographic appearance\r\n* NOTE: Progression is defined as an increase in target meningioma volume >= % OR >=  mm during the past  years
+Repeat palliative RT will be permitted for the treatment of isolated, non-target lesions
+Target or non-target lesions according to Response Evaluation Criteria in Solid Tumours (RECIST) .
+Concurrent radiotherapy is not permitted for disease progression on treatment on protocol; however, symptomatic treatment for pre-existing non-target lesions would be allowed with approval from the principal investigator
+Patient has - major painful osseous metastases (target lesions); these do not require biopsy if they are radiographically consistent with osseous metastases; the target lesions may be from any primary cancer or unknown primary cancer, including multiple myeloma
+Long bone target lesions with a Mirels fracture score > 
+Must have target or non-target lesions as per RECIST ..
+Concurrent radiotherapy is not permitted for disease progression on treatment on protocol, but might be allowed for pre-existing non-target lesions with approval from the principal investigator of the trial
+Radiographic evidence of metastatic disease; evaluable non-target lesions and/or bone only metastasis are permitted
+Each SRS target must be the equivalent of =<  vertebral levels
+The tumour uptake observed in each target lesion (for target/non-target/measurable lesions definition see Appendix , Sections  and , RECIST Criteria, Version .) using OctreoScan must be ? normal liver uptake observed on planar imaging (to be centrally confirmed) (Appendices  and ).
+No prior radiation therapy, surgery, or other local therapy for target brain lesions
+Previous treatment with radiotherapy to the target lesions
+Prior radiotherapy delivered to the target region
+The target lumpectomy cavity must be clearly delineated
+Measurable (target) disease.
+All patients to be included in this study must be presented to the principal investigator using Horizon Live Web-conferencing through the CureKids website; eligibility and target CNS sites will be determined, as well as non-target sites
+Measurable (target) disease.
+Previously collected autologous stem cell product met the minimum collection target and minimum infusion target
+Histopathologic confirmation that at least one of the three target lesions is basal cell carcinoma
+A target bleeding site can be identified.
+A target bleeding site cannot be identified.
+Radiotherapy delivered to non-target lesions within one week prior to starting study treatment or delivered to target lesions that will be followed on the study (NOTE: prior sites of radiation will be recorded)
+Target Population
+Target Disease Exceptions
+Radiosurgery or radiotherapy for target lesions within  weeks prior to starting trial treatment
+Have fatigue and/or two other target symptoms
+The volume of the tumor bed (TB) clinical target volume (CTV) is less than % of the whole breast planning target volume (PTV) which is a criteria used for partial breast alone trials
+Prior radiation therapy treatment in the target lobe
+Have had previous image guided FNAB or surgical biopsy of the target nodule of interest within the  days of baseline Imagio Scan;
+Absence of target lesions (> . cm) on staging CT
+Have a discreet surgical target
+Set monthly accrual target >= / and annual accrual target >= 
+Target Population
+Target Disease Exceptions

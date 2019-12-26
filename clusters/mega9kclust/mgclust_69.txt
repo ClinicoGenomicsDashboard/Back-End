@@ -1,0 +1,5 @@
+Cluster 223: metastatic cancer breast patients prior chemotherapy evidence disease received eligible 
+Cluster 702: inflammatory breast cancer tumors including women disease pagets evidenced assessment 
+Cluster 1169: neoadjuvant chemotherapy therapy planned received surgery cancer prior breast patients 
+Cluster 2165: docetaxel prior treatment chemotherapy cabazitaxel prostate sensitive cancer received metastatic 
+Cluster 2360: advanced cancer metastatic breast diagnosis therapy disease prior received solid 

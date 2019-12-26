@@ -1,0 +1,55 @@
+Platelets ?,/mm without platelet transfusion ?  days prior to CD
+Platelets >=  x ^ (without platelet transfusion)
+Within two weeks prior to enrollment: Platelets >= ,/mcL and >  days since last platelet transfusion
+Platelets ? ,/?L without transfusion support within  days prior to study treatment
+Platelets >  x ^/L without transfusion
+Platelets >= ,/mcL (with or without transfusion)
+Platelets >= , /mcL in the absence of transfusion support within  days of determining eligibility
+To be performed within  business days prior to day : Platelets >= ,/mm^; NOTE: platelet transfusion and packet red blood cell transfusion can be given prior to enrollment to achieve a target platelet (Plt) >= ,/uL and hemoglobin of >= . g/dL
+Platelets (no transfusion within prior  days) >=  K/cu mm
+Platelets >= ,/mcL (without transfusion support)
+Platelets >= ,/mcL or recovery to the baseline count (in the absence of transfusion), within  days prior to treatment
+Platelets >= ,/mcL in the absence of transfusion support within  days of determining eligibility within  days of treatment initiation
+Platelets ?  K/mm^ (transfusion to achieve this level is not permitted within  weeks of first study drug administration)
+Platelets >=  x ^/L (without transfusion support)
+Platelets >= ,/mm^ without platelet transfusion =<  days prior to CD
+Platelets >= ,/mcL (without transfusion within  weeks prior to cycle , day )
+Platelets >= ,/mcl (without transfusion for  days).
+Platelets >= ,/mcL (transfusion not permitted)
+Platelets >= ,/?L without transfusion support within the past  days
+Platelets >= ,/mcL (without transfusion support)
+Platelets >= , X ^ /L without transfusion if stem cells are not available
+Platelets >=  x ^/L (transfusion dependent)
+Platelets >  x ^/L without transfusion in the prior  days
+Platelets (no transfusion within prior  days) >=  K/cu mm
+Platelets >= ,/mcL (without transfusion)
+Within  days of subject registration: Platelets ,/uL (no transfusion allowed within  weeks)
+Platelets >=  x ^/L without platelet transfusion  days prior to study entry
+Platelets >  x ^/L without transfusion
+Platelets >= ,/ul (no platelet transfusion allowed within  weeks)
+Performed within  days of patient registration: Platelets >= ,/uL (no transfusion allowed within  weeks)
+MF PATIENTS: Platelets >= ,/mm^; Note: this must be achieved without transfusion
+Platelets ?,/mm (?  /L) without platelet transfusion for  days
+Platelets >,/mL (without platelet transfusion within the last  weeks)
+Platelets >=  x ^/L (no platelet transfusion within past  days)
+Platelets >  k without transfusion support in the past  days
+Platelets >= , without platelet transfusion
+Platelets >= ,/mcL at all times during the screening period without platelet transfusion within  weeks
+Platelets >=  x ^/L and no platelet transfusion within the past  days prior to study registration
+Platelets >= , /mm^; previous transfusion is allowed
+Platelets >=  x ^/L (tested within  days prior to registration)\r\n* Subjects may not have had a transfusion within  days of screening assessment
+Platelets >= ,/mcL in the absence of transfusion support within  days prior to determination of eligibility
+Platelets >= ,/ul (no transfusion allowed within  weeks)
+Platelets > , (platelet transfusion allowed)
+The patient has an absolute neutrophil count (ANC) ?/L, platelets ?,/L and is not transfusion dependent for platelets and/or red cells
+Platelets >=  x ^/L (without transfusion <  days before enrollment)
+Platelets ? ,/?L (without intervention, e.g., transfusion)
+Platelets >=  x ^/mm; may not be reached by transfusion
+Platelets >= , /uL without transfusion within  days prior to dose
+Platelets >= ,/ul; low platelet counts may be corrected with transfusion to achieve eligibility for study
+Platelets ?  x /L (in case of transfusion stable for ? days prior to treatment start)
+Platelets >= ,/mcL without transfusion support within the past  days
+Platelets ? , cells/mm^ (  ^/L), without platelet transfusion, within  hours of screening evaluation.
+Patients with platelets >= ,/uL (without platelets transfusion for at least one week prior to blood test date); the most recent platelets level taken within  days prior to study enrollment will be considered
+Platelets >=  x ^/L and no platelet transfusion within the past  days prior to study registration
+Platelets >= ,/mcl (in the absence of platelet transfusion for >=  days)

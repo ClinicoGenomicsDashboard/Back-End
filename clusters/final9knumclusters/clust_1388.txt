@@ -1,0 +1,71 @@
+Patients with prior anthracycline therapy will be excluded
+Any prior anthracycline or platinum based therapy at any time
+Patient must have progressed or be refractory to prior anthracycline-containing chemotherapy (e.g. R-CHOP, DA-EPOCH-R, etc)
+LVEF within normal limits if patient received prior anthracycline therapy [Period 1].
+For lymphoma patients only: At least one prior systemic chemotherapy including an alkylating agent and anthracycline (unless contraindicated), and an anti-CD20 monoclonal antibody if the tumor is CD20+; prior treatment with anthracycline and alkylating agent is not required for patients with natural killer (NK)/T cell lymphoma but prior treatment with platinum based chemotherapy and/or l-asparaginase is required
+Any patient with the diagnosis of locally advanced, unresectable or metastatic soft tissue or bone sarcoma (except GIST and Kaposi’s) from any site. A minimum of 1 prior chemotherapy regimen, including adjuvant or neo-adjuvant therapy for the treatment of sarcoma. Patients eligible for an anthracycline should have received a prior anthracycline containing regimen. Patients who decline or are not eligible for anthracycline treatment may be considered for this protocol as a first line treatment. Patients with a diagnosis of liposarcoma should also have received eribulin if they received anthracycline-based therapy prior to eribulin. Patients with a diagnosis of myxoid liposarcoma should have received trabectedin. Patients with angiosarcoma should have received either taxol or docetaxel. Patients must have measurable disease defined as at least 1 lesion >= 1 cm in the greatest dimension
+Have had prior therapy (administered in the neoadjuvant, adjuvant, and/or metastatic setting) with an anthracycline, a taxane, and capecitabine (prior anthracycline can be omitted if not medically appropriate or contraindicated for the patient).
+Participants that have received prior anthracycline therapy if the participant is to be enrolled in the doxorubicin combination arm.
+(For cohort B only): Patients must have at least 3 and no more than 5 weeks between anthracycline-based therapy and start of treatment with mirvetuximab soravtansine
+An anthracycline containing chemotherapy regimen
+Prior systemic therapy with an anthracycline for any indication
+Patients with a total lifetime anthracycline exposure exceeding the equivalent of 900 mg/m^2 of daunorubicin
+Has prior treatment using an anthracycline
+Patients who have received any other previous antitumor therapies (other than anthracycline-based neoadjuvant chemotherapy for the current cancer event)
+Subjects requiring daily corticosteroids, other than those given as premedication for the anthracycline-based chemotherapy
+Patients must have received at least one dose of an anthracycline based neoadjuvant regimen; patients are eligible if therapy was discontinued due to disease progression or therapy intolerance
+Patients with less than a 1.0 cm measurable residual disease after neoadjuvant anthracycline based chemotherapy
+Subjects with a history of tumor progression within 30 days of anthracycline administration are not eligible. However, subjects who have previously received an anthracycline and subsequently relapse greater than 30 days after their most recent prior dose of anthracycline will be eligible.
+No more than 2 prior induction regimens (excluding prior HSCT) in their first line treatment and one must have included cytarabine with an anthracycline (or anthracenedione)
+Received at least one dose of an anthracycline-based NACT; patients are eligible if therapy was discontinued due to disease progression or therapy intolerance
+At least 1.0 cm of measurable residual disease after neoadjuvant anthracycline-based chemotherapy
+ELIGIBILITY CRITERIA FOR T-CELL PRODUCT INFUSION: If a patient has received anthracycline chemotherapy after enrollment, they must have demonstrated adequate cardiac function at any time following latest administration of an anthracycline chemotherapy (does NOT need to be within 48 hours of T cell infusion) defined as shortening fraction > 28% by echocardiogram or an ejection fraction > 50% by MUGA
+Have previously received any anthracycline outside the protocol
+Patients >= 60 are eligible if not a candidate for standard cytarabine plus anthracycline chemotherapy as determined by Kantarjian’s score; patients younger than 60 may also be included if felt not to be a candidate for intensive anthracycline plus cytarabine based chemotherapy
+Previous treatment must include treatment with a single line of chemoimmunotherapy containing an anthracycline and a CD20-targeted agent
+Subjects have received at least 4 but no more than 8 cycles of first-line anthracycline or ifosfamide containing systemic anti-cancer therapy regimen
+Have received first-line systemic anti-cancer therapy with an agent other than anthracycline or ifosfamide
+Patients for whom anthracycline, paclitaxel or antibody therapies are contraindicated: \r\n* Hypersensitivity reactions to any of the medications or to humanized monoclonal antibodies \r\n* History of congestive heart failure \r\n* Myocardial infarction within the past 12 months \r\n* Pre-existing peripheral neuropathy >= grade 2 \r\n* Prior anthracycline therapy with >= cumulative dose of 240 mg/m^2
+Prior exposure to PLD or anthracycline therapy.
+Previous therapy with anthracycline, taxanes, carboplatin, trastuzumab, or other HER2 targeted therapies for any malignancy
+Patients must not have received previous systemic anthracycline (intravesical anthracycline is allowed)
+Current anthracycline use
+Must have progressed following or have been unable to tolerate at least one prior anthracycline or alkylating agent containing regimen (with or without anti-CD20).
+Patients must have no prior radiation therapy to >= 25% of the bone marrow for prior systemic anthracycline therapy; prior intravesical anthracycline therapy for non-muscle invasive urothelial carcinoma of the bladder is permitted
+Prior anthracycline therapy
+Has received a prior anthracycline chemotherapy either for ovarian cancer treatment or another previous malignancy
+For stratum A, patients must not have received prior anthracycline-based therapy (prior treatment with non-anthracyclines is permitted)
+For stratum C, patients must have received prior anthracycline therapy anthracycline (or have a contraindication to anthracycline) or gemcitabine-based therapy (or have a contraindication to gemcitabine)
+Prior anthracycline therapy
+Patients who are high risk for developing the following anthracycline, paclitaxel, trastuzumab or pertuzumab related toxicities including:\r\n* History of congestive heart failure, myocardial infarction or cardiomyopathy, uncontrolled hypertension despite adequate medications\r\n* Pre-existing peripheral neuropathy >= grade 3 \r\n* Prior anthracycline therapy\r\n* Known hypersensitivity to any of the study medications\r\n* Patients older than age 65 due to increased risk of cardiotoxicity
+Prior anthracycline use >=150 mg/m2
+Participants who have previously received doxorubicin, any other anthracycline chemotherapy or bevacizumab
+Patents who received an anthracycline prior to enrollment must have an ejection fraction ? 50%
+A minimum of 1 and a maximum of 3 prior chemotherapy regimens, including adjuvant and neo-adjuvant therapy for the treatment of sarcoma; patients eligible for an anthracycline should have received a prior anthracycline containing regimen; patients who decline or are not eligible for anthracycline treatment may be considered for this protocol as a first line treatment
+Completion of at least 4 cycles of a rituximab-containing, anthracycline-based combination chemotherapy regimen no sooner than 3 weeks and no longer than 8 weeks prior to the start of radiation therapy
+Must not have received an excessive cumulative dose of anthracycline
+Previous treatment with anthracycline antibiotics (e.g. Doxorubicin) or sorafenib.
+The patient has been exposed to >= 350mg/m^2 of anthracycline
+Prior anthracycline exposure: Patients must have less than 400 mg/m2 lifetime exposure of anthracycline chemotherapy. (See Appendix II for calculation worksheet)
+42 days for nitrosureas, mitomycin C, and liposomal anthracycline
+Subjects who received prior anthracycline therapy
+an anthracycline containing chemotherapy regimen
+Prior anthracycline therapy
+Prior exposure to the an anthracycline.
+Prior extensive anthracycline exposure
+Previous history of exposure to an anthracycline compound.
+Previous anthracycline-based chemotherapy (daunorubicin, doxorubicin, epirubicin, idarubicin, mitoxantrone and valrubicin), in any formulation.
+Treated in any order with at least: an anthracycline and ifosfamide containing regimen, or an anthracycline containing regimen and 1 additional cytotoxic chemotherapy regimen
+Treated in any order with at least: an anthracycline and ifosfamide containing regimen, or an anthracycline containing regimen and 1 additional cytotoxic chemotherapy regimen with less than 3 weeks from last dose of systemic anticancer therapy, radiation therapy, or therapy with any investigational agent
+Prior anthracycline exposure: patients must have had less than 350 mg/m^2 lifetime exposure of anthracycline chemotherapy
+Has received prior anthracycline therapy
+Are unable to receive anthracycline therapy due to previous toxicity.
+Subject must have previously received or be intolerant to anthracycline based therapy for advanced (metastatic or inoperable) disease. Subjects who received neoadjuvant/adjuvant anthracycline based therapy and progressed within 6 months of completion of therapy will be eligible
+Patients who are receiving therapy with an anthracycline
+Previous anthracycline exposure
+Patient’s current chemotherapy treatment plan must include at least 1 course of:\r\n* Cisplatin at ? 50 mg/m²/dose\r\n* Ifosfamide plus etoposide or doxorubicin or\r\n* Cyclophosphamide plus an anthracycline
+Patient must have a lifetime cumulative anthracycline dose of >= 250 mg/m^2 DOXOrubicin equivalent without the protection of dexrazoxane (Zinecard) therapy; the anthracycline dose threshold must be met as part of the treatment of a cancer that was diagnosed at < 22 years of age\r\n* Note: Institutional records (e.g., clinic note, treatment summary, chemotherapy roadmap) can be used to document lifetime receipt of anthracycline dose
+Scheduled to receive anthracycline-based chemotherapy therapy
+Scheduled to receive chemotherapy with an Anthracycline (doxorubicin or epirubicin)
+Have either received prior anthracycline treatment or have a reason not to receive anthracycline in the judgment of their treating physician
+an anthracycline containing chemotherapy regimen

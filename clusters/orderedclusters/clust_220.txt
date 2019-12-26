@@ -1,0 +1,12 @@
+Serum triglyceride level =< 300 mg/dL (=< 3.42 mmol/L)
+253.0
+Serum triglyceride =< 300 mg/dL (applicable only for dose levels that include isotretinoin) (note that a non-fasting triglyceride value could be obtained, if this is > 300 mg/dL then a fasting triglyceride should be obtained and patient will be eligible if the fasting level is =< 300 mg/dL)
+62.0
+Fasting triglyceride =< 2.5 x ULN
+34.0
+Fasting triglyceride =< 200 mg/dL; ONLY APPLICABLE for patients with NF2 mutation (GSK2256098)
+69.0
+Serum triglyceride level =< 300 mg/dL
+51.0
+Serum triglyceride level =< 300 mg/dL within 7 days prior to enrollment
+49.0

@@ -1,0 +1,10 @@
+Cluster 586: drug investigational weeks study preceding treatment prior start administration participation 
+Cluster 785: investigational agent weeks treatment study prior dose administration therapy initiation 
+Cluster 1006: vaccine prevention infectious therapy non oncology diseases administration ipilimumab dose 
+Cluster 1075: drug study administration dose days prior weeks following therapy treatment 
+Cluster 1184: cpi treatment weeks cancer initiation past investigational prior received dose 
+Cluster 1537: concurrently using antineoplastic approved patient anti neoplastic investigational therapy agent 
+Cluster 1724: initiation treatment study prior days weeks therapy investigational drug cancer 
+Cluster 1921: medi receipt dose anticancer prior days investigational therapy amp weeks 
+Cluster 2105: agent investigational registration days treatment prior therapy protocol registered study 
+Cluster 2275: product investigational days medicinal prior received treatment weeks administration study 

@@ -1,0 +1,28 @@
+Platelets ?/L (w/o transfusions w/in  days)
+Platelets >= ,/mcL (not requiring platelet transfusions)
+Platelets < , cell/mm^ ( x ^/L). Qualifying laboratory value must occur at most recent measurement before enrollment and must be no more than  days before enrollment. No transfusions are allowed within  hours prior to study drug administration
+Platelets >= ,/mm^ for MCL cohort and platelets >= ,/mm^ for DLBCL cohort, performed within  days prior to day  of protocol therapy\r\n* NOTE: platelet transfusions and packed red blood cell transfusion can be given prior to enrollment to achieve a target platelet (Plt) >= ,/uL for MCL and >= ,/uL for DLBCL and hemoglobin of >= . g/dL
+Patients must be transfusion independent (i.e., no blood product transfusions for a period of at least  days prior to screening)
+Platelets >= ,/mcL; >= ,/mcL if impairment is due to LPD/NHL (transfusions not permitted)
+Platelets >= ,/mcL (transfusions not permitted)
+Subjects must be transfusion independent (i.e., no blood product transfusions for a period of at least  days prior to screening).
+Platelets >= ,/mm^ (transfusions not permitted within  days of screening)
+Within  days prior to planned start of treatment: Platelets >= ,/mm^\r\n* Platelet transfusions are not permitted within  days of platelet assessment unless cytopenia is secondary to disease involvement
+Platelets >= ,/mcL (not requiring platelet transfusions)
+Platelets >= ,/mcL (transfusion independent, defined as not receiving platelet transfusions within  days prior to laboratory sample)
+Platelets >= ,/mcl (transfusion independent, defined as not receiving platelet transfusions within a  day period prior to enrollment)
+Platelets >= ,/uL (transfusion independent, defined as not receiving platelet transfusions within  days\r\nprior to laboratory sample)
+Platelets > ,/cu mm (transfusion allowed - however patients must not require more than two platelet transfusions per week)
+Platelets >= , X ^ /L with transfusions allowed if stem cells available
+Within  days prior to day  of protocol therapy unless otherwise stated: Platelets >= ,/mm^\r\n* NOTE: Platelet transfusions are not permitted within  days of platelet assessment unless cytopenia is secondary to disease involvement
+Obtained within  days prior to registration: Platelets > , cells/mm^ (transfusion independent, defined as not receiving platelet transfusions within  days prior to laboratory sample)
+To be performed within  days prior to day  of protocol therapy: Platelets >= ,/mm^ without transfusions
+Platelets >= , cells/mm^ (transfusion independent, defined as not receiving platelet transfusions within  days prior to laboratory sample)
+Platelets >= ,/mcL (transfusion independent, defined as not receiving platelet transfusions within a -day period prior to enrollment)
+Platelets ?   ^ cells/L (transfusion independent, defined as not receiving platelet transfusions within  days prior to laboratory sample). In the phase  portion, for patients with known bone marrow involvement, platelets ?   ^ cells/L
+Platelets: >= ,/mm^ (transfusion independent defined as not receiving platelet transfusions within  days prior to registration)
+Platelets >=  K/uL (transfusions are permissible)
+Platelets >= ,/mm^ (supportive transfusions will be allowed during induction and maintenance phases to maintain these levels)
+Platelets >= ,/mm^ or , (if marrow infiltrated with myeloma; no platelet transfusions are allowed in the  days prior to screening)
+Platelets ?  x /L without transfusions within  days before st treatment.
+Platelets > ,/uL not supported by transfusions

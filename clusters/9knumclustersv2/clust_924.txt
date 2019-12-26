@@ -1,0 +1,88 @@
+White blood cell (WBC) ?   ^/?L
+White blood cell count (WBC) >= ,/mcL; must be obtained within  days prior to registration
+White blood cell (WBC) count ?   e/L
+White blood cell (WBC) >= . x ^/L
+White blood cell (WBC) >= ,/mcL
+White Blood Cell Count (WBC) > ,/L
+White blood cell (WBC) >= /mcl
+White blood cell count (WBC) < ,/L
+White Blood Cell (WBC) ?/?L (? x ^/L)
+White blood cell (WBC) > ,/mcL
+White blood cell (WBC) count >= ,/mcL
+Within  days of randomization: White blood cell (WBC) count >=  x ^/L
+White blood cell (WBC) count >=   ^/L.
+White blood cell (WBC) count >=  x ^/L
+White blood cell (WBC) count >=  x ^/L (in absence of blood transfusion).
+White blood cell (WBC) ? ,/mcL
+White blood cell (WBC) > ,/dl (or absolute neutrophil count [ANC] > ,)
+Within  days prior to administration of study treatment: White blood count (WBC) >  x ^/L
+White blood cell (WBC) >=  x ^/L.
+White blood cell (WBC) < . x ^/L (or absolute neutrophil count < )
+White blood cell (WBC) >= . x ^/L
+white blood cell count (WBC) ? upper limit of normal (ULN);
+White blood count (WBC) >= /mcL, performed within  days of protocol registration
+White blood cell (WBC) >= ,/mcL
+White blood cell (WBC) within % of upper and lower limit of normal range of test
+Within  days of registration: White blood cell (WBC) >  x ^/L
+White blood cell (WBC) > ,/mcL
+White blood cell count (WBC) >  x ^/L
+White blood cell count (WBC) ? . x /L
+White blood cell (WBC) of , per microliter (mcL)
+White blood cell count (WBC)\t>= , /mcL
+White blood cell count (WBC) >= . x ^/L
+White blood cell count (WBC) >  within  days of consent
+White blood cell (WBC) >  within  days of consent
+White blood cell (WBC) > . x ^/L within  days of study entry
+White blood cell (WBC) > ,/dl or
+White blood cell (WBC) < ,
+White blood cell (WBC) with differential greater than ,/ml
+White blood cell (WBC) >= . x ^/L (performed within  days prior to registration)
+White blood cell (WBC) count ,/mL
+White blood cell count (WBC) t ? . x /L (/L)
+Within  days prior to first dose of study drug treatment: White blood cell (WBC) >= . and =< . x /L
+White blood cell count (WBC) >=  x ^/L
+White Blood Cell count (WBC) < ,/L
+White blood cell (WBC) >= /ml
+White blood cell (WBC) count >= , on hydroxyurea
+White blood cell (WBC) of  per mcL
+White blood cell (WBC) > ,/mcL or
+White blood cell (WBC) >= ,
+White blood count (WBC) > . x ^/L
+Total white blood cell count (WBC) > /mcL
+White blood cell count (WBC) >= , cells/mcL
+White blood cell (WBC) count >= . x ^/L
+White blood cell (WBC) count >= . x ^/L
+White blood cell (WBC) count >= . x ^/L
+White blood cell count (WBC) >= ,/ml
+White blood cell (WBC) count ?   e/L
+White blood cell (WBC) >= ,/mcL
+White blood cell (WBC) >= ,/mcL
+White blood cell (WBC) count >= . x ^/L
+While blood cell (WBC) ? .
+While blood cell (WBC) < . x ^/L
+White blood cell (WBC) ? ,/microL
+White blood cell (WBC) < /mcl
+White blood cell (WBC) ? /L (? . x /L)
+White blood cell (WBC) >=  K/microliter should be obtained with  days prior to randomization
+White blood cell count (WBC) >= . x ^/L
+White blood cell (WBC) >= . x ^/L
+White blood cell count (WBC) >= .
+White blood cell count (WBC) >= ,
+White blood count (WBC) >= . g/dL
+A white blood cell (WBC) count <  /L, and / or platelet count <  /L if not due to hypersplenism.
+White blood cell count (WBC) >= ,/mcL
+White blood cell count (WBC) < /ml
+White blood cell (WBC) >= ,
+White blood cell (WBC) >=  x ^/L
+White blood cell (WBC) >= ,/mcL
+White blood cell (WBC) > .
+White blood cell (WBC) >= ,
+White blood cell (WBC) ? , x^/L
+Leukocytes (white blood cell [WBC]) >= ,/microliter
+White blood cell (WBC) < .
+White blood cell (WBC) > . B/L (^/L)
+Absolute WBC (white blood cell) count ?  x /L
+White blood cell (WBC) >= . x /L
+White blood cell (WBC) within normal limits
+White blood cell (WBC):   ,
+White blood cell (WBC) count ?  x E/L

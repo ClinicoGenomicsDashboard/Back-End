@@ -1,0 +1,50 @@
+Patient with Frederica's (QTcF) formulas (QTcF) ?450 msec;
+Males with mean QTcF values of > 450 msec and females with QTcF values of > 470 msec following 3 ECGs conducted 5 minutes apart from each other; patients who are known to have congenital prolonged QT syndromes; or patients who are on medications known to cause prolonged QT intervals on ECG;
+Corrected QT interval by Fredericia (QTcF) > 500 msec within 1 month before the first dose of study treatment:\r\n* Three electrocardiograms (ECGs) must be performed for eligibility determination. If the average of these three consecutive results for QTcF is =< 500 msec, the subject meets eligibility in this regard
+QTcF > 460 msec on Screening electrocardiogram (ECG)
+Participant has a QTcF interval > 450 msec (average of triplicate determinations) by central read.
+Medical history of uncontrolled but clinically significant abnormal cardiac conduction abnormalities at electrocardiogram (ECG), any history or evidence of long QT syndrome or QTcF interval >450 msec for males and ?470 msec for females (according to Fridericia's correction) at screening
+QTcF <500 msec
+Fridericia's correction formula (QTcF) > 500 msec within 1 month before the first dose of study treatment:\r\n* Three electrocardiography (ECG)s must be performed for eligibility determination; if the average of these three consecutive results for QTcF is =< 500 msec, the subject meets eligibility in this regard
+Evidence of currently uncontrolled cardiovascular conditions as listed in the protocol; acute myocardial infarction with 6 months before starting study drug; baseline QT interval (QTcF) greater than (>) 450 milliseconds (msec) (males) or > 475 msec (females); or abnormalities on baseline 12-lead electrocardiogram (ECG) that are considered clinically significant per investigator.
+Patients with mean QTcF values of > 470 msec (in females) or > 450 msec (in males) following 3 ECGs conducted 5 minutes apart from each other; patients who are known to have congenital prolonged QT syndromes; or patients who are on medications known to cause prolonged QT intervals on ECG.
+QTcF >450 milliseconds (msec) or QTcF >480 msec for subjects with bundle branch block
+Interval from the Q wave on the ECG to point T using Fredericia's formula (QTcF) > 500 millisecond (msec)
+QT interval adjusted according to Fredericia (QTcF) > 480 msec on screening electrocardiogram (ECG)
+Significant abnormalities on ECG at screening. QTcF >450 msec for males or >470 msec for females at screening
+Subjects with a QTcF interval of >470 msec; if the Screening ECG QTcF interval is >470 msec, it may be repeated, and if repeat <470 msec, the subject may be enrolled.
+QTcF interval < 450 msec and mean resting heart rate 50-90 bpm
+A baseline ECG QTcF > 470 msec
+QTcF > 470 msec on the screening ECG
+12 lead ECG with QtcF interval ? 470 msec
+Screening QTcF >450 msec or current medication known to prolong QT
+QTcF prolongation (defined as a QTcF > 450 msec)
+QTcF >450 msec (males) or >470 msec (females).
+On screening, any of the following cardiac parameters: bradycardia (heart rate < 50 at rest), tachycardia (heart rate > 90 at rest), PR interval > 220 msec, QRS interval >109 msec, or QTcF >450 msec.
+At Screening QTcF ?450 msec for males and ?470 msec for females.
+QTcF > 480 msec
+Screening electrocardiogram (ECG) with a QTcF > 450 millisecond (msec)
+QTcB ? 480 msec
+QTcF >500 msec (males or females)
+Mean QTcF ?450 msec (for males) or ?470 msec (for females) at Screening
+Baseline mean QTcF ? 450 msec (for males) or ? 470 msec (for females) at Screening.
+Predose mean QTc? 450 msec or QTcF ? 450 msec.
+Mean QTcF interval > 450 msec at screening.
+QTcF > 470 msec on the screening ECG
+Subject with a QTcF of > 450 msec in male subjects and > 470 msec in female subjects on the screening 12 lead ECG.
+Patients with baseline QTcF ? 480 msec
+QTcF ? 450 msec for males or 470 msec for females.
+Screening and Baseline QTcF (Fridericia's) less than 470 msec
+Patient has clinically significant resting bradycardia (heart rate < 50 at rest), tachycardia (heart rate > 90 at rest), PR interval > 220 msec, QRS interval > 109 msec, or QTcF > 450 msec.
+QTcF interval on electrocardiogram (ECG) at screening > 450 msec for males or > 460 for females;
+The patient has QTcF interval greater than 450 msec, has a known history of QTcF prolongation, is taking medications known to prolong QTcF, or has a history of torsade de pointes.
+Clinically relevant findings in the ECG such as a second- or third-degree AV block, prolongation of the QRS complex over 120 msec or of the QTcF-interval over 450 msec
+Cardiovascular baseline corrected QT by Fridericia's (QTcF) > 450 msec (male) or QTcF > 470 msec (female) will exclude patients from entry on study
+QTcF interval > 450 msec (males) or > 470 msec (females)
+Pretreatment QTcF interval >470 msec (females) or >450 msec (males)
+A baseline ECG QTcF > 470 msec
+At Screening, QTcF >450 msec for males; QTcF >470 msec for females
+QTcF interval < 450 msec and mean resting heart rate 50-90 bpm
+Friderichia corrected QT interval (QTcF) >450 milliseconds (msec) (men) or >475 msec (women) on a 12-lead electrocardiogram (ECG) during the Screening period.
+Prolongation of QTcF interval to >480 milliseconds (msec)
+Subject has QTcF interval > 450 msec (average of triplicate determinations based on central reading).

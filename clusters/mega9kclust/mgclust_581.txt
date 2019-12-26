@@ -1,0 +1,14 @@
+Cluster 4: oncology eastern group performance cooperative status ecog days registration prior 
+Cluster 51: eastern cooperative oncology group ecog performance status patients subject clinical 
+Cluster 389: score karnofsky performance eastern cooperative oncology group ecog status lansky 
+Cluster 403: ps eastern cooperative ecog oncology group performance status scale score 
+Cluster 656: karnofsky eastern cooperative performance oncology ecog group status kps lansky 
+Cluster 712: score eastern cooperative group oncology performance ecog status subjects patients 
+Cluster 863: expectancy life eastern cooperative ecog group oncology performance status months 
+Cluster 1605: score eastern cooperative oncology group ecog performance equal ps subject 
+Cluster 1622: eastern cooperative oncology group ecog scale participants enrollment current eligible 
+Cluster 1709: performance scale eastern cooperative ecog oncology group status karnofsky ps 
+Cluster 1787: swog southwest oncology group performance status southwestern karnofsky zubrod eastern 
+Cluster 1984: zubrod eastern oncology cooperative ecog group status performance level karnofsky 
+Cluster 2140: age years lansky corresponding scores ecog patients eastern cooperative oncology 
+Cluster 2282: eastern cooperative oncology ecog group performance status patient randomization grade 

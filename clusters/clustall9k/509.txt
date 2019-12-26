@@ -1,0 +1,220 @@
+Must not have received therapy with anti-CD20 monoclonal antibodies within 90 days of entry onto this study
+Patient received prior treatment with a CD33 antibody.
+Prior treatment with an anti-CD123-directed agent
+Any systemic anti-cancer therapy within 3 weeks prior to C1D1 of study therapy, with the following exception:\r\n* Any prior investigational anti-cancer therapy and/or monoclonal antibody is not permitted within 4 weeks of C1D1
+Previous treatment with any anti-CD30 directed therapy
+Obtained within 14 days prior to C1D1: Anti-hepatitis C virus (HCV) total antibody negative
+Part E only: Patients with biopsy-proven DLBCL who are intolerant to, or have disease that is relapsed/refractory after, at least two prior therapies, including any anti-CD20 monoclonal antibody and chemotherapy with curative intent
+Prior treatment with any anti-PD-1 blocking therapies or histone deacetylase inhibitors (HDACi), or anti-CTLA-4 antibody, CD137 agonist or other immune activating therapy such as anti-CD 40 antibody within the last 3 months of enrollment in the study
+TREATMENT EXCLUSION: Received anti-CD30 antibody-based therapy within the previous 4 weeks
+Prior anti-CD19-directed therapies
+Prior treatment\r\n* With any prior anti-CD19/anti-CD19 CAR-T or cellular therapy (prior blinatumomab therapy is allowed)\r\n* Treatment with any prior gene therapy\r\n* Prior allogeneic hematopoietic stem cell transplant\r\n* Received chemotherapy, radiation or surgical resection of malignancy within 2 weeks prior to the start of lymphodepleting chemotherapy (day -10 to -5)
+Treatment with any anti-CD19 or anti-CD20 antibody or antibody-drug conjugate therapy within 4 weeks of enrollment
+Prior therapy with anti-CD137 or ISA101.
+Prior treatment with any CD19-directed therapy (e.g. blinatumomab, CD19-directed chimeric antigen receptor T-cell therapy, anti-CD19 antibodies)
+Patient with aggressive NHL must have received prior therapy – at a minimum:\r\n* Anti-CD20 monoclonal antibody unless tumor is CD20 negative and\r\n* An anthracycline containing regimen\r\n* Transformed FL must have had therapy for FL and be refractory to chemotherapy for DLBCL
+Anti-CD20 monoclonal antibody unless investigator determines that tumor is CD20 negative, and
+History of anti-CD19 or CAR-T therapy or history of prior randomization in ZUMA-7
+Prior treatment with cytotoxic drugs within 5 years of screening for any condition (example [e.g.], cancer, rheumatoid arthritis) or prior use of any anti-CD20 antibody
+Receipt of >/=2 prior lines of therapy and progressed on treatment with an anti-CD38 monoclonal antibody and are refractory to both a PI and IMiD (Cohort D3)
+Responded to initial therapy for ? 1 year and relapsed after 2 or more lines of therapy, including an anti-CD20 monoclonal antibody
+At least 1 prior line of therapy if primary refractory or relapsed within 1 year. Subjects who respond to initial therapy for greater than or equal to 1 year must have had at least 2 prior lines of therapy including an anti-CD20 monoclonal antibody.
+PRIOR TO LYMPHODEPLETION: Received anti-CD30 antibody-based therapy within the previous 4 weeks prior to cell infusion
+PRIOR TO INFUSION OF ATLCAR.CD30 CELLS: Received anti-CD30 antibody-based therapy within the previous 4 weeks prior to cell infusion
+Participants must have received at least one but no more than six prior treatment regimens. Prior treatment with an anti-CD20 agent, either alone or in combination, is allowed.
+Participants who have received prior therapy with other anti-CD37-targeting therapy.
+Patients treatment history may not include anti-CD33 monoclonal antibody therapy (e.g., SGN-CD33 or Mylotarg)
+Any major surgery, radiotherapy, cytotoxic chemotherapy, biologic therapy, immunotherapy, immunomodulatory drugs, experimental therapy within 4 weeks prior to the first dose of the study drugs; Note: prior therapy with anti cluster of differentiation (CD)20 monoclonal antibody, anti CD52 monoclonal antibody, and lenalidomide are allowed; for oral targeted therapies (such as idelalisib, venetoclax), a washout of 3 days is allowed
+Any systemic anti-cancer therapy within 3 weeks prior to course 1 day 1 (C1D1) of study therapy\r\n* Exception is made for patients with EGFR or ALK re-arrangements who must have stopped TKI therapy at least 7 days prior to C1D1
+Previous treatment with any anti-CD22 directed therapy
+Patients having received anti-CD20 therapy ? 4 weeks prior to the first study dose.
+Patients having received alemtuzumab (anti-CD52) therapy ? 6 months prior to the first study dose.
+Received anti-CD30 antibody-based therapy within the previous 4 weeks
+Prior Therapy: therapy with monoclonal antibodies and/or chemotherapy must be stopped at least 14 days prior to anti-CD19 CAR-transduced T cell infusion, and recovery of treatment-associated toxicity to =< grade 2 is required prior to infusion of cells; for patients that have received prior DCI, the last dose must be at least 28 days prior to anti- CD19 CAR-transduced T cell administration; note that patients can be enrolled on this study at any time after or during therapy, but at least 14 days must elapse from the time of prior monoclonal antibody administration or chemotherapy until anti-CD19 CAR-transduced T cells are infused, and at least 28 days must elapse from the time of withdraw of immunosuppression, or DCI, or other immunomodulatory therapies such as lenalidomide until anti-CD19 CAR-transduced T cells are infused; systemic immunosuppression must be stopped at least 28 days prior to protocol entry; there is no time restriction in regard to prior intrathecal chemotherapy provided there is complete recovery from any acute toxic effects of such
+Previous treatment with any anti-CD40 antibody.
+Criteria 6 Prior therapy with anti-CD38 antibodies is allowed as long as the patient had at least a PR to most recent therapy with CD38 antibody, was not removed due to toxicity, did not relapse within 60 days from intensive treatment (at least every other week) of CD38 antibody therapy, and will have at least a 6 month CD38 antibody treatment-free interval from last dose received until first study treatment
+203 Prior anti-CD19-directed therapies.
+Treatment with a therapeutic antibody targeting CD38 < 12 weeks prior to study Day 1
+Anti-CD20 therapy within 4 weeks of enrollment;
+Patients that who have relapsed after at least 1 prior anti-lymphoma therapy that include anti-CD20 monoclonal antibody and an alkylator chemotherapy agent, or at least 2 prior anti-lymphoma therapies that include anti-CD20 monoclonal antibody, may be included.
+Anti-CD20 mAb-naive or anti CD20 mAb-sensitive (defined as progression of FL >= 6 months following prior anti-CD20 mAb containing therapy).
+Prior treatment: Treated with two or more lines of prior therapy, with disease refractory to both a proteasome inhibitor and an immunomodulatory agent, and disease progression (as defined by International Myeloma Working Group (IMWG) criteria) following treatment with an anti-CD38 monoclonal antibody given as monotherapy or in combination therapy. The most recent treatment regimen must have contained an anti-CD38 monoclonal antibody.
+Prior treatment with a CD123xCD3 bispecific agent, T cells expressing CD123 specific chimeric antigen receptor, or toxin-conjugated to CD123 antibodies; prior treatment with naked anti-CD123 monoclonal antibody is permitted
+Patients with a history of prior treatment with ipilimumab, anti-programmed cell death 1 (PD1) antibody, cluster of differentiation (CD)137 agonist or anti-CD 40 antibody
+Patients with a history of prior treatment with ipilimumab, anti-programmed cell death (PD) 1 antibody, cluster of differentiation (CD)137 agonist or other immune activating therapy such as anti-CD 40 antibody
+No anti-CD25 monoclonal antibody therapy within 12 weeks of enrollment
+Receipt of anti-CTLA-4 or anti-CD27 antibody within 3 months prior to the planned start of study treatment.
+Prior therapy with any anti CD137 monoclonal antibody.
+Treatment with any prior anti-CD19/anti-CD3 therapy, or any other anti-CD19 therapy
+Prior treatment with any prior anti-CD19/anti-CD3 therapy, or any other anti-CD19 therapy
+Has had treatment with any prior anti-CD19/anti-CD3 therapy, or any other anti-CD19 therapy
+Previous CLL treatment with a CD37-targeting antibody or a CD37-antibody drug conjugate.
+Prior anti-CD19 therapies
+Relapsed or refractory FL after treatment with at least one prior chemoimmunotherapy regimen that included an anti-CD20 monoclonal antibody and for which no other more appropriate treatment option exists as determined by the investigator
+Anti-CD20 monoclonal antibody therapy within the last 3 months, or absence of circulating B cells
+Received anti-CD30 antibody-based therapy within the previous 4 weeks
+Prior CD19 directed therapy, including CAR+ T cell, BiTE, and antibody drug conjugate (ADC), with the exception of subjects who received KTE-C19 in this study and are eligible for re-treatment
+Any major surgery, radiotherapy, chemotherapy, biologic therapy, immunotherapy, experimental therapy within 4 weeks prior to the first dose of the study drugs; for oral targeted therapies (such as ibrutinib, idelalisib, venetoclax), a washout of 3 days is allowed; Note: prior treatment with anti cluster of differentiation (CD)20 monoclonal antibody, anti CD52 monoclonal antibody and lenalidomide are allowed; prior treatment with anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) and anti-programmed cell death 1 (PD1) therapies is allowed after a wash-out of 5 half-lives
+At least 1 prior treatment with a CD20 antibody combination chemo-immunotherapy regimen
+Have documented CD20+ B-cell malignancy, with active disease not responsive to prior therapy, for whom no standard of care options exists, and for whom treatment with an anti-CD20 antibody may be appropriate:
+NHL patients must have had prior treatment with an anti-CD20 antibody therapy
+Subjects previously treated with anti-CD4 antibody or alemtuzumab are eligible provided their CD4+ cell counts are ? 200/mm3
+Previous treatment with an anti-CD19 antibody or fragments
+Prior treatment with anti-CD20 monoclonal antibody or alemtuzumab within 4 weeks prior to start of therapy
+Treatment with anti-CD20 monoclonal antibody within 3 months of randomization
+Prior use of any monoclonal antibody (other than anti-CD20) within 3 months prior to the start of Cycle 1, prior treatment with obinutuzumab was not allowed
+Arm D: Refractory to ? 1 regimen containing any anti-CD20-based therapy, including salvage regimens and maintenance rituximab. Refractory subjects are defined as any subject with less than a PR to any prior anti-CD20-based therapies or progressed within 6 months after completing therapy with any anti-CD20-based regimens, including maintenance rituximab. These subjects must not be eligible for hematopoietic SCT or BM transplant
+an anti-CD20 antibody-containing regimen
+Prior therapy with varlilumab or with an anti-CD27 antibody.
+Prior therapy with an anti-CD27 antibody.
+Prior treatment with CAT-3888 (BL22), moxetumomab pasudotox (CAT-8015, HA22), any pseudomonas-exotoxin-containing compound, or any anti-CD22 directed therapy at any time in the past
+For obinutuzumab + polatuzumab vedotin + venetoclax treatment group, relapsed or refractory FL after treatment with at least one prior chemoimmunotherapy regimen that included an anti-cluster of differentiation 20 (CD20) (anti-CD20) monoclonal antibody (mAb) and for which no other more appropriate treatment option exists, as determined by the investigator
+Prior treatment with tumor necrosis factor receptor superfamily agonists including OX40, CD27, CD137 (4-1BB), CD357 (GITR). One cohort also excludes anti CTLA-4, anti PDL-1 and anti PDL-1.
+anti-CD20 monoclonal antibody unless investigator determines that tumor is CD20-negative and
+Prior treatment with anti-CD70 directed therapy unless CD70 expression is confirmed on tumor tissue obtained after the treatment
+Prior treatment with a CD33 antibody
+Prior therapy with anti-CD137 antibody
+Previous treatment with any anti-CD30 directed therapy
+Prior use of ipilimumab, other cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) blocking therapies, anti-programmed cell death 1 (PD 1) antibody, cluster of differentiation (CD) 137 agonist or other immune activating therapy such as anti-CD 40 antibody within the last 3 months of enrollment in the study; if any of these of these agents were used more than 3 months earlier to enrollment in study, the patient should have recovered from all toxicity and at least 3 months had passed since last use to allow for clearance and observation of any other side effects from the previous therapy
+Patients with a history of prior treatment with an anti-programmed cell death (PD) 1 antibody, CD137 agonist or other immune activating therapy such as anti-CD 40 antibody are excluded unless 5 half-lives of the agent (minimum of 8 weeks) have intervened since the therapy; patients who have received prior vaccine therapy are eligible
+Previous treatment with any anti-CD30 antibody
+Prior use of monoclonal antibody (other than anti CD20) within 3 months prior to randomization. Chemotherapy or other systemic lymphoma therapy within 4 weeks of study entry.
+Previous anti-CD20 radioimmunotherapy (RIT) or non-rituximab anti-CD20 therapy (such as obinutuzumab) within 6 months prior to randomization. Patients who have received previous anti-CD20 RIT or non-rituximab anti-CD20 therapy (such as obinutuzumab) must have attained a partial or complete response lasting at least 6 months, and must have recovered from any hematologic or other toxicity.
+Previous anti-lymphoma monoclonal antibody therapy (excluding anti-CD20 therapy and anti-CD20 RIT), chemotherapy, glucocorticoid, or other systemic therapy for lymphoma within 3 months prior to randomization.
+Received prior treatment with a standard anthracycline and therapeutic anti-CD20 monoclonal antibody-based regimen;
+Any major surgery, radiotherapy, chemotherapy, biologic therapy, immunotherapy, experimental therapy within 4 weeks prior to the first dose of the study drugs; for oral targeted therapies (such as ibrutinib, idelalisib, venetoclax), a washout of 3 days is allowed; Note: prior treatment with anti-cluster of differentiation (CD)20 monoclonal antibody, anti-CD52 monoclonal antibody and lenalidomide are allowed; prior treatment with anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) and anti-programmed cell death (PD)1 therapies is allowed after a wash-out of 5 half-lives
+Received anti-CD30 antibody-based therapy within the previous 4 weeks prior to cell infusion
+Have received anti-CD38 antibody therapy and do not fulfill a 120-day washout period before receiving TAK-079.
+anti-CD20 monoclonal antibody unless investigator determines that tumor is CD20-negative and
+Last dose of anti-CD20 antibody therapy must have been >4 weeks before the first dose of XmAb13676
+Antithymocyte globulin or similar anti-T cell antibody therapy ? 4 weeks prior to Cycle 1 Day 1
+Use of biologic antibody therapy for cGVHD with rituximab, alemtuzumab, or antithymocyte globulin (ATG) within 3 months of starting treatment with abatacept
+Alemtuzumab or ATG within 2 weeks of enrollment.
+Patients receiving antithymocyte globulin (ATG) or campath within 28 days of infusion
+Patients receiving anti-thymocyte globulin (ATG) or Campath within 28 days of infusion
+Treatment with steroids or immunosuppressive therapy such as cyclosporine, tacrolimus, anti-thymocyte globulin (ATG) within 6 months of registration
+Patients who have received anti-thymocyte globulin (ATG), Campath, or other immunosuppressive T cell monoclonal antibodies within 30 days
+The use of serotherapy to prevent GVHD (e.g., antithymocyte globulin) prior to day 3 post-HCT is permitted.
+Patients receiving prednisone > 0.1 mg/kg/day or equivalent at time of enrollment, or who have received anti- thymocyte globulin (ATG) within 14 days or have received donor lymphocyte infusion (DLI) or Campath within 28 days of enrollment.
+T cell-directed antibody therapy (eg. Alemtuzumab, anti-thymocyte globulin) within 6 months of enrollment
+Anti-thymocyte globulin (ATG) within 8 weeks of HSCT admission
+Previous therapy with rabbit anti-thymocyte globulin (ATG); previous treatment with equine ATG is allowed if more than 3 months ago \r\n* Note: previous myeloablative autologous transplant is permitted but not required
+Patients who have received alemtuzumab or antithymocyte globulin within 8 weeks of the transplant admission; the absence of these therapies in the medical record will serve as documentation that they were not given
+Patients receiving prednisone > 0.5 mg/kg/day at time of enrollment, or have received anti-thymocyte globulin (ATG) within 14 days or have received donor lymphocyte infusion (DLI) or Campath within 28 days of enrollment
+Patients receiving Anti-thymocyte globulin (ATG), Campath or other immunosuppressive T cell monoclonal antibodies within 28 days of treatment with Viralym-A.
+Patients receiving prednisone > 0.5 mg/kg/day at time of enrollment, or have received anti-thymocyte globulin (ATG), donor lymphocyte infusion (DLI) or Campath within 28 days of enrollment
+Patients receiving anti-thymocyte globulin (ATG), or Campath within 28 days of CMV reactivation
+Patients receiving anti-thymocyte globulin (ATG), Campath or other immunosuppressive T cell monoclonal antibodies within 28 days of screening for enrollment
+Patients who have received alemtuzumab or ATG within 8 weeks of the transplant admission
+Must not have nonmyeloablative conditioning as defined below:\r\n* TBI =< 2 Gy +/- purine analog\r\n* Flu + Cy +/- antithymocyte globulin (ATG)\r\n* Flu + cytarabine (AraC) + idarubicin (Ida)\r\n* Cladribine + AraC\r\n* Total lymphoid irradiation + ATG
+Must not receive antithymocyte globulin as part of pre-transplant conditioning regimens
+Patients with a history of documented human anti-globulin antibodies.
+Patients who have received alemtuzumab within 8 weeks of the transplant admission, or who have recently received horse or rabbit anti-thymocyte globulin and have an anti-thymocyte globulin level of >= 2 ugm/ml
+Patients who have undergone an autologous transplant > 12 months prior to allogeneic transplantation and who have not received multi-agent or immunosuppressive chemotherapy within the preceding 3 months must receive anti-thymocyte globulin (ATG) as part of the preparative regimen
+Prior treatment with anti-lymphocyte globulin or anti-thymocyte globulin
+Immunosuppressive therapy, including: cyclosporine, antithymocyte globulin, or tacrolimus within 3 months of study entry.
+Participant with post-transplant exposure to donor lymphocyte infusion (DLI), or T-cell or IL-2 targeted medication (e.g. anti-thymocyte globulin [ATG], alemtuzumab, basiliximab, denileukin diftitox) within 100 days prior
+Anti-thymocyte globulin (ATG) level of >= 2 ugm/ml
+T-cell depletion (including ATG or alemtuzumab) is not allowed.
+Received anti-thymocyte globulin (ATG) within 6 months of screening
+Patients who have received alemtuzumab within 8 weeks of transplant admission, or who have recently received horse or rabbit anti-thymocyte globulin (ATG) and have ATG levels of >= 2 ugm/ml
+Treatment of cGVHD with anti-thymocyte globulins (ATG), or campath within 60 days of screening visit unless used for treatment of acute GVHD
+Patients receiving (anti-thymocyte globulin) ATG, Campath or other immunosuppressive T cell monoclonal antibodies within 28 days of treatment with Viralym-C
+Received antithymocyte globulin (ATG), or Campath or other immunosuppressive T cell monoclonal antibodies within 28 days of screening for enrollment
+Antithymocyte globulin or similar anti-T cell antibody therapy ? 4 weeks prior to Cycle 1 Day 1
+Treatment with antithymocyte globulin within 28 days of planned infusion of virus – specific, antigen selected T cells
+Post-transplant exposure to T-cell or IL-2 targeted medication (e.g. anti-thymocyte globulin [ATG], alemtuzumab, basiliximab, denileukin diftitox) within 100 days prior
+Patients receiving anti-thymocyte globulin (ATG), or Campath or other immunosuppressive T cell monoclonal antibodies within 28 days of screening for enrollment
+Anti-thymocyte globulin, alemtuzumab, bortezomib, or post-transplant cyclophosphamide as part of GVHD prophylaxis
+Anti-thymocyte globulin as part of the conditioning regimen
+Antithymocyte globulin (ATG) as part of the conditioning regimen
+Planned use of anti-thymocyte globulin (ATG) or alemtuzumab in conditioning regimen.
+Known contraindication to receive cetuximab or irinotecan at the planned doses
+For Part C exclusively (RO6874281 in combination with cetuximab), participants with metastatic or recurrent or locally advanced squamous cell carcinoma of head and neck who have progressed on cetuximab maintenance therapy after cetuximab-containing chemotherapy or radiation therapy
+Planned to receive Erbitux™ (Cetuximab) or similar targeted therapy between Baseline and 6 weeks post-RT
+Naive to anti-EGFR therapy (cetuximab or panitumumab)
+PHASE I: Prior treatment with erlotinib, gefitinib or EGFR-blocking monoclonal antibodies (cetuximab and panitumumab) is allowed
+History of known hypersensitivity to cetuximab, docetaxel or similar agents
+Prior exposure to cetuximab in the metastatic (stage IV) setting
+Patients must be cetuximab-resistant by fulfilling at least one of the criteria defined below:\r\n* Disease persistence or recurrence within 6 months of completing definitive radiotherapy for locally advanced disease; radiation must have included concurrent cetuximab; induction chemotherapy, if given, may or may not have included cetuximab\r\n* Disease progression during, or within 6 months, of cetuximab treatment in the recurrent/metastatic setting\r\n* Prior cetuximab exposure may have occurred in any line of therapy (first line, second line, etc.) and cetuximab is not required to be the most recent therapy received
+Regimen C only (combination with cetuximab): Subjects with advanced metastatic EGFR+ solid tumors
+Known hypersensitivity to cetuximab or other EGFR antibody
+Cetuximab-naive patients may not have received cetuximab therapy in the recurrent/metastatic setting (treatment in curative setting permitted)
+Patient has had prior grade 4 infusion reaction to cetuximab
+Prior chemotherapy including cetuximab or radiation therapy
+Prior treatment with EGFR-targeted therapy, including, but not limited to, the following examples: Gilotrif (afatinib),Tarceva (erlotinib), Erbitux (cetuximab), Iressa (gefitinib), Vectibix (panitumumab), Caprelsa (vandetanib), Tykerb (lapatinib), CDX110, D2C7-immunotoxin)
+Any number or type of prior chemotherapy is allowed (patient may receive concurrent or adjuvant systemic therapy such as cetuximab at the discretion of the treating oncologic team)
+Progression following platin, 5-FU, cetuximab and taxane given for incurable disease
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Prior treatment with cetuximab or EGFR inhibitors in any treatment setting
+Patients must have failed platinum based therapy as well as cetuximab; if patients were found to be intolerant of standard first line systemic chemotherapy, patients are eligible to enroll to this study provided both cetuximab and cisplatin were administered prior to enrollment
+For study cohort A, has not had prior treatment with cetuximab, panitumumab, or other anti-EGFR therapy
+For study cohort B, must have had previous treatment with cetuximab or panitumumab with disease control (defined as complete response, partial response, or stable disease) lasting for ? 4 months in duration
+Ultimate progression through previous treatment with cetuximab, with documented clinical progression; patients who discontinued cetuximab for any other reason, such as decline in performance status, hypersensitivity, or other adverse effects of therapy, are not eligible
+Previous retreatment with cetuximab following progression on initial course of cetuximab therapy
+Known hypersensitivity to cetuximab or other EGFR antibody
+For CRC, prior treatment with cetuximab or panitumumab
+Phase II only: \r\n* Arm 1: disease progression after at least one cycle of prior treatment with cisplatin or carboplatin for incurable disease; prior treatment with cetuximab for incurable disease is not permitted\r\n* Arms 2 and 3: disease progression after at least one cycle of treatment with cetuximab for incurable disease
+Phase II, arm 1 only: prior treatment with cetuximab
+For Combination Expansion cohort only: prior treatment with cetuximab or panitumumab
+No prior treatment with cetuximab
+Prior use of cetuximab in the R/M disease treatment setting (except cetuximab during curative radiotherapy)
+Treatment with any additional Food and Drug Administration (FDA)-approved biologic agent (i.e. bevacizumab, cetuximab, or panitumumab) is allowed according to standard practice
+Prior treatment with cetuximab or panitumumab
+Patient has a known hypersensitivity to cetuximab or any other monoclonal antibody
+In the dose-finding phase, patients may be cetuximab-exposed or cetuximab-naïve; if the most recent line of therapy included cetuximab, a two-week washout period without cetuximab dosing is required
+In the dose-expansion phase, patients must be cetuximab-resistant by fulfilling at least one of the criteria defined below:\r\n* Disease recurrence within 6 months of completing definitive radiotherapy for locally advanced disease; radiation must have included concurrent cetuximab; induction chemotherapy, if given, may or may not have included cetuximab\r\n* Disease progression during, or within 6 months, of cetuximab treatment in the recurrent/metastatic setting; prior cetuximab exposure may have occurred in first, second and/or third line\r\n* If the most recent line of therapy included cetuximab, a two-week washout period without cetuximab dosing is required
+Tumor progression or recurrence within 6 months of the last dose of any number of platinum-based and cetuximab therapy lines in the adjuvant, primary, recurrent, or metastatic setting; must be resistant (not responding) to both platinum and cetuximab
+Patients must have had at least one prior treatment for metastatic disease with standard chemotherapy and cetuximab in combination or as monotherapy. [Note: patients who received panitumumab instead of cetuximab are eligible.]
+Prior grade 3 hypersensitivity to cetuximab requiring discontinuation\r\n* An exception is for a patient who could subsequently receive cetuximab without a reaction.
+Prior serious infusion reaction to cetuximab
+Patients to be enrolled in the Cetuximab or Panitumumab combination arms must have colorectal cancer which is K-Ras wild-type.
+Prior cetuximab, panitumumab, or other monoclonal antibody therapy allowed if given 28 days prior to the 1st infusion of armed T cells
+Known hypersensitivity to cetuximab or other EGFR antibody
+Documented objective response or stable disease lasting for 6 months or more to last prior anti-EGFR (cetuximab or panitumumab) in combination with irinotecan or FOLFIRI
+At least one previous line of treatment for the metastatic disease and the last treatment must have included cetuximab or panitumumab. Documentation of clinical benefit and subsequent progression on cetuximab or panitumumab as the most recent line of treatment is required for patients in the expansion part
+History of severe reactions to cetuximab and/or panitumumab (except for G3 rash and G3 hypomagnesaemia)
+For Phase Ib, prior cetuximab or other EGFR-targeted antibody therapy is allowed regardless of the prior treatment settings.
+For Phase II, Arms 1 and 2, prior cetuximab or other EGFR-targeted antibody therapy is allowed only if administered in the induction setting, or concurrently with radiation in the curative setting, with the last dose of cetuximab administered at least 12 months prior to starting the study treatment. For Arm 3, prior cetuximab must have been administered in the curative, recurrent or metastatic disease setting and disease progression documented within 9 months of the last dose of cetuximab administered in that setting. This regimen (including both platinum and cetuximab) must be the most recent anti-neoplastic treatment regimen administered.
+Patients with a prior serious infusion reaction to cetuximab
+Has never received cetuximab or panitumumab, and has not received any treatment for colorectal cancer within 30 days prior to the first dose of study treatment under this protocol;
+Has a known hypersensitivity to cetuximab, murine proteins, or any component of cetuximab;
+- cetuximab or panitumumab for patients with K-Ras wt or Ras wt tumours
+Prior discontinuation of cetuximab treatment due to toxicity or intolerance of cetuximab
+This includes but is not limited to cetuximab, panitumumab, erlotinib, geftinib, and lapatinib
+Patients must have recurrent SCCHN that has been previously treated with cetuximab as part of potentially curative therapy (i.e. with induction therapy, radiotherapy or chemoradiotherapy); the interval from completion of cetuximab and study treatment should be > 3 months
+One prior curative regimen (induction, primary or postoperative chemoradiotherapy) should have been given AND all patients should have been exposed to cetuximab as part of prior potentially curative treatment (i.e. with radiotherapy or induction therapy); the last cetuximab dose should be > 3 months
+Any number of prior regimens for recurrent or metastatic SCCHN (i.e. palliative treatment) but without cetuximab or another EGFR inhibitor
+Prior treatment with an EGFR inhibitor other than cetuximab at any time
+Plan to be treated with cetuximab (Erbitux®)
+Anticipated initiation of cetuximab treatment with or without additional chemotherapy
+Previous therapy with cetuximab within 6 months of consent
+History of infusion reactions to cetuximab or other monoclonal antibody therapies
+History of infusion reactions to cetuximab or other monoclonal antibody therapies
+Patients who have a serious reaction with the test/loading cetuximab dose for which they were not able to receive the full dose
+Prior treatment with cetuximab with tumor progression during or within 6 months after completing treatment.
+Monoclonal based therapies within 4 weeks (excluding cetuximab) and all other immunotherapy within 2 weeks prior to first dose of study treatment.
+History of infusion reactions to cetuximab or other monoclonal antibody therapies
+Subjects who have a serious reaction with the test/loading cetuximab dose for which they were not able to receive the full dose
+No prior treatment by cetuximab except if given for primary treatment (locally advanced disease) with no progressive disease for at least 4 months following the end of prior cetuximab treatment.
+For phase II only: Patients who received cetuximab or another inhibitor of epidermal growth factor receptor are excluded from the phase II of the trial, except if cetuximab was given as part of a primary treatment approach, with no progressive disease for at least 4 months following the end of prior cetuximab treatment.
+Anti-CD38 (eg, daratumumab) as part of a combination regimen or as a monotherapy Subjects who were not candidates to receive one or more of the above treatments (ie, contraindicated) are eligible.
+Any prior therapy with daratumumab
+Received daratumumab or other anti-CD38 therapies previously
+Subject has received daratumumab or other anti-CD38 therapies previously
+SY-1425 and daratumumab combination only - Prior or concurrent exposure to daratumumab or other CD38 therapies5.
+SY-1425 and daratumumab combination only - Subject has either of the following:
+Prior treatment with anti-CD38 therapy including daratumumab (Cohorts D1, D2, E, F)
+Have received prior ixazomib at any time or daratumumab or other anti-CD38 therapies, except as part of initial therapy if this was stopped to move on to SCT and the participants did not progress on anti-CD38 treatment.
+Prior daratumumab or other anti-CD38 antibody
+Cancer chemotherapy within 2 weeks prior to start of daratumumab treatment (steroid or hydroxyurea can be used up to 24 hours prior to first daratumumab infusion for control of high white cell counts)
+Has received prior treatment with daratumumab or other anti-CD38 therapies previously
+Previously received daratumumab or other anti-CD38 therapies
+Participant has received daratumumab or other anti-cluster of differentiation 38 (anti-CD38) therapies previously
+Has received daratumumab or other anti-CD38 therapies previously
+Anti-cluster of differentiation(CD)38 therapy, including daratumumab
+Has received any of the following therapies: daratumumab or other anti-CD38 therapies
+Disease progression on daratumumab
+Previous therapy with daratumumab or other anti-CD38 monoclonal antibodies.
+Daratumumab or other anti-CD38 therapies
+Prior exposure to daratumumab or prior exposure to other anti-Cluster of Differentiation 38 (anti-CD38) therapies
+Daratumumab or other anti CD38 antibody treatment within 3 months prior to study enrollment

@@ -1,0 +1,9 @@
+Cluster 11: decompensated arrhythmia congestive heart failure uncontrolled ejection fraction absence left 
+Cluster 717: threatening maintenance arrhythmias ventricular infarction myocardial ongoing life congestive heart 
+Cluster 836: heart congestive failure symptomatic history chf disease active requiring arrhythmia 
+Cluster 1410: threatening stroke cardiovascular arrhythmia unstable infarction myocardial life problems congestive 
+Cluster 1518: heart arrhythmias cardiovascular disease class infarction myocardial congestive symptomatic significant 
+Cluster 1644: coronary artery disease cardiac symptomatic heart failure congestive myocardial infarction 
+Cluster 1666: cardiac heart significant arrhythmia myocardial failure infarction congestive disease clinically 
+Cluster 2341: ischemia evidence symptomatic peripheral myocardial ecg cardiac arrhythmia significant muscle 
+Cluster 2496: heart nyha controlled abnormalities york association arrhythmia infarction myocardial congestive 

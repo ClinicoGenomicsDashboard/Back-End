@@ -1,0 +1,12 @@
+FOR TCL ONLY: Obtained =< 14 days prior to registration: ANC >= 1,000/uL
+FOR TCL ONLY: Obtained =< 14 days prior to registration: PLT >= 100,000/uL
+FOR TCL ONLY: Obtained =< 14 days prior to registration: Hemoglobin >= 8.5 g/dl
+TCL ONLY: Any mass >= 5 cm
+Relapsed or refractory TCL status including diagnoses of peripheral TCL-NOS, angioimmunoblastic TCL, anaplastic large cell lymphoma, hepatosplenic TCL, enteropathy-associated TCL, or mycosis fungoides(MF)/cutaneous TCL with transformation to systemic TCL.
+At least one 1.5 cm bidimensional measurable lesion or bone marrow positivity of TCL.
+Adult T-cell lymphoma (TCL)/leukemia (human T-cell leukemia virus 1+)
+Angioimmunoblastic TCL
+Hepatosplenic TCL
+Subcutaneous panniculitis TCL
+Primary cutaneous gamma-delta TCL
+Primary cutaneous CD8+ aggressive epidermic cytotoxic TCL

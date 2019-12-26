@@ -1,0 +1,6 @@
+Cluster 334: hgb dl transfusion hemoglobin days blood allowed prior rbc criteria 
+Cluster 517: gm hemoglobin dl hgb transfusion creatinine days si equal prior 
+Cluster 1070: transfusions hemoglobin dl hgb allowed receive blood days permitted permissible 
+Cluster 1320: transfusion meet inclusion blood allowed criteria mm count hb neutrophil 
+Cluster 1887: hgb hemoglobin dl days anemia starting gr mg therapy treatment 
+Cluster 2115: transfusion hemoglobin dl permitted days blood prior administration past preceding 

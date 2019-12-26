@@ -1,0 +1,32 @@
+Platelets >= 100 x 10^9/L
+72.0
+Platelets >= 100 x 10^9/L
+30.0
+Platelets >= 100 x 10^9/L
+40.0
+Platelets >= 100 x 10^9/L, within 2 weeks of the first dose of study treatment
+18.0
+Platelets >= 75 x 10^9/L
+68.0
+Platelets >= 100 x 10^9/L
+130.0
+Platelets >= 100 x 10^9/L
+35.0
+Platelets >= 100 x 10^9/L
+18.0
+Platelets (Plt) > 100
+23.0
+Platelets >= 100,000/microliters
+37.0
+Platelets >= 100 x 10^9/L
+36.0
+Platelets >= 100 x 10^9/L
+64.0
+Platelets >= 100 x 10^9/L (transfusion dependent)
+25.0
+Platelets >= 75 x 10^9/L
+68.0
+Platelets >= 100,000 x 10^9 /L
+21.0
+Platelets >= 75 x 10^9/L within 30 days of day 1 of study
+27.0

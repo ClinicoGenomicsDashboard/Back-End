@@ -1,0 +1,4 @@
+Cluster 633: maximum creatinine age serum mg dl years male female gender 
+Cluster 989: mg dl years age creatinine male female serum gender gfr 
+Cluster 1206: males mg dl females creatinine years age serum maximum gender 
+Cluster 1348: male female years creatinine subjects gender serum age patients maximum 

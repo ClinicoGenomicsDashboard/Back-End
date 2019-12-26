@@ -1,0 +1,51 @@
+Lansky performance status score >= 70 for patients =< 16 years of age
+Karnofsky performance status score >= 70 for patients > 16 years of age
+Lansky performance status score >= 50 for patients =< 16 years of age; Karnofsky performance status score >= 50 for patients > 16 years of age
+Performance status\r\n* Phase I: Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within one week of enrollment must be >= 50\r\n* Surgical study: Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within one week of enrollment must be >= 60\r\n* Patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+Have a Lansky score ? 40 for subjects up to 16 years of age or a Karnofsky score ? 40 for subjects 16 years of age to < 18 years
+Lansky (for research participants =< 16 years) or Karnofsky (for research participants > 16 years) performance score >= 40 at the time of study enrollment
+Performance status Lansky (age < 16) or Karnofsky score (age >= 16) >= 80%
+Karnofsky performance scale ([KPS] for > 16 yrs of age) or Lansky performance score ([LPS] for =< 16 years of age) >= 50
+Karnofsky performance scale (KPS for >= 16 years of age) or Lansky performance score (LPS for =< 15 years of age) >= 60 assessed within 14 days prior to registration
+Lansky Play Scale ?50 for participants from 6 months up to and including 16 years of age; or Karnofsky score ?50 for participants >16 years of age
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 60
+Performance status: Lansky Play-Performance Scale ?50 for children up to and including 16 years of age OR Karnofsky score ?50 for participants >16 years of age
+Performance score > 70% (use Lansky score for age < 16 and Karnofsky score for age >= 16)
+The participant has a Lansky (<16 years of age) or Karnofsky (?16 years of age) performance score of at least 50.
+Karnofsky performance scale (KPS for > 16 years [yrs.] of age) or Lansky performance score (LPS for =< 16 years of age) >= 60 assessed within two weeks prior to registration
+Karnofsky performance status (KPS) of > 60% (KPS for > 10 years of age) or Lansky performance Score (LPS) of >= 60 (LPS for =< 10 years of age) assessed within 2 weeks prior to registration; patients who are unable to walk because of paralysis but who are up in a wheel chair will be considered ambulatory for the purposes of the performance score
+Subject has Karnofsky (age ? 16 years) or Lansky (age < 16 years) performance status score ? 50 at screening
+Karnofsky performance status >= 80% for patients >= 16 years of age or Lansky play score >= 80 for patients < 16 years of age\r\n* Note: if poor performance status is due to lymphoma - Karnofsky performance status (KPS) >= 60% or Lansky performance score (LPS) >= 60 is acceptable
+Performance score of at least 80% by Karnofsky or performance score (PS) < 3 (Eastern Cooperative Oncology Group [ECOG]) (age >= 12 years), or Lansky play-performance scale of at least 60% or greater (age < 12 years).
+Adequate performance status is defined as Karnofsky score >= 70% (> 16 years of age) or Lansky score >= 70 (pediatrics)
+Performance level: \r\n* Lansky score >= 60% (patients < 16 years of age)\r\n* Karnofsky score >= 60% (patients >= 16 years of age)
+Karnofsky score of >= 50 for patients > 16 years of age; or
+Lansky score of >= 50 for patients =< 16 years of age
+Karnofsky performance status score (age >= 16 years) or Lansky play score (age < 16 years) =< 40%
+Adequate performance status is defined as Karnofsky score >= 70% (>= 16 years of age) or Lansky score >= 50 (pediatrics)
+Age 0 to 70 years of age with Karnofsky score >= 70% (>= 16 years) or Lansky score >= 50 (< 16 years)
+Karnofsky Performance Score (KPS) >= 50% for patients >= 10 years of age; Lansky score of >= 50 for children < 10 years of age
+Performance score of at least 70% by Karnofsky or 0 to 1 by Eastern Cooperative Oncology Group (ECOG) (age >= 12 years), or Lansky Play-performance scale of at least 70% or greater (age < 12 years)
+The patient must be in adequate general condition for study, with Lansky or Karnofsky performance score of >= 50 at study entry; Lansky performance scale will be used for patients =< 16 years of age
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) >= 50 assessed within 2 weeks prior to registration
+Adequate performance status; Lansky score >= 60% for children < 16 years of age, or Karnofsky score >= 60% for those > 16 years of age
+Adequate performance status is defined as Karnofsky score >= 60% (> 16 years of age) or Lansky score >= 50 (pediatrics)
+Performance level: Performance score ?50%. Karnofsky (for participants >16 years of age) or Lansky (for participants ?16 years of age)
+Subject has a Karnofsky score of ? 50% (subjects ? 16 years of age) or a Lansky score ? 50% (subjects < 16 years of age).
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within 14 days of enrollment must be >= 50
+Lansky (for participants 10 years of age or younger) or Karnofsky (for participants older than 10 years) performance score greater than 50
+Karnofsky performance scale (KPS for >= 16 years [yrs] of age) or Lansky performance score (LPS for < 16 years of age) >= 60 assessed within two weeks prior to registration
+Performance score >= 50 (Lansky for research participants =< 16 years and Karnofsky for those > 16 years)
+Performance score of >= 60 by Karnofsky or performance score (PS) 0 to 2 (Eastern Cooperative Oncology Group [ECOG]) (age > 12 years), or Lansky play-performance scale >= 60 or greater (age < 12 years)
+Performance Status: Eastern Cooperative Oncology Group (ECOG) score ? 3 (age ?16) or Lansky Performance Score (LPS) ?40% (age<16). If enrolled with primary CNS tumor to be assessed by RANO, Karnofsky Performance Status (KPS) (age ?16) or LPS (age<16) ? 50%
+Patients must have a Karnofsky performance scores (KPS) of at least 70 at the first postoperative visit; patients under 18 years of age must have a Lansky performance score of at least 70
+Lansky performance score >= 50% for patients =< 16 years of age, or Zubrod performance status score of 0-2 for patients > 16 years of age
+Performance score of at least 60% by Karnofsky or performance status (PS) less than 3 (Eastern Cooperative Oncology Group [ECOG]) (age greater than or equal to 12 years), or Lansky play-performance scale of at least 60% or greater (age < 12 years)
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of registration must be >= 60
+Performance status: Karnofsky (for participants >/= 16 years of age) or Lansky (for participants < 16 years of age) score of >/= 60
+Performance score of at least 80% by Karnofsky or performance status (PS) < 3 (Eastern Cooperative Oncology Group [ECOG]) (age >= 12 years), or Lansky Play-Performance scale of at least 60% or greater (age < 12 years)
+Karnofsky performance status score ? 50 for patients >16 years of age
+Lansky performance status score ? 50 for patients ? 16 years of age
+Patients must have a life expectancy of at least 8 weeks and a Lansky (< 16 years age) or Karnofsky (> 16 years age) score of at least 50
+Has a Lansky Play Performance score ?60 (participants ?16 years of age) or a Karnofsky score ?60 (participants >16 years of age)
+Patients with Lansky (age < 16 years) or Karnofsky (age >= 16 years) score < 50 will be excluded

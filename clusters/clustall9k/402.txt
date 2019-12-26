@@ -1,0 +1,730 @@
+FOR TCL ONLY: Obtained =< 14 days prior to registration: ANC >= 1,000/uL
+FOR TCL ONLY: Obtained =< 14 days prior to registration: PLT >= 100,000/uL
+FOR TCL ONLY: Obtained =< 14 days prior to registration: Hemoglobin >= 8.5 g/dl
+TCL ONLY: Any mass >= 5 cm
+Relapsed or refractory TCL status including diagnoses of peripheral TCL-NOS, angioimmunoblastic TCL, anaplastic large cell lymphoma, hepatosplenic TCL, enteropathy-associated TCL, or mycosis fungoides(MF)/cutaneous TCL with transformation to systemic TCL.
+At least one 1.5 cm bidimensional measurable lesion or bone marrow positivity of TCL.
+Adult T-cell lymphoma (TCL)/leukemia (human T-cell leukemia virus 1+)
+Angioimmunoblastic TCL
+Hepatosplenic TCL
+Subcutaneous panniculitis TCL
+Primary cutaneous gamma-delta TCL
+Primary cutaneous CD8+ aggressive epidermic cytotoxic TCL
+Platelets >= 100,000/ul
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/ul
+Platelets >= 100,000/ul
+Platelets >= 75,000 g/uL
+Platelets >= 100,000 cells/uL (75 x 10^9 L); and,
+Platelets >= 100,000/uL
+Platelets >= 100,000/ul (within 14 days of treatment initiation)
+Platelets >= 100,000/ul
+Platelets ? 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 75,000/ul
+Platelets >= 100 K/uL
+Platelets ? 75,000/ul
+Obtained within 14 days prior to C1D1: Platelets >= 100,000 4/uL
+Platelets 100,000/ul or more
+Platelets >= 75,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100 K/uL
+Platelets >= 75,000/uL
+Platelets >= 100 K/uL
+Platelets >= 100,000/uL
+Platelets >= 100 K/uL
+Platelets ? 100,000/uL within 28 days prior to registration
+Platelets ? 60 K/uL
+Within 14 days prior to registration: Platelets >= 100,000/uL
+Platelets >= 75 x 10^3/uL
+Platelets >= 100,000 cells/ul
+INCLUSION - TREATMENT: Platelets > 50,000/ul
+Platelets >= 100,000 cells/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 75 K/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL within 14 days prior to first dose of protocol-indicated treatment.
+Within 14 days of the first dose of study drug: Platelets >= 100 x 10^3/uL
+Platelets > 70,000/uL
+Within 10 days prior to the start of study treatment: Platelets >= 100 000/uL
+Platelets >= 100 x 10^3/uL.
+Platelets >= 100,000/uL
+Platelets > 50,000/uL.
+Platelets ? 20,000/uL
+Platelets >= 100 x 10^3/uL
+Platelets >= 100 k/uL
+Platelets ? 100,000/uL
+Platelets >= 75,000/ uL, within 2 weeks of registration
+Platelets >= 50,000/uL
+Platelets >= 75,000 cells/uL
+Platelets >= 100,000/ul
+Platelets >= 100,000/uL
+Platelets > 100,000/uL
+Platelets 100,000/ul or more
+Platelets > 100,000/ul
+Platelets >= 100,000/ul
+Platelets 100,000/ul or more
+Platelets >= 100,000/ul.
+Platelets >= 60,000/Ul.
+Platelets >= 100 K/UL
+Platelets >= 100,000/uL
+Platelets >= 125,000 cells/ul (prior to biopsy)
+Platelets >= 100,000/uL.
+Platelets >= 100,000/uL
+Within 28 days prior to enrollment: Platelets >= 100,000/uL
+No more than 14 days prior to registration: Platelets >= 100,000/uL
+Platelets >= 50,000/uL
+Platelets >= 100,000/ul
+Platelets >= 150,000/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/ uL, within 2 weeks of registration (except where specified otherwise)
+Platelets >= 75,000/uL
+Platelets >= 100,000 /uL
+Platelets >= 100,000/uL
+Platelets =< 100,000/uL
+Platelets >= 100x10^3/uL
+Platelets >= 75,000/uL
+Platelets >= 100,000/uL obtained < 4 weeks prior to starting treatment
+Obtained within 14 days of randomization: Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/ul
+Platelets >= 100 X 10^3/uL
+Platelets < 100,000 cells/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL within 14 days prior to study entry
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/uL (performed within 28 days of registration)
+Platelets >= 75 x 10^3/uL should be obtained within 21 days prior to enrollment
+Platelets >= 75,000/uL at screening visit
+Platelets >= 75,000/uL at screening visit
+Platelets > 75,000/uL
+Platelets >= 75,000 cells/uL
+Platelets >= 100,000/uL
+Platelets >= 100 x 10^3 /uL
+Platelets > 70,000/uL
+Platelets >= 50,000/uL
+Platelets >= 100,00/uL
+Platelets >= 100,000 per uL
+Platelets >= 100 x 10^3/uL
+Platelets > 100,000/uL
+Platelets >= 100,000/uL
+Platelets < 20,000/ul prior to treatment
+Platelets >= to 100,000 /uL
+Platelets >= 50,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/ul, (75,000/ul if due to bone marrow [BM] involvement)
+Platelets >= 100,000/uL obtained within 14 days of first treatment
+Platelets >= 100,000 cells/ul
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets (Plts) >= 100,000 /uL
+Platelets > 100,000/ul
+Platelets >= 100,000/uL within 14 days of the first dose of study drug
+Platelets > 100,000 cells/ul
+Platelets >= 75 k/uL
+Platelets >= 100,000/uL
+Platelets >= 50 x K/uL
+Platelets >= 100,000/ul
+Platelets >= 100,000 cells/ul
+Platelets >= 75 x 10^3/uL
+Platelets >= 100,000/ul
+Platelets > 50 k/ul
+Platelets >= 75,000/uL (within 2 weeks prior to radiotherapy)
+Platelets >= 120,000/uL
+Platelets > 50,000/uL
+Platelets >= 100,000 /uL
+Platelets >= 100,000 per uL
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/uL
+Platelets > 75,000/uL
+Platelets >= 100,000/uL (non-transfused)
+Platelets =< 75,000/ul
+Platelets >= 100,000/ul
+Platelets > 100,000/ul
+Platelets >= 70,000 /uL
+Platelets >= 100 x 10^3/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+TUMOR BIOPSY SEQUENCING: Platelets >= 100,000/uL (mcL)
+TREATMENT: Platelets >= 100,000/uL (mcL)
+Platelets >= 100 x10^3/uL
+Platelets 100,000/ul or more
+Platelets > 100,000/uL
+Platelets >= 75,000/uL
+Secondary Registration: platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets > 100,000/uL
+Platelets > 50,000/ul
+Platelets > 50,000/uL
+Platelets >= 100,000/uL (untransfused)
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 90 x 10^3/uL
+Platelets >= 100,000/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Hematologic criteria: ANC <  500/uL, Platelets < 25,000 uL.
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets > 50k/ul
+Platelets >= 100 x 10^3/uL
+Platelets >= 100 x 10^3/uL
+Platelets >= 50,000/uL
+Platelets > 100,000/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/ul
+Platelets > 75,000/uL
+Platelets >= 75 x 10^3/uL
+Platelets > 100,000/uL
+Platelets >= 160,000/ul
+Platelets ? 30 x 10^3/uL
+Platelets >= 100,000/ul
+Platelets >= 100 x 10^3/uL
+Platelets >= 100 x 10^3/uL
+Platelets >= 75 x 10^3/uL
+Platelets >= 100,000/ul
+Platelets > 100,000/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >=100,000/uL.
+Platelets >= 75,000/ul
+Platelets: >= 100,000/uL
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/uL
+Platelets > 100,000/uL
+Platelets >= 75,000/uL
+Platelets >= 100,000/uL
+Platelets >= 50000/uL
+Platelets >= 100,000 /uL
+Platelets >= 100,000/ul (untransfused)
+Platelets >= 100,000/uL obtained =< 7 days prior to randomization
+Platelets > 100 x10^3/uL
+Platelets >= 50,000/uL
+Platelets >= 100,000/uL
+Platelets >= 50,000/uL
+Platelets >= 100,000/uL
+Platelets >= 75 x 10^3/uL
+Platelets > 100,000/uL
+Within 4 weeks of administration of study therapy: Platelets >= 100,000/uL
+Platelets >= 100 x 10^3/uL
+Platelets < 50,000/ul
+Platelets >= 100,000/ul
+Platelets >= 125,000 cells/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/ul
+Platelets >= 100 × 10^3/uL
+Platelets >= 50,000/uL
+Platelets >= 50,000 cells/uL within 14 days before enrollment
+Platelets >= 75 x 10^3/uL
+Platelets >= 75 x 10^3/uL
+Platelets >= 100,000/ul
+AT THE TIME OF INFUSION: Platelets > 50,000/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+COHORT A: Platelets >= 75 x 10^3/uL
+COHORT B: Platelets >= 75 x 10^3/uL
+Platelets >= 90 x 10^3/uL
+Platelets > 75,000/uL
+Platelets >= 50,000/ul
+Platelets >= 75,000/uL
+Platelets >= 100,000/ul
+Platelets >= 50,000 cells/uL (50 x 10^9/L)
+Platelets >= 100,000/uL
+Platelets >= 75,000/uL
+Platelets >= 100 K/UL
+Platelets >= 100,000 per uL
+Platelets >= 100,000/uL
+Platelets >= 50,000/uL
+Platelets >= 100,000/uL
+Platelets >= 50,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 75,000 per uL
+Platelets >= 100,000/ul
+Platelets < 100,000 /uL
+Low platelets (< 75 k/ul)
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/Ul
+Platelets > 100,000/uL prior to day 0
+Platelets > 75,000/uL
+Platelets >= 100,000/uL
+Within 14 days after subjects signed the treatment consent: Platelets >= 100,000/ul
+Platelets >= 50 x 10^3/uL
+Platelets >= 100,000/uL
+Platelets >= 100 x 10^3/uL
+Platelets: >= 75 x 10^3/uL (~ 75 x 10^9/L)
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL, within 14 days of registration
+Platelets > 100,000/ul
+Platelets >= 100,000/uL
+Platelets >= 100,000/ul
+Platelets >= 30,000/uL
+Platelets >= 75,000/ul
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/uL
+Within 14 days prior to enrollment/randomization: Platelets >= 100,000/uL
+Platelets >= 50,000/uL
+Platelets >= 100,000 cells/ul
+Platelets > 50,000/uL
+Platelets > 50,000/uL
+Platelets >= 50,000 uL
+PRIOR TO POST-TRANSPLANT IMMUNOTHERAPY: Platelets > 50,000/uL
+Platelets > 100,000/ul
+Platelets >= 100,000/ul (unless low platelets are due to multiple myeloma)
+Platelets > 100,000/ul
+Platelets > 75,000 cells/ul
+Platelets > 100 x 10^9/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000//uL
+Platelets >= 100,000/uL
+Platelets: >= 75 x 10^3/uL (~75 x 10^9/L)
+Platelets >= 100,000/uL
+Platelets >= 50,000 cells/uL, or >= 30,000/uL if bone marrow is involved by malignancy
+Platelets > 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/ul
+Platelets >= 100,000/ul
+Platelets > 50,000/uL
+Platelets >= 75 K/uL (transfusions are permissible)
+Platelets: >= 75,000/ul
+Platelets >= 100 x 10^3/uL
+Platelets >= 100,000/uL
+Platelets >= 75,000/uL
+Platelets >= 75,000/uL
+Platelets >= 50000/uL
+Platelets >= 100,000/ul
+Platelets >=100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/ul
+Platelets > 50,000/uL not supported by transfusions
+Platelets >= 100,000/ul
+Platelets >= 100,000/uL
+Platelets >= 100000/uL
+Platelets >= 100,000/ul
+Platelets > 100 K/uL
+Platelets > 100 K/uL
+Platelets > 125,000 cells/ul within 14 days prior to treatment initiation
+Platelets (Plts) >= 50,000/uL
+Platelets >= 75,000/uL
+Platelets >= 50 x 10^3/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/uL
+Platelets >= 100,000/ul
+Platelets >= 75,000/uL
+Platelets >= 100 x 10^3/uL
+Platelets >= 30,000/ul
+Platelets > 100,000/ul
+Platelets > 100,000/uL
+Platelets >= 75 x 10^3/uL
+Platelets > 100,000/uL
+Platelets > 100,000/uL
+Platelets >= 150,000/uL
+Platelets >= 100,000/uL
+Platelets > 100,000 cells/ul
+Platelets >= 100 x 10^3/uL, obtained within 14 days of the first dose of study drug
+Platelets >= 100,000/uL
+Platelets < 50 H K/UL in the past 30 days
+Platelets < 50 H K/UL in the past 30 days
+Platelets >= 50,000/uL
+Platelets >= 100,000/uL
+Platelets >= 75,000 / uL
+Platelets >= 100,000/uL
+Platelets > 50,000/uL
+Within 30 days of eligibility confirmation: Platelets >= 50,000/uL
+Platelets >= 75,000/uL
+Platelets >= 75,000 cells/uL
+Platelets >= 75,000 cells/uL
+Platelets > 100,000 cells/uL
+Platelets > 50,000/uL
+Platelets > 100,000/uL
+Platelets >= 75,000 cells/uL
+Platelets < 75,000/uL
+Platelets >= 100,000/uL
+Platelets > 100,000/ul
+Platelets ? 30,000/uL
+Platelets >= 50,000/mm^3 (without support)
+Platelets >= 30,000/mm^3
+Platelets > 100,000 mm^3, must be obtained within 8 weeks prior to screening for protocol therapy
+Platelets >= 100,000/mm^3
+Within 2 weeks prior to registration: Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3 within 4 weeks prior to randomization
+Platelets >= 100,000/mm^3
+Platelets >= 100,000 cell/mm^3
+Platelets >= 100,000/mm^3
+Platelets ? 100,000/ mm3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 50,000/mm^3
+Platelets ? 50,000/mm3
+Platelets >= 100,000/mm^3
+Platelets ? 100,000/mm3;
+Platelets >= 100,000/mm^3
+Platelets >= 75,000/mm^3
+Platelets ?100,000/mm3;
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets > 100,000/mm^3
+Platelets < 75x10^9/L (75x10^3/mm^3)
+Platelets ?100,000/mm^3 (?100 × 10^9/L);
+Platelets >= 100,000/mm^3 or >= 100 x 10^9/L
+Obtained =< 2 weeks prior to registration: Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^2 (100 x 10^9/L)
+Platelets > 50,000/mm3,
+Platelets less than 100,000/cubic mm
+Platelets > 100,000/mm^3.
+Platelets >= 100 K/mm^3
+Platelets >/= 30,000/mm3
+Platelets >= 100,000/mm3.
+Platelets >= 75,000/mm^3 (100 x 10^9/L)
+Platelets < 100,000 per mm^3
+Platelets >= 100K/mm^3
+ARM I&II: Platelets > 100,000/mm^3
+Platelets >= 30,000/mm^3
+Platelets >= 100 K/mm^3
+Platelets* ? 100,000/mm³ (? 100 x 10^9/L)
+Platelets >= 100,000/mm^3
+Platelets ?75,000/mm³
+Platelets ? 50,000/mm^3
+Within 4 weeks of day 1: Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 20,000/mm^3
+Platelets > 100 K/mm^3.
+Within 7-10 days of study drug administration: Platelets >= 90,000/mm^3
+Platelets ? 75,000/mm^3 within 10 days prior to “on study” status
+Platelets >= 100 k/mm^3
+Platelets >= 75,000/mm^3
+Within 7 days before the first dose of study treatment: Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3, at the time of enrollment
+Platelets ?100,000/mm^3 (?100 × 10^9/Liters [L])
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3 OR >= 100 x 10^9/L
+Platelets < 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets > 50,000/mm^3
+Platelets > 100,000/mm^3
+Platelets >= 75 K/mm^3
+Platelets >= 100 k/mm^3
+Platelets < 100 x 10^9/L (100,000 per mm^3)
+Platelets >= 100,000/mm^3
+Platelets > 75,000/mm^3
+Platelets >= 100,000/mm^3, within 14 day prior to registration
+Platelets < 75,000/mm^3 (SI units 109/L)
+Platelets >= 100,000/mm^3
+Platelets > 100 K/mm^3
+Platelets >= 100,000/mm^3
+Platelets < 75,000/mm^3 [75 x 10^9/L]
+Platelets ? 100,000/mm^3 (100 x 10^9/L)
+Platelets >= 100,000/mm^3
+Platelets >= 75,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets < 75,000/mm^3 (75 x 10^9/L)
+Platelets >= 80K/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets (Plts) >= 100 k/mm^3
+Platelets ?100,000/mm^3 (?100x10^9/L)
+Platelets >= 100,000/mm^3
+Platelets >= 50,000/mm^3
+Within 6 weeks of day 1: Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm3
+Platelets >= 100,000/mm^2 (100 x 10^9/L)
+Platelets >= 100,000/mm^3
+Platelets < 100,000/ mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100 K/cu mm
+Platelets >= 100,000 per mm^3
+Platelets > 75,000/mm^3
+Platelets > 100,000 mm^3
+Platelets >= 100,000/mm^3
+Platelets > 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets < 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets are >= 50,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets < 100,000/mm3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 75,000/mm^3, within 14 days prior to study entry
+Platelets >= 75,000/mm^3
+Platelets >= 80,000/mm^3; this value must be obtained within four weeks before protocol entry
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets < 100,000/mm3
+Platelets >= 100,000 mm^3
+Platelets >= 100,000/cu mm
+Platelets >= 100,000 mm^3
+Platelets > 100,000/mm^3
+Platelets < 100,000/mm^3
+Platelets >= 100 x 10^3/mm^3
+Platelets >= 100 x 10^3/mm^3
+Platelets >= 100 K/ mm^3
+Platelets>100,000/mm3
+Platelets >= 100,000/mm^3
+Platelets >= 100K/mm^3
+Platelets ? 40,000/mm^3
+Platelets < 75000/mm^3.
+Platelets ? 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets are 100,000/mm3
+Platelets ? 100,000/mm^3 (? 21days [d] of study day 1)
+Platelets >= 100,000/ mm^3
+Platelets > 100 K/mm^3
+Platelets > 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100 x 10^3/mm^3
+Platelets >= 120,000/mm^3
+Platelets: >= 100,000 / mm^3
+Platelets >= 30,000/mm^3
+Platelets >= 100,000 per mm^3
+Platelets ?10,000/mm3 with no active bleeding
+Platelets > 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 50,000/mm^3
+Platelets less than 50 x 10^3/mm^3
+Platelets >= 75,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets > 100,000/mm^3
+Platelets > 100,000/mm^3
+Platelets >= 50,000/mm^3
+Platelets count > 100,000 mm^3
+Platelets >= 100,000/mm^3 (untransfused)
+Platelets >= 50,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets > 100,000/mm^3
+Platelets ?100,000/mm^3 (?100 x 10^9/L)
+Platelets >= 100,000/mm^3
+Platelets ?75,000/mm3
+Platelets ? 50.000//mm3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000 mm^3
+Platelets >= 100,000/mm^3
+Platelets ?75,000/mm3 (?75 × 10^9/L)
+Platelets ? 50,000/mm3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 75,000/mm^3
+Platelets >= 100,000/ mm^3
+Platelets >= 90,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets > 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 50,000 /mm^3
+Platelets >= 100,000 per mm^3
+Platelets >= 100,000/mm^3 (within 14 days prior to day 1 of protocol therapy)
+Platelets* ? 100,000/mm3 (? 100 x 109/L)
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets > 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 50,000/mm^3
+Platelets >= 40,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 75,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 50,000/ mm^3
+Platelets > 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3 within 4 weeks of enrollment
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 50,000/mm^3
+Marrow: WBC ?3000/mm^3 and platelets ?100,000/mm^3.
+Platelets >= 60,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000 mm^3
+Platelets >= 100,000 per mm^3
+Platelets >= 50,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets > 75,000/mm^3
+Platelets >= 75,000/mm^3
+Platelets greater than 75,000/mm^3
+Platelets > 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 75,000/mm^3
+Platelets >= 75,000/mm^3
+Platelets <100,000/mm3
+Platelets >= 100,000/mm^3
+Platelets >= 50,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets count ? 50,000/mm3
+Platelets < 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 75,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets > 100,000/mm^3
+Platelets >= 80,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets > 75,000/mm^3
+Platelets > 50,000/mm^3 (without support)
+Platelets >= 30,000/mm^3
+Platelets >= 75,000/mm^3
+Platelets >= 100,000/mm^3
+platelets >100,000/mm3
+Platelets >= 75,000/mm^3
+Marrow: WBC ?3000/mm^3 and platelets ?100,000/mm^3.
+Platelets >= 100,000/mm^3
+Platelets >= 100,000mm^3
+Platelets >= 100,000/mm^3
+Platelets: >= 100,000/mm^3
+Platelets >= 100 x 10^9/L; (100,000/mm^3)
+Platelets > 50,000/mm^3
+Platelets >= 50,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 125 x 10^9/L (125,000/mm^3)
+Platelets >= 90,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/ mm^3
+Platelets >= 75,000/mm^3
+Platelets < 100,000/mm3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets ?50,000/mm3
+Hematology WBC <4,000 mm3 Platelets <100,000 mm3
+Platelets >= 75,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets > 75,000/mm^3
+Platelets > 100,000/mm3 and WBC > 3000/mm3.
+Platelets >= 50,000/mm^3
+Platelets < 75,000/mm^3 (SI units 109/L)
+Platelets count > 100,000 mm^3 and less than 1,000,000 mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 50,000/mm^3
+Platelets >= 75,000/mm^3 (>= 75 x 10^9/L)
+Platelets >= 100,000/mm^3
+Platelets: >= 100,000/mm^3
+Platelets >= 75 K/mm^3
+Platelets: >= 75,000/mm^3 within 90 days before enrollment
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000 mm^3
+Platelets ? 100,000/ mm3
+Platelets >= 100,000/mm^3
+Platelets >= 100,000/mm^3
+Within 14 days prior to study entry: Platelets > 100,000/mm^3
+Platelets >= 100 K/cu mm
+Platelets >= 100 K/cu mm
+Platelets >= 100,000/mm^3
+Platelets >= 90,000/mm^3
+Platelets < 90,000/mm^3
+Platelets ?100,000/mm3 (?100 × 109/L)
+platelets ? 100,000/mm3,
+Leukocytes >= 2,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3000/uL
+Leukocytes >= 3,000/uL
+Leukocytes ? 3,000/uL
+Leukocytes >= 3,000/uL.
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL obtained within 14 days of first treatment
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000 cells/uL (to be performed within 7 days prior to start of study treatment)
+Leukocytes >= 3,000/ul
+Leukocytes >= 2,000/uL (within 2 weeks prior to radiotherapy)
+Secondary Registration: leukocytes >= 3,000/uL
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 4,000/ul
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 2,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 2,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 2,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes > 3,000/uL
+Leukocytes: >= 3,000/ul
+Leukocytes >= 3,000/uL
+Leukocytes >= 3000/uL
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000 /uL
+Obtained =< 21 days prior to registration: platelets (PLT) >= 50,000/uL
+Platelets (PLT) >= 100,000/uL
+Thrombocytopenia (platelets [Plt] < 100,000/ul)
+Platelets (PLT) >= 100 x 10^3/uL, within 30 days before study registration
+FOR AML ONLY: Obtained =< 14 days prior to registration: PLT >= 10,000/uL (transfusion to get platelets >= 10,000 is allowed)
+Patients must have platelets (plt) >= 50,000/uL; platelet transfusion and packed red blood cell transfusion can also be given prior to the start of treatment and during treatment to achieve a target plt >= 50,000/uL provided that patients have not received growth factors for at least 14 days prior to entering trial
+Platelets (PLT) >= 100,000 uL
+Platelets (PLT) >= 100,000/uL
+Platelets (PLT) >= 100,000/uL
+Platelets (PLT) >= 100,000/uL
+Platelets (PLT) >= 100,000/ul
+Thrombocytopenia (platelets [Plt] < 100,000/ul)
+Platelets (PLT) >= 100,000/uL
+Platelets (PLT) > 75,000/ul
+Obtained =< 21 days prior to registration: Platelets (PLT) >= 50,000/uL
+Platelets (PLT) >= 100,000 / uL
+Platelets (PLT) >= 100,000/uL
+Platelets (PLT) >= 75,000/ul
+Platelets (PLT) >= 75,000/uL obtained =< 14 days prior to registration with no platelet transfusion requirement for 7 days prior to enrollment
+Platelets (PLT) >= 50,000/uL
+Patients must have platelets (Plt) >= 50,000/uL; platelet transfusion can be given prior to the start of SGN-35 and during SGN-35 treatment to achieve a target plt >= 50,000/uL
+Platelets (PLT) >= 75,000/uL
+Platelets (plt) ? 75,000/uL

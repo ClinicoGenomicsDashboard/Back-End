@@ -1,0 +1,21 @@
+PSA doubling time < 8 months
+Patients must have sufficient PSA time points prior to enrollment (a minimum of 3 PSA levels within a six month period) to calculate a baseline PSA doubling time
+Biochemically recurrent prostate cancer with PSA doubling time ? 9 months at the time of study entry. Calculation of PSA doubling time should include the use of all available PSA values obtained within past 12 months prior to randomization, with a minimum of 3 values separated by at least 2 weeks apart. PSA values obtained prior to localized therapy will be excluded. PSA doubling time to be estimated using Memorial Sloan Kettering Cancer Center online calculator (https://www.mskcc.org/nomograms/prostate/psa-doubling-time)
+PSA doubling time of < 6 months, measured over the 3 months prior to enrollment
+PSA doubling time between 3 and 9 months; PSA calculation requires at least two consecutive PSA rises (PSA2 and PSA3) above the threshold PSA (at least 3 PSA values); PSA2 and PSA3 must be obtained within 12 months of study entry; all baseline PSAs should be obtained at the same reference laboratory (lab); patient's PSA doubling time must be calculated
+PSA doubling time (PSADT) >= 3 months and =< 15 months:\r\n* Patients must have >= 3 PSA measurements over >= 3 months\r\n* The interval between PSA measurements must be >= 4 weeks
+Patients must have a PSA doubling time of 5-15 months
+PSA Doubling time < 10 months after local therapy in patients who have not had any previous hormone therapy
+PSA doubling time ? 9 months;
+PSA doubling time ? 10 months;
+Prostatic specific antigen doubling time (PSADT) < 15 months; PSA doubling time (PSADT) will be calculated using as many PSA values that are available from time of relapse (PSA > 0.2); to calculate PSADT, the Memorial Sloan Kettering Cancer Center Prostate Cancer Prediction Tool will be used
+Patients must have a PSA doubling time of 5-15 months
+Patients must have a PSA doubling time of 12 months or less
+PSA doubling time less than or equal to 12 months
+Must have >= 3 serum PSA values obtained over at least a 12 week period of time prior to registration, including the day of screening, to calculate a PSA doubling time; Note: PSA’s are not required to be obtained at the same laboratory; use all PSA values that have been done in last 6 months to calculate PSA doubling time
+Histologically or cytologically proven prostate cancer with high risk for development of metastases, defined as either a PSA value >=8 ng/mL within the last 3 months or PSA Doubling Time <=10 months
+The PSA doubling time (PSA-DT) must be less than 12 months
+PSA doubling time (PSA-DT) of ? 3 months, using 2 PSA values at least 4 weeks apart, calculated according to the Memorial Sloan-Kettering Cancer Center nomogram (https://www.mskcc.org/nomograms/prostate/psa-doubling-time);
+PSA doubling time (PSADT) =< 15 months, calculated based upon all serum PSA measurements obtained within 3 months prior to day 1 of protocol therapy, with a minimum of three PSA measurements spaced at least 14 days apart ; PSA values obtained when serum testosterone was known to be less than 150 ng/dL, prior to local therapy, or within three months of last dose of LHRH agonist/antagonist or antiandrogen will be excluded from the calculation of the PSADT
+PSA doubling time between 3 and 36 months
+Rising PSA after prostatectomy or radiation with PSA doubling time =< 6 months

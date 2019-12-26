@@ -1,0 +1,21 @@
+Patients who received radiation therapy >  years ago for malignancies other than breast cancer and whose radiation therapy field is not overlapping with the % isodose line of current radiation field are eligible, provided that radiation therapy was completed >  years ago and that there is no evidence of the second malignancy at the time of study entry
+No prior therapies are allowed for the treatment of the newly diagnosed breast cancer; patients with a prior diagnosis of malignancy treated >=  years ago are eligible, provided that they have not received prior taxanes or carboplatin as part of their prior treatment regimen, and that they meet all eligibility criteria
+Patients with prior cancers, except: those diagnosed ?  years ago with no evidence of disease relapse and clinical expectation of relapse of less than %; prior successfully treated Level  cutaneous melanomas ?  years ago; or non-melanoma skin cancer; or carcinoma in situ of the cervix
+Patients who received recent chemotherapy for pancreatic cancer are eligible; patients who received chemotherapy >  years ago for malignancies other than pancreatic cancer are also eligible, provided that chemotherapy was completed >  years ago and that there is no evidence of the second malignancy at the time of study entry
+Patients who received radiation therapy >  years ago for malignancies other than pancreatic cancer and whose radiation therapy field is not overlapping with the % isodose line of current radiation field are eligible, provided that radiation therapy was completed >  years ago and that there is no evidence of the second malignancy at the time of study entry
+Prior malignancy (EXCEPTION: diagnosed >  years ago without evidence of disease, OR treated =<  years ago but have a greater than % chance of life expectancy of >=  years for that malignancy)
+Patients who received chemotherapy >  years ago for malignancies other than pancreatic cancer are eligible
+Received the last anti-cancer therapy at least  days ago
+Patients with prior malignancies diagnosed >  years ago without evidence of disease are eligible
+Patients with a prior malignancy treated <  years ago but have a life expectancy of >  years for that malignancy are eligible
+Patients who received chemotherapy >  years ago for malignancies other than pancreatic cancer are eligible, provided that chemotherapy was completed >  years ago and that there is no evidence of the second malignancy at the time of study entry
+Patients who received radiation therapy >  years ago for malignancies other than pancreatic cancer and whose radiation therapy field is not overlapping with the % isodose line of current radiation field are eligible, provided that radiation therapy was completed >  years ago and that there is no evidence of the second malignancy at the time of study entry
+Prior chemotherapy treatment unless =<  years ago
+A tumor sample is required for enrollment (except for patients diagnosed >  years ago)
+Patients with prior malignancies diagnosed >  years ago without evidence of disease are eligible; patients with a prior malignancy treated <  years ago but have a life expectancy of >  years for that malignancy are eligible
+Patients with a prior malignancy allowed if >  years ago with no current evidence of disease
+Patients with prior malignancies diagnosed >  years ago without evidence of disease are eligible; patients with a prior malignancy treated <  years ago but have a life expectancy of >  years for that malignancy are eligible
+Patients with evidence of another malignancy (exclusive of a skin cancer that requires only local treatment);\r\n* Patients with prior malignancies diagnosed >  years ago without evidence of disease are eligible\r\n* Patients with prior malignancy treated <  years ago but have a life expectancy of >  years for that malignancy are eligible
+The transplant occurred >  months ago
+Completed active cancer treatment other than maintenance therapy >=  months ago
+Prior mammogram (if any) more than  years ago

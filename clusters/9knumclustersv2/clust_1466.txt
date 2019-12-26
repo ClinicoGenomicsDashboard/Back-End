@@ -1,0 +1,127 @@
+Patients must have achieved a CR or CRi
+Patients who have achieved a CR or CRi must have maintained peripheral blood evidence of a CR or CRi
+Patients must be registered to Step  within  days after count recovery; (Note: there is no maximum allotted time period for count recovery, providing patient remains in CR or CRi)
+leukemia in st relapse with initial CR duration <  months,
+Low grade NHL: with <  month duration of CR between courses of conventional therapy
+Calculated Cr Cl >=  ml/min; eligible for reduced dose methotrexate
+The subjects should be in first or second CR (including CR and SCR) or PR (including PR and VGPR)
+Acute Leukemias in nd or subsequent CR
+Biphenotypic/Undifferentiated/Prolymphocytic Leukemias in first or subsequent CR, adult T-cell leukemia/lymphoma in first or subsequent CR
+Participant has confirmed, morphologically documented AML in CR. For the purposes of registration, CR will be defined as < % blasts in the BM with no morphologic characteristics of acute leukemia (e.g., Auer Rods) in the BM with no evidence of extramedullary disease such as central nervous system involvement or granulocytic sarcoma.
+The maximum time allowed from establishment of CR to registration is  months.
+Participant has confirmed ongoing morphologically documented AML in CR. For the purposes of randomization, CR will be defined as < % blasts with no morphologic characteristics of acute leukemia (e.g., Auer Rods) in the BM with no evidence of extramedullary disease such as central nervous system involvement or granulocytic sarcoma.
+Patients with HD with th or greater CR, PR, and/or SD are ineligible.
+Creatinine (Cr) > . mg/dL or Cr clearance <  mL/m^
+Large cell NHL > CR/> second partial response (PR):\r\n* Patients in CR/PR with initial short remission (<  months) are eligible\r\n* These patients must be presented at PCC prior to enrollment, given potential competing eligibility on autotransplant protocols
+Patients with B-lineage ALL in CR and beyond with molecular failure at any time point after  months of salvage therapy are allowed
+Disease response noted (i.e. CR, non-CR, or not applicable): assessed as per disease specific criteria
+Diagnosis of one of the following: a): Patients >=  years of age with previously untreated Ph-positive ALL [either t(;) and/or BCR-ABL positive] (includes patients initiated on first course of therapy before cytogenetics known): This patient could have received one or two courses of chemotherapy with or without other tyrosine kinase inhibitors (TKIs) and still eligible; b) If they achieved CR, they are assessable only for event-free and overall survival; or c) If they failed to achieve CR, they are assessable for CR, event-free, and overall survival; d) Patients >=  years of age with relapsed/refractory Ph-positive ALL.
+Low grade NHLwith <  month duration of CR between courses of conventional therapy
+Patients >=  years of age with previously treated Ph-positive ALL, after - courses of chemotherapy with or without other tyrosine kinase inhibitors (TKIs). If they achieved CR, they are assessable only for event-free and overall survival, or If they failed to achieve CR, they are assessable for CR, event-free, and overall survival.
+Mature T-cell lymphoma\r\n* Chemosensitive T-cell lymphomas including primary T-cell not otherwise specified angioimmunoblastic, and ALK-positive anaplastic large cell, will be eligible after initial therapy, whether or not CR is achieved\r\n* Mycosis fungoides/Sezary syndrome will be eligible in >= CR/PR
+For stage I/II patients treated with primary chemotherapy-radiation, they must have failed (no CR or progression after CR) at least one salvage combination chemotherapy treatment regimen
+Achieved either partial or CR to the bendamustine regimen of at least  months in duration before relapse/progression.
+Patients must be in first CR/VGPR
+Biphenotypic/undifferentiated/prolymphocytic leukemias in first or subsequent CR
+Burkitts lymphoma in CR or subsequent CR
+Participants who have had a complete response (CR) after pre-study therapy are not eligible for study
+Patients with complete response (CR) or stringent CR after induction therapy as defined by International Response Criteria after most recent therapy
+Patients with B-lineage ALL in a) hematologic complete remission (CR) beyond CR at time of transplant; patients beyond CR or with primary induction failure may be without minimal residual disease, b) any residual disease defined by positive flow > .%, detection of breakpoint cluster region-abelson murine leukemia viral oncogene homolog  (BCR-ABL) transcript by polymerase chain reaction (PCR) with a sensitivity of /,, or detection of the t(;) translocation in any metaphases by cytogenetics at time of transplant, or presence of the MLL gene
+Continued CR, CRp, or CRi within  weeks of first dose WT- specific CD+ T cells
+Relapse after minimal residual disease (MRD)-negative CR within  months of most recent GCLAM chemotherapy
+Biphenotypic/undifferentiated/prolymphocytic leukemias in first or subsequent CR
+Burkitts lymphoma in CR or subsequent CR
+Acute lymphocytic leukemia (ALL): Factor that define high risk CR include but are not limited to cytogenetics demonstrating t(;), t (:), t(;), other MLL rearrangements, hypodiploidy, or IKZF abnormalities), DNA index < ., >  cycle to obtain CR or presence minimal residual disease (MRD); patients in CR+ are eligible; all patients must be in CR as defined by hematological recovery, AND < % blasts by light microscopy within the bone marrow with a cellularity of >=%
+Large cell non-Hodgkin lymphoma (NHL) > CR/> PR: Patients in CR/PR with initial short remission (<  months) are eligible
+Patients must have a sustained clinical response (PR, nodular PR [nPR], complete clinical response [CCR], CR with incomplete marrow recovery [CRi], CR) with documented residual disease (>=  CLL cell per , leukocytes or >= .% MRD) either in the blood, bone marrow or a lymph node >= . cm by any available techniques
+Patients with AML in remission (defined as CR, CR with incomplete platelet recovery CRp-, CR with incomplete hematologic recovery -CRi-, or partial remission defined as a bone marrow with < % blasts after therapy with or without hematologic recovery)
+Creatinine (Cr) < .
+Acute lymphoblastic leukemia (ALL)\r\n* High-risk CR including:\r\n* Poor-risk cytogenetics (e.g., Philadelphia chromosome t(;) or q rearrangements)\r\n* Presence of minimal disease by flow cytometry after  or more cycles of chemotherapy\r\n* No complete remission (CR) within  weeks of initial treatment\r\n* Induction failure\r\n* CR or CR with either\r\n** =< % blasts in the marrow or \r\n** =< % blasts in the peripheral blood
+Creatinine measurement (Cr) < .
+Patients who had anything less than a CR (PR, SD or progressive disease) to their last salvage regimen
+Hodgkin lymphoma that is: \r\n* PIF (primary induction failure): did not enter complete remission with first line of therapy; Note: a patient with PIF who responds to salvage therapy with a PR or CR is also eligible (and would be considered PIF-sensitive)\r\n* Early st relapse: initial CR of >  months and <  months after st line chemotherapy\r\n* st relapsed HL in a patient who is not in CR after  cycles of salvage therapy\r\n* In nd or subsequent relapse (RL) whether in CR or not after salvage therapy
+Creatinine (Cr) < .
+Diagnosis of one of the following:\r\n* Previously untreated Ph-positive ALL (either t[;] and/or bcr-abl positive) (includes patients initiated on first course of hyper-CVAD before cytogenetics known)\r\n* Previously treated Ph-positive ALL, after - courses of chemotherapy with or without other tyrosine kinase inhibitors (TKIs)\r\n** If they achieved complete response (CR), they are assessable only for event-free and overall survival, or\r\n** If they failed to achieve CR, they are assessable for CR, event-free, and overall survival
+Biphenotypic/undifferentiated leukemias in first (st) or subsequent complete remission (CR)
+Other acute leukemias that are ambiguous lineage or of other types e.g. blastic plasmacytoid dendritic cell neoplasm in CR or CR
+Any non-Hodgkins lymphoma (including chronic lymphocytic leukemia) or Hodgkins lymphoma at high-risk of relapse\r\n* Eligible patients with diffuse large cell (DLC) non-Hodgkin lymphoma (NHL) will:\r\n** Have relapsed disease following initial therapy but failed to mobilize or had bone marrow involvement and therefore are not suitable for an autologous transplant OR \r\n** Have failed an autologous transplant and be in CR after salvage chemotherapy\r\n* Eligible patients with transformed indolent NHL/CLL will: \r\n** Have complete response/partial response (CR/PR) of the large cell component of their disease after either salvage chemotherapy or an autologous transplant\r\n* Eligible patients with mantle cell NHL will: \r\n** Be high-risk as such as tumor protein  (p) positivity and be in st CR/PR after initial therapy OR \r\n** Have relapsed disease following initial therapy and be in nd or rd CR/PR after salvage chemotherapy\r\n* Eligible patients with indolent B cell NHL (such as, but not limited to, follicular, small cell or marginal zone NHL) or CLL will have nd or subsequent progression (pre-allograft cytoreduction necessary but CR/PR not required)\r\n* Eligible patients with HL will be without progression of disease (POD) after salvage chemotherapy
+Biphenotypic or undifferentiated leukemia in any CR or if in first (st) relapse must have < % blasts in BM
+Advanced Hodgkin's disease beyond PR (>= CR, >= PR): recent chemotherapy responsiveness
+Acute lymphocytic leukemia: high risk CR as evidenced by: \r\n* High-risk cytogenetics: t(;) or other MLL rearrangements; hypodiploid; t(;)\r\n* >  cycle to obtain CR\r\n* CR or higher\r\n* All patients must be in CR as defined by hematological recovery, AND < % blasts by light microscopy within the bone marrow with a cellularity of >= %
+Achieves PR or CR in response to B-RAF treatment (Cohort C)
+Acute myeloid leukemia (AML): high risk complete response (CR) (as evidenced by preceding myelodysplastic syndromes [MDS], high risk cytogenetics, >=  cycles to obtain CR, erythroblastic or megakaryocytic leukemia; CR+; all patients must be in CR as defined by hematological recovery, AND < % blasts by light microscopy within the bone marrow with a cellularity of >=%
+Acute lymphocytic leukemia (ALL): high risk CR as defined by cytogentics (such as t(;), t (:), t(;), other mixed lineage leukemia (MLL) rearrangements, hypodiploidy, or IKZF abnormalities), deoxyribonucleic acid (DNA) index < ., >  cycle to obtain CR or presence minimal residual disease (MRD); patients in CR+ are eligible; all patients must be in CR as defined by hematological recovery, AND < % blasts by light microscopy within the bone marrow with a cellularity of >= %
+Large cell non-Hodgkin's lymphoma (NHL) > CR/ > PR; patients in CR/PR with initial short remission (<  months) are eligible
+Burkitts lymphoma in CR or subsequent CR
+Diffuse large cell non-Hodgkin lymphoma (NHL) > CR/> PR: patients in CR/PR with initial short remission (<  months) are eligible, or those who have failed/or are not eligible for autologous transplant
+Biphenotypic/undifferentiated/prolymphocytic leukemias in first or subsequent CR
+AML and ALL in nd or subsequent CR
+Creatinine (Cr) =< . x ULN
+ For DLBCL: Refractory (no prior CR/CMR) to first or later line of treatment or relapsed (prior CR/CMR) after two or more prior treatments., with at least one treatment consisting of standard multiagent chemotherapy containing an anthracycline AND an approved anti-CD agent. Examples of appropriate therapy include but are not limited to R-CHOP ( or ), R-CHOEP, and DA-REOCH. For FL: Refractory (no prior CR/CMR) to first or later line of treatment or relapsed (prior CR/CMR) after two or more prior treatments, with at least one treatment consisting of a standard chemotherapy containing an approved anti-CD agent. Examples of appropriate therapy include but are not limited to R-CHOP, R-CVP, and BR. For MCL: Refractory (no prior CR/CMR) to first or later line of treatment or relapsed (prior CR/CMR) after two or more prior treatments, with at least one treatment consisting of a standard chemotherapy containing an approved anti-CD agent. Examples of appropriate therapy include but are not limited to R-CHOP, BR and hyper-CVAD alternating with R-MTX/Ara-C. For subjects with refractory B-NHL and who have received radiotherapy, PET positivity should be demonstrated no less than  weeks after the last dose of radiotherapy
+Any curable cancer with a complete response (CR) of >  years duration.
+Patients must have achieved a CR or CRi (or morphologic leukemia-free state for those patients proceeding to Arm G transplant)
+Patients who have achieved a CR or CRi must have maintained peripheral blood evidence of a CR or CRi
+Patients must be within  years of achieving CR following chemotherapy
+Creatinine [Cr] < .
+Follicular lymphoma\r\n* Patients will be eligible in >= first CR/PR (if treatment is delayed until clinically required)\r\n* Patients who are treated at diagnosis (without clinical symptoms necessitating treatment, such as B symptoms, bulky disease, marrow or other organ compromise) will be eligible in >= second CR/PR
+Diffuse large B-cell lymphoma\r\n* All patients will be eligible in >= second complete remission (CR) or >= first partial response (PR)\r\n* Patients with a high intermediate or high International Protein Index (IPI) (>=  for age-adjusted IPI or >=  for IPI) at diagnosis will be eligible in first CR
+For stage I/II patients treated with primary radiation, they must have failed (no CR or progression after CR) at least one salvage combination chemotherapy treatment regimen
+Acute myelogenous leukemia\r\n* CR # and high-risk (excludes t[;], t[;], or inv[])\r\n* CR # or greater
+Acute lymphocytic leukemia\r\n* CR # + high-risk (t[;] or bcr-abl+; t[;], [;], t[;])\r\n* In CR # or greater
+Subject must have achieved a CR/CRi/CRp (criteria as defined by [Cheson et al, ], see Section .) with first line treatment and has hematologic relapse.
+Patients with life-threatening acute leukemia (high-risk ALL in st CR, ALL in nd CR, high-risk AML in st CR, AML in nd CR.) or myelodysplastic syndromes. Morphological CR must be documented and minimal residual disease measurement before transplantation is recommended.
+Refractory as defined by not achieving a CR after  cycles of a standard chemotherapy regimen chemotherapy regimen or chemorefractory as defined by not achieving a CR after  cycle of standard chemotherapy for relapse leukemia OR
+Consolidation and/or maintenance (including SCT) may have been given in CR/CRi, but are not counted as a line of treatment.
+Consolidation and/or maintenance (including SCT) may have been given in CR/CRi, but are not counted as a line of treatment.
+Primary refractory as defined by not achieving a CR after  cycles of a standard chemotherapy regimen or chemorefractory as defined by not achieving a CR after  cycle of standard chemotherapy for relapsed leukemia OR.
+Have achieved CR/CRi following therapy with hypomethylating agents
+History of a non-CLL malignancy except for adequately treated in situ, stage  or  carcinoma in Complete Response (CR), or any other cancer that has been in CR for >= years after end of cancer treatment.
+Relapsed patients must have achieved a complete remission (CR) or CR with incomplete blood count recovery (CRi) lasting <  months with their last induction regimen
+Patients must have achieved CR; patients who achieved only CRi or PR, and patients who relapse from CR before this registration are not eligible
+Received at least four treatments with MK- beyond the date when the initial complete response (CR) was declared
+Any curable cancer with a complete response (CR) of >  years duration.
+Chronic Lymphocytic Leukemia (CLL) in CR if RIC is to be used; in CR or partial response (PR) if FIC is to be used
+Chemotherapy-sensitive lymphoma in status other than st CR
+Complete remission (CR) according to the Revised Response Criteria for Malignant Lymphoma after first-line treatment\r\n* Diagnostic CT scans with contrast of chest, abdomen, and pelvis must have been performed within  weeks from the first day of the last cycle of R-chemotherapy; a neck CT will be required if the patient had involvement of the neck region at initial diagnosis\r\n* A negative fludeoxyglucose F  (FDG)-positron emission tomography (PET)/CT scan performed within  weeks from the first day of the last cycle of R-chemotherapy and confirming CR, with negative defined as a score of - on the Deauville -point scale used to quantify radionucleotide density in PET scans as determined locally; PET positive/indeterminate lesions which are confirmed on biopsy to harbor no active lymphoma will be considered negative for determination of CR status\r\n* If positive bone marrow involvement at initial diagnosis the patient must have a negative bone marrow biopsy following R-chemotherapy to confirm the CR
+Creatinine (Cr) < 
+Early first relapse (<  months from original diagnosis) after achieving a CR (B-ALL) or first relapse any time following the original diagnosis after achieving a CR (T-ALL)
+Relapse after achieving a CR following the first or subsequent relapse (i.e., ?  relapses) OR
+Prior bendamustine treatment within  year of randomization not resulting in a CR or PR for at least  months
+Patients must have B-ALL refractory, relapsed, minimal residual disease (MRD), or in first complete remission (CR) as described below\r\n* Complete remission is defined as restoration of normal hematopoiesis with a neutrophil count > , x ^/L, a platelet count > , x ^/L, and hemoglobin >  g/dL; blasts should be < % in a post-treatment bone marrow differential; furthermore, there should be no clinical evidence of leukemia for a minimum of four weeks\r\n* MRD is defined as patients meeting the criteria for CR above, but with residual disease measured by a quantitative polymerase chain reaction (qPCR), or by flow, or by deep-sequencing of the immunoglobulin heavy chain (IgH) rearrangements; the assay from blood and/or bone marrow defines MRD by qPCR as a cycle threshold (CT) that is at least  CT value < than the lowest CT value from the background; outside laboratory tests may suffice for this assessment at the discretion of the principal investigator\r\n* Relapsed B-ALL will be defined as patients that meet the above criteria for a CR before developing recurrent disease (increased bone marrow blasts); refractory patients will be defined as patients that have not achieved a CR after  cycle of induction chemotherapy
+Mantle cell NHL must be beyond first complete response (CR)
+Low-grade NHL with <  month duration of CR between courses of conventional therapy
+Diagnosis of one of the following: Previously untreated Ph-positive ALL [either t(;) and/or bcr-abl positive] (includes patients initiated on first course of hyper-CVAD before cytogenetics known) These groups will be analyzed separately. After - courses of chemotherapy with or without imatinib mesylate (Gleevec)  If they achieved CR, they are assessable only for event-free and overall survival, or  If they failed to achieve CR, they are assessable for CR, event-free, and overall survival. Patients with relapsed Ph-positive ALL or lymphoid blast phase of CML.
+Creatinine (Cr) =< .
+First or greater bone marrow relapse from CR, or
+Biphenotypic or undifferentiated leukemia in st or subsequent CR
+Patient must have documented CR or CRp after  or  cycles of fludarabine + cytarabine
+ALCL (ALK+) with IPI score less than  at initial diagnosis and CR after CHOP-based therapy
+If CSF was positive for lymphoma cells at diagnosis or during first-line treatment and/or a slit lamp examination was positive at diagnosis or during first-line treatment, then the CSF and vitreal studies must have been repeated and must have indicated CR; Note: CR requires complete disappearance of all enhancing abnormalities on gadolinium-enhanced MRI; if CSF was positive for lymphoma cells at diagnosis or during first-line treatment and/or slit lamp examination was positive at diagnosis or during first-line treatment, then the CSF and vitreal studies must have been repeated and must have indicated CR; for CRu, some patients will have a small but persistent enhancing abnormality on MRI related to biopsy or focal hemorrhage; it is often difficult to ascertain whether this represents a residual nidus of tumor or scar tissue; if the abnormality does not change or slowly involutes without therapy and corticosteroids, it is reasonable to categorize as a CRu; at the time CR/CRu is determined, the patient should not have used corticosteroids for at least two weeks
+Relapsed or refractory AML, defined as either: recurrence of disease after a complete remission (CR), or failure to achieve CR with initial therapy.
+Any curable cancer with a complete response (CR) of >  years duration.
+Creatinine (Cr) > .
+The patient has achieved a first or second CR or CRi. For patients without evidence of MRD in CR/CRi, CR (or CRi) must have been initially identified within  months prior to screening. OR The patient has achieved first or second CR or CRi with evidence of MRD as determined locally at least  months post stem cell transplant without evidence of acute or chronic graft-versus-host disease post-transplant and has not received immunosuppressant therapy for at least  days prior to SL- therapy.
+Completed and recovered from all planned induction and consolidation therapy according to the institution's standard of care, and achieved a complete remission (CR)/CR with incomplete platelet recovery (CRp); either first or second CR.
+Cr ? X ULN
+Cr ?X the ULN
+The patient is in complete remission (i.e. CR, CR, ):
+Osteogenic sarcoma\r\n * Patients with osteogenic sarcoma will be eligible if they do not achieve a CR following initial therapy \r\n * Patients who relapse with pulmonary or bone metastases and do not achieve a CR with surgery and/or chemotherapy will also be eligible
+Patients with: diffuse large B-cell lymphoma (DLBCL) with one of the following:\r\n* Primary refractory (no complete response [CR] to st line); \r\n* High-risk relapse (CR <  months, secondary international prognostic index [IPI] >  or high lactate dehydrogenase [LDH]); or, \r\n* Refractory relapse: no response (stable disease [SD] or progressive disease [PD]) to >=  line of salvage
+Hodgkins with one of the following: \r\n* Primary refractory (no CR to st line or PD within  months);\r\n* High-risk relapse (CR <  year, extranodal relapse or B symptoms); or, \r\n* Refractory relapse: no response (SD or PD) to >=  line of salvage
+Willingness to participate in CR program
+Renal dysfunction (creatinine [Cr] > .)
+Patient must be scheduled to undergo stem cell transplantation for one of the following diagnoses: \r\n* Acute myeloid leukemia (AML) in first complete remission (CR) (first complete remission, CR or CR with incomplete blood count recovery [CRi]) or second complete remission (CR) (second complete remission, CR or CRi) \r\n* Acute lymphoblastic leukemia (ALL) in CR or CR, (CR or CRi)\r\n* Myelodysplastic syndrome (MDS) without progression to AML \r\n* Chronic myelogenous leukemia (CML)\r\n* Non-Hodgkins lymphoma (NHL) or Hodgkins disease (HD)\r\n* Chronic lymphocytic leukemia (CLL)\r\n* Multiple myeloma (MM)
+Serum creatinine (Cr) =<  gm/dL
+Acute leukemias in nd or subsequent CR
+Biphenotypic/undifferentiated in first or subsequent CR, adult T-cell leukemia/lymphoma in first or subsequent CR
+Burkitts lymphoma in CR or subsequent CR
+Acute leukemia in complete remission (CR) or second/subsequent CR
+Non-Hodgkin lymphoma in high risk CR or subsequent CR (by clinical, cytogenetic or molecular criteria), primary induction failure (PIF) or relapsed with chemosensitive disease; SD may be included if no mass >  cm
+Serum creatinine (CR) < .mg/dl or  hour CR clearance <  ml/min
+Acute lymphoblastic leukemia (ALL) with any of the following:\r\n* In CR or subsequent complete remission (CR, CR, etc.)\r\n* Primary refractory or relapsed ALL with no more than one of the following adverse features according to modified CIBMTR criteria\r\n** Second or subsequent relapse\r\n** Bone marrow blasts > % at time of enrollment\r\n** Age >  years
+Low grade NHL  with <  month duration of CR between courses of conventional therapy
+Biphenotypic/undifferentiated/prolymphocytic leukemias in first or subsequent CR, adult T-cell leukemia/lymphoma in first or subsequent CR
+Burkitts lymphoma in second complete remission (CR) or subsequent CR
+Prior or ongoing response (IWG : HI, PR, CR, or marrow CR) to treatment with azacitidine for injection or decitabine, at any time in the subject's prior history, which includes relapsed disease
+Creatinine (Cr) > .
+Creatinine (Cr) =< .

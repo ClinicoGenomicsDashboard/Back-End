@@ -1,0 +1,3 @@
+STEP I: Patients must not have grade 2 or higher peripheral neuropathy by Common Terminology Criteria for Adverse Events (CTCAE) 4.0
+No grade 2 or higher neuropathy
+Grade 3 or higher peripheral neuropathy

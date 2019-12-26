@@ -1,0 +1,82 @@
+Significant hearing loss that would prevent cisplatin administration
+Patients must not have a clinically relevant hearing impairment >= grade 2
+Has experienced prior or ongoing hearing impairment due to chemotherapy or radiotherapy as defined by one of the following: \r\n* Society of Pediatric Oncology (SIOP) grade 1 hearing loss\r\n* Subjective (patient-reported) hearing difficulties\r\n* Subjective (patient-reported) tinnitus
+Patients with hearing loss assessed to be primarily sensorineural in nature, requiring a hearing aid, or intervention (i.e. interfering in a clinically significant way with activities of daily living); a conductive hearing loss from tumor-related otitis media is allowed
+Significant pre-existing hearing loss, as defined by the patient or treating physician
+Patients requiring hearing aids or reporting hearing loss must have audiogram performed within 28 days prior to step 1 registration; if audiogram is performed, patient must not have hearing impairment >= Common Terminology Criteria for Adverse events (CTCAE) grade 2
+No signs of clinically significant hearing loss
+Patients ineligible for cisplatin based on any of the following criteria:\r\n* Estimated or calculated creatinine clearance >= 30ml/min but < 60 ml/min.\r\n* Grade 2 or above audiometric hearing loss (per CTCAE v4.0).\r\n* Grade 2 or above peripheral neuropathy (per CTCAE v4.0).
+Subject has recovered (i.e., to Grade ? 1 or to a baseline level) from the effects of surgery, radiotherapy, chemotherapy, hormonal therapy, or other therapies for cancer; with the exception of vitiligo, alopecia, neuropathy, partial hearing loss, and/or endocrinopathies (for which no resolution is required);
+Grade >= 2 sensorineural hearing loss
+COHORT I: No significant contraindications to cisplatinum chemotherapy (significant hearing loss, renal dysfunction or neuropathy)
+Cisplatin-ineligible as defined by at least one of the following:\r\n* Calculated creatinine clearance >= 30 but =< 60 mL/min (Cockcroft-Gault)\r\n* ECOG performance status of 2 or greater\r\n* CTCAE v4 grade >= 2 audiometric hearing loss
+Existing major organ dysfunction > Grade 2, with the exception of hearing loss, hematological status, kidney and liver function
+Existing severe major organ dysfunction, i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity >= grade 3 except for hearing loss, alopecia, anorexia, nausea, and hypomagnesemia from total parenteral nutrition (TPN), which may be grade 3
+Existing major organ dysfunction, i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity >= grade 3, with the exception of hearing loss and hematologic toxicity
+Patients with greater than grade 2 hearing loss
+Symptomatic altered hearing > grade 2 by NCI-CTC version (v)4 criteria
+Ineligible to receive cisplatin-based neoadjuvant chemotherapy based upon at least one of the following criteria:\r\n* Creatinine clearance < 60 ml/min \r\n* Eastern Cooperative Oncology Group (ECOG) performance status = 2\r\n* Grade ? 2 hearing loss \r\n* Grade ? 2 neuropathy\r\n* New York Heart Association class III heart failure
+Has clinically relevant hearing impairment > grade 2
+Existing severe major organ dysfunction, i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity > grade 3 except for hearing loss, alopecia, anorexia, nausea, hyperbilirubinemia and hypomagnesemia from total parenteral nutrition (TPN), which may be grade 3
+Documentation of pre-existing hearing deficits
+Existing major organ dysfunction > grade 2, with the exception of hearing loss and hematologic toxicity (defined as suppression of all subtypes of white blood cells [WBCs], red blood cells [RBCs], and platelets)
+Patients with >= grade 3 sensorineural hearing loss at baseline may receive radiation alone or radiation with carboplatin
+Existing major organ dysfunction > grade 2, with the exception of hearing loss and myelosuppression (defined as suppression of all types of white blood cells [WBCs], red blood cells [RBCs] and platelets)
+Pre-existing bilateral sensorineural hearing loss at >90dB at any frequency from 250-8000Hz as assessed by a comprehensive audiometric evaluation for patients receiving cisplatin. This criteria will not apply to patients receiving carboplatin.
+Severe major organ toxicity; specifically, renal, cardiac, hepatic, pulmonary, and gastrointestinal system toxicity should all be less than grade 2; patients with stable neurological deficits (because of their brain tumor) are not excluded; patients with =< 3 hearing loss are not excluded
+Normal auditory acuity: defined as a normal age-related audiogram without significant hearing loss.
+Symptomatic altered hearing > grade 2 by NCI-CTCv4 criteria
+Peripheral neuropathy >= grade 2 or clinically significant sensorineural hearing loss or tinnitus
+BLADDER: Subjects must be considered cisplatin ineligible as per treating physician due to renal dysfunction, hearing impairment, or co-morbidities
+Grade >= 2 sensorineural hearing loss
+Hearing loss >= grade 2
+Significant hearing loss that would prevent cisplatin administration
+Patients who are ineligible to receive cisplatin:\r\n* Creatinine clearance of less than 60 mL/minute, hearing loss of 25 decibels (dB) at two contiguous frequencies, grade 2 or higher peripheral neuropathy, or New York Heart Association class III or higher heart failure\r\n* Hearing test will not be routinely done, it will only be done if patients report hearing loss at baseline or during treatment
+Clinically significant sensorineural hearing impairment which may be worsened via cisplatin exposure (audiometric abnormalities without corresponding clinical deafness are not grounds for exclusion)
+Patients should have an audiogram at baseline, and patients with pre-existing hearing loss or hearing loss during treatment should be assessed frequently during cisplatin therapy
+Patients must not have a clinically relevant hearing impairment > grade 2
+Pre-existing hearing impairment
+Existing severe major organ dysfunction i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity >= grade 3 except for hearing loss, alopecia, anorexia, nausea, hyperbilirubinemia and hypomagnesemia from total parenteral nutrition (TPN), which may be grade 3
+Preexisting grade >= 2 hearing loss
+Pre-existing hearing impairment (patients who are willing to accept risk of further impairment will be considered after audiologic testing)
+Patients must be ineligible for treatment with cisplatin, based on one of:\r\n* Calculated creatinine clearance (CrCl) >= 30 and < 60 mL/min (Cockcroft-Gault)\r\n* CTCAE grade (Gr) >= 2 hearing loss\r\n* CTCAE Gr >= 2 neuropathy
+> grade 1 hearing loss or tinnitus
+COHORT II: Patients must not have >= grade 2 hearing deficits
+Symptomatic altered hearing > grade 2 by NCI-CTCv4 criteria
+Existing major organ dysfunction > grade 2, with the exception of hearing loss and hematologic toxicity (defined as suppression of all subtypes of white blood cells [WBCs], red blood cells [RBCs], and platelets)
+Patients must have recovered to =< grade 1 toxicity (except alopecia and hearing loss) from any prior chemotherapy, other investigational therapy, hormonal, biological, targeted agents
+Preexisting grade >= 2 hearing loss
+Hearing: a) No clinically significant hearing loss, defined in Section 6.2, number 9.
+Patients with significant hearing loss are not eligible for study participation defined as hearing loss that affects everyday life and/or for which a hearing aid is required.
+Serum creatinine > 1.3 or upper limit or normal (ULN), CCL < 60 cc/min, peripheral neuropathy > grade 1 and/or frequency hearing loss that interferes with activities of daily living are contraindications to cisplatin but not to carboplatin
+Clinically significant hearing loss or ringing in the ears
+Severe major organ toxicity; specifically, renal, cardiac, hepatic, pulmonary, and gastrointestinal system toxicity should all be less than or equal to grade 2; patients with stable neurological deficits (because of their brain tumor) are not excluded; patients with =< 3 hearing loss are not excluded
+Severe sensorineural hearing loss greater or equal to grade 2
+Hearing loss that would preclude participating in telephone sessions (determined by brief hearing assessment administered by research staff at each National Cancer Institute Community Oncology Research Program [NCORP] component); individuals who can compensate for hearing loss through the use of a hearing device or telecommunication device for the deaf (TDD) phone, and through the use of such devices are able to communicate with the study therapist by telephone, will be included; if the therapist cannot communicate with the participant by telephone, the participant will be excluded
+Neither has a significant hearing impairment precluding intervention session participation
+Hearing loss that would preclude participating in interventions; adequate hearing to participate will be determined via: (1) response of “no” to the question [“Do you have a hearing problem now?”]; participants with hearing aids will be allowed to enroll as long as their hearing is adequate to hear the sounds on the study devices; if necessary, potential study participants will receive a brief test trial with the RESPeRATE device; if they indicate inability to hear the guiding tones, they will not be enrolled in the study
+Visual or hearing impairment that would prevent ability to engage in the telephone session or study materials
+Caregiver is deaf or has significant hearing impairment and thus cannot use the telephone
+Adequate vision and hearing for valid completion of study measures
+No significant hearing impairment that would prevent participation in sessions
+Patients with communication barriers (e.g., hard of hearing)
+Hearing level threshold =< 25 dB at all frequencies in both ears to be evaluable for evaluation of pantoprazole's effect on cisplatin ototoxicity; patients with hearing loss can be enrolled but will not be evaluable for ototoxicity objective
+No hearing impairment
+Vision and hearing (eyeglasses and/or hearing aid permissible) sufficient for valid test administration and cooperation with examinations
+Hearing levels that interfere with following test instruction
+Are deaf or hearing-disabled.
+No hearing impairment in patient or partner
+Participant has a sensory impairment (vision, hearing) that prohibits completion of neurocognitive examination
+Uncorrected hearing impairments
+Severe hearing impairment that limits the ability to use audio-based guided imagery modules
+Prior history of hearing impairment
+Previous or existing pathology of the inner ear with or without hearing loss (i.e. sudden sensorineural hearing loss, Meniere’s disease, autoimmune inner ear disease)
+Having impairing hearing or speech
+Communication barriers (e.g. hard of hearing)
+Hearing loss greater than grade 1
+Subject has normal baseline auditory function, defined as ? 20 dB from 2000 to 8000 Hz, in both ears and does not have a history of sensorineural hearing loss.
+Patents must have no contraindication to cisplatin chemotherapy including no clinically significant hearing loss unless willing to accept the potential of further loss of hearing, no symptomatic peripheral neuropathy
+Hearing and vision impairments that would prevent ability to complete consent, interviews, or sample collection
+Patients with hearing and/or visual impairments
+OR Patients with impaired hearing or speech;
+Reasonably able to listen to radio, television (without hearing impairment)

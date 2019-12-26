@@ -1,0 +1,54 @@
+Treatment-related toxicity from prior therapy > grade 2
+Persisting toxicity related to prior therapy (NCI CTCAE v4.03 Grade > 1)
+Subject has any Grade ? 2 persistent non-hematological toxicity related to allotransplant
+Participants must have fully recovered (grade =< 1 or baseline or deemed irreversible) from any clinically significant acute toxicity related to prior therapy (with the exception of lymphopenia, which is common after therapy with temozolomide); patients who discontinued bevacizumab previously due to a bevacizumab-related toxicity will not be allowed to participate
+Failure to recover from any immune-related toxicity from prior cancer therapy to ? Grade 1.
+Failure to recover from any other toxicity (other than immune-related toxicity) related to previous anticancer treatment to ? Grade 2.
+Toxicity related to any prior therapy must either have returned to =< grade 1 or baseline
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+Patient with any active immune toxicity of Grade 1 or greater or any other severe or Grade 3 treatment-related adverse event.
+At least 4 weeks after any prior chemoembolization, radioembolization, local ablative therapies, or hepatic radiation and recovery to =< grade 1 treatment-related toxicity
+At least 6 weeks after any major surgery including prior hepatic resection and recovery to =< grade 1 treatment-related toxicity
+Persisting toxicity related to prior therapy >Grade 1
+Toxicity related to prior treatments must either have resolved to grade 1 or less, returned to baseline, or be deemed irreversible
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+To be eligible for study treatment, radiation therapy-related toxicity must recover to Grade ? 1 prior to administration of the first dose of ARQ 751.
+Recovered (returned to ? grade 1 as per CTCAE v4.03) from prior treatment-related toxicity.
+Toxicity related to prior therapy must either have returned to =< grade 3, baseline, or deemed irreversible
+Non-hematological toxicity related to prior therapy must either have returned to =< grade 3, baseline, or deemed irreversible
+Toxicity from previous treatment including: a) Toxicity Grade >=3 related to prior immunotherapy and that lead to study treatment discontinuation. b) Toxicity related to prior treatment has not resolved to Grade <=1 (except alopecia, or endocrinopathy managed with replacement therapy).
+Persisting toxicity related to prior therapy Grade >1.
+Prior Grade 3 or higher immune-related AEs or any ocular toxicity on prior immunotherapy as per protocol-defined criteria.
+Severe immune-related toxicity related to checkpoint inhibitors defined as any Grade 4 toxicity or Grade 3 toxicity
+Severe immune-related toxicity related to checkpoint inhibitors defined as any Grade 4 toxicity or Grade 3 toxicity
+Toxicity related to prior therapy must either have returned to =< grade 1, baseline, or been deemed irreversible
+Toxicity related to prior therapy must either have returned to less than or equal to grade 1, baseline, or been deemed irreversible
+Any Grade ? 2 persistent non-hematological toxicity related to allotransplant
+Resolution of all chemotherapy related grade III-IV toxicity
+History of significant intolerance to capecitabine or fluorouracil (5FU) (ie. grade 4 toxicity related to one of these agents; grade 3-4 toxicity related to other concurrently administered agents is not an exclusion)
+Persisting toxicity related to prior therapy except alopecia
+Grade 3 or 4 toxicity related to prior VEGFR TKI that did not resolve to grade 1
+Toxicity related to prior therapy must either have returned to =< grade 1, baseline, or been deemed irreversible. Certain non-serious exceptions include alopecia, hypothyroidism, neuropathy, nausea, adrenocortical deficiency requiring physiologic replacement dose of steroids, and other conditions noted and approved by the principal investigator (PI).
+Toxicity related to prior therapy must either have returned to =< grade 1, baseline, or been deemed irreversible. Certain non-serious exceptions include alopecia, hypothyroidism, neuropathy, nausea, adrenocortical deficiency requiring physiologic replacement dose of steroids, and other conditions noted and approved by the PI.
+Patients are not eligible if they have an intolerance to most recent prior TKI (other than dasatinib) at the lowest possible effective dose, defined as a grade >= 3 toxicity considered at least possibly related to that TKI; patients are also excluded if they are intolerant or allergic to dasatinib and discontinued prior therapy due to a >= grade 2 treatment related adverse event
+Recovery from acute toxicity related to prior therapy, including surgery and radiation, or no toxicity >= grade 2
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1
+Toxicities related to prior therapy must either have returned to =< grade 1, baseline, or deemed irreversible
+Toxicities related to prior therapy must either have returned to =< grade 1, baseline or deemed irreversible
+Inadequate recovery from any toxicity related to prior treatment (to grade 2 or baseline)
+Persisting toxicity related to prior therapy >Grade 1
+Recovery from acute toxicity related to prior therapy, including surgery and radiation, or no toxicity >= grade 2
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+Grade > 2 treatment-related toxicity from prior therapy
+Toxicities related to prior therapy must either have returned to =< grade 1 or baseline or been deemed irreversible and in the opinion of the investigator not worsened
+Resolution of all chemotherapy related grade III-IV toxicity as per Common Toxicity Criteria (CTC) criteria 4.0
+Resolution of all chemotherapy related grade III-IV toxicity as per CTC criteria 4.0
+PRIOR TO HIGH-DOSE CHEMOTHERAPY: Patients without evidence of ongoing grade III-IV toxicity related to mobilization therapy
+Grade > 2 treatment-related toxicity from prior therapy
+Grade > 2 treatment-related toxicity from prior therapy
+Treatment related residual toxicity > grade 1
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+Resolution of all chemotherapy related grade III-IV toxicity as per Common Toxicity Criteria (CTC) criteria 4.0
+Resolution of all chemotherapy related grade III-IV toxicity as per CTC criteria 4.0

@@ -1,0 +1,133 @@
+Patients diagnosed with hepatitis C who are hepatitis C antibody positive, whether hepatitis C RNA level is measurable or not, must have no evidence of cirrhosis and have liver function tests
+Positive screen for hepatitis B or C
+Patients known to be human immunodeficiency virus (HIV) positive may be enrolled if baseline cluster of differentiation (CD)4 count is > 500 cells/mm^3 AND not taking anti-retroviral therapy; patients with known hepatitis are not eligible unless there is a known negative hepatitis panel; (exception: previous history of hepatitis A infection that is not currently active is allowed); patients must not have any known uncontrolled underlying pulmonary disease
+Active hepatitis B or hepatitis C with abnormal liver function tests
+Patients with known hepatitis B or hepatitis C are not eligible, regardless of concomitant antiretroviral therapy or current viral load
+Recent history of hepatitis infection or if the treating physician determined that the patient would be at significant risk of reactivation of hepatitis
+Must have Child-Pugh A only. Participants may have any viral status (hepatitis B, hepatitis C, or none).
+Patients with clinically active hepatitis A, B, or C infections are not eligible\r\n* Note: patients with a history of hepatitis may be eligible if they have a normal titer; such cases should be approved by the study principal investigator (PI)
+Patients with a known history of infection with hepatitis B or hepatitis C virus (active, previously treated, or both) will not be eligible due to the increased risk of hepatotoxicity and viral reactivation associated with systemic chemotherapy
+Subject with seropositivity for hepatitis B or hepatitis C must be cleared by hepatology service prior to participating in treatment protocol
+Patients with known hepatitis B or C; screening for hepatitis B and/or C is not required for eligibility for this study
+SAFETY RUN-IN: Patients known to be carriers of hepatitis virus B and C
+Prior to start of everolimus, the following three categories of patients should be tested for hepatitis B viral load and serologic markers, that is, HBV-DNA, HBsAg, hepatitis B surface (HBs) antibody (Ab), and hepatitis B core (HBc) Ab\r\n* All patients who currently live in (or have lived in) Asia, Africa, Central and South America, Eastern Europe, Spain, Portugal and Greece\r\n* Patients with any of the following risk factors:\r\n** Known or suspected past hepatitis B infection,\r\n** Blood transfusion(s) prior to 1990,\r\n** Current or prior intravenous (IV) drug users,\r\n** Current or prior dialysis,\r\n** Household contact with hepatitis B infected patient(s),\r\n** Current or prior high-risk sexual activity,\r\n** Body piercing or tattoos,\r\n** Mother known to have hepatitis B\r\n** History suggestive of hepatitis B infection, e.g., dark urine, jaundice, right upper quadrant pain\r\n** Additional patients at the discretion of the investigator
+Patients with any of the following risk factors for hepatitis C should be tested using quantitative RNA-polymerase chain reaction (PCR):\r\n* Known or suspected past hepatitis C infection (including patients with past interferon ‘curative’ treatment),\r\n* Blood transfusions prior to 1990,\r\n* Current or prior IV drug users,\r\n* Current or prior dialysis,\r\n* Household contact of hepatitis C infected patient(s),\r\n* Current or prior high-risk sexual activity,\r\n* Body piercing or tattoos\r\n* At the discretion of the investigator, additional patients may also be tested for hepatitis C
+Hepatitis B or C
+History of hepatitis B
+Has a known history of Hepatitis B or Hepatitis C.
+Hepatitis B or C
+Patients with history of hepatitis B and hepatitis C will be eligible but patients with hepatitis B must be started on antiviral therapy prior to beginning study therapy
+Positive for Hepatitis B
+COHORT 1: HORMONE RECEPTOR POSITIVE BREAST CANCER: Patients who have known active hepatitis B, or hepatitis C infections
+Patients with known active human immunodeficiency virus (HIV), hepatitis B or hepatitis C infection; patients with a history of hepatitis B or hepatitis C, who are deemed cured and no longer require treatment may be allowed to enroll after consultation with the respective specialist and the study PI
+Key Inclusion Criteria:\n\n        Up to 5 prior regimens for MCL. Prior therapy must have included:\n\n          -  Anthracycline or bendamustine-containing chemotherapy and\n\n          -  Anti-CD20 monoclonal antibody therapy and\n\n          -  Ibrutinib or acalabrutinib\n\n        At least 1 measurable lesion\n\n        Platelet count ? 75,000/uL\n\n        Creatinine clearance (as estimated by Cockcroft Gault) > 60 mL/min\n\n        Cardiac ejection fraction ? 50%, no evidence of pericardial effusion as determined by an\n        ECHO, and no clinically significant ECG findings\n\n        Baseline oxygen saturation >92% on room air.\n\n        Key Exclusion Criteria:\n\n          -  Known history of infection with HIV or hepatitis B (HBsAG positive) or hepatitis C\n             virus (anti-HCV positive). A history of hepatitis B or hepatitis C is permitted if the\n             viral load is undetectable per standard serological and genetic testing\n\n          -  History of a seizure disorder, cerebrovascular ischemia/hemorrhage, dementia,\n             cerebellar disease, cerebral edema, posterior reversible encephalopathy syndrome, or\n             any autoimmune disease with CNS involvement\n\n          -  Presence of fungal, bacterial, viral, or other infection that is uncontrolled or\n             requiring IV antimicrobials for management.
+Patients must have no evidence of significant hematologic, renal, or hepatic dysfunction; patients with underlying hepatocellular disease should be given careful risk/benefit consideration prior to enrollment; patients with a history of any chronic hepatitis as evidenced by the following are ineligible:\r\n* Positive test for hepatitis B surface antigen (HBsAg)\r\n* Positive test for qualitative hepatitis C viral load (by PCR) (Note: subjects with positive hepatitis C antibody and negative quantitative hepatitis C by PCR are eligible; history of resolved hepatitis A virus infection is not an exclusion criterion)\r\n* History of alcoholic or non-alcoholic steatohepatitis (NASH), auto-immune hepatitis, or previous grade 3-4 drug-related hepatitis, or any form of chronic liver disease
+Patients with treated hepatitis virus infections (hepatitis B or hepatitis C) are eligible if they have been definitively treated for 6 months, have no detectable viral load on quantitative PCR, and liver function tests (LFTs) meet eligibility requirements
+Known positivity for hepatitis B or C
+Patients who are carriers of hepatitis virus B and C; hepatitis B and C testing must be performed to confirm status prior to enrollment
+Patients who are carriers of hepatitis B will be included in this study
+Known hepatitis B or hepatitis C with abnormal liver function tests
+Patients with a known history of human immunodeficiency virus (HIV), hepatitis B, hepatitis C, or tuberculosis infection; patients with a history of cleared hepatitis C (undetectable viral loads) are allowed
+Patients with a known history of hepatitis B or hepatitis C
+Negative for hepatitis B surface antigen; positive hepatitis B tests can be further evaluated by confirmatory tests; and if confirmatory tests are negative, the patient can be enrolled; patients with a known history of hepatitis B are not eligible
+All participants will be required to be screened for hepatitis C; if hepatitis C antibody positive, with or without a positive hepatitis C RNA level, participants will be permitted to enroll in the study provided liver function tests meet criteria listed, and have no evidence of cirrhosis; participants diagnosed with hepatitis C less than 6 months from trial enrollment will be considered to have acute hepatitis C, and will be excluded from study UNLESS hepatitis C viral load is undetectable
+On treatment for hepatitis B or hepatitis C or history of tuberculosis (TB)
+Known hepatitis B or hepatitis C infection; EXCEPTION: if viral load < 800,000 IU/L
+Subjects must not have a history of any positive test for hepatitis B or hepatitis C indicating active disease or previous exposure
+Has a history or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial, interfere with the patient’s participation for the full duration of the trial, or is not in the best interest of the patient to participate, in the opinion of the treating investigator; this includes known active tuberculosis; grade 3 active infection; history of allogeneic bone marrow transplant or solid organ transplant; known history of human immunodeficiency virus (HIV); known active hepatitis B (eg, hepatitis [Hep] B deoxyribonucleic acid [DNA] positive in prior 3 months) or known active hepatitis C (eg, hepatitis C virus [HCV] ribonucleic acid [RNA] [qualitative] is detected in prior 3 months)
+Hepatitis C on protease therapy
+Has known hepatitis B or hepatitis C
+Has known active hepatitis B or C; active hepatitis B is defined as a known positive hepatitis B surface antigen (HBsAg) result; active hepatitis C is defined by a known positive hepatitis (Hep) C antibody (Ab) result and known quantitative hepatitis C virus (HCV) ribonucleic acid (RNA) results greater than the lower limits of detection of the assay
+Patients positive for hepatitis C are permitted if controlled with medication, in the opinion of the investigator
+Patients who are hepatitis B or C positive
+Patients with a known history of hepatitis B or hepatitis C are not eligible
+Seronegative for hepatitis B antigen, positive hepatitis B tests can be further evaluated by confirmatory tests, and if confirmatory tests are negative, the patient can be enrolled; patients with a known history of hepatitis B are not eligible
+Evidence of active infection by hepatitis B and/or C; for patients with hepatitis B treated with anti-virals to undetectable viral load, and for patients with hepatitis C with undetectable ribonucleic acid (RNA) levels and no evidence of liver damage, enrollment may be considered and should discuss first with study’s principal investigator
+Patients with a known history of hepatitis B or C
+Patients with active hepatitis B or C infection (not including patients with prior hepatitis B vaccination); these patients should be cleared by gastrointestinal (GI) consultation for hepatitis B and infectious disease consult for hepatitis C
+Patients with a positive history of hepatitis B or hepatitis C
+Active hepatitis B or hepatitis C with abnormal liver function tests; HIV positive patients receiving antivirals.
+Baseline hepatitis titers without evidence of acute/active hepatitis
+Patients with known hepatitis or unstable liver disease, and/or positive serologies for Hepatitis B or C and HIV.
+Known history of hepatitis B or C as these patients may be at risk of disease reactivation when treated with the chemotherapy and/or the investigational agent
+Known Hepatitis B Ag positive, Hepatitis C positive patients
+Patients known to be have active hepatitis B or C; (hepatitis B positive patients are allowed if they are on appropriate antiviral agents such as lamivudine)
+Has autoimmune hepatitis
+Patients with clinical symptoms of hepatitis B and/or hepatitis C will be tested, if clinically indicated per medical records review; if no indications exist in clinical evaluation or laboratory values that are consistent with hepatitis, patients will not be routinely tested for hepatitis B virus (HBV)/hepatitis C virus (HCV); positive results will be an exclusion criteria
+Known history of or positive test for hepatitis B or hepatitis C infection.
+Hepatitis B and C negative
+Known hepatitis B or C
+Seropositive for any of the following: HIV ab, hepatitis B sAg, hepatitis (hep) C immunoglobulin (Ig)G Ab positive, without definitive therapy for hepatitis C; or hepatitis C PCR positivity; or hepatitis C IgM positivity
+Patients who have any known history of liver disease, autoimmune hepatitis, sclerosing cholangitis or are found to be carriers (active disease or not) of hepatitis B and hepatitis C
+Active viral hepatitis or autoimmune hepatitis; the work-up to confirm active hepatitis or autoimmune hepatitis will only be done if clinical suspicion based on investigator discretion
+Seronegative for hepatitis B antigen, positive hepatitis B tests can be further evaluated by confirmatory tests, and if confirmatory tests are negative, the patient can be enrolled
+Active hepatitis B or hepatitis C with abnormal liver function tests
+Patients with known hepatitis B or hepatitis C infection must have viral load < 800,000 IU/L within 28 days prior to registration
+Patients with hepatitis C antibody will be eligible provided that they do not have elevated liver transaminases or other evidence of active hepatitis
+Patients with evidence of hepatitis B or hepatitis C PCR positivity
+Patients with hepatitis B
+Has known history of or is positive for Hepatitis B or Hepatitis C
+History of hepatitis (B or C)
+Active coinfection with both hepatitis B (i.e., HBVsAg and/or hepatitis B DNA) and hepatitis C (i.e., hepatitic C RNA)
+Hepatitis B or C positive
+Subject with a known history of active chronic HIV, hepatitis B or hepatitis C infections; negative hepatitis C viral load is allowed
+Patients with known hepatitis B or hepatitis C infection may be eligible providing they have viral load < 800,000 IU/L within 28 days prior to registration
+Negative screening tests for hepatitis B and hepatitis C; patients with positive results that do not indicate true active or chronic infection may enroll after discussion and consensus agreement by the treating physician and principal investigator
+Patients with treated hepatitis virus infections (hepatitis B or hepatitis C) are eligible if they have been definitively treated for 6 months, have no detectable viral load on quantitative PCR, and liver function tests (LFTs) meet eligibility requirements
+Patients with active hepatitis B or C. Screening for hepatitis B Prior to randomization/start of everolimus, the following three categories of patients should be tested for hepatitis B viral load and serologic markers, that is, HBsAg, HBcAb, HBsAb and quantitative hepatitis B DNA PCR (HBV-DNA): • All patients who currently live in (or have lived in) Asia, Africa, Central and South America, Eastern Europe, Spain, Portugal and Greece. [http://wwwnc.cdc.gov/travel/yellowbook/2012/chapter-3-infectious-diseases-related-to-trave l/hepatitis-b.htm]
+mother known to have hepatitis B
+Additional patients at the discretion of the investigator The management guidelines, in Section 6, are provided according to the results of the baseline assessment of viral load and serological markers for hepatitis B. Screening for hepatitis C Patients with any of the following risk factors for hepatitis C should be tested using quantitative RNA-PCR:
+Known history of or is positive for Hepatitis B or Hepatitis C
+Patients with history of untreated hepatitis B or who are known carriers of hepatitis B will be excluded from this trial; all subjects will be screened prior to study entry
+A risk of reactivation of hepatitis B or C.
+Have achieved a sustained virologic response for 12 weeks after cessation of hepatitis C antiviral treatment (in HIV-positive subjects with hepatitis C)
+Seronegative for hepatitis B antigen, positive hepatitis B tests can be further evaluated by confirmatory tests (hepatitis B [Hep B] deoxyribonucleic acid [DNA] quantitative [Quant], hepatitis B virus [HBV] viral load), and if confirmatory tests are negative, the patient can be enrolled
+Participant has known active Hepatitis B, Hepatitis C or tuberculosis. Active Hepatitis B is defined as a known positive HBsAg result. Active Hepatitis C is defined by a known positive Hepatitis C antibody result and known quantitative Hepatitis C virus (HCV) ribonucleic acid (RNA) results greater than the lower limits of detection of the assay.
+Positive hepatitis B (hepatitis B surface antigen and antibody) and/or hepatitis C (hepatitis C antibody test) as indicated by serologies conducted =< 3 months prior to starting study if liver function tests are outside of the normal institutional range\r\n* NOTE: patients with hepatitis B or C serologies indicating active infection without known active disease must meet the eligibility requirements for ALT, AST, total bilirubin, INR, PTT, and alkaline phosphatase on at least two consecutive occasions, separated by at least 1 week
+All patients must be willing to be tested for hepatitis screening; patients co-infected with hepatitis B virus and/or hepatitis C virus may be included in this study provided that their liver function tests remain within the limits listed above; patients must be followed by a hepatologist during the course of this study
+Active hepatitis B or hepatitis C with abnormal liver function tests.
+Hepatitis B or C
+History of hepatitis B or C
+Hepatitis B or C
+All patients known to be positive for hepatitis B will be excluded from the study, and those at high risk for hepatitis B infection will be screened
+Subjects with acute hepatitis
+History of interstitial lung disease, prior malignancy, active autoimmune disease, positive test for hepatitis B or hepatitis C virus
+Active hepatitis B as defined by hepatitis B surface antigen positivity, unless able to start dual anti-hepatitis B (HepB) therapy, or already on dual anti-HepB therapy
+Patients with a known history of liver disease, autoimmune hepatitis, sclerosing cholangitis, or hepatitis B or C are not eligible for participation
+Patients with known hepatitis or unstable liver disease, and/or positive serologies for Hepatitis B or C and HIV.
+Known positive patients for infectious hepatitis, type A, B, C
+Subjects with confirmed Hepatitis A, B or C
+Active hepatitis B or hepatitis C with abnormal liver function tests.
+Has a known history of Hepatitis B
+Seropositivity or DNA/RNA positivity for hepatitis B or C, with the exception of patients who have received prior Hepatitis B vaccination and are Anti-HBs positive only
+Patients who have not been tested within 3 months prior to starting adjuvant therapy must be tested for hepatitis B and hepatitis C serologies during study screening\r\n* Patients with positive hepatitis B or C serologies without known active disease must meet the eligibility requirements for ALT, AST, total bilirubin, international normalized ratio (INR), activated partial thromboplastin time (aPTT), and alkaline phosphatase on at least two consecutive occasions, separated by at least 1 week, within the 30 day screening period
+Hepatitis B with positive viral load prior to transplant conditioning or hepatitis C virus
+History of hepatitis B or C infection (subjects with evidence of cleared hepatitis B are permitted).
+Patients must have negative hepatitis C virus (HCV) serology; all patients must be screened for hepatitis B infection before starting treatment; those patients who test positive for hepatitis B should be closely monitored for evidence of active hepatitis B virus (HBV) infection and hepatitis during and for several months after rituximab treatment; PCNSL patients with a history of hepatitis B infection should be treated with entecavir or lamivudine (physician discretion for choice of drug) as antiviral prophylaxis to prevent hepatitis B reactivation
+Presence of known hepatitis B or hepatitis C infection, regardless of control on antiviral therapy
+Current or known history of hepatitis
+Has known history of or is positive for hepatitis B or hepatitis C
+HIV positivity (NOTE: patients positive for hepatitis B or hepatitis C are not excluded, and may be evaluated on a case-by-case basis)
+Has a known history of active hepatitis B or C. Healthy carriers of hepatitis B are not allowed on this study
+Patients with hepatitis B and C will be excluded
+Known history of hepatitis C and recovery status has not been determined at time of screening
+Patients with hepatitis
+Known to be positive for hepatitis B. Known to have active hepatitis C infection or on antiviral therapy for hepatitis C within the last 6 months.
+Patients known to be seropositive for hepatitis C hepatitis B
+History of any hepatitis (A,B or C)
+Patients with known hepatitis B or hepatitis C infection may be eligible providing they have viral load < 800,000 IU/mL within 28 days prior to registration
+History of any hepatitis (A, B or C)
+History of grade 3-4 drug-related hepatitis
+Known positive for Human Immunovirus (HIV) or infectious Hepatitis type C or active infectious Hepatitis type B.
+Circulating hepatitis C virus on qPCR
+Hepatitis B or C.
+Positive for hepatitis BsAg or HIV Ab or hepatitis C
+A Hepatitis B/C blood test must be done at screening for all patients; patients who test positive for Hepatitis C antibodies and the Hepatitis B antigen are ineligible
+Patients with known history of autoimmune hepatitis, hepatitis C or those with hemoglobinopathies (e.g., thalassemia major, sickle cell anemia)
+History of hepatitis A, B and C
+Known positive for infectious hepatitis type C or active infectious hepatitis type B
+Known hepatitis B or C
+Patient is known to be hepatitis B or hepatitis C-positive (these tests are not required)
+Known history of infection with HIV, hepatitis B (HBsAg positive), or hepatitis C (anti-HCV positive). A history of treated hepatitis B or hepatitis C is permitted if the viral load is undetectable per quantitative PCR and/or nucleic acid testing.
+History of any hepatitis
+Patients with hepatitis B and hepatitis C must be under the care of viral hepatitis expert consultant; patients with hepatitis B are required to be treated with anti-hepatitis B virus (HBV) treatment (e.g., entecavir); patients with hepatitis C need to have received prior and/or ongoing hepatitis C treatment

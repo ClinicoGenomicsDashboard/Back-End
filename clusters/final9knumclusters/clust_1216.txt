@@ -1,0 +1,61 @@
+Any significant medical complications related to induction must have resolved
+Patients must have resolved any serious infectious complications related to therapy
+Any significant medical complications related to therapy must have resolved
+CRITERIA FOR MAINTENANCE THERAPY-STEP 4: Patients must have resolved any serious infectious complications related to therapy
+CRITERIA FOR MAINTENANCE THERAPY-STEP 4: Any significant medical complications related to therapy must have resolved
+All associated clinically significant toxicity from previous cancer therapy must be resolved (to ?Grade 1 or baseline) prior to study treatment administration (Grade 2 alopecia is allowed).
+Has an EGFR TKI- related toxicity that has NOT resolved to Grade 1 or less.
+All acute, clinically significant treatment-related toxicity from prior therapy, except for alopecia, must have resolved to grade =< 1 prior to study entry
+Toxicity from prior therapy (except alopecia) has resolved to ?Grade 1; in the event of toxicity that has not resolved to ?Grade 1 but is considered stable, the patient may be eligible after discussion among the investigator and sponsor's medical monitor.
+Persistent toxicity from recent therapy that has not sufficiently resolved in the judgment of the study physician.
+Prior treatment-related toxicity resolved to =< grade 2 or baseline
+Acute, clinically significant treatment-related toxicity from prior therapy must have resolved to Grade </=1 prior to study entry
+Resolved acute effects of prior therapy
+All associated clinically significant drug-related toxicity from previous cancer therapy must be resolved prior to study treatment administration (alopecia is allowed).
+All side effects attributed to prior anti-cancer therapy must have resolved to Grade 1 or baseline
+Grade >= 3 non-hematologic toxicity from prior therapy that has not resolved to =< grade (G) 1
+Any toxicity related to prior treatment must have resolved to Grade 1 or less, with the exception of alopecia and Grade 2, prior platinum-therapy related neuropathy
+Residual or on-going >= grade 3 treatment-related toxicity from previous chemotherapy should be resolved
+Grade >= 3 non-hematologic toxicity from previous therapy that has not resolved to =< grade (G)1
+Grade >= 3 non-hematologic toxicity from previous therapy that has not resolved to =< grade 1
+Grade >= 3 nonhematological toxicity from prior therapy that has not resolved to =< grade 1
+Presence of an acute or chronic toxicity of prior chemotherapy that has not resolved to ? Grade 1, as determined by CTCAE v 4.0.
+Grade >= 3 non-hematologic toxicity from previous therapy that has not resolved to =< grade 1
+Grade >= 3 non-hematologic toxicity from prior therapy that has not resolved to =< grade 1 (G1).
+All acute, clinically significant treatment-related toxicity from prior therapy, except for alopecia, must have resolved to grade =< 1
+Any significant medical complications related to induction must have resolved
+Patients must have resolved any serious infectious complications related to consolidation cycle 2
+Any significant medical complications related to consolidation cycle 2 must have resolved
+Patients must have recovered from acute toxicities of prior chemotherapy or stem cell transplant; any prior non-hematologic vital organ toxicity (cardiac, pulmonary, hepatic, renal) of previous therapy must have resolved to grade 1 or less
+Any toxicity related to prior EGFR inhibitor treatment must have resolved to Grade 1\n             or less
+Grade 3 or 4 immune related toxicity associated with prior ipilimumab therapy that has not resolved to grade 0 or 1
+Resolved acute effects of any prior therapy to baseline or Grade ?1
+All acute treatment-related toxicity must have resolved to Grade less than or equal to (</=) 1 or be deemed stable by the Investigator
+Prior history of >= grade 2 neurotoxicity or any other toxicity requiring discontinuation of taxane therapy that has not resolved to =< grade 1, with the exception of alopecia
+Toxicity from prior therapy (excluding alopecia) that has not resolved to =< grade 1 prior to the first treatment with G-202
+Toxicity from prior radiation therapy has NOT resolved to grade 1 or less
+All AEs while receiving prior immunotherapy must have resolved to ? Grade 1 or baseline prior to screening for this study.
+All toxicity related to prior cancer therapies must have resolved to ? Grade 1, with the following exceptions: alopecia; neuropathy, which must have to resolved to ? Grade 2; and congestive heart failure (CHF), which must have been ? Grade 1 in severity and must have resolved completely.
+Resolved acute effects of prior therapy
+Any grade 3 or 4 -hematologic toxicity of previous therapy must have resolved to grade 2 or less prior to apheresis and any grade 3 or 4 toxicity must have resolved to grade 2 or less prior to pre-infusion lymphodepletive chemotherapy.
+Any toxicity related to prior cancer therapies that has not resolved to =< grade 1, with the exception of peripheral neuropathy, which must have resolved to =< grade 2, and alopecia
+Toxicity from prior chemotherapy that has not resolved to Grade ? 1;
+All previous cytotoxic chemotherapy must be completed at least 2 weeks prior to study entry, with the exception of the tyrosine kinase inhibitors imatinib, nilotinib and dasatinib which may be continued through induction therapy; any grade 3 or 4 nonhematologic toxicity of any previous therapy must have resolved to grade 2 or less, unless specified elsewhere
+All associated toxicity from previous or concurrent cancer therapy must be resolved (to ?Grade 1 or Baseline) prior to study treatment administration
+All associated toxicity from previous or concurrent cancer therapy must be resolved (to ? Grade 1 or Baseline) prior to study treatment administration.
+All associated toxicity from previous or concurrent cancer therapy must be resolved (to ? Grade 1 or Baseline) prior to study treatment administration.
+All acute treatment-related toxicity from prior therapy must have resolved to Grade ? 1 prior to study entry
+Acute prior study treatment related toxicity (except alopecia) that has not resolved to Grade < or = to 1 unless it has been deemed stable by the investigator
+All acute treatment-related toxicity from prior therapy must have resolved to Grade ? 1 prior to study entry
+Patients with grade >= 3 non-hematologic toxicity from previous therapy that has not resolved to =< grade 1
+All acute treatment-related toxicity from prior therapy must have resolved to Grade ? 1 prior to study entry
+All acute treatmentrelated toxicity from prior therapy must have resolved to Grade ? 1 prior to study entry
+The patient has a prior ALK-inhibitor-related toxicity or any other prior therapy-related acute toxicity that has not resolved prior to the first dose of study drug.
+Residual > Grade 2 toxicity from prior treatment must have resolved with the exception of those explicitly described elsewhere in entry criteria
+Presence of an acute or chronic toxicity resulting from prior anti-cancer therapy, with the exception of alopecia, that has not resolved to Grade ? 1 within 7 days prior to start of CA-4948 unless approved by the Medical Monitor
+Clinically significant toxicity (other than alopecia) from prior therapy that has not resolved to Grade ? 1 (according to the NCI CTCAE, v4.0) prior to Cycle 1 Day 1
+All previous therapy must be completed at least 2 weeks prior to study entry; any grade 3 or 4 non-hematologic toxicity of any previous therapy must have resolved to grade 2 or less, unless specified elsewhere
+Grade >= 3 non-hematologic toxicity from prior therapy that has not resolved to =< G1
+All acute, clinically significant treatment-related toxicity from prior therapy, except for alopecia, must have resolved to grade =< 1
+Any grade 3 or clinically significant grade 2 treatment-related non-hematological toxicity must be resolved to grade 1 before retreatment with chemotherapy (with exception of alopecia)
+Any grade 3 or 4 hematologic toxicity of any previous therapy must have resolved to grade 2 or less prior to apheresis and any grade 3 or 4 toxicity must have resolved to grade 2 or less prior to pre-infusion lymphodepletive chemotherapy.

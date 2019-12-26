@@ -1,0 +1,131 @@
+Patients must meet one of the following criteria:\r\n* Patients must have tumor amenable to image guided or direct vision biopsy and be willing and able to undergo a tumor biopsy for molecular profiling; patients with multiple myeloma other than plasmacytomas are to have a bone marrow aspirate to obtain tumor cells; biopsy must not be considered to be more than minimal risk to the patient\r\n** NOTE: Registration to screening steps (Step , , , ) must occur after stopping prior therapy; there is no specific duration for which patients must be off treatment prior to registration to the relevant screening step (and subsequently, the biopsy), as long as all other eligibility criteria are met OR\r\n* Patient will be undergoing a procedure due to medical necessity during which the tissue may be collected\r\n** NOTE: Registration to screening steps (Step , , , ) must occur after stopping prior therapy; there is no specific duration for which patients must be off treatment prior to registration to the relevant screening step (and subsequently, the biopsy), as long as all other eligibility criteria are met OR\r\n* Formalin-fixed paraffin-embedded tumor tissue block(s) are available for submission following pre-registration (not applicable for bone marrow aspirate specimens); criteria for the submission of formalin-fixed paraffin-embedded (FFPE) tissue are:\r\n** Tissue must have been collected within  months prior to pre-registration to Step \r\n*** Patient may receive treatment after tissue collection; however, lack of response must be documented prior to Step ; the following restrictions apply:\r\n**** Enrollment onto another investigational study is not permitted\r\n**** Intervening therapy that constitutes a new, molecularly targeted therapy is not permitted; please note, immunotherapy is not considered molecularly targeted\r\n***** Continuation of an agent/regimen for which disease progression has been observed prior to biopsy is permitted, including targeted therapy\r\n**** A new immunotherapy regimen is permitted; but, lack of response must also be documented prior to registration to Step \r\n** Formalin-fixed paraffin-embedded tumor tissue block(s) must meet the minimum requirements OR\r\n* Results from one of the designated outside laboratories indicate a rare variant that is an actionable mutation of interest (aMOI) for specific designated rare variant subprotocols; the following requirements apply:\r\n** The outside laboratory notified the site that patient may be a potential candidate for MATCH due to a detected rare variant\r\n** Patients with an applicable rare variant must be able to meet the eligibility criteria for the appropriate subprotocols within  weeks following entry on the EAY Step  screening step\r\n** Registration to Step  must occur after stopping prior systemic anti-cancer therapy; there is no specific duration for which patients must be off treatment prior to registration to Step , as long as all eligibility criteria are met\r\n*** NOTE: Other potential aMOIs that would be eligibility criteria for NON RARE arms, as determined by the above laboratories, are not applicable for direct treatment assignment on MATCH\r\n*** NOTE: Tumor tissue for the confirmation of rare variant by the MATCH assay is to be submitted, preferably from the same time of collection as that evaluated by the designated outside laboratory
+Within  weeks prior to screening step registration and within  weeks prior to treatment step registration: Leukocytes >= ,/mcL
+Within  weeks prior to screening step registration and within  weeks prior to treatment step registration: Absolute neutrophil count >= ,/mcL
+Within  weeks prior to screening step registration and within  weeks prior to treatment step registration: Platelets >= ,/mcL
+Within  weeks prior to screening step registration and within  weeks prior to treatment step registration: Creatinine clearance >=  mL/min/. m^ for patients with creatinine levels above institutional normal
+STEP II: Step  registration must be within  weeks of completing step  therapy
+STEP II: Any adverse event related to step  therapy must have resolved to grade  or less
+STEP  INITIAL REGISTRATION: HER- TESTING
+STEP 
+Patients must have discontinued radiation therapy prior to registering to Step  of the study and recovered from any adverse events associated with treatment; prior surgery must be >=  weeks from registration to Step  and patients must be fully recovered from post-surgical complications
+REGISTRATION STEP -SPECIMEN SUBMISSION
+REGISTRATION STEP -RANDOMIZATION: Patients must be registered to Step  no more than  days after registration to Step  and no more than  days after collection of specimens for FLT testing
+PRE-REGISTRATION (STEP )
+STEP  REGISTRATION
+STEP  REGISTRATION
+Site must verify that there is no known change in the step  eligibility since initial registration
+CRITERIA FOR MAINTENANCE THERAPY-STEP : Patients must have an ECOG performance status of -
+REGISTRATION ELIGIBILITY CRITERIA (STEP )
+Baseline testosterone level obtained post prostatectomy prior to step  registration
+Prostatectomy performed greater than  days ( year) prior to step  registration
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP ): ECOG performance status -
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP ): Platelet count >=  x ^/L
+RE-REGISTRATION ELIGIBILITY CRITERIA (STEP ): AST and ALT < . x upper limits of normal (ULN)
+PRIOR TO STEP  REGISTRATION
+PRIOR TO STEP  REGISTRATION
+Documentation of steroid doses within  days prior to step  registration
+Karnofsky performance status >=  within  days prior to step  registration
+Patents treated on any other therapeutic clinical protocols within  days prior to step  registration
+Sites are required to complete Step  registration before submitting specimens for EBV DNA analysis\r\n* Patients must have detectable pretreatment plasma EBV DNA, determined by the central lab prior to Step  registration\r\n* For patients who have detectable plasma EBV DNA tested at one of the credentialed central labs within  days prior to Step  registration: that test result can be used for eligibility without the need for re-testing; to use this test result for eligibility, the central lab must enter the test result through the pathology portal
+Karnofsky performance status of - within  days prior to Step  registration
+Serum albumin >= . g/dL within  days prior to Step  registration
+History of any of the following:\r\n* Seizure or known condition that may pre-dispose to seizure (e.g. prior stroke within  year prior to Step  registration)\r\n* History of documented inflammatory bowel disease\r\n* Transmural myocardial infarction within the last  months prior to Step  registration\r\n* Unstable angina and/or congestive heart failure requiring hospitalization within the last  months prior to Step  registration\r\n* History of any condition that in the opinion of the investigator, would preclude participation in this study
+For patients who have not undergone prior Decipher analysis, submission of the specimen to GenomeDx should be as soon as possible after study registration (Step ) as these results can take up  days after the specimen is received at GenomeDx; Step  registration must occur within  weeks ( days) of Step  registration; if Decipher results have already been obtained, in lieu of tissue, results must be submitted to GenomeDx for validation
+STEP : NEOADJUVANT
+Platelets >= , documented within  days prior to step  registration
+STEP : SURGERY
+Patients must have postoperative oxygen consumption (VO) max >  ml/kg/min prior to surgery obtained within  days prior to step  registration
+STEP : MAINTENANCE
+ANC > ,/mcl within  days documented prior to step  registration
+Creatinine < . x ULN documented within  days prior to step  registration
+REGISTRATION ELIGIBILITY CRITERIA (STEP )
+Registration Step   Post-Remission Therapy:
+Registration Step   Maintenance: Patients must have serum creatinine =< . mg/dl within  days prior to registration
+Registration Step   Maintenance: Patients must have AST and ALT =< . x institutional upper limit of normal (IULN) within  days prior to registration
+Registration Step   Maintenance: Patients must have adequate marrow function as evidenced by ANC >= /mcl within  days prior to registration
+PRIOR TO STEP  REGISTRATION:
+Step  registration must occur within  days of the initial surgery; within this  day interval, a second surgery is permitted in order to achieve GTR, but even with a second surgery, step  registration must occur within  days of the initial resection
+For step  registration the operating neurosurgeon must provide the modified Simpson grade
+PRIOR TO STEP  REGISTRATION:
+PRIOR TO STEP  REGISTRATION
+PRIOR TO STEP  REGISTRATION
+Karnofsky performance status >=  within  days prior to Step  registration
+Serum creatinine =< . mg/dl within  days prior to Step  registration
+STEP I (IMAGING AND DOSIMETRY)
+STEP II (THERAPY)
+STEP I
+STEP  SUBJECTS ONLY:
+STEP  SUBJECTS ONLY:
+STEP  AND  SUBJECTS:
+PREREGISTRATION (STEP ): Patient must be scheduled to undergo a standard of care bone marrow biopsy within  days of step  registration
+REGISTRATION TO TREATMENT (STEP ): Patients must have been on a stable dose of the TKI for the last  months before prior to pre-registration
+REGISTRATION TO TREATMENT (STEP ): Patients who received prior allogeneic transplant are not eligible
+REGISTRATION TO TREATMENT (STEP ): Institution has received central BCR-ABL test results confirming MRD positive status following Step  treatment
+REGISTRATION TO TREATMENT (STEP ): Patients have an ECOG performance status of -
+REGISTRATION TO TREATMENT (STEP ): Patients who received prior allogeneic transplant are not eligible
+For patients with oropharyngeal or unknown primaries: p determination by immunohistochemistry (defined as greater than % strong nuclear or nuclear and cytoplasmic staining of tumor cells), confirmed by central pathology review\r\n* Note: for patients with oral cavity, laryngeal, and hypopharyngeal primaries, analysis of p status prior to step  registration/randomization is not required (p status will be analyzed centrally post-hoc); step  registration for these patients can be completed after step  registration
+PRIOR TO STEP  REGISTRATION EXCLUSION CRITERIA
+Within  days of step  registration, unless corrected prior to step  registration: Sodium <  mmol/L or >  mmol/L
+Within  days of step  registration, unless corrected prior to step  registration: Potassium < . mmol/L or >  mmol/L
+Within  days of step  registration, unless corrected prior to step  registration: Fasting glucose <  mg/dl or >  mg/dl
+Within  days of step  registration, unless corrected prior to step  registration: Serum calcium (ionized or adjusted for albumin) <  mg/dl or > . mg/dl
+Within  days of step  registration, unless corrected prior to step  registration: Magnesium < . mg/dl or >  mg/dl
+STEP  (REGISTRATION)
+STEP  (REGISTRATION)
+STEP 
+STEP 
+STEP  TO GDC- RE-REGISTRATION:
+HbAc < % obtained within  days prior to Step  re-registration
+STEP  TO AZD RE-REGISTRATION:
+STEP  PALBOCICLIB RE-REGISTRATION:
+STEP : REGISTRATION
+STEP  (REGISTRATION)
+PRIOR TO STEP  REGISTRATION BUT WITHIN  DAYS PRIOR TO STEP  REGISTRATION
+CONDITIONS FOR PATIENT ELIGIBILITY PRIOR TO STEP  REGISTRATION (HER-POSITIVE PATIENTS ONLY)
+Radiation oncology consultation to confirm that disease can be encompassed in a radiotherapy field within  days prior to step  registration
+Consultation with a medical oncologist within  days prior to step  registration
+Stage TN-, T-N-, according to the AJCC th edition staging, based upon the following minimum diagnostic work-up:\r\n* History/physical examination, with documentation of the patients weight, within  days prior to step  registration\r\n* Whole-body PET/CT scan within  days prior to step  registration (if only CT performed prior to step  registration)\r\n* Endoscopic ultrasound within  days prior to step  registration, unless the patient is found to have adenopathy per CT or whole-body PET/CT scan\r\n* Electrocardiogram (EKG) within  days prior to step  registration\r\n* Serum creatinine =<  x the upper limit or normal within  days prior to step  registration
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines; for Step  registration of patients who have not yet submitted specimens for the Oncotype DX Breast Cancer Assay, the appropriate consent form is the Step  Consent Form; for both Step  and Step  registration of patients whose Recurrence Score is already known and is  or less, the appropriate consent form is the Step  Consent Form
+STEP  REGISTRATION
+SECOND REGISTRATION (STEP )
+STEP  REGISTRATION:
+No tests or exams are required to be repeated for step  registration (randomization); however, patients who are known to have a change in eligibility status after step  registration are not eligible for step  registration; for example, ANC is not required to be repeated between step  and step  registration, but the most recent ANC performed before step  registration is required to be >= , mcL
+STEP  TO MEDI RE-TREATMENT REGISTRATION:
+PRE-REGISTRATION (STEP )
+PRIOR TO STEP  REGISTRATION
+PRIOR TO STEP  REGISTRATION
+STEP I INITIAL REGISTRATION: BRAFVE TESTING:
+Brain metastases are allowed if they have been adequately treated with radiotherapy or surgery and stable for at least  days prior to Step  Initial Registration; eligible patients should be neurologically asymptomatic and without corticosteroid treatment for at least  days prior to Step  Initial Registration
+Patients or their legally authorized representative must be informed of the investigational nature of this study and must sign and give written informed consent in accordance with institutional and federal guidelines; for Step  Initial Registration of patients who have not yet submitted specimens for the central BRAFVE testing, the appropriate consent form is the Step  Consent Form; for both Step  Initial Registration and Step  Randomization of patients whose BRAF mutation status is already known, the appropriate consent form is the Step  Consent Form
+ANC >= ,/mcL within  days prior to Step  registration
+STEP  REGISTRATION:
+STEP  REGISTRATION:
+Patients must register to Step  prior to surgery
+STEP  (REGISTRATION)
+PRIOR TO STEP  REGISTRATION EXCLUSION CRITERIA
+REGISTRATION (STEP ) ELIGIBILITY CRITERIA:
+STEP  - CONSOLIDATION
+Patients cannot be receiving CYPA inhibitors beginning at least  days prior to registration step 
+PRIOR TO STEP  REGISTRATION
+Patients must have a FSFI desire subscale baseline score less than .\r\n* NOTE-Both the PHQ and FSFI must be completed by the patient and data entered in Oncology Patient Enrollment Network (OPEN) at Step  registration to determine eligibility within  days prior to registration; both of these scores will be calculated in the OPEN system once submitted as part of Step  registration; an error message will appear once the patient begins Step  registration if one or both of the scores make the patient ineligible; in this situation, continue to complete Step  with the reason the patient will not continue on the study as Other and specify ineligible
+Completion of the FSFI and PHQ; both questionnaires will be required and data entered at the time of step  registration
+Completion of the following baseline quality of life forms: PHQ, FSFI, PROMIS sexual function and satisfaction, PROMIS fatigue short form a, impact of treatment scale, patient reported outcomes (PRO)-Common Terminology Criteria for Adverse Events (CTCAE) items, and revised dyadic adjustment scale; these quality of life forms will be required and data must be entered in RAVE at step  registration; if available at the time of step  registration, step  registration can take place immediately after step , but cannot occur more than  days after step ; women who do not currently have a partner do not have to complete the revised dyadic adjustment scale; enter no partner for this form
+STEP  REGISTRATION
+Patients must not have taken within  days prior to step  registration, be currently taking at the time of step  registration, or planning to take once registered to step  a beta blocker, ARB, or ACE inhibitor in order to be randomized (Arms  and )\r\n* Patients currently taking a beta blocker, ARB, or ACE inhibitor at the time of step  registration are eligible to register for the non-randomized observational cohort (Arm )
+Site must verify that there is no known change in the step  eligibility since initial registration
+STEP  REGISTRATION
+PRIOR TO STEP  REGISTRATION
+Financial clearance for proton therapy treatment prior step  registration
+PRIOR TO STEP  REGISTRATION:
+PRIOR TO STEP  REGISTRATION:
+The following baseline neurocognitive assessments must be completed prior to Step  registration: HVLT-R, TMT, and COWA; the neurocognitive assessment will be uploaded into the NRG RAVE System for evaluation by Dr. Wefel; once the upload is complete, within one business day a notification will be sent to proceed to Step ; NOTE: completed baseline neurocognitive assessments can be uploaded at the time of Step  registration
+Karnofsky performance status of >=  within  days prior to Step  registration
+STEP : REGISTRATION (Optional)
+Patients with a primary colon or rectal cancer resection who are potentially eligible for S may be pre-registered at Step ; patients registered to Step  will appear on an institutional patient tracking report; patients registered to Step  are not registered to the S protocol; to participate in S, patients must be registered to Step  after patient is consented and evaluation of eligibility; patients registered to S at Step  continuing to Step  registration must use the same Southwest Oncology Group (SWOG) patient identification (ID) for registration to S Step 
+STEP : REGISTRATION
+REGISTRATION TO STEP 
+REGISTRATION TO STEP 
+Registration to Step :
+Registration to Step :
+Registration to Step :
+Patients must be registered to the first screening step (Step ) for the National Cancer Institute (NCI)-MATCH trial (EAY)

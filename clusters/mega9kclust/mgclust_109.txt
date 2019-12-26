@@ -1,0 +1,10 @@
+Cluster 3: mcl neutrophil absolute count registration days weeks prior cohort cells 
+Cluster 108: peripheral anc neutrophil absolute ul count marrow bone solid tumors 
+Cluster 566: neutrophil absolute count ml days enrollment prior microliters randomization patient 
+Cluster 577: ul neutrophil absolute count cells days registration arm prior cohort 
+Cluster 823: ul anc neutrophil absolute count cells days registration prior neutropenia 
+Cluster 1096: anc neutrophil absolute count days ul prior treatment study cells 
+Cluster 1444: mcl anc neutrophil absolute count registration days prior performed equal 
+Cluster 1515: microliter hiv cd cells registration haart count positive note antiretroviral 
+Cluster 1679: unsupported platelets days transfusions hemoglobin mm count dl ul neutrophil 
+Cluster 1839: initiation mcl neutrophil anc absolute count days performed treatment nabsolute 

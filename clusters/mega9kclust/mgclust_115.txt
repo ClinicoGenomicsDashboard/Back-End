@@ -1,0 +1,7 @@
+Cluster 269: line therapy prior chemotherapy received disease patients treatment systemic second 
+Cluster 293: therapy prior systemic received chemotherapy patients treatment disease allowed radiation 
+Cluster 613: therapy prior patients allowed radiation dose weeks days treatment chemotherapy 
+Cluster 644: radiation therapy prior chemotherapy patients treatment days field gy allowed 
+Cluster 1146: therapies prior number received cancer anti patients allowed systemic limit 
+Cluster 1178: sorafenib hcc prior treatment systemic therapy received intolerance progression patients 
+Cluster 2306: conventional therapy chemotherapy radiation curable weeks patients tumor disease treatment 

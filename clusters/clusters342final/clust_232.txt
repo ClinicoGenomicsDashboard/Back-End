@@ -1,0 +1,36 @@
+Patients with a life expectancy of less than one year
+Life expectancy >= 12 weeks
+Life expectancy > 3 months
+Life expectancy >= 3 months
+PROCUREMENT: Patients with life expectancy >= 6 weeks
+TREATMENT: Patients with life expectancy >= 6 weeks
+Life expectancy of > 3 months
+Participants must have an estimated life expectancy of > 6 weeks
+Patients must have a life expectancy of at least 6 weeks
+Life expectancy >= 12 weeks
+Life expectancy > 3 months
+Life expectancy of at least 6 months
+Life expectancy > 3 months
+Life expectancy of less than 3 months
+TUMOR BIOPSY SEQUENCING: Life expectancy > 3 months
+TREATMENT: Life expectancy > 3 months
+Patients must have a life expectancy of >= 8 weeks
+Patients must have a life expectancy >= 12 weeks
+Life expectancy of > 3 months
+Patient must have a life expectancy of at least 3 months with appropriate therapy
+Patients must have a life expectancy of at least 8 weeks
+Participants must have a life expectancy of 2 years or more
+Life expectancy must be estimated by patients physician at > 6 months
+Patients must have a life expectancy of >= 12 weeks as determined clinically by the treating physician
+Life expectancy > 3 months
+Life expectancy of > 2 months
+Life expectancy of >= 4 months
+No comorbid conditions that would cause life expectancy of less than 5 years
+Life expectancy > 12 weeks
+Patients must have a life expectancy of >= 2 months
+Life expectancy > 3 months
+Patients must have a life expectancy of >= 8 weeks
+Must have a life expectancy of at least 12 weeks
+Patient must have a life expectancy of at least 3 months with appropriate therapy
+Life expectancy of at least 3 months
+Life expectancy > 6 months as assessed by study physician

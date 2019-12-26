@@ -1,0 +1,46 @@
+Platelets >= 100,000/mcL assessed within seven (7) days prior to the start of therapy
+30.0
+REGISTRATION #2 - PRIOR TO CONSOLIDATION CHEMOTHERAPY: Platelets >= 100,000/mcl
+162.0
+Obtained within 30 days of registration: Platelets >= 75,000/mcL or >= 50,000/mcL with documented bone marrow involvement
+24.0
+Platelets >= 100,000/mcL within 28 days prior to registration
+491.0
+Obtained =< 7 days prior to registration: Platelets (PLT) >= 100,000/mm^3
+102.0
+Platelets >= 100,000/L (unsupported), within 14 days of registration and within 7 days of the start of treatment
+180.0
+Platelets >= 75,000/mcL (75 x 10^9/L) obtained within 2 weeks prior to registration
+189.0
+Platelets >= 50,000/mcl within 28 days prior to registration
+44.0
+Registration Step 3 � Maintenance: Patients must have adequate marrow function as evidenced by platelets >= 75,000/mcl within 28 days prior to registration
+44.0
+Obtained within 28 days prior to registration: Platelets >= 75,000/mcL
+223.0
+Within 14 days prior to registration: Platelets >= 100,000/mcL
+143.0
+Platelets greater than or equal to 100,000/mcl, within 14 days prior to registration
+147.0
+Obtained within 28 days prior to registration: Platelets >= 50,000/mcl
+77.0
+Platelets >= 100 x 10^9/L within 14 days prior to registration.
+186.0
+Within 28 days prior to registration: Platelets >= 75,000/mcL
+707.0
+Within 14 days prior to registration: Platelets >= 100,000/mcl
+488.0
+Within 28 days prior to administration of study treatment: Platelets >= 100,000/mcL
+90.0
+Within less than or equal to 14 days prior to registration: Platelets >= 100 x 10^9/L
+40.0
+Within 28 days prior to administration of therapy: Platelets >= 100,000/mcL
+132.0
+Platelets >= 100,000/mcL, obtained within 28 days prior to step 2 registration
+1000.0
+Platelets >= 100,000/mcL within 28 days prior to registration
+64.0
+Platelets >= 75,000/mcL within 28 days prior to registration
+150.0
+Platelets >= 100,000/mcL within 28 days prior to registration
+94.0

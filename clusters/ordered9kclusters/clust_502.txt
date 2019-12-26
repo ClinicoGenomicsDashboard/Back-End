@@ -1,0 +1,16 @@
+Patient is concurrently receiving chemotherapy, biologics, immunotherapy for cancer treatment; systemic anti-cancer treatment or investigational treatment
+Patient is concurrently using other anti-cancer therapy.
+Patients who are receiving other anti-neoplastic therapy (e.g. chemotherapy, targeted therapy or radiotherapy) concurrently or within 2 weeks of starting study treatment with sonidegib
+Patient is concurrently using other approved or investigational antineoplastic agent
+Patient is concurrently using other approved or investigational antineoplastic agent
+Concurrently using fibrin sealants or other anastomosis care devices
+Patient is concurrently using other approved or investigational antineoplastic agent
+Patient is concurrently using other approved or investigational antineoplastic agents
+Patient is concurrently using other anti-cancer therapy.
+Patients who are receiving other anti-neoplastic therapy (e.g. chemotherapy, targeted therapy or radiotherapy) concurrently
+Patients who are receiving other anti-neoplastic therapy (e.g. chemotherapy, targeted therapy or radiotherapy) concurrently or within 2 weeks of starting LDE225
+Patients who are receiving other anti-neoplastic therapy (e.g. chemotherapy, targeted therapy, or radiotherapy) concurrently or within 2 weeks of starting treatment
+Patient who is concurrently using any other approved or investigational anti-neoplastic agent
+Patient is concurrently using other approved or investigational antineoplastic agent
+Patient is concurrently using other approved or investigational antineoplastic agents
+Patients who are receiving other anti-neoplastic therapy (e.g. chemotherapy, targeted therapy or radiotherapy) concurrently or within 2 weeks of starting treatment with LDE225

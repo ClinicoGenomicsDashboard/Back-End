@@ -1,0 +1,14 @@
+Body surface area (BSA)\r\n* Patients enrolled on dose level - must have BSA >= .m^\r\n* Patients enrolled on dose level -. must have BSA >= .m^\r\n* Patients enrolled on dose level  must have BSA >= .m^\r\n* Patients enrolled on dose level  must have BSA >= .m^\r\n* Patients enrolled on dose level  and  must have BSA >= .m^
+BSA\r\n* Patients enrolled on dose level - must have BSA >= .m\r\n* Patients enrolled on dose level -. must have BSA >= .m\r\n* Patients enrolled on dose level  must have BSA >= .m\r\n* Patients enrolled on dose level  must have BSA >= .m\r\n* Patients enrolled on dose level  and  must have BSA >= .m
+Specific body surface area (BSA) criteria depending on enrolling dose level: no restrictions for dose level , BSA >= . required for dose levels - and -, BSA > . required for dose levels - and -
+BSA (m) of <.
+Body surface area (BSA):\r\n* Patients enrolled on dose level  ( mg/m^) must have BSA >= . m^\r\n* Patients enrolled on dose level  ( mg/m^) must have BSA >= . m^\r\n* Patients enrolled on dose level  ( mg/m^) must have BSA >= . m^
+Patients with a BSA ? . m^ at time of study enrollment are not eligible
+Body surface area requirements varied by dose level: \r\n* Dose level: -; body surface area (BSA): >= . m^\r\n* Dose level: ; BSA: >= . m^\r\n* Dose level: ; BSA: >= . m^\r\n* Dose level: ; BSA: >= . m^
+BSA (m) of <.
+Body surface area: the minimum body surface area (BSA) allowed for enrollment at dose level  to . m^; the minimum for dose level  is BSA = . m^ and the minimum for dose level  is BSA = . m^
+Patients must have body surface area (BSA) > . m^ at the time of enrollment\r\n* In the event of de-escalation from dose level  to dose level , patients with BSAs < . m^ are not eligible
+Participants must have a minimum body surface area (BSA) of . m^ at study entry, with the exception of one study arm which requires a minimum BSA of . m^.
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Body surface area (BSA) \r\n* Patients must have a BSA >= . m^ for dose  mg/m^\r\n* Patients must have a BSA >= . m^ for doses of  mg/m^ -  mg/m^ \r\n* Patients must have a BSA >= . m^ for doses of  mg/m^ -  mg/m^
+NON-PROGRESSED DIPG (STRATUM ): BSA\r\n* Patients must have a BSA >= . m^ for dose  mg/m^\r\n* Patients must have a BSA >= . m^ for doses of mg/m^ -  mg/m^\r\n* Patients must have a BSA >= . m^ for doses of  mg/m^ -  mg/m^
+BSA (m) of <.

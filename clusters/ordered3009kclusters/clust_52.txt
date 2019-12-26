@@ -1,0 +1,274 @@
+Not currently receiving anticoagulation therapy
+Coagulation parameters\t(international normalized ratio [INR], activated partial thromboplastin time [aPTT]) =< 1.25 x institutional limits, except where a lupus anti-coagulant has been confirmed or the patient is on warfarin; patients on full dose anticoagulation must be on a stable dose for at least 14 days. If receiving warfarin, the patient must have an INR =< 3.0 without any evidence of active bleeding within 14 days prior to first dose of study treatment or a pathologic condition that carries a high risk of bleeding (tumor involvement with major blood vessels or varicies), within 28 days prior to administration of study treatment
+Patients must not have any serious or unstable pre-existing medical conditions (aside from malignancy exceptions specified above), including but not limited to, ongoing or active infection requiring parenteral antibiotics on day 1, history of bleeding diathesis or need for concurrent anticoagulation (international normalized ratio [INR] =< 1.5 and partial thromboplastin time [PTT] within 1.1 x ULN), or psychiatric illness/social situations that would limit compliance with study requirements, interfere with subject’s safety, or obtaining informed consent; therapeutic level dosing of warfarin can be used with close monitoring of prothrombin time (PT)/INR by the site; exposure may be decreased due to enzyme induction when on treatment, thus warfarin dosing may need to be adjusted based upon PT/INR; consequently, when discontinuing dabrafenib, warfarin exposure may be increased and thus close monitoring via PT/INR and warfarin dose adjustments must be made as clinically appropriate; prophylactic low dose warfarin may be given to maintain central catheter patency
+Need for anticoagulation
+Patients requiring warfarin are not eligible
+Patients who require anticoagulation with warfarin or equivalent vitamin K antagonists are not eligible
+INR or prothrombin time (PT) < 1.5 x the ULN except for patients receiving anticoagulation, who must be on a stable dose of warfarin for 6 weeks prior to enrollment
+Concurrent use of warfarin
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids; however, prophylactic anticoagulation as described below is allowed:\r\n* Low dose warfarin (1 mg orally, once daily) with prothrombin time (PT)-INR =< 1.5 x ULN is permitted; infrequent bleeding or elevations in PT-INR have been reported in some subjects taking warfarin while on regorafenib therapy; therefore, subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n* Low dose aspirin (=< 100 mg daily)\r\n* Prophylactic doses of heparin
+Any patients on warfarin therapy
+Current use of anticoagulation therapy
+Patients taking warfarin are not eligible; patients on therapeutic doses of anticoagulants are excluded from study
+INR ? 1.6 (unless receiving anticoagulation therapy).
+Subjects receiving anticoagulation therapy
+concomitant use of therapeutic anticoagulation
+Patients being treated with Warfarin.
+Concomitant use of warfarin or other vitamin K antagonists
+Concomitant use of warfarin or other vitamin K antagonists
+Participants with ongoing anticoagulation treatment with warfarin or equivalent vitamin K antagonists (example phenprocoumon), or ongoing treatment with agents known to be strong CYP3A4/5 inhibitors, or has taken any disallowed therapies as noted in Section 8.2, Prohibited Medications, before the planned first dose of study drug
+Requirement for chronic anticoagulation
+Requires continued use of warfarin for anticoagulation and cannot stop warfarin to be safely switched to another anticoagulant
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids\r\n* However, prophylactic anticoagulation as described below is allowed:\r\n** Low dose warfarin (1 mg orally, once daily) with PT-INR =< 1.5 x ULN is permitted; subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n** Low dose aspirin (=< 100 mg daily)\r\n** Prophylactic doses of heparin
+Patients taking warfarin; if anticoagulation is required, the patient must be on a stable dose of a Food and Drug Administration (FDA) approved anticoagulant other than warfarin (e.g. enoxaparin, dalteparin, fondaparinux, apixaban, rivaroxaban) for at least 30 days
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids\r\n* However, prophylactic anticoagulation as described below is allowed:\r\n** Low dose warfarin (1 mg orally, once daily) with PT-INR =< 1.5 x ULN is permitted; infrequent bleeding or elevations in PT-INR have been reported in some subjects taking warfarin while on regorafenib therapy; therefore, subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n** Low dose aspirin (=< 100 mg daily)\r\n** Prophylactic doses of heparin
+Requires therapeutic doses of anticoagulants unless anticoagulation can be safely discontinued before surgery per standard practice (e.g. first deep vein thrombosis [DVT] for which anticoagulation has been at least 3 months and repeat imaging demonstrates resolution of DVT) or an inferior vena cava (IVC) filter can be used in place of anticoagulation; subjects are permitted to resume anticoagulation following surgery per discretion of treating physician and/or site standard operating procedures (SOPs)
+Treatment with warfarin or other vitamin K antagonists (eg, phenprocoumon)
+Patients must not be receiving systemic anticoagulation with warfarin; patients must be off warfarin for 30 days prior to enrollment; patients who require anticoagulation with an agent other than warfarin will not be excluded, but must be reviewed by the principal investigator prior to enrollment
+Concomitant medications\r\n* Investigational Drugs: Patients who are currently receiving another investigational drug are not eligible\r\n* Anti-cancer Agents: Patients who are currently receiving other anti-cancer agents are not eligible\r\n* Anticonvulsants: Patients who are receiving enzyme-inducing anticonvulsants are not eligible\r\n* Anticoagulants: Use of warfarin is not allowed while on study; patients already on warfarin should use alternative anticoagulants while on this study; warfarin must not have been administered within 7 days of enrollment\r\n* Smoking: Patients must not smoke for 10 days prior to enrollment and for the duration of therapy
+Currently using warfarin.
+Subjects who require warfarin, anti-cancer therapeutics or investigational agents
+Requires the use of warfarin (because of potential drug-drug interactions that may potentially increase the exposure of warfarin)
+Use of full dose, therapeutic anti-coagulation with warfarin
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists (eg, phenprocoumon); patients may be eligible if able to be taken off warfarin and started on an alternative anticoagulant
+Patients on therapeutic or prophylactic anticoagulation will be excluded from enrollment on the protocol; however, patients can remain on the study if they develop a thrombosis that requires therapeutic anticoagulation during the course of protocol therapy
+Requires anticoagulation with warfarin or other vitamin K antagonists
+Currently receiving anticoagulation therapy with warfarin;
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists (e.g. phenprocoumon)
+For patients requiring anti-coagulation with vitamin K antagonists, therapeutic level dosing of warfarin can be used with close monitoring of PT/INR by the site. Exposure may be decreased due to enzyme induction when on treatment, thus warfarin dosing may need to be adjusted based upon PT/INR. Consequently, when discontinuing dabrafenib, warfarin exposure may be increased and thus close monitoring via PT/INR and warfarin dose adjustments must be made as clinically appropriate. If clinically indicated, prophylactic low dose warfarin may be given to maintain central catheter patency.
+Subjects receiving anticoagulation therapy
+Patient has a bleeding disorder or a screening platelet count <100×109/L, or requires continuous anticoagulation or bridging anticoagulation during the procedure
+Patients requiring the use of warfarin are excluded
+Systemic anticoagulation with warfarin or other Vitamin K antagonists.
+Concomitant use of warfarin or other vitamin K antagonists
+Participants receiving oral warfarin are not eligible for this study (unless warfarin is discontinued at least 7 days prior to commencement of treatment and for the duration of the study, or oral warfarin is converted to LMWH, where local clinical opinion considers this an acceptable option).
+Concurrent use of warfarin
+Patients receiving therapeutic doses of warfarin
+Concomitant use of warfarin or other vitamin K antagonists
+Current use of warfarin or other vitamin K antagonists
+Concomitant use of warfarin or other Vitamin K antagonists
+Requires the use of warfarin (because of potential drug-drug interactions that may potentially increase the exposure of warfarin)
+Requires concomitant therapeutic anticoagulation (i.e., warfarin) for reasons other than venous catheter patency
+Requires therapeutic anticoagulation with warfarin or other vitamin K antagonists
+Patients on warfarin
+On warfarin therapy or other vitamin K antagonists within 7 days of treatment initiation
+Requires or is currently receiving anticoagulation with warfarin or equivalent vitamin K antagonists (eg, phenprocoumon) within 28 days of first dose of study drug
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists
+Concomitant use of warfarin or other vitamin K antagonists; Note: Subjects receiving antiplatelet agents in conjunction with ibrutinib should be observed closely for any signs of bleeding or bruising, and ibrutinib should be withheld in the event of any bleeding events; supplements such as fish oil and vitamin E preparations should be avoided
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists (eg, phenprocoumon)
+Anticoagulation is permitted but patients may not be on warfarin
+Concurrent use of warfarin
+Patients must not be on therapeutic anti-coagulation; prophylactic anticoagulation (i.e. low dose warfarin) of venous or arterial devices is allowed provided that the requirements for PT, INR, and PTT are met
+Concomitant use of warfarin or other vitamin K antagonists
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists (eg, phenprocoumon)
+Concomitant use of warfarin or other vitamin K antagonists
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists
+Concomitant use of warfarin or other vitamin K antagonists
+They must not require concomitant treatment with warfarin.
+Concomitant treatment with therapeutic anticoagulants such as warfarin
+Requires anticoagulation with warfarin or equivalent vitamin K antagonist
+Concomitant use of warfarin or other vitamin K antagonists
+Anticoagulation with warfarin
+Concomitant use of warfarin or other vitamin K antagonists
+Patients who are currently taking therapeutic doses of warfarin sodium or any other coumadin-derivative anticoagulant
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists (e.g., phenprocoumon)
+Patients receiving anticoagulation therapy are eligible if their INR is stable and within the recommended range for the desired level of anticoagulation
+Patients who are currently taking therapeutic doses of warfarin sodium or any other Coumadin-derivative anticoagulant
+Therapeutic level dosing of warfarin can be used with close monitoring of PT/INR by the site; exposure may be decreased due to enzyme induction when on treatment, thus warfarin dosing may need to be adjusted based upon PT/INR; consequently, when discontinuing dabrafenib, warfarin exposure may be increased and thus close monitoring via PT/INR and warfarin dose adjustments must be made as clinically appropriate; prophylactic low dose warfarin may be given to maintain central catheter patency
+Requirement for anticoagulation with warfarin
+Relapsed/refractory MCL: Requires anticoagulation with warfarin or equivalent vitamin K antagonist
+Newly diagnosed MCL: Requires concomitant anticoagulation with warfarin or equivalent vitamin K antagonist
+Need for ongoing therapeutic anticoagulation
+Patients who require warfarin or other vitamin K antagonists for anticoagulation (other anticoagulants are allowed after consultation with the principal investigator)
+Currently receiving anticoagulation therapy with warfarin;
+Patients who are currently taking therapeutic doses of warfarin sodium or any other coumadin-derivative anticoagulant
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists
+ORAL CAVITY SQUAMOUS CELL CARCINOMA COHORT: Chronic anticoagulation, not including aspirin, but including heparins, warfarin, oral anticoagulation or other platelet function inhibitors
+HPV-ASSOCIATED OROPHARYNX SQUAMOUS CELL CARCINOMA: Chronic anticoagulation, not including aspirin, but including heparins, warfarin, oral anticoagulation or other platelet function inhibitors
+Need for anticoagulation with a vitamin K antagonist (warfarin); other anticoagulants and\r\nantiplatelet agents are allowed
+Patients on therapeutic anticoagulation
+Requires continued use of warfarin for anticoagulation and cannot stop warfarin or be safely switched to another anticoagulant
+Concomitant use of warfarin or other vitamin K antagonists
+Requires concomitant anticoagulation with warfarin or equivalent vitamin K antagonist.
+Patients requiring therapeutic anticoagulation
+Individuals who require therapy with warfarin
+Received anticoagulation therapy with warfarin, or equivalent vitamin K antagonists, within the last 28 days prior to day 1 of ibrutinib; patients with familial coagulopathic diseases (e.g. hemophilia, von Willebrand disease) are also excluded; if applicable, subjects must discontinue fish oil and vitamin E supplements within 7 days prior to initiating ibrutinib therapy
+Receiving warfarin therapy and cannot tolerate drug substitution
+Therapeutic level dosing of warfarin can be used with close monitoring of PT/INR by the site; exposure may be decreased due to enzyme induction when on treatment, thus warfarin dosing may need to be adjusted based upon PT/INR; consequently, when discontinuing dabrafenib, warfarin exposure may be increased and thus close monitoring via PT/INR and warfarin dose adjustments must be made as clinically appropriate; prophylactic low dose warfarin may be given to maintain central catheter patency
+Patients receiving chronic or acute warfarin treatment are not excluded, but should be monitored very closely or considered for switch to other therapies. P1446A-05 is both highly protein bound and a competitive inhibitor of CYP2C9 at higher concentrations and thus may potentiate the action of warfarin in patients
+Concomitant use of warfarin or other vitamin K antagonists within the last 28 days
+Patients receiving warfarin anticoagulation, who cannot be transitioned to other agents such as enoxaparin or dabigatran, and for whom anticoagulants cannot be held for up to 24 hours
+Evidence of coagulopathy or bleeding diathesis; therapeutic anticoagulation for prior thromboembolic events is permitted; patients who are currently taking therapeutic doses of warfarin sodium or any other Coumadin-derivative anticoagulant are ineligible
+Patients must not be on any anticoagulation
+Therapeutic level dosing of warfarin can be used with close monitoring of PT/INR by the site; exposure may be decreased due to enzyme induction when on treatment, thus warfarin dosing may need to be adjusted based upon PT/INR; consequently, when discontinuing dabrafenib, warfarin exposure may be increased and thus close monitoring via PT/INR and warfarin dose adjustments must be made as clinically appropriate; prophylactic low dose warfarin may be given to maintain central catheter patency
+Patients who are currently taking therapeutic doses of warfarin sodium or any other Coumadin-derivative anticoagulant
+Anticoagulation with Lovenox (enoxaparin) is permitted, however, patients on anticoagulation with warfarin are not permitted on this study
+Require therapeutic anticoagulation treatment, especially with Coumadin
+Patients receiving warfarin (Coumadin®)
+Anticoagulation with warfarin
+Current therapeutic anticoagulation with warfarin (or coumarin derivatives)
+Concomitant anticoagulation, at therapeutic doses, with anticoagulants.
+Requires or receiving anticoagulation with warfarin or equivalent vitamin K antagonists within 7 days of first dose of study drug.
+Requires or receiving anticoagulation with warfarin or equivalent vitamin K antagonists within 7 days of first dose of study drug.
+concomitant use of warfarin or other Vitamin K antagonists
+Patients receiving anticoagulation therapy are eligible if their INR is stable and within the recommended range for the desired level of anticoagulation
+Requires anti-coagulation with warfarin or a vitamin K antagonist
+Requirement for chronic anticoagulation with warfarin or with direct oral anticoagulants at the time of screening.
+Concomitant use of anticoagulants including warfarin, other vitamin K antagonists, and enoxaparin
+No use of warfarin or similar vitamin K antagonists
+Concomitant use of warfarin or other vitamin K antagonists
+Chronic anticoagulation, not including aspirin, but including heparins, warfarin, oral anticoagulation or other platelet function inhibitors, that can not, in the documented opinion of the investigator, safely be interrupted from at least 2 days prior to the initiation of the study regimen until after surgical resection of the tumor.
+Treatment by warfarin or equivalent vitamin K antagonists.
+Concomitant use of warfarin or other vitamin K antagonists
+Therapeutic anticoagulation with Vitamin-K antagonists (eg, warfarin) or with heparins and heparinoids. o However, prophylactic anticoagulation as described below is allowed:
+Low dose warfarin (1 mg orally, once daily) with PT-INR ? 1.5 x ULN is permitted. Infrequent bleeding or elevations in PT-INR have been reported in some subjects taking warfarin while on regorafenib therapy. Therefore, subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR, or clinical bleeding episodes.
+Coagulation • INR less than or equal to 1.5 x ULN (or in range INR, usually between 2 and 3, if a patient is on a stable dose of therapeutic warfarin).
+Current treatment with warfarin; for patients not on an anti-platelet agent such as aspirin, other anticoagulation is acceptable so long as the treating physician feels that it is safe to hold it on the day of the biopsy until after the biopsy has been safely completed
+Patients must not be receiving active systemic anticoagulation with heparin or warfarin; patients must be off warfarin therapy for at least 30 days prior to enrollment
+For patients not taking warfarin: INR ?1.5 or PT ?1.5 × ULN; and either PTT or aPTT ?1.5 × ULN. Patients taking warfarin should be on a stable dose that results in a stable INR <3.5.
+Subjects requiring anticoagulation with warfarin or vitamin K antagonists are excluded from the ibrutinib arm; if previously on these drugs and switched, international normalized ratio (INR) must be normal for 7 days prior to enrollment
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) is not allowed if the medication dose and/or international normalized ratio (INR)/partial thromboplastin time (PTT) are not considered stable by the treating physician; if the dose and/or INR/PTT are stable, therapeutic anticoagulation with vitamin-K antagonists is allowed with close monitoring; anticoagulation with heparin or heparinoids is allowed
+Concomitant use of warfarin or other vitamin K antagonists
+Requirement for anticoagulation with warfarin or similar vitamin K antagonists
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists (e.g., phenprocoumon); if patients have been on warfarin or equivalent vitamin K antagonists in the past, they will not be eligible if administered within 30 days of the first dose of study drug
+Patients who require warfarin anticoagulation or who have received warfarin or equivalent vitamin K antagonists =< 7 days prior to treatment day 1; patients may be eligible if able to be taken off warfarin and started on an alternative anticoagulant
+Patients taking warfarin or platelet inhibitors
+Requires treatment with anticoagulation with warfarin or equivalent vitamin K antagonists
+Treatment with warfarin or other vitamin K antagonist; patients with using warfarin who switch to another form of anticoagulation will be eligible
+Current therapeutic anticoagulation with Coumadin (warfarin)
+Requires anticoagulation with warfarin or equivalent vitamin K antagonist
+Patients who require warfarin for anticoagulation (other anticoagulants are allowed)
+Partial thromboplastin time (PTT) =< 60, international normalized ratio (INR) =< 1.5 x institutional ULN unless on warfarin therapy (investigator would need to determine if safe for participant to stop warfarin prior to biopsy and warfarin therapy)
+Requires the use of warfarin, marcumar, or phenprocoumon
+Patients must not be receiving therapeutic anticoagulation
+Patients on warfarin for any reason
+Patients who are currently taking therapeutic doses of warfarin sodium or any other coumadin-derivative anticoagulant
+Concomitant use of warfarin or other Vitamin K antagonists
+Patients for whom prophylactic anticoagulation therapy (eg. 81 or 325 mg aspirin PO daily or warfarin (Coumadin) 1-2 mg/day, or any other coumarin-derivative anticoagulants) is not an option unless due to thrombocytopenia
+Subjects that have received anticoagulation therapy with warfarin or equivalent vitamin K antagonists within the last 28 days are not eligible
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) is not allowed if the medication dose and/or international normalized ratio (INR)/partial thromboplastin time (PTT) are not considered stable by the treating physician; if the dose and/or INR/PTT are stable, therapeutic anticoagulation with vitamin-K antagonists is allowed with close monitoring; anticoagulation with heparin or heparinoids is allowed
+Patients who are currently taking therapeutic doses of warfarin sodium or any other Coumadin-derivative anticoagulant; patients who can be safely changed to enoxaparin or other non-warfarin derived anti-coagulant and who otherwise meet eligibility requirements may be enrolled
+Patients may not have received warfarin or another vitamin K antagonist in the preceding 30 days
+Those who require therapeutic anticoagulation with coumarin-derivative anticoagulants
+Receiving warfarin treatment
+Requires anticoagulation with warfarin or equivalent Vitamin K antagonists
+Patients must not be on phenytoin, warfarin or methadone
+Bleeding diathesis or use of warfarin or other vitamin K antagonist
+Patients requiring any therapeutic anticoagulation are excluded; patients who have received warfarin or other vitamin K antagonists within 28 days or are taking warfarin or other vitamin K antagonists are not eligible
+Warfarin use is provisionally allowed
+Requires or is receiving anticoagulation with warfarin or equivalent vitamin K antagonists (e.g.: phenprocoumon) within 28 days of the first dose of study drug
+Current therapeutic anticoagulation with warfarin (or coumarin derivatives)
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists
+Participants requiring the use of therapeutic doses of warfarin (Coumadin)
+Patients on active therapeutic anticoagulation
+Current treatment with warfarin
+Patients who are currently taking therapeutic doses of warfarin sodium or any other Coumadin-derivative anticoagulant
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids\r\n* However, prophylactic anticoagulation as described below is allowed:\r\n** Low dose warfarin (1 mg orally, once daily) with prothrombin time (PT)-international normalized ratio (INR) =< 1.5 x upper limit of normal (ULN) is permitted; subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n** Prophylactic doses of heparin
+Patient is receiving warfarin (Coumadin)
+Patients that are currently taking any prohibitive medication; patients on therapeutic dose of warfarin
+Receiving warfarin
+Patients with an active bleeding tendency or are receiving any treatment with therapeutic doses of sodium warfarin (Coumadin) or coumadin derivatives; patients will be allowed to enter study on aspirin doses of 81 mg/d
+Patients on vitamin K antagonist warfarin
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists or treatment with strong CYP3A4/5 inhibitors
+Warfarin is not permitted
+Thrombolytics or treatment doses of warfarin within 28 days of initiating treatment; patients who require low dose warfarin for central venous catheter patency are allowed to enter if their dose is < 2 mg per day total AND their international normalized ratio (INR) is =< 1.5
+Patients with an active, bleeding diathesis or on oral anti-vitamin K medication (except low-dose warfarin and aspirin or equivalent, as long as the INR =< 2.0)
+Partial thromboplastin time (PTT) =< 1.5 X institutional ULN unless patients are on therapeutic anticoagulation with warfarin
+EXPANSION COHORT ONLY: Partial thromboplastin time (PTT) =< 1.5 X institutional ULN unless patients are on therapeutic anticoagulation with warfarin
+Concurrent use of warfarin or other vitamin K antagonists
+Patients on chronic anticoagulation such as Aspirin, Plavix, or Coumadin who cannot have anticoagulation held for procedures are not eligible
+Therapeutic anticoagulation with warfarin, heparins, or heparinoids
+Patients requiring anticoagulation with warfarin or equivalent vitamin K antagonists (e.g., phenprocoumon) within 28 days from the start of study drug cannot be treated with ibrutinib but idelalisib would be an option
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists
+Concomitant use of warfarin or other vitamin K antagonists (for patients who are discontinuing warfarin or other vitamin K antagonists, a wash-out period of 5 effective half-lives is required prior to 1st dose of ibrutinib)
+PT/INR <1.5 x ULN and PTT (aPTT) <1.5 x ULN (When treated with warfarin or other vitamin K antagonists, then INR ?3.0).
+Concomitant use of warfarin or other Vitamin K antagonists.
+Concomitant use of warfarin or other vitamin K antagonists
+Received anticoagulation therapy with warfarin or equivalent vitamin K antagonists within the last 28 days
+Anticoagulation with warfarin or equivalent vitamin K antagonists within 28 days prior to starting ibrutinib and throughout the study
+Concurrent use of therapeutic warfarin is allowed. However, anticoagulants that do not have reversal agents available are prohibited.
+Ongoing treatment with therapeutic doses of warfarin (low dose warfarin up to 2 mg orally [PO] daily for thromboembolic prophylaxis is allowed)
+Currently receiving warfarin or other coumadin-derived anticoagulants for treatment, prophylaxis or otherwise.
+Patients who are receiving therapeutic anticoagulation with heparin are allowed to participate provided that no prior evidence of underlying abnormality exists in these parameters; patients on warfarin are eligible provided they are on stable doses of warfarin and there is close monitoring of international normalized ratio (INR)
+Current use of therapeutic anticoagulation therapy
+Use of warfarin, metronidazole or ornidazole for therapeutic use
+Evidence of bleeding diathesis or coagulopathy; patients that are on anticoagulation therapy for deep vein thrombosis (DVT) will be allowed to enroll and continue on the treatment dose of enoxaparin or other anticoagulation such a warfarin
+Patients receiving warfarin anticoagulation, who cannot be transferred to other agents such as enoxaparin or dabigatran, and for whom anticoagulants cannot be held for up to 24 hours will be excluded
+Patients who are currently receiving treatment with warfarin sodium (Coumadin®) or any other coumarin-derivative anti-coagulants
+Patients must not be on any anticoagulation
+Currently receiving treatment with therapeutic doses of warfarin sodium.
+Use of concomitant anticoagulation with warfarin or other vitamin K antagonists is prohibited, as is treatment with these agents in the 7 days prior to signing the ICD. The use of other anticoagulants (eg, heparins) and anti-platelet agents is allowed per investigator's discretion. Arm C only (CC-122 in combination with obinutuzumab):
+Concurrent use of therapeutic warfarin
+Prothrombin time (PT) >1.5 x ULN for subjects not on therapeutic vitamin K antagonists (phenprocoumon, warfarin)
+Any condition requiring warfarin or thrombolytic anticoagulants
+Concurrent use of therapeutic warfarin
+Requires anti-coagulation with warfarin or a vitamin K antagonist.
+PT INR > 1.5 unless the patient is on full-dose warfarin
+Patients receiving therapeutic doses of warfarin
+Institutional normalized ratio (INR) =< 1.5 x ULN (this applies only to patients who are not receiving therapeutic anticoagulation; patients receiving therapeutic anticoagulation should be on a stable dose)
+Received anticoagulation therapy with Coumadin or equivalent vitamin K antagonists within the last 28 days
+Requires the use of warfarin
+Bleeding or thrombotic disorders requiring anticoagulant therapy such as warfarin, or similar agents requiring therapeutic INR monitoring
+No concurrent warfarin or Coumadin-derivatives
+Patients on anticoagulant therapy with unstable dose of warfarin and/or having an out-of- therapeutic range INR (> 3) within the 4 weeks prior to study entry
+Concurrent use of therapeutic warfarin
+Coagulopathies - patients requiring full dose anticoagulation with warfarin are excluded, however, patients stable and on other anticoagulants can be included.
+Concurrent use of warfarin or other vitamin K antagonists
+Concurrent use of therapeutic warfarin
+Able to take anticoagulation, warfarin or equivalent agent, as detailed in the treatment plan
+History of bleeding diathesis, known factor X deficiency (level < 20%), or requirement for therapeutic anticoagulation with warfarin
+Current treatment with warfarin sodium or any other Coumadin-derivative anticoagulant
+Active therapeutic anticoagulation
+Patients for whom prophylactic anticoagulation therapy (eg. 325mg aspirin PO daily or warfarin [Coumadin] 1-2 mg/day, or any other coumarin-derivative anticoagulants) is not an option
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids; NOTE: Prophylactic anticoagulation as described below is allowed:\r\n* Low dose warfarin (1 mg orally, once daily) with prothrombin time PT-INR =< 1.5 x ULN is permitted; subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n* Low dose aspirin (=< 100 mg daily)\r\n* Prophylactic doses of heparin
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids; however, prophylactic anticoagulation as described below is allowed:\r\n* Low dose warfarin (1 mg orally, once daily) with prothrombin time (PT)-international normalized ratio (INR) =< 1.5 x ULN is permitted; infrequent bleeding or elevations in PT-INR have been reported in some subjects taking warfarin while on sorafenib or capecitabine therapy; therefore, subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n* Low dose aspirin (=< 100 mg daily)
+Patients who are currently taking therapeutic doses of warfarin sodium or any other Coumadin-derivative anticoagulant
+PT INR > 1.5 unless the patient is on full-dose warfarin
+Is receiving prophylactic or therapeutic anticoagulation with warfarin or any other oral anticoagulant
+Current use of therapeutic warfarin.
+Therapeutic anticoagulation
+Patients on warfarin or plavix
+Anticoagulation with warfarin or equivalent vitamin K antagonists (e.g., phenprocoumon); Note: use of low molecular weight heparin (or any anticoagulation agent) is allowed provided there is no history of bleeding (minor or major) =< 12 months prior to registration; the treating physician should discuss the case with the study chair
+Treatment with warfarin or other vitamin K antagonists; patients who are on active treatment with warfarin or other vitamin K antagonists for conditions requiring anticoagulation will be switched, when not contraindicated, to a different form of anticoagulation, including low molecular weight heparin (LMWH)s (ex: enoxaparin, dalteparin) or oral anti-Xa drugs (ex: rivaroxaban or apixaban) Patients who switch to these alternative forms of anticoagulation will be eligible
+Patients receiving warfarin anticoagulation, who cannot be transferred to other agents such as enoxaparin or dabigatran, and for whom anticoagulants cannot be held for up to 24 hours will be excluded
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids; however, prophylactic anticoagulation as described below is allowed:\r\n* Low dose warfarin (1 mg orally, once daily) with PT-INR =< 1.5 is permitted; infrequent bleeding or elevations in PT-INR have been reported in some subjects taking warfarin while on regorafenib therapy; therefore, subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes\r\n* Low dose aspirin (=< 100 mg daily)\r\n* Prophylactic doses of heparin
+NOTE: patients currently receiving warfarin must have approval from an oncologist or their designee to participate in this study
+Patient receiving anticoagulation
+International normalized ratio (INR) =< 1.5 ULN unless on warfarin therapy (investigator would need to determine if safe for participant to stop warfarin prior to surgery and warfarin therapy)
+Use of Coumadin (warfarin) or other vitamin-K antagonists for anticoagulation; non-Coumadin anticoagulation is permitted
+Requires anticoagulation with warfarin or equivalent vitamin K antagonists (e.g., phenprocoumon)
+Warfarin: In-range INR (usually between 2 and 3) within 14 days prior to registration
+Current use of warfarin or other anticoagulants
+Use of Warfarin
+Receiving warfarin at registration
+Current use of American ginseng, ramelteon, or warfarin
+Use of anticoagulant agent (warfarin, Coumadin, Jantoven, Marevan, Lawarin, Waran, or Warfant)
+Therapeutic anticoagulation with vitamin-K antagonists (e.g., warfarin) or with heparins and heparinoids; however, prophylactic anticoagulation as described below is allowed: 1. low dose warfarin (1 mg orally, once daily) with prothrombin time [PT]-INR =< 1.5 x ULN is permitted; subjects taking concomitant warfarin should be monitored regularly for changes in PT, PT-INR or clinical bleeding episodes; we will monitor the PT/INR weekly for patients on warfarin and liver function test every 2 weeks (total bilirubin, and AST (serum glutamic oxaloacetic transaminase [SGOT]) and ALT (serum glutamic pyruvic transaminase [SGPT]) if hepatic metastases are present or if patients are on potentially hepatoxic agents such as acetaminophen or statins; 2. low dose aspirin (=< 100 mg daily); and 3. prophylactic doses of heparin
+Documented venous thromboembolism while on therapeutic anticoagulation (“anticoagulation failure”)
+Anticoagulation with warfarin
+Concomitant use of warfarin or other vitamin K antagonists
+Patients who require warfarin or other vitamin K antagonists for anticoagulation (other anticoagulants are allowed after consultation with the principal investigator)
+Are being treated with warfarin anticoagulation therapy
+Currently receiving anticoagulation treatment
+Patients on vitamin K antagonist (i.e., warfarin)
+Patients receiving vitamin K antagonist (warfarin)
+Patients on vitamin K antagonist warfarin
+Any of the following current (=< last 4 weeks) or planned therapies: antineoplastic chemotherapy, androgens, estrogens, progestational agents, other herbal supplements, including soy (herbal teas from a store are allowed), or Warfarin (1 mg of daily warfarin is allowed for central line patency)
+Receiving Warfarin
+Documented venous thromboembolism while on therapeutic anticoagulation (“anticoagulation failure”)
+Use of anticoagulation medications, including but not limited to coumadin, warfarin, plavix
+Women on anticoagulation
+EXCLUSION CRITERIA (PRIOR TO IBRUTINIB ADMINISTRATION): Requirement for anticoagulation with warfarin or other vitamin K antagonists (concomitant use of other anticoagulants is permitted)
+Use of any anticoagulation medications, such as warfarin or Coumadin
+Are on an anticoagulant (warfarin, apixaban, dabigatran, and rivaroxaban) regimen
+Concurrent use of anticoagulants (i.e. Coumadin/warfarin)
+Warfarin is not permitted
+Patients with an active bleeding diathesis or on oral anti-vitamin K medication (except low-dose warfarin used for catheter-related thrombosis prophylaxis)
+Patients who require warfarin or other vitamin K antagonists for anticoagulation (other anticoagulants are allowed)
+Use of antibiotics, antiplatelets (e.g. clopidogrel), or anticoagulants (e.g. warfarin) within the last 3 months
+Active therapeutic anticoagulation
+Patient receiving therapeutic anticoagulation
+Subjects requiring anticoagulation not eligible
+The patient requires therapeutic doses of any anticoagulant, including LMWH. Concomitant use of warfarin, even at prophylactic doses, is prohibited.
+Any condition requiring warfarin or thrombolytic anticoagulants
+Requires anticoagulation with warfarin or other vitamin K antagonists

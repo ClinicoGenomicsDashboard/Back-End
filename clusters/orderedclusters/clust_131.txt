@@ -1,0 +1,6 @@
+Patients must not be receiving any strong CYP3A4 or P-glycoprotein (P-gp) inducers or inhibitors within 7 days prior to enrollment; moderate inducers or inhibitors of CYP3A4 and P-gp should also be avoided during ABI-009 treatment, if possible
+51.0
+Patients must not be taking, nor plan to take while on protocol treatment strong P-glycoprotein (P-gp) inhibitors, P-gp inducers, or breast cancer resistance protein (BCRP) inhibitors
+64.0
+Patients who are currently receiving drugs that are inhibitors or inducers of p-glycoprotein (P-gp) or adenosine triphosphate (ATP)-binding cassette, subfamily G, member 2 (ABCG2 [BCRP]) are not eligible
+49.0

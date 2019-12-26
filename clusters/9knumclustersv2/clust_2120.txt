@@ -1,0 +1,21 @@
+Alkaline phosphatase (ALK Phos) =< . x institutional ULN
+Patients with Gilbert's syndrome are eligible provided the total bilirubin is =<  and the remainder of the liver function tests (ALT, AST, alkaline phosphatase [ALK Phos]) are within the institutional normal range
+Alkaline phosphatase (alk phos) < . X ULN
+Alkaline phosphatase (Alk Phos) greater than . times the upper limit of normal
+Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) and alkaline phosphatase must be within the range allowing for eligibility at cycle  day  of TPF:\r\n* Alkaline (Alk) Phosphate (PHOS) =< upper limit of normal (ULN); AST or ALT =< ULN: Eligible\r\n* ALK PHOS =< ULN; AST or ALT > x but =< .x: Eligible\r\n* ALK PHOS =< ULN; AST or ALT > .x but =< x: Eligible\r\n* ALK PHOS =< ULN; AST or ALT > x ULN: Ineligible\r\n\r\n* ALK PHOS > x but =< .x; AST or ALT >x but =< .x; AST or ALT =< ULN: Eligible\r\n* ALK PHOS > x but =< .x; AST or ALT > x but =< .x: Eligible\r\n* ALK PHOS > x but =< .x; AST or ALT > .x but =< x: Ineligible\r\n* ALK PHOS > x but =< .x; AST or ALT > x ULN: Ineligible\r\n\r\n* ALK PHOS > .x but =< x; AST or ALT =< ULN: Eligible \r\n* ALK PHOS > .x but =< x; AST or ALT > x but =< .x: Ineligible\r\n* ALK PHOS > .x but =< x; AST or ALT > .x but =< x: Ineligible\r\n* ALK PHOS > .x but =< x; AST or ALT > x ULN: Ineligible\r\n\r\n* ALK PHOS >  ULN; AST or ALT =< ULN: Ineligible\r\n* ALK PHOS >  ULN; AST or ALT > x but =< .x: Ineligible\r\n* ALK PHOS >  ULN; AST or ALT > .x but =< x: Ineligible\r\n* ALK PHOS >  ULN; AST or ALT > x ULN: Ineligible
+Alkaline phosphatase (Alk phos) =<  X ULN
+ADDITIONAL CRITERIA FOR STUDY CONTINUATION: Alkaline phosphatase (alk phos) =<  X upper level of normal
+Alkaline phosphatase (alk phos) < . x ULN
+Alkaline (Alk) phosphatase (Phos) =<  x upper limit of normal
+Alkaline phosphatase (ALK Phos) =< . X institutional upper limit of normal
+Alkaline phosphatase (ALK Phos) < . x ULN
+Aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase (ALK PHOS) must be within the range of eligibility as noted below:\r\n* AST or ALT =<  x ULN and ALK PHOS =< ULN\r\n* AST or ALT =< . x ULN and ALK PHOS =< . x ULN\r\n* AST or ALT =< ULN and ALK PHOS =<  x ULN
+Alkaline phosphatase (Alk Phos) =< . x ULN
+Patient has poor liver function (> . times normal of alkaline phosphatase [Alk phos]) suggestive of cirrhosis or steatohepatitis
+Aspartate aminotransferase (AST), alanine aminotransferase (ALT), gamma-glutamyl transpeptidase (GGT), creatine phosphokinase (CPK), lactate dehydrogenase (LDH), alkaline phosphatase (Alk phos) =< . X the ULN
+Alkaline phosphatase (Alk phos) =< . x ULN
+Aspartate aminotransferase (AST), alanine aminotransferase (ALT) and alkaline phosphatase (ALK PHOS) must be within the range allowing for eligibility:\r\n* ALK PHOS =< ULN AND AST or ALT =< . X ULN\r\n* ALK PHOS >  X ULN but =< . ULN AND AST or ALT =< . X ULN\r\n* ALK PHOS > . X ULN but =<  X ULN AND AST or ALT =< ULN
+Alkaline phosphatase (ALK phos) within  x ULN
+Alkaline phosphatase (ALK phos) less than . times below or above the upper or lower limit range
+Alkaline phosphatase (ALK phos) less than . times below or above the upper or lower limit range
+Alkaline phosphatase (Alk phos) =< . X institutional upper limit of normal

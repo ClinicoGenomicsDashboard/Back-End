@@ -1,0 +1,192 @@
+Patients must have at least one lesion that has not previously been irradiated (and is not within a previously radiated field) and for which palliative radiation is potentially indicated and could be safely delivered at the radiation doses specified in this protocol; this lesion must not be the only measurable lesion so that it is still possible to determine the response rate outside of the radiation treatment field; this lesion must not be within the central nervous system (CNS) (brain or spinal cord) or requiring urgent or emergent palliative radiation given the timing of radiation specified on this protocol; furthermore, this lesion: \r\n* For cohort  (NSCLC cohort)  the lesion to be irradiated must be in the lung, lymph nodes, adrenal gland or liver \r\n* For cohort  (colorectal cohort)  the lesion to be irradiated must be in the liver
+Subjects must have measurable disease preoperatively, defined as at least  contrast-enhancing lesion, with  perpendicular measurements of at least  cm, as per RANO criteria
+Must have at least  lesion with measurable disease
+At least  measurable lesion for solid tumor
+Tumor lesion accessible for biopsy after the start of treatment. (Note: this lesion should be separate from measurable lesions that will be used for response assessment.)
+The patient must have multiple sites of metastatic disease with at least one lesion amenable to treatment with stereotactic radiation therapy (SBRT) in the lung or liver and at least one lesion not being irradiated and meeting RECIST ..
+COHORT A: Measurable CNS disease (one intracranial lesion >=  mm)
+COHORT B: Measurable CNS disease (one intracranial lesion >=  mm)
+COHORT D: Measurable CNS disease (one intracranial lesion >=  mm) from any solid tumor
+Patient has received chemotherapy or radiotherapy within  weeks prior to day  of study; prior palliative radiotherapy to metastatic lesion(s) is permitted, provided there is at least one measurable lesion that has not been radiated
+Measurable disease in the brain, defined as at least  lesion measuring >=  mm on imaging at the time of registration
+Patients who underwent neurosurgery (NSGY), whole brain radiation therapy (WBRT), or stereotactic radiosurgery (SRS) to a brain lesion must have a new measurable lesion; previously surgically excised lesion/tumor bed, may be used as a measurable lesion if disease has progressed since surgery (NOTE: SRS may be done to a lesion that will not be used for response evaluation and should be done >  weeks prior to registration; any WBRT must have occurred >  days ago; any NSGY procedure must have been completed >  weeks prior to registration and baseline imaging)
+Primary breast tumor size at least  centimeter (cm) in one dimension by clinical or radiographic exam; patients who have multicentric breast cancer are eligible if each lesion is ER-negative and HER-negative; in that case, one lesion needs to be identified as the index lesion to be followed for clinical response; the index lesion must also be the lesion from which core biopsies are obtained
+At least one measurable lesion.
+Lesion must be sonographically visible at the time of treatment.
+Examples of patients ineligible for trial\r\n* TNM NSCLC with  CNS lesion,  bone lesion,  adrenal lesion and a cervical lymph node ( sites of metastatic disease)\r\n* TNM Gastric cancer with  liver lesions (more than  sites of metastatic disease)
+At least  measurable lesion that can be reproducibly measured in  dimensions
+Lesion amenable to treatment with both PLA and HIGRT; for PLA treatment this requires the lesion be visible via ultrasound and/or non-contrast CT or feasible per treating physician
+Participant must have at least one biopsiable lesion in the Phase  portion. In the Phase  part of the trial, participants must have either (a) at least one measurable lesion as per Response Evaluation Criteria in Solid Tumors (RECIST) . or (b) at least one predominantly lytic bone lesion.
+Local radiation therapy (RT) is allowed as needed to manage symptoms appropriately, as long as there remains a measurable lesion in the CNS
+Whole-brain RT may be used, without a pre-defined washout period, prior to commencement of study therapy if the lesion that has been radiated is not the sole measurable lesion, or the patient is eligible based on positive CSF cytology
+Participants must have at least one RECIST v. measurable non-central nervous system (CNS) based lesions; palliative radiation must be indicated for at least one measurable or non-measurable lesions (including bone lesion), and this lesion must be a candidate for radiation to a dose of  Gy of radiation over  fractions as deemed by a treating radiation oncologist; one measurable lesion must be in a location where it will not be incorporated into the radiation fields so systemic response can be assessed; however, inclusion of patients with more than  measurable lesions is strongly discouraged and all patients must have life expectancy >  months
+Has ? injectable lesion which is measurable and amenable to injection and biopsy.
+At least one bidimensionally measurable lesion
+At least one measurable lesion at baseline
+At least one extracranial measurable lesion as defined by RECIST .. A previously irradiated site lesion may only be counted as a target lesion if there is clear sign of progression since the irradiation.
+Patients with isolated tumorous CNS-LCH (including isolated DI with mass lesion in the hypothalamus-pituitary axis). In patients with already established diagnosis of LCH and radiologic finding of CNS lesions compatible with LCH, a biopsy of the lesion is not obligatory. In all other cases a biopsy of the lesion is needed for inclusion into the study
+Stratum VI -- Patients with newly diagnosed SS-LCH and localization other than \multifocal bone\,isolated tumorous CNS lesion, or isolated \CNS-risk\ lesion.
+Measurable metastatic gastrointestinal epithelial cancer with at least one lesion that is resectable for TIL generation, plus one other lesion that can be measured.
+One previously unirradiated lesion amenable to  Gy x  radiotherapy based on dosimetric organ tolerance AND another unirradiated measurable lesion (per irRECIST) outside of the radiation field.
+NHL only- at least one measurable lesion
+Have at least  resectable lesion to generate TIL
+Previous radiation therapy to lesion to be resected
+Patients with pathologically confirmed MF with cutaneous involvement.\r\n* Patients must have clinically measurable disease of at least  lesion on physical (skin) exam.\r\n* If a patient has a prior pathological diagnosis of MF and is clinically diagnosed with a new lesion, the new lesion is eligible for enrollment without additionally biopsy confirmation.
+Patient has at least one () measurable papillary LG tumor, evaluated visually, ?  mm. The largest lesion should not exceed mm.
+Must have at least  lesion with measurable disease
+At least one cutaneous lesion that is amenable to treatment with topical imiquimod
+Must have at least one intrahepatic lesion amenable to SBRT
+Patients may have received any previous therapy, including surgical excision, but must have histologically documented recurrence on new biopsy and a measurable lesion that meets the above criteria
+at least  measurable lesion on imaging.
+Presence of inoperable tumor lesion/s from histologically confirmed solid tumors or lymphomas, in patients with at least one lesion ?  cm and suitable for intra-lesional injection, who have disease progression after treatment with available therapies, or who are intolerant to such treatments
+Surgery, radiotherapy, or lesion ablative procedure to the only area of measurable/evaluable disease
+One previously unirradiated lesion amenable to radiotherapy  Gy x  and can meet dose constraints, and another unirradiated measurable lesion >=  cm in size outside the radiation field that can be used as measurable disease
+Patient has received chemotherapy or radiotherapy within  weeks prior to day  of study; prior palliative radiotherapy to metastatic lesion(s) is permitted, provided there is at least one measurable lesion that has not been radiated
+More than one primary lesion
+Histologically confirmed diagnosis of initial or recurrent anal or vulvar high-grade squamous intraepithelial lesion diagnosed on or after //; study pathologist will use p staining as needed to rule out low-grade squamous intraepithelial lesion (LSIL) disease
+Must have at least  lesion with measurable disease
+Measurable disease requirements on scans: PCNSL subjects should have at least one measurable extranodal brain lesion; PTL subjects should have at least  measurable extranodal lesion or nodal lesion
+At least  measurable lesion
+Presence of cavitation of central pulmonary lesion
+Subjects must have a CTA scan confirming the PE diagnosis and with at least one measurable index lesion in a segmental or larger pulmonary artery prior to randomization;
+Plan on having surgical treatment to remove the lesion
+Radiological assessment within  days prior to study entry demonstrating measurable disease that includes at least one pulmonary lesion >=  cm in greatest dimension that would be amenable to SBRT and at least one measurable lesion that would be outside of the SBRT treatment fields
+Biopsy proven metastatic melanoma or non-squamous NSCLC with at least one untreated cerebral metastasis that is at least  mm AND twice the magnetic resonance imaging (MRI) slice thickness, but less than  mm, that is asymptomatic and does not require local therapy at the time of enrollment (clinically evaluable lesion[s]); an untreated brain metastasis is defined as a lesion not present at the time of whole brain radiation therapy or included in a stereotactic radiotherapy field (or within  mm of a treated lesion), or any lesion that is new or unequivocally progressing since prior radiation therapy
+All patients should have either five measurable cutaneous KS lesions with no previous local radiation, surgical or intralesional cytotoxic therapy that would prevent response assessment for that lesion; or other assessable disease
+At least five measurable cutaneous KS lesions with no previous local radiation, surgical or intralesional cytotoxic therapy that would prevent response assessment for that lesion; or other assessable disease
+Measurable metastatic melanoma with at least one lesion that is resectable for TIL generation
+At least one tumor must qualify to be an index lesion for modified WHO criteria.
+At least  measurable lesion
+At least  lesion with measurable disease at baseline
+Must have at least  liver lesion amenable to SBRT with tumor size <  cm (single lesion or sum); up to  lesions will be irradiated
+At least one additional non-contiguous lesion to the irradiated lesion amenable to radiographic evaluation
+Patients who have metastatic cancer must have at least one lesion that is outside the radiation field that measures greater than one cm that can be followed by Response Evaluation Criteria in Solid Tumors (RECIST) .; this lesion, if it is close to the radiated lesion, must receive no more than % of the dose prescribed to the target lesion
+Any history of systemic anti-cancer therapy (standard or experimental) completed within  days prior to dosing, with the exception of palliative ablation of lesion(s) as long as measurable disease lesion(s) remain for evaluation of exploratory endpoints
+Prior ablative or surgical treatment of the lesion
+Focal lesion visualized in its entirety colposcopically and involving =<  quadrants of the cervix
+At least  measurable lesion
+RAI-refractory disease on structural imaging, defined as any one of the following:\r\n* A metastatic lesion that is not radioiodine-avid on a diagnostic radioiodine scan performed prior to enrollment in the current study, or\r\n* A radioiodine-avid metastatic lesion which remained stable in size or progressed despite radioiodine treatment  months or more prior to entry in the study; there are no size limitations for the index lesion used to satisfy this entry criterion\r\n* The presence of at least one fluorodeoxyglucose (FDG) avid lesion
+More than  lesion identified during baseline.
+Biopsy proven metastatic melanoma or NSCLC as follows:\r\n* Patients with metastatic melanoma must have untreated brain metastases including:\r\n** At least one cerebral metastasis that requires local intervention and is amenable to craniotomy or LITT either due to symptoms, lesion size, location, edema or hemorrhage (surgical lesion); alternatively, a patient may be eligible if a cerebral metastasis was resected or biopsied any time prior to enrollment and there is tumor tissue available for analysis\r\n** At least one cerebral metastasis that is at least  mm AND twice the magnetic resonance imaging (MRI) slice thickness, but less than  mm, that is asymptomatic and does not require local therapy at the time of enrollment (clinically evaluable lesion[s])\r\n* Patients with stage IV NSCLC with at least one cerebral metastasis that is at least  mm AND twice the MRI slice thickness, but less than  mm, that is asymptomatic and does not require local therapy at the time of enrollment (clinically evaluable lesion[s])
+Active herpes lesion
+Ultrasound visible lesion(s)
+Diffusely multifocal lesion
+At least five measurable KS lesions with no previous local radiation, surgical or intralesional cytotoxic therapy that would prevent response assessment for that lesion
+Patients must have at least one measurable CNS lesion that is asymptomatic, untreated, and does not require local therapy at the time of enrollment; measurable CNS disease is defined as a brain metastasis that can be accurately measured in at least one dimension (longest diameter to be recorded) as >=  mm (>= . cm) with brain magnetic resonance imaging (MRI); if the lesion is - mm in size and is the only measurable disease, MRI imaging must be performed with . mm slice thickness or less; a history of previously treated brain metastases is allowed, however any lesion present at the time of whole brain radiotherapy or included in the stereotactic radiotherapy field (or within  mm of the treated lesion) will NOT be considered untreated unless it is new or documented to have progressed unequivocally since treatment
+Patients must have measureable disease which is defined as at least one measurable lesion that can be accurately measured in  planes; diffuse leptomeningeal involvement (\sugar coating\) that does not allow measurement of at least one lesion in  planes will not be considered measurable disease
+INCLUSION FOR INTRAMURAL INJECTION: \r\n* Subject must have lesion(s) amenable to HSV administration by needle if superficial; by needle and/or catheter if deep or pulmonary, via interventional radiology without undue risk\r\n* Lesion(s) must meet size criteria\r\n* In the first two dose levels, subjects must have localized disease that meets size criteria; localized is defined as a single lesion; however, more than one lesion may be acceptable if they are contiguous\r\n* In the third dose level, subjects must have one to three lesions meeting size criteria\r\n* The arm (route of administration) will be chosen by the investigator and patient/parent based on multiple considerations and subject to approval by the principal investigator
+Patients must have localized spinal metastasis; this includes patients with a solitary lesion, a lesion that spans two contiguous levels, a lesion with a para-spinal component, and up to three separate single vertebral levels
+Have at least  measurable lesion of ? . cm. Confidential and Proprietary  ALT- and Pembrolizumab for NSCLC Altor BioScience Clinical Trial Protocol: QUILT-.
+Subject has measurable disease according to RECIST . within  days prior to the first dose of study treatment. For subjects with only  measurable lesion and prior radiotherapy, the lesion must be outside the field of prior radiotherapy or must have documented progression following radiation therapy.
+Patients with just one measurable or evaluable tumour lesion that has been resected or irradiated prior to their enrolment in the study
+Subjects must have at least one measurable lesion
+Excluding the lesion intended to undergo radiation, subjects must have at least  unresectable, non-bony lesion that is measurable radio-graphically (based on RECIST .).
+Prior radiation treatment to the index lesion to be treated
+Absence of a biopsiable lesion as determined by radiologist
+Must have at least  lesion with measurable disease
+a second (distal) lesion must be accessible for baseline and on-treatment biopsy and must be distinct from the injected lesion.
+Patients must have measurable disease as per appropriate guidelines:\r\n* Solid tumors: by RECIST v.\r\n* Lymphoma: patient has at least one measurable nodal lesion (>=  cm) according to Lugano classification; if the patient has no measurable nodal lesions >=  cm in the long axis at screening, then the patient must have at least one measurable extra-nodal lesion
+The presence of radiographically measurable disease immediately prior to start of Phase I immunotherapy is not an eligibility requirement in the following situations:\r\n* In patients with NB who have documented bone marrow (BM) involvement;\r\n* In patients with NB who have MIBG-positive bony lesion(s);\r\n* In patients with OST who had to undergo resection of the pulmonary lesion(s)
+Major surgery <  weeks or radiation therapy <  weeks of study entry; prior palliative radiotherapy to metastatic lesion(s) is permitted, provided there is at least one measurable lesion that has not been irradiated
+For cohort  only, patients must be able to safely undergo pre and post-treatment biopsy, i.e., at least one readily accessible lesion or palpable lymph node metastasis arising from any solid tumor cancer or lymphoma\r\n* NOTE: this may include cutaneous and subcutaneous tumors using injection by palpation or ultrasound guidance\r\n* NOTE: the target lesion must be >= . cm on its longest diameter, be at least  mm thick, and have distinct borders\r\n* NOTE: deep seated lesion(s) that are deemed hazardous to inject or lesion(s) close to vital structures that might be impinged with tumor swelling are excluded as targeted tumor\r\n* NOTE: cohort  should be selected for patients with injectable cutaneous lesion(s), unless the patient elects not to receive IT injection and/or undergo pre and post-treatment biopsies
+At least one lesion in the brain that is measurable, which is defined as >=  x  mm; (prior craniotomy and surgical resection is allowed, as long as there is at least one remaining measurable lesion in the brain)
+Previous radiotherapy to the lesion(s) of interest, including prior treatment with whole-brain radiation therapy (WBRT); (prior treatment with SRS is allowed if the index lesion[s] is in a different, non-contiguous location than the previously treated lesion)
+More than one primary lesion
+Patients must have at least one . cm bidimensional measurable lesion
+Measurable disease at least one lesion ? . cm for NHL and ALC > , for CLL
+Subjects must have at least one lesion amenable to biospy
+If patients have had a potential index lesion radiated, it must have progressed post radiation therapy to be used as a measurable eligibility lesion
+At least one radiographically measurable lesion
+Targeted prostate biopsy within  months prior to dosing, with a clinically significant lesion correlating with an mpMRI visible lesion.
+Must have at least  lesion with measurable disease
+At least one prior treatment to a central nervous system (CNS)-based lesion is required; prior therapy must be completed >  weeks prior to enrollment; a previously treated lesion must be demonstrated by MRI to have progressed following treatment in order to be eligible; the subsequent development of a new CNS lesion that was not previously treated will be permitted and does not require treatment followed by progression prior to enrollment; treatment of a single CNS lesion with local therapy in the context of multifocal disease is permitted as long as at least one untreated lesions meets criteria for measurable disease; patients should have received minimum of one line of systemic therapy
+At least one measurable lesion
+Patient has at least one measurable lesion (>=  cm) according to Cheson criteria
+For patients with neither LM nor measurable BM: At least one measurable extracranial lesion. For patients with measurable BM but without LM: at least one measurable intracranial lesion
+Hepatic lesion
+The lesion is suitable for repeat measurement
+Patient must have appearance of at least one new bone lesion
+Patient has at least one measurable lesion (>=  cm) according to Lugano classification
+Absence of lytic bone lesion
+Subjects must have at least  measurable or evaluable tumor lesion according to RECIST . (for nonsquamous NSCLC) or mRECIST (for epithelial pleural mesothelioma). Subjects with resected primary tumors who have documented metastases are eligible.
+Radiation therapy within  weeks of starting the study treatment; prior palliative radiotherapy to metastatic lesion(s) is permitted, provided there is at least one measurable lesion that has not been irradiated
+Visible uptake in at least one lesion on bone scanning prior to radium therapy
+At least  measurable lesion at baseline;
+In addition to index lesion, there are >=  measurable lesion(s)
+Subjects must have at least  lesion
+At least  measurable lesion at baseline
+RAI-refractory disease on structural imaging, defined as any one of the following: \r\n* A metastatic lesion that is not radioiodine-avid on a diagnostic radioiodine scan performed up to  years prior to enrollment in the current study, or \r\n* A radioiodine-avid metastatic lesion which remained stable in size or progressed despite radioiodine treatment  months or more prior to entry in the study; there are no size limitations for the index lesion used to satisfy this entry criterion\r\n* The presence of at least one fluorodeoxyglucose (FDG) avid lesion with a maximum standardized uptake value (SUVmax) >= 
+a.For Escalation Phase: At least one lesion (measurable and/or non-measurable) b.For Expansion Phase: At least one measurable lesion.
+At least one measurable untreated lesion
+Evidence of at least one measurable lesion as detected by radiological or photographic methods
+Patients must have measurable disease in the brain, defined as at least  lesion measuring >=  mm on imaging
+Patients who underwent radiosurgery to treat a progressive lesion must have confirmation of tumor by tissue, magnetic resonance spectroscopy (MRS), magnetic resonance (MR) perfusion or positron emission tomography (PET) and the lesion must be measurable; NOTE: radiosurgery may be done to a lesion that will not be used for response evaluation and should be done >  weeks prior to enrollment
+Patient has at least one measurable lesion as defined by RECIST .. A previously irradiated site lesion may only be counted as a target lesion if there is clear sign of progression since the irradiation
+Evidence of at least one measurable lesion as detected by radiological or photographic methods
+Subjects must have at least  measurable lesion.
+At least one . cm bidimensional measurable lesion or bone marrow positivity of TCL.
+Certain type(s) of non-measurable lesion(s), if the only one(s).
+Patient has at least one measurable nodal lesion (>= . cm)
+Both naive and previous systemically treated patients are included \r\n* Prior chemotherapy or immunotherapy is permitted\r\n* Prior investigational agents are permitted, however, no prior treatment with targeted therapies directed to c-KIT/PDGFR allowed (e.g., imatinib or sunitinib)\r\n* Limb perfusion allowed\r\n* If radiation has been administered to a lesion, there must be radiographic evidence of progression of that lesion in order for that lesion to constitute measurable disease or to be included in the measured target lesions
+Patients are only eligible if complete tumor resection is not feasible, or if a patient with a surgical option refuses surgery; patients must have measurable residual tumor present; for the purpose of this study a measurable lesion will be defined as a lesion of at least  cm measured in one dimension; evidence of recurrent or progressive disease is NOT necessary; patients must be at least  days from surgery, if performed, prior to receiving their first dose of study drug
+At least one measurable lesion
+All patients must have at least one lesion deemed safe to biopsy and be willing to undergo mandatory baseline biopsy; it is preferred that this lesion be a lesion that progressed or arose while on the prior PARP therapy
+Extra-osseous extension of metastatic lesion is >mm,
+Measurable disease defined by at least  lesion >=  cm
+Previous local therapy of any KS-indicator lesion unless the lesion has clearly progressed since treatment; any prior local treatment to indicator lesions regardless of the elapsed time is not allowed unless there is evidence of clear-cut progression of said lesion
+Measurable metastatic melanoma with at least one lesion that is resectable for TIL generation; the lesion must be at least  cm in diameter that can be surgically removed with minimal morbidity (defined as any operation for which expected hospitalization =<  days)
+Confirmed and measurable metastatic melanoma with at least one measurable lesion for evaluation of response
+Has at least one confirmed measurable metastatic lesion
+Previous local therapy of any KS-indicator lesion unless the lesion has clearly progressed since that local treatment; any prior local treatment to indicator lesions regardless of the elapsed time should not be allowed unless there is evidence of clear-cut progression of said lesion
+At least one bidimensionally measurable lesion
+At least one measurable lesion per revised IWG Response Criteria
+Prior palliative radiation to metastatic lesion(s) is permitted, provided there is at least one measurable and/or evaluable lesion(s) that has not been irradiated
+Lytic lesion requiring an impending orthopedic intervention
+Subjects must have at least  measurable lesion.
+Lytic lesion requiring an impending orthopedic intervention
+At least one radiologically-confirmed and measurable metastatic brain lesion ( ? . cm)
+Documented presence of at least one metastatic lesion of the humerus.
+Patients must have at least one lesion suitable for perfusion CT; the lesion should be greater than or equal to  cm in size in the cranial caudal direction
+Lytic lesion requiring an impending orthopedic intervention
+Surgery, radiotherapy, or lesion ablative procedure to the only area of measurable/evaluable disease
+Patients must have at least one injectable lesion, defined as an easily palpable superficial lesion (cutaneous, subcutaneous or lymph nodal metastasis) that can be accurately localized, stabilized by palpation, and is superficial enough to enable IT injection.
+Lytic lesion requiring an impending orthopedic intervention
+Patient has at least one measurable and/or non-measurable lesion as per RANO criteria
+At least  osteolytic bone lesion
+Patient has at least one measurable nodal lesion (? cm) according to Cheson criteria (Cheson ). In case where the patient has no measurable nodal lesions ?  cm in the long axis at baseline, then the patient must have at least one measurable extra-nodal lesion.
+At least  lesion with measurable disease at baseline
+At least one evaluable lesion.
+Patients must have measurable disease; must have at least one non-nodal lesion
+Measurable metastatic melanoma with at least one lesion that is resectable for TIL generation, plus one other lesion that can be measured
+Clinical eligibility supported by central imaging real-time review\r\n* The presence of at least the following conventional magnetic resonance (MR) image characteristic:\r\n** Conventional MR\r\n*** Lesion quotient of < ., where lesion quotient is defined as the proportional value of the maximum axial cross-sectional area of the transverse relaxation time (T)-weighted defined lesion over the maximum axial cross-sectional area of the contrast-enhancing lesion on the longitudinal relaxation time (T)-weighted post-gadolinium sequence on a comparable axial slice
+Diagnosed with DCIS, LCIS, ADH, or ALH (the most recent, highest risk lesion is the index lesion) between January ,  and September , 
+Patient whose targeted (treated) lesion is on bone and the interface between the bone and lesion is deeper than -mm from the skin.
+Patient whose bone-lesion interface is < -mm from the skin
+Have lesion or metastasis of bone
+Groups ,  and : At least  measurable lesion defined by mRECIST . for patients with GIST.
+? measurable lesion per Response Evaluation Criteria In Solid Tumors (RECIST) Version . that has not been previously treated with locoregional therapy. A participant with a lesion(s) that has previously been treated with locoregional therapy is also eligible, if the lesion has documented progression after locoregional treatment and is measureable.
+Radiologic evidence of at least  measurable lytic lesion in the arm, pelvis or leg
+Measurable disease  minimum lesion size of  x  mm before initial biopsy
+A BIRADS  lesion
+No chemotherapy for at least  weeks and no radiation to the index lesion or clear progression in that lesion (greater than % increase in longest diameter)
+Has undergone an invasive procedure on kidney lesion (e.g. tissue biopsy, surgery, nonsurgical cytoreductive procedure) since identification of lesion via US without contrast
+Patient must have at least one measurable lesion according to Response Evaluation Criteria in Solid Tumors (RECIST) . by radiological evaluation (ultrasound, mammography, magnetic resonance imaging [MRI], computed tomography [CT], PET) or physical examination\r\n* Patients with evaluable osseous metastasis that are lytic or mixed lytic-sclerotic are eligible\r\n* Patients with hepatic lesions may be eligible provided the location of the lesion is peripheral or not too close to hepatic duct; decision on hepatic lesion eligibility will be made by the principal investigator or sub-investigator after careful review of all available imaging to ensure evaluation of the lesion will not be obscured by normal hepatobiliary excretion of F-FFNP
+Patients with a lesion <  mm
+Patient has at least  focal lesion in liver
+New or increased enhancing brain lesion(s) OR nonenhancing brain lesion(s) if receiving anti-angiogenic therapy, which is considered indeterminate for tumor progression versus (vs) radiation injury by the neuroradiologist or clinician
+Subjects with premalignant lesion, or potentially premalignant lesion, of the oral cavity mucosa (leukoplakia or erythroplakia)
+Subject has oral lesion
+Subjects with at least  lesion of tumor of the breast
+Patients with a solid lung lesion .-cm identified on chest computed tomography (CT) (obtained within previous  months) with the intention to undergo bronchoscopic evaluation; if the lesion is partially solid (i.e. there is a ground glass component) then the solid portion must make up > % of the lesion and measure at .-cm; the decision to pursue biopsy will be made by the treating physician and agreed upon by the patient; this will include patients determined to have an intermediate risk of malignancy (-%) and those non-surgical candidate with higher risk lesions in need of diagnosis for alternative treatment; OR
+Patients with a solid lung lesion .-cm identified on chest CT (obtained within previous  months) that are surgical candidates with a high probability of cancer (> %) will be referred for surgical evaluation; if the lesion is partially solid (i.e. there is a ground glass component) then the solid portion must make up > % of the lesion and measure at .-cm; if the patient refuses surgery or if the surgeon requests a definitive diagnosis prior to surgery the patient will have the option to be included in this study; all sites will use the same online calculator to document probability of malignancy
+Patients currently receiving trastuzumab therapy with or without other types of systemic therapy can participate if their disease progresses (development of new lesion[s] or worsening of known lesion(s) based on imaging modalities or physical examination
+Subject presenting, at the time of inclusion, with known or highly suspected focal areas of disrupted BBB (e.g., primary and secondary tumors, focal inflammatory or demyelinating disorders) including at least one expected enhancing lesion of minimum  mm (long axis). This lesion must have been detected on a previous imaging procedure (computerized Tomography (CT) or MRI).
+Have a lesion or biopsy marker that is visible under ultrasound
+Hepatic lesion: The lesion can be accurately measured in at least one dimension as ?. cm
+The lesion is suitable for repeat measurement
+Nonhepatic lesion
+The presence of liver lesion(s) (as defined in a.) with AFP ?  ng/mL.
+At least one measurable lesion per revised IWG Response Criteria
+At least one lesion with measurable disease at baseline
+Measurable disease as per modified RECIST .  A lesion in an area that was previously treated with local therapy (e.g. radiation, surgery, or cryotherapy) can be considered measurable disease as long as there is objective evidence of progression of the lesion prior to randomization
+At least one measurable lesion

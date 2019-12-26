@@ -1,0 +1,154 @@
+Histological evidence of World Health Organization (WHO) grade III anaplastic glioma or WHO grade II low grade glioma with locally diagnosed combined 1p/19q loss and the presence of an either IDH1 or IDH2, both as established by a local or referenced laboratory qualified for the study* Note: mixed gliomas are eligible, regardless of the degree of astrocytic or oligodendrocytic predominance, as long as the tumor is also co-deleted for 1p and 19q
+360.0
+Patients must have a creatinine and AST =< grade 1
+747.0
+Patients must have recovered from the effects of induction, re-induction, or consolidation chemotherapy (all toxicities =< grade I with the exception of reversible electrolyte abnormalities), and have no ongoing active infection requiring treatment
+747.0
+AST =< grade 1
+747.0
+Must have received bilateral radiation therapy, and subsequently developed grade 2 or 3 xerostomia, according to modified Radiation Therapy Oncology Group (RTOG) scale:* Grade 0 � None* Grade 1 � Slight dryness of mouth (good response on stimulation and no significant dietary alterations necessary)* Grade 2 � Moderate dryness of mouth (poor response on stimulation and altered oral intake required such as frequent water, oral lubricants, or soft-moist foods)* Grade 3 � Complete dryness of mouth (no response on stimulation and difficult oral alimentation; intravenous (IV) fluids, pureed diet or tube feedings may be required)* Grade 4 � Fibrosis
+240.0
+Grade 2 or greater rash of any cause at time of study entry
+143.0
+Grade 2 or greater diarrhea of any cause at time of study entry
+143.0
+=< grade 2 hematuria (criteria applicable only for dose levels that include isotretinoin) and =< grade 2 proteinuria
+62.0
+Skin toxicity =< grade 1
+62.0
+Patients must not have >= grade 2 diarrhea
+74.0
+Patients with prior history of or active severe (grade 3 or 4) acute graft-versus-host disease (GVHD)
+113.0
+Patients who have had chemotherapy, targeted therapy, or radiotherapy, and have not recovered from acute toxicity to their pretreatment baseline or to a grade 1 level within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study * Note: patients with chronic residual prior therapy-related toxicity (e.g. vitiligo, alopecia, low grade neuropathy), or in the consensus opinion of the Cancer Immunotherapy Trials Network (CITN)/Cancer Therapy Evaluation Program (CTEP) investigators would not impact the safety of the patient or the integrity of the study, are not excluded* Note: for resolution of autoimmune toxicity from prior immune therapy, patients must be off steroids for at least 30 days without relapse of autoimmune toxicity, or it must be at least 30 days from their last dose of infliximab or related immunosuppressive therapy without relapse of autoimmune toxicity
+12.0
+All adverse events (excluding alopecia, acne, rash) due to agents administered more than 2 weeks earlier should recover to =< grade 1; patients with hematologic malignancies are expected to have hematologic abnormalities at study entry; these abnormalities which are thought to be primarily related to the underlying leukemia, are not considered to be toxicities (adverse events [AE]) and do not need to resolve to =< grade 1
+63.0
+>= 21 days must have elapsed from infusion of lase dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1
+154.0
+Confirmation by central pathology review of WHO grade IV glioblastoma or gliosarcoma
+440.0
+Patients must have completed any prior chemotherapy, radiotherapy or major surgery at least 4 weeks before receiving study treatment; ongoing toxicities related to treatment must be =< grade 1 and patients with grade 2 alopecia or peripheral neuropathy can also be included; palliative radiation to < 10% of bone marrow is permissible if completed within one week of commencing study treatment as long as the toxicities secondary to palliative radiotherapy are limited to grade 1; the lesions that have received radiation treatment immediately before will be excluded as target lesions; previously irradiated lesions can be considered as targeted lesions, as long as there is prove of radiological progression
+100.0
+All prior treatment-related toxicities must be CTCAE v4 grade =< 1 (except alopecia) at the time of randomization
+250.0
+Patients with low grade gliomas and Rb1 negative tumors
+40.0
+Patients must have recovered from all clinically relevant adverse events to grade 1 or baseline due to previous agents administered (except alopecia)
+600.0
+Patients must not have a clinically relevant hearing impairment > grade 2
+230.0
+Patients must not have active pericardial effusion, ascites or pleural effusion of any grade based on chest x-ray and echocardiogram within 28 days prior to registration; exception: if the effusion is suspected to be related to the leukemia, the patient may have pericardial effusion =< grade 2 or pleural effusion =< grade 1
+44.0
+All non-hematologic treatment related toxicities that are deemed clinically significant by the treating investigator must have resolved to =< grade 2
+44.0
+Registration Step 3 � Maintenance: All non-hematologic treatment related toxicities that are deemed clinically significant by the treating investigator must have resolved to =< grade 2
+44.0
+Patients with grade 1 NRSTS tumors of any size are not eligible
+340.0
+Prior to randomization patients with any non-hematologic toxicity from surgery, chemotherapy, or radiation must have recovered to grade =< 1 with the exception of alopecia and the criteria outlined
+NONE
+Patients must have recovered from adverse events (toxicities resolved to grade 1 or less) of prior therapy; patients with immune related toxicities from ipilimumab + nivolumab may continue onto Step 2 even if still on steroids to control side effects, so long as toxicity has resolved to grade 1 or less
+300.0
+Recovered from prior toxicities to grade 0-1 at least 2 weeks prior to investigational therapy
+52.0
+Patients must have histologically confirmed supratentorial high grade glioma (grade III or IV glioma) that is progressive or recurrent following radiation therapy and chemotherapy; patients with grade IV glioma must have progressed or recurred after initial treatment with radiation and temozolomide; patients with grade III glioma must have received at least radiation and one regimen of chemotherapy (temozolomide or procarbazine, lomustine, vincristine [PCV] regimen)
+23.0
+Patients with grade 3 ataxia or grade >1 extrapyramidal movement disorder are not eligible
+81.0
+Patients who have not recovered from adverse events due to prior anti-cancer therapy to grade 1 or baseline; patients with stable, controlled grade 2 adverse events (AEs) such as peripheral neuropathy, hypothyroidism, hypertension, adrenal insufficiency or alopecia are allowed after discussing with the PI
+209.0
+Ongoing toxicities >= grade 2 from prior therapy
+30.0
+Patients must have histologically confirmed high grade glioma by pathology (World Health Organization [WHO] grade III and IV)
+75.0
+Participant has >= grade 2 diarrhea (participants with grade 1 diarrhea are eligible provided stool for ova/parasites and stool cryptosporidium studies are negative)
+84.0
+Toxicities of prior therapy (excepting alopecia) should be resolved to less than or equal to grade 1 as per CTCAE v 4.0
+680.0
+Patients in whom prior treatment related toxicities have not recovered to grade 1 or less (except for alopecia)
+33.0
+History of grade 3-4 immediate hypersensitivity reaction to paclitaxel
+33.0
+Patients must have recovered from adverse events attributable to previous treatment to =< grade 1, except for alopecia and sensory neuropathy =< grade 2
+82.0
+There are no limits on prior lines of therapy; however, patients must have recovered to eligibility levels from prior toxicity or adverse events as a result of previous treatment prior to entering the study (except alopecia)
+37.0
+Patients must have had sufficient time between a prior therapy and resolution of toxicities from the prior therapies prior to registration as follows:* Prior EGFR inhibitor: A minimum of 7 days must have elapsed from the last dose of the prior EGFR inhibitor and resolution of any drug-related toxicity to =< grade 1 except for alopecia* Chemotherapy: A minimum of 21 days must have elapsed from the last dose and resolution of toxicity to =< grade 1 excluding =< grade 2 peripheral neuropathy or alopecia* Surgery: A minimum of 21 days must have elapsed following major surgery and resolution of toxicity to < grade 1 and complete wound healing must have occurred* Radiation: A minimum of 14 days must have elapsed following radiation therapy and resolution of all radiation induced toxicity excluding alopecia* Treatment with an investigational drug: A minimum of 3 months or five half-lives of the compound, whichever is greater, must have elapsed from last treatment date
+36.0
+Available for follow-up of their disease after treatment until progressive disease is documented and resolution of related adverse events until < grade 2
+36.0
+Patients must have recovered from adverse events attributable to previous treatment to =< grade 1, except for alopecia and sensory neuropathy =< grade 2
+50.0
+Patients must have recovered from adverse events attributable to previous treatment to =< grade 1, except for alopecia and sensory neuropathy =< grade 2
+46.0
+Prior treatment-related toxicity resolved to =< grade 1 or baseline with the exception of alopecia and permanent grade =< 2 toxicities related to prior immune checkpoint inhibitor treatment (e.g. PD-1/PD-L1, CTLA-4, CD40, LAG3) treatment with the review and approval by the lead principal investigator (PI)
+32.0
+Resolution of any adverse events (AEs) from prior treatments must be resolved to baseline or grade =< 1 at enrollment (with the exception of alopecia), neuropathy, and ototoxicity (i.e., AEs that are not expected to improve within the washout period)
+60.0
+Grade 3 or 4 immune related toxicity associated with prior ipilimumab therapy that has not resolved to grade 0 or 1
+60.0
+Active non-infectious pneumonitis >= grade 2 or history of grade 3 non-infectious pneumonitis requiring steroids within the past 12 months; or any history of grade 4 non-infectious pneumonitis
+60.0
+All acute, clinically significant treatment-related toxicity from prior therapy, except for alopecia, must have resolved to grade =< 1 prior to study entry
+70.0
+Patients must have recovered to =< grade 2 following a significant adverse event or toxicity attributed to previous anti-cancer treatment except neurotoxicity which must be =< grade 1
+333.0
+Patients must not have a clinically relevant hearing impairment >= grade 2
+333.0
+Prior to randomization patients with any non-hematologic toxicity from surgery, chemotherapy and radiation therapy must have recovered to grade =< 1 with the exception of alopecia, ototoxicity and neuropathy
+714.0
+Grade 2 or greater toxicity from prior therapy
+20.0
+Grade 2 or greater diarrhea
+20.0
+PRIOR/CONCURRENT THERAPY CRITERIA: Patients must have recovered from any adverse effects from prior therapy (except alopecia) to =< CTCAE grade 1 prior to registration
+53.0
+Patients who have had prior platinum-based therapy who have > grade 1 neurotoxicity or ototoxicity at the time of enrollment will not be permitted on study
+60.0
+Grade 3-4 electrolyte abnormalities (CTCAE, v. 4):
+56.0
+Patients who had prior grade 3 or higher immune-related adverse event (e.g. pneumonitis, hepatitis, colitis, endocrinopathy) with prior immunotherapy (e.g. cancer vaccine, cytokine, etc.) are not eligible
+707.0
+High grade ovarian cancer, including high grade serous; clear cell; endometrioid, grade 3; and others (adenocarcinoma, nitric oxide synthase [NOS]; mixed epithelial carcinoma; undifferentiated carcinoma); NOTE: low grade serous, mucinous and carcinosarcoma histologies are excluded; ovarian cancer = ovarian, fallopian tube or primary peritoneal cancer; required data element: submission of pathology report
+488.0
+All adverse events associated with any prior surgery and intravesical therapy must have resolved to grade =< 2 prior to registration
+148.0
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+72.0
+All ACT related toxicities resolved to grade 1 with the exception of alopecia, vitiligo and endocrine abnormalities requiring replacement therapy which may be grade 2
+40.0
+Antibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1
+146.0
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1)
+180.0
+Cohort 1 (NSCLC cohort) * In regards to administration of prior anti-PD-1 or anti PD-L1 antibodies, a patients:** Must not have experienced a toxicity that led to permanent discontinuation of prior immunotherapy** All adverse events (AEs) while receiving prior immunotherapy must have completely resolved or resolved to baseline prior to screening for this study** Must not have experienced a >= grade 3 immune related AE or an immune related neurologic or ocular AE of any grade while receiving prior immunotherapy; NOTE: subjects with endocrine AE of =< grade 2 are permitted to enroll if they are stably maintained on appropriate replacement therapy and are asymptomatic** Must not have required the use of additional immunosuppression other than corticosteroids for the management of an AE, not have experienced recurrence of an AE if re-challenged, and not currently require maintenance doses of > 10 mg prednisone or equivalent per day* Eligibility for Food and Drug Administration (FDA)-approved agents targeting the EGFR, ROS1 or ALK pathway, which should be evaluated as per standard of care; exceptions to this requirement may be considered on a case-by-case basis by the principal investigator if the patient was previously treated with another targeted agent
+180.0
+Patients with prior history of severe (grade III or IV) acute GVHD even if resolved if post-transplant
+48.0
+Histologically proven intracranial glioblastoma or gliosarcoma at initial surgery* Patients will be eligible if the original histology was low-grade glioma and a subsequent diagnosis of glioblastoma or gliosarcoma is made (high-grade transformation)
+165.0
+All acute, clinically significant treatment-related toxicity from prior therapy, except for alopecia, must have resolved to grade =< 1
+40.0
+Antibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1
+51.0
+Patients with a history of, or current grade 4 depression are not eligible
+51.0
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1)
+40.0
+Patients must not have experienced a grade 3 or worse immune-related adverse event (irAE) (except asymptomatic nonbullous/nonexfoliative rash) or any unresolved irAE grade 2, nor have experienced a toxicity that led to permanent discontinuation of prior anti-PD-1/PD-L1 immunotherapy
+132.0
+All adverse events grade > 1 related to prior therapies (chemotherapy, radiotherapy, and/or surgery) must be resolved, except for alopecia
+70.0
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1 excepting alopecia, peripheral sensory neuropathy, and stable endocrine insufficiencies such as thyroid and adrenal insufficiency)
+68.0
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1) except alopecia are ineligible
+21.0
+Patients with ataxia >= CTCAE grade 2 are ineligible
+30.0
+Histologic diagnosis of glioblastoma (WHO grade IV) or pilocytic astrocytoma (WHO grade I)
+120.0
+Patients with low grade glioma patients (World Health Organization [WHO] grades I and II) are not eligible
+49.0
+Patients with low grade glioma are not eligible
+49.0

@@ -1,0 +1,104 @@
+Leukocytes >= 3,000/mcL
+40.0
+Obtained within 30 days of registration: Leukocytes >= 3,000/mcL
+24.0
+Leukocytes >= 3,000/mm^3
+110.0
+Leukocytes >= 3,000/mcL
+55.0
+Leukocytes >= 3,000/mcL
+42.0
+Leukocytes >= 3,000/mcL
+80.0
+Leukocytes >= 3,000/mcL
+70.0
+Leukocytes >= 3,000/mcL
+72.0
+Leukocytes >= 3,000/mcL
+12.0
+Leukocytes >= 3,000/mcL
+68.0
+Leukocytes >= 3,000/mcL
+130.0
+Leukocytes >= 3,000/mcL
+32.0
+Leukocytes >= 3,000/mcL
+100.0
+Leukocytes >= 3,000/mcL
+44.0
+Leukocytes >= 3,000/mcL
+57.0
+Leukocytes >= 2,000/mcL
+36.0
+Leukocytes: >= 3,000/mm^3
+56.0
+Leukocytes >= 1,500/mcL
+80.0
+Leukocytes >= 3,000/mcL
+135.0
+Leukocytes >= 3,000/mcL
+12.0
+Leukocytes >= 3,000/mcL
+209.0
+Leukocytes >= 3,000/uL
+35.0
+Leukocytes >= 3,000/mcL
+30.0
+Leukocytes >= 3,000/mcL
+30.0
+Leukocytes >= 3,000/mm^3
+126.0
+Leukocytes >= 3,000/mcL
+45.0
+Leukocytes >= 2,000/uL
+33.0
+Leukocytes >= 3,000/mcL
+126.0
+Leukocytes >= 3,000/mcL
+50.0
+Leukocytes >= 3,000/mcL
+46.0
+Leukocytes >= 3,000/mcL
+15.0
+Leukocytes >= 3,000/mcL
+46.0
+Leukocytes >= 3,000/mcL
+90.0
+Leukocytes >= 3,000/mcL
+45.0
+Leukocytes >= 3,000/mcL
+46.0
+Leukocytes no lower limit
+60.0
+Within 2 weeks prior to initiation of study treatment: Leukocytes >= 3,000/mcL
+70.0
+Leukocytes >= 2,500/mcL
+29.0
+Leukocytes >= 3,000/mcL
+51.0
+Leukocytes >= 3,000/mcL
+150.0
+Leukocytes >= 3,000/mcL
+48.0
+Leukocytes >= 3,000/mcL
+20.0
+Leukocytes >= 3,000/mm^3
+36.0
+Leukocytes >= 3,000/mcL
+38.0
+Leukocytes >= 2,500/mcL
+35.0
+Leukocytes >= 3,000/mcL
+72.0
+Leukocytes >= 2,500/mcL
+60.0
+Within less than or equal to 14 days prior to registration: Leukocytes >= 3,000/mm^3
+40.0
+Leukocytes >= 3,000/mcL
+40.0
+Leukocytes >= 3,000/mcL
+70.0
+Leukocytes >= 3,000/mcL
+47.0
+Leukocytes >= 2,500/mcL
+78.0

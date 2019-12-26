@@ -1,0 +1,24 @@
+Bilirubin > 2.0
+Serum bilirubin < 1.8
+Serum bilirubin =< 1.8
+Serum bilirubin =< 1.8
+Serum bilirubin =< 1.8
+Serum bilirubin =< 1.8
+Serum bilirubin =< 1.8
+Serum bilirubin =< 2.0
+Bilirubin less than or equal to 3.0
+Bilirubin < 2.0
+Bilirubin =< 1.2
+Normal serum bilirubin
+Bilirubin < 1.5
+Bilirubin > 1.5
+Serum bilirubin < 1.5 x normal
+Bilirubin =< 2.0
+Bilirubin =< 1.5
+Direct bilirubin less than 3.0, indirect bilirubin less than 4.0
+Bilirubin > 2.0
+Serum bilirubin count < 1.5 x normal
+Serum bilirubin =< 2.0
+Bilirubin > 2
+Bilirubin > 10.0
+Bilirubin < 2.5

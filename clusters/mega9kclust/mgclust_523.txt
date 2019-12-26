@@ -1,0 +1,7 @@
+Cluster 418: advanced locally metastatic cancer breast unresectable incurable recurrent patients therapy 
+Cluster 1107: pancreas adenocarcinoma histologically cytologically confirmed metastatic proven resectable patients ductal 
+Cluster 1223: intolerable ineffective standard proven advanced exist locally therapy metastatic solid 
+Cluster 1236: locally advanced metastatic disease unresectable resectable therapy patients prior treatment 
+Cluster 2106: cytologically advanced histologically locally metastatic confirmed unresectable adenocarcinoma documented nsclc 
+Cluster 2281: advanced histologically locally metastatic confirmed unresectable solid proven adenocarcinoma patients 
+Cluster 2408: unresectable metastatic disease melanoma patients inoperable confirmed histologically tumor advanced 

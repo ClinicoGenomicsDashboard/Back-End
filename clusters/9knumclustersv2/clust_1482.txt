@@ -1,0 +1,98 @@
+Platelets >= ,/mm^, equivalent to CTCAE v . grade -
+Bilirubin =< . x ULN (CTCAE v . grade )
+Recovered to ? grade  NCI CTCAE version . from toxicity of prior chemotherapy or biologic therapy administered more than  weeks earlier.
+Ongoing adverse effects from prior systemic treatment > NCI CTCAE Grade  (with the exception of Grade  alopecia)
+Presence of ? CTCAE grade  toxicity (except alopecia and ototoxicity, which are excluded if ? CTCAE grade ) due to prior cancer therapy.
+Ongoing infection > grade  NCI-CTCAE v.
+Persistent proteinuria >= grade  NCI-CTCAE v.
+Any Grade > (according to the NCI CTCAE .) adverse reaction unresolved from previous treatments and not readily managed and controlled with supportive care.
+Acute toxicities from any prior therapy, surgery, or radiotherapy must have resolved to Grade  or  as per the NCI-CTCAE v ..
+Non-manageable electrolyte imbalances including hypokalemia, hypocalcemia, or hypomagnesemia (Grade  or greater based on NCI-CTCAE v .).
+Ongoing, clinically significant bleeding (CTCAE grade  or )
+Significant recent bleeding history defined as NCI CTCAE grade ? within the last  months, unless precipitated by an inciting event (e.g., surgery, trauma, injury)
+Ongoing infection > grade  NCI-CTCAE v.
+Ongoing infection > grade  NCI-CTCAE version (v) .
+Patients cannot have experienced a significant (CTCAE Grade  or  with or without neutropenia) infection within  weeks of their first dose of MT-.
+Serum bilirubin less than or equal to . x ULN (CTCAE v. grade )
+Subject has symptomatic cardiac disorders (CTCAE v. . Grade  and )
+Afebrile (<C per CTCAE v.);
+Patient has not recovered from toxicity from prior immune checkpoint inhibitor therapy. Recovery is defined as ? NCI-CTCAE Grade , except for liver function test levels which must be <Grade .
+Afebrile (<C per CTCAE v.);
+(Bevacizumab-related exclusion) Any previous venous thromboembolism > NCI CTCAE grade 
+serum potassium NCI-CTCAE version . Grade <;
+serum calcium NCI-CTCAE version . Grade <;
+serum magnesium NCI-CTCAE version . Grade <;
+Ongoing infection > grade  NCI-CTCAE v.
+Subjects with baseline symptoms of fever and/or cough and/or shortness of breath and/or wheezing and/or fatigue grade >=  (CTCAE version [v].)
+Patients with hypertriglyceridemia defined as > mg/dL (CTCAE Grade ).
+Serum creatinine =< . X ULN (CTCAE grade  baseline)
+Patients who have active clinically serious infection > CTCAE grade  are not eligible
+Serum creatinine =< . x ULN (CTCAE grade  baseline)
+Patients exhibiting baseline grade  or  by CTCAE criteria are excluded
+Ongoing infection > Grade  NCI-CTCAE v .
+Creatinine less than . x ULN (CTCAE Grade )
+Bilirubin less than . x ULN (CTCAE Grade )
+Bilirubin less than or equal to . x ULN (CTCAE v grade )
+Serious uncontrolled infection > grade  (CTCAE v.)
+Serious uncontrolled infection > grade  (CTCAE v.)
+At least one clinical symptom probably or definitely attributed to KSHV-MCD\r\n* Intermittent or persistent fever for at least  week (>  Celsius degree [C])\r\n* Fatigue (Common Terminology Criteria for Adverse Events [CTCAE] grade  or greater)\r\n* Gastrointestinal symptoms (includes nausea and anorexia) (CTCAE grade  or greater)\r\n* Respiratory symptoms (includes cough and airway hyperreactivity) (CTCAE grade  or greater)
+Clinical relevant AEs or laboratory results related to previous anti-neoplastic therapy have not resolved to a NCI-CTCAE grade ?.
+Ongoing infection > grade  NCI-CTCAE v.
+Recovery to baseline or ? Grade  CTCAE ver..
+AST =< grade 
+Patients with ataxia >= CTCAE grade  are ineligible
+Grade - electrolyte abnormalities (CTCAE, v. ):
+Triglycerides < CTCAE grade 
+Magnesium >= within institutional normal limits, or =< grade  according to NCI-CTCAE version . if judged clinically not significant by the investigator
+Subjects who have an active clinically serious infection of CTCAE grade >= 
+Bilirubin less than or equal to . x ULN (CTEP CTCAE version ., grade )
+Subject has any other organ dysfunction (CTCAE version . Grade ) that will interfere with the administration of the therapy according to this protocol.
+Ongoing acute adverse effects from prior anticancer or investigational therapy > NCI CTCAE Grade 
+Serum creatinine ? . X ULN (CTCAE Grade  baseline)
+Ongoing clinical adverse events NCI CTCAE Grade > resulting from prior cancer therapies
+Evidence of significant CNS haemorrhage i.e. CTCAE grade  or above;
+All AEs resulting from prior chemotherapy, surgery, or radiotherapy, must have resolved to at least NCI-CTCAE (v. .) Grade  (except for laboratory parameters outlined below).
+Ongoing infection > grade  NCI-CTCAE v .
+Ongoing infection > Grade  NCI-CTCAE v..
+Subjects with known Gilbert's syndrome who have serum bilirubin ?  x ULN (NCI CTCAE v. Grade ) may be enrolled.
+Ongoing infection > grade  NCI-CTCAE v.
+? CTCAE Grade  anemia, OR
+? CTCAE Grade  hematoma (bleed)
+Active infection > CTCAE Grade , that is considered clinically serious by the treating physician
+Any Grade  or  toxicities (according to NCI CTCAE) resolved for at least  weeks prior to first treatment
+CTCAE v. grade  or  anorexia or nausea related to metastatic disease.
+Clinically significant bleeding NCI-CTCAE version . Grade  or higher within  days before randomization.
+Bilirubin =< . x ULN, CTCAE grade 
+EXPANSION COHORT ONLY: Resolution of any pre-existing toxicity from prior therapy to NCI CTCAE version . =< grade  except neuropathy (=< grade ) and tinnitus (=< grade ), and hearing loss (=< grade )
+Any toxicity from prior chemotherapy has resolved or Grade  (NCI-CTCAE, Version .)
+Ongoing infection > Grade  NCI-CTCAE v..
+Subject has an ongoing toxicity ? Grade  (NCI CTCAE Version .) attributable to prior medication to treat solid tumor (except alopecia) at screening.
+Active, clinically serious infections of NCI CTCAE v. Grade  or higher within  weeks prior to Cycle , Day 
+Subject has an ongoing toxicity greater than or equal to grade  (NCI CTCAE version .) attributable to prior NSCLC treatment at the time of screening.
+Bilirubin less than or equal to . x ULN (CTCAE v. grade )
+Ongoing infection > grade  NCI-CTCAE v.
+Anxiety ? CTCAE grade 
+Patients with active clinically serious infections defined as >= grade  according to NCI CTCAE, version .
+Subjects with valvular heart disease CTCAE (version .) grade 
+? CTCAE Grade  anxiety.
+Diarrhoea CTCAE v. Grade ? 
+Evidence of uncontrolled bradycardia or other cardiac arrhythmia defined as ?Grade  according to NCI CTCAE, version ., or uncontrolled hypertension
+History of bronchopulmonary hemorrhage NCI CTCAE >/= Grade  within  months prior to randomization
+NCI CTCAE (version .) Grade  or higher toxicities due to prior therapy that have not shown improvement and are considered to interfere with current study medication
+Active clinically serious infections defined as >= Grade  according to NCI CTCAE
+CTCAE Grade  or  fatigue.
+Any >=Grade  hypophosphatemia (per CTCAE v.) at the time of enrolment
+Active clinically serious infection > NCI-CTCAE grade 
+? CTCAE grade  anxiety
+Active clinically serious infection > CTCAE v . grade 
+Active clinically serious infections > Grade  (NCI-CTCAE Version .)
+Ongoing infection > CTCAE grade 
+Baseline alopecia (defined CTCAE v. grade > )
+Ongoing infection > grade  NCI-CTCAE v.
+History of persistent proteinuria >= grade  NCI-CTCAE v.
+AST > . x ULN (CTCAE grade )
+Bilirubin > . x ULN (CTCAE grade )
+Current alopecia grade  or greater as per NCI-CTCAE v.., or significant hair loss or hair breakage
+Hepatic toxicity >= grade  (using CTCAE version  standard definitions)
+Not recovered from adverse reactions to prior myeloma treatment or procedures (chemotherapy, immunotherapy, radiation therapy) to NCI CTCAE Grade <= or baseline.
+For Adjuvant Treatment: All AEs resulting from surgery must have resolved to NCI-CTCAE (v. .) Grade ? 

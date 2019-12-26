@@ -1,0 +1,60 @@
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP ): No specific timeframe between registration and randomization needs to be observed, as long as:\r\n* Patients randomized to the chemotherapy arms have their cycle / day  (platinum based or capecitabine) start within  weeks ( working days) following randomization date\r\n* Randomization occurs no more than  weeks from surgery date
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP ): ECOG performance status  or  within  weeks prior to randomization
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP ): Patients must have completed treatment with any investigational agent >=  days prior to randomization for protocol therapy, if applicable
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP ): Patients must be randomized within  weeks from surgery
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP ): Hemoglobin (Hgb) > . g/dL
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP ): Platelets > , mm^
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP ): Aspartate aminotransferase (AST, SGOT) =< . x ULN
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP ): Alanine aminotransferase (ALT, SGPT) =< . x ULN
+STEP I: Bilirubin =< . mg/dL (obtained within  days prior to randomization)
+STEP II: Hemoglobin >=  g/dL (within  days prior to randomization to Step II)
+STEP II: Platelet count >= , cells/mm^ (within  days prior to randomization to Step II)
+STEP II: Absolute neutrophil count >=  cells/mm^ (within  days prior to randomization to Step II)
+STEP II: Calculated creatinine clearance >=  mL/min (within  days prior to randomization to Step II)
+STEP II: Bilirubin =< . mg/dL (within  days prior to randomization to Step II)
+STEP II: SGPT (ALT) and SGOT (AST) < . times the upper limit of normal (within  days prior to randomization to Step II)
+Patients must have tumor slides available for submission for HER- testing; HER- testing must be completed by the central lab prior to step  randomization
+STEP  RANDOMIZATION
+Brain metastases are allowed if they have been adequately treated with radiotherapy or surgery and stable for at least  days prior to step  randomization; eligible patients must be neurologically asymptomatic and without corticosteroid treatment for at least  days prior to step  randomization
+Platelets >= ,/mcL within  days prior to step  randomization
+Bilirubin =< . mg/dL within  days prior to step  randomization
+STEP : RANDOMIZATION
+Patients must be registered to step : randomization within +/-  days of starting cycle ; patients MUST NOT be registered prior to the day  disease assessment
+REGISTRATION STEP -RANDOMIZATION: Patients must not be known to have AML in the CNS
+REGISTRATION STEP -RANDOMIZATION: Pretreatment cytogenetics must be performed on all patients; collection of pretreatment specimens must be completed within  days prior to randomization (registration Step ); reports of the results must be submitted
+REGISTRATION STEP -RANDOMIZATION: FLT results will be used for stratification purposes at the time of randomization; E-mail notification that FLT specimens have been processed must be received prior to randomization (registration Step )
+REGISTRATION STEP -RANDOMIZATION: Prior treatment with hydroxyurea is permitted; prior all-trans retinoic acid (ATRA) for suspected APL and prior intrathecal therapy are permitted, but must plan to be discontinued prior to initiating protocol therapy; patients with signs/symptoms of hyperleukocytosis or white blood cells (WBC) >= ,/mcL can be treated with leukapheresis prior to randomization (registration to Step )
+REGISTRATION STEP -RANDOMIZATION: Patients may have received non-intensive therapy for antecedent hematologic disorders, including lenalidomide; patients may have received prior chemotherapy for prior cancers; these therapies must be discontinued at least  days prior to randomization (registration to Step )
+REGISTRATION STEP -RANDOMIZATION: The following tests must be performed within  days prior to randomization (registration to Step ) to establish baseline values:\r\n* Performance status\r\n* Complete blood count (CBC)/differential/platelets\r\n* Creatinine clearance (Cockcroft-Gault)\r\n* Total bilirubin\r\n* Aspartate aminotransferase (AST) and alanine aminotransferase (ALT)\r\n* Lactate dehydrogenase (LDH)\r\n* Albumin\r\n* Glucose\r\n* Fibrinogen\r\n* Electrocardiogram (ECG)
+REGISTRATION STEP -RANDOMIZATION: Patients must have complete history and physical examination within  days prior to randomization (registration to Step ); history must include autoimmune disease status (to determine whether patient is eligible for Arm B)
+All tests for establishing baseline values must be completed within  days prior to registration to Step  (randomization)
+RANDOMIZATION (STEP )
+RANDOMIZATION TO BLINATUMOMAB OR NO BLINATUMOMAB-STEP 
+Patients should meet the eligibility criteria for RANDOMIZATION TO BLINATUMOMAB OR NO BLINATUMOMAB-STEP 
+ELIGIBILITY CRITERIA FOR RANDOMIZATION (STEP ):
+RANDOMIZATION ELIGIBILITY CRITERIA (STEP )
+PRIOR TO STEP ONE RANDOMIZATION:
+PRIOR TO STEP TWO RANDOMIZATION:
+STEP : RANDOMIZATION
+REGISTRATION STEP : INITIAL RANDOMIZATION
+STEP  REGISTRATION (RANDOMIZATION CRITERIA):
+RANDOMIZATION (STEP )
+The EPIC- must be completed in full and entered within  business days after step  registration; NRG Oncology Statistical and Data Management Center has  business days to score the results and send a notification to the site to proceed to step  randomization
+Patients must have BRAFVE mutant status documented by a Clinical Laboratory Improvements Amendments (CLIA) certified laboratory on a pathology report prior to Step  registration; use of an Food and Drug Administration (FDA)-approved test is preferred although other BRAF tests at a CLIA-certified laboratory will also be accepted \r\n* If a BRAFVE mutation is known, then the patient must be registered to Step  Randomization immediately following Step  Initial Registration\r\n* If testing has not been performed locally, BRAFVE testing must be completed by the central laboratory (lab) prior to Step  Randomization; if the specimen does not have a BRAFVE mutation, the patient is ineligible for Step  Randomization
+STEP  RANDOMIZATION:
+Patients with known BRAF mutation must be registered to Step  Randomization immediately following Step  Initial Registration
+Previous chemotherapy, immunotherapy, or radiation therapy must have been completed at least  days prior to Step  Randomization and all toxicity must be resolved to Common Toxicity Criteria for Adverse Events (CTCAE) version (v) . grade  (with the exception of CTCAE v. grade  neuropathy) prior to Step  Randomization
+Patients must have an electrocardiogram (ECG) within  days prior to Step  Randomization
+STEP  RANDOMIZATION REGULATORY CRITERIA:
+REGISTRATION/RANDOMIZATION TO STEP  - ARMS A, B, C AND D
+STEP  ENROLLMENT AND RANDOMIZATION: less than or equal to three metastatic lesions and no evidence of disease progression based on RECIST criteria; note that patients that had >  metastatic lesions in Step  may be eligible for enrollment in Step  if the number of metastatic sites is reduced to three or less
+STEP  ENROLLMENT AND RANDOMIZATION: platelet count >= ,/mm^ within  weeks of study entry
+STEP  ENROLLMENT AND RANDOMIZATION: hemoglobin >=  g/dL within  weeks of study entry
+STEP  ENROLLMENT AND RANDOMIZATION: bevacizumab will not be permitted within  weeks of the initiation of the radiation therapy course
+STEP  ENROLLMENT AND RANDOMIZATION: the patient has signed informed consent
+Patients must not have experienced distant disease progression since the start of systemic therapy, as evidenced by clinical and radiographic documentation of disease status before treatment and within  weeks prior to randomization, including:\r\n* No new sites of disease\r\n* No enlargement of existing sites by % or more in longest diameter\r\n* No symptomatic deterioration\r\n* Imaging at step  should preferably be the same as at step  (baseline); it must address all previous sites of disease and all clinical signs and symptoms; if all step  imaging tests cannot be repeated, the reason should be documented (e.g. declined by insurance); step  imaging must evaluate all known sites of disease and address all signs/symptoms present at step 
+STEP  (RANDOMIZATION)
+PRIOR TO STEP  RANDOMIZATION
+STEP  REGISTRATION (Randomization)
+STEP : INCLUSION CRITERIA PRIOR TO RANDOMIZATION
+STEP : EXCLUSION CRITERIA PRIOR TO RANDOMIZATION

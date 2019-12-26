@@ -1,0 +1,47 @@
+Platelets (PLT) > ,/mm^
+Platelets (Plt) >= , x ^/L
+Platelets (PLT) >= ,/mcL
+Platelets (PLT) >= , obtained =<  days prior to registration
+Platelets (PLT) ? 
+Platelets (plt) >=  x ^/L
+Platelets (Plt) >= ,/mm^
+Platelets (PLT) ? , cells/mm
+Platelets (plt) >=  x ^/L, within  days start of study start
+Platelets (PLT) < , K/mcL
+Platelets (plt) >=  K/cu mm; for subjects with plt <  K/cu mm due to significant marrow involvement by MCL, plt must be >  K/cu mm
+Platelets (PLT) >=  x ^/L without transfusions
+Within  days prior to study entry: Platelets (Plt) >=  x ^/L
+Platelets (Plt) >= ,
+Platelets (PLT) >= ,
+Platelets (PLT) >=  x ^/L without transfusions
+Platelets (PLT) >= , cells/mm^ for  days after recovery from ASCT nadir
+Platelets (plt) ?  x /L,
+Platelets (PLT) >= ,
+Platelets (PLT) >= ,/mcL
+Platelets (plt) ?  x /L.
+Platelets (Plt) ? x /L.
+Within  days of study start: Platelets (plt) >=  x ^/L
+Platelets (PLT) < x /L (x/L)
+Platelets (PLT) >= ,/mm^
+Platelets (Plt) > 
+Platelets (plt) >=  x ^/L
+Platelets (PLT) >= , mL
+Platelets (plt) >=  x ^/L
+Platelets (plt) >=  x ^/L
+Obtained =<  days prior to registration: Platelets (PLT) >= ,/mm^
+Platelets (Plt) >= ,/mcL
+Platelets (PLT) =< K
+Platelets (PLT) > ,/ml
+Platelets (PLT) >=  x ^/L without transfusions
+Platelets (PLT) >= ,
+Platelets (plt) >=  x ^/L
+Platelets (PLT) >= ,/mcL
+Platelets (PLT) >=  x ^/L without transfusions
+Platelets (PLT) >= ,/?L obtained =<  days prior to registration
+Plt >  K/ml (without transfusion)
+Platelets (PLT) >= ,/mm^
+Platelets (PLT) >= ,/mm^
+Platelets (PLT) >=  x ^/L without transfusions
+Subject has a hematologic malignancy with hypoproliferative thrombocytopenia and is expected to have PLT count(s) ? ,/L requiring ?  PLT transfusions
+Currently taking, or participating in a clinical study involving PLT substitutes, PLT growth factors, or pharmacologic agents intended to enhance (ie, antifibrinolytic agents) or decrease PLT hemostatic function
+Coagulopathy with platelets (Plt) <  k

@@ -1,0 +1,8 @@
+Cluster 43: karnofsky performance status patients ecog higher days greater registration prior 
+Cluster 199: kps karnofsky performance status score greater patients equal patient ecog 
+Cluster 784: age years lansky karnofsky performance status patients scale children ecog 
+Cluster 1015: status performance ecog karnofsky appendix occasional help care patients able 
+Cluster 1152: old lansky years karnofsky performance score patients status younger individuals 
+Cluster 1506: equal greater age years karnofsky performance status lansky ecog participants 
+Cluster 2067: lansky score karnofsky performance years patients inclusion scores greater adults 
+Cluster 2460: karnofsky ecog poor health rating index screening time false fancc 

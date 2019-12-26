@@ -1,0 +1,60 @@
+Phase I (dose escalation and \pre-treated\ expansion cohort only): refractory to or not amenable or eligible for established MDS therapy (HMA, lenalidomide)
+Patients in dose escalation and all expansion cohorts except first relapse AML may have received up to three prior lines of therapy.
+Dose escalation and expansion cohort: HER+ tumors documented by clinical pathology report:
+To be enrolled in the dose escalation or in the MTD expansion, Subject must have a locally confirmed diagnosis of either of the following tumor types:
+Dose Expansion (Segment ):  - 
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Participants are permitted to have any number of prior therapies prior to enrollment
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Absolute neutrophil count >= , mm^
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Hemoglobin >=  g/dL
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Platelets >= ,/mcL
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Creatinine =< . X the institutional ULN OR
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: MTD expansion: Patients must be willing to undergo pre- and on-treatment tumor biopsies; patients are exempt from this requirement if, in the opinion of the investigator, the biopsy procedure would pose a significant risk or if they have only pulmonary metastatic disease
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Patients must be able to take oral medications
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Participants receiving any other study agents concurrently with the study drugs
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: MTD expansion: Patients currently taking anticoagulants and who cannot safely hold the medication to facilitate pre and on-treatment tumor biopsies are excluded from participation
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: History of Gilberts syndrome
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Patients planning to embark on a new strenuous exercise regimen after the first dose of study treatment
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: History of a malabsorption syndrome or uncontrolled nausea, vomiting, or diarrhea that may interfere with the absorption of oral study medication in the opinion of the investigator
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: History of retinal degenerative disease
+Part D: Have metastatic pancreatic ductal adenocarcinoma (dose escalation and dose expansion)
+For dose escalation: Subjects with any type of solid tumor (all comer) will be eligible for dose escalation and dose expansion at MTD in Part ; Subjects enrolled for dose expansion (MTD expansion cohort \all comer\) will be stratified according to high fibroblast growth factor receptor (FGFR) expression levels / FGFR mutation using archival or fresh tumor biopsy material
+Dose Expansion cohorts: Prior treatment with osimertinib (Tagrisso). Prior treatment with osimertinib (Tagrisso) is allowed for subjects participating in the dose escalation portion of the study
+Dose Escalation Phase and Expansion Phases will exclude patients for the following:
+Bone only patients during expansion/efficacy portion.
+In dose expansion, patients must have received prior anti-EGFR therapy
+Prior treatment with a taxane is not permitted in the dose-expansion phase. Patients in the dose escalation component may have received a taxane in the peri-operative setting, provided they developed disease recurrence > months after the completion of this therapy
+Successful test expansion -cells
+For Dose Expansion: all of the above in escalation except for cervical, ovarian, and CRC
+Patients in the dose expansion part must have tumor that is amenable for biopsy
+Successful T cell test expansion (first  subjects)
+For dose escalation study, patients must have histological confirmation of solid tumors that is metastatic or unresectable. For expansion cohorts, patients must have metastatic or unresectable GIST, melanoma, or uncategorized tumors with tumor biopsies that are positive for c-KIT mutations by polymerase chain reaction (PCR) or immunohistochemistry (IHC). For patients enrolled in the melanoma expansion cohort, only select KIT mutations will be eligible. Patients with mutations in exon  VX,  T,  DX and all exon  mutations will not be eligible for enrollment.
+All patients (dose escalation and dose expansion phases) must be willing to undergo pre- and post-treatment biopsies
+ For Part  (Expansion in patients with DLBCL): fluorodeoxyglucose non-avid patients.
+Unlimited prior therapies are permitted for patients enrolled in the dose escalation phase of the study; patients in the expansion cohort of the study may not have any prior therapy with riluzole or sorafenib and must have biopsiable tumor
+Dose Expansion Phase only: diagnosis of any other malignancy within  years prior to registration.
+No prior treatment with GDC- (allowed only during dose expansion stage)
+Any relapsed/refractory participants that are enrolled during the dose escalation should have received only a single previous treatment regimen Expansion Portion of the Study:
+Patients must have adequate TIL (at least  x ^ cells at the pre-expansion stage)
+Patients enrolled in the single agent expansion stage must have a diagnosis of EOC, while patients enrolled in the combination dose escalation or expansion stage must have a diagnosis of melanoma, NSCLC, SCLC, RCC, BLC, or TNBC.
+For patients with EOC enrolled in the single agent expansion stage:
+For patients with melanoma enrolled in the combination dose escalation or expansion stage:
+For patients with NSCLC enrolled in the combination dose escalation or expansion stage:
+For patients with SCLC enrolled in the combination dose escalation or expansion stage:
+For patients with RCC enrolled in the combination dose escalation or expansion stage:
+For patients with BLC enrolled in the combination dose escalation or expansion stage:
+For patients with TNBC enrolled in the combination dose escalation or expansion stage:
+Consent to screening tumor biopsy (for accessible tumors when appropriate) (optional in dose escalation, mandatory in dose expansion)
+Histologically or cytologically confirmed diagnosis of pancreatic carcinoma (dose escalation and MTD expansion components).
+Dose Expansion: Cholangiocarcinoma
+For expansion part:
+For subjects in the dose escalation phase and Part  Expansion, IDH mutation may be based on local evaluation. (Centralized testing will be performed retrospectively.)
+Successful test expansion of T-cells
+Willingness to provide consent for biopsy sample (dose-expansion only)
+Part B: For Part B dose-expansion: once a MTD has been established in part A, additional dose escalation will occur with subsequent dose escalation of carfilzomib; during the dose escalation of part B, patient (pt) must have at least  line of prior therapy and no limitations on prior therapy; patients who had prior clinical benefit/response to ARRY- or carfilzomib with a stable disease (SD) or better may be eligible for dose expansion of part B; dose expansion of part B will be patients who are carfilzomib sensitive
+Expansion Stage:
+Documented PIKCA mutations in all patients in dose escalation and expansion with or without documented genetic alterations in FGFR depending upon dose expansion cohort (either local or central determination)
+For dose escalation and dose expansion in combination with BMS-: HL and DLBCL
+Three biopsies, one pretreatment, one after BMN alone and one after one of the combinations of BMN/AT will be voluntary in the expansion and dose escalation cohorts; however, biopsies will be required in at least  patients of the  patients to be enrolled in the expansion cohort
+For the dose escalation cohorts, any prior number of MDS therapies, including hypomethylating agents, are permitted; for the dose expansion cohort, subjects must be azacitidine nave, but otherwise any prior number of MDS therapies are permitted; treatment nave patients are eligible for both the dose escalation and expansion cohorts if they are unfit for or refuse intense therapy
+Are willing to provide available pre-existing diagnostic or resected tumor samples. Providing fresh tumor biopsies are optional for all subjects in Dose Escalation cohorts. In the Dose Expansion cohort, up to  subjects may be requested to provide pre- and post-treatment tumor biopsies based on eligibility for the procedure. For those subjects who do not have an MMR status, inclusion in the Dose Escalation and Dose Expansion can be achieved by providing a fresh tumor biopsy for MMR testing.
+For dose expansion participants who will have tumor biopsies collected:

@@ -1,0 +1,5 @@
+Cluster 608: platinum resistant disease based refractory progression months therapy sensitive ovarian 
+Cluster 723: taxane chemotherapy prior anthracycline based received therapy regimen platinum metastatic 
+Cluster 1092: platinum based chemotherapy regimen line disease received prior therapy progression 
+Cluster 1333: regimen chemotherapy prior received treatment patients therapy disease based regimens 
+Cluster 1388: anthracycline therapy prior received chemotherapy based containing exposure regimen patients 

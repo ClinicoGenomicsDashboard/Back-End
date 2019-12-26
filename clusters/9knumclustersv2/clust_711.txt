@@ -1,0 +1,35 @@
+Bilirubin =< . x normal
+Bilirubin =< . x laboratory normal
+Patients with bilirubin =<  x normal
+Bilirubin =< to . x normal.
+Total bilirubin =< . x normal prior to biopsy
+AT THE TIME OF INFUSION: Bilirubin ?  x normal
+Bilirubin < . x institutional normal for age
+Patients must have bilirubin < . x normal
+Total bilirubin less than or equal to . x normal for age
+Bilirubin =< . x institutional normal for age
+Bilirubin =< . x normal
+Bilirubin =< .x institutional normal for age
+Total bilirubin =< x normal
+Total bilirubin < . x normal
+Bilirubin <  x normal
+Bilirubin =< to . x normal
+Total bilirubin =< . x normal for age
+Bilirubin =< . X laboratory normal
+Bilirubin =< . x institutional normal
+Total bilirubin normal;
+Normal serum bilirubin
+Total bilirubin =< . x normal prior to biopsy
+Serum bilirubin < . x normal
+Bilirubin =< . x normal
+Bilirubin =< to . x normal
+Normal total serum bilirubin
+Total bilirubin < . x ULN for age or normal conjugated bilirubin
+Bilirubin =< . x normal
+Total bilirubin . x normal for age, AND
+Total bilirubin =< . x normal
+Serum bilirubin count < . x normal
+Bilirubin less than . x normal limit (NL)
+Bilirubin\t< . x normal
+Bilirubin =<  x normal
+Bilirubin =< . x normal

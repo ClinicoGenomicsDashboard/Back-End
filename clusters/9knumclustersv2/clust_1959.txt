@@ -1,0 +1,20 @@
+Hemoglobin (Hgb) >  g/dL within  days of starting cycle  day  treatment
+Albumin >= . g/dL within  days of starting cycle  day  treatment
+Hemoglobin >= . g/dL, performed within  days prior to day  of protocol therapy
+Obtained within  days prior to cycle , day : hemoglobin >=  g/dl
+Within  days of cycle  day : Hemoglobin\t>=  g/dL
+Within  days (+  day window) of enrollment: Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL (prior transfusion permitted) within  days of cycle  day 
+Obtained within  days prior to the first study treatment (cycle , day ): hemoglobin >= . g/dL
+Within  days prior to cycle  day  of treatment: Hemoglobin (Hgb) >= . g/dL
+Within  days prior to cycle  day  of treatment: Serum albumin >= . g/dL
+Within  days prior to the first study treatment (cycle , day ): Hemoglobin >= . g/dL
+Hemoglobin ? . g/dL within  days prior to the first study treatment (cycle , day )
+To be performed within  business days prior to day : Hemoglobin >= . g/dL
+Hemoglobin >=  g/dl at cycle  day  of TPF
+Within  days prior to the first study treatment (cycle , day ): Hemoglobin >= . g/dL.
+Hemoglobin >= . g/dL, obtained within  days prior to the first study treatment (cycle , day )
+Within  days prior to the first study treatment (cycle , day ): Hemoglobin >= . g/dL
+Obtained within  days prior to the first study treatment (cycle , day ); hemoglobin ? . g/dL
+Hemoglobin >= . g/dL (obtained within  days prior to the first study treatment [course , day ])
+Hemoglobin >= . g/dL obtained at baseline (day  of cycle , before study drug administration)

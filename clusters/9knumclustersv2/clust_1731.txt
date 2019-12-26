@@ -1,0 +1,60 @@
+SUB-PROTOCOL AIM A: Platelet count >= ,/mm^
+SUB-PROTOCOL AIM A: Hemoglobin >= . g/dL
+SUB-PROTOCOL AIM A: Serum triglyceride =<  mg/dL
+SUB-PROTOCOL AIM A: Serum creatinine =< . x ULN
+SUB-PROTOCOL AIM A: Patients who required therapeutic doses of anticoagulants
+AIM : Have an actual or potential diagnosis of thoracic cancer
+AIM : Must be a current or recent former smoker (defined as smoked within past  months)
+AIM : Former smoker greater than  months
+Due to receive at least  weeks (for aim  and ) or  weeks (for aim ) of CTX at enrollment
+PHASE I AIM  (STAKEHOLDER INPUT)
+PHASE I AIM : Malignant diagnosis in any cancer type at any stage
+PHASE I AIM : Receiving any type of cancer treatment
+PHASE I AIM : Life expectancy of at least six months
+PHASE I AIM : Current outpatient status
+PHASE I AIM : Fluent in English
+PHASE I AIM  (STAKEHOLDER INPUT) EXCLUSION
+PHASE I AIM : Prisoners
+PHASE I AIM : Pregnant women
+PHASE I AIM . (EVALUATION STUDY)
+PHASE I AIM .: Malignant diagnosis in any cancer type at any stage
+PHASE I AIM .: Receiving any type of cancer treatment
+PHASE I AIM .: Life expectancy of at least six months
+PHASE I AIM .: Current outpatient status
+PHASE I AIM .: Fluent in English
+PHASE I AIM . (EVALUATION STUDY) EXCLUSION
+PHASE I AIM .: Prisoners
+PHASE I AIM .: Pregnant women
+PHASE I AIM . (PILOT STUDY)
+PHASE I AIM .: Malignant diagnosis in breast, gynecologic (GYN), genitourinary (GU) cancer at any stage
+PHASE I AIM .: Receiving surgery and/or chemotherapy treatment
+PHASE I AIM .: Life expectancy of at least six months
+PHASE I AIM .: Current outpatient status (participation will be suspended during hospitalization)
+PHASE I AIM .: Fluent in English
+PHASE I AIM . (PILOT STUDY) EXCLUSION
+PHASE I AIM .: Prisoners
+PHASE I AIM .: Pregnant women
+PHASE I AIM .: Currently participating in other psychosocial studies
+PHASE II AIM  (RANDOMIZED CONTROLLED TRIAL)
+PHASE II AIM : Malignant diagnosis of breast, lung, or colorectal cancer at any stage
+PHASE II AIM : Receiving any type of cancer treatment
+PHASE II AIM : Life expectancy of at least six months
+PHASE II AIM : Current medical oncology outpatient status (participation will be suspended during hospitalization)
+PHASE II AIM : Fluent in English
+PHASE II AIM  (RANDOMIZED CONTROLLED TRIAL) EXCLUSION
+PHASE II AIM : Prisoners
+PHASE II AIM : Pregnant women
+PHASE II AIM : Currently participating in other psychosocial studies
+For Aim  only: individuals who took part in the focus group
+AIM  (SURVEY)
+AIM  (VACCINE EVALUATION)
+Meets all inclusion criteria outlined in Aim 
+AIM  (VACCINE EVALUATION)
+Aim : Organization was contacted to participate in Aim 
+Inclusion criteria for Aim :
+Inclusion criteria for Aim :
+AIM : Text messaging more than once a month
+AIM : Will consider participants from phase  of this study ineligible for this phase of the study
+AIM : Will not re-screen participants who were considered ineligible for phase  of this study, as determined from study records
+AIM -
+AIM  ONLY

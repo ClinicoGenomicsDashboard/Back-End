@@ -1,0 +1,53 @@
+Procurement: Patients with life expectancy >= 6 months
+Procurement: Patients with active human immunodeficiency virus (HIV) infection (can be pending at this time)
+>= 3 weeks from protocol tissue procurement since treatment (surgery, chemo-, radiation-, hormone- therapy, check point blockade [e.g., anti-CTLA-4, PD-1, PDL-1]); (windows are in relation to the date of the protocol tissue procurement)
+PROCUREMENT: Patient able to give informed consent
+PROCUREMENT: Patients with active human immunodeficiency virus (HIV) positive at time of procurement (can be pending at the time of blood draw)
+INCLUSION CRITERIA FOR BLOOD PROCUREMENT:
+EXCLUSION CRITERIA FOR BLOOD PROCUREMENT:
+PROCUREMENT INCLUSION CRITERIA: Patients with life expectancy ? 12 weeks
+PROCUREMENT INCLUSION CRITERIA: Hemoglobin (Hgb) > 8.0 (transfusions allowed)
+PROCUREMENT EXCLUSION CRITERIA: Patients with severe intercurrent infection
+PROCUREMENT EXCLUSION CRITERIA: Patients with active human immunodeficiency virus (HIV) infection at time of procurement
+INCLUSION - PROCUREMENT: If pheresis required to collect blood:\r\n* Creatinine <1.5 × upper limit normal
+INCLUSION - PROCUREMENT: EBV positive tumor (can be pending)
+INCLUSION - PROCUREMENT: Weighs at least 12 kg
+PROCUREMENT INCLUSION: Diagnosis of relapsed/refractory HL or NHL
+PROCUREMENT INCLUSION CRITERIA: Patients with life expectancy ? 6 weeks
+PROCUREMENT INCLUSION CRITERIA: Hemoglobin (Hgb) > 8.0 (transfusions allowed)
+PROCUREMENT EXCLUSION CRITERIA: Patients with severe intercurrent infection
+PROCUREMENT EXCLUSION CRITERIA: Patients with active human immunodeficiency virus (HIV) infection at time of procurement (can be pending at the time of blood draw)
+PROCUREMENT EXCLUSION CRITERIA: Patients in remission who are enrolled on another study where time to progression or disease free survival is a primary endpoint
+PROCUREMENT CRITERIA
+CELL PROCUREMENT: Life expectancy >= 12 weeks
+CELL PROCUREMENT: Bilirubin =< 1.5 x upper limit of normal (ULN), unless attributed to Gilbert’s syndrome, obtained within 72 hrs prior to procurement
+CELL PROCUREMENT: Aspartate aminotransferase (AST) =< 3.0 x ULN, obtained within 72 hrs prior to procurement
+CELL PROCUREMENT: Alanine aminotransferase (ALT) =< 3.0 x ULN, obtained within 72 hrs prior to procurement
+CELL PROCUREMENT: Subjects currently receiving “maintenance” doses of chemotherapy are eligible and the need for intrathecal prophylaxis prior to procurement is left to the discretion of the investigator; maintenance doses of chemotherapy are defined as methotrexate =< 30 mg/m^2/week, mercaptopurine =< 100 mg/m^2/day and vincristine =< 2 mg/28 days; corticosteroid-containing maintenance therapy is permitted only if corticosteroids are administered > 14 days prior to procurement; (Note: corticosteroid use with doses at the discretion of the treating physician are allowed after procurement up to the beginning of lymphodepletion; corticosteroid use is contraindicated following iC9-CAR19 infusion unless medically necessary e.g., to treat CRS)
+CELL PROCUREMENT: Received anti-CD19 antibody-based therapy OR cytotoxic chemotherapy not described as maintenance therapy within 2 weeks of procurement
+PRIOR TO CELL PROCUREMENT: Serum creatinine ? 1.5 times ULN
+PRIOR TO CELL PROCUREMENT: Negative serum pregnancy test in females within 72 hours prior to procurement or documentation that the subject is post-menopausal or premenarchal
+PRIOR TO CELL PROCUREMENT: Pregnant or lactating
+AT THE TIME OF PROCUREMENT: Recurrent or refractory GBM
+AT THE TIME OF PROCUREMENT: Subjects having a tumor resection
+AT THE TIME OF PROCUREMENT: Karnofsky score of ? 60
+PROCUREMENT: Karnofsky score ? 50%
+PROCUREMENT: Diagnosis of myeloma after receiving at least one treatment regimen
+PROCUREMENT: Patient able to give informed consent
+PROCUREMENT: Patients with severe active infection
+PROCUREMENT: Patients with active human immunodeficiency virus (HIV) infection at time of procurement (can be pending at the time of blood draw)
+INCLUSION CRITERIA AT TIME OF PROCUREMENT:
+EXCLUSION CRITERIA AT TIME OF PROCUREMENT:
+PROCUREMENT INCLUSION CRITERIA:
+PROCUREMENT EXCLUSION CRITERIA:
+PROCUREMENT ELIGIBILITY:
+PROCUREMENT ELIGIBILITY:
+AT TIME OF PROCUREMENT:
+AT TIME OF PROCUREMENT:
+PROCUREMENT INCLUSION CRITERIA:
+PROCUREMENT EXCLUSION CRITERIA:
+AT THE TIME OF PROCUREMENT: Nasopharyngeal carcinoma in first or subsequent relapse or with primary refractory disease
+AT THE TIME OF PROCUREMENT: EBV positive tumor
+Patients must have an accessible metastatic lesion for pretreatment core biopsy procurement.
+ELIGIBILITY FOR BLAST COLLECTION (PROCUREMENT)
+Procurement consent signed and faxed to Research Coordinator

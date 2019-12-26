@@ -1,0 +1,116 @@
+Activated Partial Thromboplastin Time (aPTT) ?.  ULN unless patient is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT/INR/PTT is within therapeutic range of intended use of anticoagulants obtained within  days prior to registration
+Activated partial thromboplastin time (aPTT) =< . x institutional ULN unless subject is receiving anticoagulant therapy as long as partial thromboplastin time (PTT) is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT)/PTT =< . times ULN unless participant is receiving anticoagulant therapy, as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+SAFETY RUN-IN: Within  days of registration: Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+RANDOMIZED PHASE II CLINICAL TRIAL: Within  days of registration: Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+aPTT ? . x ULN unless subject is receiving anticoagulant therapy as long as PT and PTT are within therapeutic range of intended use of anticoagulants.
+Activated partial thromboplastin time (aPTT) =< . X ULN unless patient is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants.
+Within  days of treatment registration: Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin Time (aPTT) < . times the upper limit of normal unless subject is receiving anticoagulant therapy, as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) < . times the upper limit of normal unless subject is receiving anticoagulant therapy, as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) < . times the upper limit of normal unless subject is receiving anticoagulant therapy, as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x IULN unless patient is receiving anticoagulant therapy as long as INR or PTT is within therapeutic range of intended use of anticoagulants
+Activated (a)PTT =< . x IULN unless patient is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated PTT (aPTT) =< . x IULN unless patient is receiving anticoagulant therapy as long as INR or PTT is within therapeutic range of intended use of anticoagulants
+Within  days of cycle  day : Activated (a)PTT =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Within  days prior to the start of study treatment: Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants.
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy, as long as PT or PTT is within therapeutic range of intended use of anticoagulants.
+Thromboplastin time (aPTT)anticoagulant therapy, as long as PT or PTT is within therapeutic range of intended use of anticoagulants.
+Within  days of registration: Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Obtained =<  days prior to registration: Activated partial thromboplastin time (aPTT) =< . ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Within  days prior to on-study date: Activated partial thromboplastin time (aPTT) ? . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+aPTT =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or aPTT is within therapeutic range of intended use of anticoagulants
+Activated Partial Thromboplastin Time (aPTT) < .  ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) ? . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated PTT (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulant
+Activated partial thromboplastin time (aPTT)\t=< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Obtained =<  days prior to registration: Activated partial thromboplastin time (aPTT) =< . x ULN unless patient is receiving anticoagulant therapy and PT or PTT is within therapeutic range of intended use of coagulants
+Within  days prior to registration for protocol therapy: Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy; in the case of anticoagulants, PT/INR/PTT must be within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin Time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin rime (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants, during screening and on cycle , day 
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT): =< . X ULN unless participant is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+If not receiving anticoagulants: activated partial thromboplastin time (aPTT) =< . x ULN; if on anticoagulant therapy: aPTT must be within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated PTT (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants within  days prior to registration
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x IULN unless patient is receiving anticoagulant therapy as long as INR or PTT is within therapeutic range of intended use of a anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x IULN unless patient is receiving anticoagulant therapy as long as INR or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) ? . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy\r\nas long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) ? . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) ?.  ULN (unless patient is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants)
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) ? . x ULN unless patient is receiving anticoagulant therapy as long as PT of PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anti-coagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated Partial Thromboplastin Time (aPTT): =< . X ULN unless patient is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+DOSE ESCALATION COHORT: Activated partial thromboplastin time (aPTT) ? . X ULN unless subject is receiving anticoagulant therapy, as long as partial thromboplastin time (PTT) is within therapeutic range of intended use of anticoagulants
+DOSE EXPANSION COHORT: Activated partial thromboplastin time (aPTT) ? . X ULN unless subject is receiving anticoagulant therapy, as long as PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x institutional ULN unless subject is receiving anticoagulant therapy as long as prothrombin time (PT) or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless participant is receiving anticoagulant therapy as long as PT or aPTT is within therapeutic range of intended use of anticoagulants, specimens must be collected within  days prior to the start of study treatment
+Prothrombin time (PT)/activated partial thromboplastin time (PTT) =< . x ULN, unless subject is receiving anticoagulant therapy and PT or activated (a)PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+aPTT: ?.xULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+PTT =< . X ULN (unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants)
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) ? . x ULN unless participant is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulant
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated PTT (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulant
+Activated partial thromboplastin time (aPTT) =< . x ULN unless patient is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated Partial Thromboplastin Time (aPTT) < .  ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated Partial Thromboplastin Time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy\r\nas long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated PTT (aPTT) ? . x ULN unless subject is receiving anticoagulant therapy, and the PT or PTT is within therapeutic range of intended use of anticoagulants.
+Activated partial thromboplastin time (aPTT) ? .  ULN unless patient is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use
+Activated partial thromboplastin time (aPTT) =< . x IULN unless patient is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated PTT (aPTT)/PTT =< . times ULN unless participant is receiving anticoagulant therapy, as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+PTT =< . x ULN (unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =<. x ULN, unless subject is receiving anticoagulant therapy\r\nas long as PT or PTT is within therapeutic range of intended use of anticoagulants, obtained within  days prior to C-AMT PET scan
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants, obtained =<  days prior to registration
+Activated partial thromboplastin time (aPTT) =< . x ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Partial Thromboplastin Time (PTT) or Activated Partial Thromboplastin Time (aPTT) ?  seconds unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants.
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants
+Activated partial thromboplastin time (aPTT) =< . X ULN unless subject is receiving anticoagulant therapy as long as PT or PTT is within therapeutic range of intended use of anticoagulants

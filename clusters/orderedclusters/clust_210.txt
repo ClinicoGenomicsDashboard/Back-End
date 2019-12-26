@@ -1,0 +1,6 @@
+Patients with prior anthracycline therapy will be excluded
+70.0
+Patients must not have received previous systemic anthracycline (intravesical anthracycline is allowed)
+230.0
+Patients must have no prior radiation therapy to >= 25% of the bone marrow for prior systemic anthracycline therapy; prior intravesical anthracycline therapy for non-muscle invasive urothelial carcinoma of the bladder is permitted
+60.0

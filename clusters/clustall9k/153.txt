@@ -1,0 +1,1227 @@
+Patient is at least 18 years of age
+Be ?18 years of age.
+Age 50.0-75.0 years.
+Must be ? 18 years of age.
+Age ? 10 years
+Patients must be >= 18 years of age
+Age >= 14 years (>= 18 years in Germany)
+Age 18 years or above
+? 18 years of age
+Age ? 18 years.
+Age ?18 years.
+Subject is at least 18 years of age.
+Age >= 18 years.
+Subjects must be ?18 years of age.
+Age ? 18
+Age ? 18 years of age
+Age >/= 18 years;
+Age > 18 years.
+Subjects ? 18 years of age.
+Age: 18 years
+Patients must be ?18 years of age
+At least 18 years of age
+? 18 years of age
+Age >21 years
+Age > or = 21 years
+?18 years of age
+Age ? 18 years
+Subject is at least 18 years of age.
+Age ? 15 and < 41 years
+Be > 6 months and < 18 years of age
+Age ?18 years
+Age ?18 years.
+Age ? 18 years.
+Age ? 18 years
+Age ?18 years
+Age>= 50
+Age >18 years.
+?18 years of age.
+Age > 18 years.
+Be ?18 years of age.
+?18 years of age.
+Age ?18 years
+Age >18 years and ?75 years.
+Age ?60 years; or
+? 18, but < 75 years of age
+Age >/= 18 years
+Age ?18 years .
+Patients ?12 years of age
+Age >= 21 years
+Age ? 18 years
+Between 6 months and <18 years of age (or between 3 years and <18 years of age for rrcHL participants) on day of signing informed consent/assent (the first 3 participants dosed in Part 1 are to be ? 6 years of age)
+Age ? 18 years.
+Age at least 18 years.
+Is of age ? 18 years
+? 18 years of age
+Age ? 18 years.
+Age > 18 years
+Age ? 18.
+?18 years of age.
+Patients must be ? 45 years of age
+Age ? 18 years.
+? 18 years of age
+Age ?18 years.
+Age +/> 70
+?18 years of age.
+Age ?18 years and ?80.
+Subject is > 22 years of age.
+? 18 years of age.
+45 years of age or less.
+Age > 18 years
+Must be > = 18 years of age.
+Age ? 12 months and < 18 years
+Age >/= to 18 years
+Must be at least 18 years of age.
+Age ?18 years
+Age ? 18 years
+? 18 years of age
+Patients who are ? 18 years of age.
+Age ? 18 years
+Age >18 years
+At least 18 years of age.
+Age ? 18 years.
+Age ? 18 years
+2 to less than 19 years of age.
+At least 18 years of age
+Patient is at least 18 years of age.
+Subjects must ?18 years of age
+At least 18 years of age.
+Participant must be >= 18 years of age.
+0 to 2 for Participants >= 75 years of age or
+0 to 3 for Participants >= 18 to 74 years of age.
+Patients must be ? 18 years of age.
+Age ?18 years
+Patient must be > 18 years of age.
+? 12 years of age
+Age ? 18 years.
+Age >= 18 years
+Age ?18 years
+Age >21 years
+0 for (age <61 years), +2 for (age 61-70 years), +4 for (age >71 years).
+Age >75.
+Age ? 18 years
+Age ?18 years
+be ?18 years of age;
+Patients must be ? 18 years of age.
+Age ? 18 years
+At least 18 years of age.
+Age ?18 years.
+Age 18 or more years
+At least 18 years of age.
+Age ?18 years;
+Subjects ? 18 years of age at screening
+? 75 years of age OR
+of 0 to 2 for participants ? 75 years of age or
+of 0 to 3 for participants between 18 to 74 years of age.
+Age 12 to 65 years
+Patients must be at least 18 years of age
+Patient is at least 18 years of age
+At least 18 years of age.
+Patients must be at least 18 years of age.
+Age ?18 years
+Subject is ?18 years of age
+?18 years of age
+Minimum age of 18 years
+Age ? 18 years.
+Age > 18 years.
+Age ?18 years
+Age ?18 years
+Age ? 16 years
+Age > 18
+Age 18 or more years
+Age * 18 years
+Age ? 18 years.
+Age 6 months - 29.99 years at enrollment
+be over age 18
+?18 years of age
+At least 18 years of age.
+Age ?18 years
+? 18 years of age.
+Age ? 80 years
+Age < 60 years
+Age 12 months to <21 years
+Age ? 50
+At least 18 years of age
+Patient is < 18 years of age
+For Phase I Only: Age >/=18 years
+Must be > = 50 years of age.
+Age > or = 15 years
+Age ? 18 years
+Age > 18
+Age at least 18 years.
+Age ? 18 years
+Age > 16 years.
+Patients must be >18 years of age.
+At least 18 years of age
+Participants must be > 18 years of age
+Age ?18 years;
+Patients <18 years of age
+Age of at least 18 years.
+age <18 years;
+Age ? 18 years.
+At least 18 years of age.
+Age 18-76 years
+Age ? 18 years
+At least 18 years of age
+Patients must be >_18 years of age
+Patients must be age >/= 18 years.
+Age >/= 18 years.
+At least 18 years of age
+At least 18 years of age
+At least 18 years of age
+At least 18 years of age.
+Age >18 years
+Age > 18 years
+Age ?18 years;
+Patients must be 18 years of age.
+Age > = 18 years of age
+Age < 18 years of age
+Age >18 years
+Patients must be at least 18 years of age.
+Age >/= 12 years
+Age ? 2 years.
+Age greater than 18 years.
+Age ? 18 years and ? 60 years
+Age ? 18 years and ? 75 years
+Age >18 years;
+Be ? 18 years of age.
+Age ?60 or
+Age ? 18 years.
+Age ? 18 years
+Age >/= 60 years
+Age ?18 years.
+Age > 18 years
+Participants must be ? 18 years of age.
+Age ?18 years
+Subjects must be ?18 years of age.
+Subject must be ?18 years of age.
+Patients must be > 2 years and < 30 years of age when registered on study.
+Patient must be ?18 years of age
+Demographics show age < 11
+Must be at least 18 years of age
+Age ?18 years
+Age ?18 years.
+Age ? 13 years.
+Age at diagnosis at least 18 years.
+Be ?18 years of age;
+? 18 years of age.
+Age ? 18 years
+Women ? 18 and ? 75 years of age.
+The patient must be ?18 years of age
+Patients must be ?18 years of age
+Age >= 70 years
+? 18 years of age
+Patients must be ? 18 years of age
+Age 18 years and above
+< 55 years of age
+?45 years of age and has not had menses for over 2 years
+Age ? 18 years
+Age ? 18 years.
+Subject is ?18 years of age
+Patients ?18 years of age;
+? 18 years of age
+Age >18 years
+Age >21 years
+? 18 years of age.
+Patients must be ? 18 years of age.
+Age ? 60 years
+Patients must be ? 18 years of age.
+Age ? 18 years.
+Age ? 60 years
+Age ? 18 years
+At least 18 years of age
+Age
+Age ? 50;
+Age > = 18 years
+Age ?18
+? 18 years of age
+Age ? 18 years.
+At least 18 years of age
+All patients must be at least 18 years of age
+Age >= 18 years
+Age ? 18 years.
+Patients must be >/= 18 years of age.
+Subject is < 18 years of age.
+Age ? 18 years.
+Subject is ? 75 years of age.
+Be at least 55 years of age
+Patients must be ? 18 years of age.
+Age ?18 years.
+Patient is at least 18 years of age at randomization.
+Women ? 18 years of age.
+Age: at least 20 years of age
+Age ? 18 years
+Age ?18 years.
+Age >/= 18 years
+Age ? 18 years.
+Age ?18 years;
+Patients must be ? 18 years of age.
+Age ?18 years
+Age ?18 years
+Age ? 18 years.
+Age at least 18 years.
+Age ? 18 years.
+Subject must be ?18 years of age.
+Age greater than18 years
+? 18 years of age
+?18 years of age.
+Age ? 18 years of age
+Age ?18 years.
+Age ?60
+Age ? 18 years (Age ? 12 years for patients with bone sarcomas).
+At least 18 years of age
+Age ?18 years
+2 years to 21 years of age
+Age ? 18 years.
+Patients must be ? 18 years of age.
+Up to 65 years of age
+Age >= 18 years
+Age > 18 years
+Age ?18 years.
+? 18 years of age
+? 18 years of age.
+At least 18 years of age.
+Age >= 65years.
+Be at least 18 years of age
+Age > 21 years
+Subjects age ?18 years
+Age >/= 60 years
+>= 18 years of age
+Age of >/= 18 years.
+?18 years of age
+Patients ?18 years of age.
+Age ? 18 years of age
+Age > 60 years
+Age at least 18 years at enrollment.
+Age ?18 years
+Age >= 18 years.
+Patients must be ? 15 years of age.
+Age ?18
+At least 18 years of age;
+Age ?18 years.
+Age ?18 years.
+Age ? 12 years
+Age > 18 years
+Age >=18 years
+Age ? 65 years
+age ?40 years through ?85 years of age;
+Age ? 18 years
+Age < 30 years
+Age >/= 18 years
+Age ? 18 years
+Age ?18 years.
+Age ?18 years of age.
+Age 18 years.
+Women ? 18 years of age
+?18 years of age
+18 years of age.
+Age ? 18 years.
+Age ? 18 years
+>18 years of age.
+Patients must be >18 years of age
+Age >/= 18 years.
+? 6 months and < 25 years of age
+Age >/= 18 years
+?18 years of age
+Subjects at least 18 years of age
+Age >=18 years (For subjects in Taiwan, Age >= 20 years)
+Must be ?18 years of age
+? 18 years of age.
+7. Age ?18 years.
+At least 18 years of age
+Age ? 18 years.
+Age ? 18 years.
+Age > or = to 16 years
+Age ? 18 years
+Age >= 18 years.
+Age ? 18 years
+Age ?21 years
+Age ? 18 years
+Age ?18 years.
+Age ?18 years
+Age ? 18 years;
+Patient is at least 18 years of age.
+Age ?18 years
+Patients ? 18 years of age.
+Age > or = to 21 years
+Age 18 to 70 years of age.
+?18 years of age.
+At least 18 years of age.
+Age >/= 18 years
+Age ?18 years
+Age ?18 years
+12 < 18 years of age
+Patient must be ? 18 years of age.
+Age ? 18 years
+Age>18
+Age ? 18 years.
+Age >= 18 years
+Age >21 years
+At least 18 years of age.
+Age ? 18 years
+Age ? 18 years.
+Age ? 18 years.
+Age ? 18 years. .
+Age ? 18 years.
+Age ? 18 years
+Age ?21 years
+Subject must be ?18 years of age
+Age ?18 years.
+Be at least 18 years of age
+At least 18 years of age
+Age >= 18 years
+Age: >3 months to <18 years of age.
+Age ? 18 years
+Age ? 18 years.
+Age ?18 years
+? 18 years of age
+At least 18 years of age
+Age <18 years.
+Age >18 years of age.
+Age ?18 years
+? 18 years of age
+Age ?18 years
+Age >21 years
+? 18 years of age.
+Age between 18 and 75 years
+Age ? 18 years.
+Age >=18 years
+Age ?18 years
+Age >=18 years
+Subject must be at least 18 years of age.
+Age 18 years or above
+Women ? 18 years of age
+Age 4 through 65 years
+-  Age >18 years.
+Age ? 18 years.
+Age ?12 years
+Age <18 years.
+? 18 years of age
+Age between 16
+Be ?18 years of age.
+Age ? 18 years
+Patients must be > 18 years of age
+Age of </= 18 years.
+Age 14-21
+Age ? 18 years of age
+At least 18 years of age
+Age ? 18 years.
+18 years of age
+Age > or = to 18 years.
+Patient is ?18 years of age.
+Must be ? 18 years of age
+Age ?18 years
+Age ?18 years
+Age ? 18 years.
+Must be at least 18 years of age
+Age ?18 years.
+at least 18 years of age
+Must be at least 18 years of age
+Age ? 18 years
+Age >/= 18 years.
+The participant is age ? 18 years
+Patient is ? 15 and < 75 years of age.
+1 to < 18 years of age
+Patients must be greater than 18 years of age
+Age ? 18 years
+15 to 39 years of age at diagnosis of first cancer
+Age 18 years or more
+Age ? 22
+Be over 18 years of age
+EXCLUSION FOR PARENTS: Patient is < 2 years of age, or > 24 years of age
+EXCLUSION CRITERIA FOR PATIENTS: Patient is < 2 years of age, or > 24 years of age
+PATIENTS: Age 30-89 years
+Age >= 18 years
+Be at least 18 years of age
+Are between 55 and 85 years of age
+Patients age ?60 years who:
+Any patient age ? 70 years.
+Patients age ?60 years who:
+Any patient age ? 75 years.
+Age ? 18 years
+Subjects must be at least 18 years of age
+Over age 18
+Subject is ?18 years of age.
+Under age 21;
+< 18 years of age
+Patients must be between 18 and 60 years of age
+Age >= 18 years
+Age >= 18 years and =< 70 years
+Age >= 18 years
+Patient is at least 18 years of age
+Age ?18 and ?65 years
+Age > 75 years
+? 18 years of age
+50 to 75 years of age
+At least 18 years of age
+Age 21-75 years at screening
+Age less than 18 years.
+Age < 18 years
+Age ? 18 years
+Age ? 18 years
+Age ?18 years.
+Age at treatment 1 to 35 years.
+Age > 18 years
+Age ? 18 years.
+18 years of age or over.
+Participants must be at least 18 years of age
+Patients who are at least 18 years of age
+Age >/= 18 years
+Under 50 or over 74 years of age
+Be ? 18 years of age
+Age ? 18 years.
+age 18+
+age ? 18 years
+Age > 65 years
+age >=18
+Age ? 18
+Patients must be >18 years-of-age.
+?18 years of age
+Patient is at least 18 years of age.
+Age ? 18 years
+Age ? 18 years
+Must be 18 years or older
+18 years or older
+18 years or older
+18 years and older (Japan-20 years and older)
+Female participants 18 years or older.
+18 years or older
+18 years of age or older at screening; outside the U.S. and European Union, an older limit could apply depending on local regulation (eg, 19 years and older for South Korea and 20 years and older for Taiwan).
+18 years or older
+18 years and older
+Patient is 18 years and older.
+Is 18 Years and older in the United States or 20 Years and older in Japan
+18 years and older.
+Eighteen years old or older
+18 years and older
+Subjects must be 18 years or older (? 15 years for PMBL)
+18 years and older
+18 years or older
+12 years and older unless not permitted by local regulations; in that case 18 years old and older
+Eligible 19 years and older in South Korea
+18 years and older.
+18 years or older
+18 years or older
+Patients must be 18 years or older at time of consent.
+Men or women participants 18 years or older.
+18 years or older
+Patients 18 or older
+18 years or older
+Patients must be 18 years old or older.
+Eligible study subjects in Part 1 and Part 2 must be 18 years or older
+Eighteen years old or older
+18 years or older, of either sex, and of any race
+Patients must be 18 years or older.
+18 years and older
+Men and women 18 and older
+Patients 18 years or older
+18 years or older
+Men and women 18 years old or older
+18 years or older
+Aim 5: 18 years or older
+Men and women, 18 years or older, with histologically or cytologically-confirmed either:
+For 7T scanning, patients must be 18 years or older
+Women who are 18 years or older.
+Female and male subjects ?18 years of age with one of the following:
+Male or female ? 18 years of age.
+Serum creatinine based on age/gender as follows:\r\n* Age 0 month to < 6 months; male 0.4; female 0.4\r\n* Age 6 months to < 1 year; male 0.5; female 0.5\r\n* Age 1 to < 2 years; male 0.6; female 0.6\r\n* Age 2 to < 6 years; male 0.8; female 0.8\r\n* Age 6 to < 10 years; male 1; female 1 \r\n* Age 10 to < 13 years; male: 1.2; female: 1.2\r\n* Age 13 to < 16 years; male: 1.5; female: 1.4\r\n* Age >= 16 years; male: 1.7; female: 1.4
+Male and female subjects, age >=18 years (at the time consent is obtained).
+Male or female patient, age >18 years
+Male or female subjects who are at least 18 to 70 years of age
+Male or Female at least 18 years of age
+Male or female subjects at least 18 years of age.
+Male or female ? 18 years of age at time of consent.
+Male or female patients age ? 18 years of age at the time of informed consent
+Female or male ? 18 years of age.
+Male or female, ?18 years of age (?20 years of age in Taiwan)
+Male or female ? 12 years of age
+Patient (male or female) ?12 years of age
+Male or female patients >/= 18 years of age with relapsed or refractory AML
+Male or female patients >/= 65 years of age with previously untreated AML ineligible for receiving standard intensive therapy
+Male or female ? 18 years of age
+Male or female patient ? 18 years of age
+Male or non-pregnant and non-lactating female, and ?18 years of age.
+Female or male patients ?18 years-of-age
+A serum creatinine (mg/dL) based on age/gender as follows:\r\n* Age: 3 to < 6 years; Male: 0.8; Female: 0.8\r\n* Age: 6 to < 10 years; Male: 1; Female: 1\r\n* Age: 10 to < 13 years; Male: 1.2; Female: 1.2\r\n* Age: 13 to < 16 years; Male:1.5; Female: 1.4\r\n* Age >= 16 years; Male: 1.7; Female: 1.4
+Male or female at least 18 years of age.
+Male or female patients, ? 18 years of age at the time of obtaining informed consent.
+Male or female, ? 18 years of age
+Subject is male or female and at least 18 years of age.
+Female or male, age ? 18 years.
+Male or female patients, ? 18 years of age at the time of obtaining informed consent.
+Age >18 year at the time of obtaining informed consent, male or female.
+Male or female subjects must be at least 18 years of age.
+Male or female patients ?18 years of age.
+Male and female patients ? 18 years of age;
+Age: Male or female age ? 2 years and < 22 years unless enrolled in Part E
+Male or female patients, age ?18 years (?19 years for South Korea)
+Male or female patients ? 18 years of age
+Patients (male or female) ? 18 years of age.
+Male or female patients ?18 years of age
+Male > 18 years of age
+Male or Female ? 18 years of age
+Male or female participants age 2 years to less than18 years and less than or equal to 25 years for osteosarcoma subjects at the time of informed consent.
+Male or female ? 18 years of age
+Male or female patients ? 18 years of age
+Male or female ? 18 years of age
+Age ?18 years male or female.
+Male or female ? 18 years of age.
+Serum creatinine based on age or creatinine clearance or radioisotope glomerular filtration rate (GFR) > 70 ml/min/ml/min/1.73 m^2\r\n* Age 1 to < 2 male 0.6 female 0.6\r\n* Age 2 to < 6 male 0.8 female 0.8\r\n* Age 6 to < 10 male 1 female 1\r\n* Age 10 to < 13 male 1.2 female 1.2\r\n* Age 13 to < 16 male 1.5 female 1.4\r\n* Age > 16 male 1.7 female 1.4
+Male or female children, <13 years of age
+Male or female patients ? 18 years of age.
+Male and female patients must be at least 18 years of age.
+Male or female patients, ? 18 years of age at the time of obtaining informed consent.
+Be male or female at least 18 years of age (at the time consent is obtained);
+Male or non-pregnant, non-lactating female patient at least 18 years of age at the time of consent;
+Male or female ?18 years of age
+Participant must be male or female at least 18 years of age at time of screening
+Male or female age ?18 years old;
+Male or female, Age ? 18 years.
+Male or female patients ? 18 years of age.
+Is a male or female ? 18 years of age, that has provided written informed consent.
+Male or female ? 2 years of age;
+Age >18 years of age; male or female.
+Male or female patient with age ? 18 years
+Male or female at least 12 years of age;
+Male or female patients, ? 18 years of age at the time of obtaining informed consent.
+Female or male subjects ?18 years-of-age.
+Male or female, age ? 18 years
+Male or female ? 21 years of age at Screening Visit.
+Male, age 45 to 80 years
+Male or female ?18 years of age
+Male or female subjects ? 55 years of age
+Male or female ? 18 years of age at time of consent
+Male or female ?18 years of age
+Male or female patients over 18 years of age
+Male or female ? 18 years of age.
+Female or male ?18 years of age
+Female, age ? 18 years
+Male or female ?18 years of age
+Subject is male or female and at least 18 years of age.
+Male or Female at least 18 years of age
+Male or female patients age ? 18 years of age at the time of informed consent
+Adult, at least 18 years of age, male or female
+Male or female ? 18 years of age
+Male or female ? 18 years of age at time of consent.
+Male and female subjects; age ? 18
+Male subjects of age ? 18 years
+Male or Female patients at least 18 years of age
+Male patients >/= 18 years of age
+Male or female patients >= 18 years of age
+male or female patients ? 18 years of age.
+Male or female patients > 18 years of age
+Male or female at least 18 years of age.
+Male ?18 years of age.
+Female subjects with age ? 18 years
+Male or female, at least 18 years of age at time of screening
+Male and female ? 18 years of age.
+Male or female patients of at least 18 years of age
+Male or female patients ? 18 years of age (only female patients in breast cancer cohort of Phase 2).
+male or female greater than or equal to 18 years of age
+Male or female 18 years of age or over.
+Male participants who are ?18 years of age
+Age ? 18 years, male or female subjects.
+Subjects (male and female for Part A and female for Part B) will be at least 18 year of age.
+Female, ?18 years of age
+Male or female ?18 years of age
+Male or female, at least 18 years of age
+Age ?15 years (US only), and 18-80 (rest of world (ROW)), male or female.
+Male or female at least 18 years of age
+Male or female patients ? 18 years of age
+Male and female patients at least 18 years of age
+Male or female patients, >= 18 years of age at the time of obtaining informed consent.
+Male or female ?18 years of age
+Male or female >=18 years of age.
+Male or female ?18 years of age.
+Male or female subject ? 18 years of age
+Male or female patients, > 18 years of age.
+Male or female at least 18 years of age
+Patients must be female at least 18 years of age.
+Male or female greater than or equal to 18 years of age.
+Male and female patients from 1 month to less than 18 years of age.
+Male or female ?18 years of age at the time of informed consent
+Male or female age ?18 years
+Female or male at least 18 years of age.
+Female or male of at least 18 years of age.
+Male or female, age >=18 years (at the time consent is obtained).
+Female, Age ?18 years.
+Male or female subjects at least 18 years of age at the time of consent;
+Female age 18 to 55 years
+Male or female, age ? 18 years and ? 65 years
+Male or female subjects ? 18 and ? 75 years of age
+Subject must be female ? 40 years of age
+Female or male patients at least 18 years of age
+Female over 21 years of age;
+Male or female, age ? 18 years old at the time of consent.
+Male or female subjects who are at least 18 years of age;
+Male or female age ? 18 years at the time of informed consent
+Male or female, ? 18 years of age.
+Subjects (male or female) ? 18 years of age
+Male or female subjects 2 to ? 21 years of age at the time of informed consent/assent.
+Male or female patients ? 18 years of age
+Paediatric patients aged 2 years to <18 years at the time of informed consent
+Subjects aged 16-70 may be enrolled into the osteosarcoma cohort.
+Aged at least 2 months and less than 18-years-old on Day 1 AND
+Aged ? 18 years.
+Aged at least 18 years
+Subjects must be aged between >= 18 years and =< 64 for AML and > 40 and =< 64 for ALL
+Aged ? 18 years.
+First relapsed participants aged less than (<) 60 years with first CR duration greater than (>) 1 year
+Aged ? 18 years, voluntarily consented to the study.
+Aged ? 18 years.
+Men and women aged 18 years and over
+Patients aged < 60 years who are unsuitable for standard induction therapy may be eligible after discussion with principal investigator (PI)
+Aged =< 3 years at diagnosis (not age of transplant)
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min OR a serum creatinine based on age/gender as follows:            \r\n* =< 0.4 mg/dL (for patients aged 1 month to < 6 months)\r\n* =< 0.5 mg/dL (for patients aged 6 months to < 1 year)\r\n* =< 0.6 mg/dL (for patients aged 1 to < 2 years)\r\n* =< 0.8 mg/dL (for patients aged 2 to < 6 years)\r\n* =< 1 mg/dL (for patients aged 6 to < 10 years)\r\n* =< 1.2 mg/dL (for patients aged 10 to < 13 years)\r\n* =< 1.4 mg/dL (for female patients aged >= 13 years)\r\n* =< 1.5 mg/dL (for male patients aged 13 to < 16 years)\r\n* =< 1.7 mg/dL (for male patients aged >= 16 years)
+Patients aged ?18 years at time of screening
+Patients aged >= 50 and < 75 years (yrs) with CMML, or previously untreated MDS or MPD
+Aged at least 18 years. Japan patients aged at least 20 years.
+Aged at least 18 years
+Aged at least 18 years.
+Aged at least 18 years.
+Aged at least 18 years. Patients from Japan aged at least 20 years.
+Patients aged > 18
+Aged ? 18 years.
+Men and women aged ?18 years
+Aged ? 18 years
+Men aged 18 to 90 years with a histologic diagnosis of prostate cancer;
+Aged at least 18 years.
+CHILD: Children treated for ALL or AML or LL aged 5-12 years and their parents/caregivers
+Women aged 18 and above;
+Children aged 5-13 years of age will participate with a waiver of assent
+INCLUSION CRITERIA FOR PARENTS: Parents of children who are aged 2-24 years
+INCLUSION CRITERIA FOR PARENTS: Parents of children who has provided written informed consent (child aged 18 years and older), written assent (child aged 13-17 years), verbal assent (child aged 7-12 years)
+INCLUSION CRITERIA FOR PATIENTS: Child aged 2-24 years
+INCLUSION CRITERIA FOR PATIENTS: Child has provided written informed consent (child aged 18 years and older), written assent (child aged 13-17 years), verbal assent (child aged 7-12 years)
+Patient aged 18-25 years: has signed informed consent for study participation
+Availability of a donor aged ? 16 years and ? 75 years who is eligible according to local requirements and regulations
+Adult (aged ? 18 years)
+Aged 40-79
+Subjects aged 18 years or more at the time of consent.
+Aged at least 18
+40 years of age or older at time of DCIS diagnosis
+Age of 18 years or older
+Subjects must be 18 years of age or older at the date of consent.
+Must be age 18 or older
+Age 18 years or older
+Age 18 years or older
+18 years of age and older.
+18 years of age or older
+18 years of age and older
+22 years of age and older
+Older than 18 years of age at time of consent
+Age 18 years or older
+Sarcoma Patients must be 14 years of age or older. All other patients must be 18 years of age or older.
+Men or women, age 18 years or older Part 1:
+18 years of age or older
+Age 18 or older
+Age 18 years or older
+Be 18 years of age or older and female
+The first 3 subjects enrolled on this study will be 18 years of age or older
+Must be 18 years of age or older.
+Be 18 years of age or older and female
+Subjects at least 18 years of age or older at the time of consent.
+Women age 21 or older who have:
+18 years of age and older
+18 years of age or older
+18 years of age or older
+DONOR: Must be 18 years of age or older
+Patients must be 18 years of age or older.
+18 years of age or older
+Are 18 years of age or older.
+Patients must be 18 years of age or older.
+Age 18 or older
+Age 18 years or older
+patients who are age 18 or older
+Age 70 years or older for AML and 60 years or older for MDS
+Men and women 18 years of age or older
+Age 18 years or older;
+18 years of age or older.
+Men and women age 18 and older
+18 years of age or older
+18 years of age or older
+18 years of age or older
+Women and men at least 18 years of age or older.
+Age 18 years or older.
+Men and women 18 years of age or older.
+Subject is age 18 years or older;
+Adult patients age 18 years or older.
+18 years of age or older.
+Age 18 years and older
+Female patient, age 18 years or older;
+Females, 18 years of age or older
+Age 18 years or older
+18 years of age or older
+Men and women 18 years old or older (or local age of majority)
+Age of 18 years or older
+18 years of age or older
+Postmenopausal females, 18 years of age or older.
+Is 18 years of age or older
+12 years of age or older (*Restrictions apply. Not all therapies are available for patients <18)
+18 years of age or older
+Be 22 years of age or older
+Subject is 21 years of age or older.
+Age 18 or older at time of study entry
+Female patients age 18 and older;
+the patient is 65 years of age or older
+18 years of age or older
+18 years of age or older
+Age 18 or older.
+Be older than or be 18 years of age
+18 years of age or older
+Age eighteen years or older on the day of consent.
+Patients must be 18 years of age or older.
+Subjects 70 years of age or older; OR subjects 60-69 years of age who have one or more comorbidities.
+Age 18 and older
+Men or women at least 18 years of age or older at time of study entry
+age 18yrs or older
+Patients must be 3 years of age or older
+DONOR: Age 18 years or older
+Be 18 years of age or older.
+Age 18 years or older
+DONOR: Age: less than age 18 or older than age 60
+18 years of age or older
+60 years of age or older, or
+18 years of age or older and decline methotrexate-based treatment.
+Subject is 22 years of age or older
+22 years of age or older
+Age of 18 years or older
+Age 19 years or older (age of consent in Nebraska); age 18 years or older (applicable to states where the age of majority is 18)
+Men and women of age 18 or older
+Age 18 or older
+Patient should be 15 years of age or older
+Age 18 years or older
+Age 18 and older
+Age 18 years and older.
+18 years of age or older
+18 years of age or older, female, any race
+Age eighteen years or older
+Age 18 years or older
+Age 18 years and older.
+Patient is 18 years of age or older
+18 years of age or older.
+The age limit - 18 or older. Gender is not a criterion.
+Eighteen (18) years of age or older
+Men or women 18 years of age or older
+Men, 18 years of age or older;
+Age 18 years or older.
+Age 18 years or older
+Patients must be 18 years of age or older
+Subjects must be 18 years of age or older
+Patient's age is 18 years or older, both genders.
+Age 18 years or older.
+Be older than 21 years of age.
+NOTE: patients 80 years of age or older must have approval from an oncologist or their designee to participate in this study
+Age 18 years and older
+Men and women age 18 and older
+21 year of age or older
+Female patients 18 years of age or older;
+Age 18 years of age or older at last transplant
+18 years of age or older
+Age 18 years or older
+Age 18 years or older
+Age 18 or older
+18 years of age or older at screening.
+65 years of age or older
+Age 21 or older;
+21 years of age or older
+Be 18 years of age or older and give written informed consent.
+18 years of age or older
+Age 30 or older
+1) 18 years of age and older
+Are 50 years of age or older
+LHW: age 18 or older
+Must be 21 years of age or older.
+18 years of age or older at the time of consent;
+Subjects must be age 18 years or older.
+18 years of age or older
+Age is 18 years or older.
+Older than 18 years of age
+Female, age of 18 years or older.
+Age of 18 years or older at time of entry into the study
+Female, age of 18 years or older.
+Female patients 18 years of age and older
+Age of 18 years or older.
+Age 18 or older
+Age of 16 years or older
+Men and women ?18 years of age
+Men and women ?18 years.
+Men and women greater than or equal to 18 years of age.
+Men and women ? 18 years of age.
+Men and women ? 18 years of age.
+Men and women at least 18 years of age
+Men and women of age ?18 years.
+Men and women of age ?18 years.
+Men over 18 years of age.
+Men and women, ? 65 years of age.
+Men and women patients 18 years of age and up
+Men or women.
+Men and women, ? 18 years of age
+Men or women.
+Men and women ? 18 years of age
+Men and Women ? 18 years of age
+Women and men ?18 years of age with performance status of 0 or 1
+Men and women ?18 years of age.
+Men and women ? 18 years of age.
+Men and women: ? 65 years of age OR > 18 and < 65 years of age, provided that they meet at least one of the following criteria:
+Men or women the age of majority in their country
+Men and women ? 18 years of age.
+Men and women ? 18 years of age.
+Men & women ?20 years of age
+Men and women ? 18 years of age
+Men and women ? 18 years of age
+Men and women ? 18 years of age
+Men and women ? 18 years of age
+Men and women ? 18 years of age
+Men and women ? 18 years of age.
+Men and women ? 18 years of age
+Men and women ? 18 years of age.
+Men and women ? 18 years of age.
+Men and women, ages ? 18 years of age
+Men or women ?18 years of age
+Men & women ? 18 years of age
+Men & women ?18 years of age
+Men & women ?18 years of age
+Women (regardless of menopausal status) or men ?18 years of age (or per local regulations).
+Men and women ? 18 years of age.
+Men and women ? 18 years of age.
+Adult men and women
+Men and women ? 18 years of age
+Men and women ?18 years of age
+Patients must be men and women >= 18 years of age.
+Men and women ? 18 years of age
+Creatinine value greater than 2.0 for men and 1.5 for women
+Men and women with cancer
+Men and women >18 years
+Men and women, ages ?18
+Patients are men or women at least 18 years of age.
+Male or female, aged 18 years and older
+Aged 18 years and older on the day of signing informed consent
+Aged 18 years or older.
+Is male or female, aged 18 years or older at the time of consent; preferably non-Asian.
+Male or female aged 18 or older
+Aged 18 years or older
+Men and women, aged 18 years or older (except in South Korea, aged 19 or older).
+Male and non-pregnant females who are aged 18 years or older at the time of provision of informed consent.
+Adult men and women aged 18 and older
+Aged 18 years or older
+Patients aged 18 years or older
+Aged 18 years or older at the time of consent
+Adult aged 18 years or older
+Males or females aged 18 years or older
+Male or female participants aged 18 years or older.
+Aged 18 years or older, with lymphoid malignancies of B-cell origin including:
+Male aged 18 or older with metastatic adenocarcinoma of the prostate
+Male or female aged 18 years and older.
+Male aged 18 years and older.
+Male or female, aged 18 years or older
+Male or female, aged 18 years or older
+Patients aged 20 years and older at the time of tentative registration (with no upper age limit)
+Men and women, aged 18 or older (except in South Korea, aged 19 or older).
+Females, aged 18 years or older
+Patients aged 18 years or older, inclusive
+Men and women, aged 18 years or older
+Males or females aged 18 or older
+Aged 18 years and older
+Aged 18 years or older
+Male or female aged 18 years or older.
+Aged 18 years or older
+Male or female patient aged 18 years or older.
+Male or female participants aged 18 years or older.
+Males or females aged 18 years or older
+A male or female, aged 18 years or older at the time of study entry.
+Male or female subject aged 18 years or older.
+Is a male or female participant aged 18 years or older.
+Female participants aged 18 years or older who are postmenopausal.
+Age >= 6 years at the NCI clinical center (>= 18 years at other participating sites)
+Medulloblastoma:\r\n* Posterior fossa classic, desmoplastic or extensive nodular or anaplastic/large cell medulloblastoma with appropriate and sufficient tumor material (FFPE or snap frozen) for proposed assays: all stages, age less than 6 years at diagnosis\r\n* Posterior fossa classic or anaplastic/large cell medulloblastoma with sufficient tumor material (FFPE or snap frozen) for proposed assays: clinically high-stage (neuraxis or extra-neural dissemination, M1-4), age greater than 6 years to less than 10 years at diagnosis\r\n* Posterior fossa medulloblastoma, those 6 years of age and above at diagnosis, will only be eligible if they have evidence of neuraxis or extraneural dissemination. Patients 6 years of age and above with low-stage (standard-risk, M0) medulloblastoma will NOT be eligible for this study, irrespective of molecular subgroup and extend of local resection
+Age of 18 years or older; in addition, patients age 12 to 17 years may enroll beginning in Cohort 2 if weight ? 40 kg
+Patients with body mass index (BMI) < 3rd percentile for age, as defined by WHO criteria for patients 1-2 years of age and Centers for Disease Control and Prevention (CDC) criteria for patients > 2 years of age, are not eligible
+Participants who are less than 10 years of age at start of maintenance chemotherapy
+Standard risk 1: Patient must be < 11 years of age at enrollment
+Standard risk 2: Patients must be >= 11 and < 25 years of age at enrollment
+Hemoglobin >= 8 g/dL for patients =< 16 years of age; >= 9 g/dL for patients > 16 years of age; Note: no transfusions are permitted 7 days prior to laboratory studies to determine eligibility
+Age ?18 years (or per national guidelines).
+Subjects must be age ? 21 years at initial diagnosis
+Subjects must be age >12 months at enrollment
+Subjects must be age ? 21 years at initial diagnosis
+Age ?18 (or age ? 20 of age as required by local regulation).
+18 years of age or order
+Subjects ?18 years of age for solid tumor; in the case of midline carcinoma with NUT rearrangement. subjects may be ?16 years of age.
+Pts must be ? 18 years of age
+Ability to give informed consent; all subjects >= 18 years of age must be able to give informed consent; for subjects < 18 years old their legal authorized representative (LAR) (i.e. parent or guardian) must give informed consent; pediatric subjects will be included in age appropriate discussion and verbal assent will be obtained for those > 7 years of age, when appropriate
+INCLUSION - PROCUREMENT: The first six (6) patients treated on the study should be adults (? 18 years [yrs] of age); six adolescents (age 12-18) should be treated before children (? 3 yrs of age) are eligible
+INCLUSION - TREATMENT: The first six (6) patients treated on the study should be adults (? 18 yrs of age); six adolescents (age 12-18) should be treated before children (? 3 yrs of age) are eligible
+Patients =< 25 years of age will be eligible for the pre-surgical cohort; patients between 18-25 years of age will be treated at the adult Food and Drug Administration (FDA)-approved dose of 960 mg BID and can be enrolled immediately; patients less than 18 years of age will be enrolled and treated at the pediatric MTD once it is defined in the safety cohort
+Patients =< 25 years of age with evaluable disease will be eligible for the expansion cohort; patients between 18 and 25 years of age will take adult dose of 960 mg BID and are eligible at the initiation of the trial; patients less than 18 years of age will take the MTD once it is defined in the safety cohort
+Must be ? 18 years of age. Due to increased risk of sepsis in patients >80 years old, candidate patients in this age group should be thoroughly evaluated prior to study randomization to ensure they are fit to receive chemotherapy. In addition to all of the inclusion/exclusion criteria listed, clinical judgment should be used regarding patients' susceptibility to infection (including but not limited to presence of ascites or diabetes mellitus increasing risk of infection). Furthermore, the expected stability of their performance status while receiving repeat weekly chemotherapy cycles should be given special attention. Patients in this age group should not be randomized on the study should there be any hesitation on any of these considerations.
+Children under the age of 18
+Participants with 1 to less than (<) 18 years of age (Part 1 only), or 1 to 30 years of age, inclusive, if initial diagnosis of mature B-cell non-Hodgkin lymphoma (NHL) occurred at <18 years of age (Part 2 only)
+Age >= 18 years or age of majority at the participating site, whichever is greater
+Normal cardiac stress test for patients over 50 years of age
+Age ?18 years. Because no dosing or adverse event data are currently available on the use of ipilimumab or indoximod in patients <18 years of age, children are excluded from this study.
+Because no dosing or adverse event data are currently available on the use of enzalutamide and CRLX101 in patients < 18 years of age and prostate cancer is not common in children < 18 years of age, children are excluded from this study.
+Patients: Patients of any age and either gender
+Age > 55 years with no menses for 12 or more months without an alternative medical cause.
+Age ? 55 years with no menses for 12 or more months without an alternative medical cause AND an FSH level > 40 IU/L; or
+Male subjects must, as appropriate to age and the discretion of the study physician:
+Age > 55 years with no menses for 12 or more months without an alternative medical cause.
+Age ? 55 years with no menses for 12 or more months without an alternative medical cause AND an FSH level > 40 IU/L; or
+Age 27- 69 at enrollment
+ECOG Performance Status (PS) of 0, 1 or 2. For newly diagnosed AML patients < 75 years of age, ECOG 0-3; for ? 75 years of age, ECOG 0-2.
+Minimal limitation on activities of daily living as measured by Karnofsky ? 50 for participants > 16 years of age or Lansky ? 50 for participants ? 16 years of age.
+Age 40 years or older; this age cutoff is justified because breast cancers in women under the age of 40 are known to have a significantly higher risk of IBTR presumably due to underlying biologic differences
+Patient age criteria: age >= 18 and =< 45 years (myeloablative regimen 1; age >= 18 and =< 80 years (nonmyeloablative regimen 2) at the discretion of the investigator(s); age >= 18 and =< 80 years old that in the opinion of the investigator(s) would preclude myeloablative therapy may receive reduced intensity regimen 3
+Age >= 40 to < 75 years; patients 18 to 39 years of age will be eligible only if the investigator has determined that the patient has comorbidity(ies) precluding conventional allogeneic transplantation with full intensity myeloablative conditioning
+Age ? 10 year for Liposarcoma, Osteosarcoma, and Ewing sarcoma; Age ? 5 years for Rhabdomyosarcoma cohorts
+Age < 80 years and at least 1 of the following conditions:
+Children (< 18 years of age), pregnant women, University of California employees or students, or prisoners will be excluded from this study
+Age-adjusted serum creatinine < 1.5 x normal for age
+There are no age restrictions
+Age: up to and including 18 years at diagnosis of Haemophagocytic Lymphohistiocytosis
+Must have a life expectancy of at least 5 years based on age and co-morbidities.
+Infants with post-menstrual age (PMA) <36 weeks
+Group B: Individuals > 70 years of age with previously untreated AML or individuals < 70 years of age with previously untreated AML who refuse or are unable to receive cytarabine as determined by the treating physician
+Age: \r\n* Stratum I (TMI containing arm): 18-60 years of age\r\n* Stratum II (non TMI arm): 18-70 years of age
+MLL rearranged AND age > 6 months
+INCLUSION CRITERIA FOR CCT: age between 1 and 21 years and able to cooperate with radiation safety restrictions during therapy period
+Postmenopausal defined as women >54 years of age with amenorrhea for ? 2 years prior to screening
+Age 55 years and 1 year or more of amenorrhea
+Man or woman, age >18 years
+Male or female outpatient of ? 18 years of age or ? country's legal age for adult consent
+Minimum age 18 years (in Japan, minimum age 20 years).
+Has reached the age of majority in their country
+One of the following:\r\n* Age >= 60 years\r\n* Age < 60 years but unsuitable for standard chemotherapy because of a cardiac ejection fraction of < 50%, a pulmonary diffusion capacity < 80%, or a creatinine clearance >= 30 and < 60 mL/min, or refused standard chemotherapy despite efforts to convince them otherwise
+Age (must have body surface area [BSA] >= 0.55 m^2):\r\n* Phase I: >= 3 and =< 21 years of age\r\n* Phase II: >= 3 and =< 35 years of age
+> 85 years of age must be approved by principal investigator
+Minimum Age 18 years (in certain territories, the minimum age requirement may be\n             higher eg age 20 years in Japan and Taiwan)
+For patients < 18 years of age, their legal guardian must give informed consent; pediatric patients will be included in age-appropriate discussion in order to obtain verbal assent
+Ability to give informed consent; for subjects < 18 years old their legal guardian must give informed consent; pediatric subjects will be included in age appropriate discussion and verbal assent will be obtained for those >= 12 years of age, when appropriate
+Serum estradiol level assay (required for patients < 55 years of age and one year or more of amenorrhea) < 20 pg/mL
+Ability to give informed consent; for patients < 18 years of age their legal guardian must give informed consent; pediatric patients will be included in age-appropriate discussion in order to obtain verbal assent\r\n* Durable power of attorney form completed (patients >= 18 years of age only)\r\n* Female patients (and when relevant their male partners) must be willing to practice birth control (including abstinence) during and for two months after treatment, if of childbearing potential
+In subjects between 65 and 75 years of age, physiologic age and co-morbidity will be thoroughly evaluated before enrolling; specifically, any history of cardio-vascular pathology or symptoms, not clearly fitting the exclusion criteria will prompt an evaluation by a Clinical Center Cardiologist and eligibility will be considered on a case-by-case basis
+Assignment of DPA to a family member or guardian should be offered to all patients 18 years of age or older
+Age 18 - 80 years; age > 80 allowed at investigator discretion if performance status ? 1; and each organ system score ? 2 using cumulative illness rating scale (CIRS)
+Age ? 18 years or the minimum legal adult age (whichever is greater) at the time of Informed consent.
+Male subjects, as appropriate to age and the discretion of the study physician:
+Patients must be > 24 months and < 30 years of age when registered on study.
+Age ? 55 years and one year or more of amenorrhea
+Age < 55 years and one year or more of amenorrhea, with an estradiol assay < 20 pg/mL
+At least 15 years of age Except: where local regulations and/or institutional policies do not allow for subjects < 18 years of age (pediatric population) to participate. For those sites, the eligible subject population is ? 18 years of age
+Men and women 18 years of age to 80 years of age of any ethnic origin or race at the time of signing the ICD.
+Patients age >= 55 years with AML OR patients age < 55 years with AML, who also through pre-existing medical conditions or prior therapy are considered to be at high risk for serious toxicities associated with a conventional, high-dose preparative regimen
+Age superior or equal to 18 years or country's legal age of majority if the legal age is superior to 18 years old.
+Adult women (? 18 years of age) with advanced TNBC.
+Participant is female and ? 18 years of age or older if required by local laws or regulations
+Male or female, greater than or equal to (>=) 18 years of age (or having reached the age of majority according to local laws and regulations, if the age of majority is > 18 years of age); [i.e. >= 20 years of age in Japan])
+Subjects ? 18 years of age must have the ability to give informed consent according to applicable regulatory and local institutional requirements. Legal guardian permission must be obtained for subjects < 18 years of age. Pediatric subjects will be included in age appropriate discussion in order to obtain assent.
+Age ?18 years (? 20 years in Japan).
+Female patients must have a bone age of equal to or greater than 12 years of age as determined by local read of appropriate radiographic imaging
+Male patients must have a bone age of equal to or greater than 14 years of age as determined by local read of appropriate radiographic imaging
+Cohort 1 patients must have measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1\r\n* Note: patients in Cohort 1 will be stratified as follows:\r\n** Stratum 1: Patients >= 11 years of age but < 18 years\r\n** Stratum 2: Patients >= 11 years of age but < 50 years
+Minimum age in Japan is 20 years.
+Is the age of majority in country of residence
+Untreated AML, greater than or equal to 60 years of age and are not candidates for standard therapy due to age, performance status, and/or adverse risk factors, according to the treating physician and with approval of the Medical Monitor;
+Subjects must be>/= 18 years of age at the time of informed consent, because no dosing or adverse event data are currently available on the use of eltrombopag in children.
+Age >= 60 years and not candidates for conventional cytotoxic chemotherapy or refuse it; OR patients below the age of 60 years who are considered unfit and/or unable to tolerate standard chemotherapy at the discretion of the treating physician or the principal investigator
+Adult patient, >/= 18 years of age
+Subjects younger than 18 years of age
+Patient age > 50, or for patients < 50 years of age but because of pre-existing medical conditions or prior therapy are considered to be at high risk for regimen-related toxicity associated with conventional myeloablative transplants
+MATCHED RELATED DONOR: Age >= 2 and =< 60 years old and able to give consent or assent; for donors < 18 years old, the legal guardian must be able to provide informed consent and an evaluation by a licensed social worker (LSW) or psychiatric personnel will be needed to determine willingness to participate; pediatric patients will be included in an age appropriate discussion in accordance with institutional guidelines
+18F FLT CANDIDATE TRANSPLANT RECIPIENT: Age >= 18 years old at National Cancer Institute (NCI), and age > 4 years and < 24 years at Children’s National Medical Center
+E 05. Less than 18 years (or country's legal age of majority if the legal age is >18 years).
+Eighteen years of age or above
+Unable to receive intensive chemotherapy regimens at enrollment, based on one of the following: I. Age ? 75 years, or II. Age < 75 years with at least 1 of the following co-morbidities:
+Age ?18 years. A patient may be of either sex and of any race/ethnicity.
+Patients under the age of 18.
+For ESFT patients age ?12 years.
+For ESFT patients age ?12 years.
+Specific eligibility criteria stratum 4:\r\n* Disease status: \r\n** Age between 6 and 18 months of age\r\n** Patients must have a symptomatic and/or life threatening plexiform neurofibroma(s)
+Age >= 16 years (age > 18 years to participate in optional symptom burden assessment)
+Minimum age 18 years (in certain territories, the minimum age requirement may be higher (e.g. 20 years in Japan and Taiwan)
+Patients must be ?1 and ? 21 years of age when originally diagnosed with ALL. Diagnosis
+Subjects ? 16 years of age: Karnofsky ? 60% (Appendix A)
+Patients > 18 years of age must have the ability to give informed consent according to applicable regulatory and local institutional requirements. Legal guardian permission must be obtained for patients < 18 years of age. Pediatric patients will be included in age appropriate discussion in order to obtain assent
+Male or female outpatients (except where inpatient stay is required for medical need at the Investigator's discretion) at least 18 years of age at the time of informed consent
+Patients over 18 years of age, regardless of race of gender
+Adult subjects; age ? 18
+Patients younger than 15 years of age
+Male or female subjects with age ? 18 years or the otherwise legal lower age according to the country of residence;
+Adult patients, >/= 18 years of age
+Adult patients, >/= 18 years of age
+Patients above the age of 60 only with principal investigator (PI) approval
+Adult patient, >/= 18 years of age
+Adult participants, >/= 18 years of age
+Adult patients, >/= 18 years of age
+Eighteen years of age or above
+Is 0 months (at least 37 weeks gestation) to <18 years of age
+Patients must be < 30 years of age when registered on study.
+Age-adjusted serum creatinine 1.5 x normal for age/gender
+For the initial dose escalation to identify the maximum tolerable or PK target dose, age between 2 years and <18 years (inclusive) at the time of signing the informed consent form. Children < 2 years of age will be enrolled once the age specific expansion cohorts are open.
+Adult patients, >/= 18 years of age
+Patient is ? 18 years of age on the day of consent signature
+Age and Reproductive Status
+Participants must be < 31 years of age at the time of study entry\r\n* Participants currently on therapy at St. Jude, or within 3 years of completing therapy at St. Jude must be =< 24 years of age\r\n* Other participants must be =< 21 years of age
+Patients < 65 years of age with histologically confirmed refractory or relapsed Hodgkin’s disease (including patients who fail or relapse after autologous stem cell transplant [SCT]); this upper age limit will apply to transplants from both matched related and unrelated donors
+Patients up to 65 years of age at time of registration with a diagnosis of SAA; SAA is defined as follows:
+The parent must be at least 18 years of age to ensure the age of majority across all participating sites to legally consent their child
+One parent (? 18 years of age) can be present for all sessions
+PROVIDER ELIGIBILITY: The participant is greater than 18 years of age
+EXCLUSION FOR PARENTS: Parent is < 18 years of age
+Co-survivors must be over the age of 18 years
+Qualitative interviews will be conducted in patients (age 10 years or older) with their assent/consent; patients (age 10-17.9 years) will be asked to complete surveys that have been validated in this age group and that offer insight into the usefulness of the BMT Roadmap; patients (18 years or older) will be asked to complete surveys
+Child: child is age 5 to 17 years, 11 months
+Age\r\n* For centers that will use fluconazole as the antifungal comparator:\r\n** Age >= 3 months and < 21 years\r\n* For centers that will use voriconazole as the antifungal comparator:\r\n** Age >= 2 years and < 21 years
+Women age 18 years or older who self-identifies as African-American
+At least 25 years of age who self-identifies as African-American
+Cancer diagnosis prior to 22 years of age, irrespective of current age
+Cancer onset before the age of 21
+Is ?18 years or the minimum legal adult age (whichever is greater) and ?75 years (at Screening);
+For dose-escalation stage (suspension): age at study entry >= 6 months to < 18 years. Participants <1 year of age will not be enrolled until >= 6 participants >= 1 year to < 18 years of age have received at least one cycle of therapy with suspension and until safety and pharmacokinetic assessment of these participants have been conducted.
+For expansion stage: age at study entry to be >= 6 months (>=6 years if suspension is not available) to < 30 years. Participants >= 6 months to < 1 year of age may not be enrolled until >= 6 participants >= 1 year to < 18 years of age have received at least one cycle of therapy with suspension in the dose-escalation phase and until safety and pharmacokinetic assessment of these participants have been conducted.
+Caregivers: At least 18 years of age
+Bone Mineral Density (BMD) requirements: Osteopenia if under 70 years of age; Osteopenia or normal BMD if over 70 years of age
+First-degree relatives (parents, siblings and adult children >= 25 years of age) of the CRC participants who do not have LS
+Were diagnosed with a childhood cancer prior to the age of 21 years
+Have at least 2 relatives with breast cancer on the same side of the family, one of which is =< 50 years of age
+Patient must have had a cancer diagnosis < 22 years of age, irrespective of current age
+Age ? 18 (or legal age of majority for sites outside US).
+RECIPIENT: Age 18 to 75 years
+Have at least one child under age 18 who is living in the same household
+Male or female, age ? 16 and ? 75 years (If applicable, local legal requirements for donors under the age of 18 will be followed)
+Male subjects 40-70 years of age diagnosed with adenocarcinoma of the prostate;
+Male or female subjects ? 21 years-of-age with the demonstrated ability to swallow capsules whole and who are willing to provide access to previously obtained biopsy results
+Have age-appropriate functional performance:
+Family history of CRC diagnosed before the age of 60 years
+Age ? 55 years and one year or more of amenorrhea
+Age < 55 years and one year or more of amenorrhea, with an estradiol assay < 20 pg/ml
+Adult patients at least 18 years of age
+Individuals who are less than 18 years of age
+Signed document of assent obtained if child >= 10 years of age
+Signed written informed consent (by parent if patient is < 18 years of age, or by patient, if he or she is >= 18 years of age)
+Patient assent for those >= 10 years of age and < 18 years of age for whom a parent provides informed consent
+Do not fit age criteria
+Patients over the age of 18.
+Adult male >/= 18 years of age
+Pediatric patients of any age are eligible, including those that may require sedation for MRI; more specifically, children 0-17 years of age and adults >= 18 years of age are eligible
+Adult patients over 18 years of age;
+All men > 40 years age and <80 years of age with an indication for a prostate biopsy will be offered inclusion in the study. Typical indications for biopsy include abnormal PSA (prostate specific antigen) and/or abnormal DRE (digital rectal exam).
+Age and Reproductive Status
+Age between 18 and 70 years (both inclusive).
+Male and non-pregnant female patients 16-70 years of age (inclusive)
+Patient is between 18 and 75 years of age, inclusive.
+DONOR: Must be 18-80 years of age, inclusive
+Age between 18 and 75 years, inclusive.
+Aged between 18 and 75 years, inclusive.
+Age between 18 and 70 years, inclusive.
+Nonlactating female between the ages of 21 to 65 years, inclusive;
+Men and women 18 to 85 years of age, inclusive.
+Patient of age between 50 to 75 years, inclusive.
+DONOR: Donors must be 18-75 years of age, inclusive
+Pediatric participants, 12 to 17 years of age inclusive
+Not willing to use contraception (inclusive of abstinence)
+Age between 18 and 75 years old (both inclusive)
+13 to 17 years of age inclusive at screening.
+Participant’s age is 1 to 39 years, inclusive; (St. Jude participants must be aged 1 to 25 years)
+Adult male and female patients (18 to 75 years of age, inclusive);
+Male or female of 18 to 85 years of age (inclusive);
+Adult men and women subjects aged 18 to 75, inclusive.
+Male or female between one month and <18 years of age (inclusive) at the time of signing the informed consent form (Part C and Part D between 12 months and <18 years of age, inclusive).
+Donor must be 18 to 70 years of age inclusive.
+Recipient must be 18 to 75 years of age inclusive.
+Male or female, at least 18 years of age, inclusive. 2. Subject has a symptomatic MPE requiring intervention. For an effusion to be defined as malignant, at least one of the following must be true:
+Sodium 135-144 mmol/L (inclusive)
+Subject is aged 6 months to 21 years inclusive.
+Aged 18 to 65 years inclusive
+Adults (Age ? 18 years)
+Adults age 18-80 years
+Adults 18 years of age or older
+Adults 18 years of age or older.
+Adults ?18 years of age
+Adults ?18 years of age
+Adults with AML in need of treatment
+Adults unable to consent
+Individuals who are not yet adults (infants, children, teenagers)
+Adults, age 60 years or older at the time of diagnosis
+Adults with ALL in need of treatment
+Adults (aged ? 18 years)
+Adults ? 18 years of age.
+Adults >/= 18 years old
+Adults (aged ? 18 years)
+Non-pregnant female adults at least 18 years of age at time of informed consent
+Adults >/= 18 years old
+Adults
+Adults > 18 years of age
+Adults >/=18 years
+Adults ? 18 years old
+Vulnerable populations (adults unable to consent, individuals who are not yet adults, wards of the state, prisoners)
+Vulnerable population: adults unable to consent, individuals who are not yet adults (infants, children, teenagers), pregnant women, and prisoners
+Patients are eligible regardless of concurrent enrollment on protocol 13-492 (Predictors of Chemotherapy Toxicity in Older Adults)
+Adults over the age of 65 will generally be excluded from the study; older subjects could be included at the discretion of the PI
+Adults unable to consent
+Individuals who are not yet adults (infants, children, teenagers)
+ADULTS
+ADULTS
+Male or female subjects, age 18 years or older
+Male or female, age 18 years or older
+Male or female patients 18 years of age or older
+Male or female patients age 18 years and older, inclusive, at the time of informed consent
+Age 18 years or older, male or female.
+Male or female age 18 years or older.
+Male and female patients of any race, 18 years or older
+Male and female who are 18 yrs or older
+Male or female, age 18 years or older
+Male or female subjects age 18 or older.
+Male; 18 years of age and older
+Male or female at least 22 years of age or older.
+Female or male, 18 years of age or older.
+Female or male patients 18 years of age or older
+Male or female participants 18 years or older.
+Male or female subjects, age 18 years or older.
+Male or female, age 18 years or older.
+Male patients, 18 years of age or older
+Male or female age 21 years or older
+Male or female, 18 years or older.
+Male or female, 18 years or older (at the time consent is obtained).
+Patient is male or female 18 years or older
+Male or female 18 years of age or older
+Male 18 years and older
+Male or female subjects, age 18 years or older
+Male or female patients age 18 years and older, inclusive, at the time of informed consent
+Male or female participants 18 years or older.
+Must be male or female, 18 years of age or older, and of any ethnic or racial group
+Male or female 16 years or older, at the time of signing the informed consent.
+Male or female, age 18 years or older
+Male or female participants 18 years or older.
+Male or female subjects, age 18 years or older on day of signing consent
+Male or female patients 18 years of age or older.
+Male or female patients 18 years or older
+Male or female participants 18 years of age or older.
+The patient is male or female, age 18 years or older
+Male or female patients 18 years or older
+Male or female patients 18 years of age or older
+Male or female subjects, age 18 years or older
+Male or female age 18 years or older
+Female or male, 18 years of age or older
+Male and female subjects 18 years of age and older at the time of screening
+Male or female participants 18 years of age or older when written informed consent is obtained.
+Male or female participants 18 years of age or older when written informed consent is obtained.
+Male or female patients 18 years or older
+Male or female, age 18 years or older.
+Male or female participants 18 years of age or older.
+Male or female participants 18 years of age or older.
+Male or female, 18 years of age or older
+Age 18 years or older; male or female
+Male or female patients 18 years of age or older
+Male or female patients 18 years or older
+Age 18 years or older, male or female
+Male or female patients 18 years or older
+Male and female subjects 18 years and older
+Male or female, 18 years or older (at the time consent is obtained)
+Male subjects age 50 and older.
+Male and Female patients 18 years of age and older
+Male or female subjects age 18 or older
+Male or female, age 18 years or older
+Male and female patients 18 years of age or older.
+Male or female participants 18 years or older.
+Is a male or female participant of 18 years or older.

@@ -1,0 +1,13 @@
+Patient must not have a / HLA matched family member or unrelated donor.
+Has a suitable single haplotype matched (>=  of ) family member donor
+DONOR: At least single haplotype matched (>=  of ) family member
+Has a suitable single haplotype matched (>=  of ) family member donor
+DONOR: At least single haplotype matched (>=  of ) family member
+DONOR: Partially HLA matched family member
+DONOR: Partially HLA matched family member
+Has a suitable single haplotype matched (>=  of ) family member donor
+DONOR: At least single haplotype matched (>=  of ) family member
+Has a suitable partially human leukocyte antigen (HLA)-matched (>=  of ) family member donor
+At least single haplotype matched (>=  of ) family member
+Has a suitable human leukocyte antigen (HLA) partially matched family member donor (HLA identical or phenotypically matched / family member donors will not be used on this protocol)
+DONOR: At least single haplotype matched (>=  of ) family member

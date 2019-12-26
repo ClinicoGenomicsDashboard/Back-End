@@ -1,0 +1,239 @@
+Patients must have Barcelona Clinic Liver Cancer (BCLC) stage: intermediate (B) or advanced (C) within 28 days prior to study entry
+Patients must have a diagnosis of neuroblastoma or ganglioneuroblastoma (nodular) verified by tumor pathology analysis or demonstration of clumps of tumor cells in bone marrow with elevated urinary catecholamine metabolites; the following disease groups are eligible:\r\n* Patients with International Neuroblastoma Risk Group (INRG) stage M disease are eligible if found to have either of the following features: \r\n** MYCN amplification (> 4-fold increase in MYCN signals as compared to reference signals), regardless of age or additional biologic features; OR \r\n** Age > 547 days regardless of biologic features\r\n* Patients with INRG stage MS disease with MYCN amplification\r\n* Patients with INRG stage L2 disease with MYCN amplification \r\n* Patients > 547 days of age initially diagnosed with INRG stage L1, L2 or MS disease who progressed to Stage M without prior chemotherapy may enroll within 4 weeks of progression to Stage M\r\n* Patients >= 365 days of age initially diagnosed with MYCN amplified INRG stage L1 disease who progress to Stage M without systemic therapy may enroll within 4 weeks of progression to stage M
+Histologic documentation of women or men with node positive, HER2 negative, anatomic stage II or III breast carcinoma and high risk node negative (defined as estrogen receptor [ER] and progesterone receptor [PR] negative and tumor size > 2 cm) within one year of diagnosis and free of recurrence; patients with pN1mic are eligible; if neoadjuvant therapy was received, either initial clinical stage (determined by physical and or radiologic examination) or post-operative pathologic stage can be used for eligibility purposes, with the higher stage determining eligibility; histologic documentation of node positivity is required; bilateral breast cancers are allowed, as long as both cancers are HER2 negative and at least one of the cancers meets eligibility
+Patients must have histologically or cytologically confirmed extensive stage small cell lung cancer and must be a candidate for systemic therapy; NOTE: The extensive disease SCLC classification for this protocol includes all patients with disease sites not defined as limited stage; limited stage disease category includes patients with disease restricted to one hemithorax with regional lymph node metastases, including hilar, ipsilateral and contralateral mediastinal, and/or ipsilateral supraclavicular nodes; extensive disease patients are defined as those patients with extrathoracic metastatic disease, malignant pleural effusion, bilateral or contralateral supraclavicular adenopathy
+Patients who have received prior chemoradiation for limited-stage SCLC must have been treated with curative intent at least 6 months since last treatment from diagnosis of extensive-stage SCLC
+Low risk stratum (stage I ovarian immature teratoma and stage I malignant GCT [all sites]): Patients must be < 50 years of age at enrollment
+Low risk stage I immature teratoma (IT); site: ovarian; stage: Children's Oncology Group (COG) stage I, Federation of Gynecology and Obstetrics (FIGO) stage IA and IB; grade: 2 or 3; histology: pure immature teratoma, mixed immature and mature teratoma, (no pathological evidence of mediastinal germ cell tumor [MGCT]); tumor markers: alpha-FP =< 1,000 ng/mL, beta-HCG institutional normal; age (years) < 50
+Low risk stage I MCGT; site: ovarian, testicular, or extragonadal; stage: COG stage I, FIGO stage IA and IB, American Joint Committee on Cancer (AJCC) testicular stage IA and IB; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); age (years) < 50
+Standard risk 1 (SR1); site: ovarian, testicular, or extragonadal; stage: COG stage II-IV, FIGO stage IC, FIGO stage II-IV; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); age (years) < 11
+Standard risk 2 (SR2)\r\n* Site: ovarian; stage: COG stage II and III, FIGO stage IC, II and III; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); age (years) >= 11 and < 25\r\n* Site: testicular; stage: COG stage II-IV, AJCC stage II, III, International Germ Cell Consensus Classification (IGCCC) good risk; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); tumor markers: for IGCCC good risk: alpha-FP < 1,000 ng/mL, beta-HCG < 5,000 IU/mL and lactate dehydrogenase (LDH) < 1.5 x normal; age (years) >= 11 and < 25\r\n* Site: extragonadal; stage: COG stage II; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed) age (years) >= 11 and < 25
+Patients with any diagnoses not listed including:\r\n* Stage I testicular cancer patients who have undergone primary RPLND (retroperitoneal lymph node dissection)\r\n* Pure dysgerminoma and pure seminoma\r\n* Pure mature teratoma\r\n* Pure immature teratoma COG stage I with alpha-fetoprotein (AFP) >= 1000 ng/mL\r\n* Pure immature teratoma COG stage II - IV or FIGO stage IC to IV\r\n* Poor risk disease (age >= 11 years old and COG stage IV ovarian, COG stage III or IV EG, or IGCCC intermediate or poor risk testicular), or\r\n* Primary central nervous system (CNS) germ cell tumor
+Stage T2a/b (> 5 cm) and grade 2 or 3 AND
+Patients must be:\r\n* < 12 months (< 365 days) of age at diagnosis with INRG stage L1; or\r\n* < 18 months (< 547 days) of age at diagnosis with INRG stage L2 or stage Ms neuroblastoma/ganglioneuroblastoma
+Clinical stage >= T2NxM0 or TanyN+ disease for which radical or partial nephrectomy is planned
+Patients with newly diagnosed, pathologically confirmed cHL meeting one of the following Ann Arbor stages are eligible:\r\n* Stage IIB with bulk\r\n* Stage IIIB\r\n* Stage IVA\r\n* Stage IVB\r\n** If study eligibility by staging is uncertain, consultation with Imaging and Radiation Oncology Core (IROC) Rhode Island (RI) may be obtained prior to study enrollment
+Patients with stage I disease are not eligible
+Patients with apparent stage I disease who have not undergone a staging procedure
+Subjects who are 12-18 months of age with INSS Stage 4 and all stage 3 subjects with favorable biologic features (ie, nonamplified MYCN, favorable pathology, and DNA index > 1) are not eligible.
+Clinical Diagnosis of CTCL stage IA, IB, or IIA with biopsy within last 3 months
+CTCL that is stage IIB or great or stage IIA with stage N2 with >5% circulating Sezary cells or CD8+ or large cell transformation or Progressive CTCL
+Stage B (not applicable for transarterial chemoembolization [TACE]), or stage C based on Barcelona Clinic Liver Cancer (BCLC) staging system
+Barcelona Clinic Liver Cancer (BCLC) stage B (that is not eligible for locoregional therapy) or stage C
+Has stage III or stage IV disease that is not surgically resectable. Stage IIB (T3N0M0B0-1) cutaneous T cell lymphoma (CTCL) participants are eligible.
+Has stage III or stage IV disease that is not surgically resectable. Stage IIB (T3N0M0B0-1) CTCL participants are eligible.
+Must meet criteria for high risk disease\r\n* Patients ? 365 days initially diagnosed with INSS stage 1 or 2 who progressed to a stage 4 without interval chemotherapy
+Biopsy-proven, previously untreated stage III or IV squamous cell carcinoma of the larynx, Primary tumor stage (T2, T3) and nodal stage (N0, N1, N2, N3).
+Any T stage with ? N2 disease;
+T4 disease, any N stage;
+T3 Oral Cavity, any N stage; or
+Stage 1, 2, 3 or early and intermediate stage IVa (T1N0-2B, T2N0-2B) (level 2, non-matted) disease without evidence of distant metastases or extracapsular extension; primary site must be lateralized for a functional dissection
+Clinical stage TIC or T2a
+Histologically confirmed early stage urothelial carcinoma of the bladder defined as Ta, T1, or Tis stage; tumor staging must be confirmed by TURBT performed within 42 days prior to registration
+Locoregional disease with clinical stage of T1N1 or T2-3N0-2
+Histologically confirmed endometrial carcinoma: endometrioid type, serous, and clear cell to include tumors originating in the cervix, but are primarily located in the uterus, and for whom vaginal cuff brachytherapy is indicated, with principal investigator (PI) confirmation; carcinosarcoma and other sarcomas are permitted; Federation of Gynecology and Obstetrics (FIGO) 2009 stage I and stage II, with one of the following combinations of stage and grade:\r\n* Stage IA, grade 2, 3\r\n* Stage IB, grades 1-3\r\n* Stage II, grades 1-3
+Clinical or pathologic stage T2 –T4 disease including T4a and 4b if feasible to treat with radiation therapy
+Cervical carcinoma Stage 1B or less
+Patients with advanced stage non-mycosis fungoides (MF) CTCL are eligible including, but not limited to, advanced stage lymphomatoid papulosis (LyP) or primary cutaneous anaplastic large cell lymphoma (pcALCL)
+Subjects must have a clinical diagnosis of CTCL (mycosis fungoides), Stage IA, Stage IB, or Stage IIA.
+Has FIGO Stage IVB
+Stage I-IIIA (stage I tumors must be >= 4 cm)
+Patients with stage I-IVA are eligible
+Stage 4 cancer
+Eligibility for stage 2 of the study, if the extension stage is opened, will be determined by ribonucleic acid sequencing (RNAseq) analysis and master regulator profile of a single fresh needle biopsy specimen obtained during study screening
+High-risk NB as defined as any of the following: \r\n* Stage 4 with MYCN amplification (any age)\r\n* Stage 4 without MYCN amplification (> 1.5 years of age)\r\n* Stage 3 with MYCN amplification (unresectable; any age)\r\n* Stage 4S with MYCN amplification (any age)
+Stage IA, IB, IIA, IIB, or IIIA (according to AJCC 7th edition). Patients with stage IIIA must not have more than one mediastinal lymph node station involved by tumor
+Unresectable stage II, IIIA, or IIIB disease
+There is no requirement nor restriction for prior therapy or stage
+Stage I or selected stage IIa according to the 7th version of the International Association for the Study of Lung Cancer (IASLC) system: stage I (T1 or T2a [tumor size =< 5 cm] N0M0) stage IIa (T2 [tumor size > 5 cm but =< 7 cm] N0M0)
+Histologically confirmed clinical or pathological stage 2 through stage 3c primary adenocarcinoma of the breast
+Stage I and II glottic carcinoma
+Patients must have high-risk NB (MYCN-amplified stage 2/3/4/4S of any age and MYCN-nonamplified stage 4 in patients greater than 18 months of age)
+Histologically confirmed mycosis fungoides (MF) or Sezary syndrome (SS); Phase 1: >= stage IIB OR >= stage IB-IIA folliculotropic/transformed MF; Phase 2: >= stage IB\r\n* Stage of disease according to TNMB classification\r\n* Pathology report must be diagnostic or be consistent with MF/SS criteria\r\n* SS is defined as meeting T4 plus B2 criteria; where the biopsy of erythrodermic skin may only reveal suggestive but not diagnostic histopathological features, the diagnosis may be based on either node biopsy or fulfillment of B2 criteria\r\n* For MF where the histological diagnosis by light microscopic examination is not confirmed, diagnostic criteria that has been recommended by the International Society of Cutaneous Lymphomas (ISCL) should be used
+Stage at least T2 or greater
+Pathologically confirmed unicentric invasive breast cancer defined as radiologic clinical stage T1 or T2 (=< 5 cm), N0 or N1 (=< 4 abnormal axillary nodes on initial ultrasound), clinical stage M0
+Have Barcelona Clinic Liver Cancer (BCLC) stage C disease or BCLC stage B disease not amenable to locoregional therapy or refractory to locoregional therapy, and not amenable to a curative treatment approach
+Must have clinically node negative stage I (T1N0) or stage II (T2N0) breast cancer\r\n* Preoperative ultrasound of the axilla with biopsy of suspicious nodes is recommended as clinically indicated per the discretion of the treating physician
+Clinical stage IB (>= 3 cm per computed tomography [CT]), stage IIA/IIB, or stage IIIA (N0-2) amenable to surgical resection
+Patients with T stage T1-3
+Patients with N stage N0-N2c
+Measurable, unresectable stage III (in transit lesions) or stage IVA, IVB or IVC disease
+Has clinical stage T2-T4a N0/X M0 urothelial carcinoma; clinical T stage is based on the pre-study standard of care transurethral resection of the bladder tumor (TURBT) sample and imaging studies
+High-risk NB as defined by risk-related treatment guidelines' and the International NB Staging System, i.e., stage 4 with (any age) or without (> 365 days of age) MYCN amplification, MYCN-amplified stage 3 (unresectable; any age), or MYCN-amplified stage 4S
+Patients with MF/SS must have stage IB, IIA, IIB, III or IV disease; patients with primary cutaneous CD30-positive lymphoproliferative disorder must have multifocal symptomatic or extensive lesions requiring systemic treatment
+Patients with TNM Stage IVC disease
+Biopsy-confirmed CD4+ mycosis fungoides or Sézary syndrome, stage IB to IIIB
+Baseline clinical stage of T1N0 or inoperable T4 (unequivocal organ involvement) are to be excluded
+Patients must be classified post-operatively as Stage IB, II or IIIA on the basis of pathologic criteria.
+Surgical Stage IVA includes patients with bladder or bowel mucosal involvement, but no spread outside the pelvis.
+Patients with FIGO 2009 Stage IVB endometrial cancer.
+Insufficient breast imaging to judge clinical stage
+Insufficient breast imaging to judge clinical stage
+Clinical stage N0, M0
+Histologic diagnosis of either limited stage SCLC (LS-SCLC), or extensive stage SCLC (ES-SCLC) or neuroendocrine tumor
+Stage - NSCLC with primary resection option for potential cure, as assessed by a faculty surgeon at SKCCC or MSKCC; this may include clinical stage IB (>= 4 cm), II and IIIA; subjects with N3 nodal involvement are not included
+Histological/cytologically documented primary International Federation of Gynecology and Obstetrics (FIGO) stage 3C1, 3C2, stage 4A, and 4B uterine serous carcinoma; in addition, certain stage 3A and B disease are also allowed\r\n* Residual disease after primary surgery:\r\n** Eligible:\r\n*** Stage 3A and B (pelvic, but confined to adnexa or vagina), residual disease present\r\n*** Stage 3CI (pelvic node positive)\r\n*** Stage 3CII (para-aortic node positive)\r\n*** Stage 4A (bladder or pelvic bowel)\r\n*** Stage 4B (distant metastases [mets] including abdominal mets), completely resected\r\n** Not eligible\r\n*** Stage 3A and B (pelvic, but confined to adnexa or vagina), completely resected\r\n*** Stage 4B (distant mets including abdominal mets), residual disease present
+Pathologically confirmed stage pT1-T3, pN0, M0 disease
+Patients must have histologically confirmed adenocarcinoma of the breast associated with the following clinical stage: IIA, IIB, IIIA, IIIB, or IIIC; patients with stage IV disease are also eligible if there is an intention to perform breast surgery after neoadjuvant therapy is completed, or in patients participating in clinical trials where surgery after neoadjuvant therapy may be an option (eg. E2108)
+Newly diagnosed, advanced stage, high-risk neuroblastoma defined as one of the following:\r\n* Children < 1 year with International Neuroblastoma Staging System (INSS) stage 2a, 2b, 3, 4 or 4S disease and MYCN amplification (> 10 copies, or greater than four-fold increase in MYCN signal as compared to reference signal)\r\n* INSS 2a or 2b disease and MYCN amplification, regardless of age or additional biologic features\r\n* INSS stage 3 and:\r\n** MYCN amplification (> 10 copies, or greater than four-fold increase in MYCN signal as compared to reference signal, regardless of age or additional biologic features)\r\n** Age > 18 months (> 547 days) with unfavorable pathology, regardless of MYCN status\r\n* INSS stage 4 and:\r\n** MYCN amplification, regardless of age or additional biologic features\r\n** Age > 18 months (> 547 days) regardless of biologic features\r\n** Age 12 – 18 months (365 – 547 days) with any of the following three unfavorable biologic features (MYCN amplification, unfavorable pathology and/or deoxyribonucleic acid [DNA] index = 1) or any biologic feature that is indeterminate/unknown\r\n* Children >= 365 days initially diagnosed with: INSS stage 1, 2, 4S who have progressed to a stage 4 without interval chemotherapy
+FIGO 2008 stage 1B2, 2B, 3B, 4A
+FIGO stage 3A disease
+Advanced stage HCC (Barcelona Clinic Liver Cancer [BCLC] Stage C or B per American Association for the Study of Liver Disease [AASLD] guidelines)
+Cervical carcinoma stage 1B or less
+Stage IIIA or Potentially resectable superior sulcus tumors
+Histologically-documented high-risk endometrioid adenocarcinoma with no visible residual disease, defined by the following criteria:\r\n* Surgical stage I disease with < 50 myometrial invasion and grade 3 tumor (IAG3) with lymphovascular space involvement;\r\n* Surgical stage I disease with >= 50% myometrial invasion and grade 2 or 3 tumor (IBG2, IBG3);\r\n* Any surgical stage II disease (II);\r\n* Any surgical stage III disease (IIIA, IIIB, IIIC); and\r\n* Any surgical stage IV disease with no residual macroscopic tumor
+High-risk NB as defined by risk-related treatment guidelines and the International NB Staging System, i.e., stage 4 with (any age) or without (> 18 months old) myelocytomatosis viral related oncogene (MYCN) amplification, MYCN-amplified stage 3 (unresectable; any age), MYCN-amplified stage 4S, or disease resistant to standard chemotherapy
+Patients with any stage of disease will be eligible
+Stage IIIb
+Mayo stage II or IIIa
+Inclusion Criteria:\n\n        Each participant must meet all the following inclusion criteria to be enrolled in the\n        study:\n\n          1. Histologically confirmed CD30+ classical HL.\n\n          2. Advanced stage, newly diagnosed HL (Stage III and Stage IV disease).\n\n          3. Treatment-naive HL.\n\n          4. Have performance scores of greater than or equal to (>=) 50 for Lansky\n             Play-performance or Karnofsky Performance Status.\n\n        Exclusion Criteria:\n\n          1. Nodular lymphocyte predominant HL.\n\n          2. Known active cerebral/meningeal disease, including signs or symptoms of progressive\n             multifocal leukoencephalopathy (PML) or any history of PML.\n\n          3. Any sensory or motor peripheral neuropathy.\n\n          4. Symptomatic neurologic disease compromising normal activities of daily living or\n             requiring medications.
+Scheduled to undergo immediate, post-mastectomy, tissue assisted breast reconstruction, Reconstruction shall be either one-stage (direct-to-implant) or two-stage, unilateral or bilateral, prophylactic or therapeutic
+Barcelona Clinic Liver Cancer (BCLC) stage B or C that cannot benefit from treatments of established efficacy such as resection, local ablation, chemoembolization.
+Patient with disease (stage) eligible per cohort
+Rai stage 0 - II without active disease according to IWCLL 2008 criteria
+Histologically confirmed cutaneous T-cell non-Hodgkin lymphoma (CTCL) per World Health Organization (WHO) classification 2016 including, mycosis fungoides (MF) or Sezary syndrome (SS); phase 1 : >= stage IIB OR >= stage IB-IIA folliculotropic/transformed MF; expansion cohort: >= stage IB\r\n* MF/SS stage of disease according to TNMB classification\r\n* SS is defined as meeting T4 plus B2 criteria; where the biopsy of erythrodermic skin may only reveal suggestive but not diagnostic histopathologic features, the diagnosis may be based on either node biopsy or fulfillment of B2 criteria\r\n* For MF where the histological diagnosis by light microscopic examination is not confirmed, diagnostic criteria that been recommended by the International Society for Cutaneous Lymphomas (ISCL) should be used
+Patients must be appropriate candidates for at least 2 cycles of ABVD or AVD (this could include patients ranging from favorable risk early stage disease to poor prognosis advanced stage disease)
+Tis-T3 Urothelial cancer; patients will be stratified according to clinical stage
+Pathological stage I-IVa HNSCC
+Cervical carcinoma of Stage 1B or less.
+FOR PATIENTS IN STAGE 1 (PATIENTS #1-#17)
+STAGE I
+Pathologic diagnosis of stage IB2-IVA squamous, adenocarcinoma, or adenosquamous carcinoma of the uterine cervix or stage II-IVA squamous or adenocarcinoma of the vulva that is not amenable to curative surgical resection alone
+All subjects must have one of the following stages: stage IA (T1NO); IB (T2NO), II & IIIA (N2 negative); IIIA (N2+), IIIB (N3+)
+Patients with newly diagnosed, histologically confirmed Hodgkin lymphoma (HD) who meet the following criteria:\r\n* Stage IA and IB (excluding non-bulky nodular lymphocyte predominant)\r\n* Stage IIA and IIB\r\n* Stage IIIA\r\n* Stage IVA
+United Network for Organ Sharing (UNOS) stage T1, T2, or T3 disease
+Breast cancer patients with stage 0, stage I, stage IIA
+Stage 2 endometrial and ovarian cancer patients must have at least one lesion amenable to biopsy; this determination will be made by a member of the interventional radiology team or surgical associate investigator and an associate investigator; this requirement is not necessary for patients in stage 1
+Must have prior biopsy at any time point diagnostic for confirmed MF stage IIA-IVA, and must have failed at least one standard therapy (topical or systemic); this is mandatory
+Stage III or stage IVA or IVB disease prior to induction chemotherapy with no proven hematogenous metastatic disease
+Clinical stage Tx, T1-T4, N1-3, M0
+PHASE II: Patients must have extensive stage, histologically or cytologically confirmed small cell lung cancer; NOTE: the extensive disease classification for this protocol includes all patients with disease sites not defined as limited stage; limited stage disease category includes patients with disease restricted to one hemithorax with regional lymph node metastases, including hilar, ipsilateral and contralateral mediastinal, and/or ipsilateral supraclavicular nodes; extensive disease patients are defined as those patients with extrathoracic metastatic disease, malignant pleural effusion, bilateral or contralateral supraclavicular adenopathy
+Clinical stage Tis or T1mi N0 M0
+Has Barcelona Clinic Liver Cancer (BCLC) Stage C disease, or BCLC Stage B disease not amenable to locoregional therapy or refractory to locoregional therapy, and not amenable to a curative treatment approach.
+Subjects with FIGO Stage Ic, Stage II, Stage III, Stage IV, recurrent, or persistent (unresectable) histologically confirmed epithelial ovarian cancer, primary peritoneal cancer, or fallopian tube carcinoma.
+Barcelona Clinic Liver Cancer (BCLC) Stage C disease (Llovet et al 1999), or BCLC Stage B disease.
+Eligible patients will have locally advanced cervical cancer suitable for primary treatment with chemoradiation with curative intent, in addition to:            \r\n* Federation of Gynecology and Obstetrics (FIGO) 2008 stage IB1 & node positive, IB2, IIA, IIB, IIIB, or IVA disease
+FIGO 2008 stage IIIA disease
+Single organ involvement (Stage 1-3 skin, Stage 1 upper GI, or Stage 1-2 lower GI)
+Multiple organ involvement (Stage 1-3 skin plus stage 1 upper GI, Stage 1-3 skin plus stage 1 lower GI, Stage 1-3 skin plus stage 1 lower GI plus stage 1 upper GI, Stage 1-3 skin plus stage 1-4 liver, or Stage 1 lower GI plus stage 1 upper GI)
+Participants receiving alectinib in either Stage 1 or Stage 2: must be ALK positive as assessed by Food and Drug Administration (FDA) approved test and must not have received prior treatment for their advanced NSCLC.
+Histologically confirmed stage 1 through stage 3c primary adenocarcinoma of the breast
+Stage M1
+Stage 1: both NT-proBNP and troponin T under threshold
+Stage 2: either NT-proBNP or troponin T (but not both) over threshold;
+Stage T3-4 disease
+No prior treatment with GDC-0810 (allowed only during dose expansion stage)
+Prior chemotherapy for extensive-stage SCLC
+Prior treatment with immunotherapy for any stage NSCLC, including early-stage (neoadjuvant or adjuvant) disease
+Has Barcelona Clinic Liver Cancer (BCLC) Stage C disease or BCLC Stage B disease not amenable to locoregional therapy or refractory to locoregional therapy, and not amenable to a curative treatment approach
+Tumour Clinical stage T3 or T4 on MRI
+Cervical carcinoma of Stage 1B or less.
+Patients must have adequate TIL (at least 40 x 10^6 cells at the pre-expansion stage)
+Subjects categorized to stage B (not applicable for transarterial chemoembolization [TACE]) or stage C based on Barcelona Clinic Liver Cancer (BCLC) staging system
+High-risk NB as defined by risk-related treatment guidelines and the International NB Staging System i.e., stage 4 with (any age) or without (> 365 days of age) v-MYC myelocytomatosis viral related oncogene, neuroblastoma derived (avian) (MYCN) amplification, MYCN-amplified stage 3 (unresectable; any age), or MYCN-amplified stage 4S
+Measurable Stage IIIA or IIIB disease
+Clinical stage T2-4a; N0/X; M0
+The patient must have a pathologically confirmed (by histology or cytology) diagnosis of NSCLC, which is currently Stage 3B or Stage 4 disease.
+Prior chemotherapy for extensive-stage SCLC
+Subject has BCLC stage B or C.
+Subjects with either limited or extensive disease stage at the initial diagnosis
+Patients must have histologically confirmed MCC that is Stage III (IIIB) or Stage IV, as defined by the 2010 AJCC staging criteria for MCC. MCC of unknown primary is allowed.
+Patients must have had the invasive primary completely excised, including any in situ component but excluding melanocytic atypia, with a narrow margin, either in one stage or more than one stage in the case where an incision or punch biopsy has previously been performed. This information, including measured margins of lateral and deep clearance must be documented on the pathology report.
+Documented clinical stage IA, IB or IIA CTCL
+All grossly visible disease in the bladder must be fully resected and pathologic stage will be confirmed at the study institution
+Patients must be stage 0-II based on Rai staging system; must have no indication for treatment for SLL per NCI-WG criteria
+Direct laryngoscopy showing no evidence of greater than stage II true glottic larynx cancer
+Evidence of fixed vocal cord (stage cT3)
+International Federation of Gynecology and Obstetrics (FIGO) stage IA2 or IB1 disease
+Patients who are categorized under Barcelona-Cl?nic Liver Cancer (BCLC)-C stage
+Patients with early stage disease (FIGO Stage I, IIA, IIB or IIC)
+Patients with synchronous primary endometrial cancer unless both of the following criteria are met: 1) stage <2 2) less than 60 years old at the time of diagnosis of endometrial cancer with stage IA or IB grade 1 or 2, or stage IA grade 3 endometrioid adenocarcinoma OR ? 60 years old at the time of diagnosis of endometrial cancer with Stage IA grade 1 or 2 endometrioid adenocarcinoma. Patients with serous or clear cell adenocarcinoma or carcinosarcoma of the endometrium are not eligible.
+Clinical stage IB (>= 4 cm per computed tomography [CT]), stage IIA/IIB, or stage III (N0-2) amenable to surgical resection
+Barcelona Clinic Liver Cancer (BCLC) stage C, and those with BCLC-B stage who cannot tolerate or failed transarterial chemoembolization (TACE)
+Stage IIIB (AJCC Stage IIIB - Any T,N3M0 or T4N2M0) or Metastatic (AJCC Stage IV- any T, any N, M1), progressive, recurrent or refractory NSCLC. Patients may not be eligible for other curative intent treatment (e.g., surgical resection). For the purpose of eligibility for this trial, the above-cited disease states are defined as follows:
+Clinical stage T1-4/N0-3/M0 at presentation (patients with T1a/bN0 tumors will not be eligible)
+Patient's disease must be pathological N-stage positive
+Patient must not have pathologically N stage negative disease
+Have stage IA, IB or IIA: T1 or T2 (patches or plaques) with measurable lesions
+Stage IIB or greater CTCL
+Advanced stage NSCLC (stage IVa [malignant pleural effusion (is now staged as stage IVa by the most recent staging system), or stage IV, or recurrent disease])
+Clinical stage T2-T4a N0/X M0 disease
+At least three years since colectomy with IRA/proctocolectomy with pouch, and demonstrating polyposis as defined by Stage 1, 2, 3, of the proposed InSiGHT 2011 Staging System (Appendix B) and summarized as follows: Stage 1: 10-25 polyps, all < 5 mm Stage 2: 10-25 polyps, at least one > 1 cm Stage 3: >25 polyps amenable to complete removal, or any incompletely removed sessile polyp, or any evidence of high grade dysplasia, even if completely removed. [Note: For staging purposes only.]
+Women with stage IA or IB1 cancer
+Clinical stage 2 or greater with localized disease
+Patients may have active mediastinal disease in N2 nodal stations if he/she has not received prior mediastinal RT\r\n* No restriction on prior T or N stage for patients who develop M1 disease at some point after initial diagnosis of stage I-III lung cancer and treatment
+Expansion Stage:
+Patients with Histologically confirmed stage IA1 (with lymph vascular invasion), stage IA2, or stage IB1 disease
+Subject has unresectable stage B (intermediate), or C (advanced) Hepatocellular carcinoma according to the Barcelona Clinic Liver Cancer staging.Stage B subjects must have progressed after, or are not eligible for curative resection, transplantation, embolic, or ablative therapies
+Stage IB-IIIA
+Limited stage SCLC appropriate for definitive treatment with chemoradiation
+Stage T1-4, N0-3, M0
+Patients with T1N0M0 stage I disease
+Locally advanced (Stage 3B) or metastatic (Stage 4) disease
+Clinical stage T2-T4a, N0/x, M0 disease
+Stage IB-IIIA
+Histologically documented, Stage Ia to operable Stage IIIa, triple-negative carcinoma of the breast with primary tumor greter than or equal to (>/=) 1.5 centimeters (cm) in largest diameter (cT1-3) by MRI
+Participants with cT4 or cN3 stage breast tumors
+Participants with cT4 or cN3 stage breast tumors
+Subjects with FIGO Clinical Stage IA cervical cancer ? 2 cm in size undergoing minimally invasive hysterectomy, trachelectomy, or conization with lymph node mapping. Subjects with clinical Stage IA1 cervical cancer without lympho vascular space involvement (LVSI) and negative margins on cone biopsy are not to be included.
+Cervical carcinoma of Stage 1B or less.
+Women with unilateral stage I or II BCRL
+Patients with stage IA to IIB disease; select patients with resectable stage IIIA disease (T3N1, T4N0, T4N1) will also be eligible if approved by the principal investigator (PI)
+This trial will include subjects with stage IB-IVB MF/SS (maximal stage since diagnosis will determine eligibility), and who have relapsed, are refractory, or progressed after at least one standard systemic therapy; current disease stage at time of entry will also be documented but will not be used for eligibility
+Stage 4c metastases.
+Resectable disease-clinical stage I (T/0/N0miT1N0-N0mi), IIA-IIIA (T2 N0/T3N0 or T1-3 N1-N2a) or unresectable disease – clinical stage IIIB/IIIC (T4 or T1-3 N2b-3); no evidence of metastatic disease
+Amyloid cardiac biomarker stage I or II disease Staging defined by NT-proBNP and troponin T cut-offs of < 332 pg/mL and <0.035 ng/mL, respectively, as thresholds: Stage I, both under threshold; and Stage II, either troponin or NT-proBNP (but not both) over threshold. If troponin T is not available at local institution, troponin I may be used, but threshold is <0.1 ng/mL.23
+Second line or greater/Refractory/Relapsed, Stage I, Stage II, Stage III
+Any stage disease is allowed
+Stage must be classified as one of the following:\r\n* Ann Arbor stage IA or IIA with:\r\n** Non-bulky mediastinal disease (< 33% mediastinal to thoracic ratio on chest x-ray [CXR])\r\n** < 3 nodal regions involved on the same side of the diaphragm\r\n** No “E” lesion
+Patients have a diagnosis of neuroblastoma (International Classification of Diseases for Oncology [ICD-O] morphology 9500/3) or ganglioneuroblastoma verified by histology or demonstration of clumps of tumor cells in bone marrow with elevated urinary catecholamine metabolites; patients with the following disease stages at diagnosis are eligible, if they meet the other specified criteria:\r\n* Patients with newly diagnosed neuroblastoma with International Neuroblastoma Staging System (INSS) stage 4 are eligible with the following: \r\n** v-MYC myelocytomatosis viral related oncogene, neuroblastoma derived (avian) (MYCN) amplification (> 4-fold increase in MYCN signals as compared to reference signals) and age >= 365 days regardless of additional biologic features\r\n** Age > 18 months (> 547 days) regardless of biologic features\r\n** Age 12-18 months (365-547 days) with any of the following 3 unfavorable biologic features (MYCN amplification, unfavorable pathology and/or deoxyribonucleic acid [DNA] index = 1) or any biologic feature that is indeterminant/unsatisfactory/unknown\r\n* Patients with newly diagnosed neuroblastoma with INSS stage 3 are eligible with the following:\r\n** MYCN amplification (> 4-fold increase in MYCN signals as compared to reference signals), and age >= 365 days, regardless of additional biologic features\r\n** Age > 18 months (> 547 days) with unfavorable pathology, regardless of MYCN status\r\n* Patients with newly diagnosed INSS stage 2a/2b with MYCN amplification (> 4-fold increase in MYCN signals as compared to reference signals) and age >= 365 days, regardless of additional biologic features\r\n* Patients >= 365 days initially diagnosed with: INSS stage 1, 2, 4S who progressed to a stage 4 without interval chemotherapy; these patients must have been enrolled on ANBL00B1; it is to be noted that study enrollment must occur within 4 weeks of progression to stage 4 for INSS stage 1, 2, 4S
+Barcelona Clinic Liver Cancer (BCLC) stage B
+Mycosis fungoides patients that have stage T2-4 N0-1 M0B0 disease
+Final American Joint Committee on Cancer (AJCC) stage IIa – IIIa (pathologic stage T0N1a-2a, T1N1a-2a, T2N1a-2a, T3N0-2a, all M0 status); pathological stage for all patients not receiving neoadjuvant chemotherapy; higher of the clinical or pathological T and N stage, if receiving neoadjuvant chemotherapy; patients with pathological N0 at the time of mastectomy are only eligible if biopsy-proven clinically N1 or N2 disease is documented prior to induction chemotherapy
+Patients with stage IA1 disease who are LVSI negative
+Patients with >= stage IB2 disease
+PATIENT INCLUSION: Clinical diagnosis stage 4 solid or hematologic malignancy or nonresectable stage 3 gastrointestinal (Gi) cancer
+Experiencing their first, stage 0 – IIIA breast cancer diagnosis (either clinical or definitive early stage at enrollment)
+Stage 3B BC
+Inflammatory or stage 4 BC
+Cancer stage: T1 - 4N x M0
+Three populations of patients are eligible for enrollment:\r\n* Patients with early stage disease at diagnosis (stage I-II) who were treated with chemotherapy alone and relapsed with early stage disease (stage RI-II)\r\n* Patients with early stage disease at diagnosis (stage I-II) who were treated with chemotherapy alone and have early stage (stage RI-II) primary refractory disease (residual disease on a scan 1 month after the completion of initial therapy) without B-symptoms and with each area of disease less than 10 cm in size\r\n* Patients with early stage disease at diagnosis (stage I-II) who were treated with combined modality therapy (chemotherapy and radiation) who relapse with early stage disease (stage RIII) outside the prior radiation therapy field
+Stage IB-IVB MF/SS, and who have relapsed, are refractory, or progressed after at least one standard systemic therapy; maximal stage since diagnosis will determine eligibility; current disease stage at time of entry will also be documented but will not be used for eligibility
+Any disease stage
+Clinical stage I EC
+Phase 1: Early stage (stage 1 and 2) CRC survivors who are 6 month or greater post-treatment
+Tumor stage II or greater
+Eligible disease(s)/stage(s): nasopharyngeal carcinoma, paranasal sinus cancers/any stage
+STAGE I
+STAGE II
+Stage I participants are ineligible
+Newly diagnosed with high grade stage 2, any grade stage 3 or higher endometrial cancer in the past 6 months
+Patients will be included if their initial stage was T1 N0 M0 or T2 N0 M0
+Barcelona Clinic Liver Cancer (BCLC) Stage C disease or BCLC Stage B disease not amenable to locoregional therapy or refractory to locoregional therapy.
+T stage greater than clinical T1
+STAGE 1:
+STAGE 2 PATIENT PARTICIPANTS:
+T stage >= T3 (mass extending outside the bladder)
+T stage: cTis – T2
+Documentation of WHO clinical stage 3 or 4 condition within 6 months of entry
+Patients must have completed curative-intent therapy (including surgery, radiation, and/or chemotherapy) for a first tobacco-related oral premalignant lesion (OPL) or HNSCC of any stage (eligible lesions include high grade dysplasia; carcinoma in situ; or stage I-IVa HNSCC); NOTE: the presence of a measurable OPL at baseline is not required
+Pathologic stage T0-T3N0-N1M0
+Early stage and/or treatment naïve, or
+Primary tumor stage T1-3 at initial diagnosis
+Patients with operable focal or multifocal (T1-T3, stage II and IIIA invasive ductal carcinoma [all receptor phenotypes]), and who have completed neoadjuvant chemotherapy with a clinical complete response (by clinical examination)
+Pathologically confirmed diagnosis of breast cancer, clinical stage I-II (T1-3 N0 M0, T0-2 N1 M0); diagnosis must be by needle biopsy; patients diagnosed by surgical excision are excluded; for patients enrolled after receipt and completion of neoadjuvant chemotherapy, the clinical stage must be determined based on pre-chemotherapy assessment
+FOR STAGE 2:
+Participants must have biopsy confirmed and clinical stage I, stage II, or stage III noninflammatory breast carcinoma; if biopsy was done at an outside hospital, pathology will be reviewed at (BWH, Brigham and Women's Faulkner Hospital [BWFH])
+Participants must have biopsy confirmed and clinical stage 1 or stage 2 breast carcinoma; if biopsy was done at an outside hospital, pathology will be reviewed at Brigham and Women's Hospital (BWH)/Dana-Farber Cancer Institute (DFCI)
+Any tumor stage, any N, M0
+Any stage is eligible
+Clinical stage: =< T2a & N0 or NX & M0 or MX
+Melanoma tumor that requires a wide local excision in the operating room; this may include any stage of melanoma from stage IA to stage IV that requires a wide excision in the operating room
+Patient’s clinical stage must be documented as tumor size less than 5 cm, with no palpable nodes and no evidence of metastatic disease (T1 or T2 N0 M0); for patients who will receive neoadjuvant systemic therapy, pre-treatment clinical stage should be used
+Patients must be deemed appropriate for doxorubicin-based chemotherapy regardless of individual diagnosis or stage of disease
+Patients must meet one (or more) of the following criteria:\r\n* Preoperative diagnosis of ovarian, fallopian tube, or primary peritoneal carcinoma (all stage, grade and histology)\r\n* Preoperative diagnosis of grade III endometrial carcinoma (all stage, all histology)\r\n* Preoperative diagnosis of uterine serous carcinoma (all stage, all grade)\r\n* Preoperative diagnosis of clear cell endometrial carcinoma (all stage, all grade)\r\n* Preoperative diagnosis of endometrial carcinosarcoma (all stage, all grade)\r\n* Gastrointestinal carcinoma (all histology, stage and grade)\r\n* Pancreatic carcinoma (all histology, stage and grade)\r\n* Lung cancer (all histology, stage and grade)\r\n* Esophageal carcinoma (all histology, stage and grade)\r\n* Suspected or pathologically confirmed metastatic disease to the lung (all disease primaries)\r\n* Suspected or pathologically confirmed malignant pleural effusion (all disease primaries)
+Subjects must be classified as TNM stage I, II, or III; alternatively, subjects may be classified as Barcelona Clinic Liver Cancer (BCLC) stage A or B
+Pathological T3 stage of disease (i.e., EPE or SVI), or
+Stage 4 patients are not eligible
+Clinical stage < cT3
+Clinical stage: T3/T4

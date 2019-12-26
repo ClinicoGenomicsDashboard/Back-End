@@ -1,0 +1,89 @@
+Pregnancy; lactating females must cease expression of milk prior to signing consent to be eligible
+Criteria only for the randomized phase  part: mesothelin screen positive determined from archival tumor tissue and to be performed centrally. MSLN-positive is defined as >= % of tumor cells with membrane staining intensities >= +\r\n* For the run-in-phase , patients will not be selected based on the mesothelin expression
+Patients with HCL variant (as defined by absence of expression of CD)
+Tissue specimen available for B-H and PD-L expression testing
+City of Hope (COH) Clinical Pathology confirms HER+ tumor expression by immunohistochemistry (>= %, +)
+In subjects previously treated with blinatumomab, CD tumor expression in bone marrow or peripheral blood.
+Fresh or archived tumor tissue sample available for target expression analysis. [Phase b only: Subjects' tumor tissue must test positive for target expression.]
+Subjects should have PD-L expression (tumor proportion score [TPS] >= %, determined by the Food and Drug Administration [FDA] approved Merck C antibody PD-L test) in the first-line setting and have a TPS > % by C or equivalent PD-L expression by an approved immunohistochemistry (IHC) test, in the second-line setting in order to be eligible for pembrolizumab treatment on the current protocol; patients with < % PD-L expression are not eligible
+Patients in Cohort  (high PD-L) must have >= % expression
+Patients in Cohort  (low PD-L) must have -% expression
+biopsy-confirmed CD+ expression of the underlying malignancy with disease progression following immediate prior therapy
+Provision of suitable tumor tissue for the analysis of Axl kinase expression and PD-L expression.
+(For Cohort A) Archived tissue available pre-screening to confirm FR alpha+ breast cancer. (For Cohort B) Confirmed FRalpha+ breast cancer defined as high FRalpha expression: >= % of cells having >= + expression, or moderate FRalpha expression: %-% of cells with >= + expression
+Evidence of CD expression by immunohistochemistry or flow cytometry on any prior or current tumor specimen or high likelihood of CD expression based on disease histology
+Clear CD expression must be detected on % or more of malignant cells from either bone marrow or lymphoma mass by flow cytometry or immunohistochemistry; the patients malignancy will need to be assessed for CD expression by flow cytometry or immunohistochemistry performed at the National Institutes of Health (NIH); if unstained, paraffin-embedded bone marrow or lymphoma sections are available from prior biopsies, these can be used to determine CD expression by immunohistochemistry; otherwise, patients will need to come to the NIH for a biopsy to determine CD expression; the sample for CD expression can come from a biopsy obtained at any time before enrollment, unless the patient has received a prior anti-CD monoclonal antibody, in which case the sample must come from a biopsy following completion of the most recent anti-CD monoclonal antibody treatment
+Have tumor tissue for PD-L expression testing
+Positive CD+ immunohistochemical expression
+Elevated expression above of WT in pre-treatment bone marrow or peripheral blood by either of two methods:\r\n* Increased expression of WT determined if the number of copies of WT divided by the number of copies of ABL x ^ is >  for bone marrow, or >  for peripheral blood; \r\n* Demonstration of WT overexpression will be determined by immunohistochemical staining (IHC) in blasts as compared to adjacent normal myeloid and erythroid precursors, as determined by a Fred Hutchinson/Seattle Cancer Care Alliance pathologist
+ELIGIBILITY FOR APHERESIS/BLOOD COLLECTION:\r\n* Human leukocyte antigen (HLA)-A*: expression\r\n* Elevated expression above of WT in bone marrow or peripheral blood: increased expression of WT will be determined if the number of copies of WT divided by the number of copies of ABL x ^ is >  for bone marrow, or >  for peripheral blood; or when available, demonstration of WT overexpression will be determined by immunohistochemical staining (IHC) in blasts as compared to adjacent normal myeloid and erythroid precursors, as determined by Fred Hutchinson/Seattle Cancer Care Alliance hematopathology
+Elevated expression above baseline of WT in bone marrow or peripheral blood
+The expression of WT in the patients peripheral blood and/or bone marrow will be determined; if WT expression in the patient specimen is within the normal physiologic range or is not detected, the patient will be ineligible for treatment with WT-specific T cells (and will not be included in the observation cohort)
+Evidence of CD expression on any prior or current tumor specimen or a high likelihood of CD expression based on disease histology
+Documentation of CD expression on any prior or current tumor biopsy
+PD-L expression in tumor tissue from any site is required for patients with NSCLC; tumor tissue can be archival, however if no archival tissue is available then a biopsy must be obtained for PD-L testing; PD-L expression will be analyzed by a Merck assay; PD-L expression is not required for patients with melanoma, but melanoma patients are required to submit an extra-cerebral specimen for analysis, unless it is not feasible to obtain one
+Documentation of CD expression on malignant cells at relapse
+Evidence of MCPyV TAg tumor expression by immunohistochemistry on any prior or current tumor specimen or viral oncoprotein antibody confirmation within  weeks of the start of study intervention
+Expression of CD- in >= % blasts
+City of Hope (COH) Clinical Pathology confirms ILR alpha + tumor expression by immunohistochemistry (>= %, +)
+IDH^RH expression in primary tumor
+PD-L expression in tumor tissue from any site is required for patients with NSCLC for entry into cohort ; tumor tissue must be obtained after the last systemic therapy; PD-L expression will be analyzed by a Merck assay; for NSCLC cohort , patients may test PD-L negative or may be unevaluable for PD-L expression (i.e. insufficient tumor tissue); PD-L expression is not required for patients with melanoma, but melanoma patients are required to submit an extra-cerebral specimen for analysis, unless it is not feasible to obtain one
+Evidence of CD expression by immunohistochemistry or flow cytometry on any prior or current tumor specimen or high likelihood of CD expression based on disease histology
+Patients must have documented WT positive disease; for purpose of this study, this is defined as detectable presence of WT expression by immunohistochemistry or by WT transcript via real time-polymerase chain reaction (RT-PCR) on a bone marrow or other plasma cell-related biopsy specimen prior to autologous stem cell transplantation; bone marrow or other biopsy specimen from time of diagnosis from patients diagnosed at MSKCC or outside hospital may be requested for assessment of WT expression by IHC
+Documented expression of CD on tumor cells
+In patients whose leukemic cells are available for evaluation, the expression of WT in the patient's bone marrow will be determined; if WT expression in the patients bone marrow is not highly expressed by polymerase chain reaction (PCR), the patient will be excluded from the study; patients with no evaluable leukemia will be eligible for enrollment based on the high frequency of positive leukemias (> %), and leukemia will be evaluated for WT expression if recurrence is detected
+For dose expansion phase: patients must have EphA overexpression overall H-score of  or above in immunohistochemistry (IHC) evaluation; Clinical Laboratory Improvement Amendments (CLIA) certified EphA IHC staining to be performed on formalin fixed, paraffin-embedded tissue sections using monoclonal EphA antibody; EphA expression to be assessed through a combo of % of positive cells and staining intensity; the % of positive cells will be rated:  points (pts),  to %;  pts,  to %;  pts, %; the staining intensity will be rated as follows:  pt, weak intensity;  pts, moderate intensity;  pts, strong intensity; pts for expression and % of positive cells will be added; an overall score will be assigned; tumors to be categorized into  groups: negative (overall score ), % cells stained, regardless of intensity; weak expression (overall score ),  -  pts; moderate expression (overall score ),  -  pts; and strong expression (overall score ),  -  pts; overall H-score of  or above will be defined as EphA overexpression in tumor cells
+Patients are not required to have HER- or epidermal growth factor receptor (EGFR) over-expression to be on this study at the dose escalation cohort; however, patients will be required to have HER- overexpression and/or EGFR overexpression for the extension and expansion cohorts\r\n* If the patient has had HER- expression measured prior to enrollment, the report alone will be accepted the dose escalation phase of the study\r\n* If the patient has had EGFR expression measured prior to enrollment, the report alone will be accepted on the dose escalation phase of the study.\r\n*If the patient has not had HER- or EGFR expression measured prior to enrollment on this study, it would be obligatory for the patient to have the tests performed to justify their status; HER- status can be performed by a variety of tests; either immunohistochemistry (IHC) or fluorescent in situ hybridization (FISH) assay are acceptable if breast tumor tissues (previously frozen) are available; the test can be done at Ohio State University (OSU) or elsewhere if the patient is from out of town
+Available autologous transduced cytotoxic T lymphocytes with >= % expression of HER CAR and killing of HER-positive targets >= % in cytotoxicity assay
+Either known PD-L expression at the time of treatment (measured using any FDA approved test) or PD-L expression demonstrated using the Ventana SP assay in a biopsy taken prior to the start of treatment
+Is able to submit a fresh tumor biopsy sample prior to starting study treatment if not already submitted for HER expression
+Centrally assessed KIRDL expression on tumor cells.
+Expression of one () or more of the following TAPAs: Sp, AKAP-, Ropporin, PTTG-, Span-xb, Her-/neu, HM., NY-ESO- and MAGE-, by either RT-PCR and/or immunocytochemistry, Western blotting or ELISA, in neoplastic cells and/or blood. For HER-/neu expression, positive FISH results are acceptable.
+Expression of PD-L in ?% of tumor cells determined by the commercially available assay performed by the central laboratory
+Histological or cytologically confirmed NSCLC that shows moderate or stronger mesothelin expression in % of tumor cells by a companion assay; MSLN expression score using Ventana immunohistochemistry (IHC) SP assay; Phase I only: In addition - % tumor cells and , , or + MSLN score; Phase II only: % tumor cells and either +/+
+AR expression detected by immunohistochemistry by central review
+No requirement for tumor expression of NY-ESO-
+Patient with strong PD-L expression (>= % of tumor cells expressing PD-L ot or tu or TPS >= % ) will be excluded; patients with unknown PD-L expression or when PD-L expression cant be determine
+Subjects must have positive mesothelin expression in the archival tumor tissue, defined as the mesothelin membrane intensity score of + or + (on the - scale) expressed on the membrane of >= % of tumor cells
+Confirmed p involvement: patients with p over-expression by immunohistochemistry (>= % of cells within the tumor staining positive) or those with a p mutation as determined by mutational analysis of tumor tissue will be eligible; patients with prior exposure to p-based vaccines will be eligible
+Patients must have autologous transduced activated T-cells with >= % expression of GD
+Folate receptor alpha positive tumor expression as defined in the protocol
+Non-GI solid tumors (like non-small cell lung cancer or breast cancer) should have confirmed CEA expression in tumor tissue >/= % of tumor cells staining with at least moderate to high intensity of CEA expression are required (immunohistochemistry [IHC]+ and IHC +). For CRC, pancreatic and gastric cancer participants, the CEA assessment will be performed retrospectively and the result is not needed to enroll the participant. For the biomarker cohort, only participants with moderate/low CEA expression (< % of tumor cells with IHC+/+ and/or >/= % of tumor cells with IHC+) and very low CEA expression (< % of tumor cells with IHC+) will be enrolled. CEA expression should be determined prior to enrollment, if no archival tumor tissue is available, a fresh biopsy will be collected.
+Expression of CD
+has HER positive expression confirmed per protocol
+For the expansion stage, evaluable for PD-L expression
+Tumor specimen is not evaluable for PD-L expression by the central laboratory
+Availability of archived or representative tumor material for assessment of DLL expression
+Testing of patients archived (paraffin embedded, unstained slides) or freshly biopsied tumor nodules must be positive for WT protein expression:\r\n* WT expression: Immunohistochemical analysis will be performed; WT expression will be graded according to an adaptation of the German Immunoreactive Score (IRS); only tumors with moderate to strong IRS scores (-) will be considered WT positive
+Pregnant women and nursing mothers will be eligible for screening only to test HLA type by saliva or buccal swab and WT expression from previously collected tissue sample
+ELIGIBILITY FOR TREATMENT ON ARM : Evidence of WT tumor expression
+ELIGIBILITY FOR TREATMENT ON ARM : Evidence of WT tumor expression
+Tumor tissue available for evaluation of PD-L expression
+PD-L-positive tumor status as determined by an immunohistochemistry (IHC) assay based on PD-L expression on tumor infiltrating immune cells and/or tumor cells performed by a central laboratory
+Patients must have confirmed expression of NY-ESO- and/or LAGE- by RT-PCR, immunohistochemistry or quantigene analysis. (This determination will be made under a pre-enrollment screening ICF)
+Patient's tumor must be positive by histological assay for NY-ESO-???T, according to the screening algorithm as described in Section ... Positive expression is defined as ? % of cells that are + and/or + by immunohistochemistry
+Over-expression of HER
+Evidence of CD expression
+Tumor sample is available for retrospective CDH expression testing
+Any level of CD expression will be considered sufficient for enrollment on this study
+Evidence of MCPyV TAg tumor expression
+Expression of mesothelin must be confirmed by meeting  of the following criteria:\r\n* Mesothelin expression (> % of the tumor expressing mesothelin) by immunohistochemistry (IHC) \r\n* Elevated serum SMRP levels (> . nM/L)
+Expression of mesothelin must be confirmed by meeting one of the following criteria\r\n* Mesothelin expression (> % of the tumor expressing mesothelin) by immunohistochemical (IHC) analysis\r\n* Elevated serum SMRP levels (> . nM/L)
+Confirmed positive CD expression on tumor tissue
+Subject eligibility will be based on PD-L expression as determined by a specified IHC assay.
+AML blasts must express CD (>= % expression as assessed by flow-cytometry or + expression by immunohistochemistry) (whenever possible CD expression will be assessed by both methods)
+CD expression
+The participant's tumor has Ki- expression ? %
+The patient's blasts cells show expression of WT tran-script, detected by quantitative RT-PCR.
+Surface ROR expression by < % of CLL cells
+NY-ESO- expression in tumor by immunohistochemistry (IHC) is not required prior to screening consent; however, patients must have NY-ESO- expression to proceed with the leukapheresis; additionally patients must also meet the following criteria to proceed with leukapheresis (any exceptions to this will require prior approval by the Apheresis director and Principal Investigator):
+Subject's tumor (either the most recent archival specimen or a fresh biopsy) shows positive NY-ESO- expression defined as ?% of cells that are + or + by immunohistochemistry. All samples must have been pathologically reviewed by an Adaptimmune designated central laboratory.
+Absence of HER expression documented as ISH-negative on previously collected and assessed tumor tissue upon initial diagnosis of disease
+HER expression as defined by ISH positive and/or + by immunohistochemistry
+Folate receptor alpha positive tumor expression as defined in the protocol
+Cohort  -Positive expression is defined as + and/or + by immunohistochemistry in ? % of cells.
+Cohort  -Positive expression is defined as ?+ by immunohistochemistry in ?% cells, but not to exceed + and/or + in ? % of cells.
+Cohort  -Positive expression is defined as + and/or + by immunohistochemistry in ? % of cells.
+Cohort  -Positive expression is defined as + and/or + by immunohistochemistry in ? % of cells.
+Subject's tumor has AFP expression of ?+ in ?% tumor cells by immunohistochemistry and their non-cancerous liver tissue has ?% cells stained for AFP by immunohistochemistry.
+Must have malignant solid tumors that demonstrate B-H expression at + or greater levels on the membranous surface of at least % of tumor cells or ? % of tumor vasculature by IHC.

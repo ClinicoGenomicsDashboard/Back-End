@@ -1,0 +1,13 @@
+Cluster 173: pressure blood hypertension systolic controlled diastolic uncontrolled readings high adequately 
+Cluster 629: bp systolic deemed pressure controlled blood clinically investigator false familial 
+Cluster 936: hypertension uncontrolled controlled mmhg patients poorly medication history pressure severe 
+Cluster 965: pressure blood sbp mmhg dbp systolic diastolic hypertension antihypertensive adjustment 
+Cluster 1115: hg pressure mm systolic blood hypertension diastolic uncontrolled despite bp 
+Cluster 1339: mmhg pressure despite diastolic management systolic hypertension optimal blood medical 
+Cluster 1365: mmhg pressure blood systolic diastolic hypertension controlled uncontrolled defined inadequately 
+Cluster 1517: seizures uncontrolled subjects patients history intracranial hypertension increased eligible pressure 
+Cluster 1714: percentile height th gender pressure age blood bp hypertension medication 
+Cluster 1854: despite hypertension uncontrolled medical optimal arterial management antihypertensive poorly controlled 
+Cluster 2147: heart pressure mmhg blood uncontrolled systolic hypertension diastolic myocardial infarction 
+Cluster 2233: antihypertensive bp pressure medications blood mmhg change controlled adequately week 
+Cluster 2445: bp mmhg diastolic hypertension pressure systolic blood uncontrolled medication despite 

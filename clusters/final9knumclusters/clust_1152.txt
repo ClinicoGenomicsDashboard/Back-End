@@ -1,0 +1,26 @@
+Performance status: Lansky >= 50 for patients who are =< 16 years old and Karnofsky >= 50% for patients who are > 16 years old
+Performance score using the Karnofsky performance scale (patients > 12 years old) or Lansky Play - performance scale (patients =< 12 years old) must be >= 60 assessed within two weeks prior to enrollment
+Karnofsky >= 50% for patients > 16 years old, and Lansky >= 50 for patients 1-16 years old
+Eastern Cooperative Oncology group (ECOG) =< 2 for patients >= 16 years old or Lansky play >= 60% for patients\r\n=< 15 years old
+CELL PROCUREMENT: Karnofsky score > 60% if >= 16 years old or Lansky performance score of greater than 60% if < 16 years old
+LYMPHODEPLETION: Karnofsky score > 60% if >= 16 years old or Lansky performance score of greater than 60% if < 16 years old
+PRIOR TO CELL PROCUREMENT: Karnofsky or Lansky score of > 60% (Karnofsky for ? 16 years old and Lansky for < 16 years old)
+PRIOR TO LYMPHODEPLETION: Karnofsky or Lansky score of > 60% (Karnofsky for pediatric patients ? 16 years old and Lansky for < 16 years old)
+PRIOR TO INFUSION OF ATLCAR.CD30 CELLS: Karnofsky or Lansky score of > 60% (Karnofsky for ? 16 years old and Lansky for < 16 years old)
+Performance status:\r\n* Lansky >= 50 for individuals 18 months- =< 16 years old; Karnofsky > 50% for individuals 17-21 years old
+Patients must have a Lansky Play Scale of 60% (< 16 years [yrs] old), Karnofsky score 60% (> 16 yrs old), or Eastern Cooperative Oncology Group (ECOG) score of < or equal to 2 and a life expectancy of 2 months
+Lansky performance status of >= 60% for participants 16 years old or younger
+Patients 18 to =< 45 years: Karnofsky (>= 18 years old) >= 70 or Eastern Cooperative Oncology Group (ECOG) 0-1
+Karnofsky (those 16 years old or older) or Lansky (those younger than 16 years) performance score of at least 50
+Lansky score >50% for participants <16 years old.
+Lansky Performance Status (participants less than [<] 16 years old) or Karnofsky Performance Status (participants greater than or equal to [>=] 16 years old) >=50
+Performance status: Lansky >= 50 for patients who are =< 16 years old and Karnofsky >= 50% for patients who are > 16 years old
+Performance status: Karnofsky or Lansky scores ? 50 for subjects > 16 years old or ? 16 years old, respectively.
+Lansky (< 16 years old) >= 60
+Performance status: Lansky >= 50 for individuals 18 months to < 10 years old; Karnofsky > 50% for individuals 10-21 years old
+Karnofsky performance scale >= 12 years old (y/o) or Lansky performance score for patients < 12 y/o must be >= 50 assessed within two weeks prior to enrollment
+Lansky >= 50 for patients =< 16 years old; Karnofsky >= 50 for patients > 16 years old
+Performance status: Lansky >= 50 for patients who are =< 16 years old and Karnofsky >= 50% for patients who are > 16 years old
+Karnofsky performance status >= 60% for patients > 16 years old (yo) and Lansky performance status >= 60% for patients =< 16 yo
+Karnofsky performance status less than 60% or Lansky less than 40% for patients younger than 16 years old
+Performance status: Lansky >= 50 for patients who are =< 16 years old and Karnofsky >= 50% for patients who are > 16 years old

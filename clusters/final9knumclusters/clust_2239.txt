@@ -1,0 +1,18 @@
+T-LGL judged by the investigator to require therapy based upon:  \r\n*Severe neutropenia (absolute neutrophil count < 500/microL)\r\n*Moderate neutropenia (absolute neutrophil count < 1000/microL) with recurrent infections\r\n*Symptomatic or transfusion dependent anemia\r\n*Severe thrombocytopenia (< 50,000/microL)\r\n*Hepatic infiltration resulting in abnormal liver function tests\r\n*Symptomatic splenomegaly
+White blood cells (WBCs) >= 2000/microL within 14 days of study registration.
+Neutrophils >= 1500/microL within 14 days of study registration.
+Platelets >= 100 x 10^3/microL within 14 days of study registration.
+Platelet count < 50,000/microL
+Peripheral absolute neutrophil count (ANC) greater than or equal to 1000/microL
+Platelet count greater than or equal to 100,000/microL (transfusion independent)
+Absolute T-cell count (ATC) at screening >= 0.07 K/microL. This is defined as CD3+ T-cell percent (expressed as fraction of 100%) multiplied by the absolute lymphocyte count (ALC, expressed in K/microL).
+Absolute neutrophil count greater than or equal to 1,500/microL
+Platelets greater than or equal to 100,000/microL
+Leukocytes >= 3,000/microL
+Absolute neutrophil count >= 1,500/microL
+Absolute Neutrophil Count (ANC) ? 1,500/microL
+Platelets ? 100,000//microL
+Absolute neutrophil count greater than or equal to 1,500/microL
+Platelets greater than or equal to 100,000/microL
+AML, ALL\r\n* Normal values for absolute neutrophil count (> 1000/microL) and platelet count (> 100,000/microL)\r\n* Absence of extramedullary leukemia\r\n* Less than 5 percent blast cells present in the bone marrow
+CLL\r\n* Absence of constitutional symptoms attributable to CLL\r\n* No lymph nodes > 1.5 cm in diameter on computed tomography\r\n* No hepatomegaly or splenomegaly by computed tomography\r\n* Absolute neutrophil count > 1500/microL\r\n* Platelet count > 100,000/microL\r\n* No clonal lymphocytes in the peripheral blood by immunophenotyping \r\n* Bone marrow with no evidence of clonal CLL (by flow cytometry and/or immunohistochemistry)

@@ -1,0 +1,26 @@
+INR > .
+INR < . (or <  on anticoagulants)
+INR < .  ULN
+INR ?. ULN
+INR ? .
+INR < .  ULN
+INR ? . x ULN;
+INR ?.
+INR > 
+INR >= 
+INR and APTT ? . x ULN.
+INR > .
+INR =< .
+Low-dose Coumadin ( mg) is acceptable; however, doses that increase INR are not permitted; if an alternative to Coumadin-based anticoagulants cannot be used, the INR should be monitored weekly after initiation of therapy and upon discontinuation of INCB, until INR normalization
+Low-dose Coumadin ( mg) is acceptable; however, doses that increase INR are not permitted; if an alternative to Coumadin-based anticoagulants cannot be used, the INR should be monitored weekly after initiation of therapy and upon discontinuation of INCB, until INR normalization
+INR < .
+Coagulation  INR less than or equal to . x ULN (or in range INR, usually between  and , if a patient is on a stable dose of therapeutic warfarin).
+INR < .  ULN
+INR and aPTT < . X ULN unless on medication known to alter INR and aPTT.
+INR . to ULN or ?  for subjects receiving anticoagulant therapy
+INR < .  ULN
+INR and aPTT within . ULN
+INR > .
+INR ? ,
+INR > . (or >  if on anticoagulant therapy)
+Most recent INR prior to surgery > .

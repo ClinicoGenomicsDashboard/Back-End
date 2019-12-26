@@ -1,0 +1,38 @@
+Patients with seizure disorder may be enrolled if on non-enzyme inducing anticonvulsants and if seizures are well controlled
+253.0
+Patients who are currently receiving enzyme inducing anticonvulsants are not eligible
+253.0
+Patients must not have received enzyme-inducing anticonvulsants including phenytoin, phenobarbital, valproic acid, or carbamazepine for at least 7 days prior to study enrollment; patients receiving non-enzyme inducing anticonvulsants such as gabapentin or levetiracetam will be eligible
+74.0
+TUMOR BIOPSY SEQUENCING: Patients with history of central nervous system (CNS) metastases who have received treatment and who either have not had seizures or have been on stable doses of anti-seizure medicine and had no seizures for 4 weeks will be eligible; enzyme-inducing anticonvulsants are contraindicated
+700.0
+TREATMENT: Patients with a history of seizures are not eligible to receive veliparib, but patients with a history of CNS metastases who have received treatment and who either have not had seizures or have been on stable doses of anti-seizure medicine and had no seizures for >= 4 weeks will be eligible for other study agents; enzyme inducing anticonvulsants are contraindicated
+700.0
+TREATMENT: Patients with active brain metastases or carcinomatous meningitis are excluded from this clinical trial; patients who have a history of seizures are not eligible to receive veliparib, but patients who have either not had seizures or who have been on stable doses of anti-seizure medicine and had no seizures for 4 weeks will be eligible for other study agents; enzyme-inducing anticonvulsants are contraindicated
+700.0
+Patients with seizure disorder may be enrolled if on non-enzyme inducing anticonvulsants and well controlled
+77.0
+Patients must not currently be receiving enzyme inducing anticonvulsants
+77.0
+Patients with seizure disorder may be enrolled if on non-enzyme inducing anticonvulsants and well controlled
+154.0
+Patients must not have received enzyme inducing anticonvulsants for at least 14 days prior to enrollment
+154.0
+Patients with seizure disorder may be enrolled if on anticonvulsants and well controlled
+81.0
+Patients with seizure disorder may be enrolled if on anticonvulsants and if seizures are well controlled
+56.0
+Central nervous system function defined as:* Patients with seizure disorder may be enrolled if on anticonvulsants and well controlled* Patients must not be in status epilepticus, a coma or on assisted ventilation at the time of study enrollment
+45.0
+Patients with seizure disorder may be enrolled if on anticonvulsants and well controlled
+65.0
+Patients with a known seizure disorder who are receiving non-enzyme inducing anticonvulsants and have well-controlled seizures may be enrolled
+146.0
+Patients with seizure disorder may be enrolled if on non-enzyme inducing anticonvulsants and well controlled
+51.0
+Patients must not have received enzyme-inducing anticonvulsants for at least 7 days prior to enrollment
+51.0
+Patients with seizure disorder may be enrolled if on anticonvulsants and well controlled
+49.0
+Patients with seizure disorder may be enrolled if on anticonvulsants and well controlled
+144.0

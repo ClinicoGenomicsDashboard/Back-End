@@ -1,0 +1,129 @@
+Participant has >= grade 2 diarrhea (participants with grade 1 diarrhea are eligible provided stool for ova/parasites and stool cryptosporidium studies are negative)
+Grade 2 or greater diarrhea of any cause at time of study entry
+Uncontrolled nausea/vomiting/diarrhea;
+Chronic diarrhea (excess of 2-3 stools/day above normal frequency).
+Intractable, severe diarrhea, defined as > 1.500 cc diarrheal fluid per day, or diarrhea causing persistent severe electrolyte abnormalities, or hypoalbuminemia
+Have current or recent (within 3 months of study drug administration) gastrointestinal disease with chronic or intermittent diarrhea, or disorders that increase the risk of diarrhea, such as inflammatory bowel disease.
+Diarrhea > grade 1 in the absence of antidiarrheals
+Significant or recent gastrointestinal disorders with diarrhea as a major symptom (e.g. Crohn's disease, malabsorption, or complete blood count [CBC] grade >= 2 diarrhea of any etiology)
+Uncontrolled chronic diarrhea > grade 2 at baseline.
+Unresolved diarrhea ? CTCAE grade 2 or presence of medical condition associated with chronic diarrhea (such as irritable bowel syndrome, inflammatory bowel disease)
+A history of chronic diarrhea, colitis, or intestinal perforation that in the opinion of the investigator precludes utilization of idelalisib
+No currently active diarrhea that may affect the ability to absorb ZD6474
+Chronic or acute GI disorders resulting in diarrhea of any severity grade.
+Any CTCAE Grade 4 diarrhea (i.e., life-threatening consequences with urgent intervention indicated) within 7 days prior to Day 1
+Any CTCAE Grade 2 or 3 diarrhea (i.e., increase of ? 4 stools per day over baseline), unless attributed to AdV, within 7 days prior to Day 1
+Unresolved diarrhea >= Common Terminology Criteria for Adverse Events (CTCAE) grade 2 or a medical condition associated with chronic diarrhea (such as irritable bowel syndrome, inflammatory bowel disease)
+Persistent >= grade 2 diarrhea regardless of etiology
+History of acute diverticulitis within the last 6 months, or current chronic diarrhea
+Diarrhea > grade 1 in the absence of antidiarrheals
+Significant chronic gastrointestinal disorder with diarrhea as a major symptom (e.g., Crohn’s disease, malabsorption, or grade >= 2 [NCI CTCAE v.4.0] diarrhea of any etiology at screening)
+Active treatment-refractory diarrhea that may affect the ability of the patient to absorb the trial agents or tolerate further diarrhea
+History of symptomatic gastrointestinal disorder within the last five years resulting in bleeding or chronic or frequent diarrhea
+Diarrhea > grade 1 in the absence of anti-diarrheals
+Persistent greater than or equal to grade 2 diarrhea regardless of etiology.
+Patients with significantly diseased or obstructed gastrointestinal tract or uncontrolled vomiting or diarrhea
+Ongoing GI adverse events > grade 2 (e.g., nausea, vomiting, or diarrhea) at the start of the study
+No diarrhea >= grade 2 at baseline
+Poorly-controlled diarrhea (> 4 loose bowel movement [BM]/day without use of anti-motility agents) within 7 days of study enrollment; patients may be reconsidered for the study if the diarrhea resolves
+Patients with diarrhea >= CTCAE grade 2
+No history of chronic diarrhea
+Have a preexisting chronic condition resulting in persistent diarrhea.
+Patients with chronic diarrhea or with Grade 2 or greater diarrhea despite appropriate medical management.
+Patients with chronic diarrhea or with Grade 2 or greater diarrhea despite appropriate medical management.
+Inability to swallow oral medications or a recent acute gastrointestinal disorder with diarrhea e.g., Cohn's disease, malabsorption, or Common Terminology Criteria for Adverse Event (CTCAE) Grade > 2 diarrhea of any etiology at baseline
+Diarrhea ( >=3 loose bowel movements per day)
+Duration of diarrhea of at least 1 week
+Patients with diarrhea >= CTCAE grade 2
+Uncontrolled diarrhea
+Chronic diarrhea
+Significant acute gastrointestinal disorders with diarrhea as a major symptom e.g., Crohn's disease,malabsorption, or CTCAE Grade ? 2 diarrhea of any etiology.
+Diarrhea > grade 1 at baseline
+Uncontrolled serious chronic gastrointestinal condition associated with diarrhea
+Grade 2 or greater diarrhea
+Patients with diarrhea >= CTCAE grade 2
+Any gastrointestinal disorder with diarrhea as a major symptom, such as Crohn’s, or pre-existing chronic diarrhea Common Terminology Criteria (CTC) grade >= 2 of any etiology; included are malabsorption disorders that in the opinion of the study physician may affect absorption of either afatinib or dasatinib
+Active diarrhea >= CTCAE grade 2
+Patients must not have significant gastrointestinal disorders with diarrhea as a major symptom (e.g. Crohn’s disease, malabsorption, etc)
+Subject has persistent diarrhea, malabsorption, or known sub-acute bowel obstruction ? NCI CTCAE Grade 2, despite medical management.
+Active diarrhea of any grade
+Have current or recent gastrointestinal disease with chronic or intermittent diarrhea, or disorders that increase the risk of diarrhea, such as inflammatory bowel disease.
+Patients who have had grade 2 or higher diarrhea, despite optimal antidiarrheal supportive care, within 7 days prior to registration are not eligible
+Persistent CTCAE v4.0 greater than or equal to grade 2 diarrhea regardless of etiology.
+Uncontrolled chronic diarrhea ? grade 2 at baseline.
+Persistent diarrhea or malabsorption ? NCI CTCAE grade 2, despite medical management.
+Significant or recent acute gastrointestinal disorders with diarrhea as a major symptom.
+History of acute diverticulitis, or current chronic diarrhea
+Patients must not have >= grade 2 diarrhea
+Ongoing diarrhea defined as more than 1 watery stools/day.
+Unresolved diarrhea ? CTCAE grade 2 or a medical condition associated with chronic diarrhea
+Have a preexisting chronic condition resulting in persistent diarrhea.
+Patients with uncontrolled diarrhea or persistent nausea/vomiting requiring daily antiemetic therapy for symptom management within the past 21 days
+Participant has persistent diarrhea or clinically significant malabsorption syndrome or known sub-acute bowel obstruction ? Grade 2, despite medical management
+Patients may not have the following co-morbid disease or concurrent illness:\r\n* Chronic or acute gastrointestinal (GI) disorders resulting in diarrhea of any severity grade; patients may not use chronic anti-diarrheal supportive care (more than 3 days/week) to control diarrhea in the 28 days prior to first dose of investigational drug (exception: anti-diarrheal medications used to control symptoms from a medication that will be discontinued prior to study are allowed with a 7 day washout before study therapy, for example loperamide for erlotinib-associated diarrhea)\r\n* Known cirrhosis, defined as Child Pugh class A or higher liver disease\r\n* Other malignancy undergoing active treatment\r\n* Any other severe/uncontrolled inter-current illness or significant co-morbid conditions that in the opinion of the investigator would impair study participation or cooperation
+Patient has >= CTCAE grade 2 diarrhea
+Patients with diarrhea >= CTCAE grade 2
+Patients with significantly diseased or obstructed gastrointestinal tract or uncontrolled vomiting or diarrhea
+Patients with significantly diseased or obstructed gastrointestinal tract or uncontrolled vomiting or diarrhea
+Patients with chronic diarrhea or with Grade 2 or greater diarrhea despite appropriate medical management.
+Patients with diarrhea >= CTCAE grade 2
+Grade 2 or higher diarrhea at baseline unless deemed by the investigator to be caused by laxatives prescribed for symptomatic partial obstruction (e.g. MiraLAX)
+Significant or recent acute gastrointestinal disorders with diarrhea as a major symptom e.g., Crohn's disease, malabsorption, or Common Terminology Criteria for Adverse Events (CTCAE) grade > 2 diarrhea of any etiology
+Significant chronic gastrointestinal disorder with diarrhea as a major symptom (e.g., Crohn’s disease, malabsorption, or grade >= 2 diarrhea of any etiology screening)
+Presence of chronic diarrhea (> grade 1 by Common Toxicity Criteria [CTC] criteria), short bowel syndrome, pancreatic insufficiency, or malabsorption
+Patients with chronic or acute gastrointestinal (GI) disorders resulting in diarrhea of any severity grade; patients who are using chronic anti-diarrheal supportive care (more than 3 days/week) to control diarrhea in the 28 days prior to study entry
+Patients with diarrhea CTCAE v4 grade >= 2
+Patients with diarrhea >= CTCAE v4 grade 2
+Unresolved diarrhea >= CTCAE (v4.0) grade 1
+Patients with chronic or acute GI disorders resulting in diarrhea of any severity grade; patients who are using chronic anti-diarrheal supportive care (more than 3 days/week) to control diarrhea in the 28 days prior to enrollment
+Any predisposing chronic condition resulting in baseline grade 2 or higher diarrhea
+No uncontrolled diarrhea
+Diarrhea ? Grade 2, impaired gastrointestinal absorption
+Patients with grade 2 or greater diarrhea prior to study initiation despite maximal medical management due to medications or a medical condition such as Crohn's disease or malabsorption
+Chronic diarrhea
+History of gastrointestinal disease with diarrhea as the major symptom.
+Significant gastrointestinal disorder with diarrhea as major symptom
+Lower GI GvHD manifested by diarrhea must have other causes of diarrhea ruled out (eg, negative for Clostridium difficile or cytomegalovirus [CMV] infection or oral magnesium administration)
+Patients with chronic diarrhea of grade 2 or greater despite maximal medical management.
+Patients with diarrhea >= CTCAE grade 2
+Significant or recent acute gastrointestinal disorders with diarrhea as a major symptom e.g. Crohn's disease, ulcerative colitis, malabsorption or Common Toxicity Criteria (CTC) grade >= 2 diarrhea of any etiology
+Participants with history of chronic diarrhea, grade >= 2 prior to study participation; persons with up to grade 1 diarrhea will be eligible
+Chronic diarrhea (loose, watery or frequent stools) at baseline
+Current or recent (within 3 months of study drug administration) gastrointestinal disease such as chronic or intermittent diarrhea, or disorders that increase the risk of diarrhea, such as inflammatory bowel disease. Non-chronic conditions (e.g. infectious diarrhea) that are completely resolved for at least 2 weeks prior to starting study treatment are not exclusionary
+Persistent diarrhea or malabsorption ? NCI CTCAE Grade 2, despite medical management
+Patients who have had persistent GI GVHD manifested by diarrhea with stool volume < 500 mL/day in the absence of nausea or vomiting may be deemed as having Grade B GVHD if other causes of diarrhea have been ruled out (e.g., C. difficile or cytomegalovirus (CMV) infection, oral magnesium administration) and if the low stool volume reflects the effects of fasting or administration of narcotics or antidiarrheal medications.
+Chronic or acute GI disorders resulting in diarrhea
+Patients with diarrhea > CTCAE grade 2.
+Patients with significantly diseased or obstructed gastrointestinal tract or uncontrolled vomiting or diarrhea
+Significant or recent acute gastrointestinal disorders with diarrhea as a major symptom for example Crohn's disease, malabsorption or Common Terminology Criteria (CTC) grade >= 2 diarrhea of any etiology
+Patients with >= grade 2 or greater diarrhea despite maximal medical management due to medications or a medical condition such as Crohn's disease, malabsorption
+Persistent diarrhea (>= Grade 2) lasting greater than (>) 3 days within 2 weeks before the first dose of study treatment.
+Any gastrointestinal disorder with diarrhea as a major symptom, such as Crohn's, or pre- existing chronic diarrhea CTCAE Grade ? 2 of any etiology. Included are malabsorption disorders or surgical procedures that in the opinion of the investigator may affect absorption of study drug;
+History of inflammatory colitides, chronic abdominal pain, or chronic diarrhea.
+Chronic or acute GI disorders resulting in diarrhea
+Patients with chronic diarrhea or with grade 2 or greater diarrhea despite maximal medical management.
+Persistent diarrhea (greater than Grade 2) lasting > 3 days within 2 weeks before the first dose of study treatment
+Uncontrolled nausea/vomiting/diarrhea;
+Pre-existing diarrhea uncontrolled with supportive care; prior hemorrhagic diarrhea due to ulcerative colitis, inflammatory bowel disease or other cause; active, uncontrolled peptic ulcer disease even in the setting of proton-pump inhibitor or histamine2-blocker use
+GI Tract: biopsy showing amyloid deposition along with symptoms such as GI bleeding or persistent diarrhea (> 4 loose stools/day) Autonomic or Peripheral Nervous System: defined as orthostasis, symptoms of nausea or dysgeusia, recurrent diarrhea or constipation, abnormal sensory and/or motor findings on neurologic exam, or gastric atony by gastric emptying scan
+Current diarrhea >= CTCAE grade 2
+Subjects may not have ongoing chronic diarrhea
+Significantly diseased or obstructed gastrointestinal tract or uncontrolled vomiting or diarrhea.
+Diarrhea (> Grade 1)
+Has diarrhea (> Grade 1)
+Patients with diarrhea >= CTCAE grade 2
+Patients with diarrhea > CTCAE grade 1
+Subject must have NCI common toxicity Grade 3-4 immune-related diarrhea for up to 3 days or persistent Grade 2 diarrhea for more than 5 days
+Known malabsorption syndrome, short bowel or chologenic diarrhea not controlled by specific therapeutic means
+Chronic diarrhea or malabsorptive diseases (e.g., Crohn’s disease)
+Diarrhea associated with C. difficile positive stool assay
+Other known etiology of diarrhea (e.g. other enteric pathogen, other intestinal disease)
+>= Grade 3 diarrhea, >= grade 3 rectal bleeding, abdominal cramping, or incontinence of stool =< 7 days prior to registration
+Planned use of leucovorin (because of the risk of secretory diarrhea)
+Chronic diarrhea
+Persistent diarrhea or malabsorption despite medical management.
+Currently active diarrhea that may affect the ability of the patient to absorb the ZD6474 or tolerate diarrhea
+Patients must not have persistent diarrhea greater than National Cancer Institute (NCI) CTCAE grade 2 at the time of study registration, despite medical management
+Patients with active diarrhea > CTCAE v4.03 grade 2
+Diarrhea or clinical concern for C. difficile infection
+Diarrhea symptoms resolved to Grade 1 or better.

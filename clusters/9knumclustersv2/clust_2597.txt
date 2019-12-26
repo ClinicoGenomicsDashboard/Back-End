@@ -1,0 +1,47 @@
+PHASE I (STRATUM ): Patients with progressive DIPG, as defined by progressive neurologic abnormalities or worsening neurologic status not explained by causes unrelated to tumor progression (e.g., anticonvulsant or corticosteroid toxicity wean, electrolyte disturbances, sepsis, hyperglycemia, etc.), OR an increase in the bi-dimensional measurement, taking as a reference the smallest disease measurement recorded since last treatment, OR the appearance of a new tumor lesion since diagnosis \r\n* Please note:\r\n** Patients with a radiographically typical DIPG, defined as a tumor with a pontine epicenter and diffuse involvement of more than / of the pons, are eligible without histologic confirmation\r\n** Patients with pontine lesions that do not meet these radiographic criteria will be eligible if there is histologic confirmation of malignant glioma WHO II-IV. These patients must have radiographic evidence of progression
+Stratum A, currently closed to enrollment: Patients must have a recurrent, progressive or refractory DIPG following radiation therapy with or without chemotherapy\r\n* Histologic diagnosis is not required for patients with typical imaging findings of DIPG (defined as patients with a diffuse expansile mass centered in and involving at least / of the pons); patients with brainstem tumors who have undergone biopsy with a diagnosis of high-grade glioma or diffuse infiltrating glioma are also eligible
+STRATUM A: Histological confirmation of a newly diagnosed high-grade glioma or DIPG
+STRATUM B: Histological confirmation (at diagnosis or relapse) of a recurrent or progressive grade II-IV glioma (including DIPG)
+Patients with newly diagnosed DIPG who have received vorinostat previously will not be eligible for stratum I; patients with progressive DIPG will be eligible if they have received either one of the two drugs vorinostat or temsirolimus but will not be eligible for stratum II if have received both the drugs before
+Pediatric patients with progressive DIPG
+Diagnosis of recurrent or progressive HGG or DIPG
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients with progressive DIPG, as defined by progressive neurologic abnormalities or worsening neurologic status not explained by causes unrelated to tumor progression (e.g., anticonvulsant or corticosteroid toxicity wean, electrolyte disturbances, sepsis, hyperglycemia, etc.), OR an increase in the bi-dimensional measurement, taking as a reference the smallest disease measurement recorded since diagnosis, OR the appearance of a new tumor lesion since diagnosis\r\n* Please note: patients with a radiographically typical DIPG, defined as a tumor with a pontine epicenter and diffuse involvement of more than / of the pons, are eligible without histologic confirmation\r\n* Patients with pontine lesions that do not meet these radiographic criteria will be eligible if there is histologic confirmation of malignant glioma World Health Organization (WHO) II-IV
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patient must be able to swallow capsules whole
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients must have received a minimum of  Gy focal irradiation administered over approximately  days prior to enrollment; patients must have recovered from the acute treatment-related toxicities (defined as =< grade ) of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients must have received their last dose of known myelosuppressive anticancer therapy or immunotherapy at least  days prior to enrollment ( days if prior nitrosourea)
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Absolute neutrophil count >= ,/mm^
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Hemoglobin >=  g/dl (may receive transfusions)
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Total bilirubin =< . times institutional upper limit of normal (ULN)
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Albumin >=  g/dl
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Potassium >= lower limit of normal (LLN)
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Female patients of childbearing potential must have a negative serum or urine pregnancy test
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients who have had >  Gy total radiation to the pons (e.g. patients who have received re-irradiation)
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients have had valproic acid within  days prior to enrollment
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients have had prior bone marrow transplant
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients have significant acute deterioration in neurologic status in  hours prior to enrollment, in the opinion of the treating physician
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients have any other significant concurrent illness
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients have a history of any other malignancy
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients are known to be refractory to red blood cell or platelet transfusions
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients who are receiving any other anticancer or investigational drug therapy
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Patients who are required to receive any medication which can prolong the QTc interval
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Female patient is breastfeeding
+NON-PROGRESSED DIPG (STRATUM ): Patients with DIPG who have not yet progressed by clinical or radiographic criteria\r\n* Please note: patients with a radiographically typical DIPG, defined as a tumor with a pontine epicenter and diffuse involvement of more than / of the pons, are eligible without histologic confirmation\r\n* Patients with pontine lesions that do not meet these radiographic criteria will be eligible if there is histologic confirmation of malignant glioma World Health Organization (WHO) II-IV
+NON-PROGRESSED DIPG (STRATUM ): Patient must be able to swallow capsules whole
+NON-PROGRESSED DIPG (STRATUM ): Patients must have recovered from the acute treatment-related toxicities (defined as =< grade ) of radiotherapy prior to entering this study
+NON-PROGRESSED DIPG (STRATUM ): Absolute neutrophil count >= ,/mm^
+NON-PROGRESSED DIPG (STRATUM ): Hemoglobin >=  g/dl (may receive transfusions)
+NON-PROGRESSED DIPG (STRATUM ): Total bilirubin =< . times institutional upper limit of normal (ULN)
+NON-PROGRESSED DIPG (STRATUM ): ALT(SGPT) =<  x institutional upper limit of normal
+NON-PROGRESSED DIPG (STRATUM ): Albumin >=  g/dl
+NON-PROGRESSED DIPG (STRATUM ): Potassium >= LLN
+NON-PROGRESSED DIPG (STRATUM ): Patient has no ventricular arrhythmias except for benign premature ventricular contractions
+NON-PROGRESSED DIPG (STRATUM ): Patient has a QTc interval <  ms
+NON-PROGRESSED DIPG (STRATUM ): Female patients of childbearing potential must have a negative serum or urine pregnancy test
+NON-PROGRESSED DIPG (STRATUM ): Patients who have had >  Gy total radiation to the pons (e.g. patients who have received re-irradiation
+NON-PROGRESSED DIPG (STRATUM ): Patients have significant acute deterioration in neurologic status in  hours prior to enrollment, in the opinion of the treating physician
+NON-PROGRESSED DIPG (STRATUM ): Patients have diarrhea > CTCAE grade 
+NON-PROGRESSED DIPG (STRATUM ): Patients have a history of any other malignancy
+NON-PROGRESSED DIPG (STRATUM ): Patients are known to be refractory to red blood cell or platelet transfusions
+NON-PROGRESSED DIPG (STRATUM ): Patients who are receiving any other anticancer or investigational drug therapy
+NON-PROGRESSED DIPG (STRATUM ): Patients who are required to receive any medication which can prolong the QTc interval
+NON-PROGRESSED DIPG (STRATUM ): Female patient is breastfeeding

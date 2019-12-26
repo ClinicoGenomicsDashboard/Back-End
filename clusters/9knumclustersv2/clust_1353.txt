@@ -1,0 +1,50 @@
+Must not have received alemtuzumab or other anti-T-cell antibody therapy within  days of entry onto this study
+Prior therapy with an anti-CSFR antibody
+Patient received prior treatment with a CD antibody.
+Obtained within  days prior to CD: Anti-hepatitis C virus (HCV) total antibody negative
+Prior treatment with any anti-PD- blocking therapies or histone deacetylase inhibitors (HDACi), or anti-CTLA- antibody, CD agonist or other immune activating therapy such as anti-CD  antibody within the last  months of enrollment in the study
+TREATMENT EXCLUSION: Received anti-CD antibody-based therapy within the previous  weeks
+Prior anti-human antibody response (anti-heart antibodies [AHA] or anti-drug antibody [ADA])
+Inclusion of participants with confirmed positive serology of at least one auto-antibody panel (anti-nuclear antibody, anti-double stranded DNA, cytoplasmic anti-neutrophil cytoplasmic antibody, and perinuclear anti-neutrophil cytoplasmic antibody) at screening should be discussed between Sponsor and investigators, and if judged clinically relevant could be referred to a specialist (Rheumatologist) to exclude an underlying auto-immune disease
+Treatment with any anti-CD or anti-CD antibody or antibody-drug conjugate therapy within  weeks of enrollment
+T cell-directed antibody therapy (eg. Alemtuzumab, anti-thymocyte globulin) within  months of enrollment
+Received any prior monoclonal antibody (except an anti-CD antibody) within  days before the date of study start.
+PRIOR TO LYMPHODEPLETION: Received anti-CD antibody-based therapy within the previous  weeks prior to cell infusion
+PRIOR TO INFUSION OF ATLCAR.CD CELLS: Received anti-CD antibody-based therapy within the previous  weeks prior to cell infusion
+Prior treatment with an anti-ErbB antibody
+Received anti-CD antibody-based therapy within the previous  weeks
+Previous treatment with any anti-CD antibody.
+Criteria  Prior therapy with anti-CD antibodies is allowed as long as the patient had at least a PR to most recent therapy with CD antibody, was not removed due to toxicity, did not relapse within  days from intensive treatment (at least every other week) of CD antibody therapy, and will have at least a  month CD antibody treatment-free interval from last dose received until first study treatment
+Treatment with a therapeutic antibody targeting CD <  weeks prior to study Day 
+Patients with a history of having to discontinue anti-GD antibody therapy due to toxicity are not eligible.
+Has received study therapy (including investigational device) as part of a clinical trial within  weeks of the first dose of treatment, with the exclusion of an anti-PD/L antibody given as either a single agent or non-CTLA- antibody containing combination
+Patients with a history of prior treatment with ipilimumab, anti-programmed cell death  (PD) antibody, cluster of differentiation (CD) agonist or anti-CD  antibody
+Patients with a history of prior treatment with ipilimumab, anti-programmed cell death (PD)  antibody, cluster of differentiation (CD) agonist or other immune activating therapy such as anti-CD  antibody
+No anti-CD monoclonal antibody therapy within  weeks of enrollment
+Receipt of anti-CTLA- or anti-CD antibody within  months prior to the planned start of study treatment.
+Prior therapy with any anti CD monoclonal antibody.
+Antibody use including anti-CD therapy within  weeks prior to infusion or  half-lives of the respected antibody, whichever is longer
+Previous CLL treatment with a CD-targeting antibody or a CD-antibody drug conjugate.
+Subjects who have received an anti-DLL antibody, or an anti-DLL/VEGF bispecific antibody Subjects who have received prior anti-VEGF therapy are eligible, unless they have residual serious adverse events related to their anti-VEGF therapy.
+Systemic anti-lymphoma therapy within  days or use of antibody agents within  weeks use of radioimmunotherapy within  months.
+Received alemtuzumab or other anti-Tcell antibody within  days
+Received anti-CD antibody-based therapy within the previous  weeks
+Have received an antibody therapy within  weeks
+NHL patients must have had prior treatment with an anti-CD antibody therapy
+Previous treatment with an anti-CD antibody or fragments
+an anti-CD antibody-containing regimen
+Prior therapy with varlilumab or with an anti-CD antibody.
+Prior therapy with an anti-CD antibody.
+Prior treatment with an anti--BB antibody
+Prior treatment with a CD antibody
+Prior therapy with anti-CD antibody
+Patients with a history of prior treatment with an anti-programmed cell death (PD)  antibody, CD agonist or other immune activating therapy such as anti-CD  antibody are excluded unless  half-lives of the agent (minimum of  weeks) have intervened since the therapy; patients who have received prior vaccine therapy are eligible
+Previous treatment with any anti-CD antibody
+Patients must not have received prior anti-disialoganglioside (GD) antibody therapy
+Systemic anticancer treatment (including investigational agents) less than  weeks before the first dose of study treatment (<= weeks for antibody-based therapy including unconjugated antibody, antibody-drug conjugate, and bi-specific T-cell engager agents; <= weeks for cell-based therapy or anti-tumor vaccine).
+Received anti-CD antibody-based therapy within the previous  weeks prior to cell infusion
+Prior treatment with an anti-HER antibody
+Have received anti-CD antibody therapy and do not fulfill a -day washout period before receiving TAK-.
+Systemic anticancer treatment (including investigational agents) less than  weeks before the first dose of study treatment (<= weeks for antibody-based therapy including unconjugated antibody, antibody-drug conjugate, and bi-specific T-cell engager agent; <= weeks for cell-based therapy or anti-tumor vaccine).
+Last dose of anti-CD antibody therapy must have been > weeks before the first dose of XmAb
+Systemic anticancer treatment including investigational agents or radiotherapy < weeks before the first dose of study treatment (< weeks for antibody-based therapy including unconjugated antibody, antibody-drug conjugate, and bi-specific T-cell engager agents; <= weeks for cell-based therapy or antitumor vaccine) or have not recovered from acute toxic effects from prior chemotherapy and radiotherapy.

@@ -1,0 +1,290 @@
+Platelet count <   ^/?L
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet Count ? ,/?L
+Platelet count ?   e/L
+Platelet count <  x ^/L
+Platelet count >=  x ^/L
+Platelet count >  x /L
+Platelet >=  x ^/L
+Platelet count > ,/l
+Platelet count ? ,/?L
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count ?   ^/L
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count < ,/L
+Platelet count of ?/L.
+Platelet count >=  x ^/L
+Have a platelet count ?  /L.
+Platelet count >=  x ^/L
+Platelet count ? , (platelets/?L)
+Platelet count ? ,/L
+and platelet count ?   /L
+Platelet count <  x /L.
+Platelet count ? x ?/L (Parts  and ), ? x ?/L (Part )
+Platelet count > ,/L
+Platelet count < ,/L
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count >=  x^/L
+Platelet count ? x /L;
+Platelet count >=  x ^/L
+Platelet count ?  x ?/L.
+Platelet count >=  x ^/L
+Platelet count ? ,/?L,
+Platelet count of >=  x ^/L
+Platelet count >  x ^/l
+Platelet count >=  x ^/L
+Platelet count <  x ^/L
+Platelet Count ? ,/ml
+Within  days of randomization: Platelet count >=  x ^/L
+Platelet count >=   ^/L.
+Platelet count > ,/l
+Platelet count >= ^/L.
+Platelet count ?,/?L
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L.
+Platelet count >=  X ^/L
+Platelet count < x /L
+Platelet count ?  ^/L (Grade ?).
+Platelet count ?  x ^/L
+Platelet ?  x ^/L.
+Platelet count >=  x ^/L
+Platelet count: < , cell/dL
+Within  weeks before enrollment: Platelet count >=  x ^/L
+Platelet count ?   ^/L
+Platelet count  x ^/L (/L)
+Platelet count >= ,/L.
+Platelet count >=  x ^ platelets per L
+Platelet count greater than ,/L
+Platelet count ? ,/?L
+Platelet count ?   /L
+Platelet count ?   ^/L
+platelet count greater than ,/L
+Platelet count >=  x ^/L
+Within  days of the first study treatment: Platelet count >=  x ^/L
+Platelet count >= ,
+platelet count ?  x /L;
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count ?  x  /L
+Platelet count >  x ^/L
+Platelet count >=  x ^/L
+Platelet count ? x ^/L
+Platelet count >=  x ^/L
+Platelet count =< , x ^/L
+Patients must have a platelet count >= , x ^/L
+Platelet count >=  x ^/L
+Platelet count < x ^/L
+Platelet count < ,/ml
+Platelet count >=  x ^/L
+Platelet count =<  x ^/L
+Platelet count >=  x ^/L
+Platelet count ?  x /L
+Platelet count <  x ^/L
+Platelet count >=  x ^/L
+Platelet count ? x /L;
+Platelet count > ,/mL
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count ? ,/L
+Platelet count >=  x ^/L
+Platelet count > ,/l
+Platelet count >=  x ^/L
+Platelet > 
+Platelet count >= ,
+Platelet count of >= ,
+Platelet count =<  x ^/L
+Platelet count >=  x ^/L
+Platelet count ?   /L
+Platelet count > or =  x ^/L
+Platelet count of >= ,/L
+c. Platelet count ? ,/L
+Platelet count <,/?L
+Platelet count >= ,/
+Platelet count < 
+Platelet count < ,
+Platelet >= ,
+Platelet count > ,
+Platelet count <  x ^/L
+Platelet count <  x ^/L
+Platelet count >=  x ^/L
+Platelet count must be >= ,
+Platelet count > ,
+Platelet count =< ,/?l
+Platelet count of > x/L
+platelet count ? x /L
+Platelet count < x^ /L
+Platelet count ?^/L.
+Platelet count <  x /L
+Platelet count /?l
+Platelet count ?  x /L
+Or platelet count < ,
+Platelet count >=  x ^/l
+Platelet count >=  x ^/L
+Platelet >= ,/L
+Platelet count <   ^/L.
+Platelet count of < ,
+Platelet count >= ^/L within  weeks before baseline
+Platelet count >= ,
+Platelet =< ,
+Platelet >=  x ^/l
+Platelet count >  x ^/L
+Platelet count ?,/l
+Platelet count >=  x ^/L
+Platelet count:
+Platelet count ? ,/L
+Platelet count >=  x ^/L
+Platelet count ?  x ^/L.
+platelet count >, /?L
+Platelet count of ?/?L.
+platelet count ?  /L
+Platelet count <  x e/L, OR
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count ?   /L.
+Platelet count >  x ^/L
+Platelet count >=  x ^/L
+Platelet count ?^/L
+Platelet count ? x /L
+Platelet count >=  x ^/L
+Platelet count < ,
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet Count >= ,/ml
+Platelet count >=  x ^/L
+Platelet count ? ,/L
+Platelet count ?   e/L
+Platelet count <  x ^/L
+Platelet count less than ,
+Platelet count > ,/?L
+Platelet count >=  x ^/L
+Platelet count >= ,
+Platelet count >=   ^/L
+Platelet count ?   /L
+and platelet count ?   ^/L
+Platelet count >=  x ^/L
+Platelet count ? x^/L
+Platelet count ? ,/ L
+Platelet count >= ,/mL
+Platelet count =<  x ^/L
+Platelet count >= , x ^/L
+Platelet count >=  x ^/L
+Platelet count of ? x /L.
+Platelet count =<  x ^/L at baseline
+Platelet count >= ,/mL
+Platelet count < x /L
+Platelet count >=  x ^/L.
+Platelet count >=  x ^/L
+Platelet count >  x ^/L
+Platelet count >=  x ^/L
+Platelet count >= ,/iL
+Platelet count >=  x ^/L
+Platelet count <x^/L
+Platelet count >=  x ^/L
+Platelet count > ,
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L and =<  x ^/L
+Platelet count ?  x ^/L
+Platelet count >=  x ^/l
+Patient has a platelet count of <  within  days before enrollment
+Platelet count < ,/mL
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Has platelet count <x^/L within  days before enrollment.
+Platelet count < x ^/L at screening or at Study Day .
+Platelet count >=  x /L
+Platelet count >= ,/mytm^
+Platelet count >= ,
+Patient has a platelet count of less than , within  days before enrollment
+Platelet count ?  x /L
+Platelet count >   ^/L at screening.
+Platelet count ?   /L
+Platelet count ? x /L,
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count <,/?L ( X /L)
+Platelet count < , /L
+Patient has a platelet count of <  x ^/L.
+A platelet count > ,/L
+Platelet count ?  /L
+Platelet count of < , ,
+Platelet count ,/mL
+Platelet count ?  /L
+Platelet count ?,/?L
+Platelet count ? ,/?L
+Platelet count ? ,/?L;
+Platelet count ?  x ^/L
+Platelet count ?  x ^/L
+Platelet count >=  x ^/L
+At least one platelet count <  Gi/L
+Platelet count >  x /L
+Platelet count > , x ^/L
+Platelet count <  x /L
+Platelet count ? x E/L
+Platelet count >=  x ^ L
+Platelet count >= ,/?L
+Platelet count of >=  x ^/L
+Platelet count >=*^/L.
+Platelet count <,/mL
+Platelet Count ?  x ^/L
+Platelet count ?E/L.
+Platelet count <,/L,
+Platelet count > ,/L
+Platelet count <,/?L.
+Platelet count < ,/L
+Platelet count <  x ^/L
+Platelet count < x ^/L.
+Platelet count ?  x  /L, and
+Platelet count ? ,/L
+Platelet count >=  x ^/L
+Platelet count at least  x ^/L
+Platelet count ?  x ?/L
+Platelet count ?  x /L
+Platelet count of ? x /L.
+Platelet count ?,/l
+Platelet count >= ,/?L
+Platelet count ?. x /L
+Platelet count < ,/ml
+Platelet count ?  x /L
+Platelet count ?  x /L
+Platelet count ?. x /L
+Platelet count ? ,/L
+Platelet count ?  x ^/L;
+Platelet count ? x ^/L
+Platelet count >=  x ^/L
+platelet count >=*^/L
+Platelet count < ,/ml
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count of at least   /L, and
+Platelet count ?  ^/L
+Platelet count > ,
+Platelet count <,/mL
+Platelet count ? , x^/L
+Platelet count >=  x ^/L
+Platelet count >  x ^/L
+Neutrophil count < . x ^/L or platelet count <  x ^/L
+Platelet count < 
+Platelet count ?,/L
+ANC > /?l and platelet count >,/?l
+Platelet count ? ,/?L
+Platelet count of > ,
+Platelet count of >  x ^/L
+Platelet count >= ,
+Platelet count >= ,  and < ,,
+Thrombocytopenia (platelet count < ,)
+Platelet count ? x /L
+Platelet count >=  x ^/L
+Platelet count >=  x ^/l
+Platelet count >=  x ^/L
+Platelet count >=  x ^/L
+Platelet count > ,/L
+Platelet count >=  x ^/L
+Platelet count <  x ^/L
+Platelet count ? x^/L.

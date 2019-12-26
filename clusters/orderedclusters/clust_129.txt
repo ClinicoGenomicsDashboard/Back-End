@@ -1,0 +1,30 @@
+Glomerular filtration rate (GFR) > 25 ml/min (for patients receiving cisplatin, GFR >= 60 ml/min)
+37.0
+Patients with a serum creatinine > 1 are eligible if they have a calculated glomerular filtration rate (GFR) of >= 60 ml/min (i.e. class I or class II chronic kidney disease ) using the Modification of Diet in Renal Disease (MDRD) formula* Note: Daily creatinine and MDRD formula are only for the 1st induction cycle
+747.0
+Creatinine clearance or estimated radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or
+74.0
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or
+77.0
+Estimated glomerular filtration rate (GFR) (calculated using Chronic Kidney Disease Epidemiology Collaboration [CKD-EPI] equation) >= 30 mL/min/1.73 sq.m.
+54.0
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or
+81.0
+Creatinine within normal limits for the laboratory OR creatinine clearance >= 60 mL/min/1.73 m^2 (estimated glomerular filtration rate [eGFR]) for patients with creatinine levels above the ULN for the laboratory
+30.0
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or
+44.0
+Creatinine clearance >= 50 mL/min by either measured (using the Cockcroft-Gault, Modification of Diet in Renal Disease [MDRD] or Chronic Kidney Disease Epidemiology [CKD-EPI] formula) or calculated clearance (i.e. glomerular filtration rate [GFR])
+90.0
+Creatinine clearance estimated glomerular filtration rate (GFR) >= 30 mL/min/1.73 m^2 (Cockcroft-Gault)
+32.0
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2 or
+53.0
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2
+700.0
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 mL/min/1.73 m^2
+1680.0
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or
+49.0
+Creatinine clearance or radioisotope glomerular filtration rate (GFR) >= 70 ml/min/1.73 m^2 or
+98.0

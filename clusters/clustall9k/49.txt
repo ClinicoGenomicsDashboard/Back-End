@@ -1,0 +1,493 @@
+ECOG performance status of less than or equal to (</=) 1
+ECOG performance status 0 or 1
+ECOG performance status =< 2
+ECOG performance status 0 or 1
+ECOG performance status 0-2
+Patients must have an ECOG performance status of 0-2
+ECOG performance status 0-2
+ECOG performance status 0-1.
+ECOG performance status ? 1
+ECOG performance status <1
+ECOG Performance Status ? 1.
+ECOG performance status of 0-1.
+ECOG performance status of 0 or 1
+5. ECOG performance status of 0 or 1;
+ECOG Performance Status of 0-1
+ECOG Performance Status of 0 or 1
+Have a performance status of ? 1 on the ECOG Performance Scale
+ECOG performance status 0 or 1
+ECOG performance status of 0 or 1
+ECOG performance status 0 to 2
+ECOG Performance Status of 0 or 1
+The ECOG performance status must be 0 or 1.
+ECOG performance status less than or equal to 3
+ECOG Performance Status 0-2
+ECOG Performance Status ? 2
+ECOG Performance status of 0 or 1
+COHORT 2: ECOG performance status < 2
+ECOG performance status of 0 or 1
+ECOG performance status of 0-2
+ECOG performance status Grade 0-2
+ECOG Performance Status ? 1
+ECOG performance status of 0,1 or 2
+ECOG performance status ?2.
+ECOG performance status of 0, 1, or 2.
+ECOG performance status of 0 or 1
+ECOG performance status 0 or 1.
+ECOG performance status 0 or 1
+ECOG performance status of 0 or 1 at enrollment
+The ECOG performance status must be 0-1.
+ECOG performance status of 0, 1, or 2
+ECOG performance status 0-1
+Patient with an ECOG performance status 0 or 1
+Has an ECOG Performance Status of 0 or 1.
+ECOG performance status ? 1.
+ECOG performance status of 0 or 1.
+ARM 2 - A: ECOG performance status =< 3
+ECOG performance status 0-1
+ECOG Performance Status of ? 2
+ECOG performance status 0-2.
+ECOG Performance status of ? 2
+Subjects must have an ECOG performance status of 0-2
+Adequate performance status: ECOG ? 2;
+ECOG Performance status 0-1 within 8 weeks prior to study registration.
+ECOG performance status less than or equal to 3
+ECOG performance status of </= 2
+ECOG performance status of 2 or greater
+ECOG Performance status of 0 or 1.
+Patients must have an ECOG performance status of 0-1
+ECOG performance status of 0 or 1
+Must have ECOG performance status of 0 or 1
+ECOG performance status (0-2)
+ECOG performance status of 2
+ECOG performance status 0 or 1
+Participant must have an ECOG Performance status:
+ECOG performance status 0-1
+Participants must have an ECOG performance status of less than or equal to 1
+Have a performance status of 0 or 1 on the ECOG performance scale.
+Have adequate performance status (ECOG 0-2)
+ECOG performance status ?2
+ECOG performance status 0-1
+ECOG performance status of 0, 1 or 2
+ECOG performance status of 0, 1 or 2
+ECOG performance status > 1
+Performance Status (ECOG) 0-1 at study entry;
+Participant must have an ECOG Performance status:
+Have adequate performance status (ECOG 0-2)
+ECOG performance status of 0 or 1
+ECOG performance status > 2
+ECOG performance status 0 or 1.
+ECOG performance status of 2
+ECOG performance status ? 2
+ECOG performance status of 0-2 (dose escalation phase); ECOG performance status of 0-1 (expansion phase).
+ECOG Performance Status of 0 or 1.
+ECOG performance status of 0-2 (inclusive)
+ECOG performance status ? 1
+Have a performance status of 0 or 1 on the ECOG Performance Scale.
+ECOG performance status of < 1 on Day1 Cycle 1
+ECOG performance status of 0 or 1.
+ECOG performance status 0-1
+ECOG Performance Status of 0-1.
+ECOG performance status between 0 and 2
+ECOG Performance Status of 0 or 1
+ECOG performance status of 0 or 1
+ECOG performance status of ? 2.
+ECOG performance status ? 1
+ECOG performance status of 3
+Performance status ECOG 0-2
+ECOG performance status of 0-2.
+ECOG performance status ? 2
+ECOG performance status > 1
+The patient must have an ECOG performance status of 0, 1.
+ECOG Performance Status of 0 or 1.
+ECOG performance status 0-1
+ECOG performance status 0-2
+ECOG performance status </=2.
+ECOG performance status 0-1.
+Have an ECOG performance status of ? 1
+ELIGIBILITY CRITERIA FOR REGISTRATION: ECOG performance status =< 2
+ECOG performance status of 3 or 4
+ECOG performance status of 3 and 4
+Poor performance status (ECOG > 1)
+ECOG performance status of 0 or 1
+Subject has ECOG performance status 0 to 1.
+ECOG Performance Status of 0 or 1
+The patient must have an ECOG performance status of 0, 1.
+The ECOG performance status must be 0 or 1
+ECOG Performance Status III or IV;
+ECOG performance status of ? 2.
+ECOG Performance Status ? 1.
+ECOG performance status 0- 2
+ECOG performance status of ?2.
+Performance status ECOG 0-1
+ECOG performance status 0-1.
+ECOG performance 0, 1 or 2
+ECOG performance status of 0 or 1 at screening.
+ECOG performance status 0-2.
+ECOG performance status 0 to 2
+ECOG performance status of 0, 1, or 2
+ECOG performance status ?2.
+ECOG performance status 0 or 1.
+ECOG performance status of 0, or 1, or 2
+ECOG Performance Status 0 - 1
+ECOG performance status 0 or 1
+ECOG performance status 0 to 1
+ECOG performance status of 0/1
+ECOG performance status of 0-2
+ECOG performance status ? 3
+ECOG performance status 0 to 2;
+Have ECOG performance status of 0 or 1
+ECOG performance status 0-1
+ECOG performance status ? 2
+Performance status (ECOG) of 0-2.
+Patients must have an ECOG performance status of 0-2
+Patients must have an ECOG performance status of 0 -2
+Step 2: ECOG performance status =< 1
+ECOG performance status 0-2
+ECOG performance status of 0 to 1
+Patients must have ECOG performance status of < 2.
+Patients must have an ECOG performance status of 0, 1 or 2
+ECOG performance status =< 2
+ECOG performance status of 2, 3, or 4
+ECOG performance status of 0 or 1
+ECOG performance status of 0 or 1.
+Cohort A (asymptomatic): ECOG performance status ?1 Cohort B (symptomatic): ECOG performance status ?2
+ECOG performance status 0, 1 or 2
+ECOG performance status of ? 1.
+ECOG Performance Status 0 or 1
+ECOG Performance status of 0 to 2.
+ECOG performance status of 0 or 1.
+ECOG performance status of 0 to 2.
+ECOG performance status of 0, 1, or 2.
+ECOG performance status of 0-1
+ECOG performance status of 0-1
+ECOG performance status of 0 to 1
+ECOG performance status of 0 or 1
+ECOG performance status 0-2.
+ECOG performance status ? 1
+ECOG Performance Status <= 1.
+ECOG performance status ? 2.
+Has an ECOG performance status of 0 or 1.
+ECOG performance status 0-2
+ECOG performance status of ? 2.
+ECOG performance status ?2
+ECOG performance status 0 to 1
+ECOG performance status of ? 2
+ECOG performance status ? 2
+ECOG performance status <2
+Patients must have an ECOG Performance Status ? 1.
+ECOG performance status 0 or 1
+Patients must have a ECOG performance status of 0 or 1
+ECOG Performance status of 0 to 1.
+ECOG Performance Status 0-1.
+ECOG performance status ? 1
+ECOG Performance Status 0, 1, or 2
+ECOG Performance Status of ? 2
+ECOG Performance Status of ? 2.
+ECOG Performance Status of ? 2
+ECOG Performance Status of ? 2.
+ECOG Performance Status of ? 1.
+Patients with ECOG performance grade of 3 or 4
+ECOG Performance Status less than or equal to 2
+ECOG Performance status 0 or 1
+Have a performance status of 0 or 1 on the ECOG performance scale
+ECOG performance status of 0 to 1
+Have an ECOG Performance Status 0 or 1 at Screening
+ECOG performance status of 0 or 1
+ECOG performance status ?1
+Have a performance status of 0 or 1 on the ECOG Performance Scale.
+ECOG performance status ? 1
+Has ECOG performance status 0 or 1 on Cycle 1, Day 1
+ECOG performance status 0-2
+ECOG performance status of 0-1
+ECOG performance status </= 2
+ECOG performance status 0 or 1
+ECOG performance status between 0-2
+Patients must have an ECOG performance status of 0-1
+(ECOG) performance status of 0-2
+ECOG performance status ? 3;
+ECOG Performance Status of 0 or 1 at Screening
+ECOG Performance Status ? 2
+ECOG performance status of 0-2.
+ECOG Performance Status: 0-1
+ECOG Performance Status 0 or 1.
+ECOG performance status of 0 or 1.
+-  Subject has an ECOG performance status ? 1 at Screening and on Day 1.
+ECOG performance status of 0-2.
+ECOG performance status of 0 or 1
+ECOG performance status of 0 or 1
+Patients who have received two or three prior regimens must have an ECOG performance status of 0 or 1
+ECOG performance status of 0 or 1.
+ECOG performance status of 0 to 1
+Have a performance status of 0 or 1 on the ECOG Performance Scale within 14 days prior to registration.
+ECOG performance status ? 1
+ECOG performance status of 0 or 1
+WHO/ECOG performance status of 0 or 1;
+ECOG Performance Status of 2 - 3;
+DONOR: ECOG performance status 0 or 1
+ECOG performance status > 3
+ECOG performance status of 0-2
+WHO/ECOG performance status of 0 or 1
+ECOG performance status of 0 to 2.
+Subject must have an ECOG performance status of 0 or 1.
+ECOG performance status of 0 - 1.
+ECOG performance status between 0-2
+ECOG performance status of 0 - 1
+ECOG performance status of ? 2.
+ECOG performance status of ) to 1
+ECOG performance status 0-1.
+ECOG performance status >= 2
+ECOG performance status of 0-2.
+ECOG Performance Status of 0 or 1.
+ECOG Performance Status of 0 or 1
+ECOG Performance status 0-1
+ECOG performance status 0 or 1.
+ECOG performance status ?2
+ECOG performance status of 0-2.
+ECOG performance status of 0 or 1
+ECOG performance status < 2
+ECOG performance status of 0 or 1
+ECOG performance status < 2
+ECOG performance status ? 2
+ECOG Performance Status of 0, 1 or 2.
+ECOG Performance Status of 0, 1, or 2
+ECOG performance status of < 3.
+ECOG performance status of 0, 1, or 2
+ECOG performance status of 0-1.
+ECOG Performance Status 0 or 1.
+ECOG performance status of 0 or 1
+The patient has an ECOG performance status of 0, 1, or 2
+ECOG performance status ? 1
+ECOG Performance Status: 0-2
+ECOG performance status 0-2 (all cohorts)
+Patients must have an ECOG performance status of =< 2
+ECOG performance status of < = 2 at study entry.
+ECOG Performance Status of ? 3
+ECOG performance status of 0 or 1.
+ECOG Performance Status of </= 2
+ECOG performance status 0-1
+ECOG performance status 0 to 1
+Have an ECOG Performance of 0-2
+ECOG performance status ? 1
+An ECOG performance status of 2
+ECOG performance status ? 2
+ECOG Performance Status of 0 or 1
+ECOG performance status 0 to 1;
+ECOG Performance Status < 1
+Patients with an ECOG Performance Status of 0, 1, or 2.
+Patients with ECOG Performance Grade of 3 or 4
+ECOG Performance Status of 0, 1, or 2
+ECOG performance status 0-1
+ECOG performance status 0 or 1
+ECOG performance status > 2
+ECOG performance status of 0-3
+ECOG Performance Status of 0 or 1.
+ECOG performance status less than or equal to 2
+ECOG Performance Status of 0 or 1
+ECOG performance status of 0 to 1
+ECOG performance status 0-1
+ECOG Performance Status of 0-1
+ECOG performance status of ? 1
+ECOG Performance Status 0 to 2
+ECOG performance status of 0 or 1.
+ECOG performance status of 0 or 1.
+ECOG performance status 0-1
+ECOG performance status 0 or 1
+ECOG performance status of 0-1.
+ECOG performance status ? 2
+ECOG performance status of 0 or 1
+ECOG Performance Status ? 2.
+ECOG performance status =< 2
+(ECOG) Performance Status of 0, 1 or 2
+ECOG Performance Status 0-1
+ECOG performance status ? 2.
+ECOG performance status of 0 - 1.
+ECOG Performance Status ? 1
+ECOG performance status of 0-2.
+ECOG performance status of 0 to 1
+Patients must have an ECOG performance status of 0, 1, or 2.
+TREATMENT: Patients must have an ECOG performance status of 0-2
+ECOG Performance Status 0 - 1
+Have a performance status of 0 or 1 on the ECOG.
+ECOG Performance Status 0-2
+ECOG performance status 0-2.
+ECOG performance status of 0 or 1
+ECOG performance status of 0 or 1
+ECOG performance status of 0 to 2
+ECOG performance status of 0 or 1
+ECOG performance status of 0 or 1
+ECOG performance status of 0 or 1
+ECOG performance status 0-2, inclusive
+ECOG performance status ? 2
+ECOG performance status ? 2
+ECOG Performance Status of ? 1
+ECOG Performance Status of 0 - 2.
+ECOG Performance Status 0-1.
+ECOG performance status 0 or 1.
+ECOG Performance Status range of 0-2
+ECOG performance status of 0 or 1
+ECOG performance status 0-2.
+ECOG performance status 0 or 1
+ECOG performance status of ?2
+ECOG performance status <3
+ECOG performance status of 0 - 2. -
+ECOG performance status of ?2
+ECOG performance status of 0 or 1
+ECOG performance status 0-2
+ECOG Performance Status 0 or 1.
+ECOG performance status > 2.
+ECOG performance status status >/= 2
+ECOG performance status ?2.
+ECOG performance status of 0 - 1.
+ECOG performance status ? 1
+ECOG performance status of 0 to 1
+ECOG Performance Status of 0 or 1
+ECOG performance status of 0, 1 or 2
+ECOG Performance Status less than or equal to 2
+ECOG performance status 0-2
+ECOG performance status ?2
+Patients must have ECOG performance status of 0-2
+Donor must have an ECOG performance status of 0 or 1.
+Recipient must have an ECOG performance status of 0 or 1.
+ECOG performance status of 0, 1, or 2.
+ECOG performance status less than or equal to 2
+ECOG Performance Status ? 1.
+ECOG Performance Status ? 1.
+ECOG Performance Status of 0, 1, or 2.
+Patients must have an ECOG performance status of 0 - 1
+ECOG Performance Status of 0, 1, or 2.
+ECOG performance status 0-2.
+ECOG Performance Status of 0, 1 or 2
+ECOG performance status ? 1
+ECOG performance status of either 0 or 1
+ECOG Performance Status 0-2;
+ECOG Performance Status 0-2
+ECOG performance status of 0, 1, or 2
+ECOG Performance Status ? 2
+ECOG Performance Status 0 or 1
+ECOG performance status =< 2
+ECOG performance status =< 2
+Has an ECOG performance status of 0 or 1
+Have an ECOG performance status of 0 to 1.
+Subject has an ECOG Performance Status 0-1.
+ECOG Performance Status ? 2.
+ECOG performance status > 2
+ECOG performance status < 3
+Have ECOG performance status 0-1
+ECOG performance status of 0 or 1
+ECOG performance status 3 or worse
+ECOG performance status =< 2
+Patients must have an ECOG Performance Status of < 2
+ECOG performance status of 0 or 1
+ECOG performance status ?2.
+ECOG performance status > 3
+ECOG Performance status ? 2
+Patients must have a good performance status (ECOG<2)
+ECOG performance status of 0 or 1
+ECOG performance status ?2
+ECOG performance status of 0 to 2
+ECOG performance status of 0, 1 or 2 at the time of enrollment.
+ECOG performance status > 3
+ECOG performance status 0 or 1
+ECOG performance status of ? 1
+Subject has an ECOG performance status 0 to 2.
+Has an ECOG performance status of Grade 0 to 2
+ECOG performance status of 0 or 1
+The patient has ECOG performance status > 1
+ECOG performance status of 0 to 1.
+ECOG performance status of 0 or 1.
+ECOG performance status of 0 or 1
+ECOG performance status of 0-2
+Eastern ECOG performance status of 0 to 2.
+Subjects with ECOG performance status of 0 or 1.
+ECOG performance status of 0-2.
+Subjects with ECOG performance status of 0 or 1.
+ECOG performance status 0-2
+ECOG performance status >1.
+ECOG performance status must be 0 or 1
+ECOG performance status 0-2
+ECOG performance status ? 1
+ECOG performance score 0-3
+ECOG performance-status score of 2 or less
+ECOG performance status score ? 2.
+Halabi Nomogram score <1951
+Nottingham score of 3 (specially nuclear and mitotic score>2)
+Participants with an Inventory of Depressive Symptomatology (IDS) score > 32 or IDS #18 score 2 >= will be referred to Dr. Andrew Miller
+IPSS score <= 16.
+Moderate cGvHD: At least one organ (not lung) with a score of 2, 3 or more organs involved with a score of 1 in each organ, or lung score of 1
+Severe cGvHD: at least 1 organ with a score of 3, or lung score of 2 or 3
+ECOG Score of 0-2
+ECOG performance status score of 2 or less
+Performance score (PS) of 0-2 by Zubrod score
+ECOG score 2 or less
+Patients with a biopsy-proven adult-type high-risk soft tissue sarcoma (STS) in the trunk (non-retroperitoneal) or extremities. Histologies will include the most common adult-type STS such as undifferentiated pleomorphic sarcoma, liposarcoma, leiomyosarcoma, fibrosarcoma, synovial sarcoma, angiosarcoma, epithelioid sarcoma and malignant peripheral nerve sheath tumor. STS considered high-risk as defined below:\r\n* Tumors greater than or equal to 5 cm, intermediate or high grade according to French Federation of Comprehensive Cancer Centers (FNCLCC) criteria, and a location deep or superficial to fascia\r\n* Intermediate or high-grade tumors that are locally recurrent, metastatic or have had prior inadequate resections \r\n* Intermediate and high grade tumors shall be grade 2 or 3 based on FNCLCC parameters (Trojani et al, 1984; Coindre 2006)\r\n** Tumor differentiation\r\n*** Score 1 (sarcomas closely resembling normal adult mesenchymal tissue)\r\n*** Score 2 (sarcomas for which histological typing is certain)\r\n*** Score 3 (embryonal and undifferentiated sarcomas)\r\n** Mitotic count (HPF – high power field – 0.17 mm squared)\r\n*** Score 1 (0-9 mitoses per 10 HPF)\r\n*** Score 2 (10-19 mitoses per 10 HPF)\r\n*** Score 3 (greater than or equal to 20 mitoses per 10 HPF)\r\n** Tumor necrosis\r\n*** Score 0 (no necrosis)\r\n*** Score 1 (less than 50% tumor necrosis)\r\n*** Score 2 (greater than or equal to 50% tumor necrosis)\r\n** Histological grade\r\n*** Grade 1 – total score 2 or 3\r\n*** Grade 2 – total score 4 or 5\r\n*** Grade 3 – total score 6, 7 or 8
+ECOG score 2
+ECOG performance score of 0 or 1 .
+Geriatric assessment score of >= 2
+Osteoporosis, defined as T-score less than -2.5
+Patient has an ECOG Performance Status score of 0 or 1 (solid tumors) or KPS score ? 70 (rHGG).
+IPSS score =< 15
+IPSS score > 15
+Adequate blood cell counts, kidney function, liver function and Eastern Cooperative Oncology Group (ECOG) score of 0 or 1 (for the Recommended Phase 2 Cohort, a ECOG score of 2 may be allowed on a case-by-case basis)
+Evidence of cirrhosis, documented by one of the following: Liver biopsy histologic diagnosis: Metavir Score greater than 3 (includes 3 - 4 or ¾) or Ishak score greater than 4 In the absence of liver biopsy: a FibroScan score greater than or equal to 12.5 kPa or Fibrotest score of >0.75 AND an APRI score greater than 1.5
+Has an ECOG performance status score of 0 to 2.
+Have an ECOG Performance Status score of 0 to 2.
+Must have a baseline American Urological Association (AUA)/International Prostate Symptom Score (IPSS) score of < 20
+Active symptoms of MF as demonstrated by a symptom score of at least 5 points (on a 0 to10 scale) on at least one of the symptoms or a score of 3 or greater on at least 2 of the symptoms
+Subjects must have an ECOG Performance Score of 0-1.
+ECOG performance status of 0-1 (score of 2 may be acceptable)
+ECOG performance status of 0-1 (score of 2 may be acceptable)
+ECOG Score ?2
+ECOG Performance Status score of 0 or 2 for subjects with NMC; 0-1 for subjects with other tumor types.
+ECOG Performance Status score of ? 1
+Internation Prostate Symptom Score score must be ? 15 (alpha blockers allowed);
+ECOG Performance Status score 0 or 1
+Have good performance score (0-1).
+Subject has a TBS with an SBSS score of 1, 2, or 3.
+Any National Comprehensive Cancer Network (NCCN)-International Prognostic Index (IPI) score; a calculated score required for enrollment
+Patients must have an ECOG performance score between 0 and 1.
+Patients must have an ECOG Performance Score of 0 or 1.
+ECOG performance score ? 1
+ECOG score of 0 or 1
+Patient must have proven positive tumor sample for NY-ESO-1 as determined by an H score for immunohistochemistry staining. Positive expression is defined as an H score ? 100 where the H score = [2 x (% cells 2+) + 3 x (% cells 3+)]. NOTE: The percentages of negative or weakly stained nuclei (i.e. 1+) are not to be included in the calculation of the H score.
+ECOG Performance Score of 0 or 1
+ECOG performance status score of 0-2.
+Must have an ECOG performance status score of less than or equal to 2.
+Participant must have an ECOG performance status score of 0 or 1
+Patients must have an ECOG score =< 3
+MMSE score 25 or above
+ECOG Performance Score of 0 -2
+Patient must have an ECOG Performance Score of 0, 1, or 2 (refer to Appendix II).
+ECOG Performance Status score of 0, 1 or 2
+Mirels Criteria Score ? 8. (specific to the target humeral lesion and subject to minimum VAS score requirements)
+ECOG performance status score 0, 1 or 2
+Neuropathy Impairment Score requirement of 5-130
+Patients must have an ECOG performance score of 0, 1, or 2.
+ECOG Performance Score of 0 or 1
+Performance Status corresponding to ECOG score of 0, 1, or 2:
+ECOG Performance Status score of 0 or 1
+Subject has screening MOD score of ?9
+ECOG performance score of 0-2.
+MELD Score < 15
+Patient has an Impact of Events Scale (IES) score >= 16 and/or partner has an IES score of >= 17 at the time of initial screening for eligibility
+After completion of all three screening questionnaires, participant must score accordingly on at least one questionnaire to be eligible:\r\n* Score >= 8 on the anxiety subscale of the Hospital Anxiety and Depression Scale (HADS)-Anxiety/Depression Scale OR\r\n* Score >= 4 on the Distress Thermometer OR\r\n* Score > 5 on the Modified Cancer Acceptance Scale
+Have a baseline Distress Thermometer score of >= 4, or an Impact of Events Scale score of >= 9, or Center for Epidemiological Studies Depression Scale score of >= 16 (i.e. clinically meaningful thresholds)
+Either a score of > 15 on the Brief Penn State Worry Questionnaire OR a score >= 12 on the Brooding Subscale of the Rumination Response Scale
+Minimum pre-treatment oNCF score >= 70
+ECOG score of 0,1,or 2 OR Karnofsky score of 50 or higher
+WHO/ECOG performance score > 2 and life expectancy of < 6 months
+Score at least a 5 on the Contemplation Ladder
+ECOG Performance Score of 0 or 1 within 14 days prior to registration
+Have an ECOG score of 0-1
+ECOG status <3
+ECOG status <3
+ECOG status 3 or 4
+ECOG functional status 0-2
+Acceptable ECOG status 0, 1, or 2;
+MF PATIENTS: Patients must have an ECOG status 0-2
+ECOG status ?1.
+ECOG status of 0 or 1.
+ECOG status of >= 2
+ECOG status of ? 2
+ECOG performed status of 0 or 1
+ECOG status > 3

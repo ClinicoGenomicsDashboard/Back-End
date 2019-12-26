@@ -1,0 +1,60 @@
+Patients must have a Karnofsky performance level of >= 30 for patients > 16 years of age or a Lansky performance scale of >= 30 for patients =< 16 years of age and life expectancy > 8 weeks
+400.0
+Off treatment > 14 years
+143.0
+Chemotherapy within 5 years prior to registration; (hormonal therapy is allowable if the disease free interval is >= 5 years)
+1120.0
+Karnofsky performance scale (KPS for > 16 years [yrs.] of age) or Lansky performance score (LPS for =< 16 years of age) >= 60 assessed within two weeks prior to registration
+180.0
+Patients must be post-menopausal; post-menopausal will be defined as women meeting any of the following criteria:* >= 60 years of age; or* < 60 years of age and amenorrheic for >= 12 months prior to day 1 if uterus/ovaries are intact; or* < 60 years of age, and the last menstrual period 6-12 months prior to day 1, if intact uterus/ovaries and meets biochemical criteria for menopause (follicle-stimulating hormone [FSH] and estradiol within institutional standard for postmenopausal status); or* < 60 years of age, without a uterus, and meets biochemical criteria for menopause (FSH and estradiol within institutional standards for postmenopausal status); or* < 60 years of age and history of bilateral oophorectomy; surgery must have been completed at least 4 weeks prior to day 1; or* Prior radiation castration with amenorrhea for at least 6 months
+1000.0
+Karnofsky performance status >= 50 for patients >= 12 years of age; for children < 12 years of age, the Lansky play scale >= 50% can be substituted
+75.0
+Age > 18 years
+140.0
+PHASE I: >= 3 years and =< 18 years of age at the time of study enrollment, if able to swallow whole capsules
+104.0
+Karnofsky performance scale (KPS for >= 16 years [yrs] of age) or Lansky performance score (LPS for < 16 years of age) >= 60 assessed within two weeks prior to registration
+52.0
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 60
+40.0
+Age >= 18 years
+84.0
+Age:* Phase 1 (Part A)** Patients must be > than 12 months and =< 21 years of age at the time of study enrollment* Phase 2 (Part B and Part C)** Patients must be > than 12 months and =< 30 years of age at the time of study enrollment
+148.0
+Parts A & C: patients must be >= 12 months and < 18 years of age at the time of study enrollment
+484.0
+Parts B1-B6, B8, D1-D6, E3, E4: patients must be >= 12 months and =< 30 years of age at the time of study enrollment
+484.0
+Part B7: patients must be >= 12 months and < 18 years of age at the time of study enrollment
+484.0
+Hemoglobin >= 8 g/dL for patients =< 16 years of age; >= 9 g/dL for patients > 16 years of age; Note: no transfusions are permitted 7 days prior to laboratory studies to determine eligibility
+340.0
+Age >= 14 years (>= 18 years in Germany)
+420.0
+Patients with body mass index (BMI) < 3rd percentile for age, as defined by WHO criteria for patients 1-2 years of age and Centers for Disease Control and Prevention (CDC) criteria for patients > 2 years of age, are not eligible
+81.0
+Female patients must have a bone age of equal to or greater than 12 years of age as determined by local read of appropriate radiographic imaging
+90.0
+Male patients must have a bone age of equal to or greater than 14 years of age as determined by local read of appropriate radiographic imaging
+90.0
+Cohort 1 patients must have measurable disease according to Response Evaluation Criteria in Solid Tumors (RECIST) 1.1* Note: patients in Cohort 1 will be stratified as follows:** Stratum 1: Patients >= 11 years of age but < 18 years** Stratum 2: Patients >= 11 years of age but < 50 years
+90.0
+Efficacy Phase: Patients must be =< 40 years of age at the time of enrollment
+337.0
+Patient must have had a cancer diagnosis < 22 years of age, irrespective of current age
+250.0
+Patient must have completed cancer treatment >= 2 years prior to study enrollment
+250.0
+Patients must be >= 18 years of age
+969.0
+Infants must be > 36 weeks gestational age at the time of enrollment
+116.0
+Age >= 6 years at the NCI clinical center (>= 18 years at other participating sites)
+35.0
+Standard risk 1: Patient must be < 11 years of age at enrollment
+1680.0
+Standard risk 2: Patients must be >= 11 and < 25 years of age at enrollment
+1680.0
+>= 11 and < 25 years old at enrollment
+1680.0

@@ -1,0 +1,10 @@
+Cluster 533: radiotherapy weeks prior study dose treatment starting patients received palliative 
+Cluster 703: fields overlap result region radiotherapy radiation prior therapy cancer study 
+Cluster 783: start treatment prior weeks study days therapy chemotherapy radiation investigational 
+Cluster 837: completed prior therapy weeks radiation chemotherapy enrollment radiotherapy study treatment 
+Cluster 1891: beam external radiation therapy prior radiotherapy weeks received gy treatment 
+Cluster 2022: palliative radiation radiotherapy weeks therapy prior treatment study allowed days 
+Cluster 2170: radiotherapy start weeks treatment prior study palliative received therapy radiation 
+Cluster 2340: kind immediate palliative requirement surgery including treatment zydelig fanca fap 
+Cluster 2376: anticancer therapies currently receiving therapy received chemotherapy weeks radiation start 
+Cluster 2481: hsct autologous amg start treatment weeks prior alemtuzumab admission allogeneic 

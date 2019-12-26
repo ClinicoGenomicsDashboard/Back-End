@@ -1,0 +1,46 @@
+Serum creatinine =< . x institutional ULN or -hour clearance >=  mL/min
+Serum creatinine < . x upper limit of normal (ULN) or -hour creatinine clearance >  ml/min
+Serum creatinine =< . x institutions ULN or -hour creatinine clearance >=  ml/min
+Adequate renal function as demonstrated by serum creatinine ? . x ULN or -hour urine creatinine clearance calculation ?  mL/min.
+Serum creatinine =< . x ULN or -hour creatinine clearance >=  ml/min
+Serum creatinine =< . mg/dL or -hour clearance >=  mL/min
+Obtained =<  days prior to registration: Serum creatinine =<  x ULN or  hour creatinine (Cr) clearance >  ml/min
+Serum creatinine =< . x institutional ULN or -hour clearance >=  mL/min
+Serum creatinine =< . x ULN, or -hr clearance >=  ml/min, within  days start of study start
+Serum creatinine =<  x ULN or  hour creatinine (Cr) clearance >  ml/min obtained =<  days prior to registration
+Creatinine less than . x ULN, or a  hour creatinine clearance of  mg/mL or more
+Serum creatinine =< . x ULN or -hour clearance >=  mL/min
+Serum creatinine =< . x ULN or -hour clearance >=  ml/min
+Serum creatinine =< . x ULN or -hour clearance >=  ml/min
+Patients must have a serum creatinine clearance >=  mL/min (as per the Jelliffe method) or by -hour or -hour urine creatinine clearance
+Serum creatinine =< . x ULN or -hour clearance >=  mL/min
+Serum creatinine ? . x ULN, or -hour (hr) clearance ?  ml/min
+Within  days prior to registration: Serum creatinine =< . x institutions ULN or calculated -hour creatinine clearance >=  mL/min
+Serum creatinine <  x the institutional ULN; however, if serum creatinine > . x ULN, a  hour urine creatinine clearance must be >  ml/min unless there is renal involvement by lymphoma
+Serum creatinine ? . x ULN, or -hr clearance ?  mL/min,
+Creatinine ? . x ULN or -hour urine < Grade 
+Within  days of study start: Serum creatinine =< . x ULN, or -hr clearance >=  ml/min; and
+Serum creatinine =< . x institutions ULN or -hour creatinine clearance >=  ml/min
+Serum creatinine =<  x ULN or -hour creatinine clearance >=  ml/min
+Serum creatinine =< . x institution's ULN or -hour creatinine clearance >=  ml/min
+Serum creatinine less than or equal to . x ULN or -hour clearance greater than or equal to  mL/min
+Serum creatinine =< . x ULN or -hour clearance >=  mL/min
+Serum creatinine less than or equal to . x ULN or -hour clearance greater than or equal to  ml/min
+Serum creatinine =< . x ULN or  hour creatinine (Cr) clearance >  ml/min
+Serum creatinine =< . x institutional ULN or -hour clearance >=  mL/min
+Serum creatinine =< . x ULN or -hour clearance >=  ml/min
+Serum creatinine =< . x ULN or -hour clearance >=  mL/min
+Serum creatinine =< . x ULN or -hour clearance >=  ml/min
+Serum creatinine =< . x institution's ULN or -hour creatinine clearance >=  ml/min
+The patient has serum creatinine <ULN and not rising for at least - weeks before chemotherapy. If elevated, the -hour creatinine clearance must be > mL/min
+Serum creatinine =< . X ULN OR -hour creatinine clearance >=  mL/min
+Serum creatinine ?. x ULN or calculated -hour creatinine clearance ? mL/minute
+Serum creatinine (Cr) =<  x ULN or -hour creatinine clearance >=  ml/min
+Renal function: Age-adjusted normal serum creatinine is required. A -hour creatinine clearance value >  mL/min/. m (updated Schwartz formula or nuclear GFR) must be obtained if serum creatinine is elevated.
+Serum creatinine =< . x ULN or -hour clearance >=  mL/min
+Serum creatinine =< . x ULN, or -hour (hr) clearance >=  ml/min
+Serum creatinine =< . x ULN (or -hour creatinine clearance >=  ml/min)
+Serum creatinine =< . x ULN or -hour clearance >=  mL/min
+Serum creatinine =< . x ULN or -hour creatinine clearance >=  ml/min
+Serum creatinine =< . X ULN or -hour clearance >=  mL/min
+Serum creatinine =< . x institutional ULN or calculated or measured -hour clearance >=  mL/min

@@ -1,0 +1,6 @@
+Cluster 311: brain metastases known patients history active subjects presence patient treated 
+Cluster 367: leptomeningeal disease manifestation history presence evidence patients diffuse spread untreated 
+Cluster 511: meningitis carcinomatous subjects known history brain presence leptomeningeal patients metastases 
+Cluster 1088: suspected metastasis leptomeningeal brain known active disease subject needing carcinomatosis 
+Cluster 1284: leptomeningeal metastasis brain disease history known symptomatic presence active patients 
+Cluster 1541: leptomeningeal metastases brain active cns evidence history known disease patients 

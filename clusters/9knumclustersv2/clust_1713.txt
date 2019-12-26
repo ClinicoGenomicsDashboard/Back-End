@@ -1,0 +1,9 @@
+Total bilirubin =< . mg/dL (. umol/L)
+Serum direct bilirubin =<  mg/dL ( umol/L) within  days prior to initiation of therapy
+Total bilirubin =< . mg/dL (. umol/L)
+Serum direct bilirubin =<  mg/dL ( umol/L)
+Bilirubin level at/above  umol per liter (. mg/dL)
+Total bilirubin =< . mg/dL (. umol/L) (except patients with Gilbert's disease)
+Serum direct bilirubin =<  mg/dL ( umol/L) within  days prior to randomization
+Bilirubin > . mg/dL ( umol/L)
+Serum bilirubin >  umol/L (. mg/dL)

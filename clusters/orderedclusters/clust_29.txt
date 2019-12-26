@@ -1,0 +1,18 @@
+Patients should have a Karnofsky/Lansky score of greater than or equal to 60; patients who require special assistance due to tumor-related paralysis, but who are out of bed during the day will be considered ambulatory for the purpose of calculating the performance score; patients must be able to communicate any symptoms
+30.0
+TREATMENT: Patients with a Karnofsky/Lansky score of >= 50%
+44.0
+Lansky (=< 16 years) or Karnofsky (> 16 years) score of at least 50
+62.0
+Lansky performance status score >= 70 for patients =< 16 years of age
+340.0
+Karnofsky performance status score >= 70 for patients > 16 years of age
+340.0
+Lansky performance status score >= 50 for patients =< 16 years of age; Karnofsky performance status score >= 50 for patients > 16 years of age
+337.0
+Patients must have a performance status corresponding to an Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; Note: patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+56.0
+Patients must have a Lansky or Karnofsky performance status score of >= 50, corresponding to Eastern Cooperative Oncology Group (ECOG) categories 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+146.0
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+53.0

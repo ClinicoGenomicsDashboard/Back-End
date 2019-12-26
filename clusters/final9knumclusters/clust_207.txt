@@ -1,0 +1,177 @@
+Patients status post a negative lymph node dissection are not eligible
+Pathologically proven to be lymph node negative by pelvic lymphadenectomy (pN0) or lymph node status pathologically unknown (undissected pelvic lymph nodes [pNx])
+Number of allowable metastases:\r\n* =< 4 metastases seen on standard imaging within 60 days prior to registration when all metastatic disease is located within the following sites:\r\n** Peripheral lung \r\n** Osseous (bone)\r\n** Spine\r\n** Central lung\r\n** Abdominal-pelvic metastases (lymph node/adrenal gland)\r\n** Liver\r\n** Mediastinal/cervical lymph node
+Definitive clinical, radiologic, or pathologic evidence of metastatic disease (M1) or lymph node involvement (N1)
+Subject meets one of the following criteria:\r\n* Evidence of active TLS during screening\r\n* A measurable lymph node with diameter >= 10 cm, or\r\n* A measurable lymph node with diameter >= 5 cm and an absolute lymphocyte count (including atypical lymphocytes and circulating lymphoma cells) >= 25 x 10^9/L
+Histologically confirmed MCC metastases in clinically detected lymph node(s)\r\n* Confirmation of the MCC diagnosis in the clinically suspicious lymph node(s) is mandatory for trial participation\r\n* Subjects must have had clinically-detected (i.e. either palpable or radiologically abnormal) lymph nodal metastasis\r\n* (NOTE: In-transit metastases without regional nodal involvement could be allowed, but only after written approval of the medical monitor)
+Suspicion or known history of distant metastatic MCC, which is not classifiable as local recurrence or regional metastasis\r\n* (NOTE: Patients presenting with nodal metastases in one lymph node basin and no known primary tumor are allowed to enroll)
+Subjects must have histologically or cytologically confirmed invasive breast cancer which meets the following criteria:\r\n* Estrogen receptor (ER) and progesterone receptor (PR)-negative as defined by local standard clinical immunohistochemistry (IHC) < 1%\r\n* HER2-negative using local standard testing; negative is defined as IHC 0 or 1+ (if 2+, must reflex to ISH method); if ISH method is used, ratio < 2 is considered negative\r\n* Clinical tumor size of at least 2.1 cm (T2) by palpation or imaging, regardless of the ipsilateral regional lymph node status, or any tumor size but with ipsilateral regional lymph nodes involved by the tumor (any T if ipsilateral regional node positive); subjects with inflammatory breast cancer are eligible; if bilateral breast cancer is present, the subject is eligible if the contralateral tumor is ductal breast carcinoma in situ (DCIS) only (without any invasive disease on biopsy) or another invasive breast cancer of any size that is also ER, PR and HER2 negative\r\n* Any radiographic abnormal ipsilateral regional lymph nodes or any clinically concerning ipsilateral regional lymph nodes with the exception of internal mammary nodes, should be sampled with a percutaneous biopsy, but no sentinel axillary lymph node mapping/biopsy is allowed before chemotherapy; if clinically node negative (cNO) pre-chemotherapy ipsilateral sentinel axillary lymph node mapping/biopsy is not allowed
+Unresectable ICC, with less than 50% of the liver involved, and without clinically significant extra-hepatic disease (regional lymph node lesions [? 2 cm] are acceptable) based on CT
+Must have one of the following risk factors:\r\n* Lymph node > 3 cm\r\n* 2 or more positive lymph nodes\r\n* Perineural invasion\r\n* Lymphovascular space invasion\r\n* T3 or primary disease\r\n* Lymph node extracapsular extension
+At least one accessible primary or metastatic tumor site that can be readily injected IT with poly-ICLC with or without ultrasound guidance. This lesion can be superficial cutaneous, subcutaneous or within a readily accessible lymph node and must measure at least 10 mm in longest dimension.
+Gross tumor (primary tumor or involved lymph node) must be within 1 cm of esophagus on the most recent chest CT scan
+Progressive lymphadenopathy including bulky disease as defined by mass, lymph node or lymph node cluster > 10 cm.
+Relapsed or refractory disease, defined by failure to achieve a partial response within 6 months of initiation of first line therapy, or a 50% worsening of baseline disease measurements (i.e., lymph node size, splenomegaly, lymphocytosis, anemia, thrombocytopenia, hepatomegaly) after achieving a clinical response
+Patients must have at least one axillary and/or inguinal lymph node basin that is intact (no prior excisional biopsy of a node or complete lymph node dissection).
+Lymph node only metastases even if considered M1 disease by official staging criteria.
+Malignant, measurable lymph node is defined as a lymph node that must be >= 15 mm in short axis when assessed by CT scan
+Clinical stage M1a (distant lymph node positive), or M1b (bone metastasis)
+Patients who have p16 negative squamous cell carcinoma of unknown primary in cervical lymph node
+Lumpectomy with negative lymph node on surgical evaluation (isolated tumor cells in lymph nodes will be permitted); patients with invasive carcinoma >= 70 yrs and with estrogen receptor (ER)+ positive tumor =< 2.0 cm may enroll without surgical lymph node evaluation; patients with ductal carcinoma in situ (DCIS) of the breast only may enroll without surgical lymph node evaluation
+Patients with MIBC (predominantly urothelial carcinoma) with clinical stage T2-T4a and N=< 1 disease (solitary lymph node measuring < 2 cm) and M0 and deemed eligible for radical cystectomy
+Pathologic or imaging evidence of lymph node involvement
+At least 2 cutaneous, subcutaneous and/or lymph node target lesions that are greater or equal to 1 cm in the longest diameter. One of the cutaneous, subcutaneous and/or lymph node target lesions should be designated at Screening as a noninjected target lesion. Willing to have biopsy specimens taken at Screening and at Week 6.
+All patients must have lymph node evaluation of contralateral stations 2 and/or 4 to exclude N3 disease
+Subjects must not have presence of histologically proven lymph node disease
+Patients with extra-pulmonary metastases aside from lymph node involvement or with a surgically unresectable primary lesion
+May include fludeoxyglucose F-18 (FDG) avid lesion, lymph node greater than 1.5 cm in greatest diameter, or clonal large B-cells in peripheral blood or bone marrow
+No complete surgical resection for a head and neck cancer within 8 weeks of enrollment (although lymph node biopsy including excision of an individual node with presence of residual nodal disease, or surgical biopsy/excision of the tumor with residual disease is acceptable)
+(For cohort B): Primary tumor size of at least 1.0 cm by imaging (ultrasound or MRI) or evidence of continued lymph node involvement by imaging (ultrasound or MRI) after adriamycin-based neoadjuvant therapy
+The primary tumor or lymph node must be readily biopsied by surgery or radiology teams
+Patient must be willing to undergo additional biopsy of breast tumor or lymph node
+Lymphadenopathy in the retroperitoneum: at least one lymph node 1-3 cm in greatest dimension, no lymph node > 3 cm in greatest dimension, no more than 2 lymph nodes 1-3 cm in greatest dimension\r\n* Axial imaging of lymphadenopathy within 6 weeks of the date of RPLND\r\n* Retroperitoneal lymphadenopathy must be within the RPLND template
+If there is borderline lymphadenopathy, defined as the largest retroperitoneal lymph node measuring 0.90 - 0.99 cm in the greatest dimension, an abdominal computed tomography (CT) scan should be repeated (recommend interval of 6 - 8 weeks); the same lymph node must demonstrate growth to >= 1.0 cm in the greatest dimension
+Histopathologically confirmed melanoma with an injectable cutaneous or lymph node metastasis that has progressed in the opinion of the treating investigator despite administering a Food and Drug Administration (FDA) approved anti-PD1 agent, with or without ipilimumab.
+Presence of known lymph node involvement or distant metastases
+Pathologic or clinical evidence for a stage N2b, N3b, or N3c breast cancer (supraclavicular, or internal mammary lymph node involvement)
+Patients with previous inguinal lymph node dissection, radiosurgery, brachytherapy, or radiolabeled monoclonal antibodies
+Major surgery (excluding lymph node biopsy) within 28 days prior to randomization.
+All treated patients have the option to undergo pre-treatment biopsy (liver, omentum, lung or lymph node) to be eligible
+Prior inguinal lymph node dissection
+Malignant melanoma present in an inguinal nodal basin requiring superficial inguinal lymph node (LN) dissection
+Clinical or radiographic evidence of superficial inguinal LN disease or a prior positive sentinel lymph node (SLN) biopsy of the superficial inguinal basin as an indication for superficial inguinal lymph node disease is acceptable
+Prior ipsilateral superficial inguinal lymph node dissection
+Surgery must have included a hysterectomy and bilateral salpingooophorectomy. Pelvic lymph node sampling and para-aortic lymph node sampling are optional.
+N1 patients are ineligible, as are those with lymph node (LN) enlargement > 1.5 cm by CT or MRI of the pelvis, unless the LN is biopsy proven to be negative
+Regional lymph node involvement
+Extensive extra hepatic spread of hepatocellular carcinoma; patients with limited metastatic disease may be enrolled as defined as;\r\n* Lymph node disease \r\n* Pulmonary nodules < 5 mm in size \r\n* 1-3 bone metastases
+No pre-operative evidence of cervical lymph node metastases on neck ultrasound (Randomization arms ONLY)
+Patients status-post a negative lymph node dissection are not eligible
+Surgical staging to include total hysterectomy, +/- removal of ovaries and fallopian tubes, +/- lymph node sampling
+Patients must have undergone cystectomy (total cystectomy, radical cystectomy +/- pelvic lymph node dissection) with no evidence of macroscopic residual disease
+Regional lymph node involvement
+Evidence of extent of pancreatic cancer beyond that defined as \borderline resectable\ above (locally advanced or distant disease); peripancreatic lymph node involvement, either confirmed or suspected, will not be considered distant disease unless the lymph node involvement extends outside of the field of resection
+Risk of malignant lymph node involvement < 15% as calculated on Partin tables
+Risk of malignant lymph node involvement > 15% as calculated on Partin tables
+Planned radical cystectomy with pelvic lymph node dissection
+All patients must have thorough tumor staging and meet at least one of the following criteria:\r\n* Either lymph node biopsy or lymph node dissection demonstrating lymph node metastasis by prostate cancer\r\n* Non-bulky (< 5 cm) regional pelvic or distant lymphadenopathy visualized on computed tomography (CT)/magnetic resonance imaging (MRI) scan; lymph node biopsy is required if < 2.0 cm or in atypical distribution\r\n* Primary tumor Gleason score >= 8 and serum prostate-specific antigen (PSA) concentration >= 25 ng/mL, indicating high risk of occult lymph node metastases\r\n* Primary clinical tumor stage of T3 and Gleason score >= 7, indicating high risk of occult lymph node metastases\r\n* Primary tumor stage T4, indicating high risk of occult lymph node metastases; patients in any of these groups and less than 3 sites of non-predominantly lytic bone metastasis will be still considered eligible for the trial; the 2010 American Joint Committee on Cancer (AJCC) staging system will be followed
+Clinical stages T1a-T2b N0 M0 (American Joint Committee on Cancer [AJCC] Criteria 6th Ed.); for any pelvic lymph node >= 1.5cm, biopsy of the lymph node is suggested
+Evidence of lymph node involvement
+History and/or clinical evidence of lymph node involvement (N1)
+Radiation and/or surgery (except lymph node or other diagnostic biopsies) within 14 days prior to day 1 of protocol therapy
+Enlarged lymph node and/or clip targetable with image guidance
+At least one accessible and injectable lesion in the locoregional area (ie. breast, chest wall, skin nodule or mass, axillary or supraclavicular lymph node) of at least 1 centimeter (cm); (ultrasound imaging may be used as clinically indicated)
+Patients who have HPV negative squamous cell carcinoma of unknown primary in cervical lymph node
+Has bulky tumor (define as N3 lymph node or equivalent lymph conglomerate (>= 6 cm in one dimension), or primary tumor > 4 cm); cystic HPV+ lymph nodes should be assessed in tumor board and may not be considered bulky
+Tumor site amenable to a) excisional biopsy or b) 6 core biopsies from two lymph node sites (12 cores total) or other surgical procedure to provide adequate lymphoma sample for TSMA sequencing and screening.
+Definitive clinical or radiologic evidence of distant (beyond cervical lymph node and neck tissue) metastatic disease.
+Patients who will undergo surgical treatment with either segmental resection or total mastectomy with lymph node evaluation
+Patients with locally advanced disease who are candidates for other preoperative chemotherapy at the time of initial evaluation; this may include patients with locally advanced disease such as:\r\n* Inflammatory breast cancer (T4d)\r\n* Fixed axillary lymph node metastases (N2)\r\n* Metastasis to ipsilateral internal mammary node (N3)
+Successful removal of melanoma-draining lymph node (MDLN)
+Breast imaging should include imaging of the ipsilateral axilla; for subjects with a clinically positive axilla by physical examination or clearly positive by imaging, axillary tissue acquisition is not required; for patients with a clinically negative axilla by examination and imaging, tissue acquisition is not required; for equivocal imaging findings, tissue acquisition (a needle aspiration, core biopsy) is required; sentinel lymph node (SLN) biopsy before neoadjuvant therapy is not allowed;\r\n* For a positive lymph node status by imaging and positive lymph node status by physical exam, a lymph node (LN) sampling not required but can be performed per physician discretion\r\n* For a positive lymph node status by imaging and negative lymph node status by physical exam, a LN sampling required\r\n* For a negative lymph node status by imaging and positive lymph node status by physical exam, a LN sampling required\r\n* For a negative lymph node status by imaging and negative lymph node status by physical exam, a LN sampling not required\r\n** Participants with axillary adenopathy only are not eligible for this study
+Patients with disease recurrence after adequate surgical excision of the original primary cutaneous/unknown primary melanoma are allowed even if they don’t fit the strict staging criteria, but only as follows:\r\n* Recurrence in a regional lymph node basin after a prior complete lymph node dissection; relapsed disease must be completely surgically resected with free margins\r\n* Recurrence in the form of in-transit or satellite metastases or distant skin/subcutaneous, nodal, or lung metastases that are completely surgically resected with free margins\r\n* Recurrence in a regional lymph node basin; relapsed disease must be completely surgically resected with free margins
+Lymph node biopsy must be done <28 days prior to registration if used as an\n                  eligibility criterion for study entry.
+Tumor or lymph node masses > 4 cm
+Patient who received adjuvant chemotherapy and have AJCC 8th edition Prognostic Stage Group III tumor; or patient who received neoadjuvant chemotherapy and have 1 or more ipsilateral axillary lymph nodes with residual tumor metastases greater than 2.0 mm in lymph node(-s) and residual tumor greater than 10.0 mm in breast tissue
+Evidence (including Baseline MRI and bone scan) of extracapsular extension, sphincter involvement, seminal vesicle invasion, lymph node invasion or metastases
+Clinical or pathological lymph node involvement (N1)
+Node positive disease (N1 or N2) as designated in American Joint Committee on Cancer (AJCC) version 7; either at least one pathologically confirmed positive lymph node or N1C (defined as tumor deposit(s) in the subserosa, mesentery, or nonperitonealized pericolic or perirectal tissues without regional lymph node metastases); patients with resected stage IV disease are not eligible
+No evidence of residual involved lymph node disease or metastatic disease at the time of registration
+One of the following pathologic N-classifications: pN0, pNX\r\n* If a lymph node dissection is performed, the number of lymph nodes removed per side of the pelvis and the extent of the pelvic lymph node dissection (obturator versus (vs.) extended lymph node dissection) should be noted whenever possible
+More than three lesions per organ for visceral metastases except for lung or lymph node sites
+All patients must have lymph node evaluation of contralateral stations 2 and/or 4 to exclude N3 disease
+Patients should have at least 2 subcutaneous, intracutaneous, and accessible tumor deposits, lymph node or other site available for biopsy purposes
+Patient requires regional lymph node irradiation therapy
+History of or current clinical, radiographic, or pathologic evidence of recurrent lymph node involvement after resection of a primary melanoma with lymph node involvement at any time in the past
+Any node-negative tumor
+Evidence for seminal vesicle/lymph node involvement of cancer.
+If radiologic evaluation of a lymph node is interpreted as “positive”, this must be evaluated further either by lymphadenectomy or by percutaneous needle biopsy; patients with histologically or cytologically confirmed node metastases will not be eligible
+Lymph Node Cancer Stage: N2
+Patients are not permitted to have had any other conventional therapeutic intervention other than steroids prior to enrollment outside of standard of care chemotherapy and radiation therapy; patients who receive previous inguinal lymph node dissection, radiosurgery, brachytherapy, or radiolabeled monoclonal antibodies will be excluded
+No prior therapy for melanoma except surgery for primary melanoma lesions (or previously treated with interferon for thick primary melanomas without evidence of lymph node involvement are eligible)
+The primary and nodal involvement must be assessable on clinical exam (mucosal and lymph node exam)
+No surgical resection for a head and neck cancer within 8 weeks of enrollment (although lymph node biopsy including excision of an individual node with presence of residual nodal disease, or surgical biopsy of the tumor is acceptable)
+Metastatic disease as documented by technetium-99m (99mTc) bone scan or metastatic lesions by computed tomography (CT) or magnetic resonance imaging (MRI) scans (visceral or lymph node disease). If lymph node metastasis is the only evidence of metastasis, it must be greater than or equal to (>=) 2 centimeter (cm) in the longest diameter
+Palpable lymph node ?1.5 cm in diameter (unless the lymph node has been biopsied and designated as Stage IA-IIA disease)
+Residual invasive disease in the breast measuring at least 1cm with any lymph node involvement (does not include metastases in lymph node which are only detected by immunohistochemistry).
+Any lymph node involvement that results in 20% cellularity or greater regardless of primary tumor site involvement (includes no residual disease in the breast).
+Must have one of the following risk factors:\r\n* Lymph node > 3 cm\r\n* 2 or more positive lymph nodes\r\n* Perineural invasion\r\n* Lymphovascular space invasion\r\n* T3 or microscopic T4a primary disease\r\n* Lymph node extracapsular extension
+Patients must have biopsy-proven cyclin-dependent kinase inhibitor 2A (p16)+ oropharynx cancer; the histologic evidence of invasive squamous cell carcinoma may have been obtained from the primary tumor or metastatic lymph node; it is required that patients have a positive p16 immunohistochemistry (IHC) (as surrogate for HPV) status from either the primary tumor or metastatic lymph node
+Histopathologic assessment of surgical pathology must include examination for perineural invasion (PNI) and lymphovascular invasion (LVI) and reported as absent or present; the absence or presence of extracapsular extension (ECE) requires gross and microscopic assessment and is defined to be:\r\n* Absent (negative or nodal metastasis with smooth/rounded leading edge confined to thickened capsule/pseudocapsule),\r\n* Present - minimal (tumor extends =< 1 mm beyond the lymph node capsule), or\r\n* Present - extensive (gross, tumor extends > 1 mm beyond the lymph node capsule [includes soft tissue metastasis])
+Patient must have metastasis at one or more of the following sites: bone, liver, lymph node and/or lung; no more than five lesions will be treated
+Patients should have at least 2 subcutaneous, intracutaneous, and accessible tumor deposits, lymph node or other site available for biopsy purposes
+Tumor 1 lymph node 0 (T1N0) disease or T2N0 disease
+Histologic diagnosis of melanoma belonging to the following American Joint Committee on Cancer (AJCC) primary tumor, lymph node, metastasis (TNM) stages:\r\n* Tx or T1-4 and\r\n* N1b, or N2b, or N2c, or N3 and\r\n* M 0 \r\n* That may present as any of the following groups:\r\n** Primary melanoma with clinically apparent (overt) regional lymph node metastases, confirmed by pathological diagnosis (biopsy)\r\n** Clinically detected recurrence of melanoma at the proximal regional lymph node(s) basin, confirmed by pathological diagnosis (biopsy)\r\n** Clinically or histologically detected primary melanoma involving multiple regional nodal groups, confirmed by pathological diagnosis (biopsy)\r\n** Clinically detected single site of nodal metastatic melanoma arising from an unknown primary, confirmed by pathological diagnosis (biopsy)\r\n** Patients with intransit or satellite metastases with or without lymph node involvement are allowed if they are considered surgically resectable at baseline by the treating medical oncologist and surgical oncologist\r\n* NOTE: all patients must be determined to be surgically resectable at baseline to be eligible for this neoadjuvant study
+Pelvic lymph node dissection for the diagnosis of seminoma
+Indication for lymph node radiation (i.e. evidence of lymph node [LN] metastases)
+Major surgery (excluding lymph node biopsy) within 28 days prior to signing informed consent.
+Women with FDG PET positive high common or paraaortic lymph node metastasis confirmed by biopsy
+Patients must have histologically confirmed, unresected cancer of the pancreas or ampulla; the cancer may include any invasive histology (e.g. adenocarcinoma, neuroendocrine carcinoma); patients with lymph node involvement or distant metastasis may be included if it is felt that local control of the primary site of disease would help reduce, or prevent the development of, local symptoms
+Patients must have completed local therapy by surgery and/or ablative radiation therapy at least 3 months prior to entry, with removal or ablation of all visible disease, including seminal vesical and/or local lymph node involvement
+Histologically documented melanoma with local lymph node stage III metastases
+There must be plans for the cystectomy and lymph node dissection (LND) to be performed within 28 calendar days following registration; laparoscopic surgery is not allowed
+Patients must not have intra-operative evidence of pelvic lymph node involvement (confirmed by frozen section) at or above the bifurcation of the common iliac vessels in any of the extended template
+The participant must have axillary lymph node involvement by tumor and have one of the following indicating a higher risk of relapse:
+Any lymph node with histologic extracapsular extension (ECS)
+Patients with pancoast tumors, supraclavicular, or contralateral hilar lymph node involvement will be excluded if normal tissue constraints within the tolerance limits cannot be achieved at a dose per fraction of 1.8-2 Gy to a total dose of 60 Gy
+Patients must be women with a histologically confirmed diagnosis of breast cancer that is more than 1 cm and or lymph node positive
+High risk of breast cancer recurrence, defined as documented evidence of one or more of the following criteria: i) Biopsy evidence of breast cancer in regional lymph node(s) LN (node- positive disease) Nodal micrometastases only are not considered node positive ii) Tumor size > 5cm (T3) or locally advanced disease (T4)
+Regional lymph node involvement
+The patient must have imaging documenting a primary tumor, or involved lymph node, >= 2.5 cm in greatest dimension
+Stage IAX (bulk defined as single lymph node mass >10 cm in diameter), IB-IV disease
+Patients may have lymph node positive or negative disease, as long as they have clinical or pathologic stage II or III breast cancer; patients may have the lymph nodes assessed by any method deemed appropriate by the treating physicians, including pre-neoadjuvant therapy sentinel lymph node biopsy
+Histologic diagnosis of melanoma belonging to the following American Joint Committee on Cancer (AJCC) TNM stages:\r\n* Tx or T1-4 and\r\n* N1b, or N2b, or N2c, or N3 and/or\r\n* M 0 or M1 (if considered surgically operable)\r\n** Patients are eligible for this trial either at presentation for primary melanoma with concurrent regional nodal and/or in-transit metastasis and/or distant metastasis, or at the time of clinically detected nodal and/or in-transit recurrence and/or distant metastasis and may belong to any of the following groups: \r\n** Primary melanoma with clinically apparent (overt) regional lymph node metastases\r\n** Clinically detected recurrence of melanoma at the proximal regional lymph node(s) basin\r\n** Clinically detected primary melanoma involving multiple regional nodal groups\r\n** Clinically detected site of nodal metastatic melanoma arising from an unknown primary\r\n** Patients with intransit or satellite metastases with or without lymph node involvement are allowed if they are considered surgically resectable at baseline\r\n** Patients with distant metastases with or without intransit or lymph node involvement are allowed if they are considered potentially surgically resectable at baseline\r\n** NOTE: All patients must be determined to be surgically resectable at baseline to be eligible for this neoadjuvant study
+PRE-REGISTRATION INCLUSION CRITERIA: Diagnosis or clinical signs of urothelial carcinoma with clinical stage T2 or greater disease without lymph node involvement where neoadjuvant chemotherapy of cisplatin and gemcitabine are indicated
+Diagnosis of urothelial carcinoma with stage T2 or greater disease without lymph node involvement where neoadjuvant chemotherapy of cisplatin and gemcitabine are indicated
+Lymph node positive urothelial carcinoma
+Biopsy confirmed, untreated, low-grade B-cell lymphoma, including follicular (Grade 1, 2, or 3A) [Harris, Swerdlow et al. 2008] or marginal, or CLL/SLL with lymph node involvement.
+Subjects with FIGO Clinical Stage I endometrial cancer undergoing minimally invasive hysterectomy with lymph node mapping.
+Any lymph node > 3 cm or multistation N2 lymphadenopathy
+At least two extracranial lesions that are easily accessible for biopsy, in the judgment of the treating physician. Easily accessible tumors may include cutaneous, subcutaneous, and superficial lymph node metastases.
+At least one enlarged lymph node that is considered accessible for percutaneous injection by the investigator and that is at least 2 cm in longest dimension
+Lymphoma patients in which the delay of surgery until the lymph node resection date or other factors associated with the study are not feasible
+Note: Skin, lymph node, or soft tissue involvement; carpal tunnel syndrome; or bone marrow amyloid as the sole clinical manifestations of amyloidosis are not sufficient for inclusion.
+Participants with enlarged para-aortic lymph node involvement on imaging that is suspicious for metastasis
+CD20+ B cells in lymph node biopsy or other lymphoma pathology specimen.
+Subjects must have provided written, informed consent prior to any study procedures: collection of blood and lymph node (LN) tissue specimens for this protocol
+Patients must have histologically or cytologically confirmed prostate cancer with EXTENSIVE metastatic disease and have been on androgen deprivation therapy for < 90 days; hormonal therapy must not have commenced more than 90 days prior to study\r\n* Definition of extensive disease: Metastases involving at least one lesion in any bony structures beyond the vertebral column and pelvic bone or any involvement with viscera; in the absence of visceral lesion, there must be four or more bone lesions; patients with disease limited to vertebral column and/or pelvis alone with or without lymph mode or lymph node only disease involvement are not eligible for this trial
+Patients who are required because of their disease to see primarily oncologists for follow-up will be excluded (i.e., those diagnosed with lymph node or distant metastasis, those with a new primary cancer)
+The patient is a candidate for surgical intervention, with lymph node mapping being a part of the surgical plan
+Lymph node-positive breast cancer or high-risk lymph node-negative breast cancer. The latter is defined by any one of the following criteria:
+Node-positive disease
+The patient is a candidate for surgical intervention, with lymph node dissection being a part of the surgical plan
+Healthy adult patients who are undergoing LEFT modified radical or selective (including zone IV) lymph node dissection for any indication; this includes patients who have had prior neck surgery
+No prior salvage therapies (including salvage radiotherapy and/or salvage lymph node dissection)
+Planned prostatectomy with lymph node dissection
+Planned prostatectomy with lymph node dissection
+Subjects with known or suspected lung cancer with mediastinal adenopathy as defined by a mediastinal lymph node > 0.5 cm in short axis on EBUS or any lymph node with uptake on fludeoxyglucose F-18 (FDG)-positron emission tomography (PET) scan that is higher than background PET activity
+Planned prostatectomy with lymph node dissection
+Radiographic evidence of at least one bone, lymph node, or liver metastasis, that is amenable to iodinated contrast injection, as judged by the study radiologist
+Patient with indications for mediastinal lymph node (LN) sampling per 13th American College of Clinical Pharmacy (ACCP) guidelines
+Planned prostatectomy with lymph node dissection
+Node positive
+Planned prostatectomy with lymph node dissection
+Ultrasound showing accessible abnormal ipsilateral axillary lymph node (cortical thickness >= 3 mm, eccentric cortical thickening, or rounded morphology with effacement of fatty hilum)
+Lymph node not amenable to core biopsy
+Patient is unlikely to undergo lymph node excision (i.e. elderly patient)
+Evidence of metastases (pelvic lymph node involvement is not an exclusion criteria); for patients with recurrent prostate cancer, oligometastatic disease (3 or fewer visible metastases) is not an exclusion criterion
+Any patient who has bilateral lymph node mapping or dissection
+Patient is scheduled for radical cystectomy and lymph node dissection
+Subject has been diagnosed with melanoma, rhabdomyosarcoma, or other tumor where tumor resection or biopsy is planned and lymph node mapping is appropriate
+Has had previous surgery or radiation to node basins that would be involved in the intraoperative lymph node mapping (ILM) procedure
+Be scheduled for staging endoscopic ultrasound with the intent for lymph node evaluation.
+Subjects with known or suspected lung cancer with mediastinal adenopathy as defined by a mediastinal lymph node > 1 cm in short axis or a normal sized lymph node with uptake on fludeoxyglucose (FDG)-positron emission tomography (PET) scan that is higher than background PET activity
+Patients in which only one lymph node station is expected to be sampled by the performing clinician
+Metastatic disease on standard staging imaging (beyond regional lymph node involvement)\r\n* Absence of metastatic disease (beyond regional lymph node involvement) as defined by a negative bone scan, NaF PET, CT chest/abdomen/pelvis, or total body MRI
+Has cervical cancer and is a candidate for surgical intervention, with lymph node dissection being a part of the surgical plan.
+Patients referred for EUS-guided tissue acquisition because of a (I) pancreatic mass lesion or (II) lymph node
+Subject has a clinical negative node status (i.e. T0-3, N0, M0).
+Patients with a new diagnosis of soft tissue sarcoma, with a clinically palpable or radiographically concerning node (> 10 mm, positron emission tomography [PET] avid, or of unusual shape on any imaging modality) who will undergo lymph node biopsy (sentinel node biopsy, dissection, lymph node sampling etc); these patients can be pediatric or adult patients
+Prior chemotherapy or radiotherapy (to the lymph node basin)
+Primary papillary thyroid cancer (PTC), which appears to be stage T3 or T4 on imaging or with macroscopic lymph node involvement AND requires surgical resection
+Persistent or locally recurrent PTC with macroscopic lymph node involvement which requires surgical resection
+No evidence of distant metastatic disease; patients with regional lymph node involvement are eligible
+Medical conditions and/or prior surgical procedures that have the potential to substantially alter the lymphatic drainage pattern from the primary tumor to the lymph node basin.
+Inability to localize 1 or 2 lymph node drainage basin(s) via lymphatic mapping.
+Women with node negative disease
+Patients with clinically detected or suspicious lymph node involvement not readily amenable to surgical treatment (>= cN2 disease)

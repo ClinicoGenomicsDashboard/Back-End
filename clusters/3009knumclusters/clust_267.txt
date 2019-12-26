@@ -1,0 +1,413 @@
+Concomitant Medications\r\n* Corticosteroids: patients requiring corticosteroids who have not been on a stable or decreasing dose of corticosteroid for the 7 days prior to enrollment are not eligible; if used to modify immune adverse events related to prior therapy, >= 14 days must have elapsed since last dose of corticosteroid\r\n** Note: hydrocortisone used as a pre-medication to prevent transfusion related reactions is not considered a concomitant corticosteroid\r\n* Investigational drugs: patients who are currently receiving another investigational drug are not eligible\r\n* Anti-cancer agents: patients who are currently receiving other anti-cancer agents are not eligible (except patients receiving hydroxyurea, which may be continued until 24 hours prior to start of protocol therapy)\r\n* Anti-graft versus host disease (GVHD) or agents to prevent organ rejection post-transplant: patients who are receiving cyclosporine, tacrolimus or other agents to prevent either graft-versus-host disease post bone marrow transplant or organ rejection post-transplant are not eligible for this trial\r\n* Cardiac medications: any medications for treatment of left ventricular systolic dysfunction
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Anti-GVHD agents post-transplant: Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Allogeneic stem cell transplantation is allowed provided the patient is >= 1 year from transplant at time of registration, is not on immunosuppressive therapy to treat/prevent graft-versus-host disease, has no evidence of active graft versus host disease, and no evidence of active infection
+No evidence of active graft versus (vs.) host disease and >= 2 months must have elapsed since transplant
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent either graft-versus-host disease post bone marrow transplant or organ rejection post-transplant are not eligible for this trial
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease (GVHD) post bone marrow transplant are not eligible for this trial
+At least 3 months from allogeneic stem cell transplantation and off immunosuppression and no evidence of graft versus host disease (GVHD)
+Patients may have received prior allogeneic transplant or autologous transplant; however, patients with prior allogeneic bone marrow transplant will be eligible only if both of the following conditions are met:\r\n* The transplant must have been performed >= 90 days prior to registration\r\n* The patient must not have >= grade 2 acute graft versus host disease (GvHD) or either moderate or severe limited chronic GvHD within 14 days prior to registration
+ELIGIBILITY CRITERIA - PHASE I (ARMS A, B, C): Patient may be enrolled with a prior allogeneic hematopoietic stem cell transplant (HSCT) but the transplant date must be at least 90 days before date of enrollment; patient must be off immunosuppression and without active graft versus host disease (GVHD) prior to enrollment if previous HSCT
+Grade ? 2 graft-versus-host disease (GvHD) per the Center for International Blood and Marrow Transplant Research (CIBMTR) consensus grading system at enrollment
+Clinically significant graft versus host disease (GVHD) or GVHD requiring initiation of treatment or treatment escalation within 21 days, and/or > grade 1 persistent or clinically significant non-hematologic toxicity related to HSCT
+Non-manageable graft versus host disease.
+Prior allogeneic stem cell transplantation with active graft-versus-host-disease.
+No evidence of active graft versus host disease (GVHD) and >= 2 months must have elapsed since transplant or rescue
+Active graft-versus-host disease.
+Patients with graft versus-host disease (GVHD)
+Stem cell transplant or rescue: no evidence of active graft versus (vs.) host disease and ? 2 months must have elapsed since transplant prior to registration
+COHORT 1: Not be appropriate candidate for intensive salvage chemotherapy due to co-morbidities or other disease- or treatment-related factors\r\n* NOTE: Subjects who received prior treatment with hypomethylating agents either for myelodysplastic syndrome (MDS), myeloproliferative neoplasm (MPN), or AML will be eligible\r\n* NOTE: Subjects who had prior allogeneic stem cell transplant (alloHSCT) will be eligible as long as they have been at least 3 months after allogeneic HSCT and are off of all immune suppression for at least 3 weeks (>21 days) and have no evidence of active graft versus host disease (GVHD); subjects with prior alloHSCT will NOT be eligible for enrollment during the safety run in phase
+Allogenic or autologous transplant for hematological malignancy with infusion of stem cells within 90 days before Cycle 1 Day 1, or on active immunosuppressive therapy for graft-versus-host disease (GVHD) or GVHD prophylaxis within 2 weeks of Cycle 1 Day 1.
+Stem cell infusion without TBI: no evidence of active graft versus host disease and at least 84 days must have elapsed after transplant, and 42 days for autologous stem cell infusion after I^131-MIBG therapy
+Active graft-versus-host disease.
+Participants must have acute GVHD of the lower gastrointestinal tract as defined by the clinical impression of the treating physician, requiring systemic treatment; minimum criteria for GI GVHD includes diarrhea of greater than 500 mL/day; biopsy of the GI tract is required for study entry and must confirm the diagnosis of acute GVHD; stool samples to rule out infectious causes of diarrhea, including norovirus, Clostridium difficile and other clinically indicated infections must also be negative; eligibility includes:\r\n* Acute GVHD developing after allogeneic hematopoietic stem cell transplantation (HSCT) using bone marrow, peripheral blood stem cells, or umbilical cord blood; recipients of non-myeloablative, reduced intensity and myeloablative transplants are eligible\r\n* Patients who develop acute GVHD after donor lymphocyte infusion (DLI) are eligible\r\n* There is no specified time window after day 0 of transplant as acute GVHD is only defined by clinical manifestations\r\n* Patients must have experienced neutrophil engraftment after HSCT as defined by absolute neutrophil counts >= 500 /uL x 3 consecutive measurements\r\n* Platelets >= 10,000 / uL (platelet transfusions are allowed on the same day)\r\n* The presence of hepatic, upper GI and/or cutaneous acute GVHD is permitted\r\n* Steroids can be started up to 7 days prior to the administration of natalizumab
+Participants must have cGVHD (as defined by the National Institutes of Health Consensus Development Project on Criteria for Clinical Trials in Chronic Graft-Versus-Host Disease)
+Stem Cell Transplant (SCT): No evidence of active graft versus host disease. For allogeneic SCT, greater than or equal to 6 months must have elapsed.
+Patients with evidence of graft versus host disease (GVHD) > grade II at time of enrollment
+Has undergone prior allogeneic hematopoietic stem cell transplantation within the last 5 years. (Note: Participants who have had a stem cell transplant >5 years ago are eligible as long as there are no symptoms of graft-versus-host disease [GVHD].)
+No prior allogeneic transplant unless all of the following apply:\r\n* At least 5 years from time of transplant\r\n* Absence of clinically significant graft-versus-host disease (GVHD)\r\n* Not on immune suppression\r\n* Approval of overall PI
+Subjects who have undergone autologous SCT with disease progression or relapse following SCT will be eligible if all other eligibility criteria are met; subjects who have undergone allogeneic SCT will be eligible if, in addition to meeting other eligibility criteria, they are at least 100 days post-transplant, they have no evidence of active graft versus host disease (GVHD) and have been without immunosuppressive agents for at least 30 days
+Who have received autologous stem cell transplant (SCT) 60 days before first infusion of TAK-573 or participants who have received allogeneic SCT 6 months before first infusion. Graft-versus-host disease that is active or requires ongoing systemic immunosuppression.
+Patients must have fully recovered from the acute effects of all prior therapy and cannot have evidence of graft-versus-host disease (GVHD)
+Patients with a history of allogeneic stem cell transplantation are eligible for study participation provided the transplant was > 100 days prior to the first dose of treatment on study; patients must be off of immunosuppressive therapies for at least 4 weeks prior to the first dose of treatment on study without signs or symptoms of graft versus host disease other than grade 1 skin involvement
+Subject has active clinically significant graft versus host disease (GVHD) or is on treatment with systemic corticosteroids for GVHD (except grade 1 skin GVHD). At least 3 months must have elapsed since completion of allogeneic stem cell transplantation.
+No evidence of active graft versus host disease and >=2 months must have elapsed since transplant or rescue
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Has undergone solid organ transplant at any time, or prior allogeneic hematopoietic stem cell transplantation within the last 5 years. (Participants who have had an allogeneic hematopoietic transplant >5 years ago are eligible as long as there are no symptoms of Graft Versus Host Disease [GVHD].)
+Current or history of graft versus host disease
+Patients, who relapsed 6 months after bone marrow transplant and have no evidence of active graft versus host disease and are off systemic immunosuppressant medications for at least 2 months and have received hypomethylating agents (HMA) therapy before or after transplant and meet other eligibility criteria of progression after at least 4 months of DNMTi therapy, are eligible to be enrolled in this clinical trial
+Patients who have undergone stem cell transplantation (SCT), autologous or allogeneic, are eligible provided that they are >= 8 weeks from stem cell infusion, have no active graft versus host disease (GVHD), are off immune suppression for at least 2 weeks, and do not have a history of veno-occlusive disease (VOD)
+Has acute GVHD.
+Graft-versus-host disease (GVHD) prophylaxis with any of the following agents: calcineurin inhibitor, short-course methotrexate steroids, mycophenolate mofetil, and sirolimus
+Active chronic graft versus host disease requiring immunosuppressive treatment.
+Evidence of graft versus host disease (GVHD) > grade II
+? Grade II acute GvHD or chronic extensive GvHD due to a previous allograft at the time of screening
+Evidence of graft versus host disease (GVHD) > grade II
+Subject with chronic GVHD features (acute/chronic GVHD overlap syndrome or classical chronic GVHD).
+Patients with history of allogeneic stem cell transplantation are eligible if at least 100 days post-transplant, if there is no evidence of active graft versus host disease (GVHD) and no longer taking immunosuppressive agents for at least 30 days prior to enrollment
+Must be off all immunosuppressive medications (except steroids) for graft versus host disease (GVHD) for at least 2 weeks prior to study entry
+Patients with >= grade 3 acute graft-versus-host disease are excluded from the study
+Patients with moderate or severe chronic graft-versus host requiring more than 20 mg of oral prednisone or equivalent therapy are excluded from the study
+Patients who have undergone allogeneic stem cell transplant > 12 months, without active graft-versus-host-disease, and not on immunosuppression for prevention of graft-versus-host disease are eligible
+Patients who have underwent autologous or allogeneic stem cell transplant =< 4 weeks prior to cycle 1 day 1 or have active graft-versus-host disease are excluded
+Evidence of graft versus host disease (GVHD) > grade II
+Patients must be free from active graft versus host disease (GVHD) and off immunosuppressive GVHD therapy for 4 weeks prior to enrollment
+there are no signs or symptoms of graft versus host disease, other than Grade 1 skin involvement.
+Grade III/IV acute graft-versus-host disease (GVHD)
+Presence of graft-versus-host disease (GVHD) more than grade 2
+Prior allogeneic stem cell transplantation (SCT) is an exclusion only if the subject has active graft vs host disease or requires immunosuppression other than a constant stable dose of glucocorticoids (the latter is permitted)
+AUTOLOGOUS APHERESIS: Patients with a history of prior allogeneic hematopoietic cell transplantation (HCT) must be clinically recovered from prior HCT therapy, have no evidence of active graft versus host disease (GVHD) and have not received a donor lymphocyte infusion (DLI) within the 28 days prior to apheresis
+Receipt of an allogeneic transplant within 6 months or an autologous transplant within the preceding 3 months; evidence of ongoing graft-versus-host disease (GVHD)
+Hematopoietic cell transplant or other cellular based therapy within 30 days before the planned start of study treatment or patients with active graft-vs-host disease with the exception of Grade 1 skin involvement
+For subjects with prior allogeneic stem cell transplant, no evidence of active graft-versus host disease (GVHD), and must be >= 2 weeks off immunosuppressive therapy
+Prior allogeneic transplant performed ? 6 months prior to first dose of AMV564 is allowed provided there is no evidence of active graft-versus-host disease (GVHD) and the patient has been off immunosuppressive therapy for ? 4 weeks.
+At least 90 days have elapsed since bone marrow transplant and participant is off immune suppression for ? 2 weeks, if applicable with no evidence of active graft versus host disease (GVHD)
+Presence of acute or chronic graft-versus-host disease (GVHD) unless limited to skin involvement and managed with topical steroid therapy alone
+If prior allogeneic stem cell transplant, history of moderate to severe chronic graft versus host disease (GVHD)
+Prior allogeneic stem cell transplantation with active graft-versus-host- disease
+Patients with active graft-versus-host-disease (GVHD) status post stem cell transplant, i.e. patients requiring therapy more than chronic steroid immunosuppression and/or phototherapy for chronic skin GVHD will be excluded.
+High risk prediction score as determined by the Mount Sinai Acute Graft Versus Host Disease (GVHD) International Consortium (MAGIC) algorithm at either day 7 or day 14 post hematopoietic stem cell transplantation (HCT).
+Stem cell transplant recipients must have no evidence of active graft-versus-host disease
+Prior allogeneic stem cell transplant within 6 months of study drug administration and no requirement for graft versus host therapy.
+Cohort #2: patients with MCL with prior allogeneic hematopoietic stem cell transplant, minimum 6 months after transplant, not on immunosuppression, and without prior or active graft versus host disease (GVHD), are allowed
+Active GVHD or on immunosuppressive medication for GVHD (applies to cohort #2)
+GRAFT CRITERIA:
+Requirement for systemic immunosuppressive therapy (e.g. graft-versus-host disease [GVHD] therapy within 12 weeks before the first dose of study drug)
+Ongoing severe graft-versus-house disease (GVHD) with Grade ?2 serum bilirubin, Grade ?3 skin involvement, or Grade ?3 diarrhea at the start of study therapy.
+Active acute graft versus host disease (GVHD) grade >= 2.
+In subjects with prior hematopoietic progenitor cell transplantation, evidence of ongoing graft-versus-host disease (GVHD).
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Relapse after SCT is allowed but no active graft-versus-host disease (GVHD) as per treating physician; also must not exceed the number of prior induction regimens listed above; SCT does not count as line of therapy
+No prior therapy with mTOR inhibitors except for rapalog treatment as part of graft-versus-host (GVH) prophylaxis or treatment
+Patients within 1 year of allogeneic stem cell transplant, patients with active graft versus host disease (GVHD) or requiring immunosuppression are excluded
+Graft must be a CD3+ T-cell replete PBSC graft or non-manipulated BM graft.
+Presence of acute or chronic graft-versus-host disease (GVHD) unless limited to skin involvement and managed with topical steroid therapy alone
+Subjects must be free from active GVHD and off immunosuppressive GVHD therapy for 4 weeks prior to enrollment
+Patients who develop grade IV acute GVHD or severe chronic GVHD prior to enrollment on the protocol
+At least 9 months from stem cell transplant with no active graft versus host disease
+Active acute graft versus (vs.) host disease >= grade 2 or active extensive chronic graft versus host disease (GVHD)
+Presence of chronic graft versus host disease (cGVHD) in an organ other than lung
+Chronic graft versus host disease (GVHD) or on immunosuppressive therapy for the control of GVHD;
+Has undergone prior allogeneic hematopoietic stem cell transplantation within the last 5 years. (Subjects who have had a transplant greater than 5 years ago are eligible as long as there are no symptoms of graft versus host disease (GVHD).
+Presence of active acute or chronic graft versus host disease (GVHD)
+Patients must have no active acute or chronic GVHD
+Subjects with active graft-vs-host disease (GVHD) requiring steroids or other immunosuppressive agents; history of >= grade II acute GVHD or extensive chronic GVHD
+No evidence of active graft-versus-host disease (GVHD) and at least 100 days must have elapsed after allogeneic bone marrow transplant or stem cell infusion prior to study drug administration
+Subjects must be free from active GVHD and off immunosuppressive GVHD therapy for 4 weeks prior to enrollment. GVHD status will be determined in conjunction with an evaluation by an oncologist specialized in GVHD diagnosis and management through Seattle Children’s Blood and Cancer Disorders Center
+Active graft-versus-host disease.
+Subjects who have undergone autologous stem cell transplantation (SCT) with disease progression or relapse following SCT are eligible; subjects who have undergone allogeneic SCT will be eligible if, in addition to meeting other eligibility criteria, they are at least 100 days post transplant, they have no evidence of graft versus host disease (GVHD) and have been without immunosuppressive agents for at least 30 days
+Active grade III-IV classic acute GvHD; subjects with prior resolved acute GvHD on stable doses of immunosuppression at time of enrollment will be permitted
+Evidence of classic chronic GvHD or overlap chronic GvHD at time of enrollment
+Requirement for systemic immunosuppressive therapy (e.g. graft-versus-host disease [GVHD] therapy within 12 weeks before the first dose of study drug)
+Patients must be free from active graft versus host disease (GVHD) and off immunosuppressive GVHD therapy for 4 weeks prior to enrollment
+Has received a prior allogeneic hematopoietic stem cell transplant within the past 5 years, requires immunosuppression, or has evidence of active graft-versus-host-disease
+Active hepatic graft-versus-host disease
+Patients who have undergone allo-stem cell transplant (SCT) are eligible if they are at least 3 months post SCT, have relapsed AML, are not on treatment or prophylaxis for graft versus host disease (GVHD), and have no active GVHD.
+Active graft-versus-host disease (GvHD), grade 2-4 according to the Glucksberg criteria, active chronic GvHD requiring systemic treatment or requirement for GvHD prophylaxis with cyclosporine or tacrolimus.
+Graft versus host disease (GVHD) grade III or IV
+CRITERIA FOR LEUKAPHERESIS AND PRE-THERAPY EVALUATION: Presence of active acute or chronic graft versus host disease (GVHD)
+Patients with a prior allogeneic transplant ARE eligible UNLESS previously or currently experienced graft versus host disease (GvHD) that required systemic steroids or other systemic lymphotoxic therapy
+Acute or chronic GVHD with ongoing active systemic treatment
+AML relapse > 6 months since autologous or allogeneic stem cell transplantation, provided there is no active graft-versus-host disease (GVHD) > grade 1; no treatment with high dose steroids for GVHD (up to 20 mg prednisolone or equivalent); no treatment with immunosuppressive drugs with the exception of low dose cyclosporine and tacrolimus (blood levels of 0.5-0.6 ug/mL)
+Either no evidence of graft versus host disease (GVHD) or minimal clinical evidence of acute GVHD and chronic GVHD while off of systemic immunosuppressive therapy for at least 28 days; minimal clinical evidence of acute GVHD defined as grade 0 to I acute GVHD; minimal evidence of chronic GVHD is defined as mild global score chronic GVHD (as defined by the 2005 NIH consensus project) or no chronic GVHD; subjects with disease that is controlled to stage I acute GVHD or to mild global score chronic GVHD with local topical cutaneous steroids will be eligible for enrollment
+Presence of graft-vs-host disease (GVHD)
+Patients with prior history of or active severe (grade 3 or 4) acute graft-versus-host disease (GVHD)
+Active graft versus host disease (GVHD) or on immunosuppressive medication of GVHD
+Stem cell transplant recipients must have no evidence of and not receive treatment for graft-versus-host disease
+Any active acute GVHD or chronic GVHD greater than grade 1
+Patients with hematologic malignancies status post allogeneic SCT without evidence of disease relapse, active graft versus host disease (GVHD) or history of more than stage I skin acute GVHD; and off immunosuppression for at least 4 weeks; at least 60 days after allo-SCT
+Patients who have disease relapse, active GVHD or history of more than grade 1 skin acute GVHD, history of chronic (c)GVHD
+Subjects must not have a history of severe (grade 3-4) acute graft versus host disease (GVHD), and/or current > grade 1 acute GHVD; subjects must not have a history of active chronic GVHD (whether limited or extensive stage)
+Patients who are < 90 days post allogeneic stem cell transplant will be excluded; patients beyond 90 days post-allogeneic stem cell transplant with active uncontrolled graft versus host disease (GVHD) > grade 1 will be excluded; patients who are on a stable dose of immunosuppressive therapy (tacrolimus, cyclosporine, or other) for > 2 weeks will be eligible but those with recent increase in the immunosuppressive medication dose within last 2 weeks to control GVHD will not be included; Note: subjects may be using systemic corticosteroids or topical or inhaled corticosteroids post allogeneic stem cell transplant; patients requiring >= 1 mg/kg prednisone for GVHD management at the time of screening will not be eligible until the prednisone can be weaned to < 1 mg/kg; such patients should be monitored for at least 14 days and if no flare of GVHD requiring re-escalation of steroids or additional interventions for the GVHD they will be eligible
+Patients with previous allogeneic stem cell transplant (SCT) if they meet either of the following criteria:\r\n* =< 60 days from allogeneic SCT \r\n* Active acute or chronic graft-versus-host-disease (GvHD) or receiving immunosuppressive therapy as treatment for GvHD
+Subjects are not a candidate, or have failed allogeneic stem cell transplantation. Subjects who underwent allo-transplant in the past are eligible under following conditions: transplant was >2 year prior to enrolment, and no evidence of active graft-versus-host disease (GVHD)
+Patients with prior autologous or allogeneic hematopoietic cell transplantation (HCT) are eligible if relapse occurs provided symptoms of graft-versus host disease are well controlled with stable use of immunosuppressive agents
+Previous allogeneic bone marrow transplant are restricted, unless there is no evidence of acute or chronic graft versus host disease.
+Patients who have had prior SCT are eligible if they have a relapse > 3 months since autologous or allogeneic stem cell transplantation provided, 1) no clinically significant active graft-versus-host disease (GVHD > grade 1); 2) no treatment with high dose steroids for GVHD (i.e. > 20 mg prednisolone or equivalent per day); 3) no treatment with immunosuppressive drugs with the exception of cyclosporine and tacrolimus
+Patient participants who have undergone allogeneic SCT (alloSCT) are eligible if they are >= 60 days from stem cell infusion, have no evidence of graft versus host disease (GVHD) > grade 1, and are >= 2 weeks off all immunosuppressive therapy
+Active graft versus-host disease and must not be on immunosuppression
+Patients with previous allogeneic stem cell transplant (SCT) are excluded within 6 months or with active acute or chronic graft-versus host disease are excluded; patients must be off immunosuppression for graft versus host disease (GVHD) for at least 30 days before cycle 1 day
+Active GVHD requiring systemic steroid therapy; medications for GVHD prophylaxis are acceptable
+No active graft-versus-host disease (GVHD) or on immunosuppressive medication for GVHD
+Active graft versus (vs.) host disease (gvhd)
+Chronic graft-versus-host disease requiring systemic immunosuppression post-allogeneic hematopoietic stem cell transplantation
+Patients who have received any systemic corticosteroid therapy within 4 weeks prior to the start of therapy, or 12 weeks if given to treat graft versus host disease (GVHD), with the exception of physiological replacement doses of cortisone acetate or equivalent
+No evidence of active graft vs. host disease and at least 2 months must have elapsed since transplant
+No uncontrolled graft versus host disease (GVHD)
+Active acute graft versus host disease (GVHD) grade II or higher
+Active chronic GVHD that is extensive
+Has had an allogeneic stem cell transplant with current active graft-versus-host-disease.
+Patients who have undergone stem cell transplantation (SCT), autologous or allogeneic, are eligible provided that they are > 60 days from stem cell infusion, have graft-versus-host disease (GVHD) =< grade 1 and are off immunosuppressive agents for > 28 days at time of registration
+Patient must meet one of the following criteria: \r\n* Patient refractory to one or two standard induction regimen \r\n* Patients with a first untreated relapse within 2 years of documentation of clinical remission; patients relapsing after allogeneic stem cell transplantation are eligible if more than 12 months after transplantation and without sign of active graft versus host disease (GVHD)
+Patients with prior autologous and allogeneic hematopoietic stem cell transplantation are eligible if patients are off immunosuppression for greater than 14 days and have no evidence of active graft versus host disease (GVHD) except grade 1 skin GVHD
+Patients with relapsed disease after prior allogeneic SCT (myeloablative or nonmyeloablative) will be eligible if they meet all other inclusion criteria and:\r\n* Have no active graft versus host disease (GVHD) and require no immunosuppression\r\n* Are more than 6 months from transplant
+Subjects with second or subsequent relapse, any relapse refractory to salvage, or with persistent disease after at least two lines of therapy\r\n* Subjects with relapsed disease after prior allogeneic HCT (myeloablative or non-myeloablative) will be eligible if they meet all other inclusion criteria and\r\n** Have experienced graft rejection (no evidence of donor cells by short tandem repeat [STR] analysis on 2 occasions separated by at least 1 month), OR\r\n** Donor cells are present but there is no active graft-versus-host disease (GVHD), subject does not require immunosuppression and is more than 6 months from transplant\r\n** Have relapsed after prior syngeneic HCT and is more than 3 months from transplant\r\n* Subjects with relapsed disease after prior autologous HCT will be eligible if they meet all other inclusion criteria and it has been more than 3 months from transplant
+Prior allogeneic transplants is allowed prior to study start (1st dose of study medication), but patients must also be at least 6 months from date of stem cell infusion, have no evidence of graft versus host disease (GVHD), be off all immunosuppressant medications, and have recovered to =< grade 1 toxicities related to this procedure
+Active acute or chronic graft-versus-host disease (GVHD) requiring systemic therapy
+Participants who have received immunosuppressive therapy for graft versus host disease within 2 weeks prior to randomization
+Patients with prior hematopoietic stem cell transplant (HSCT) are eligible, with the exception of the following:\r\n* Autologous HSCT within 60 days of study entry\r\n* Allogeneic HSCT within 90 days of study entry\r\n* Evidence of graft-versus-host-disease (GVHD)\r\n* Treatment with immunosuppressive medications within 14 days; however, weaning or stable doses of steroids (must be =< 20 mg/m^2/day of prednisone equivalents) and/or calcineurin inhibitors are permitted
+Participants who are less than 100 days post-transplant, or greater than 100 days post-transplant with active graft versus host disease (GVHD), or are still continuing post-transplant immunosuppressant therapy within 7 days prior to the first dose of study drug.
+Prior allogeneic transplant with graft-versus-host disease (GVHD) requiring ongoing immunosuppressive therapy
+Patients with active acute graft-versus-host disease (GVHD) grades II-IV
+< grade 2 acute graft versus host disease (GVHD) at time of the first NK cell-enriched DLI; patients with treated acute GVHD must be on a stable dose of therapy (no increase in immunosuppressive therapy for the 2 weeks before planned NK cell-enriched DLIs); the dosage/level of immunosuppressive therapy at the time of NK-DLIs should be no greater than 20mg of prednisone daily or mycophenolate 500 mg bid daily or cyclosporine with a target level of 200 ng/mL or tacrolimus with a target level of 10 ng/ml
+Patients must have no evidence of active graft-versus-host disease at the time of the CD8+ memory T-cell infusion; patients with a history of acute GVHD overall grade II based on skin only involvement or upper gastrointestinal (GI) tract involvement only will be eligible; patients with a history of liver or lower GI tract GVHD will not be eligible
+Patients with previous allogeneic stem cell transplant (SCT) within 6 months or with active acute or chronic graft-versus host disease are excluded; patients must be off immunosuppression for graft-versus host disease (GVHD) for at least 30 days before cycle 1 day 1
+Patients having undergone prior allogeneic stem cell transplant within 3 months or having active graft versus host disease
+The patient must have no evidence of active graft vs. host disease, and greater than or equal to 12 weeks must have elapsed since transplant or stem cell infusion and enrollment on this study for any other pathology
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent either graft-versus-host disease post bone marrow transplant or organ rejection post-transplant are not eligible for this trial
+Acute graft-versus-host disease (GVHD) ? Grade 1, either no signs of chronic GVHD or mild chronic GVHD graded as limited disease
+Active GVHD grade ? 2
+Patients with graft versus host disease (GVHD) active < grade 2 who are on a stable dose of immunosuppressive therapy (tacrolimus, cyclosporine, or other) for > 2 weeks will be included; Note: subjects may be using systemic corticosteroids or topical or inhaled corticosteroids
+Concomitant medications\r\n* Corticosteroids: patients receiving corticosteroids that have not been on a stable or decreasing dose for at least 7 days prior to enrollment are not eligible\r\n* Investigational drugs: patients cannot receive other investigational drugs while on this study\r\n* Anti-graft-versus-host disease (GVHD) drugs post-transplant: patients receiving cyclosporine, tacrolimus or other GVHD agents are not eligible
+Relapse > 6 months since autologous or allogeneic stem cell transplantation provided:\r\n* No active graft-versus-host disease (GVHD > grade 1)\r\n* No treatment with high dose steroids for GVHD (up to >= 20 mg prednisolone or equivalent per day)\r\n* No treatment with immunosuppressive drugs with the exception of low dose cyclosporine and tacrolimus
+Anti-graft-versus-host disease (GVHD) or agents to prevent organ rejection post-transplant: patients who are receiving cyclosporine, tacrolimus or other agents to prevent either graft-versus-host disease post bone marrow transplant or organ rejection post-transplant are not eligible for this trial
+No evidence of active graft vs. host disease and at least 84 days must have elapsed after transplant or stem cell infusion.
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial.
+Patients with chronic GVHD diagnosed within 3 years after hematopoietic stem cell transplant (HSCT) for any disease, with any graft, and any conditioning regimen with at least one manifestation secondary to fibrosis, including: sclerodermatous skin changes, dry mouth, dry eye, esophageal strictures, or vaginal GVHD
+Receipt of hematopoietic stem cell transplant (HSCT) within 60 days of the first dose of TAK-659; clinically significant graft-versus-host disease (GVHD) requiring ongoing immunosuppressive therapy post HSCT at the time of screening (use of topical steroids for ongoing skin GVHD is permitted).
+Patients with previous allogeneic stem cell transplant (SCT) if they meet either of the following criteria:\r\n* < 100 days from allogeneic SCT\r\n* Active acute or chronic graft-versus-host disease (GvHD), or\r\n* Receiving immunosuppressive therapy as treatment for GvHD within the last 7 days
+Patients with active acute graft versus host disease (GVHD) grades II-IV.
+If patient has undergone prior allogeneic stem cell transplant, they must be greater than 100 days post transplant and have =< grade 2 graft-versus-host disease
+Patients with chronic graft-versus-host disease (GVHD) if on prednisone equal to or less than 0.5 mg/kg and not receiving second-line GVHD treatments like pentostatin, infliximab, etanercept, etc
+Patients with active acute graft-versus-host disease (GVHD) grades II-IV
+Prior allogeneic transplant with graft-versus-host disease (GVHD) requiring immunosuppressive therapy
+If a research participant has undergone prior allogeneic stem cell transplant, he/she must be off all immunosuppressants for graft versus host disease (GVHD) for at least 2 weeks before undergoing leukapheresis\r\n* Note: the above is not applicable if the research participant's done is undergoing leukapheresis
+If a research participant has undergone prior allogeneic stem cell transplant (alloSCT), and has documented =< grade 2 graft versus host disease (GVHD) but the donor is undergoing leukapheresis, the research participant may be considered eligible for enrollment (at the discretion of the study principal investigator [PI]) provided that immunosupressants can be tapered off completely prior to lymphodepletion
+No active graft versus host disease (GVHD) or immunosuppression for prevention or treatment of GVHD within two weeks of study entry
+Patients with active acute graft-versus-host disease (GVHD) grades II-IV
+Active acute or chronic graft-versus-host disease (GVHD)
+Patients with relapsed disease after prior allogeneic SCT (myeloablative or non-myeloablative) will be eligible if they meet all other inclusion criteria and:\r\n* Have experienced graft rejection (no evidence of donor cells by short tandem repeat (STR) analysis on 2 occasions separated by at least 1 month)\r\n* Have no active graft-vs-host disease (GVHD) and require no immunosuppression\r\n* Are more than 6 months from transplant
+Patients may have had a prior stem cell transplant (autologous or allogeneic), however they may not have active graft-vs-host disease (GvHD), nor be on any immunosuppression
+Patients with relapsed or primary refractory AML; patients with relapsed AML after allogeneic stem cell transplantation, including those who have received donor lymphocyte infusions, are eligible if they have no active graft versus host disease (GVHD) and are off immunosuppression
+Patients having undergone prior allogeneic stem cell transplantation within 6 months or having active graft versus host disease.
+Patients with untreated or uncontrolled grade 3 or 4 graft-versus-host disease (GVHD)
+No active acute GvHD >= grade II
+No extensive chronic GvHD
+No active graft versus host disease (GVHD): patients with a history of stem cell transplant are eligible but cannot have evidence of active GVHD as determined by the investigator
+Patients with active (grade 2-4) acute graft vs. host disease (GVHD), chronic GVHD or an overt autoimmune disease (e.g. hemolytic anemia) requiring high doses of glucocorticosteroid (> 0.5 mg/kg/day prednisone or its equivalent) as treatment
+Patients with late onset acute GvHD will be eligible; this includes features of classical acute GvHD without diagnostic or distinctive manifestations of chronic GvHD occurring beyond 100 days of HSCT
+Any level of acute graft versus host disease
+Patients with active (grade 2-4) acute graft versus host disease (GVHD), chronic GVHD, or an overt autoimmune disease (e.g. hemolytic anemia) requiring glucocorticosteroid treatment (> 0.5 mg/kg/day prednisone or its equivalent) as treatment
+Grade 3 or higher Graft Versus Host Disease (GVHD), or GVHD on either a calcineurin inhibitor or prednisone more than 5 mg/day.
+Have clinically significant graft versus host disease (GVHD), or GVHD requiring initiation or escalation of treatment within the last 21 days
+Active, acute GvHD > grade II or extensive, chronic GvHD
+Active, acute GvHD > grade II or extensive, chronic GvHD
+Either no evidence of graft-versus-host disease (GVHD) or minimal clinical evidence of acute GVHD and chronic GVHD while off of systemic immunosuppressive therapy for at least 28 days; minimal clinical evidence of acute GVHD is defined as grade 0 to I acute GVHD; minimal evidence of chronic GVHD is defined as mild global score chronic GVHD (as defined by the 2005 NIH consensus project) or no chronic GVHD; subjects with disease that is controlled to stage I acute GVHD or to mild global score chronic GVHD with local therapy only, e.g., topical cutaneous steroids, will be eligible for enrollment
+GRAFT CRITERIA:
+DONOR: Donors will be selected to minimize HLA mismatch in the host-versus-graft direction
+Allogeneic (non-autologous) bone marrow or stem cell transplant, or any stem cell infusion including donor lymphocyte infusion or boost infusion: ?84 days after infusion and no evidence of graft versus host disease (GVHD)
+Anti-GVHD agents posttransplant
+Participants who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant
+Active acute graft-versus-host disease of any grade or chronic graft-versus-host disease of Grade 2 or higher
+greater than 5 years ago but has active graft versus host disease (GvHD) requiring systemic treatment.
+Graft failure, acute or extensive chronic GvHD
+Less than 3 months since received hematopoietic stem cell transplantation, autologous or allogeneic and/or have clinically significant graft versus-host disease requiring treatment at the time of screening and/or patient having a history of severe graft versus-host disease;
+Previous allogeneic stem cell transplant within 6 months prior to enrolment, active graft vs host disease (GVHD), or requiring transplant-related immunosuppression
+Has active graft-versus-host disease (GVHD).
+Patient had an allogeneic stem cell transplant within 6 months before first dose of PRLX 93936 or has evidence of graft versus host disease.
+Clinically significant graft versus host disease (GVHD) or active GVHD requiring initiation or escalation of treatment within 28-day screening period.
+Subjects after prior allogeneic SCT are allowed if the allogeneic transplant was performed >=2 years prior to study treatment, and if subject has no active Graft-versus- host disease (GVHD) requiring treatment, and meet the remaining eligibility criteria.
+Evidence of ongoing graft-versus-host disease (GvHD) if prior stem cell transplant (SCT).
+Active graft-versus-host disease (GvHD) grades II-IV; prior acute GVHD could have occurred but resolved at time of initiation of daratumumab
+Prior allogeneic stem cell transplant with day 0 < 12 months prior and/or with chronic graft versus host disease (GVHD) requiring current use of immunosuppression; patients with prior allogeneic stem cell transplant with day 0 > 12 months prior who do not require immunosuppression for GVHD will be eligible
+Prior allogeneic stem cell transplant within 6 months of study drug administration and no requirement for graft versus host therapy.
+any active acute graft versus host disease (GvHD), grade 2- 4, according to the Glucksberg criteria or active chronic GvHD requiring systemic treatment
+Concomitant medications: \r\n* Investigational Drugs: Subjects who are currently receiving another investigational drug are not eligible \r\n* Anti-cancer Agents: Subjects who are currently receiving other anti-cancer agents are not eligible\r\n* Anti-graft-versus-host disease (GVHD) agents post-transplant: Subjects who are receiving cyclosporine, tacrolimus, or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial\r\n* Medications interfering with metabolism:\r\n** Medications which interfere with CYP3A4 and CYP2C8 metabolism, which metabolize nab-paclitaxel: subjects using these agents are not eligible for this trial; paclitaxel is metabolized by CYP3A4 and CYP2C8, so strong inhibitors or inducers of these enzymes should be avoided\r\n*** Note on use of trimethoprim/sulfamethoxazole: Trimethoprim/sulfamethoxazole should not be administered concomitantly with abraxane/gemcitabine, and patients must be monitored closely for toxicities
+Stem cell transplant recipients must have no evidence of active graft-versus-host disease and should not be receiving treatment for it
+Signs of or symptoms of active graft versus host disease
+Acute graft versus host disease (GVHD) or active chronic GVHD greater than grade 1
+Active acute graft-versus-host disease (GvHD) or chronic GVHD grade 2 or higher
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Allogeneic stem cell transplant less than 12 months prior to initiation of study treatment and who have not discontinued immunosuppressive treatment for at least four weeks prior to initiation of study treatment and who are currently dependent on such treatment; patients may also not have active graft versus (v.) host disease
+Anti-GVHD or agents to prevent organ rejection post-transplant; patients who are receiving cyclosporine, tacrolimus, or other agents to prevent either graft-versus-host disease post bone marrow transplant or organ rejection post-transplant are not eligible for this trial; at least 3 half-lives must have elapsed after the last dose of GVHD medications (meds)
+Prior hematopoietic stem cell transplant within 6 months of enrollment. If the subject had an allogenic transplant there must be no apparent signs of graft versus host disease and subjects must have discontinued all immunosuppressive therapies for at least 4 weeks
+Graft-Versus-Host Disease (GVHD) therapy within 6 weeks before the first dose of study drug; low dose steroids (? 10mg) allowed
+Previous allogeneic stem cell transplantation with active graft versus host disease (GVHD), or treatment with immunosuppressive therapy (excluding corticosteroids) in the 2 months prior to study entry
+Recipients of previous allogeneic transplants who have rash involving more than 10% body surface area attributed to graft versus host disease (GVHD) (> grade 1 GVHD of skin); stem cell transplant recipients will be excluded if they are still receiving immunosuppression including steroids for GVHD or have active GVHD in any organ (except for grade 1 only of skin, not requiring treatment)
+Active, uncontrolled graft vs. host disease (GVHD) following allogeneic transplant for non-AML condition (e.g. MDS, lymphoid malignancy, aplastic anemia); patients with GVHD controlled on stable doses of immunosuppressants are eligible
+Patients with symptomatic oral chronic graft-versus-host disease (sensitivity score >= 4)
+At least one prior therapy for CLL/SLL; prior autologous or allogeneic stem cell transplant is allowed; patients may not be on chronic immunosuppressive therapy for graft-versus-host disease (GVHD); patients who are on only oral steroids must be on an oral dose of 10mg or less of prednisone (or equivalent) daily
+Concomitant medications \r\n* Corticosteroids: patients requiring corticosteroids who have not been on a stable or decreasing dose of corticosteroid for the 7 days prior to enrollment are not eligible\r\n* Patients who have received previous treatment with IMGN901 are not eligible\r\n* Investigational drugs: patients who are currently receiving another investigational drug are not eligible\r\n* Anti-cancer agents: patients who are currently receiving other anti-cancer agents are not eligible\r\n* Anti-graft-versus-host disease (GVHD) or agents to prevent organ rejection post-transplant: patients who are receiving cyclosporine, tacrolimus or other agents to prevent either graft-versus-host disease post bone marrow transplant or organ rejection post-transplant are not eligible for this trial
+Stem cell transplant or rescue: >= 2 months must have elapsed since the time of transplant; patients with active graft-vs-host disease (GVHD) are eligible if the disease is well controlled on GVHD medications and they are clinically stable
+Patients who have undergone allogeneic SCT (alloSCT) are eligible if they are >= 60 days post stem cell infusion, have no evidence of graft-versus-host disease (GVHD) > grade 1, and are >= 2 weeks off all immunosuppressive therapy
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Patients with an allogeneic transplant must meet the following conditions: the transplant must have been performed more than 90 days before registration to this study, the patient must not have >= grade 2 acute graft versus host disease (GvHD) or either moderate or severe limited chronic GvHD, or extensive chronic GvHD of any severity; the patient must be off all immunosuppression for at least 2 weeks
+Ongoing active acute or chronic GVHD requiring immunosuppressive therapy or signs of acute (a)GVHD or chronic (c)GVHD requiring treatment
+Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial
+Patients with history of allogeneic stem cell transplantation are eligible if at least 100 days post-transplant, if there is no evidence of active graft-versus-host disease (GVHD) and no longer taking immunosuppressive agents for at least 30 days prior to enrollment
+Clinically significant graft versus host disease (GVHD) or GVHD requiring initiation of treatment or treatment escalation within 21 days, and/or > Grade 1 persistent or clinically significant non hematologic toxicity related to HSCT.
+Graft-versus-host disease criteria:
+Subjects who have undergone hematopoietic stem cell transplant (HSCT) within 60 days of the first dose of AG-120, or subjects on immunosuppressive therapy post HSCT at the time of screening, or with clinically significant graft-versus-host disease (GVHD). (The use of a stable dose of oral steroids post HSCT and/or topical for ongoing skin GVHD is permitted.)
+Greater than active Grade II acute GvHD or chronic extensive GvHD due to a previous allograft at the time of screening
+Presence of Grade 2 to 4 acute or extensive chronic graft-versus-host disease (GVHD)
+Active graft-versus-host disease.
+Has undergone prior allogeneic hematopoetic stem cell transplantation within the last 5 years. (Participants who have had a transplant greater than 5 years ago are eligible as long as there are no symptoms of Graft versus Host Disease [GVHD]).
+The patient is receiving immunosuppressive therapy - with the exception of low-dose prednisone (? 10 mg/day) - for treatment or prophylaxis of graft-versus-host disease (GVHD). If the patient has been on immunosuppressive treatment or prophylaxis for GVHD, the treatment(s) must have been discontinued at least 14 days prior to study treatment and there must be no evidence of Grade ? 2 GVHD.
+Prior hematopoietic stem cell transplantation within 12 weeks of the first dose of study treatment or ongoing immunosuppressive therapy for graft versus host disease
+Patients who have received allogeneic hematopoietic stem cell transplantation will be eligible 6 months after the procedure provided there is no evidence of active graft-versus-host disease and immunosuppressive treatment has been discontinued for at least 30 days.
+Presence of grade 2 to 4 acute or extensive chronic graft-versus-host disease (GVHD).
+Active graft versus host disease (GVHD) ? Grade 2 or extensive chronic GVHD requiring immunosuppressive therapy
+Prior allogeneic stem cell transplant within one year or active graft vs. host disease.
+Prior allogeneic bone marrow progenitor cell transplant within 100 days or on active immunosuppression for graft versus host disease (GVHD) treatment or prophylaxis within 28 days prior to enrollment
+Active graft-versus-host disease.
+EXCLUSION FOR TREATMENT: Patients with active (grade 2-4) acute graft versus host disease (GVHD), chronic GVHD or an overt autoimmune disease (e.g. hemolytic anemia) following allo-HSCT requiring glucocorticosteroid treatment (> 0.5 mg/kg/day prednisone or its equivalent) as treatment
+No evidence of active graft vs host and <3mo since Stem Cell Transplant
+If participant had prior allogeneic stem cell transplant (SCT), participant has evidence of ongoing graft-versus-host disease (GvHD).
+Patients with allogeneic stem cell transplantation within the last 6 months or patients with active graft-versus-host disease (GVHD) will be excluded
+Patient has evidence of graft versus host disease (GVHD)
+Patients with relapsed disease after prior allogeneic SCT (myeloablative or non-myeloablative) will be eligible if they meet all other inclusion criteria and\r\n* Have no active graft-versus-host disease (GVHD) and require no immunosuppression\r\n* Are more than 6 months from transplant
+Subjects with a history of allogeneic stem cell transplant are eligible for study participation provided the following eligibility criteria are met: transplant was >60 days prior to study enrolment; subject has not taken immunosuppressive medications for at least 1 month; no signs or symptoms of graft versus host disease other than Grade 1 skin involvement; no active infection.
+For patients with relapsed/refractory disease: patients with prior autologous or allogeneic hematopoietic cell transplantation (HCT) for MDS/AML are eligible if relapse occurs provided symptoms of graft-versus host disease are well controlled with stable use of immunosuppressive agents
+Graft vs. host disease following prior allogeneic transplant within 3 months prior to study treatment.
+Active acute grade III-IV graft-versus-host disease
+Patients must have fully recovered from the acute effects of all prior therapy and must meet the following criteria:\r\n* At least 14 days must have elapsed since the completion of myelosuppressive therapy\r\n* At least 24 hours must have elapsed since the completion of low-dose chemotherapy, such as hydroxyurea or low-dose cytarabine (up to 200 mg/m^2/day)\r\n* For patients who have received prior HSCT, there can be no evidence of graft-versus-host disease (GVHD) and greater than 60 days must have elapsed since the HSCT; patients cannot be receiving therapy, including steroids, for the treatment or prevention of GVHD; all such medications must be discontinued at least 24 hours prior to enrollment
+Allogeneic transplant within 30 days prior to the planned start of treatment or subjects with active graft-vs-host disease with the exception of Grade 1 skin involvement
+Systemic immunosuppressive therapy post HSCT or with clinically significant graft-versus-host disease (GVHD).
+Patient has evidence of active graft versus host disease (GVHD)
+Has chronic graft versus host disease (GVHD) or on immunosuppressive therapy for the control of GVHD
+Patients with previous allogeneic stem cell transplant (SCT) within 6 months or with active acute or chronic graft-versus host disease are excluded; patients must be off immunosuppression for GVHD for at least 60 days before cycle 1 day 1
+Patient must be:\r\n* >= 6 months since allogeneic bone marrow transplant prior to enrollment\r\n* >= 3 months since autologous bone marrow/stem cell prior to enrollment\r\n* >= 3 months since stem cell transplant or rescue without TBI with no graft vs. host disease prior to enrollment\r\n* No graft versus host disease
+Ongoing graft-versus-host disease
+Prior use of fludarabine, as this agent has been associated with higher subsequent rates of graft versus host disease
+Subjects can be enrolled and treated under this protocol regardless of their CLL treatment history or number of previous treatments; in addition, subjects with history of allogeneic stem cell transplant can be enrolled and treated unless they have active manifestations of graft versus (vs.) host disease (GVHD) or chronic illness or infections that will prevent them from completing the study
+Known or suspected active acute GVHD.
+Patients who have had a previous allogeneic transplant within 6 months and have evidence of clinically significant graft versus host disease
+Patients who have received allogenic stem cell transplantation < 12 months prior to entering the study or show evidence of active graft-versus-host disease that requires immunosuppressive therapy
+Anti Graft-Versus-Host Disease (GVHD) therapy within 12 weeks before the first dose of study drug
+Patients who have undergone stem cell transplantation (SCT), autologous or allogeneic, are eligible provided that they are > 84 days from stem cell infusion, have no active graft-versus-host disease (GVHD), are off immunosuppressive agents for > 14 days
+Ongoing graft-vs-host disease
+Active graft-versus-host disease (GVHD) following allogeneic stem cell transplant for non-AML condition (ex. MDS, MPN, lymphoid malignancy, aplastic anemia) requiring ongoing use of immunosuppressants
+Autologous stem cell transplant or rescue: No evidence of active graft versus (vs.) host disease and >= 4 weeks must have elapsed
+Patients within 1 year of allogeneic stem cell transplant, patients with active graft versus host disease (GVHD) or requiring immunosuppression are excluded
+Autologous SCT within 8 weeks and allogeneic SCT within 16 weeks prior to initiation of study treatment. Patients with prior allogeneic SCT should not have evidence of moderate-to-severe graft-versus-host disease (as defined in Filipovich 2005).
+Participants who have had prior allogeneic stem cell transplantation with evidence of active graft-versus-host disease requiring immunosuppressive therapy
+Active graft?versus?host disease requiring systemic treatment
+Presence of acute or extensive chronic graft versus host disease (GVHD)
+Patients who have undergone allogeneic stem cell transplant within 12 months, without active graft-versus-host-disease, and not on immunosuppression for prevention of graft-versus-host disease are eligible
+Ongoing graft-vs-host disease
+Subjects who have undergone hematopoietic stem cell transplant (HSCT) within 60 days of the first dose of AG-221, or subjects on immunosuppressive therapy post HSCT at the time of screening, or with clinically significant graft-versus-host disease (GVHD). (The use of a stable dose of oral steroids post GVHD and/or topical steroids for ongoing skin GVHD is permitted with Medical Monitor approval.)
+No evidence of grade II or higher acute GVHD or chronic GVHD at initiation of first DLI
+Patients with relapsed disease after prior allogeneic SCT (myeloablative or nonmyeloablative) will be eligible if they meet all other inclusion criteria and:\r\n* Experienced graft rejection (no evidence of donor cells by short tandem repeat [STR] analysis on 2 occasions separated by at least 1 month)\r\n* Have no active graft-versus-host disease (GVHD) and require no immunosuppression\r\n* Are more than 6 months from transplant
+Recipients of prior allogeneic hematopoietic stem cell transplantation for AML or acute leukemia of ambiguous lineage are eligible if they do not have graft-versus-host disease (GVHD) or they have quiescent GVHD whether or not they are receiving immunosuppressive therapy
+Acute graft-versus-host disease (GvHD), classic (=< day 100) or late-onset (> day 100)
+Participants who have undergone allogenic stem cell transplant are ineligible unless they meet the following criteria, a) participants who are off all immunosuppressive therapy, b) participants who have no signs and/or symptoms of acute or chronic graft versus host disease, or c) participants must have appropriate hematology counts
+Subjects who have clinically significant graft versus host disease requiring treatment and /or have >grade 2 persistent non hematological toxicity related to transplant
+Patients on investigational therapy for graft-versus-host disease (GVHD)
+Participants who received prior allogenic transplant must have had no active graft-versus-host disease.
+Patients who underwent stem cell transplant (SCT) in first complete remission are eligible, as long as all of the following criteria are met:\r\n* At least 100 days have elapsed since stem cell infusion\r\n* At least 14 days off of all medications for graft-versus-host-disease (GVHD) prophylaxis or treatment\r\n* No evidence of acute GVHD
+Individuals who have had a stem cell transplant and are still receiving treatment for GVHD or GVHD prophylaxis, or who have evidence of acute GVHD, or who are less than 100 days from stem cell infusion
+Patients must have no evidence of active graft-versus-host disease and must be on a stable immunosuppressive regimen (or no immunosuppressive medications) without a change in drugs dosage in the 4 weeks prior to the planned CD8+ memory T cell infusion
+Evidence of on-going graft versus-host disease (GVHD), or GVHD requiring immunosuppressive therapy
+Patients who have undergone an allogeneic hematopoietic cell transplantation (HSCT) within the last 5 years (yrs) are eligible for enrollment if they have no signs or symptoms of active graft versus host disease (GvHD) and are off all immune suppressive medications
+Active graft versus host disease.
+Patients who have undergone prior allogeneic transplant are excluded only if they remain on any immunosuppression or have signs or symptoms of clinical graft-versus-host disease
+Patients with late persistent acute GVHD or recurrent acute GVHD only.
+Patients previously treated with allogeneic stem cell transplant (SCT) that is currently complicated by active graft versus host disease (GVHD) requiring T cell suppressive therapy
+Subjects who have undergone stem cell transplant who are undergoing treatment or prophylaxis for Graft versus host disease
+Presence of uncontrolled graft-versus-host disease
+Evidence of graft versus host disease > grade II
+Currently taking corticosteroids for therapy of graft-versus-host disease (GVHD)
+Patients with active (grade 2-4) acute graft versus (vs.) host disease (GVHD), chronic GVHD or an overt autoimmune disease (e.g. hemolytic anemia) requiring high doses of glucocorticosteroid (> 0.5 mg/kg/day prednisone or its equivalent) as treatment
+Evidence of chronic or acute graft versus host disease or on-going treatment for graft versus host disease from prior allogeneic stem cell transplantation
+Current grade II to IV acute GVHD or extensive chronic GVHD
+Patients who have experienced their relapse after a hematopoietic stem cell transplant (HSCT) are eligible, provided all of the following are met: \r\n* No evidence of acute or chronic graft-versus-host disease (GVHD)\r\n* At least 14 days off all medications for GVHD\r\n* At least 60 days post-transplant at the time of enrollment
+Current immunosuppressive treatment for graft versus host disease
+Active graft versus host disease
+Patients with prior autologous and allogeneic hematopoietic stem cell transplantation are eligible if patients are off immunosuppression for > 1 month and have no evidence of active graft versus host disease (GVHD) except grade 1 skin GVHD
+Hyperacute GvHD defined as onset of GvHD within the first 15 days following hematopoietic stem cell infusion.
+Any bone marrow relapse after allogeneic hematopoietic stem cell transplant (HSCT); subjects must be at least 100 days from HSCT at the time of screening and off immunosuppressant medication for at least 1 month at the time of screening, and have no active graft-vs-host disease (GVHD), or
+Any evidence of ongoing graft-versus-host disease (GVHD) in subjects with prior progenitor cell transplantation;
+Active graft versus host disease (GVHD) with other than grade 1 skin involvement or GVHD requiring immunosuppressive treatment.
+Presence of steroid-refractory acute graft-versus-host disease (GVHD)
+Hematopoietic Stem Cell Transplant: Patients who have experienced their relapse after a HSCT are eligible, provided they have no evidence of Graft-versus-Host Disease (GVHD) and are at least 60 days post-transplant at the time of enrollment.
+Newly diagnosed acute graft-versus-host disease (GvHD), including lower Gastrointestinal (GI) involvement (modified International Bone Marrow Transplant Registry [IBMTR] Severity Stage 1 to 4 [>500 mL diarrhea/day]), with or without other organ system involvement.
+Prior bone marrow transplant presenting with active uncontrolled graft versus (vs.) host disease (GVHD)
+Prior bone marrow transplant that requires immunosuppressant therapy or presents with graft vs host disease (GVHD).
+GVHD\r\n* ARM A: Without evidence of active or prior history of GVHD\r\n* ARM B: Patients with active GVHD, or with GVHD controlled by steroids or other immunosuppressive medications
+Less than 100 days post -transplant or any evidence of active graft-versus-host disease (GVHD)
+Acute graft-versus-host disease (GVHD) at time of enrollment (history of treated and resolved GVHD is permitted)
+Able to be off prednisone or other immunosuppressive medications for at least 3 days prior to Day 0 (excluding pre-medications); low dose prednisone (< 10 mg/day) is allowed if for indication other than graft-versus-host disease (GVHD)
+Patients following allogeneic stem cell transplantation are eligible in the absence of graft versus host disease and are off immunosuppression for at least 30 days
+Allogeneic stem cell transplantation within the last 28 days before first treatment with graft versus host disease requiring more than 20 mg of steroids per day. Steroid dosage must be stable within two weeks prior to start of treatment.
+< 60 days from ASCT; has chronic graft-versus host disease (GVHD) or requires continued treatment with systemic immunosuppressive agents
+Patients with active acute Graft versus host disease (GVHD) grades II-IV.
+No signs or symptoms of graft versus host disease other than Grade 1 skin involvement
+Active GVHD
+Hematopoietic Stem Cell Transplant: Patients who have had previous allogeneic HSCT must have grade I or less of Graft-versus-Host Disease (GVHD) and have not received immunosuppressive medication for at least 90 days.
+Clinically active or unstable graft-versus-host disease (GvHD) requiring treatment which precludes administration of chemotherapy as defined in this protocol
+Patients is off or on a stable dose of immunosuppressive drugs for management or prophylaxis of graft-versus-host disease (GVHD) (defined as no escalation of therapy for GVHD) within 14 days prior to starting crenolanib
+Patients with previous allogeneic stem cell transplant (SCT) if they meet either of the following criteria: < 100 days from allogeneic SCT, acute or chronic graft-versus-host disease (GvHD), or receiving immunosuppressive therapy as treatment for or prophylaxis against GvHD within the last 7 days
+Has clinically significant graft-versus-host disease requiring treatment
+Active acute or extensive chronic graft-versus-host disease (GvHD) which included the administration of immunosuppressive agents to prevent or treat GvHD within 2 weeks before blinatumomab treatment
+Active acute graft-vs-host disease (GVHD) grades II-IV
+Ongoing graft-versus (vs)-host disease
+There is no evidence of active graft vs host disease
+AML relapse > 6 months since autologous or allogeneic stem cell transplantation, provided they are in first or second relapse and: No active graft-versus-host disease (GVHD > grade 1). No treatment with high dose steroids for GVHD (up to 20 mg Prednisolone or equivalent, Appendix G). No treatment with immunosuppressive drugs with the exception of low dose cyclosporine and tacrolimus (blood levels of 0.5-0.6 µg/mL).
+Allogeneic stem cell transplant within 60 days, active acute or chronic graft-versus-host disease (GvHD), or receiving immunosuppressive therapy as treatment for GvHD
+Active acute graft vs. host disease >= grade 2 or active extensive chronic graft-versus-host disease (GVHD)
+Patients with prior autologous or allogeneic hematopoietic cell transplantation (HCT) are eligible if relapse occurs provided symptoms of graft-versus host disease are well controlled with stable use of immunosuppressive agents
+Patient has evidence of graft versus host disease (GVHD).
+Patients who have had prior allogeneic stem cell transplantation and show evidence of active graft-versus-host disease that requires immunosuppressive therapy
+Evidence of uncontrolled graft-versus-host disease
+Refractory graft versus host disease (GvHD) not responding to treatment
+Grade ? 2 graft-versus-host disease (GvHD) per the Center for International Blood and Marrow Transplant Research (CIBMTR) consensus grading system at enrollment
+Participants who are less than 100 days post-transplant, or greater than or equal to 100 days post-transplant with active graft versus host disease (GVHD), or are receiving immunosuppressant therapy within 7 days prior to first dose of study drug.
+Ongoing graft-vs-host disease.
+Receiving systemic therapy for chronic graft-versus-host disease (topical therapy is allowed)
+For both Parts 1 and 2, receipt of HSCT within 60 days of the first dose of PLX3397 is an exclusion criterion. Patients on immunosuppressive therapy post HSCT, or with clinically significant graft-versus-host disease are excluded from Part 1. (Use of topical steroids for ongoing skin GVHD is permitted). Patients for Part 1 must have a wash-out period of ?2 weeks or at least 4 half-lives from their last systemic immunosuppressive treatment for GVHD. Patients for Part 2 may be receiving systemic immunosuppressive treatment for management of GVHD at the time of screening and enrollment
+Patients must have recovered from the acute side effects of all prior anticancer therapy\r\n* At least 1 week from prior cytotoxic chemotherapy\r\n* At least 4 weeks from craniospinal irradiation\r\n* At least 4 months since hematopoietic stem cell transplant (HSCT) with no evidence of active graft-versus-host disease (GVHD)
+=< grade 1 acute graft-versus-host disease (GVHD) at time of the CMV specific T cell infusion; patients with treated acute GVHD must be on a stable dose of therapy (no increase in immunosuppressive therapy for the 2 weeks before planned donor cell infusion); the dosage level of immunosuppressive therapy at the time of infusion should be no greater than 20 mg of prednisone daily or mycophenolate 1000 mg thrice daily (TID) or cyclosporine with a target level of 200 ng/ml or equivalent
+Ongoing graft-vs-host disease
+patients with Stem Cell Transplant (SCT) or Rescue without TBI: Evidence of active graft vs. host disease and < 3 months since SCT
+Stem Cell Transplant or Rescue: No evidence of active graft vs. host disease and >= 2 months must have elapsed
+GVHD: Patients will not be eligible for DLI if they have grades 2 – 4 acute GVHD or extensive chronic GVHD
+Anti-graft versus host disease (GVHD) agents post-transplant: \r\n* Patients who are receiving cyclosporine, tacrolimus or other agents to prevent graft-versus-host disease post bone marrow transplant are not eligible for this trial\r\n* Patients must be off all systemic immunosuppressive therapy for at least 2 weeks, excluding hydrocortisone for physiologic cortisol replacement
+Active graft versus host disease (after allogeneic stem cell transplantation) at C1D1.
+Patients with previous allogeneic stem cell transplant (SCT) within 6 months or with active acute or chronic graft-versus host disease are excluded; patients must be off immunosuppression for graft-versus host disease (GVHD) for at least 30 days before cycle 1 day 1
+Hematopoietic stem cell transplant recipients with chronic thrombocytopenia due to chronic graft-versus-host disease (GVHD) or other causes
+For patients who have received prior HSCT, there can be no evidence of graft versus host disease (GVHD) and greater than 60 days must have elapsed since the HSCT
+Phase II: Received an autologous or allogeneic stem cell transplant at the Hospital of the University of Pennsylvania and experienced a sentinel event of either 1) disease relapse, 2) severe (grade III or IV) graft-versus-host disease, or 3) unplanned hospital admission with length of stay greater than 72 hours
+Patients with active, grade II-IV, acute graft versus (vs.) host disease (GVHD), chronic GVHD or any condition requiring high doses of glucocorticosteroid (> 0.5 mg/kg/day prednisone or its equivalent) as treatment
+Acute graft versus host disease (GVHD) fitting one of the following categories:
+Patients with chronic, severe, generalized skin breakdown (such as generalized blistering, burns, severe graft versus host disease [GVHD] with open sores, etc.) are ineligible
+Any graft-versus-host disease (GVHD) prophylaxis regimen is allowed
+Prior bone marrow transplant within 3 months or with acute graft versus host disease (GVHD)
+Post allo patients must not have active graft versus-host disease and be off all immune suppression (other than steroids, as above)
+Patients actively enrolled on any other graft versus host disease (GVHD) prevention trial
+Patients with active acute graft-versus-host disease (GVHD) grades II-IV
+Patients with acute GVHD grades II-IV developing despite GVHD prophylaxis
+If patients are on immunosuppressive therapy for treatment of graft versus host disease (GVHD), then only those on stable doses for at least 4 weeks (or on tapering doses) will be eligible
+If patients are on immunosuppressive therapy for treatment of graft versus host disease (GVHD), then only those on stable doses for at least 4 weeks (or on tapering doses) will be eligible
+Participation in a clinical trial evaluating another preventative strategy for chronic graft-versus-host disease (GVHD), or ongoing participation in a clinical trial for therapy of acute GVHD; prior completion of experimental therapy for acute GVHD is permissible if the experimental agent was used > 30 days prior to enrollment
+Any evidence of ongoing gastrointestinal or hepatic acute GVHD, or evidence of greater than ongoing stage I cutaneous acute GVHD; ongoing, tapering therapy for resolved acute GVHD is permissible
+Any evidence of prior active or resolved chronic GVHD
+Any evidence of cGVHD or late acute graft versus host disease (aGVHD) between enrollment and first dose of obinutuzumab
+Planned graft versus host disease (GVHD) prophylaxis consisting of tacrolimus (TAC)/methotrexate (MTX) or TAC/sirolimus (SRL)
+Active acute or chronic GVHD
+No signs or symptoms of acute graft versus host disease; however prior acute GVHD which is resolved and controlled with low dose steroids (< 0.3 mg/kg/day for at least 1 week) may be eligible
+Any evidence of ongoing gastrointestinal or hepatic acute GVHD or evidence of greater than ongoing stage I cutaneous acute GVHD at time of enrollment; ongoing, tapering therapy for resolved acute GVHD is permissible
+Active systemic treatment for graft versus host disease.
+HSCT recipients with active and/or chronic graft versus host disease
+Patients with graft-versus-host disease (GVHD) > grade II
+Presence of acute or chronic graft-versus-host disease (GVHD)
+Subject has received a prior HCT and has residual Chronic Graft-versus-host Disease (cGVHD)
+Previous allogeneic hematopoietic stem cell transplant within 6 months prior to enrollment, active graft versus host disease (GVHD), or requiring transplant-related immunosuppression.
+Hematopoietic stem cell transplantation (HSCT) within 60 days of screening, or receipt of immunosuppressive therapy for graft-versus-host disease treatment or prophylaxis within 14 days of first protocol therapy, or active graft-versus-host-disease
+Active graft versus host disease (after allogeneic stem cell transplantation) at C1D1.
+Patients who have undergone prior allogeneic transplantation are eligible provided they do not have significant active graft versus host disease and that their transplant day 0 is > 6 months from their first dose of chemotherapy
+Acute graft versus host disease (GvHD) Grade III or IV, or severe chronic GvHD.
+Prior allogeneic stem cell transplant with active graft-versus-host- disease (GVHD).
+Previously received an allogeneic stem cell transplant and the occurrence of one or more of the following: received the transplant within 6 months prior to study day 1;received immunosuppressive therapy within the last 3 months prior to study day 1;having signs or symptoms of acute or chronic graft-versus-host disease.
+Prior allogeneic stem cell transplant, no evidence of active graft-versus host disease (GVHD) and must be ? 2 weeks off immunosuppressive therapy.
+The patient underwent autologous or allogeneic stem cell transplant within 60 days prior to receiving the first dose of omacetaxine and has any evidence of ongoing graft versus host disease (GVHD), or GVHD requiring immunosuppressive therapy.
+Prior allogeneic hematopoietic cell transplantation (HCT) with active graft versus host disease (GVHD) on therapeutic dosing of immunosuppression or prednisone > 20 mg daily equivalent
+Patients with a history of allogeneic hematopoietic stem cell transplantation (HSCT) will be eligible if they are more than 90 days removed from the date of stem cell infusion, have no evidence of acute graft-versus-host disease (GVHD) or active chronic (grade 2-4) GVHD, and are off of all transplant-related immunosuppression for at least 2 weeks
+Subjects on systemic immunosuppressive therapy post HSCT at the time of screening, or with clinically significant graft-versus-host disease (GVHD). The use of topical steroids for ongoing skin or ocular GVHD is permitted.
+Has undergone prior allogeneic hematopoietic stem cell transplantation within the last 5 years. Note: Participants who have had a transplant greater than 5 years ago are eligible as long as there are no symptoms of graft-versus-host disease (GVHD).
+Active graft-versus-host disease.

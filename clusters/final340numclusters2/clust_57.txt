@@ -1,0 +1,3 @@
+As a part of the Oncology Patient Enrollment Network (OPEN) registration process the treating institution�s identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered in the system
+As part of the OPEN registration process the treating institution�s identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered into the system
+As part of the Oncology Patient Enrollment Network (OPEN) registration process the treating institution�s identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study had been entered in the system

@@ -1,0 +1,98 @@
+Must be obtained within  days prior to registration for protocol therapy: Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL obtained within  days prior to sub-study registration
+Hemoglobin >=  g/dL must be obtained =<  days prior to protocol registration
+Hemoglobin >=  g/dL, obtained within  days prior to step  registration
+Hemoglobin (Hgb) > . g/dL obtained =<  days prior to registration
+Obtained within  days prior to registration: Hemoglobin >=  g/dL
+Obtained =<  days prior to registration: Hemoglobin (Hgb) >= . g/dL NOTE: Subjects may not have had a transfusion =<  days of registration
+Hemoglobin (Hgb) >=  g/dL obtained within  days prior to registration
+Obtained =<  days prior to registration: Hemoglobin >= . g/dL
+Obtained within  days prior to study registration: total bilirubin =< . g/dL
+Obtained within  days prior to CD: Hemoglobin > . g/dL
+Obtained =<  weeks prior to registration: Hemoglobin >=  g/dL
+Obtained within  days prior to registration: Hemoglobin >=  g/dL
+Obtained =<  days prior to registration: hemoglobin >= .g/dL
+Hemoglobin >= . g/dL, obtained =<  days prior to registration
+OBTAINED =<  DAYS PRIOR TO REGISTRATION: Hemoglobin (Hgb) >= . g/dL
+Obtained =<  days prior to registration: Hemoglobin >= . g/dL
+Obtained ?  days prior to registration: Hemoglobin ? . g/dL
+Obtained =<  days prior to registration: Hemoglobin (Hgb) >=  g/dL
+Obtained within  days prior to registration: Hemoglobin (Hgb) >=  g/dL
+Hemoglobin >= . g / dl obtained =<  days prior to study initiation
+Obtained within  days prior to randomization/registration: hemoglobin > . g/dL
+Obtained within  days prior to registration: bilirubin <  mg/dl
+Hemoglobin >=  g/dL obtained =<  days prior to registration
+Obtained within  days of the first study treatment: Hemoglobin >  g/dL
+Obtained =<  days prior to registration: Hemoglobin >= . g/dL
+Hemoglobin >= . g/dL, obtained within  days prior to first study treatment
+Obtained with  days of registration: hemoglobin >=  g/dL
+Obtained within  days prior to randomization/registration: Hemoglobin > . g/dL.
+Obtained within  days of the first study treatment: Hemoglobin >  g/dL
+Obtained =<  days prior to registration: Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL obtained =<  days prior to registration
+Creatinine =< . mg/dL obtained =<  days prior to registration
+Obtained within  days prior to enrollment: hemoglobin >=  g/dL
+Hemoglobin > . g/dL obtained =<  days prior to registration
+Creatinine =< . mg/dL obtained =<  days prior to registration
+Hemoglobin >= . g/dL obtained =<  days prior to registration
+Hemoglobin >= . g/dL (obtained =<  days prior to registration)
+Obtained =<  days prior to registration: Creatinine =< . mg/dL
+FOR MULTIPLE MYELOMA ONLY: Obtained =<  days prior to registration: Hemoglobin >= . g/dl
+FOR AML ONLY: Obtained =<  days prior to registration: Hemoglobin >= . g/dl
+FOR TCL ONLY: Obtained =<  days prior to registration: Hemoglobin >= . g/dl
+Hemoglobin >= . g/dL, obtained =<  days prior to registration
+Hemoglobin >= . g/dL (. mmol/L) obtained =<  days prior to registration; NOTE: transfusions are not allowed =<  days prior to registration
+Hemoglobin > . g/dL should be obtained within  days prior to enrollment
+Obtained within  days prior to registration; hemoglobin ?  g/dl
+Obtained =<  days prior to registration: Hemoglobin (HgB) >= . g/dL
+Obtained =<  days prior to registration: Creatinine =< . mg/dL
+Hemoglobin > . g/dL obtained within  days prior to randomization/registration
+Hemoglobin >= . mg/dl obtained within  days prior to registration
+Hemoglobin >=  g/dL, obtained within  days of study registration
+Creatinine < . mg/dl, obtained within  days of study registration or
+Hemoglobin (Hgb) >=  g/dl, obtained =<  days prior to registration
+Hemoglobin (Hgb) >= . g/dL (obtained =<  days prior to registration)
+Hemoglobin >=  g/dL; this value must be obtained within four weeks before protocol entry
+Hemoglobin >= . g/dL obtained =<  days prior to registration
+Hemoglobin >= . g/dL (may transfuse to meet this requirement), obtained =< days prior to registration
+Obtained =<  days prior to registration: Hemoglobin >= . g/dL
+Obtained ?  days prior to registration: hemoglobin ? . g/dL
+Obtained =<  days prior to registration: Hemoglobin > . g/dL
+Obtained within  days prior to registration: Bilirubin =< . mg/dL
+Obtained within  days prior to registration: Hemoglobin > . g/dL
+Obtained =<  days prior to registration: Hemoglobin >=  g/dL
+Hemoglobin > . g/dL  unless determined by treating physician to be disease related, obtained =<  days prior to registration
+Creatinine =< . mg/dL, obtained =<  days prior to registration
+Hemoglobin (Hgb) >=  g/dL, obtained within  days prior to registration for protocol therapy
+ARM A: obtained =<  days prior to registration: \r\n* Hemoglobin >=  g/dl
+ARM B: obtained =<  days prior to registration: \r\n* Hemoglobin >=  g/dl
+Hemoglobin >= . g/dL (must be >=  days after most recent transfusion), obtained =<  days prior to registration
+Obtained within  days prior to registration: Hemoglobin (Hgb) >=  g/dL
+Obtained =<  days prior to registration: Hemoglobin >= . g/dL
+Hemoglobin >=  g/dL obtained within  days prior to Step  re-registration
+Hemoglobin >= . g/dL (obtained =<  days prior to registration)
+Hemoglobin >=  g/dL obtained within  days prior to Step  re-registration
+Hemoglobin >=  g/dL obtained within  days prior to step  re-registration
+Obtained within  days prior to registration: Hemoglobin >=  g/dL
+Hemoglobin >=  g/dL; these results must be obtained within  days prior to registration
+Hemoglobin >=  g/dL be obtained within  days prior to registration
+CLINICAL/LABORATORY CRITERIA: Hemoglobin >=  grams/dl; these results must be obtained within  days prior to registration
+Hemoglobin >= . g/dl obtained within  days prior to registration
+Hemoglobin >=  g/dL obtained within  days prior to RE-TREATMENT registration
+Hemoglobin >= . g/dL, obtained =<  days prior to registration
+Creatinine =< . mg/dL, obtained =<  days prior to registration
+Hemoglobin >= . g/dL obtained =<  days prior to registration
+Hemoglobin >= . g/dL, obtained within  days prior to first treatment
+Hemoglobin (Hgb) > . g/dL obtained within  days prior to registration
+Hemoglobin >= . gm/dL obtained =<  days prior to registration
+Hemoglobin > . g/dL obtained =<  days prior to registration
+Obtained =<  days prior to registration: Hemoglobin (Hgb) > . mg/dl
+Hemoglobin >= . g/dL (obtained =<  days prior to registration)
+Hemoglobin >= . g/dL, obtained within  days prior to first treatment
+Hemoglobin (Hgb) >= . g/dL obtained =<  days prior to registration
+Hemoglobin >= . g/dL obtained =<  days prior to registration
+Hemoglobin >= . g/dL, obtained within  days of the first dose of study drug
+Hemoglobin >=  g/dL obtained =<  days prior to registration
+Hemoglobin >=  g/dL, obtained within  days prior to treatment start
+Obtained within  days prior to registration: Hemoglobin (Hgb) >=  g/dL
+Obtained within  days prior to registration: Albumin > . g/dL

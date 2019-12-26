@@ -1,0 +1,178 @@
+Subjects must be at least  weeks post last dose of temozolomide
+A patient who has had a lumpectomy with positive margins as part of their treatment for a current DCIS diagnosis is eligible (post-excision mammogram required at enrollment to establish a new baseline)
+POST-OPERATIVE REGISTRATION/RANDOMIZATION CRITERIA
+Patients should not be randomized less than  weeks post-surgery but will not be acceptable for randomization more than  weeks post-surgery
+Patients must have eligibility confirmed by rapid central imaging review on APECB; standard whole brain magnetic resonance imaging (MRI) with and without contrast (gadolinium) and spine MRI with contrast (gadolinium) must be performed at the following time points:\r\n* Pre-operative to include an MRI of the brain with and without contrast (including post-contrast three-dimensional [D] T-weighted image [TWI] and post-contrast fluid-attenuated inversion recovery [FLAIR])\r\n* Pre-operative spinal MRI with gadolinium; post-operative staging spinal MRI may be obtained if pre-operative imaging is not possible or is suboptimal; pre-operative spine imaging is strongly preferred, due to the potential of post-operative sequelae, which could affect metastasis detection\r\n* Post-operative brain MRI within  hours of surgery
+GTR must be confirmed on post-operative imaging following the most recent surgery; submission of both pre-operative and post-operative MRIs is required for patients; if a second surgery is performed, submission of post-operative MRI is required and pre-operative MRI is required only if obtained; all sequences obtained in the pre- and post-operative MR imaging are to be submitted to National Radiology Group (NRG) Oncology for study registration; imaging subsequent to enrollment must include pre and post gadolinium contrast-enhanced three-dimensional spoiled gradient (SPGR), magnetization-prepared rapid gradient echo (MP-RAGE), or turbo field echo (TFE) MRI scan and an axial T fluid attenuated inversion recovery (FLAIR) sequence; to yield acceptable image quality, the gadolinium contrast-enhanced three-dimensional SPGR, MP-RAGE, or TFE axial MRI scan should use the smallest possible axial slice thickness not exceeding . mm; the post-operative MRI must be completed within sufficient time to permit step  registration within  days of the initial resection; these same conditions apply in the setting of a second surgical procedure, although if a second surgery is completed, step  registration must still occur with  days of initial surgery; computed tomography (CT) imaging is not required, but may be obtained if desired clinically, for instance to assess calcifications or hyperostosis
+Unresolved post-surgical complications (eg, significant infection) with healing difficulties
+Patients having undergone recent resection of recurrent or progressive tumor will be eligible as long as all of the following conditions apply: \r\n* They have recovered from the effects of surgery\r\n* A minimum of  days have elapsed from the day of surgery to the day of registration step ; for core or needle biopsy, a minimum of  days must have elapsed prior to registration step \r\n* Residual disease following resection of recurrent ependymoma is not mandated for eligibility into the study; to best assess the extent of residual disease post-operatively, a CT/ MRI should be done no later than  hours in the immediate post-operative period or at least  weeks post-operatively, within  days prior to consent; if the \within -hour after surgery\ scan is more than  days before consent, the scan needs to be repeated; if the steroid dose is increased between the date of imaging and consent, a new baseline MRI/CT is required on a stable steroid dosage for at least  days
+Planning to receive or have received autologous stem cell transplantation (ACST) per institutional standards as part of standard of care\r\n* Pre-ASCT participants may consent but will not be eligible to begin treatment until after ASCT, and will have to fulfill all inclusion and exclusion criteria before starting protocol\r\n* All participants must initiate day  of protocol therapy within - days post stem cell reinfusion; study PI can grant exception for a patient to start as late as  days post stem cell reinfusion with a reasonable justification for a delay (e.g. recovery from post -ASCT toxicity) and this will not be a protocol deviation, nor require an exception to be filled
+Post-ASCT anti-lymphoma or investigational therapy; immediate post-ASCT consolidative radiation therapy is allowed as long as it occurs prior to initiation of study therapy; baseline imaging and pulmonary function tests (PFTs) must be performed after completion of radiation
+Disease suitable for assessment by pre- and post-biopsies
+Patients who have already started or received post-transplant maintenance or consolidation regimen
+Post randomization exclusion will occur if the patient is found to have unresectable disease at laparotomy and therefore will not have the potential for the same post-operative complications
+Clinically significant surgical intervention within  days of the first dose of the IMP or with ongoing post-operative complications if more than  days.
+FOR PATIENTS ENROLLED IN THE EXPANSION COHORT: willingness to undergo mandatory biopsies (day -, approximately  hours post end of irinotecan infusion and day , approximately  hours post end of irinotecan infusion [=  hours post end of VX-]); patients enrolled to this cohort should have tumors deemed easily accessible for biopsies with low likelihood of complication
+Male patients, even if surgically sterilized (i.e., status post-vasectomy), who:
+Relapse of the underlying cancer or post-transplant lymphoproliferative disease at the time of screening.
+A diagnosis of post-transplant lymphoproliferative disease (PTLD)
+Status post  or more unmatched systemic therapy regimens for enrollment to group 
+At least  weeks post-surgery prior to first dosing of study agent
+Post exploratory thoracotomy must be done >  weeks prior to study registration or patient did not have post exploratory thoracotomy.
+Patients post hysterectomy and free from residual disease
+Bladder post-void residual volume (PVR) of > mL.
+Has residual thrombus post nephrectomy in the vena renalis or vena cava.
+Acute radiation dermatitis, unhealed surgical scar, unhealed or open wound(s), surgical flap less than - weeks post-operative.
+Pregnant women; if patients are not status post bilateral salpingo-oopherectomy then pregnancy testing is required
+Morphological or cytological features of myelodysplasia and/or post-chemotherapy aplasia on BM assessment;
+Patient may not have received definitive salvage therapy for their post-transplant relapse; use of hydroxyurea is permitted
+At least one RAI-avid lesion identified on the most recent radioiodine scan (a diagnostic, post-therapy, or post-ablation scan) prior to study registration; (both RAI-sensitive and RAI-refractory patients are eligible if at least one tumor with RAI avidity of any degree can be identified within these parameters)
+Treatment plan that includes post-transplant maintenance therapy
+Pathology must be a GBM, MGMT promoter region determined to be unmethylated and IDH wild type; >= % resection of contrast enhanced tumor on post operative MRI is required for randomization, otherwise treatment will occur on the ancillary arm
+Patients should agree to serial liver metastases biopsy pre-treatment, post-radioembolization, and post-combination immunotherapy
+Definitive cancer surgery is expected to be performed <  days or more than  weeks post study enrollment as determined by the enrolling physician
+At least  weeks post-completion of chemotherapy
+Phase II mandatory pre-treatment and post-treatment fresh biopsies to determine PD-L and EGFR expression and other biomarkers
+Patients having undergone recent resection of recurrent or progressive tumor will be eligible given all of the following conditions apply:\r\n* At least  weeks ( days) have elapsed from the date of surgery and the patients have recovered from the effects of surgery\r\n* Evaluable or measurable disease following resection of recurrent malignant glioma is not mandated for eligibility into the study\r\n* To best assess the extent of residual disease post-operatively, a magnetic resonance imaging (MRI) should be done no later than  hours in the immediate post-operative period or at least within  weeks post-operatively, within  days prior to registration; if the -hour scan is more than  days before registration, the scan needs to be repeated; the patient must have been on a stable steroid dose for at least  days prior to the baseline MRI; steroids may be initiated as clinically indicated once baseline imaging has been completed with a goal of titrating steroids as soon as clinically warranted
+Must consent to study-specific biopsies at two separate timepoints: pre-treatment (Screening) and post-treatment (Day  or EOS).
+Complete recovery from surgery and standard post-operative therapy (if applicable) at the time of randomization.
+Pre-operative or post-operative or planned radiation therapy for the current lung cancer
+One or more evaluable or measurable lesions that have progressed based on RECIST ., within  months of  iodine therapy, despite demonstration of radioiodine avidity at the time of that treatment by pre- or post-treatment scanning. These participants must not be eligible for possible curative surgery; or
+Time to initiation of maintenance therapy: patients may start maintenance therapy as early as  days post-transplant and up to  days post-transplant; as long as they meet the following criteria:
+Prior brain surgery is allowed, although a lesion situated in the operative bed would not be selected to receive an experimental dose of SRS treatment; SRS should be delivered - weeks post-surgery if the patient had a craniotomy for resection of a lesion; enrollment of a patient with the goal of performing SRS outside of the - post-craniotomy window is at the principal investigator (PI)s discretion
+Patients who have already started or received multi-drug consolidation regimen post-transplant expect for patients receiving up to  months of single agent  lenalidomide maintenance
+Patients must agree to pre- and post-treatment biopsies
+Must be at least  weeks post-operative
+At least  weeks post-surgery, and must be at least  months post-radiation therapy, with resolution of related toxicities
+Patients must be entered no more than  weeks post operatively
+Infants with post-menstrual age (PMA) < weeks
+Patients having undergone recent resection of recurrent or progressive tumor will be eligible as long as all of the following conditions apply:\r\n* They have recovered from the effects of surgery and be >  weeks from surgery\r\n* Residual disease following resection of recurrent malignant glioma is not mandated for eligibility into the study; to best assess the extent of residual disease post-operatively, a CT/ MRI should be done no later than  hours in the immediate post-operative period or at least  weeks post-operatively, within  days prior to registration; if the -hour scan is more than  days before registration, the scan needs to be repeated; if the steroid dose is increased between the date of imaging and registration, a new baseline MRI/CT is required on a stable steroid dosage for at least  days
+Patients are eligible to start on this protocol if they are between  months to  months post transplant
+RAI-avid lesion on a radioiodine scan (a diagnostic, post-therapy, or post-ablation scans) performed =<  months prior to registration, which suggests that therapy with I is justifiable in the judgment of the investigator
+Absence of residual or disseminated disease as defined by the following criteria:\r\n* Minimal residual disease as determined by post-operative imaging preferably performed within  hours of resection (and at most  days post-surgery), i.e. gross total resection or residual disease of < . cm^ on post-operative imaging
+Diagnostic imaging (pre and post contrast) must be forwarded to Dana-Farber Cancer Institute (DFCI) for central review to confirm eligibility
+Participants for whom chemotherapy or intraoperative or post-operative radiation therapy is planned as part of the overall primary tumor treatment
+Patients must be entered no more than  weeks post operatively
+Planned to receive either primary or post-operative CRT
+Patients who receive post-transplant high dose cyclophosphamide
+Bladder post-void residual volume of > mL.
+All post-menarchal females must have a negative beta-HCG
+Part  patients must have recovered from the immediate post-operative period
+Patients must have recovered from the immediate post-operative period
+Patients who are less than  weeks post-operative (op) after major surgery
+A pre-operative magnetic resonance imaging (MRI) scan of the brain with and without contrast is required; NOTE: computed tomography (CT) scans are NOT sufficient for study eligibility\r\n* Post-operative head MRI scan with and without contrast (preferably within  hours post-surgery); for patients who undergo stereotactic biopsy only, either a pre or post-operative MRI is sufficient; for patients with M and M disease, a post-op MRI is strongly encouraged, but not mandatory\r\n* Spinal MRI imaging with and without gadolinium is required within  days of surgery if done pre-operatively or within  days of surgery if done post-operatively; for posterior fossa tumors, pre-operative MRI scans are preferred
+Patients with post-obstructive pneumonia are eligible provided they no longer require intravenous antibiotics at registration
+Post-transplant lymphoproliferative diseases (often referred to as Epstein-Barr virus [EBV]-associated lymphomas)
+FOR COHORT A ONLY: high-dose chemotherapy and AHCT must be planned; post-transplant maintenance therapy will not be permitted
+- days post ASCT for non-Hodgkins lymphoma
+Residual invasive disease post-neoadjuvant either in the breast or as residual nodal invasion.
+Post Void Residual (PVR) bladder volume >  mL
+Post resection serum cancer antigen (CA)- =<  units/mL AND prior to any systemic treatment
+SECOND COURSE PHASE (RETREATMENT PERIOD FOR POST-COMPLETE RESPONSE RELAPSE ONLY)
+Confirmed diagnosis of PMF or post-PV/ET MF
+Patients must be between - months post-transplantation at the time of study registration
+Post surgery:\r\n* Must be a minimum of  days from surgery before treatment may be initiated\r\n* Craniotomy site must be adequately healed and free of drainage or cellulitis, and the underlying cranioplasty must appear intact at the time of registration\r\n* Post tumor resection, all patients must have a post-operative magnetic resonance imaging (MRI) done no more than  hours after surgery; if post-op MRI was not completed within this time frame, a MRI must be completed >  weeks (+/-  days) after surgery, but before initiation of radiation treatment in order for an accurate assessment to be done post-radiation
+Must have not received post-ASCT consolidation therapy.
+Confirmed diagnosis of PMF in accordance, or Post-PV/ET MF
+Patients having undergone recent resection of recurrent or progressive tumor will be eligible as long as all of the following conditions apply:\r\n* They have recovered from the effects of surgery and be >  days from surgery\r\n* Residual disease following resection of recurrent GBM or GS is not mandated for eligibility into the study; to best assess the extent of residual disease post-operatively, a CT/ MRI should be done no later than  hours in the immediate post-operative period or at least  weeks post-operatively, within  days prior to registration; if the -hour scan is more than  days before registration, the scan needs to be repeated; if the steroid dose is increased between the date of imaging and registration, a new baseline MRI/CT is required on a stable steroid dosage for at least  days
+Patients must be at least  days post immunosuppressants prior to enrollment
+Immune suppression; planned post-transplant immune suppression should include tacrolimus or cyclosporin monotherapy (i.e., calcineurin inhibitor or CN) for alemtuzumab regimens and a second immune suppressant for ATG treated patients; other agents may be used if CN intolerance or toxicity occurs post-transplant
+ELIGIBILITY TO RECEIVE DLI POST-TRANSPLANT:
+Patients having undergone recent resection of their glioblastoma (within  weeks prior to registration) must have recovered from the effects of surgery; for CNS related core or needle biopsies, a minimum of  days must have elapsed prior to registration\r\n* Residual disease following resection of recurrent glioblastoma is not mandated for eligibility into the study; to best assess the extent of residual disease post-operatively, a post-operative or intra-operative MRI scan (or CT scan for patients with non-compatible devices) must be performed prior to registration and should be within  hours post surgery (although  hours would be optimum)
+Time to initiation of maintenance therapy; patients may start maintenance therapy as early as  days post-transplant and up to  days post-transplant; as long as they meet the following criteria:
+Lack of care-giver for the early (-day) post-transplant period
+Participants need not have measurable disease; lesion may be primary or recurrent after prior surgery; patient tumor status:\r\n* Status post biopsy only and no further surgery planned\r\n* Status post resection with gross residual disease\r\n* Status post grossly complete resection but with margins positive or close (=<  mm)\r\n* Status post biopsy and patient to have additional surgery and radiation
+Concurrent investigational therapy delivered over the period of treatment or observation ( days post-RT) for dose limiting toxicity
+Major surgical procedure or any radiation therapy within  weeks of treatment, minimum rest period is  days post surgery; maximum rest period  days post surgery
+Negative post-lumpectomy mammography if malignancy-associated microcalcifications were initially present
+PRIOR TO POST-TRANSPLANT IMMUNOTHERAPY (COHORT ): Able to produce at least  doses of fusion vaccine to be considered evaluable; patients who are unable to produce at least  doses of fusion vaccine, but otherwise meet eligibility criteria for post-transplant immunotherapy, will be treated with pidilizumab (MDV) alone and will be replaced
+MRD will be defined as detection in blood or marrow of:\r\n* Any leukemia specific marker (such as t[:] or t[:]) documented in the patients leukemia cells pre transplant on a post-transplant evaluation\r\n* A T-cell receptor (TCR) or immune globulin rearrangement known to be a disease marker for this patient post-transplant\r\n* A leukemia specific phenotype post-transplant at a level of >= .%\r\n* Mixed donor chimerism; OR\r\n* With no evidence of ALL or CLL/NHL post-HSCT (to be included in the phase II extension)
+Patients who have undergone recent resection of recurrent or progressive tumor will be eligible as long as they have recovered from the effects of surgery. Evaluable or measurable disease following resection of recurrent tumor is not mandated for eligibility into the study. To best assess the extent of residual measurable disease post-operatively, a MRI should be done no later than  hours in the immediate post-operative period or - weeks post-operatively.
+I.N.R. > . pre-operatively or > . post-operatively
+Platelet count < , either pre-operatively or post-operatively
+Pre- or post-operative radiotherapy
+For Post-allo Part B: Treatment must begin at least  days, but no more than  days post-transplant.
+For Post-allo Part B:History of veno-occlusive disease requiring defibrotide
+Relapsed within three months post-transplant
+Result from a post-operative contrast-enhanced brain MRI within  hours after surgery or biopsy.
+Post-transplant lymphoproliferative disorder
+Epstein-Barr virus (EBV) post-transplant lymphoproliferative disorder
+History of the following therapies in the post-transplant period:
+Diagnosis of PMF or Post PV/ET-MF
+For all subjects, prior post-operative adjuvant administration of anti-HER therapy is permissible.
+AST and ALT <  x ULN AND decreasing at two timepoints if patient is status/post (s/p) biliary stenting
+have stable neurologic status post administration of local therapy (surgery or radiation) for a minimum of  weeks following completion of the definitive therapy.
+Residual disease following resection of recurrent tumor is not mandated for eligibility into the study. To best assess the extent of residual disease post-operatively, an MRI should be performed:
+No later than  hours (h) in the immediate post-operative period; or
+Placement of an intraperitoneal port at the time of surgery for anticipated use for adjuvant chemotherapy or management of post-operative ascites
+Patients will be eligible to enter the study between - days post-transplant
+Must have recovered from the immediate post-operative period
+Residual disease following resection of recurrent tumor is not mandated for eligibility into the study; to best assess the extent of residual disease post-operatively, an MRI should be done no later than  hours in the immediate postoperative period or at least  weeks postoperatively, within  days prior to registration; if the \within -hour of surgery\ scan is more than  days before registration, the scan needs to be repeated
+Post-operative MRI within  hours of surgical resection
+FCBP must agree to regular pregnancy testing during this timeframe; inclusion of FCBP requires two negative pregnancy tests prior to enrollment\r\n* Note: all women, regardless of age, should be considered FCBP unless they are surgically sterile (post hysterectomy, post bilateral oophorectomy, etc) or have been naturally post menopausal for >=  consecutive months
+Patients having undergone recent resection of recurrent or progressive tumor will be eligible as long as all of the following conditions apply:\r\n* They are >  weeks from surgery\r\n* They have recovered from the effects of surgery\r\n* Evaluable or measurable disease following resection of recurrent tumor is mandated for eligibility into the study\r\n* To best assess the extent of residual disease post-operatively, an enhanced CT/MRI should be done no later than  hours after surgery or it will need to be done - weeks post-operatively; if the  hour scan is more than  weeks from registration, the scan needs to be repeated
+Availability of subject to be observed for up to  months post-screening evaluation
+Has the ability to stop anticoagulant and anti-platelet therapy for seven days prior to and seven days post procedure,
+Post-operative MRI imaging with contrast is mandatory obtained for radiation therapy planning and must be  days prior to the start of radiation therapy; enrolling sites are not mandated although highly encouraged to obtain thin-slice (< . mm)  dimensional (D) axial T/FLAIR and T pre and post contrast sequences for planning purposes
+Plans for moving to a new home or workplace during, pre-, or post-intervention period
+Elective surgery anticipated during, pre-, or post-intervention period (e.g., breast reconstruction)
+CHILD: Child has completed cancer treatment and is up to  years post-treatment
+Laboratory results within  days prior to anticipated initiation of the first post randomization PLT transfusion:
+>=  months post active treatment
+Residual disease of recurrent glioblastoma is not mandated for eligibility into the study. To best assess the extent of residual disease post-operatively, a post-operative MRI scan must be performed prior to registration and is recommended to be within  hours post-surgery (although - hours would be optimum). Note: Patients who did have surgery with a post-operative contrast-enhanced scan falling outside the -week window prior to registration, must have a repeat MRI scan within  days prior to registration.
+A minimum of  months post-surgical resection or biopsy (if applicable) and/or a minimum  month post radiation treatment (if applicable)
+Patient has not completed a Physician Orders for Scope of Treatment (POST) form
+Within  years post-treatment completion for lymphoma
+Plan for post operative radiation therapy
+Phase I: From  months post-surgical treatment
+Will also include, as a control, sickle cell patients being admitted for an elective procedure and post-operative surgery patients admitted after elective procedures
+Patients that are between - years post treatment
+Will be two weeks post-breast conserving surgery or three weeks post-breast conserving surgery with sentinel lymph node biopsy or four weeks post-mastectomy at the start of participation
+As per medical record, =<  months post-RP
+=<  days post diagnosis of a solid tumor or lymphoma
+Greater than -months post diagnosis
+Post HNC primary treatment
+In early survivorship phase, defined as being post-surgery to ending of active treatment to  months post active treatment for stage - breast cancer (BCA)
+ months post-treatment completion
+Patients proposed post-operative treatment plan must include standard focal brain irradiation and temozolomide
+Operative time >  hours
+Six to  months post treatment
+Not able to travel to UCSF for the pre- and post-study blood collection
+PATIENT: Not have completed a Physician Orders for Scope of Treatment (POST) form
+ months post treatment
+ months   years status post surgery, radiation and chemotherapy
+Bladder Post-Void Residual Volume (PVR) of > -mL.
+Prior chemotherapy treatment, including radio-sensitization in pre- and post-operative settings
+Patients who are status post revascularization procedures with satisfactory cardiac function are eligible
+Planned use of an epidural for surgery for post-operative pain relief
+Those unwilling to participate in the follow-up call  months post-surgery
+The subject agrees to follow-up examinations out to  months post-treatment
+Post HNC primary treatment
+Receiving definitive or post-operative adjuvant radiotherapy
+Planned course of definitive or post-operative radiotherapy (RT) to a total dose of ?  Gy using . to . Gy per fraction
+Note: Post-surgical patients should proceed to registration immediately following preregistration
+Evidence of hematologic malignancy or disease relapse post-transplant (stable mixed chimerisms is permitted)
+FOR THE  SUBJECTS ENROLLED IN YEAR : Evidence of hematologic malignancy or disease relapse post-transplant (stable mixed chimerisms is permitted)
+Evidence of hematologic malignancy or disease relapse post-transplant (stable mixed chimerisms are permitted)
+Received post-transplant cyclophosphamide
+Anti-thymocyte globulin, alemtuzumab, bortezomib, or post-transplant cyclophosphamide as part of GVHD prophylaxis
+Patients with steroid refractory cGVHD cannot have history of the following therapies at any time in the post-transplant period: B-cell depleting biologic agents within the past  months, BTK/SYK/JAK/PIK inhibitors within the past  weeks, CD chimeric antigen receptor (CAR) T-cell therapies at any time post-transplant
+PILOTS I, II AND III: Less than  months post-surgery
+Willingness to return to the enrolling site for any surgical procedures including pre-operative and post-operative care
+Between - years post completion of chemotherapy
+Patient must be cleared for bevacizumab administration with respect to any recent surgeries, and post-surgical scans must confirm the presence of measurable residual disease
+Subjects must be enrolled before starting chemoradiation, either pre -or post-surgery
+Patient can be reliably reached for post-MRI follow up adverse event (AE) check
+Pre-operative adult (>  years of age) patients with biopsy proven (as opposed to being status post definitive surgical therapy) or highly suspected glioblastoma of the brain
+Patients, whose MRI at post operative - hours are not readable due to artifacts or disease process shall not be included in the study
+Radiographic diagnosis: Patients must have a brain tumor (including, but not limited to high grade gliomas, low-grade gliomas, primitive neuroectodermal tumors, ependymomas) or residual abnormality (e.g. post-operatively or post-radiation) that is measurable or evaluable on standard MRI or computed tomography (CT)
+Patients will be eligible for this study regardless of prior treatment, as long as they meet other eligibility criteria; therefore, patients who are newly diagnosed, post-operative, post-radiation or post-chemotherapy are eligible
+Women matched to age with our  post-cancer treatment participants
+The patient agrees to follow-up examinations out to -years post-treatment
+No treatment affecting the status of liver between MRI/MRE and post-imaging biopsy
+Post treatment subjects will have radiographic abnormalities that may or may not be recurrent tumor
+ARM II ONLY: For patients status post radiation therapy for prostate cancer, any PSA increase from post radiation therapy nadir OR
+No active bleeding in the post-operative period
+Subjects must have at least  tumor site that can be biopsied at acceptable clinical risk and must consent to pre- and post-treatment biopsies
+Post-intervention:  patient records receiving care beginning six months post training are subject to review; the first  records with a diagnoses of head and neck, lung, prostate, or breast will be utilized
+Males have undergone sterilization with appropriately confirmed absence of sperm in the post-vasectomy ejaculate, or

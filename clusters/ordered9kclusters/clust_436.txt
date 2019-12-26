@@ -1,0 +1,91 @@
+Operable invasive breast cancer
+Invasive lobular cancer
+Concurrent diagnosis of invasive or microinvasive breast cancer in either breast
+Subjects must have histologically confirmed invasive breast cancer and registration must occur within 12 months after the first histologic diagnosis of invasive breast cancer\r\n* A core biopsy interpreted as invasive cancer meets this criterion; if no core biopsy is performed, the date of first histologic diagnosis will be the date of first surgical procedure that identifies invasive cancer (biopsy, lumpectomy or mastectomy)\r\n* Neoadjuvant subjects should have no evidence of clinical T4 disease prior to chemotherapy and surgery; eligibility for neoadjuvant patients can be defined by either clinical stage prior to therapy or pathologic stage at surgery; if patient is eligible based on either, they are eligible for the study\r\n* Bilateral breast carcinoma is allowed provided either:\r\n** Diagnoses are synchronous – that is, within 3 months of one another – and at least one of the two breast carcinomas meet the eligibility criteria and neither is Her-2 positive or inflammatory; OR\r\n** The contralateral breast cancer was at least 5 years prior to the current diagnosis\r\n* No evidence of metastatic disease
+Patients must not have metastatic breast cancer (stage IV disease); patients with multifocal, multicentric, and synchronous bilateral, and primary inflammatory breast cancers are allowed\r\n* Multifocal disease is defined as more than one invasive cancer < 2 cm from the largest lesion within the same breast quadrant\r\n* Multicentric disease is defined as more than one invasive cancer >= 2 cm from the largest lesion within the same breast quadrant or more than one lesion in different quadrants\r\n* Synchronous bilateral disease is defined as invasive breast cancer with positive lymph nodes (axillary or intramammary) in at least one breast, diagnosed within 30 days of each other; (NOTE: the tumor with the highest recurrence score should be used)
+Post neoadjuvant chemotherapy, patients must be found to have residual invasive cancer in the breast at the time of definitive surgery; residual cancer is defined as a contiguous focus of residual invasive cancer, in the breast, measuring >= 1 cm in diameter, and with more than minimal cellularity, as per local pathologist determination; please note that in patients that have multifocal or multicentric residual tumors these lesions cannot be added up; the biggest lesion has to measure >= 1 cm in diameter; this is required due to constraints in deoxyribonucleic acid (DNA) extraction for PAM50 analysis\r\n* NOTE: The presence of ductal carcinoma in situ (DCIS) without invasion does not qualify as residual invasive disease in the breast\r\n* NOTE: Despite lymph node involvement if residual invasive cancer in the breast is < 1 cm in diameter patients are not eligible for participation
+No history of TNBC invasive breast cancer within 5 years of enrollment, no concurrent malignancies of any sort
+All patients must be diagnosed with invasive breast cancer
+Histologically confirmed invasive lobular breast cancer, that is hormone receptor-positive and HER2-negative, measuring at least 1 centimeter (cm) radiographically or clinically, clinical stages I-III; invasive lobular histology will be diagnosed at the enrolling institution for purposes of study participation; subsequently, invasive lobular histology will be confirmed by central pathology review, but this central review will not be required prior to patient enrollment
+Prior chemotherapy or radiation therapy for invasive breast cancer within 6 months before registration
+Prior investigational drugs or interventions for invasive breast cancer treatment within 6 months before registration are not allowed; prior participation in window-of-opportunity trials without therapeutic intent is allowed if intervention is no more than 3 weeks in duration
+Prior history of invasive breast cancer
+Have had or are planning to have the following invasive procedures:
+Histologic or clinical evidence of invasive breast cancer
+Patients with any active invasive cancer are not eligible
+No prior systemic therapy or radiotherapy for currently-diagnosed invasive or noninvasive breast cancer
+Prior systemic therapy for invasive or non-invasive (DCIS) breast cancer
+Bilateral invasive breast cancer
+Has invasive breast cancer; this does not include microinvasion
+No prior history of an invasive breast cancer
+Synchronous bilateral invasive or non-invasive breast cancer
+Scheduled to undergo non-nipple sparing mastectomy for Invasive Breast Cancer or DCIS within 1 month
+Any suspicion for invasive cancer
+Second invasive melanoma
+Synchronous bilateral invasive or non-invasive breast cancer
+Have had or are planning to have the following invasive procedures:
+Biopsy confirmed multifocal, multicentric, or contralateral disease that is invasive or non-invasive
+Histologic or cytologic confirmation of invasive breast cancer that is HER2-negative by standard clinical criteria
+Patients with core breast biopsy that, on pathology review, demonstrates invasive breast cancer and are determined to need surgical excision of the lesion; all subtypes of invasive breast cancer will be enrolled; core biopsy specimens of enrolled patients will be stained for RET by immunohistochemistry and scored, however, patients will not be excluded according to RET expression
+Prior history of DCIS or invasive breast cancer
+Synchronous bilateral invasive or non-invasive breast cancer
+Synchronous bilateral invasive breast cancer
+Known invasive breast cancer of any type
+Patients with multifocal, multicentric and synchronous bilateral breast cancers are allowed\r\n* Multifocal disease is defined as more than one invasive cancer < 2 cm from the largest lesion within the same breast quadrant; (NOTE: the Oncotype DX testing must be completed on the largest lesion)\r\n* Multicentric disease is defined as more than one invasive cancer >= 2 cm from the largest lesion within the same breast quadrant or more than one lesion in different quadrants (NOTE: Oncotype DX testing should be completed on all tumors and the determination for eligibility should be made on the highest recurrence score)\r\n* Synchronous bilateral disease is defined as invasive breast cancer with positive lymph nodes (axillary or intramammary) in at least one breast, diagnosed within 30 days of each other; (NOTE: the Oncotype DX testing should be completed on both tumors and the tumor with the highest recurrence score should be used)
+Note that patients with (i) non-invasive breast cancer (DCIS) alone, (ii) incidental (microscopic) nodal cancer without a primary tumor (pN1mi), or (iii) metastatic disease are excluded.
+No prior history of non-breast invasive malignancies in the past 1 year
+History of invasive breast cancer prior to the current diagnosis
+Patients with multifocal, multicentric and synchronous bilateral breast cancers are allowed:\r\n* Multifocal disease is defined as more than one invasive cancer < 2 cm from the largest lesion within the same breast quadrant\r\n* Multicentric disease is defined as more than one invasive cancer >= 2 cm from the largest lesion within the same breast quadrant or more than one lesion in different quadrants\r\n* Synchronous bilateral disease is defined as invasive breast cancer in both breasts, diagnosed within 30 days of each other
+Patients with a history of previous invasive breast cancer
+Any stage invasive breast cancer provided the primary breast tumor size is >= 1 cm
+History of another “active” invasive primary cancer requiring ongoing treatment
+The participant has confirmed HR+, HER2-, early stage resected invasive breast cancer without evidence of distant metastases.
+For patients with invasive breast cancer, pathologic N stage of N0, N0 (i-), or N0 (i+); pathologic staging of the axilla is not required for patients with pure DCIS
+History of prior invasive or in situ cancer in either breast
+Women with non-invasive disease or microinvasion are not eligible
+Participants must have a confirmed or suspected invasive or non-invasive bladder tumor (initial or recurrent) discovered on cystoscopy or radiologic imaging performed within 120 days of randomization
+Initial core biopsy showing invasive lobular cancer
+EGFR GERMLINE MUTATION TESTING: One of the following criteria:\r\n* Personal history of invasive lung cancer or one of the pre-invasive histologies associated with the development of lung cancer (adenocarcinoma in situ [AIS], minimally invasive adenocarcinomas [MIA] or atypical adenomatous hyperplasia [AAH]) and more than two affected family members with invasive lung cancer or one of the pre-invasive histologies associated with the development of lung cancer; OR\r\n* First-degree relatives of an individual enrolled in the study with a known EGFR germline mutation
+Any prior treatment for the current primary invasive breast cancer
+Bilateral invasive breast cancer
+Bilateral invasive breast cancer.
+Prior systemic therapy or radiotherapy for invasive or non-invasive breast cancer in the same breast as currently being treated.
+Any prior treatment for primary invasive breast cancer
+Bilateral invasive, multicentric, or metastatic breast cancer
+Use of minimally invasive surgery.
+History of invasive breast cancer
+Breast cancer for which patient is receiving endocrine therapy must have been histologically-proven stage I-III, endocrine-responsive (i.e., estrogen and/or progesterone receptor positive, according to local definition of positive, determined using immunohistochemistry [IHC]), and treated with curative intent\r\n* Note:\r\n** Patients with synchronous bilateral invasive breast cancer (diagnosed histologically within 2 months) are eligible\r\n** Patient with invasive breast cancer or synchronous bilateral invasive breast cancer (diagnosed histologically within 2 months) during pregnancy are eligible\r\n** Patients with breast cancer 1/2, early onset (BRCA1/2) mutations are eligible\r\n** Patients could have received neo/adjuvant chemotherapy, or other systemic therapy (e.g., neo/adjuvant human epidermal growth factor receptor 2 [HER2]-targeted therapy) according to institutional policy and patient’s desire
+Ever had a diagnosis of invasive or microinvasive breast cancer
+Diagnosis of any invasive gynecologic cancer without evidence of disease
+Elective minimally invasive operation
+The patient must have a diagnosis of an invasive or non-invasive breast cancer that was treated surgically by a partial mastectomy
+Surgical margins are negative for invasive or non-invasive breast cancer
+Diagnosed with operable invasive cancer
+No history of invasive cervical cancer
+Invasive breast cancer; areas of microinvasion or suspicious for microinvasion on the core biopsy is allowed
+No evidence of disease (in situ or invasive cancer that would normally be treated by resection) at trial entry as determined by the investigator; diagnosis of invasive cancer must be at least 5 years prior to initiation on trial
+Any current invasive cancer diagnosis
+Invasive cancer diagnosis within five years, excluding squamous or basal cell skin cancer; subjects with DCIS or stage I invasive cancer are eligible if they are at least 2 months from radiation or surgery and at least 1 year (yr) from chemotherapy or hormone therapy; RPFNA will be performed on the contralateral breast only in these instances
+Prior colon cancer (>= 3 years out from invasive cancer)
+Diagnosed with a first primary invasive ER+ breast cancer (stages I-IIIa)
+Prior excisional biopsy of the primary invasive breast cancer
+Subject has invasive lobular cancer
+Patients may be registered AFTER surgery and PRIOR TO radiation therapy if either of the criteria is met:\r\n* An area of atypia > 2 cm from the index lesion excised at the time of cancer operation is upgraded to DCIS or invasive carcinoma thereby identifying MIBC OR\r\n* Patient underwent resection of two or three foci of malignancy by breast conservation surgery with a minimum of one invasive focus of breast cancer and a minimum of 2 cm of normal breast tissue between the lesions on final pathology
+Prior or current LCIS, DCIS or invasive breast cancer in the opposite breast (i.e., bilateral disease is not allowed)
+No evidence of disease (in situ or invasive cancer that would normally be treated by resection) at trial entry as determined by the investigator
+Participants must have adequate accessible breast tissue as determined by the treating physician, consisting of one breast unaffected by invasive cancer, which has not been radiated; a history of prior pre-invasive breast cancer or benign biopsy of this breast will be permitted
+Post-menopausal woman with a diagnosis of invasive breast cancer (T1-3,pN0-2,M0) for which definitive surgery was performed during the previous 36 months.
+Pathological diagnosis of invasive adenocarcinoma of the breast
+Patients undergoing a partial mastectomy OR mastectomy for the treatment of an invasive or non-invasive breast malignancy
+Have been diagnosed with a HER2+ invasive cancer of the breast
+Patient has concurrent invasive bilateral breast malignancies or multicentric disease
+Patient is scheduled for brain surgery and/or another invasive procedure within the time period of one month prior to 18F-FSPG administration. Minimally invasive needle biopsies are allowed.
+Patients diagnosed with unilateral DCIS or invasive breast cancer
+Patients with invasive, inflammatory breast cancer or distant metastases will be excluded from participating in this study
+Patient must have a histologic diagnosis of invasive breast cancer
+Prior invasive breast cancer, prior mastectomy or breast radiation within 12 months
+Newly diagnosed primary breast cancer prior to initial definitive surgical treatment, including in situ and invasive cancer, stages 0 – III; pathologic confirmation of diagnosis is required
+PHASE II: Women with a history of breast cancer (invasive and non-invasive) and those diagnosed with Paget’s disease, inflammatory breast cancer or a phyllodes tumor
+Diagnosis of invasive breast cancer
+Diagnosed with invasive adenocarcinoma, or DCIS for which a SLNB is the recommended standard of care, or breast cancer with all of the following conditions met:
+Confirmed current or past diagnosis of invasive breast cancer

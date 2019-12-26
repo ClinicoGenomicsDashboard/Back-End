@@ -1,0 +1,12 @@
+Patients must have a Karnofsky performance status >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+36.0
+Patients must have a Karnofsky performance status >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+40.0
+Patients must have a Karnofsky performance status >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+23.0
+Patients must have a Karnofsky performance status (KPS) >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+75.0
+Patients must have a Karnofsky performance status >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+30.0
+Patients must have a Karnofsky performance status >= 60% (i.e. the patient must be able to care for himself/herself with occasional help from others)
+35.0

@@ -1,0 +1,24 @@
+Dose Expansion (Segment 2): 0 - 2
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Part I dose escalation: Participants are required to have measurable disease per RECIST 1.1 within 4 weeks of study entry
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Participants are permitted to have any number of prior therapies prior to enrollment
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Absolute neutrophil count >= 1,500 mm^3
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Hemoglobin >= 9 g/dL
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Platelets >= 100,000/mcL
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Total bilirubin =< 2 X institutional upper limit of normal (ULN)
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: AST (SGOT)/ALT (SGPT) =< 5.0 X ULN if hepatic metastases are present
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Creatinine =< 1.5 X the institutional ULN OR
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: MTD expansion: Patients must be willing to undergo pre- and on-treatment tumor biopsies; patients are exempt from this requirement if, in the opinion of the investigator, the biopsy procedure would pose a significant risk or if they have only pulmonary metastatic disease
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Patients must be able to take oral medications
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Corrected QT (QTc) =< 480 msec
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Participants receiving any other study agents concurrently with the study drugs
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: MTD expansion: Patients currently taking anticoagulants and who cannot safely hold the medication to facilitate pre and on-treatment tumor biopsies are excluded from participation
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Part I dose escalation: Concurrent use of proton-pump inhibitors (PPIs) is prohibited
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: History of QT syndrome, Brugada syndrome, known history of QTc prolongation, or Torsades de Pointes
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: History of Gilbert’s syndrome
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Patients planning to embark on a new strenuous exercise regimen after the first dose of study treatment
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: History of a malabsorption syndrome or uncontrolled nausea, vomiting, or diarrhea that may interfere with the absorption of oral study medication in the opinion of the investigator
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: History of retinal degenerative disease
+Dose Expansion: Cholangiocarcinoma
+For expansion part:
+Documented PIK3CA mutations in all patients in dose escalation and expansion with or without documented genetic alterations in FGFR depending upon dose expansion cohort (either local or central determination)
+For dose expansion participants who will have tumor biopsies collected:

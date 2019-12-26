@@ -1,0 +1,49 @@
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from electrocardiograms (ECGs) using Fridericias correction; abnormal ECGs should be repeated
+Symptomatic arrhythmia. If QTc greater than or equal to ms, confirmation of eligible QTc requires mean calculation from  additional electrocardiograms (ECGs) ? minutes apart using Fridericia's Correction Formula (mean less than  ms).
+Subject has a mean QT interval corrected for heart rate using Bazett's (QTcB) or Fridericia's (QTcF) correction ?  ms calculated from  consecutive -lead ECGs at Screening;
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias Correction
+Has a mean QT interval corrected for heart rate (QTc) ? ms calculated from  electrocardiograms (ECGs) using Fredericias Correction
+Mean QT interval corrected for heart rate (QTc) >=  ms using Fridericias correction.
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias Correction.
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from electrocardiograms (ECGs) using Bazetts correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias correction
+Mean QT interval corrected for heart rate using Fridericias formula (QTcF) >=  ms calculated from  electrocardiograms (ECGs) (within  minutes at  minutes apart)
+Known mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias correction. (Note that ECG is not required for study entry and is not part of study procedures)
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from a baseline electrocardiogram using Fridericias correction
+A single QT interval corrected for heart rate (QTc) >=  ms. If an electrocardiogram (ECG) is interpreted to be a prolonged QT interval,  additional ECGs will be obtained and the PI will then evaluate all three ECGs and determine whether the patient should be excluded. Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fredericias correction
+Mean QT interval corrected for heart rate (corrected QT interval [QTc]) >=  ms calculated from electrocardiogram (in triplicate, if applicable) using Fridericias correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias correction.
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericia's correction
+Mean QT interval corrected for heart rate (QTcF) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias Correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias Correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Frediricias correction
+Mean QT interval corrected for heart rate (corrected QT [QTc]) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from an electrocardiograms (ECGs) using Bazetts Correction; if first ECG is abnormal, then the mean will be calculated from  consecutive ECGs (taken - minutes apart); please contact the PI for further clarification
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Bazetts correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Bazetts correction; two electrocardiogram (EKGs)  minutes (+/-  min) apart is mandatory
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  consecutive electrocardiograms (EKGs) using Fridericias correction at baseline or before dosing
+Mean corrected QT interval (QTc) >  ms for males or >  msec for females calculated from  electrocardiograms (ECGs) using Fridericia's formula (within at least  minutes, at least  minutes apart)
+Mean QT interval corrected for heart rate (QTc) >/=  ms calculated from  electrocardiogram (ECGs) using Fredericias Correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from electrocardiogram (ECG) using Fridericias correction by manual read.
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Frediricias correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiography (ECG)s using Frediricias correction
+Mean QT interval corrected for heart rate (corrected QT [QTc]) >=  ms calculated from  electrocardiograms (ECGs) using Bazetts correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Bazett's formula
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias Correction
+Mean QT interval corrected for heart rate (corrected QT [QTc]) <  msec calculated from  electrocardiograms (ECGs) performed at least  minutes apart using Fridericias correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericia's correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericias correction
+Mean QT interval corrected for heart rate (corrected QT [QTc]) >=  ms calculated from  electrocardiograms (ECGs) using Fredericas Correction
+Mean QT interval corrected for heart rate (QTc) ? ms calculated from  electrocardiograms (ECGs) using Fridericia's Correction
+Mean QT interval corrected for heart rate (QTc) ? ms calculated from  electrocardiograms (ECGs) using Fridericia's Correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fridericia's correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from a single electrocardiogram or average from  electrocardiograms (ECGs) using Fridericia's correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs)
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fredericas correction
+Mean QT interval corrected for heart rate (QTc) >=  ms calculated from  electrocardiograms (ECGs) using Fredericias correction
+Mean QT interval corrected for heart rate (QTc) <  ms calculated from  electrocardiograms (ECGs) using Fridericia's correction
+Mean QT interval corrected for heart rate (corrected QT [QTc]) >=  ms calculated from  electrocardiograms (ECGs) using Fridericia's correction

@@ -1,0 +1,81 @@
+Patients with tumors with the following molecular alterations must submit testing results via Medidata Rave to determine eligibility to Arm T; the study chair, co-chair, biology co-chair, or a delegate must review the molecular testing and agree that the testing meets eligibility outlined below:\r\n* ROS gene rearrangement by fluorescence in situ hybridization (FISH) or deoxyribonucleic acid (DNA) analysis (may have progressed on prior crizotinib therapy)\r\n* MET exon  splice mutations on DNA analysis (may have progressed on prior crizotinib therapy)\r\n* MET high amplification by FISH or DNA analysis or other MET mutations predicted to be sensitive to MET inhibitor (no prior targeted therapy allowed)\r\n* RET gene rearrangement by FISH or DNA analysis (no prior targeted therapy allowed)\r\n** Institutions will be notified of the patients eligibility status for Arm T within two () business days of submission of the molecular testing reports\r\n** If patients do not have tumors with the above molecular alterations noted proceed directly to step 
+Patients who have met the pre-entry requirements
+Patients who have met the pre-entry requirements
+A patient cannot be considered eligible for this study unless ALL of the following conditions are met.
+Not previously received XL or another MET/HGF inhibitor (tivantinib or crizotinib); there are no limits on number of prior therapeutic regimens; patients who have been treated with prior VEGF pathway, or RET inhibitors (except XL) may be eligible
+Previous treatment with XL (cabozantinib) or another MET/HGF inhibitor (tivantinib, crizotinib)
+Surgery to the lesion in question is allowed if size criteria outlined above are met
+The subject has received cabozantinib or another c-Met inhibitor (please note ARQ  is not considered a MET inhibitor for purposes of this study)
+Participants enrolling to the MET cohort who have received treatment with a prior MET inhibitor must be able and willing to undergo a baseline tumor biopsy
+Participants enrolling to the MET cohort who have received a prior MET inhibitor may not be on anticoagulant therapy unless the investigator has deemed it safe to temporarily hold to facilitate the baseline tumor biopsy
+MET exon  skipping alteration or MET amplification (MET:CEP ratio >= .) by molecular testing (local testing is accepted for eligibility; all patients will have confirmation at Massachusetts General Hospital [MGH] but this result is not necessary for eligibility; local molecular pathology result will suffice); this testing can be from any archival or fresh sample
+The participant has received a prior c-Met inhibitor
+Patients who have previously been treated with another agent targeting the MUC/c-Met axis, including either monoclonal antibodies to MUC or c-Met, or small molecule inhibitors of c-Met
+Documented evidence of an ALK rearrangement (by fluorescence in situ hybridization [FISH], immunohistochemistry [IHC], or next generation sequencing [NGS]), ROS rearrangement (by FISH or NGS), or MET oncogene as defined by MET exon  skipping (NGS), MET YX mutation or MET gene fusion (NGS) in NSCLC tumor specimen by a Clinical Laboratory Improvement Act (CLIA)-approved laboratory
+For Phase a LY monotherapy or combination therapy, previous immunotherapy is acceptable if the following criteria are met:
+Subjects in whom treatment planning constraints cannot be met
+Subjects in whom treatment planning constraints cannot be met
+Patient has not met criteria for withdrawal from the base protocol
+Previous treatment with a c-MET inhibitor or HGF-targeting therapy (applies only to Group )
+There is no upper limit on the number of prior treatments provided all inclusion/exclusion criteria are met
+Patients may receive radiation alone if the above criteria is not met
+No more than  Brain Met can be treated under this protocol
+Patients who have met the pre-entry requirements
+Patients who have met the pre-entry requirements specified
+** Note: Evidence for MET mutation or amplification is defined as:\r\n*** Positive for c-Met amplification by FISH; or\r\n*** Positive for known c-Met kinase domain activating mutations including VL, HL, HY, HD, MT, TI, VL, LV, VI, MT, PS, TI, RC, VL, but excluding YC, YH, YD, and YD; or\r\n*** Chromosomal translocations that lead to altered transcriptional regulation of c-Met and/or hepatocyte growth factor (HGF) including metastatic alveolar soft part sarcoma, clear cell sarcoma, rhabdomyosarcoma, or translocation associated renal cell carcinoma)
+Patients must have met the pre-entry requirements as specified
+NSCLC patients must meet criteria for amplification of the MET gene locus, defined MET mutations, or rearrangements involving the AXL or MET gene locus or;
+Patients with tumor types such as HNSCC, papillary renal carcinoma, gastric adenocarcinoma, and other solid tumors must meet criteria for amplification of the MET gene locus, defined MET mutations, or rearrangements involving the AXL or MET gene locus
+Prior treatment with inhibitor of MET or HGF
+For the Monotherapy MET Amplified cohort only: MET amplification by prospective screening assay from peripheral blood; the amplification score must be strongly positive (++ or +++), which is defined as amplification present at a level that is observed in the upper th percentile of samples with amplifications
+Prior therapy criteria must be met
+Patients who have met the pre-entry requirements specified
+Indication for treatment consistent with IWCLL criteria, i.e. at least one of the following criteria should be met
+Prior treatment with a MET inhibitor or HGF targeting agent
+The following laboratory results must be met within  days of patient registration:
+Patients who have met the pre-entry requirements
+Previous treatment with a c-MET inhibitor or HGF-targeting therapy.
+Patients who have met the pre-entry requirements specified in Section .
+Prior treatment with other agents targeting the HGF/c-Met pathway
+Patients for whom the delivery of APBI is not feasible or any of the dosimetric treatment criteria have not been met
+A survivor of prior cancer is eligible provided that ALL of the following criteria are met and documented:
+Patients may not have received previous therapy with a MET inhibitor
+Prior treatment with c-Met inhibitors
+No prior MET inhibitor is allowed
+Patients who received previous therapy with PIK inhibitors or rapalogs will be allowed in the study if all other inclusion/exclusion criteria are met
+Prior therapy with a PDGFR or c-Met inhibitor
+Expansion cohort only for arms containing crizotinib: arm A (crizotinib plus pazopanib) and arm B (crizotinib plus pemetrexed) and arm D (crizotinib plus pazopanib plus pemetrexed) but not arm C (pazopanib plus pemetrexed); patients must have anaplastic lymphoma receptor tyrosine kinase (ALK) abnormality including: translocation, ALK amplification, mutation and overexpression as determined by fluorescence in situ hybridization (FISH), immunohistochemistry (IHC),quantitative real-time polymerase chain reaction (qPCR), quantitative reverse transcription (qRT)-PCR, array comparative genomic hybridization or direct sequencing (aCGH); or patients must have a macrophage stimulating  receptor (c-met-related tyrosine kinase) (c-Met) abnormality, either c-Met amplification or c-Met mutation or patients must have the c-ros oncogene , receptor tyrosine kinase (ROS) translocation as determined by FISH
+Treatment of any bone lesion is permissible if it is anticipated that the dosimetry guidelines can be met
+Patients with locally recurrent sarcoma after surgery alone are eligible for enrollment if other inclusion criteria are met.
+Confirmation of MET-driven PRCC without co-occurring Fumarate Hydratase or Von Hippel Lindau mutations from a tumour sample using the sponsor-designated central laboratory validated MET Next Generational Sequencing assay
+Prior treatment with a MET inhibitor (e.g. foretinib, crizotinib, cabozantinib, onartuzumab or previous savolitinib) or sunitinb.
+Patients may not participate in this trial if the conditions for continuing treatment in the previous AG- protocol are not met
+Patients who have received prior treatment with antiCTLA- may be enrolled, provided the following requirements are met:
+c-MET positive (defined by c-MET IHC intensity score + in ? % of tumor cells and MET gene copy number ?  by FISH or IHC intensity score + in ? % of tumor cells) and K/NRAS WT status for mCRC patients only
+Prior treatment with c-MET/HGF inhibitors
+A patient is eligible for second enrollment (allo-cellular therapy) if all of the following inclusion criteria are met:
+Phase II: Documented evidence of c-Met amplification (GCN>) (fusion transcripts or mutant c-Met may be eligible after discussion with Novartis) or PTEN mutations, homozygous deletion of PTEN or PTEN negative (H Score <) by central assessment.
+Prior or current treatment with a c-MET inhibitor or HGF-targeting therapy
+Prior exposure to experimental treatment targeting either the hepatocyte growth factor (HGF) or Met pathway
+For Phase  only: MET+ status
+Prior treatment with any agent targeting the hepatocyte growth factor (HGF)/c-Met pathway
+Prior exposure to agents targeting either the Hepatocyte Growth Factor (HGF) or MET pathway
+Prior treatment with investigational drugs that target the human growth factor (HGF) or MET pathway
+No prior treatment with temsirolimus or an agent specifically targeting met proto-oncogene (c-Met)
+All patients must have evidence of progressive disease on study entry.Previously untreated patients who are not chemotherapy candidates on Arm  may have advanced disease (without clear progression). There is no upper limit on the number of prior treatments provided that all inclusion criteria are met and exclusion criteria are not met.
+Received previous treatment with any c-MET experimental therapeutic.
+Patients must have met all pre-entry requirements
+Participation in a Phase I lapatinib trial that has met its study objectives.
+Patients who have met the pre-entry requirements
+One of the below criteria must be met based on patient's therapy:
+Patients must have met pre-entry requirements
+More than  MET PET scans within the previous  months
+EXCLUSION CRITERIA FOR OPEN-ACCESS: More than  MET PET scans within the previous  months
+Abnormal c-MET dysregulation, defined as the following from archival historical results of molecular pre-screening evaluations.
+c-MET overexpression, ? % tumor cells with immunohistochemistry Grade +
+or c-MET amplification; FISH c-MET to chromosome  (CEP ) ratio ? .; NGS copy number variation ? 
+or mutation, including any deletions and any met fusions
+c-MET amplification; FISH c-MET to chromosome  (CEP ) ratio ? .; NGS copy number variation ? 
+or mutation, including any deletions and any met fusions
+History of receiving treatment with any c-MET signaling pathway inhibitor (marketed or investigational agents)
+Inclusion Criteria:\n\n        Main inclusion criteria all patients, Part  and Part :\n\n          -  Male or female, at least  years of age at the time of informed consent\n\n          -  Eastern Cooperative Oncology Group (ECOG) performance status (PS) of  or \n\n          -  Life expectancy > months assessed during Screening\n\n          -  Documented (histologically- or cytologically-proven) solid tumor malignancy that is\n             locally advanced or metastatic, and that is refractory to standard therapy or for\n             which no standard therapy is available or accessible\n\n          -  Tumor documented to be KRAS WT by local assessment (i.e. the tumor must express the\n             KRAS WT, exon ,  and )\n\n        Additional main inclusion criteria applicable to Part  ONLY:\n\n          -  Measurable disease according to RECIST v. that has been confirmed by computed\n             tomography (CT) or magnetic resonance imaging (MRI) within  weeks prior to Cycle\n             /Day  (C/D)\n\n          -  Tumor documented to be KRAS WT by local assessment according to institutional\n             standards.\n\n          -  Basket Cohort ONLY:\n\n               -  Confirmed MET-amplification by local assessment\n\n               -  No prior therapy with MET-targeting agents (except a subset of patients having\n                  received prior therapy with a MET-targeting TKI)\n\n               -  Willingness to undergo a pre- and post-dosing biopsy (maximum of  biopsies) from\n                  primary or metastatic tumor site(s) considered safely accessible for biopsy\n\n          -  NSCLC Cohort ONLY:\n\n               -  Documented METex mutations (patients need not be MET-amplified and may have\n                  received prior therapy with a MET-targeting TKI). Patients with malignancies\n                  other than NSCLC may be considered for entry to this cohort following discussion\n                  with the Sponsor's Medical Monitor(s).\n\n        Exclusion Criteria:\n\n        Main exclusion criteria all patients, Part  and Part :\n\n          -  Any antineoplastic agent for the primary malignancy (standard or investigational)\n             without delayed toxicity within  weeks or  plasma half-lives, whichever is shortest,\n             prior to C/D, except: nitrosoureas and mitomycin C within  weeks prior to C/D\n\n          -  Immunosuppressive or systemic hormonal therapy within  weeks prior to C/D with\n             specified allowed exceptions\n\n          -  Use of hematopoietic growth factors within  weeks prior to C/D\n\n          -  Active second malignancy or history of another malignancy within the last  years,\n             with specified allowed exceptions\n\n          -  Central nervous system (CNS) malignancy including primary malignancies of the CNS\n             and/or known, untreated CNS or leptomeningeal metastases, or spinal cord compression;\n             patients with any of these not controlled by prior surgery or radiotherapy, or\n             symptoms suggesting CNS involvement for which treatment is required\n\n          -  Inadequate recovery from an acute toxicity associated with any prior antineoplastic\n             therapy\n\n          -  Major surgical procedure within  weeks prior to C/D or inadequate recovery from any\n             prior surgical procedure\n\n          -  Active thrombosis, or a history of deep vein thrombosis or pulmonary embolism, within\n              month prior to C/D, unless adequately treated and stable\n\n          -  Active uncontrolled bleeding or a known bleeding diathesis\n\n          -  Significant cardiovascular disease or condition\n\n          -  Abnormal hematologic, renal or hepatic function\n\n        Additional main exclusion criteria applicable to Part  ONLY:\n\n          -  Prior therapy with MET-inhibiting agents (exceptions will be a subset of patients that\n             will be entered to the Basket Cohort after having received prior therapy with a\n             MET-targeting TKI, and patients entered to the NSCLC Cohort who may have received\n             prior therapy with a MET-targeting TKI)\n\n          -  Prior therapy with antibody to hepatocyte growth factor (HGF)\n\n          -  Basket Cohort ONLY: Tumor status demonstrating MET-polysomy in the absence of\n             MET-amplification, as specified. Patients in the NSCLC Cohort with polysomy are\n             eligible.\n\n          -  Radiotherapy against target lesions within  weeks prior to C/D, unless there is\n             documented progression of the lesion following the radiotherapy

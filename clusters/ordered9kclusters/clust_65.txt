@@ -1,0 +1,35 @@
+Creatinine =< 1.5
+Patients with a creatinine =< 2 x normal for age
+Patients with a creatinine normal for age
+Serum creatinine > 1.5 x OR creatinine clearance of at least 40
+Creatinine < 2
+Creatinine < or = 2
+Creatinine =< 2.0
+Creatinine =< 1.3
+Creatinine =< 1.5
+Creatinine =< 2.0
+Creatinine > 3x normal
+Creatinine < 1.8
+Creatinine =< grade 1
+Creatinine < 1.5
+Creatinine < 2.0
+Creatinine < 1.5
+Creatinine < 2.0
+Creatinine < 1.5 and creatinine clearance > 45
+Creatinine < 2.0
+Creatinine =< 1.5
+Creatinine < 1.5
+Creatinine < 2.0
+Creatinine =< 1.2 x normal prior to biopsy
+Creatinine =< 1.7
+Normal creatinine for age
+Creatinine less than 1.5
+Creatinine < 2.0
+Creatinine > 2.0
+Creatinine > 2.0
+Creatinine =< 1.3
+Creatinine =< 1.5
+Creatinine < 2.0
+Patients with a creatinine =< 2 x normal for age
+Patients with a history of renal disease or patients over 70 with a creatinine > 1.3; creatinine must have been done within the last 12 weeks
+Creatinine < 1.2

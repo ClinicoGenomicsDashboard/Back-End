@@ -1,0 +1,6 @@
+Cluster 660: mean ms ecgs electrocardiograms correction corrected qt qtc interval rate 
+Cluster 862: msec qtcf fridericia qt interval formula corrected using correction ecg 
+Cluster 1154: msecs qtc interval corrected qt formula using bazetts bazett prolongation 
+Cluster 1617: ms qtcf fridericia qt corrected interval formula ecg screening subject 
+Cluster 1986: qtcf ecg triplicate mean screening msec correction ecgs interval fridericia 
+Cluster 2424: qt qtc msec syndrome long corrected interval congenital history fridericia 

@@ -1,0 +1,8 @@
+Absolute neutrophil count ? 1000/?L, with or without cytokine support
+Platelet count ? 50,000/?L, with or without transfusion or cytokine support
+Absolute neutrophil count >= 1,500/mcL (without transfusion or cytokine support)
+Growth factor or cytokine support
+Growth factor or cytokine support;
+Absolute neutrophil count ? 500/µL, with or without cytokine support
+Absolute neutrophil count greater than 1500/mm^3 without transfusion or cytokine support
+Growth factor/cytokine support;

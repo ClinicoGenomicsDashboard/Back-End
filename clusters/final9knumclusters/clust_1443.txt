@@ -1,0 +1,49 @@
+DONOR: age >= 12 and =< 75 years
+DONOR: Donor is at least 18 years of age
+Donor age >= 18 years
+DONOR: At least 18 years of age
+DONOR: 12 to 70 years of age - priority should be given to age (< 35 years), followed by HLA matching (haploidentical and if not available then fully mismatched donor)
+DONOR: Voluntary written consent (using assent form if donor < 18 years of age)
+DONOR: Age > 14 years
+DONOR: At least 18 years of age
+< 70 years of age with no matched 5/6 or 6/6 sibling donor - patients >= 70 and =< 75 years of age may be eligible if they have a co-morbidity score =< 2
+DONOR: Age >= 18 and =< 70 years
+DONOR: Age 18 to 70 years of age
+DONOR: Age =< 60 years of age
+DONOR: Age >= 18 years
+MATCHED RELATED DONOR: Age 6-70 years
+HAPLOIDENTICAL RELATED DONOR: Age 6-70 years
+MATCHED RELATED DONOR: Age less than 6 years or greater than 70 years
+HAPLOIDENTICAL RELATED DONOR: Age less than 6 years or greater than 70
+DONOR: At least 18 years of age
+DONOR: Age >= 0.5 years
+DONOR: Donor must be 16 years of age or older and weigh at least 110 pounds
+DONOR: There is no upper age limit for donors; however, the minimum age for a related donor is 7 years as this is the youngest age a person can be considered capable of giving assent to participate in a research study
+HAPLOIDENTICAL RELATED DONOR: Age 4-60 years and weight of >= 15 kilograms
+DONOR: Age >= 12 years
+DONOR: Age >= 12 years of age
+DONOR: Age >= 17
+DONOR: Age less than 18 years
+DONOR: 14-75 years of age
+DONOR: Age >= 0.5 years
+DONOR: Age >= 18 years and =< 60 years
+DONOR: 18 to 75 years of age
+DONOR: At least 18 years of age
+DONOR: 14-75 years of age
+DONOR: Children less than 12 years of age.
+DONOR: Age < 12 years
+DONOR: Age less than 12 years
+DONOR: Age < 60 years
+DONOR: Age > 18 years (yr)
+MSC DONOR: age >= 18 years, =< 30 years
+INCLUSION CRITERIA - HPC-A CELL DONOR: At least 18 years of age
+DONOR: At least 18 years of age
+DONOR: At least 18 years of age
+DONOR: At least 18 years of age
+DONOR: Age 18 years to 80 years
+DONOR: Age >= 18 years
+DONOR: Age < 18 years
+Must be >= 18, but < 70 years of age with no matched 5/6 or 6/6 sibling donor - patients >= 70 and =< 75 years of age may be eligible if they have a Co-Morbidity score =< 2
+DONOR: Age >= 18 years
+DONOR: Age < 18 years
+Must be >= 18, but < 70 years of age with no matched 7/8 or 8/8 sibling donor - patients >= 70 and =< 75 years of age may be eligible if they have a co-morbidity score =< 2

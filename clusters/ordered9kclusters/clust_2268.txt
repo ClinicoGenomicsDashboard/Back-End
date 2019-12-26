@@ -1,0 +1,24 @@
+Patients must have an estimated survival greater or equal to 3 months
+Participants with active infection(s) for which they are receiving drug treatment unless the clinical status is judged to be stable and survival is estimated to be at least 6 weeks
+ECOG performance status of 0 - 2 and estimated survival of at least 3 months
+Estimated survival of at least 12 weeks;
+For known primary, disease-specific graded prognostic assessment (ds-GPA) estimated median survival no less than 6 months
+For unknown primary, graded prognostic assessment (GPA) estimated median survival no less than 6 months
+Patients who have a known primary and have an estimated median survival less than 6 months per ds-GPA
+Patients who have an unknown primary and have an estimated median survival less than 6 months per GPA
+Estimated survival >= 3 months
+Surgeon's estimated survival >= 1 month
+Estimated survival < 1 month
+Patients with an estimated survival of less than three months.
+Estimated survival of at least 8 weeks
+Estimated survival of at least 3 months
+Estimated survival ? 6 months.
+An estimated progression-free survival of less than one year
+Patients must have an estimated survival greater than or equal to 3 months
+Estimated >4 months survival probability.
+Estimated >4 month survival probability.
+Patients with an estimated survival of less than one year are not eligible
+Probability of survival is at least 6 months
+Patients with an ECOG performance status of 0, 1, or 2, and estimated survival of > 12 weeks.
+Estimated survival of at least 6 months.
+Patient may have distant metastatic disease provided the estimated survival is at least 1 year

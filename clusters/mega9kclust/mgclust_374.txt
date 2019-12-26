@@ -1,0 +1,7 @@
+Cluster 60: stem transplant cell autologous received prior patients asct therapy chemotherapy 
+Cluster 393: hsct allogeneic prior autologous undergoing patients transplant patient previous days 
+Cluster 599: transplant autologous stem cell allogeneic prior months eligible patients study 
+Cluster 1370: stem transplant allogeneic cell prior patients received eligible history previous 
+Cluster 1547: transplants stem cell prior organ allogeneic kind patients autologous transplant 
+Cluster 1892: rescue stem cell high chemotherapy dose autologous requiring previous transplant 
+Cluster 2031: transplant marrow bone stem cell autologous allogeneic prior rescue previous 

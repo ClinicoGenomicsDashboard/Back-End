@@ -1,0 +1,41 @@
+AML SA expansion group : histologically or cytologically proven AML with a FLT ITD or TKD mutation previously determined by local testing that is R/R to standard therapy or for whom standard treatments are contraindicated
+AML SA expansion group : histologically or cytologically proven AML with intermediate or unfavorable risk cytogenetics in the absence of a detectable FLT ITD or TKD mutation as previously determined by local testing that is R/R to standard therapy or for whom standard treatments are contraindicated
+Participant has presence of the FLT/ITD activating mutation in the BM or PB as determined by the local institution at diagnosis.
+Newly diagnosed AML patients who are identified with FLT-ITD or tyrosine kinase domain (TKD) point mutation in the codon for an aspartate (D) or an isoleucine (I) residue
+FLT-ITD and/or FLT-D mutated patients with relapsed/refractory AML (any number of relapses) including patients who may have been previously exposed to one or more FLT-inhibitor therapies will be eligible for the phase I portion of this study
+Patients must be eligible for one of two cohorts: cohort  (FLT and/or FLT-D inhibitor failure cohort) in FLT-ITD and/or FLT-D mutated relapsed/refractory AML who have failed therapy with up to two prior salvage regimens (stem cell transplant [SCT] or stem cell therapy for patients who previously underwent SCT/stem cell therapy in remission will not be considered a salvage regimen) and have previously been exposed at least one prior FLT inhibitor; cohort  (FLT inhibitor naive cohort) in FLT-ITD and/or FLT-D mutated relapsed/refractory who have failed therapy with up to two prior salvage regimens (SCT or stem cell therapy for patients who previously underwent SCT/stem cell therapy in remission will not be considered a salvage regimen) with no prior exposure to any FLT inhibitor
+FLT-ITD or FLT-D positive disease at any time during disease course.
+For Phase I Only: Patients are eligible regardless of their FLT mutation status.
+For Phase II only: Patients must have evidence of FLT ITD in their most recent assessment.
+FLT mutation positive (ITD, TKD or other)
+Has FLT-ITD mutant (> % FLT-ITD/total FLT) AML (primary AML or secondary to myelodysplastic syndrome [MDS]) that have failed any prior induction therapy regimen or have relapsed after prior induction/consolidation therapy, have not received more than one salvage therapy, and have not received more than one FLT inhibitor during prior AML treatment(s)
+FLT-ITD mutant (> % FLT-ITD/total FLT) AML (primary AML or secondary to MDS) is ineligible for intensive induction chemotherapy by meeting at least  of the protocol-defined criteria
+Presence of FLT-ITD and/or D mutation(s) in bone marrow or peripheral blood
+Presence of FLT-ITD and/or D mutation(s)
+Patients with and without FLT mutations will be eligible to participate
+Subject is positive for FLT mutation in bone marrow or whole blood as determined by the central lab. A subject with rapidly proliferative disease and unable to wait for the central lab results can be enrolled based on a local test performed after completion of the last interventional treatment. Subjects can be enrolled from a local test result if they have any of the following FLT mutations: FLT internal tandem duplication (ITD), FLT tyrosine kinase domain (TKD)/D or FLT- TKD/I.
+Subject has an FLT mutation other than the following: FLT-ITD, FLT-TKD/D or FLT-TKD/I.
+Presence of the FLT-ITD activating mutation in bone marrow or peripheral blood (allelic ratio as determined by a central laboratory with a cutoff of ?% FLT-ITD/total FLT). If a specimen has been sent for FLT-ITD testing at the central laboratory but the subject requires treatment for AML before the central FLT-ITD test result is available, a local test result may be acceptable for randomization after consultation with the Medical Monitor.
+Prior treatment with a FLT targeted therapy including sorafenib or investigational FLT inhibitors (not including the multi-kinase inhibitor, midostaurin).
+Subjects must have tested positive for FLT-ITD and/or other FLT activating mutations
+Subject is positive for FLT mutation (internal tandem duplication [ITD] or tyrosine kinase domain [TKD] [D/I] mutation) in bone marrow or whole blood as determined by central laboratory. Note: Only applicable to the randomization portion.
+Untreated, histological confirmed acute myeloid leukemia (AML) based on World Health Organization (WHO)  criteria with either/or both:\r\n* FLT ITD mutation\r\n* FLT TKD mutation
+Administration of the radioisotope, -FLT, which is being concurrently investigated on an imaging study within the Pediatric Brain Tumor Consortium (PBTC), is allowed >  hours prior to initiation of pomalidomide on this study; any adverse events related to the FLT must have resolved completely
+Confirmed FLT-ITD mutation, measured on peripheral blood or bone marrow aspirate prior to study enrollment (patients may also have a concurrent FLT-tyrosine kinase domain [TKD] mutation)
+Patients must have tested positive for FLT-ITD and /or other FLT activating mutations within  day screening period
+Absence of a FLT activating mutation
+Assessment of FLT mutation status;
+Cohort A: Subjects with a FLT mutation (e.g. ITD or D) with prior FLT inhibitor treatment
+Cohort B: Subjects with a FLT mutation (e.g. ITD or D) without prior FLT inhibitor treatment
+Cohort C: Subjects without a FLT mutation at the time of enrollment
+Poor-risk (monosomy ,) or complex cytogenetics profile ( or more cytogenetic abnormalities), or deletion of chromosome  (-), or deletion of chromosome  (-), or positive FLT-ITD mutation
+Participant disease tested positive for FLT-ITD or TKD within -day screening period
+Positive for Flt-ITD activating mutations during Screening. Local laboratory results must be received prior to enrollment. Patients with a history of Flt-ITD positive disease may be considered after discussion with the Medical Monitor.
+Patients should have a FLT mutation, either internal tandem duplication (ITD) or kinase domain mutation or activation loop mutation
+Presence of FLT-ITD activating mutation in bone marrow (allelic ratio of ?% FLT-ITD/total FLT);
+Prior treatment with quizartinib or other FLT-ITD inhibitors;
+Patients must have a documented FLT ITD mutation, determined by local laboratory for eligibility (historical tissue will be requested for central analysis confirmation)
+Patients requiring emergency surgical intervention that would be inappropriately delayed by FLT-PET imaging
+Agreed to FLT-PET imaging and signed consent and eligible FLT-PET protocol -
+Subject has had presence of the FLT/ITD activating mutation in the bone marrow or peripheral blood as determined by the local institution at diagnosis.
+Be a candidate for [F]FLT PET imaging

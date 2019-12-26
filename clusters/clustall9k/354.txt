@@ -1,0 +1,438 @@
+Must not have received any prior radiation to any sites of measurable disease
+Received radiotherapy to metastatic sites of disease <2 weeks prior to Day 1.
+At least two sites of biopsy for those cases where mammographic extent of calcifications exceeds 4 cm, with second biopsy benign or both sites fulfilling pathology eligibility criteria
+Prior radiotherapy must in general have been completed >= 2 weeks prior to randomization and patients must have recovered from the toxicity of the radiation\r\n* NOTE: Patients may receive concurrent radiation therapy to painful sites of bony disease or areas of impending fracture as long as sites of measurable or non-measurable disease outside the radiation therapy port are available to follow
+Patients must have measurable disease; all sites of disease must be evaluated within 4 weeks prior to randomization
+ELIGIBLE SITES:\r\n* Extremities: upper (including shoulder) and lower (including hip)\r\n* Trunk: body wall
+Patients must have measurable disease; baseline measurements and ALL sites of disease must be obtained within 4 weeks to registration
+Patients must have measurable disease at baseline and 3 or fewer discrete, extracranial metastatic disease sites that are technically amenable to stereotactic body radiation therapy (SBRT) or resection (at least one disease site must be amenable to radiation); some examples of what constitutes specific radiation treatment sites defining distinct metastatic disease sites are as follows: a) A lesion in each adrenal gland represents 2 of 3 sites of metastatic disease allowed to be treated on protocol; b) Similarly to NRG study RTOG 0631, disease in 2 contiguous vertebral bodies (with up to 6 cm of paraspinal extension) can represent one site of disease in the spine; non-contiguous lesions in vertebral bodies separated by one vertebral body free of disease should be viewed as 2 sites of treatment; and c) Two lesions in such close proximity to one another that treatment with one isocenter is more accurate and safer in the liver, lungs, or other similar anatomic locations should be viewed as one site of metastatic disease treatment.
+All known disease amenable to metastasis-directed therapy with either SBRT or resection\r\n* NOTE: Symptomatic bone metastasis are allowed if ablative therapy can be delivered\r\n* NOTE: Sites for possible surgical excision include lung, liver, adrenal gland, bone, small intestine, large intestine, ovary, and amenable nodal disease sites\r\n* NOTE: Surgical stabilization is allowed for a metastasis if it is followed by conventionally fractionated external beam radiotherapy
+Patients with bronchiectasis in the region of the intended implantation sites
+PARTICIPANTS FROM ST. JUDE AND COLLABORATING SITES PARTICIPATING IN THERAPEUTIC AND BIOLOGICAL OBJECTIVES:
+PARTICIPANTS FROM COLLABORATING SITES PARTICIPATING IN THERAPEUTIC AND BIOLOGICAL OBJECTIVES:
+PARTICIPANTS FROM COLLABORATING SITES PARTICIPATING IN BIOLOGICAL OBJECTIVES ONLY:
+Patients may not receive or have received any radiation therapy at the biopsy sites.
+Advanced breast cancer with locally recurrent chest wall disease not amenable to surgical excision\r\n* Distant sites of disease are allowed\r\n* Prior radiation to the chest wall is not required
+Oligometastatic state is defined by =< 3 active sites of disease, including the primary site
+Among patients with multiple sites of metastatic disease, the other sites that will not be treated on this protocol have either been previously treated or are planned for local treatment
+Patients are stage IV (M1) or recurrent with any combination of T and N with oligometastatic disease as defined by 5 or fewer total sites of metastatic disease \r\n* NOTE: number of metastatic sites based on most recent imaging studies in order to determine number of oligometastatic sites; for example, if patient initially had 10 sites of metastatic disease, was treated with chemotherapy resulting in complete response of 5 lesions and stable disease of 5 lesions, and no new lesions based on repeat imaging, the patient would be eligible for treatment on protocol
+Ineligible disease sites include the following\r\n* Lymphoma\r\n* Leukemia\r\n* Multiple myeloma\r\n* Primary central nervous system (CNS)\r\n* Peritoneal carcinomatosis \r\n* Colon cancer with liver-only metastatic disease that is treatable with surgical resection
+Other\r\n* Diffuse metastatic spread confined to one organ system is ineligible; examples of this include leptomeningeal spread in the CNS and peritoneal carcinomatosis. \r\n* Metastatic disease sites must be treatable with stereotactic radiosurgery (at discretion of treating physician); patients with oligometastatic sites not amenable to SRS treatment, either through size or locations, are ineligible for this trial
+Metastatic disease sites must be treatable with SRS (at discretion of treating physician)
+Ineligible disease sites include the following\r\n* Lymphoma\r\n* Leukemia\r\n* Multiple myeloma\r\n* Primary CNS\r\n* Peritoneal carcinomatosis \r\n* Colon cancer with resectable liver-only lesions
+Examples of patients ineligible for trial\r\n* T1N1M1 NSCLC with 1 CNS lesion, 1 bone lesion, 1 adrenal lesion and a cervical lymph node (4 sites of metastatic disease)\r\n* T2N1M1 Gastric cancer with 6 liver lesions (more than 5 sites of metastatic disease)
+For United Kingdom sites:
+For United Kingdom sites:
+Patient may not have disease limited to a single skin or bone site, with the following exceptions:\r\n* Central nervous system (CNS) risk lesions/special site disease: patients with single bone sites that are CNS-risk (sphenoid, mastoid, orbital, zygomatic, ethmoid, maxillary, or temporal bones, the cranial fossa, pituitary gland or neurodegenerative disease) or are “special sites” (odontoid peg, vertebral lesion with intraspinal soft tissue extension) require systemic therapy as standard of care and thus ARE eligible for the study\r\n* Functionally critical lesions: a single lesion not described above which may cause “functionally critical anatomic abnormality” wherein attempts at local therapy (such as surgical curettage or radiation) would cause unacceptable morbidity; these patients may be enrolled with approval of the principal investigator (PI) and documentation of the rationale justifying systemic therapy
+Has at least 2 identified sites of metastatic disease by imaging.
+Evidence of neuroblastoma outside osteomedullary sites (any neuroblastoma outside osteomedullary sites must have been removed prior to trial entry)
+Liver metastases with no other metastatic sites
+Subjects must give informed consent according to the rules and regulations of the individual participating sites.
+1-3 sites of recurrence (< 60 cc per site, total volume < 100 cc)
+Tumour sites amenable to repeated biopsies.
+No more than three progressive sites of disease, with at least one of the disease sites to be deemed suitable for treatment with MRI-guided, online adaptive SBRT to the non-liver abdomen as per radiation oncology evaluation
+Measurable disease in at least 2 non-radiated sites
+Any number of metastatic disease is allowed in the pilot phase of the trial\r\n* For the phase II, metastatic patients will be allowed only if all sites of metastasis has been treated either surgically or radio-surgically; (if limited sites of metastasis are present, all of which can be resected during the nephrectomy, then the patient can be eligible)
+We will allow XRT prior to study entry to other sites, with no washout period, allowed prior to study entry as long as at least one measurable sites of disease is kept unirradiated
+No active infection: patients should be afebrile; if present, pulmonary infiltrates or other sites of infection must be improving on antibiotics; patients should not require oxygen; study chair will be the arbiter of this criterion
+At least two sites of measurable disease as defined by RECIST 1.1; one of which must be amenable to treatment with SAR and accessible for optional pre- and post- treatment biopsy; if a pulmonary nodule is being considered for SAR it must range in size from 1-5 cm
+Patients with oligometastatic NSCLC (defined as =< 4 metastatic sites of disease), all treated with definitive intent using radiation, surgery, radiofrequency ablation (RFA), chemoradiation therapy, other definitive modalities or combinations of these
+Progressive disease or sites of new metastasis after definitive therapy for oligometastatic disease
+Participants who have received prior radiation therapy to anatomical sites other than brain or skeleton
+Patients with another active malignancy; asymptomatic sites of disease are not considered active; treated or untreated sites of disease may be considered inactive if they are stable for at least 2 months and are not expected to require therapy for 4 months
+Patients must have at least ONE of the following sites of disease:
+Local-regional treatment sites must be able to be encompassed within a reasonable radiation therapy treatment volume
+Patients with any number of metastatic site are allowed to enroll; however, only up to six sites will be selected for SBRT treatment, at the discretion of the treating radiation oncologist
+Patient must be eligible for SABR to one or more extra cranial sites
+Radiographic evidence of metastatic disease documented with bone scan or computed tomography (CT) scan\r\n* Patients with any number of metastatic site are allowed to enroll; however, only up to six sites will be selected for stereotactic body radiation therapy (SBRT) treatment, at the discretion of the treating radiation oncologist
+Presence of lesions that are amenable for injections as determined by interventional radiology\r\n* NOTE: Nodal or extranodal sites must be palpable and easily accessible; sites such as mediastinum, retroperitoneum, within solid organs, spinal sites, central nervous system (CNS) sites, etc., are NOT allowed
+IA involving sites other than lungs and sinuses
+Patients must have at least two sites of disease amenable to biopsy
+Radiation fields to include at least two mucositis sites at risk (buccal mucosa, floor of mouth, ventral and lateral tongue, soft palate) in which both sites receive a minimum cumulative dose of 55 Gy
+Measurable metastatic disease (by RECIST version [v] 1.1) in the peritoneal cavity or retroperitoneal lymph nodes; disease outside of the peritoneal cavity is allowed as long as metastatic sites are also present within the peritoneum/retroperitoneum
+Eligible for neutron radiation treatment to 1-3 sites of metastatic disease (lesions do not have to be symptomatic)
+Patients must have measurable disease in at least 2 non-radiated sites as defined by RECIST v1.1; all sites must be evaluated within 4 weeks prior to beginning therapy
+Patients must have had at least one episode of disease recurrence in the lungs without limitation on number of episodes of recurrence as long as they meet the following criteria:\r\n* Surgical resection of all possible sites of suspected pulmonary metastases in order to achieve a complete remission within 4 weeks prior to study enrollment**\r\n* Pathologic confirmation of metastases from at least one of the resected sites\r\n** For patients with bilateral pulmonary metastases, resection must be performed from both lungs and the study enrollment must be within 4 weeks from date of the last lung surgery\r\n* Note: If surgery related changes such as atelectasis are seen on the post-operative computed tomography (CT) scan, patients will remain eligible to enroll as long as the operating surgeon believes that all sites of metastases were resected; patients with positive microscopic margins will be eligible to enroll
+Patients with CNS disease or other sites of extra-pulmonary metastases at the time of most recent episode of disease recurrence preceding enrollment
+For the phase II portion of the study, subjects must have disease that is evaluable for response; subjects who have had radiation to all sites of disease are not eligible unless there is imaging evidence of active tumor, ie: increased blood volume
+Patients must have had no prior radiotherapy to tumor-involved sites
+PHASE II: Patients must have measurable disease outside of the primary tumor (pancreas) by RECIST 1.1 criteria; baseline measurements and evaluations of all sites of disease must be obtained =< 4 weeks prior to randomization
+PHASE II: Patients must have measurable disease based on RECIST 1.1; baseline measurements and evaluations of all sites of disease must be obtained =< 4 weeks prior to registration
+Patients must have measurable advanced disease, that is not resectable by surgery; all sites must be assessed within 4 weeks prior to randomization
+Cancer arising from one of the following primary sites: paranasal sinus, nasopharynx, salivary gland, skin
+Patient must have undergone surgical resection to remove one or more sites of metastatic disease, with successful removal of all known sites 2-12 weeks prior to randomization; any number of prior metastasectomies may have been performed in the past, so long as the most recent procedure was within the 12 weeks of registration; the most recent procedure may be nephrectomy for a renal primary tumor
+Patients presenting with tumors within the kidneys (multiple synchronous or single/multiple metachronous) are not eligible if there are no extrarenal sites of disease (i.e. potential multifocal primary disease)
+Sites must seek additional patient consent for the future use of specimens
+Archival tumor samples must be obtained from primary and/or metastatic sites
+All sites of disease must be evaluated within 4 weeks prior to randomization; patients must have measurable disease
+Pain must be from one painful metastatic lesion involving the bone that is amenable to cryoablation with CT (additional less painful metastatic sites may be present)
+Metastatic disease, unresectable disease involving one or more sites including liver, lung, lymph nodes and peritoneum, with each nodule measuring =< 3 cm OR no more than two sites of disease (two nodules) > 4.5 cm
+Tumor sites that can be accessed for repeat biopsies
+Patients with metastatic sites that requires chemotherapy and/or non-hormonal targeted therapy
+Tumor involvement of the following sites or any of these signs or symptoms likely to be associated with T4b cancer:
+Phase I run in: biopsy proven RMHNSCC with the following primary sites: nasopharynx, paranasal sinus, nasal cavity, skin/cutaneous sites; patients with unknown head and neck primary sites will be enrolled; patients with recurrent or metastatic squamous cell carcinomas of the head and neck (regardless of primary site) who are either unwilling to receive or have contraindications (deemed by treating physician) to standard systemic chemotherapy will also be eligible; patients with biopsy proven RMSGC be eligible as well
+Patients with concomitant primaries of the bladder/urethra are allowed, as long as these sites are surgically resected and non-invasive cancers (< cT1N0)
+Measurable disease; Note: previously irradiated sites can be included if there is documented disease progression in that site
+The subjects must have at least four BCCs in non-cosmetically sensitive sites
+Past history of radiotherapy within the projected treatment field of any of the disease sites to be treated by MRI-guided, gated, and/or online adaptive SBRT
+Patients may have additional non-painful or minimally painful osseous metastases (if patient has pain from additional sites, the pain from the additional sites must be evaluated as being less intense by at least 2 points on the BPI compared to the site[s] treated)
+Subjects must have ? 1 measurable disease sites
+1-3 sites of metastatic disease able to be targeted by SABR
+Radiotherapy to >= 3 sites at the same time within 1 week prior to the first day of treatment
+Last radiotherapy treatment >= 4 weeks prior to starting treatment with this protocol and there must be sites of measurable disease that did not receive radiation
+Patients with metastatic sites that requires chemotherapy
+CRPC with metastatic disease with at least one site of metastatic disease must be amenable to needle biopsy; soft tissue biopsy sites include: lymph node or visceral metastases; bone sites include lumbar vertebrae, pelvic bones and long bones; excluded sites are thoracic, cervical vertebrae, skull and rib lesions; biopsy site will be selected with guidance of interventional radiologist determining best site to optimize balance of obtaining useful tissue for analysis and minimizing risk
+Primary sites other than oral cavity
+Tumor sites eligible for inclusion on this protocol include thorax, abdomen, and pelvis
+Patients must not have experienced distant disease progression since the start of systemic therapy, as evidenced by clinical and radiographic documentation of disease status before treatment and within 6 weeks prior to randomization, including:\r\n* No new sites of disease\r\n* No enlargement of existing sites by 20% or more in longest diameter\r\n* No symptomatic deterioration\r\n* Imaging at step 2 should preferably be the same as at step 1 (baseline); it must address all previous sites of disease and all clinical signs and symptoms; if all step 1 imaging tests cannot be repeated, the reason should be documented (e.g. declined by insurance); step 2 imaging must evaluate all known sites of disease and address all signs/symptoms present at step 2
+Maximum of number of lesions per patient will be 5 total for all disease sites
+OTHER METASTATIC SITES:
+Oropharyngeal sites of tumor include tonsil, soft palate, base of tongue, lateral and posterior pharyngeal wall; laryngeal sites of tumor include the supraglottic, glottis and subglottic larynx; nasopharyngeal sites include the posterior nasopharyngeal wall, right and left fossa of Rosenmuller; the hypopharyngeal sites of tumor include the post-cricoid area, posterior pharyngeal wall and the pyriform sinuses
+Breast cancer with metastasis to skeletal sites only
+All patients to be included in this study must be presented to the principal investigator using Horizon Live Web-conferencing through the Cure4Kids website; eligibility and target CNS sites will be determined, as well as non-target sites
+Mutation load determined by FoundationOne of >= 13 mutations/MB tested on archival tumor sample; the mutation load metric will be displayed on the FoundationOne report for all participating sites or may be obtained from Foundation Medicine from older reports using the Insights Portal, which will be available to all participating sites, or by emailing Foundation Medicine
+Must have ?1 measurable disease sites as defined by standard Lugano classification.
+Prior radiotherapy to disease sites is allowed with certain protocol-defined restrictions.
+Patients with unresectable or metastatic melanoma, for whom treatment with ipilimumab is indicated as per ipilimumab/Yervoy® package insert (applicable for US sites) or product information (applicable for Australia site).
+Any contraindications for ipilimumab/Yervoy® as per package insert(applicable for US sites) or product information (applicable for Australia site).
+Pain must be from one or two painful metastatic sites in the bone (additional less painful metastatic sites may be present)\r\n* Pain from the reported one or two metastatic sites must correlate with an identifiable tumor on CT, magnetic resonance imaging (MRI), or ultrasound (US) imaging\r\n* Metastatic tumors must be amenable to cryoablation with CT or MRI
+At least 2 sites of disease\r\n* One for palpable for biopsy and treatment (if > 2 sites are present, the biopsy site can be different from the treatment site); if there is no palpable disease, ultrasound may be used for guidance and administration of SD-101\r\n* One measurable radiographically or by skin assessment
+Availability of a representative tumor specimen. Patients enrolled in Arm 3 of Phase II must have disease sites amenable to biopsy unless prior agreement between Novartis and the Investigator.
+Systemic sites of disease need to be stable on systemic therapy based on the most recent (within 12 weeks) staging scans
+Newly diagnosed metastatic lung adenocarcinoma (recurrent or de novo) harboring sensitizing EGFR mutations (L858R, exon 19 deletion, G719A, L861Q, S768I, exon 19 insertions) with oligometastatic disease (=< 5 discrete lesions of disease irrespective of location, inclusive of the primary lesion):\r\n* All sites of disease must be amenable to definitive treatment with a local therapy (surgical resection, stereotactic radiosurgery, ablation and conventional radiation therapy) as determined by surgery, interventional radiology and radiation oncology\r\n* All intrathoracic lymph nodes (including hilar, mediastinal, and supraclavicular nodal disease) are considered 1 discrete lesion\r\n* Each brain metastasis is included as a distinct lesion\r\n* Patients already started on erlotinib are eligible as long as their sites of disease are determined to be eligible for definitive local therapy by consensus of the principal investigators within 12 weeks of the patient first taking erlotinib
+Past history of radiotherapy within the projected treatment field of any of the disease sites to be treated by MRI-guided, online adaptive SBRT
+Patients must have measurable disease as defined by immune-related complete response (irRC) (Wolchok, 2009); all sites must be evaluated within 4 weeks prior to beginning therapy
+X-rays and/or scans to assess all disease sites are to be completed within 30 days prior to day -2 (or the next business day if falls on a weekend or holiday)
+May be treated with localized radiation as long as measurable or evaluable disease remains at untreated sites.
+Histologically undifferentiated carcinomas or collecting duct carcinoma, lymphoma, sarcoma or subjects with metastatic renal sites.
+Vaginal estrogen is allowed, for all protocol disease sites, if dose equal to or less than that in estring (< 7.5 mcg) and it has been used for at least 30 days with no plans to stop or alter use during the course of the study
+Sites must seek additional patient consent for the future use of specimens
+PATIENT: Receiving primary cancer care at one of the participating sites
+Patients with multiple osseous sites are eligible; however should not treat more than 3 separate radiation treatment fields concurrently
+Treated and followed at one of the study sites (including affiliated network sites) and for whom treatment and surveillance data are available, for at least 1 year of follow up after date of diagnosis
+Patients for whom complete cavity shaving is planned (sites where this is the routine practice of the investigator will also be excluded from participation in the study)
+Primary cancer care at one of the three participating sites
+Clinician inclusion criteria:\r\n* Oncology staff nurses who undergo training to deploy CONNECT, oncologists, and practice managers at participating sites will be eligible to participate
+Radiographic evidence* of bone metastases within 8 weeks of study for non-weight bearing sites and 4 weeks for weight bearing sites; the patient must have pain which appears to be related to the radiographically documented metastasis in the opinion of the treating physician, and the decision has been made by the responsible clinician that a course of palliative external beam radiation therapy is appropriate treatment; multiple sites eligible if they can be included in no greater than 3 treatment sites and not all identifiable lesions will require treatment unless they are painful lesions\r\n* This should be one of the following:  plain film, bone scan, positron emission tomography (PET) scan, computed tomography (CT) scan, or magnetic resonance imaging (MRI)
+Eligible treatment sites are:\r\n*Weight bearing sites\r\n** Pelvis (excluding pubis) \r\n** Femur\r\n** Sacrum and/or sacroiliac joints\r\n** Tibia\r\n** Up to 5 consecutive cervical, thoracic or lumbar vertebral bodies\r\n** Lumbosacral spine\r\n*Non-weight bearing sites\r\n** Up to 3 consecutive ribs\r\n** Humerus\r\n** Fibula\r\n** Radius +/- ulna\r\n** Clavicle\r\n** Sternum\r\n** Scapula\r\n** Pubis\r\nIf multiple sites are treated, the treatment site is included as weight-bearing if any of the sites include the pelvis, sacrum, femur or tibia
+Patients will be eligible for treatment of multiple synchronous osseous sites only if those sites can be included in no more than three treatment sites; for patients with painful metastases that are contiguous but do not fit into the definition of a site listed above, those patients will still be eligible but will be considered to have two treatment sites; for example, a patient with a lesion of T4, T7 and T9 would be eligible but would be considered as two treatment sites since more than five consecutive vertebral bodies would be treated; these lesions could be treated with one field, even though the treatment is coded as two sites
+Unhealed or infected surgical sites in the irradiation area
+Prior radiotherapy to the region of the study cancer or adjacent anatomical sites or more than 25% of total body marrow-bearing area (potentially interfering with chemotolerance)
+Local skin infections at or near the acupuncture sites or are under treatment for active systemic infection
+Patients must give informed consent according to the rules and regulations of the individual participating sites
+Presence of extensive skeletal metastases defined as more than five (5) sites of bony disease, or any symptomatic site of disease in the spine, hip, or femur; Note that, patients with more than five bony sites may be deemed eligible at the discretion of the attending oncologist
+Local skin infections at or near the acupuncture sites or active systemic infection
+Pain must be from one or two painful metastatic sites in the bone that is amenable to cryoablation with CT or MRI (additional less painful metastatic sites may be present)
+Pain from the reported one or two metastatic sites must correlate with an identifiable tumor on CT, MRI, or ultrasound (US) imaging
+Patients participating through PK sites, must be offered the option to submit blood specimens for population pharmacokinetic analysis
+prior radiation to the sites to be treated
+Subjects with suspected sarcoidosis, lymphoma, or metastatic cancer from other sites (i.e. those without a known or suspected lung primary)
+Previous treatment with radiation or surgery to a significant percentage of bony metastatic sites
+Patients with more than 5 sites of extrahepatic disease (including nodes and pulmonary nodules)
+Subjects with suspected sarcoidosis, lymphoma, or metastatic cancer from other sites (i.e. those without a known or suspected lung primary)
+No metastatic sites >= 20 mm
+Patient has esophageal narrowing limiting access to the intended sites of ablation
+Dana Farber Cancer Institute (DFCI) oncologists are excluded from this study; this includes DFCI satellite sites, non-DFCI Dana Farber (DF)/Harvard Cancer Center (HCC) sites, and other non- DF/HCC sites that are under the DFCI Institutional Review Board (IRB)
+recruited through primary care sites aligned with study
+Patients with bronchiectasis in the lobe of the intended implantation sites.
+At least 2 distinct measurable metastatic sites, which are 1 cm or larger
+Patients with a history of any malignancy are ineligible
+Prior malignancy other than acute leukemia is allowed, provided it is in remission and there is no plan to treat the malignancy at the time of registration
+Prior malignancy
+History of prior malignancy, except (Criteria a through f):
+History of another malignancy except for:
+T-cell malignancy
+Have a history of another primary malignancy, with the exception of:
+MALIGNANCY CRITERIA:
+History of malignancy other than their lymphoma with the exception of:
+Immunosuppression, not related to prior treatment for malignancy.
+Has a history of another malignancy.
+Has a malignancy:
+Presence of malignancy.
+Resistant malignancy
+History of a non-lymphoid malignancy except for protocol allowed exceptions
+Any malignancy
+Patients with any other prior malignancy are not allowed except for the following:
+History of malignancy;
+History of another primary malignancy
+History of concurrent malignancy requiring active therapy or prior history of another malignancy within 5 years.
+Prior chemotherapy for any malignancy
+History of prior malignancy
+History of prior malignancy, with the exception of the following:
+Patients who have a history of any hematopoietic malignancy
+History of prior malignancy except:
+Prior malignancy except for any of the following:
+Prior treatment for lymphoid malignancy:
+Prior malignancy.
+History of any other malignancy
+History of another primary malignancy
+Patients with a history of any other malignancy will not be eligible
+another primary malignancy
+History of prior malignancy for which patient is receiving other specific treatment for their cancer
+Another primary malignancy
+History of other malignancy (not including the underlying malignancy that was the indication for transplant)
+History of other primary malignancy (including myeloid malignancy, e.g., myelodysplastic syndrome), unless
+Prior history of metastatic malignancy
+Actively being treated for other malignancy; if there is a history of prior malignancy, patient must not be receiving other specific treatment for their cancer
+Have borderline malignancy
+Patients must have pathologically-confirmed malignancy
+Time since last therapy for treatment of underlying malignancy:
+E 08. Prior malignancy.
+Any history of another metastatic malignancy
+Subjects with a history of recent (within 28 days) systemic therapy for their underlying malignancy
+Prior history of other malignancy except:
+Confirmed malignancy.
+Prior treatment of any kind for this malignancy
+History of another malignancy, some exceptions may apply.
+No history of any hematopoietic malignancy
+Malignancy OTHER than the BRAF mutant malignancy under study.
+History of any hematopoietic malignancy
+Patients may have a history of other prior malignancy
+Metastatic malignancy of any kind
+Metastatic malignancy of any kind
+Have a diagnosed malignancy
+Concurrent malignancy or metastatic malignancy of any kind
+Metastatic malignancy of any kind
+Other current malignancy or metastatic malignancy of any kind
+Concurrent malignancy or metastatic malignancy of any kind
+Women with a history of a prior malignancy
+Have a second primary malignancy or any history in any time frame of a prior malignancy.
+Patients may have had a prior malignancy
+Other malignancy with life expectancy < 1 year due to the other malignancy
+Documented mass on examination or imaging at site of DCIS prior to biopsy yielding diagnosis of DCIS, with exception of fibroadenoma at a distinct/separate site from site of DCIS. In cases of uncertainty about whether the mass was present on physical examination prior to biopsy, the following criteria should be applied: if mammogram noting abnormal findings is diagnostic MMG = symptomatic/if mammogram noting abnormal findings is screening MMG = asymptomatic
+Mammographic finding of BIRADS 4 or greater within 6 months of registration at site other than that of known DCIS, without pathologic assessment
+NOTE: Patient must meet all eligibility criteria outlined in pre-registration; patient may not be randomized until site has been notified that the central determination of p53 mutation status of the surgical tumor tissue has been completed and site has been notified of assay completion
+MRD results will be reported to the submitting institution\r\n* NOTE: FOR MRD ASSESSMENTS, AN ASPIRATE FROM A SEPARATE BONE MARROW ASPIRATION SITE MUST BE SUBMITTED (THE NEEDLE CAN BE RE-DIRECTED THROUGH THE SAME SKIN PUNCTURE SITE); ONLY SUBMIT ASPIRATES FROM THE FIRST PULL OF AN ASPIRATION SITE FOR MRD TESTING; DO NOT SUBMIT SAMPLES FROM THE SECOND OR THIRD PULL OF THE SAME ASPIRATION SITE \r\n* In B-lineage ALL, MRD levels in peripheral blood or from a dilute marrow aspiration can be 300% lower, on average, than those in bone marrow at a given time point; submitting a first pull from a separate aspiration site will ensure that MRD determinations used in randomization and trial interpretation are accurate\r\n** NOTE: failure to submit bone marrow aspirates will result in a major violation at the time of an audit
+Patients with regional node involvement as their only site of disease beyond the primary tumor will not be eligible
+No more than 3 prior regimens for large cell component (e.g. one induction and two salvage therapies); monoclonal antibody alone or involved field/involved site radiotherapy do not count as lines of therapy
+Any site of distant disease (for example, drop metastases from the GBM tumor site)
+Carcinoma of unknown primary site.
+Subjects who have received any radiotherapy to the primary sample site within the last 14 days (radiation may be included in treatment decision after biopsy).
+Patients planning to enroll in this study must first have a slot reserved in advance of the registration; all site staff will use OPEN to create a slot reservation
+Surgically unresectable site as determined by tumor board or surgeon or patients who decline surgery
+At least 1 site of disease must be accessible to provide repeat biopsies for tumor tissue for sequence and immunological analysis. This site may be a target lesion as long as it will not be made unmeasurable by the biopsy procedure.
+At least 2 weeks since last radiotherapy. If radiation was localized to the only site of measurable disease, there must be documentation of disease progression of the irradiated site. Subjects must have recovered from all acute toxicities from radiotherapy.
+Evidence of history of bleeding disorder, dialysis, or coexisting cancer that is distinct in primary site or histology from the cancer evaluated in this study
+Disease site/type with pathologic confirmation of diagnosis at participating cancer site; Note: if recurrence occurred greater than two years after resection, a biopsy to confirm recurrence should be performed and used for confirmation of diagnosis at the participating site\r\n* Phase 1: Advanced, unresectable sarcoma (any subtype, except for patients with pigmented villonodular synovitis for which metastatic disease is required)\r\n* Phase 2: Advanced, unresectable malignant peripheral nerve sheath tumors (MPNSTs)
+Severe infection considered by the local site investigator to be unsafe for study participation.
+Participants who have had radiotherapy to the site to be treated
+Patients must have radiographically measurable disease (as per Response Evaluation Criteria in Solid Tumors version 1.1 [RECISTv1.1]) in at least one site not previously treated with radiation or liver directed therapy (including bland, chemo- or radio-embolization, or ablation) either within the liver or in a metastatic site
+At least 3 weeks must have elapsed from prior radiation therapy; the prior site of radiotherapy must be documented as reirradiation of the same site is not allowed in this protocol
+Has a tumor(s) in direct contact or encases a major blood vessel, and has ulceration and/or fungation onto the skin surface at the projected injection site.
+Prior history of radiation therapy to the affected site
+Willingness to undergo biopsy of metastatic site or site of unresectable disease prior to randomization
+Disease at the nasopharyngeal, sinus, oral cavity, or other sub-site not specified
+Subject in whom the anatomic site is equal to or less than 25cm²;
+Subject in whom the anatomic application site is equal to or less than 47cm²; and
+Willing to travel to a radioimmunotherapy site for Zevalin, if necessary
+Patients with metastatic SCCA neck disease with an unknown primary tumor site
+Patients may have had or may have a metastasis from a cutaneous primary site, mucosal primary site, or unknown primary site.
+Disease confined to locoregional site and can be encompassed in a stereotactic body radiosurgery “portal”
+Patients must not have had prior therapy with a conjugated or unconjugated auristatin derivative/vinca-binding site targeting payload.
+For patients with oropharyngeal primary site or unknown primary site only: tumoral human papillomavirus (HPV) status must be known, as established by the local site; acceptable standards include p16 immunohistochemistry (where a tumor is classified as p16-positive when showing diffuse nuclear and cytoplasmic staining in at least 70% of tumor cells) and/or assessment of HPV deoxyribonucleic acid (DNA)
+Nasopharyngeal primary site, if WHO type III (non-keratinizing and EBV-positive as established at the local site)
+Patients must have at least one site of disease that is accessible for intratumoral injection of SD-101 (diameter >= 10 mm), percutaneously
+Patients must have at least one site of measurable disease, other than the injection site, which is not included in the radiation field
+Prior oncologic (radical) surgery to the primary site
+Concomitant radiation treatment to primary prostate site
+Additional site(s) of active disease (such as parenchymal liver and lung metastases, or supraclavicular nodal metastases), should be considered for treatment (off study) with radiation, surgery, or another form of local therapy, at the discretion of the study principal investigator (PI)
+Active infection at the site to be irradiated
+Patients will have 6 or less extracranial sites, which can safely receive SBRT between 30 – 50 Gy in 5 fractions; a site may have multiple tumor lesions within it as long as the gross tumor volume (GTV) of the site is 8 cm or less and can be covered in an acceptable SBRT field determined by the principal investigator (PI); all gross disease must be amenable to treatment with SBRT, as allowable per normal tissue constraints; patients will not have had any prior radiation therapy significantly overlapping a tumor site to be treated
+Tortuosity preventing the delivery of the guide sheath and or RenovoCath™ catheter to intended site as determined by CT or MRI
+Planned treatment site(s) accompanied by objective evidence of secondary radiculopathy or neurologic compromise
+Carcinoma of the neck of unknown primary site origin (even if p16 positive)
+Patients with liver tumors in a location that would potentially result in significant clinical adverse effects in the opinion of investigator if post-treatment tumor swelling were to occur, including at the site of the common bile duct
+Previous use of radiation to metastatic site(s) at any time prior to enrollment is allowed, provided that this site is not the only measurable disease present or unless that solitary site is progressing following radiation
+Investigator site staff members directly involved in the conduct of the study and their family members, site staff members otherwise supervised by the investigator, or patients who are Pfizer employees, including their family members, directly involved in the conduct of the study.
+Primary site other than oropharynx
+Patients with thrombosis of the planned site of resection will not be excluded if the thrombus is caused directly by tumor burden or outflow obstruction
+Unidentifiable primary site
+>= 1 tumor site must have demonstrated uptake equal to or greater than normal liver as documented by nuclear scan imaging
+Prior therapy to a metastatic site
+All patients must have radiographic evidence of progression at a spinal site previously irradiated greater than 6 months prior to randomization; this includes indirect radiation exposure to spinal site
+All patients must have a vertebral body site to be treated located from T1 to L5
+Prior radiation at the site of interest within 6 months
+Prior history of radiation at the site of interest resulting in a critical neural tissue dose of EQD2/2 of > 42 Gy in a single session
+Patients with nasopharynx or salivary gland primary site
+Must be treated per protocol to lesion(s) of a single abdominal site that can reasonably be encompassed within a single treatment field; treatment of additional site(s) outside of the abdomen while the patient is on trial is acceptable
+Subjects must have at least one site of disease that is accessible for intratumoral injection of SD-101 (diameter >= 10 mm), percutaneously
+Subjects must have at least one site of measurable disease other than the injection site which is not included in the radiation field
+Patients who are investigational site staff members directly involved in the conduct of the trial, and their family members, site staff members otherwise supervised by the investigator, or patients who are Archigen employees directly involved in the conduct of the trial.
+Refractory or recurrent retinoblastoma with vitreous seeding meeting eligibility criteria by ultrasonic biomicroscopy performed during examination under anesthesia (EUA) by an ophthalmologist: \r\n* At least three consecutive clock hours of disease-free, attached peripheral retina through which the intraocular injection may be administered\r\n* Absence of invasion in anterior and posterior chamber\r\n* Absence of anterior hyaloid detachment\r\n* Absence of retinal detachment at the entry site\r\n* Absence of tumor at the entry site
+Patients with an outside primary site biopsy showing perineural or perivascular invasion
+Nasopharyngeal primary site
+PHASE II SCLC: Patients could have received any number of therapies for relapsed or progressive disease, including re-treatment with original frontline regimen; a minimum of 2 weeks will be required from any prior therapy, including chemotherapy, immunotherapy and/or radiation; in addition, recovery to grade =< 1 from all reversible toxicities related to prior therapy is required at study entry; no previous irradiation to the site of measurable or evaluable disease, unless that site had subsequent evidence of progression
+Prior therapy to a metastatic site
+The vertebral body site to be treated must be located from the second to the twelfth thoracic vertebrae (T2-T12)
+Treatment plan must include primary site biopsy followed by resection of the primary tumor site and any metastatic sites at time of surgery
+Patient is unable to have a biopsy of a metastatic site for Rb testing
+Presence of overt metastatic disease at any site
+Not willing to stay at the study site for 4 hours after each PRTX-100 infusion
+Primary site of tumor of oral cavity, nasopharynx, sinuses, or salivary glands
+Accessibility to the site that ensures the subject will be able to keep all study-related appointments.
+The biopsy site must have been demarcated by a clip(s)
+COHORT II: The biopsy site must have been demarcated by a clip(s)
+MIBG scan with positive uptake at minimum of one site
+Prior radiation to the site of current primary disease, if re-treatment would lead to violation of known radiation dose tolerance limits for that site
+Patients must have at least one site of disease that is accessible for intratumoral injection percutaneously (e.g. inguinal, axillary, cervical, or subcutaneous)
+Subjects who have been diagnosed with prior cancer at any site may participate as long as they have been off medical therapy for at least one year
+Patient must consent to a biopsy of a site of disease unless the only site of disease is lung/pleura, bone, or deemed unsafe by the principal investigator
+Patients who had previous radiation dose to the site of the current primary disease, which would lead to violation of known radiation tolerance limit of that particular site if treated again
+Patients with any evidence of damaged skin, or moles, scars, tattoos or marks at the proposed site(s) of administration that might interfere with the interpretation of local skin reactions.
+Patients with prior fractionated radiation to the treated site are allowed; their prior treatment plan with date, fractionation, dose and treatment fields must be obtained; there must be at least a three month interval elapsed from the prior radiation to the treated site and enrollment
+Apparent tumor invasion into organs located adjacent to the esophageal disease site (eg, aorta or respiratory tract) at an increased risk of fistula in the study treatment assessed by investigator
+All patients with histologic proof of malignant melanoma. Histologic confirmation may be from the primary tumor site, or from another metastatic site (systemic lymph node, etc). Cytology-alone is not an acceptable method of diagnosis.
+At least one site of measurable disease as defined by at least 1 cm in greatest dimension; this site must be different from the sites to be used for biopsy; no prior radiation therapy or directed ablation to the site of measurable disease
+Targeted tumor is at an impending fracture site of the weigh bearing bone (>7 on fracture risk score, see Section 6.9). OR o Patients with surgical stabilization of tumor site with metallic hardware
+Subject must have a bloodstream infection with no other apparent source that is not related to an infection at another site that meets one of the following:
+Subjects with the presence of a tunnel or catheter exit site infection or an infusion port pocket abscess as manifested by purulence at the exit site, or inflammation with erythema, or induration of greater than 1 cm in diameter;
+Patients must have evidence of MIBG uptake into tumor at >= one site within 4 weeks prior to entry on study and subsequent to any intervening therapy
+Patients must not have received radiation for a minimum of two weeks prior to start of vorinostat; for patients with only one site of measurable or evaluable disease, radiation must not have been given to that site unless that site has demonstrated clear progression after radiation
+RENAL COHORT: If the kidney primary tumor is in place this is the preferred site of biopsy
+Histological evidence of primary stage III or IV or recurrent endometrial carcinoma who have had definitive surgery for endometrial cancer (at least hysterectomy and bilateral salpingo-oophorectomy); pathologic documentation of the recurrence (i.e., biopsy) is required if there is only a single site of disease on imaging and that site is less than 2 cm; if a subject with recurrence is undergoing a biopsy for clinical indications and is willing and able, an optional collection of 3 frozen tissue cores of the recurrence site is requested for correlative analysis
+Prior therapy with a conjugated or unconjugated auristatin derivative/vinca-binding site targeting payload.
+Carcinoma of the neck of unknown primary site origin (even if p16-positive).
+Patients who have measurable residual tumor at the primary site
+Patients at the National Cancer Institute (NCI) site and other selected centers who are willing to undergo an optional pre-treatment ferumoxytol MRI must not have evidence of iron overload, a known hypersensitivity to ferumoxytol or any other IV iron product, a documented history of multiple drug allergies, or those for whom MRI is otherwise contraindicated, including claustrophobia or anxiety related to undergoing MRI; this exclusion criterion applies only to patients enrolling at NCI and other selected sites; of note, the principal investigator (PI) will allow other centers to offer FMX MRI scans if the site in question is willing and the site PI can identify the necessary resources and expertise at their center
+Have at least one site of disease that is considered potentially suitable for treatment with SBRT
+Patients who have received prior surgical site radiation
+Measurable disease per modified (m)RECIST version (v)1.1; patients must have at least 1 distinct site of measurable disease, >= 1 cm in its largest diameter, in addition to the site that is being irradiated
+Patients with nasopharyngeal, paranasal sinus, skin, or unknown primary site disease
+Carcinoma of the neck of unknown primary site origin (even if p16 positive)
+Primary disease site involving the oropharynx
+Patient agrees to stay within a reasonable distance (i.e. 30 minutes travel time) of the study site for the duration of the first treatment cycle through 24 hours after the last dose
+Patients by definition have disease at the primary tumor site of at least 2 centimeters
+Patient’s treatment plan must include primary tumor site biopsy followed by gross excision of the primary tumor site at a separate operative procedure
+Previous radiosurgery to any intracranial site within the prior 6 weeks
+Histologic diagnosis of resected stages IIIC/ IV melanoma, with no evidence of disease clinically and radiologically; all melanomas regardless of primary site of disease will be allowed
+Patients must have evidence of MIBG uptake into tumor at ? one site within 4 weeks prior to entry on study and subsequent to any intervening therapy.
+Newly obtained tumor biopsy from metastatic site
+Patients presenting with metachronous disease may have distant metastases, regional lymph node or renal bed recurrence; recurrences at a partial nephrectomy resection site are not eligible if it is the only site of disease
+Subject with a BMI ?50, which may interfere with access to the surgical site and increase overall operative risk.
+Must have an apheresis product of non-mobilized cells received and accepted by the manufacturing site.
+Subjects with any previously untreated or concurrent cancer that is distinct in primary site or
+Previous chemotherapy for any other disease site if given within 3 years prior to step 1
+Metastatic renal cell carcinoma (clear cell or non clear cell)\r\n* One metastatic site amenable to cryoablation\r\n* Patients with a single metastatic site may be enrolled if that site is amenable to ablation; however these patients will not be counted in secondary measures of response unless there is new disease detected during follow up\r\n* Eligible for cytoreductive surgery, metastasectomy, or repeated biopsy; biopsy site cannot be lung, mediastinal lymph node, or bone (unless soft tissue component)
+Vertebral body site to be treated is located from C3 to L5
+Primary tumor site without progression at registration
+Progression of primary tumor site (breast, prostate, or lung) at time of registration
+Patients must have a site of metastatic disease that can be safely resected or biopsied for tissue sufficient for TIL harvest
+Clinical objective evidence of bacterial infection and a known site of infection.
+Have at least one site of disease measurable disease by RECIST v1.1 that has not been treated with local therapy within 6 months of study treatment. This can be the site for initial or repeat biopsies as long as it will remain measurable following biopsy.
+Subject has an active or suspected infection at the surgical site;
+Subject in whom the investigational or control device will be used at the site of a valve replacement or repair;
+Subject in whom the investigational or control device will be used at the site of a synthetic graft or patch implant;
+Subject does not have an active or suspected infection at the surgical site;
+Patient has already undergone wide local excision at the site of the primary index lesion.
+Planned adjuvant radiotherapy to the primary melanoma site after Wide Local Excision is not permitted as part of the protocol and any patients given this treatment would be excluded from the study.
+Nasopharyngeal primary site, if WHO type II or III (non-keratinizing)
+Patients with nasopharynx or salivary gland primary site will be excluded from this trial
+Patients who previously received radiotherapy to the primary site with CT evidence of disease progression at the primary site within 3 months following the initial radiotherapy
+Enrollment in a concurrent cancer therapeutic trial will require prior review and approval by the study site principal investigator (PI) to determine that there are no drug interactions concerns
+Site of disease amenable to low-dose, local radiotherapy (2 x 2Gy)
+Prior history of radiation therapy to the affected site
+Patients must have histologic documentation or clinical evidence of a carcinoid tumor of primary site (including foregut, midgut, hindgut or other non-pancreatic site); tumors of unknown primary site are eligible provided the treating physician does not suspect medullary thyroid cancer, pancreatic neuroendocrine tumor, paraganglioma, or pheochromocytoma; unknown primary tumors will be classified as small bowel tumors for the purpose of stratification; functional (associated with a clinical syndrome) or nonfunctional tumors are allowed; target lesions must have shown disease progression if therapy included peptide receptor radiotherapy (PRRT) and PRRT must be completed at least 8 weeks prior to registration
+Patients with unknown primaries are included if the diagnosis and resection of a primary site in the oropharynx is made from an endoscopic or robotic surgical procedure (s)
+Patients must have a tumor site amenable to biopsy as determined by the treating investigator; any questions regarding suitability of a site for biopsy will be adjudicated by the principal investigator
+Presence of at least 1 measurable site of disease.
+No prior chemoradiation to the primary pancreatic tumor unless there is a measurable distant site of disease
+Patients with an intact colon/rectum, except for clinical polyposis, and prophylactic surgery is being considered as a stratification site.
+Duodenal polyposis as a stratification site; one or more of the following:
+Subjects with mammographic appearance of overall dense parenchymal tissue may be included, as long as a clearly evident marker is present at tumor site
+Local disease at the primary site must be asymptomatic
+Open-label day 1 visit is within 6 months after this amendment is approved and becomes effective at the study site;
+Patients cannot have more than 3 vertebrae or paraspinal sites involved (each involved vertebral body or paraspinal site is scored as 1 site of disease)
+PRIMARY SITE (ONE OF THE FOLLOWING CRITERIA):
+Has measurable disease per RECIST 1.1 as determined by the local site investigator/radiology assessment
+Employees of the clinical study site who are directly involved with the conduct of the study, or immediate family members of such individuals. These subjects may be treated at another site participating in the study
+Bone as the only site of disease
+Subjects with bone or skin as the only site of measurable disease
+Patients who are investigational site staff members directly involved in the conduct of the trial and their family members, site staff members otherwise supervised by the Investigator, or patients who are Pfizer employees directly involved in the conduct of the trial.
+Primary tumors of the bone (e.g., osteosarcoma) at site of index vertebra(e),
+Benign tumors of the bone (e.g. osteoid osteoma) at site of index vertebra (e),
+Patients must have at least one site of disease that is accessible for intratumoral injection of SD-101 and of ipilimumab (diameter >= 10mm), percutaneously
+Patients must have measurable disease other than the injection site or biopsy site
+Willing to remain on-site for approximately 24 hours after administration of AVB-620 or, if required, stay overnight after the surgical procedure
+Adenocarcinoma or carcinoma of unknown primary site
+Diagnosis of recurrent or metastatic SCCHN on any site except lip, thyroid, salivary gland, or nasopharynx
+Subjects who fail to comply with site requirements for cessation of medication that interfere or increase procedure risk.
+Destruction of cortical bone at impending fracture site > 50%. -Actual Fracture-Specific Inclusion Criteria
+Primary tumor (osteogenic origin, etc.) at site.
+Active or incompletely treated infections that could involve the device implant site.
+Distant foci of infection that may spread to the implant site.
+Destruction of cortical bone at impending fracture site < 50%.
+Prior surgery and/or prior fracture of affected site.
+Any articular component to impending fracture site. -Actual Fracture-Specific Exclusion Criteria
+Patients whose intramedullary canal at site of fracture measures smaller than the diameter of the sheath provided.
+Use of topical corticosteroids at or near the intended administration site;
+Accessibility to the site that optimizes the subject's ability to keep all study-related appointments.
+Geographically accessible to site, i.e. the ability to come to the study site for each scheduled appointment and evaluation.
+A target bleeding site can be identified.
+Target bleeding site is identified on the cut raw liver surface (resection area).
+A target bleeding site cannot be identified.
+Available tumor site amenable to core needle biopsy as determined by the treating investigator; any questions regarding suitability of site for biopsy will be adjudicated by the principal investigator
+At least one MIBG avid bone site or diffuse MIBG uptake.
+Oncology physicians must work at a National Cancer Institute (NCI) Community Oncology Research Program (NCORP) practice site with no plans to leave that NCORP practice site or retire at the time of enrollment into the study
+Patients with a radiographic or pathologic fracture to the treatment site
+PORT SITE CLOSURE TECHNIQUE:
+Individuals with significant psychiatric disturbance that require a higher level of care; this determination will be at the discretion of the healthcare provider, site principal investigator (PI); as appropriate and determined by the site PI, the study PI may be consulted to discuss determination of participant eligibility
+Individuals with substance abuse/dependence problems that require a higher level of care; this determination will be at the discretion of the healthcare provider or site PI; as appropriate and determined by the site PI, the study PI may be consulted to discuss determination of participant eligibility
+Targeted tumor is at an impending fracture site (>7 on fracture risk score, see Section 7.4). OR
+Patients with surgical stabilization of tumor site with metallic hardware
+Prior surgery in the same site in the breast
+Technical contraindications to epidural placement: previous thoracic spinal surgery or local skin or soft tissue infection at proposed site for epidural insertion
+History of abdominal surgery precluding free flap donor site
+Local skin infections at or near the acustimulation site
+History of cerebral vascular accident (CVA) or other central nervous system disorder resulting in residual weakness or paresis of extremity contralateral to the site of disease
+Surgery that would not allow access to at least one P6 site
+All patients must have a vertebral body site to be treated located from T1 to L5
+Active infection or ulcer at the lumbar injection site
+Lives within a two-hour commuting distance from the recruitment site
+Craniotomy or intracranial biopsy site must be adequately healed, free of drainage or cellulitis, and the underlying cranioplasty must appear intact at the time of study entry
+Residence > 70 miles from research site
+International Classification of Disease, 9th revision (ICD 9) cancer diagnosis seen at each site in the past two years
+Active or known prior infection at the pseudarthrosis site
+Willing to drive to the study site
+Patients must be willing and able to travel to the pulmonary rehabilitation site at the Morehouse Medical Plaza
+Patient or caregivers who are unwilling or incapable of maintaining a detailed log of number of injections, the date, time and site of administration
+Clinical evidence of skin infection at the potential site of IPC placement
+Local infection at or near the acupuncture site; (although acupuncture is a minimally invasive procedure, patients will be excluded if there is an indication of infection)
+Technical contraindications to epidural placement: previous thoracic spinal surgery or local skin or soft tissue infection at proposed site for epidural insertion
+Able to travel to the retreat site
+Local infection at or near the acupuncture site (although acupuncture is a minimally invasive procedure, patients will be excluded if there is an indication of infection)
+Reside in California or receive care at a Sanford Health site
+Participant plans to relocate away from the study site to a location that does not have an Anal Cancer/HSIL Outcomes Research (ANCHOR) study site during study participation
+Tattoos, scars, active lesions, or rashes =< 2 cm of the intended site of study treatment
+SITE ELIGIBILITY (AS PER SC SELF-REPORT)
+Must be designated as an American College of Radiology (ACR) designated lung cancer screening site
+SITE COORDINATOR (SC) ELIGIBILITY (AS PER SELF-REPORT)
+Employed as a full-time Site Coordinator at participating lung cancer screening site
+Have an acute illness, as determined by the site principal investigator within 72 hours prior to study vaccination; an acute illness which is nearly resolved with only minor residual symptoms remaining is allowable if, in the opinion of the site principal investigator, the residual symptoms will not interfere with the ability to assess safety parameters as required by the protocol and was not due to an influenza infection
+Primary site may include oral cavity, pharynx, or larynx; oropharynx primaries must be human papilloma virus (HPV) (-) as defined by routine p16 immunohistochemistry (IHC) at the local site
+Up to three small (? 3 cm each) lung oligometastases will be allowed and/or one oligometastasis at any other site in the body
+Patients with hematomas or biopsy site changes that limit response assessment of the primary tumor by diagnostic imaging
+Ambulatory, able to come to either food distribution site to pick up food and participate in clinical examinations and laboratory tests
+Patients without breast biopsy marker documented by imaging at tumor bed site prior to initiation of neoadjuvant therapy
+Prior radiation or ablative therapy to intended site of biopsy, if within the prostate bed
+Known or suspected renal impairment; requirements for GFR prior to MRI as determined by local site standard practice
+Patients with extensive prior surgery at the primary site or nodal basin expected to affect the lymphatic drainage
+Patients who have had surgery at the site of the suspected lesion within 1 month
+Patients must have MIBG evaluable disease which is defined as evidence of uptake into tumor at >= one site within 4 weeks prior to entry on study and subsequent to any intervening therapy
+Patients must have measurable residual disease at the primary site, after surgery or at relapse as estimated by imaging
+Pre-operative radiation to primary tumor site
+At least one site of disease 1.5 cm or greater is needed to meet the spatial resolution limits of PET imaging
+Patients who have had surgery at the site of the suspected lesion within 1 month
+At least 1 site of metastasis >= 20 mm in mean diameter must be identified
+Mohs surgery located on a site that may not be convenient to confocal imaging
+DYNAMIC COHORT: Clinical plan for biopsy or surgical procedure of at least one site of known or suspected cancer
+Subjects must have at least 1 tumor site that can be biopsied at acceptable clinical risk and must consent to pre- and post-treatment biopsies
+Minimum provider participation requirements met; this includes participation in the study intervention of a minimum of the following: Site Coordinator and Site Clinician Investigator/study champion
+On-site genetics professionals as defined by the Commission on Cancer
+STUDY SITE ELIGIBILITY:
+Has a study site-specific nurse available to act as a PN or has a (study site-specific or shared) nurse available to act as a “clinical consultant” to a study site-specific, non-nurse navigator\r\n* Study sites randomized to the Intervention Arm are not eligible to register subjects (nor administer the protocol intervention), until the site’s identified PN(s) has/have completed the protocol-specific navigation training
+Evaluated/treated for NSCLC at an eligible study site
+Patient is being treated at a Duke Cancer Network (DCN) affiliate site
+GARAGE/SITE EXCLUSION:
+Has an exocrine GI cancer with MSKCC pathology confirmation at the primary or metastatic anatomic site
+Health care providers at the participating site must be willing and able to participate in the educational initiative
+Adenocarcinoma or carcinoma of unknown primary site (UKPS).

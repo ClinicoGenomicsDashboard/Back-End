@@ -1,0 +1,9 @@
+Cluster 308: newly diagnosed cancer patients breast histologically stage disease untreated confirmed 
+Cluster 402: stage iv cancer breast disease metastatic iii patients diagnosed diagnosis 
+Cluster 492: breast diagnosis cancer stage years confirmed current hr primary patients 
+Cluster 559: stage melanoma iv unresectable iii histologically confirmed metastatic diagnosis iiic 
+Cluster 891: pheochromocytoma patients concurrent diagnosis metastatic regorafenib biochemically phases untreated hyper 
+Cluster 1627: stage breast cancer iii ii diagnosed diagnosis early newly histologically 
+Cluster 1828: stage iii iv ii arbor ann disease cancer iva figo 
+Cluster 1923: stage disease clinical patients ib iiia bclc ii ia cancer 
+Cluster 2109: colorectal cancer metastatic chemotherapy patients crc diagnosed prior stage breast 

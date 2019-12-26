@@ -1,0 +1,32 @@
+Uncorrected hyponatremia (defined as serum sodium value of < mEq/L)
+Potassium (K) should be within the range of >= . mEq/L
+Obtained within  days prior to the first dose of cabozantinib: potassium >= . meq/L.
+Sodium >=  mEq/L
+Hyponatremia (defined as serum sodium level <  mEq/L)
+Anion gap >  meq/L or arterial blood pH < ..
+Potassium >  and < . mEq/L
+Magnesium > . and < . mEq
+Patients with electrolyte abnormalities at study entry defined as follows: Serum potassium < . mEq/L despite supplementation, or > . mEq/L; Serum magnesium above or below the institutional normal limit despite adequate management; Serum calcium (corrected for albumin levels) above or below institutional normal limit despite adequate management.
+Serum potassium >= . mEq/L
+Sodium - mEq/L
+Potassium .-. mEq/L
+Bicarbonate - mEq/L
+Hyponatremia (serum sodium value less than  mEq/L)
+Hyponatremia (defined as serum sodium value of <  mEq/L).
+Uncorrected severe electrolyte disorder, including severe potassium (< . mEq/L) or magnesium (< . mEq/L) deficiency
+Subjects must have potassium (K+) >. mEq/l.
+Hyponatremia (defined as serum sodium value of <  mEq/L).
+Serum bicarbonate >=  mEq/L
+Has known renal tubular acidosis with serum bicarbonate <  mEq/L
+Serum potassium >= . mEq/L
+Serum potassium >= . mEq/L
+Potassium =< . mEq/L
+Serum magnesium =< . mEq/L
+Serum magnesium > .mEq/L
+Adequate potassium level > . mEq/dL
+Serum potassium of >= . mEq/L
+Potassium within the normal range of .-. mEq/L
+Serum bicarbonate greater than or equal to  mEq/L
+Be either phase advanced or delayed (morning or evening types by the Horne-Ostberg Morningness-Eveningness Questionnaire [MEQ] ?  or ? )
+Must be either morning or evening types (determined by Horne-Ostberg Morningness-Eveningness Questionnaire [MEQ])
+Grade  or higher recent (within the past  months) or ongoing cardiac dysrhythmias, family history of long QT syndrome, or serum potassium < . mEq/L that is persistent and refractory to correction

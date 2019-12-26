@@ -1,0 +1,25 @@
+Total bilirubin < . x upper limit of normal (ULN) if no liver metastases or =<  times ULN in the presence of documented Gilberts syndrome (unconjugated hyperbilirubinaemia) or liver metastases within  weeks before randomization
+Alanine aminotransferase (ALT) > . times the upper limit of normal (ULN) if no demonstrable liver metastases, or >  times ULN in presence of liver metastases
+Aspartate aminotransferase (AST) > . times ULN if no demonstrable liver metastases, or >  times ULN in presence of liver metastases
+Total bilirubin < . times the upper limit of normal (ULN) if no liver metastases or <  times the ULN in the presence of documented Gilberts syndrome (unconjugated hyperbilirubinemia) or liver metastases
+Total bilirubin < . times the upper limit of normal (ULN) if no liver metastases or <  times the ULN in the presence of documented Gilberts syndrome (unconjugated hyperbilirubinemia) or liver metastases
+Alanine aminotransferase > . times the upper limit of normal (ULN) if no demonstrable liver metastases or >  times the ULN in the presence of liver metastases.
+Aspartate aminotransferase > . times the ULN if no demonstrable liver metastases or >  times the ULN in the presence of liver metastases.
+Total bilirubin > . times the ULN if no liver metastases or >  times the ULN in the presence of documented Gilbert's Syndrome (unconjugated hyperbilirubinemia) or liver metastases.
+ALT and/or AST >. times the upper limit of normal (ULN) if no demonstrable liver metastases or > times ULN in the presence of liver metastases
+Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) < . times upper limit of normal (ULN) if no demonstrable liver metastases or <  times ULN in the presence of liver metastases obtained =<  days prior to study initiation
+Total bilirubin < . times ULN if no liver metastases or <  times ULN in the presence of documented Gilberts syndrome (unconjugated hyperbilirubinaemia) or liver metastases obtained =<  days prior to study initiation
+Bilirubin =<  X ULN or <  X ULN in the presence of liver metastases
+Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) >. times the upper limit of normal (ULN) if no demonstrable liver metastases or > times ULN in the presence of liver metastases
+Total bilirubin >. times ULN if no liver metastases or  times ULN in the presence of liver metastases or documented Gilbert's Syndrome (unconjugated hyperbilirubinaemia)
+Total bilirubin > . times the upper limit of normal (ULN) if no demonstrable liver metastases or >  times ULN in the presence of documented Gilberts syndrome or liver metastases
+Alanine aminotransferase (ALT) >. times the upper limit of normal (ULN) if no demonstrable liver metastases or > times ULN in the presence of liver metastases
+Aspartate aminotransferase (AST) >. times ULN if no demonstrable liver metastases or > times ULN in the presence of liver metastases
+Alanine aminotransferase > . times the upper limit of normal (ULN) if no demonstrable liver metastases or >  times ULN in the presence of liver metastases
+Aspartate aminotransferase > . times ULN if no demonstrable liver metastases or >  times ULN in the presence of liver metastases
+Total bilirubin > . times ULN if no liver metastases or >  times ULN in the presence of documented Gilberts syndrome (unconjugated hyperbilirubinemia) or liver metastases
+Alanine aminotransferase > . times upper limit of normal (ULN) if no demonstrable liver metastases or >  times ULN in the presence of liver metastases; aspartate aminotransferase > . times ULN if no demonstrable liver metastases or >  times ULN in the presence of liver metastases
+Total bilirubin > . times ULN if no liver metastases or >  times ULN in the presence of documented Gilberts syndrome (unconjugated hyperbilirubinemia) or liver metastases
+Total bilirubin >. x ULN if no liver metastases or > x ULN in the presence of liver metastases (except in the case of Gilbert's disease)
+Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ?. times ULN for participants without liver metastases, or ? times ULN in the presence of liver metastases
+Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ? . times ULN for subjects without liver metastases, or ?  times ULN in the presence of liver metastases

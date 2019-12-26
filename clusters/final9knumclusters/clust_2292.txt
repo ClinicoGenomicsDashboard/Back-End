@@ -1,0 +1,62 @@
+Patients with M2 marrow or better are eligible; patients with M3 or M4 marrow (greater than 25% lymphoblasts) will not be eligible to be randomized\r\n* Rating: M0, M1; Blast Cells (%): 0-5.0\r\n* Rating: M2; Blast Cells (%): 5.1-25.0\r\n* Rating: M3; Blast Cells (%): > 25-50\r\n* Rating: M4; Blast Cells (%): > 50.0\r\n* The term “blast cell” includes any cell that cannot be classified as a more mature normal element, and includes “leukemic cells,” pathologic lymphocytes, and stem cells
+Peripheral blast count </= 20,000/mm3 at the time of initiation of infusion on Cycle 1 Day 1
+Patients must have a peripheral blast count < 25,000/uL within 2 days prior to registration; (treatment with hydroxyurea and steroids is permitted to bring the countdown)
+Leukemic blast counts of >25,000/µl
+Have a peripheral blast count of >30,000/mm3 (may use hydroxyurea as in #3 above)
+Patient previously diagnosed with AML (defined as a bone marrow or peripheral blood blast percentage of >30%).
+Peripheral blast count of <10%
+Peripheral blood lymphoblasts =< 50,000 mcL; hydroxyurea and/or leukapheresis is permitted to reduce the peripheral blast count prior to enrollment and treatment
+Bone marrow blast count ? 10% or peripheral blast count ? 5%, or IPSS-R score ? 3.5.
+At least 3 weeks beyond the last chemotherapy, targeted anticancer agent, major surgery or experimental treatment and recovered from all acute toxicities (? Grade 1). Hydroxyurea used to control peripheral blast counts is permitted up to Day 7 of treatment on study.
+Peripheral blood blast count =< 30,000 at time of eligibility assessment (within 7 days of start of therapy); blast counts that increase beyond 30,000 after a patient is deemed eligible will not disqualify the patient
+Leukemic blast cell count >50 × 109/L before the start of study therapy and despite the use hydroxyurea.
+Patients with leukemic/blast phase transformation MPN
+White blood cell (WBC) count < 50,000/uL before administration of pevonedistat on cycle 1 day 1; Note: hydroxyurea may be used to control the level of circulating leukemic blast cell counts to not lower than 10,000/uL during the study
+Must have an absolute blast count (ABC) of < 15 K/ul in the peripheral blood prior to initiating study treatment, performed within 10 days of treatment initiation; use of hydroxyurea to control blast counts prior to initiating study treatment is acceptable
+Patients should have a circulating blast count of less than 10,000/mm^3 (control with hydroxyurea or similar agent is allowed)
+Circulating blast count > 30,000/uL by morphology or flow cytometry (cyto-reductive therapies including leukapheresis or hydroxyurea are allowed)
+Subjects with peripheral blood blast count of > 10% at the screening or baseline hematology assessments
+Circulating blast count > 30,000/uL by morphology or flow cytometry (cyto-reductive therapies including leukapheresis or hydroxyurea are allowed)
+MDS patients: \r\n* Cytogenetics consistent with poor or very poor risk group by 5-risk classification;\r\n* Cytogenetics consistent with monosomal karyotype\r\n* Bone marrow blast count > 5% but less than 20% at any time during their disease course before HSCT\r\n* Peripheral blood blast =< 5% at HSCT
+AML patients: \r\n* Cytogenetics and molecular features consistent with adverse risk group;\r\n* Presence of minimal residual disease by multi-color flow cytometry or cytogenetics or molecular studies at the time of HSCT; \r\n* Presence of active disease defined as bone marrow blast count > 5% but less than =< 10% at the time of HSCT\r\n* Peripheral blood blast count =< 5% at HSCT
+Bone marrow blast count > 60% for cohort 1
+Blasts in peripheral blood < 20,000 (treatment with hydroxyurea is permitted up to 24 hrs prior to LY251092 administration to achieve blast counts < 20,000 prior to enrollment)
+Bone marrow blast ? 10%
+In order to prevent tumor lysis syndrome, acute leukemia patients must have a peripheral blast count under 50 x 10^9/L; this should be achieved with hydroxyurea cytoreduction, prior to starting DT2219
+White blood cell count > 50,000 per micro liter (/µL); hydroxyurea may be used to control the level of circulating leukemic blast cell counts prior to study entry and, if needed, concomitantly while on TAK-659 treatment during the first 28 days of the study. Hydroxyurea can be used up to a maximum dose of 5 gram per (g/) day.
+Research participant’s absolute leukemic blast count does not exceed 10,000 cells/uL
+Circulating blast count >= 30,000/uL by morphology or flow cytometry (cytoreductive therapies including leukapheresis or hydroxyurea are allowed)
+Have a peripheral blast count of >30,000/mm3 (may use hydroxyurea as in #5 above)
+Blast count =< 10,000
+Blood blast percentage higher than 5%
+TdT-positive leukemia (ALL, AML, or blastic CML) that has failed at least one standard treatment regimen and for which no standard therapies are expected to result in durable remission. Leukemia is minimally defined as at least 20% blast cells present in marrow or peripheral blood. TdT must be expressed in at least 20% of blast cells present and documented either immunologically or biochemically;
+Hyperleukocytosis with > 50,000 blasts/ul; hydroxyurea for blast count control is permitted before starting treatment and up to maximum of 4 days after starting treatment on the study; the white blood cell (WBC) need not reach 50,000/ul to start hydroxyurea during protocol; the decision to start hydroxyurea during this time is at the discretion of the treating physician; patients will be withdrawn from the study if > 50,000 blasts/ul persists on hydroxyurea or recur >= 5 days after starting treatment on the study
+Concurrent chemotherapy (except hydroxyurea) or interleukin-2 (IL-2) therapy or anticipated need during the study treatment for 1 week after the last dose of ALT-803-hydroxyurea is permitted at any time to control blast count
+Subject has circulating blast count > 50,000/?L (subjects may be enrolled if circulating blast count is controlled by hydroxyurea and/or, if clinically indicated, by leukophoresis)
+Patients with acute leukemia must have chemotherapy sensitive disease, as defined by at least a 50% reduction in circulating absolute blast count due to the most proximal regimen
+Peripheral blood blast count of >= 10% or bone marrow blast count of >=10%
+Absolute blast count (ABC) ? 40,000/mm
+Bone marrow documenting blast count >= 10% or >= 5% in CMML patients who have progressed beyond CMML1 and received myelosuppressive chemotherapy
+For a diagnosis of AML, a bone marrow blast count of 20% or more is required.
+Circulating blast count >= 10,000/uL by morphology or flow cytometry (cytoreductive therapies including leukapheresis or hydroxyurea are allowed)
+Peripheral blood blast count < 10%
+Have a circulating blast count of less than 10,000/mm3 (control with hydroxyurea is allowed)
+Peripheral blood blast count < 10,000/uL
+Peripheral blood blast count < 10%
+Requires agents other than hydroxyurea to control blast count
+Patients should have a circulating blast count of less than 10,000/mm^3 (control with hydroxyurea or similar agent is allowed)
+Patients should have a circulating blast count of less than 10,000/mm^3 (control with hydroxyurea or similar agent is allowed)
+Absolute leukemic blast count in peripheral blood >50,000/ microliter;
+Circulating blast count >= 50,000/uL within the week preceding enrollment
+Bone marrow involvement with >= 5% lymphoblasts, peripheral blast count less than 5,000 per uL
+have blast counts that can be controlled by the use of hydroxycarbamide (500 to 3000 mg daily).
+hyperleukocytosis (blast counts >30 000/mm3).
+Hydroxyurea to control peripheral blood blast count must be discontinued within 24 hours prior to the initiation of treatment; hydroxyurea can also be given through the first cycle of treatment, but should not be initiated earlier than day 5
+Patients with rapidly increasing peripheral blood blast counts
+Peripheral blood blast count must be ? 30,000 cells/µL.
+Peripheral blood blast ? 5% Be able to start study therapy between 42 to 84 days following allogeneic HSCT Post transplant bone marrow blast count ? 5% confirmed within 21 days prior to starting study therapy Adequate engraftment within 14 days prior to starting study therapy:
+Bone marrow blood blast count < 20%
+Blast count ?20%
+Blast count ? 20% (WHO criteria)
+Have a circulating blast count of less than 200/mm3 (control with hydroxyurea or similar agent is allowed);
+Absolute blast count ?10,000/mm3 or symptoms of leukostasis

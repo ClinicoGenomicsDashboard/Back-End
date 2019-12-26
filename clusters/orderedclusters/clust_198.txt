@@ -1,0 +1,62 @@
+The institution�s pre-enrollment biomarker screening at a Clinical Laboratory Improvement Amendments (CLIA) certified lab documents presence of known �sensitive� mutations in epidermal growth factor receptor tyrosine kinase (EGFR TK) domain (exon 19 deletion, L858) and/or EML4-anaplastic lymphoma kinase (ALK) fusion arrangement; either the primary tumor or the metastatic lymph node tissue may be used for testing of mutations
+234.0
+The institution�s pre-enrollment biomarker screening at a CLIA certified lab documents absence of T790M mutation in the EGFR TK domain
+234.0
+TREATMENT: Patients with non-small cell lung cancer (NSCLC) must have previously been tested for the presence of epidermal growth factor receptor (EGFR) mutations, and, if detected, should have received and progressed on EGFR tyrosine kinase inhibitor (TKI) therapy
+700.0
+Patients must not have a known epidermal growth factor receptor (EGFR) mutation or anaplastic lymphoma kinase (ALK) fusion; EGFR/ALK testing is not required prior to registration and is included in the Foundation Medicine Incorporated (FMI) testing for screening/prescreening
+10000.0
+Previously registered to A151216, with the result of lung cancer harboring an EGFR exon 19 deletion or L858R mutation; the testing must have been performed by one of the following criteria:a) Patient registered to A151216 and the assessment performed centrally by the protocol-specified laboratoryb) By a local Clinical Laboratory Improvement Amendments (CLIA) certified laboratory; the report must indicate the result as well as the CLIA number of the laboratory that performed the assay; these patients will also have been registered to A151216, but can be enrolled on A081105 regardless of the central lab results* Patients with known resistant mutations in the EGFR tyrosine-kinase (TK) domain (T790M) are not eligible* Patients that are both EGFR mutant and anaplastic lymphoma kinase (ALK) rearrangements will be registered to A081105
+450.0
+Patients must have documented presence of an EGFR exon 19 deletion or exon 21 (L858R) substitution mutation; T790M mutation or other molecular abnormality will be allowed as long as it accompanies one of the mutations listed above; EGFR testing must be performed using a Food and Drug Administration (FDA)-approved test or in a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory.
+223.0
+NSCLC must harbor at least one of the following EGFR activating mutations: Exon 21 L858R, Exon 19 deletion, Exon 18 G719X, Exon 21 L861Q or for EGFR Exon 20 insertion expansion cohort D, NSCLC must harbor an EGFR Exon 20 insertion performed by a Clinical Laboratory Improvement Act (CLIA) certified test
+82.0
+For Dose escalation cohort - progressive disease on at least one prior EGFR-tyrosine kinase inhibitor (TKI) (previous treatment with 3rd generation EGFR-TKI including AZD9291 allowed for dose escalation)
+82.0
+For Dose Expansion Cohort A: patient must 1) have progression of disease on erlotinib, gefitinib or afatinib as last previous systemic treatment, 2) have biopsy of tumor taken after progression on erlotinib, gefitinib or afatinib which must be EGFR-T790M negative confirmed by central testing prior to treatment (if EGFR-T790M status is unknown, patients may consent for trial and for biopsy and testing for EGFR T790M will be performed as part of initial biopsy for trial), and 3) be treatment naive to 3rd generation EGFR-TKI (rociletinib, EGFR inhibitor HM61713 [HM61713] and AZD9291) and EGFR monoclonal antibodies
+82.0
+For Dose Expansion Cohort B: patient must 1) have progression of disease on a 3rd generation EGFR-TKI such as AZD9291, rociletinib, HM61713, 2) be treatment naive to an EGFR monoclonal antibody, and 3) have a biopsy of tumor taken after progression on last EGFR-TKI that indicates loss of EGFR-T790M (EGFR-T790M negative) confirmed by central testing prior to treatment (if EGFR-T790M status is unknown, patients may consent for trial and for biopsy, and testing for EGFR T790M will be performed as part of initial biopsy for trial)
+82.0
+For Dose Expansion Cohort C: patient must 1) have progression of disease on a 3rd generation EGFR-TKI such as AZD9291, rociletinib, HM61713, 2) be treatment naive to an EGFR monoclonal antibody, 3) have a biopsy of tumor taken after progression on last EGFR-TKI that indicates preservation of EGFR-T790M post-progression on 3rd generation EGFR-TKI with biopsy confirmation by central testing prior to treatment (if EGFR-T790M status is unknown, patients may consent for trial and for biopsy, and testing for EGFR T790M will be performed as part of initial biopsy for trial
+82.0
+For Dose Expansion Cohort D: patient must 1) tumor that harbors an EGFR Exon 20 insertion by a CLIA certified test, and 2) have progressive disease on or after platinum based chemotherapy, and 3) be treatment naive to both EGFR-TKI and EGFR monoclonal antibody
+82.0
+Patients must discontinue previous EGFR-TKI at least 7 days prior to study enrollment
+82.0
+NSCLC must harbor an EGFR activating mutation (Exon 21 L858R, Exon 19 deletion, Exon 18 G719X, Exon 21 L861Q)
+36.0
+Progressive disease on at least one prior EGFR-TKI (previous treatment with 3rd generation EGFR-TKI including osimertinib [AZD9291] allowed for dose escalation only)
+36.0
+For the dose expansion portion ONLY, patient must: 1) have progression of disease with erlotinib, gefitinib or afatinib as last previous systemic treatment, 2) tumors must be EGFR T790M negative confirmed by central testing prior to treatment (If EGFR-T790M status is unknown, patient may consent for trial for biopsy and testing for EGFR T790M will be performed as part of the initial biopsy for the trial: patients who test positive for EGFR T790M by central testing will be ineligible for the dose expansion), 3) be treatment naive for 3rd generation EGFR-TKI (CO-1686 and osimertinib [AZD9291]) and mTOR inhibitors
+36.0
+Prior genotyping positive for an EGFR activating mutation (L858R, exon 19 deletion, G719X, L861Q)
+50.0
+Progression after prior treatment with an EGFR TKI; in addition to this one prior line of therapy, any additional prior lines of therapy are permitted; prior treatment with a third-generation EGFR TKI is allowed for the dose escalation phase, but is not permitted for the expansion cohort
+50.0
+For the dose expansion portion only, patient must: 1) have a tumor which is EGFR-T790M positive and 2) be treatment naive to T790M-directed EGFR TKI (e.g. AZD9291, rociletinib, etc); T790M testing may be done locally or centrally on study, but if done locally, tissue must be available for central confirmation
+50.0
+Patients must discontinue previous EGFR-TKI at least 7 days prior to study enrollment
+50.0
+PHASE I: Patients must have metastatic/recurrent, histologically confirmed NSCLC that harbors an EGFR activating mutation (exon 21 L858R, exon 19 deletion, exon 18 G719X, exon 21 L861Q) with progressive disease by RECIST 1.1 on a previous EGFR-tyrosine kinase inhibitor (TKI); OR patients must have metastatic/recurrent histologically confirmed NSCLC that harbors an EGFR exon 20 insertion with progressive disease on platinum containing chemotherapy
+46.0
+PHASE II COHORT A: Patients must have metastatic/recurrent histologically confirmed NSCLC that harbors an EGFR activating mutation (exon 21 L858R, exon 19 deletion, exon 18 G719X, exon 21 L861Q) with stable disease by RECIST 1.1 as best response on erlotinib compared to pre-treatment erlotinib imaging by RECIST 1.1 or progressive disease compared to pre-treatment imaging by RECIST 1.1 after a minimum duration of treatment on erlotinib of 12-weeks; patients must be enrolled within 6 months of initiation of erlotinib
+46.0
+PHASE II COHORT B: Patients must have metastatic/recurrent histologically confirmed NSCLC that harbors an EGFR exon 20 insertion with progressive disease on or after platinum doublet chemotherapy
+46.0
+FOR PHASE II COHORT B: (EGFR exon 20 insertions): Prior EGFR-TKIs including erlotinib is allowed; if patient is on erlotinib at the time of signed consent, erlotinib does NOT need to be discontinued prior to initiation of erlotinib and onalespib
+46.0
+Non-squamous tumors must not be positive for epidermal growth factor receptor (EGFR) exon 19 deletion or exon 21 L858R mutation and anaplastic lymphoma receptor tyrosine kinase (ALK) rearrangement (results ascertained in centrally as part of ALCHEMIST-SCREEN protocol)
+714.0
+All patients must have a somatic PIK3CA gene mutation (i.e., R88Q in exon 1, N345K in exon 4, C420R in exon 7, E542K, E545X [E545A, E545D, E545G, and E545K], Q546X [Q546E, Q546K, Q546L, and Q546R] in exon 9, and M1043I, H1047X [H1047L, H1047R, and H1047Y], or G1049R in exon 20) in a representative primary or metastatic tumor sample confirmed by the Roche COBAS PIK3CA Mutation Test at Q^2 Solutions
+84.0
+Non-small cell lung cancer (NSCLC) with an activating EGFR mutation (exon 19 deletion, L858R point mutation, or any other mutation known to be associated with EGFR TKI sensitivity); presence of an activating EGFR mutation may be documented in tumor tissue or by plasma testing if performed in a Clinical Laboratory Improvement Act (CLIA)-certified laboratory; AND
+98.0
+The presence of an EGFR T790M mutation after progression on a first- or second-generation EGFR TKI; presence of an EGFR T790M mutation may be documented from biopsy material from any site of disease (intra- or extra-cranial) or from plasma testing if performed in a CLIA-certified laboratory; for patients who have disease progression in the CNS only (with otherwise stable disease systemically), T790M positivity is not required
+98.0
+Disease progression on a first- or second-generation EGFR TKI (i.e. erlotinib, gefitinib, or afatinib); patient may have also received prior chemotherapy or immunotherapy but this is not required
+98.0
+Prior treatment with a third-generation EGFR TKI (i.e. rociletinib)
+98.0
+Treatment with an EGFR TKI (i.e. erlotinib, gefitinib or afatinib) within 8 days or approximately 5 x half-life, whichever is longer, of the first dose of study treatment
+98.0

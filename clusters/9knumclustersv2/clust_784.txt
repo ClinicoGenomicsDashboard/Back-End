@@ -1,0 +1,78 @@
+Creatinine =< . mg/dL OR creatinine clearance >= mL/min
+Creatinine at or below IULN (males .-. mg/dl; females .-. mg/dl) OR creatinine clearance >=  mL/min/. m^ for patients with creatinine levels above institutional normal
+Obtained =<  days prior to registration: creatinine =<  mg/dL or creatinine clearance >=  mL/min
+Obtained =<  days prior to registration: creatinine =< . mg/dL or creatinine clearance >=  mL/min
+Creatinine > . mg/dl at the present time; patients with a known history of creatinine > . mg/dl must have a current estimated creatinine clearance of >  ml/min
+Creatinine > . mg/dl at the present time; patients with a known history of creatinine > . mg/dl must have a current estimated creatinine clearance >  ml/min
+Creatinine < . mg/dL (for adults) or creatinine clearance >  ml/min (for children)
+Creatinine =< . mg/dL OR creatinine clearance >=  mL/min
+Either creatinine > . mg/dL or creatinine clearance <  mL/min
+Creatinine clearance >=  mg/dL within  days of registration
+Creatinine levels <  mg/dL; or creatinine clearance >  mL/min
+Creatinine =< . mg/ ml
+Creatinine =< . mg/dL (adults) and creatinine clearance >  mL/min (pediatrics); adults with a creatinine > . or a history of renal dysfunction must have estimated creatinine clearance >  ml/min/.m^
+Patients must have creatinine of less than or equal to . mg/dL or creatinine clearance >  ml/min
+Creatinine =< . mg/dl (adults) and creatinine clearance >=  mL/min (pediatrics); adults with a creatinine > . mg/dl or a history of renal dysfunction must have estimated creatinine clearance >=  ml/min/.m^
+Creatinine =< . mg/dL or creatinine clearance >=  ml/min
+Creatinine >  mg/dL and an estimated creatinine clearance =<  mL/min
+Creatinine below ULN (males .-. mg/dl; females .-. mg/dl) OR creatinine clearance >=  mL/min/. m^ for patients with creatinine levels above institutional normal
+Creatinine =< . mg/dL OR creatinine clearance >=  mL/min/. m^ for patients with creatinine levels above . mg/dL
+RECIPIENT: Creatinine: adult patients: =< . mg/dl and creatinine clearance >=  ml/min; pediatric patients (<  years old) creatinine < . mg/dL and a creatinine clearance >  mL/min/. m^
+Creatinine must also be < . mg/dl or a creatinine clearance >  ml/min
+Creatinine: \r\n* Patients: =< . mg/dl or creatinine clearance >=  ml/min/. m^\r\n* Pediatric patients (<  years old): creatinine =< . mg/dl or a creatinine clearance of >=  mL/min/. m^
+Serum creatinine =< . mg/dl or creatinine clearance >=  ml/min/. m^ for patients with creatinine levels above . mg/dl
+Adequate renal function defined as creatinine =< . mg/dl (adults) or estimated creatinine clearance >  ml/min (pediatrics); all adults with a creatinine > . or a history of renal dysfunction must have estimated creatinine clearance >  ml/min
+Adequate renal function defined as creatinine =< . mg/dl (adults) or creatinine clearance >  ml/min (pediatrics)
+Creatinine =< . mg/ ml
+Creatinine =< . mg/dl or creatinine clearance >  ml/min
+Creatinine =< . mg/dl or creatinine clearance >  ml/min
+Renal: creatinine =< . mg/dl (adults) and creatinine clearance >  ml/min (pediatrics); adults with a creatinine > . or a history of renal dysfunction must have estimated creatinine clearance >  ml/min
+Creatinine =< . mg/dl or creatinine clearance >=  ml/min
+Creatinine =< . mg/dl (adults) and creatinine clearance >=  mL/min (pediatrics); adults with a creatinine > . mg/dl or a history of renal dysfunction must have estimated creatinine clearance >=  ml/min/. m^
+Creatinine < (. mg/dL) during screening evaluation (> . is allowed if EGFR >  mL/min/. m^)
+Stable creatinine =< . mg/dL or creatinine clearance >=  ml/min performed within  days of enrollment
+Creatinine <. mg/dL or creatinine clearance ? mL/min
+Obtained within  days prior to registration: Creatinine =< . mg/dL or creatinine clearance >=  mL/min is recommended; however, institutional norms are acceptable
+Obtained =<  days prior to registration: Creatinine =< . mg/dL or creatinine clearance >  mL/min
+Creatinine =< . mg/dl (adults) or creatinine clearance >  ml/min. ); all adults with a creatinine > . or a history of renal dysfunction must have creatinine clearance (must be >  ml/min)
+Creatinine < . mg/dL or creatinine clearance (CrCl) >=  mL/min
+Creatinine ?  mg/dL OR creatinine clearance ?  mL/min
+Creatinine < . mg/dL OR creatinine clearance >  mL/min/. m^
+Creatinine < . mg/dL, or creatinine clearance >  mL/min
+Creatinine =< . mg/dl or creatinine clearance >  ml/min
+Creatinine =< . mg/dL or creatinine clearance >=  mL/min
+Creatinine =< . mg/dl or creatinine clearance >=  ml/min
+Creatinine less than or equal to . mg/dL, or if > . mg/dL, creatinine clearance must be at least  ml/min
+Creatinine =< . mg/dL OR creatinine clearance >=  mL/min/. m^ for patients with creatinine levels above . mg/dL
+Obtained =<  days prior to registration: Estimated creatinine clearance >=  mL/min or a creatinine =< . mg/dL
+Creatinine =< . mg/dL OR creatinine clearance (measured) >=  mL/min
+Creatinine < . mg/dl or creatinine clearance >  ml/min
+Creatinine < . mg/dL or creatinine clearance >=  mL/min
+Creatinine =< . mg/dL or creatinine clearance >=  mL/min
+Participants must not have a creatinine >  mg/dl or a GFR <  mL/min/.m^
+Renal function creatinine =< . mg/dL and/or creatinine clearance >=  ml/min
+Creatinine clearance >=  mL/min; (creatinine <  mg/dL to receive cisplatin)
+Creatinine < .mg/mL
+Creatinine =< . mg/dL OR creatinine clearance >=  mL/min/. m^ for patients with creatinine levels > . mg/dL
+Creatinine =< . mg/dL or creatinine clearance >=  mL/min
+Creatinine < . mg/dL; if question about renal function discuss with study chairman and do  hour creatinine clearance (clearance should be >  ml/min)
+Creatinine =< . mg/ ml
+Creatinine < . mg/ ml
+Creatinine =< . mg/dL or creatinine clearance >=  ml/min
+Estimated creatinine clearance >=  mL/min or a creatinine =< . mg/dL obtained =<  days prior to registration
+Creatinine =< . mg/dl and creatinine clearance >=  ml/min/. m^
+Creatinine (Cr) < . mg/dL or creatinine clearance >  mL/min/m^
+Creatinine < . mg/dl (or creatinine clearance >  ml/min)
+Creatinine clearance >  mL/min or creatinine =< . mg/dL
+Creatinine =< . mg/dL or creatinine clearance >  ml/min
+Serum creatinine =< . mg/dL or creatinine clearance >  mL/min/. m^ for patients with creatinine levels above . mg/dL
+Either creatinine > . mg/dL or creatinine clearance <  mL/min
+creatinine <. mg/dL OR creatinine clearance > mL/min/. m
+Creatinine clearance >  mL/min/. m^ or normal age adjusted serum creatinine (=<  years [yrs.] =< . mg/ml; - yrs. =< . mg/ml; - yrs. =< . mg/ml; >  yrs. =< . mg/ml)
+Creatinine clearance >  mL/min/. m^ or normal age adjusted serum creatinine (=<  yrs. =< . mg/ml; - yrs. =< . mg/ml; - yrs. =< . mg/ml; >  yrs. =< . mg/ml)
+Creatinine clearance >  mL/min/. m^ or normal age adjusted serum creatinine (=<  yrs. =< . mg/ml; - yrs. =< . mg/ml; - yrs. =< . mg/ml; >  yrs. =< . mg/ml)
+Creatinine =< . mg/dl and/or creatinine clearance >=  mL/min/. m^
+Creatinine =<  mg/dL and creatinine clearance (CrCL) >=  ml/min
+Creatinine =< . mg/dl and/or creatinine clearance >=  mL/min
+Patients must have creatinine of less than or equal to . mg/dL or creatinine clearance >  ml/min
+Creatinine < . mg/dL or estimated creatinine clearance >=  mL/min/. m^

@@ -1,0 +1,45 @@
+Albumin >= 2.5 mg/dL, performed within 10 days of treatment initiation
+Albumin >= 2.5 g/dL, performed within 14 days of treatment initiation
+Albumin >= 2.5 mg/dL, performed within 10 days of treatment initiation
+Albumin >= 2.5 mg/dL, performed within 14 days of treatment initiation
+Hemoglobin >= 8 g/dL (performed within 14 days of treatment initiation)
+Albumin >= 2.5 mg/dL (performed within 28 days of treatment initiation)
+Albumin >= 2.5 mg/dL, performed within 28 days of study registration
+Performed within 10 business days of treatment initiation with the exception of beta- HCG (72 hours), if applicable: Albumin > 2.5 mg/dL.
+Should be performed within 10 days of treatment initiation: hemoglobin ? 9.0 g/dL
+Albumin >= 2.5 mg/dL, performed within 28 days of treatment initiation
+Albumin >= 2.5 mg/dL, should be performed within 10 days of treatment initiation
+Albumin >= 2.5 mg/dL, performed within 10 days of treatment
+Should be performed within 30 days of treatment initiation: hemoglobin ? 8 g/dL
+Should be performed within 30 days of treatment initiation: albumin ? 2.5 mg/dL
+Albumin >= 2.5 mg/dL (performed within 10 days of treatment initiation)
+Albumin >= 2.5 mg/dL, performed within 14 days of treatment initiation
+Albumin >= 2.5 mg/dL, performed within 28 days of treatment initiation
+To be performed within 14 days of treatment initiation: albumin ? 2.5 mg/dL
+Performed within 10 days of treatment initiation: Hemoglobin >= 8 g/dL
+Performed within 10 days of treatment initiation: Albumin >= 2.0 mg/dL
+Albumin >= 3.0 mg/dL (performed within 10 days of treatment initiation)
+Albumin >= 2.5 mg/dL, performed within 10 days of treatment initiation
+Serum total bilirubin =< 3 mg/dL (performed within 14 days of treatment initiation)
+Performed within 7 days of treatment initiation: Albumin >= 2.5 mg/dL
+Performed within 14 days of treatment initiation: Hemoglobin >= 9 g/dL
+Albumin >= 2.5 mg/dL, performed within 14 days of treatment initiation
+Albumin >= 2.5 mg/dL, performed within 10 days of treatment initiation
+Performed within 10 days of treatment initiation: Albumin >= 2.5 mg/dL
+Albumin >= 2.5 mg/dL, performed within 14 days of registration
+Performed within 10 days of treatment initiation: Albumin >= 2.5 mg/dL
+Albumin >= 2.5 mg/dL (performed within 28 days of registration)
+Albumin >= 2.0 mg/dL performed within 10 days of treatment initiation
+Albumin >= 3 g/dL performed within 7 days of treatment initiation
+Albumin >= 3.3 mg/dL in the absence of dehydration (performed within 10 days of treatment initiation)
+Hemoglobin >= 8 g/dL, performed within 10 days of treatment initiation
+Albumin >= 2.5 mg/dL, performed within 10 days of treatment initiation
+Performed within 14 days of treatment initiation: Albumin >= 3.0 mg/dL
+Albumin >= 2.5 mg/dL, performed within 28 days of treatment initiation
+Albumin >= 2.5 mg/dL (performed within 10 days of treatment initiation)
+Albumin >= 2.5 mg/dL (performed within 10 days of treatment initiation)
+Albumin >= 2.5 mg/dL, performed within 10 days of treatment initiation
+Albumin >= 2.5 mg/dL, should be performed within 28 days of treatment initiation, unless otherwise indicated
+Hemoglobin >= 8.0 g/dL, performed within 28 days of treatment initiation
+Albumin >= 2.8 mg/dL, performed within 10 days of treatment initiation
+Albumin >= 2.5 mg/dL, performed within 10 days of protocol enrollment

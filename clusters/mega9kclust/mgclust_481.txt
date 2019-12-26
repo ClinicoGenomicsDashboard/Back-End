@@ -1,0 +1,3 @@
+Cluster 230: histological confirmation diagnosis breast cancer carcinoma metastatic required tumor patients 
+Cluster 707: cytological histological diagnosis metastatic confirmation adenocarcinoma evidence cancer advanced prostate 
+Cluster 1261: inflammatory breast cancer patients diagnosis subjects patient carcinoma td metastatic 

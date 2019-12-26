@@ -1,0 +1,20 @@
+Creatinine =< 1.5 mg/dL OR calculated (calc.) creatinine clearance >= 30 mL/min
+34.0
+Creatinine =< 1.5 x upper limit of normal (ULN) mg/dL OR calculated (calc.) creatinine clearance >= 60 mL/min
+20.0
+Creatinine =< 1.5 mg/dL x upper limits of normal (ULN) OR calculated (calc.) creatinine clearance >= 30 mL/min
+30.0
+Creatinine =< 1.5 x upper limit of normal (ULN) OR calculated (calc.) creatinine clearance > 45 mL/min using the lean body mass formula only
+195.0
+Re-registration: creatinine =< 1.5 ULN OR calc. creatinine clearance > 45 mL/min (using lean body mass formula only)
+195.0
+Within 14 days of registration: Calculated (calc.) creatinine clearance > 50 mL/min
+110.0
+Creatinine OR =< 1.5 mg/dl x upper limit of normal (ULN) OR calculated (calc.) creatinine clearance > 45 mL/min
+69.0
+Creatinine =< 1.5 x upper limit of normal (ULN) OR calculated (calc.) creatinine clearance >= 30 mL/min
+45.0
+Calculated (calc.) creatinine clearance > 45 mL/min
+124.0
+Calculated (calc.) creatinine clearance >= 50 mL/min by Cockcroft-Gault
+324.0

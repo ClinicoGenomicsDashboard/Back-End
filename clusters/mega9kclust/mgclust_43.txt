@@ -1,0 +1,5 @@
+Cluster 498: allergy known history intolerance patients hypersensitivity reaction products egg gadolinium 
+Cluster 676: hypersensitivity known history reaction patients ingredients products intolerance reactions comparator 
+Cluster 1362: hypersensitivity perflutren known drug suspected products study acyclovir definity patients 
+Cluster 1798: sensitivity known products components administered allergy derived dosing component ingredients 
+Cluster 2401: murine products hypersensitivity containing protein reactions history allergy bovine known 

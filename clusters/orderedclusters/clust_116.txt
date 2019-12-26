@@ -1,0 +1,44 @@
+Alkaline phosphatase =< 2.5 x ULN (CTCAE v 3.0 grade 0-1)
+164.0
+Alkaline phosphatase within upper limits of institutional normal within 14 days prior to study entry
+285.0
+Alkaline phosphatase less than or equal to 2.5 x ULN (CTCAE grade 1)
+128.0
+Alkaline phosphatase =< 3 x ULN
+52.0
+Alkaline phosphatase =< 1.5 x IULN within 28 days prior to registration
+1900.0
+Serum alkaline phosphatase (ALP) > 2 x ULN
+45.0
+Alkaline phosphatase less than or equal to 2.5 x ULN
+540.0
+Alkaline phosphatase =< 1.5 x institutional ULN, within 21 days prior to registration
+924.0
+Alkaline phosphatase (ALP) =< 2.5 x ULN measured within 28 days prior to randomization
+1500.0
+Patients must have alkaline phosphatase =< 2.5 x IULN within 14 days prior to registration
+44.0
+Alkaline phosphatase =< 2 x ULN (=< 5 x ULN for patients with known liver involvement and =< 7 x ULN for patients with known bone involvement)
+300.0
+Alkaline phosphatase =< 2 x ULN (=< 5 x ULN for patients with known liver involvement and =< 7 x ULN for patients with known bone involvement)
+400.0
+Within 6 weeks prior to randomization: Alkaline phosphatase must be =< 2.5 x ULN for the lab
+990.0
+Alkaline phosphatase =< 2.5 x ULN, within 14 days prior to registration
+147.0
+Alkaline phosphatase must be =< 3 x ULN for the lab within 28 days before randomization
+348.0
+Alkaline phosphatase =< 2.5 x ULN (=< 5 x ULN for patients with documented liver involvement or bone metastases)
+35.0
+Alkaline phosphatase =< 2 x IULN
+148.0
+Alkaline phosphatase =< 2.5 x ULN (=< 5 x ULN for patients with documented liver involvement or bone metastases)
+72.0
+Alkaline phosphatase =< 2.5 x ULN
+60.0
+Alkaline phosphatase =< 2.5 x ULN
+22.0
+Alkaline phosphatase =< 2.5 x IULN, obtained within 28 days prior to step 2 registration
+1000.0
+Alkaline phosphatase =< 2 x ULN (=< 5 x ULN for patients with documented liver involvement or bone metastases)
+78.0

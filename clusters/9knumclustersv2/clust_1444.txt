@@ -1,0 +1,47 @@
+Leukocytes >= ,/ mm^
+Leukocytes >= /mm^ must be obtained =<  days prior to protocol registration
+Leukocytes >= ,/mm^
+Within less than or equal to  days prior to registration: Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^
+Leukocytes >= . x ^/L
+Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^
+Leukocytes >=  x ^/L
+Leukocytes <. x /L
+Leukocytes >= ,/mm^
+Leukocytes >= /mm^
+Leukocytes >=  x ^/L
+Leukocytes >= ,/mL
+Leukocytes >= , cells/mm^
+Leukocytes >= /mL
+Leukocytes >= ,/mm^
+Leukocytes >= ,/L
+Leukocytes >= ,/mL
+Leukocytes >= ,/mm^
+Leukocytes >= , per mm^
+Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^, obtained =<  days prior to registration
+Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^
+PHASE II: Leukocytes >= ,/mm^
+Leukocytes >= , per mm^
+Leukocytes >= . x ^/L
+Leukocytes >= ,/?L
+Leukocytes >= /mm^
+Leukocytes >= ,/mL
+Leukocytes >= ,/microL
+Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^
+Leukocytes >,/mm
+Leukocytes >= ,/mm^
+Leukocytes: >= ,/mm^
+Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^
+Leukocytes >= ,/mm^
+Leukocytes: >= ,/mm^
+Leukocytes >= ,/mL

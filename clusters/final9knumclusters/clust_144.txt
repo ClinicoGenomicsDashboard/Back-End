@@ -1,0 +1,49 @@
+No intervening anti-cancer therapy between the last course of nivolumab or pembrolizumab and the first dose of study treatment is allowed except for local measures (e.g., surgical excision or biopsy, focal radiation therapy).
+The interval between last nivolumab or pembrolizumab and start of study treatment should be at least 21 days with no residual anti-PD-1-related immune toxicities in excess of Grade 1 severity.
+Ongoing or recent use of a checkpoint inhibitor agent (eg ipilimumab, pembrolizumab, nivolumab) within three drug half-lives from the most recent dose to Cycle 1 Day 1
+Has participated in Merck MK-3475 (pembrolizumab) clinical trials
+Any investigational agents, anti-cancer monoclonal antibody, anti-cancer therapeutic vaccine, immunostimulant (e.g. IL-2) or study drugs from a previous clinical study within 4 weeks of the first dose of mRNA-4157 or pembrolizumab (note only a 2 week wash out is required from prior pembrolizumab treatment)
+Hypersensitivity to pembrolizumab or any of its recipients
+Has participated in any other pembrolizumab trial and has been treated with pembrolizumab.
+Patients currently on Pembrolizumab and achieve a less than complete response
+Has received prior sunitinib or pembrolizumab therapy for the treatment of malignancy
+Prior treatment with immunotherapy (e.g. ipilimumab, nivolumab, pembrolizumab, atezolizumab) within 6 months of cycle 1 day 1
+Patient must currently be receiving systemic PD-1 immunotherapy with pembrolizumab or nivolumab to be eligible; patients who are receiving combination ipilimumab with pembrolizumab or nivolumab are not eligible
+Must have been off immunosuppressive therapy for >= 7 days before receiving first dose of pembrolizumab
+Has been on immunosuppressant therapy within 7 days prior to the first dose of pembrolizumab
+Hypersensitivity to pembrolizumab or any of its recipients
+Patients who have received any checkpoint inhibitor, including ipilimumab, nivolumab, pembrolizumab or others.
+Investigator determined assessment of disease progression after treatment with pembrolizumab monotherapy, OR
+Most recent prior regimen was a PD-1 inhibitor (nivolumab or pembrolizumab) with progression; last dose must have been delivered within 90 days of enrollment
+Has had prior treatment with pembrolizumab
+Patients who have participated in pembrolizumab (MK-3475) Merck studies
+Allergy to pembrolizumab or related compounds
+Has received prior therapy with pembrolizumab
+Patients with Stage IIIB/IV squamous or non-squamous NSCLC (American Joint Committee on Cancer 7th Edition Staging) who have had prior treatment with nivolumab or pembrolizumab will be enrolled in one of 3 parallel cohorts based on the following:\r\n* Cohort 1: patient with progressive disease on nivolumab or pembrolizumab as the BOR; progressive disease must be confirmed with a confirmatory scan ? 4 weeks after the 1st documented date of progression\r\n* Cohort 2: patients with stable disease as the BOR on a minimum of 12 weeks of therapy with nivolumab or pembrolizumab\r\n* Cohort 3: patients with partial or complete response as the BOR, followed by progressive disease, on nivolumab or pembrolizumab; a confirmatory scan at the time of disease progression must be performed ? 4 weeks after the 1st documented date of progression
+Any prior severe adverse event attributed to prior anti-PD1 therapy that, in the Principal investigator's opinion, would contraindicate pembrolizumab administration such as:
+Has a diagnosis of immunodeficiency; note that patients should not receive steroids during pembrolizumab administration
+Prior pancreatitis that was symptomatic or required medical intervention =< 6 months prior to registration (known toxicity of pembrolizumab)
+Prior enteritis that was symptomatic or required medical intervention =< 6 months prior to registration (known toxicity of pembrolizumab)
+Uncontrolled hyper/hypothyroidism or hyper/hypocorticism =< 6 months prior to registration (known toxicity of pembrolizumab)
+Has received systemic therapy within 4 weeks of the first dose of pembrolizumab
+Patients who have received thoracic radiation > 30 gray (Gy) within six months of the first dose of pembrolizumab
+Stage III or stage IV metastatic melanoma as defined on imaging studies performed within 28 days of first dose of pembrolizumab and clinical exam performed within 14 days of first dose of pembrolizumab
+Has known hypersensitivity to MK-3475 (pembrolizumab) or any of its incipients
+Subject has a known hypersensitivity to pembrolizumab or any of its ingredients
+Has known hypersensitivity to pembrolizumab (MK-3475) or its formulation
+Current treatment of at least 3 months with pembrolizumab or nivolumab (no more than 1 cycle / 6 weeks of treatment interruption immediately prior to study enrollment)
+Experienced a previous response to pembrolizumab or nivolumab
+Patients in which treatment with pembrolizumab and nivolumab is contraindicated
+Required screening laboratory data (within 28 days prior to administration of pembrolizumab)
+For male subjects having intercourse with females of childbearing potential, willingness to abstain from heterosexual intercourse or use 2 protocol-recommended methods of contraception from the start of pembrolizumab throughout the study treatment period and for 90 days following the last dose of pembrolizumab; also, male subjects should refrain from sperm donation from the start of pembrolizumab throughout the study treatment period and for 3 months following the last dose of study drugs
+Dose escalation cohort: histologically or cytologically confirmed diagnosis of a solid tumor that can be treated with either pembrolizumab or nivolumab as part of standard of care or whom no standard of therapy exists except pembrolizumab or nivolumab
+Requires or may require treatment with high-dose systemic corticosteroids within 2 weeks of the start of intravenous pembrolizumab infusions and within 2 weeks following the first infusion of pembrolizumab
+Planned standard treatment with pembrolizumab
+Known hypersensitivity to pembrolizumab or any of its insipients
+Has participated in a previous trial and received pembrolizumab therapy
+Known hypersensitivity to pembrolizumab or another mAb.
+Prior pembrolizumab
+A patient must have previously received anti-PD1 immunotherapy (nivolumab or pembrolizumab) and later experienced disease progression, within 3 months of registration on this study
+Ongoing or recent use of a checkpoint inhibitor (eg, nivolumab, pembrolizumab, ipilimumab) within three drug half-lives from the most recent dose to Cycle 1 Day 1
+Has a history of severe hypersensitivity reaction to pembrolizumab, Cisplatin or radiotherapy or their analogs
+Patients must have histologically or cytologically confirmed malignant neoplasms (not including hematological malignancies and brain tumors) untreated or previously treated requiring further treatment; patients must be refractory to, and intolerant of, established therapy known to provide clinical benefit for their condition; patients in Arm L (pembrolizumab) and Arm M (nivolumab) can be treatment naïve and do not have to fail first line nivolumab or pembrolizumab if they have disease where pembrolizumab or nivolumab are Food and Drug Administration (FDA) approved for the first-line setting

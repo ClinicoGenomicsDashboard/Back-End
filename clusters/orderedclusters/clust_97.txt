@@ -1,0 +1,184 @@
+Patients who have received previous vaginal, pelvic, or abdominal irradiation
+164.0
+Prior experimental (non-Food and Drug Administration [FDA] approved) therapies and immunotherapies are allowed; patients must not have received these therapies for 4 weeks prior to the initiation of study treatment and must have full recovery from any acute effects of these therapies
+36.0
+Patients who have received any prior chemotherapy are not eligible
+253.0
+Patients may not have received prior chemotherapy for AML with the exception of hydroxyurea for increased blast count or leukapheresis for leukocytosis; patients who have received a limited and short-term exposure of ATRA (all trans retinoid acid) while AML-M3 (acute promyelocytic leukemia) was being ruled out, and which has been discontinued, will be eligible
+747.0
+Patients who have received previous treatment for antecedent hematological disorders (AHD) with 5-azacitidine, decitabine, or low dose cytarabine will be excluded
+747.0
+Patients who received and progressed on the combination of carboplatin/paclitaxel will not be eligible
+276.0
+Prior experimental (non-Food and Drug Administration [FDA] approved) therapies and immunotherapies are allowed; patients must not have received these therapies for 3 weeks prior to the initiation of study treatment and must have full recovery from any acute effects of these therapies
+130.0
+Patients who have previously received SCH727965
+130.0
+Patients who have received prior romidepsin use are eligible
+132.0
+Patients may have received one or more lines of prior chemotherapy with/without rituximab (including high dose therapy plus stem cell transplant which is counted as one regimen); prior bortezomib is allowed; patients must not have received bortezomib in the past 6 months
+24.0
+Patients must not have received any prior tumor-directed therapy other than surgical intervention and corticosteroids
+275.0
+Prior lapatinib is allowed as long as the last dose received was > 21 days prior to study entry and provided the patient has not received it at any time after the diagnosis of brain metastasis
+143.0
+Patients on the Phase I portion may not have received ANY prior chemotherapy; patients on the Phase II portion may have received one prior cycle of any non-investigational chemotherapy; prior chemotherapy must have been completed within 56 days prior to registration and all toxicities must have resolved to =< grade 1; patients on either portion may have received prior treatment with dexamethasone, providing total number of days of treatment was =< 14 days and total treatment dose was =< 360 mg
+130.0
+Patients must not have received the therapies indicated below for the specified time period prior to the first day of administration of protocol therapy on this study* Myelosuppressive chemotherapy: must have received last dose at least 2 weeks prior to protocol therapy; this includes cytotoxic agents given on a low dose metronomic regimen* Biologic (anti-neoplastic agent) (includes retinoids): must have received last dose at least 7 days prior to protocol therapy* Monoclonal antibodies: must have received last dose at least 7 days or 3 half-lives, whichever is longer, prior to protocol therapy
+62.0
+Prior anti-disialoganglioside (GD2) antibody, isotretinoin, or lenalidomide therapy:* Patients who have received prior anti-GD2 antibody therapy are eligible if they did not have tumor relapse/progression while receiving this therapy* Patients who have received either isotretinoin or lenalidomide are eligible, but not if they have received the two agents concomitantly
+62.0
+Patients who have received any chemotherapy or investigational treatment within 4 weeks of study start
+45.0
+The subject has received radionuclide treatment within 6 weeks of the first dose of study treatment
+55.0
+Subjects who have previously received anti-GD2 monoclonal antibodies for biologic therapy or for tumor imaging are eligible unless they have had progressive disease while receiving prior anti-GD2 therapy; subjects who have received autologous marrow infusions or autologous stem cell infusions that were purged using monoclonal antibody linked to beads, but no other form of anti-GD2 monoclonal antibody, are eligible
+74.0
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, biologic therapy or radiotherapy prior to study entry* Myelosuppressive chemotherapy: Patients must have received their last dose of known myelosuppressive anticancer chemotherapy at least three weeks prior to registration on the Re-treatment Study or at least six weeks if a nitrosourea* Biologic agent: Patient must have received their last dose of the biologic agent >= 7 days prior to study registration; for biologic agents and monoclonal antibody treatment, at least three half-lives must have elapsed prior to registration* Other investigational agents (not fitting into one of the above specified categories): patients must have received their last dose of any other investigational agent greater than 28 days prior to enrollment* Radiation: Patients must have:** Had their last fraction of local irradiation to the primary tumor >= 12 months prior to registration; investigators are reminded to review potentially eligible cases to avoid confusion with pseudo-progression;** Had their last fraction of craniospinal irradiation (> 24Gy) > 3 months prior to registration* Corticosteroids: Patients who are receiving dexamethasone must be on a stable or decreasing dose for at least 1 week prior to registration* Growth factors: Patients must be off all colony-forming growth factor(s) for at least 1 week prior to registration (filgrastim, sargramostim, erythropoietin) and at least 2 weeks for long-acting formulations
+180.0
+The participant has received radionuclide treatment within 6 weeks of the first dose of study treatment
+42.0
+The subject has received radiation therapy:* To bone metastasis within 14 days before the first dose of study treatment * To any other site(s) within 28 days before the first dose of study treatment
+72.0
+The subject has received radionuclide treatment within 6 weeks of the first dose of study treatment
+72.0
+Patients who have received prior immunosuppressive therapy within 30 days prior to enrollment
+80.0
+Patients who have received hepatotoxic drugs less than 7 days prior to enrollment
+80.0
+Patients who have received prior biologic agents less than 30 days prior to enrollment
+80.0
+Patients may have received prior brentuximab vedotin, but must not have received brentuximab vedotin within 6 months prior to registration, and must not have relapsed within 6 months of receiving previous brentuximab vedotin; patients may not have received prior nivolumab or PD1/PDL1 axis agents; patients in the nivolumab/brentuximab cohorts ONLY (D, E, F, Y) may have received prior ipilimumab
+189.0
+RANDOMIZED PHASE II (ARMS K AND L): Patients may have received prior brentuximab vedotin, but must not have received brentuximab vedotin within 6 months prior to registration, and must not have relapsed within 6 months of receiving previous brentuximab vedotin; patients may not have received prior nivolumab or PD1/PDL1 axis agents; patients may not have received prior ipilimumab
+189.0
+Patients must not have received prior treatment with inotuzumab ozogamicin; previous treatment with other anti-CD22 antibodies must have been completed at least 90 days prior to registration
+38.0
+Patients must not have received any chemotherapy, investigational agents, or undergone major surgery within 14 days prior to registration with the following exceptions:* Monoclonal antibodies must not have been received for 1 week prior to registration* Chimeric antigen receptor (CAR) T-cells must not have been received for 28 days prior to registration* Steroids, hydroxyurea, vincristine, 6-mercaptopurine, methotrexate, thioguanine and intrathecal chemotherapy are permitted within any time frame prior to registration; Food and Drug Administration (FDA)-approved tyrosine kinase inhibitors may also be administered until 1 day prior to start of study therapy (cycle 1 [C1], day 1 [D1])* All drug-related toxicities must have resolved to =< grade 2
+38.0
+Patients with NF1 will only be eligible if complete tumor resection is not considered to be feasible without substantial risk or morbidity* Patients may be treated on this trial without having received prior medical therapy directed at their PN* There will be no limit to number of prior myelosuppressive regimen for PN or other tumor manifestations associated with NF1 such as optic glioma* Patients who have received previous investigational agents or biologic therapy, such as tipifarnib, pirfenidone, peginterferon alfa-2b (Peg-Intron), sorafenib, imatinib, or other targeted therapies are eligible for enrollment; at least 4 weeks must have elapsed since receiving medical therapy directed at the PN; patients who received prior medical therapy for their PN must have recovered from the acute toxic effects of all prior therapy to =< grade 1 Common Terminology Criteria for Adverse Events (CTCAE) version (v)4 before entering this study* Growth factors that support platelet or white cell number or function must not have been administered within the 7 days prior to enrollment* At least 6 weeks must have elapsed prior to enrollment since the patient received any prior radiation therapy* At least 4 weeks must have elapsed since any surgeries, with evidence of good wound healing
+104.0
+TREATMENT: Patients who have received prior carboplatin or AZD1775 (MK-1775) would not be excluded unless the two drugs were administered in combination; patients who have received prior carboplatin in combination with AZD1775 (MK-1775) would still be eligible to receive other study treatment regimens based on identified genetic mutation(s), other than carboplatin plus AZD1775 (MK-1775)
+700.0
+Patients may not have received prior interferon, either systemic or intra-cystic
+52.0
+Patients with prior history of either small cell lung cancer or NSCLC regardless of the treatment received, other than patients who have recurrent disease following resection
+330.0
+Patients who have been off of FOLFIRINOX more than 70 days prior to treatment on study
+92.0
+Patients with therapy-related AML or MDS should have not received prior cumulative anthracycline (daunorubicin equivalent) lifetime dose > 450 mg/m^2
+63.0
+Patients who previously received gemcitabine for the treatment of recurrent disease
+100.0
+There is no limit to the number of prior lines of treatment a patient has received
+20.0
+Patients may have received only one prior chemotherapy regimen for metastatic disease provided treatment was completed >= 3 weeks prior to randomization
+600.0
+Patients must NOT be receiving valproic acid, an histone deacetylase (HDAC) inhibitor, and may not have previously received any HDAC inhibitor prior to enrollment (e.g. valproic acid, entinostat, vorinostat) unless discussed with the study chair; patients must not have received prior HDAC therapy for the treatment of their malignancy
+600.0
+Patients must not have received any prior chemotherapy, radiation therapy, or other therapy for the treatment of ALL (other than those noted below) and must not be receiving any immunosuppressive therapy; patients may not have received any prior investigational therapy within 28 days prior to registration; patients must not have received any monoclonal antibody therapy within 42 days of registration; patients may have received the following within any time prior to registration: low dose chemotherapy-including: cyclophosphamide 1 g/m^2, oral 6-mercaptopurine, or oral methotrexate (other low dose chemotherapy may be allowable, however any other options not listed here should be confirmed with the study chairs), TKI therapy, steroids, hydroxyurea, leukapheresis, intrathecal chemotherapy or vincristine (vincristine sulfate)
+44.0
+Patients must NOT have received a prior autologous or allogeneic hematopoietic stem cell transplant at any time. Patients must NOT have received any chemotherapy, investigational agents, or undergone major surgery within 14 days prior to registration, with the following exceptions:* Monoclonal antibodies must not have been received for 1 week prior to registration* Chimeric antigen receptor (CAR) T-cells must not have been received for 28 days prior to registration* Steroids, hydroxyurea, vincristine, 6-mercaptopurine, methotrexate, thioguanine and intrathecal chemotherapy are permitted within any timeframe prior to registration; Food and Drug Administration (FDA)-approved TKIs may also be administered until 1 day prior to start of study therapy (C1, D1); IV cyclophosphamide may be administered at doses of 1 g/m^2 or less until up to 7 days prior to registration
+44.0
+Parts C, D, and E: patients who have received prior ipilimumab are not eligible
+484.0
+Patients who received systemic corticosteroids within 28 days of enrollment on this protocol, except as specified, are not eligible
+600.0
+Patients must not have received any anti-cancer drug within 28 days prior to registration, and must not have received any nitrosoureas or mitomycin C within 42 days prior to registration
+280.0
+The subject has received radionuclide treatment within 6 weeks of the first dose of study treatment
+135.0
+Patients who received prior PI3K, AKT or mTOR inhibitors are not allowed
+209.0
+Patients who have previously received CDX-011 (glembatumumab vedotin) or other monomethyl auristatin E (MMAE)-containing agents
+35.0
+Patients must not have received systemic chemotherapy for at least 4 weeks, and must not have received prior radiation therapy to the tumor site being irradiated on this study
+30.0
+Patients with NF1 will only be eligible if complete tumor resection is not considered to be feasible without substantial risk or morbidity, or if a patient with a surgical option refuses surgery* Since there is no standard effective chemotherapy for patients with NF1 and PN, patients may be treated on this trial without having received prior medical therapy directed at their PN* Since selumetinib is not expected to cause substantial myelosuppression, there will be no limit to number of prior myelosuppressive regimen for PN or other tumor manifestations associated with NF1 such as optic glioma* Patients who have received previous investigational agents or biologic therapy, such as tipifarnib, pirfenidone, Peg-Intron, sorafenib, or other VEGFR inhibitors are eligible for enrollment* Growth factors that support platelet or white cell number or function must not have been administered within the past 7 days and are not permitted while on the study* At least 6 weeks must have elapsed prior to enrollment since the patient received any prior radiation therapy, and no prior radiation therapy should have been directed at the target PN* At least 4 weeks must have elapsed since receiving medical therapy directed at the PN* At least 4 weeks must have elapsed since any surgeries, with evidence of completed wound healing* Patients who received prior medical therapy for their PN must have recovered from the acute toxic effects of all prior therapy to =< grade 1 Common Terminology Criteria for Adverse Events version 4 (CTCAE v4) before entering this study
+50.0
+Patients who have previously received denosumab
+90.0
+Patients who have previously received mithramycin, strontium-89, samarium-153 or rhenium
+90.0
+Patients may not have received any of the protocol agents within 5 years prior to randomization
+126.0
+Patient must not have received pegfilgrastim within 14 days of enrollment
+44.0
+Patient must not have received filgrastim (G-CSF, Neupogen) within 7 days of enrollment
+44.0
+Patients who have received prior anti-GD2 therapy, including chimeric antigen receptor (CAR) T cells directed against GD2 antigen
+44.0
+Has received adjuvant endocrine therapy (selective estrogen receptor modulator [SERM] alone, gonadotropin-releasing hormone [GnRH] analogue plus SERM or aromatase inhibitors [AI]) for >= 18 months but =< 30 months for early breast cancer* Note: patients who have received neo/adjuvant endocrine treatment within a clinical trial and patients who have received pharmaco-prevention are eligible
+500.0
+PRIOR TO START OF TREATMENT:
+130.0
+Patients who have received any chemotherapy (excluding steroids) and/or RT prior to this enrollment
+337.0
+Patients must not have received prior cisplatin or poly (adenosine diphosphate [ADP]-ribose) polymerase (PARP) inhibitors; prior carboplatin in the adjuvant/neoadjuvant setting and prior treatment with iniparib is allowed, if completed more than 6 months prior to study entry
+333.0
+Patients must not have received any chemotherapy within 14 days prior to registration
+333.0
+Patients must not have received any immunotherapy, biologic or any investigational drug within 28 days prior to registration; patients must not have received bevacizumab within 42 days prior to registration
+333.0
+To be eligible for the dose-finding phase: (the dose-finding phase completed in 12/2016) * Relapsed patients** Patients must be in first relapse, and** Patients must not have received prior re-induction therapy* Refractory patients** Patients must not have received more than one attempt at remission induction, which may consist of up to two different therapy courses; Children Oncology Group (COG) AAML1031 de novo therapy including induction I and induction II is an example* Treatment-related AML (t-AML)** Patients must be previously untreated for secondary AML
+56.0
+Growth factors:* Patients must not have received growth factors for 7 days prior to CPX-351* Patients must not have received pegfilgrastim for 14 days prior to CPX-351
+56.0
+PRIOR TREATMENT
+NONE
+There is no limit to the number of prior lines of treatment a patient has received
+137.0
+Patients with acute or lymphoma forms must have received at least one cycle of combination chemotherapy (with or without mogamulizumab) or interferon (with or without zidovudine and/or arsenic); individuals with chronic or smoldering acute T-cell lymphoma (ATL) are not required to have had prior treatment or could have received any number of previous courses of therapy
+20.0
+Patients must not have received any prior tumor-directed therapy other than surgical intervention and corticosteroids
+45.0
+Patients who have previously received alemtuzumab are ineligible
+24.0
+Patients must not have received prior intravesical BCG or intradermal BCG
+969.0
+Patients must not have received prior systemic treatment for this melanoma
+77.0
+Patients with autoimmune disease who are otherwise eligible must not have received steroid and immunosuppressive therapy within 28 days prior to registration
+707.0
+Patients with prior treatment with PLD
+488.0
+Since selumetinib is not expected to cause substantial myelosuppression, there will be no limit to number of prior myelosuppressive regimens previously received for NF1 related; or other tumor manifestations
+24.0
+Patients may be treated on this trial without having received prior medical therapy directed at their GIST, patients who have had prior GIST-directed surgery may enroll provided they have measurable disease
+28.0
+Patients must not have received any prior radiation to the bladder for bladder cancer
+148.0
+Must not have received therapy with anti-CD20 monoclonal antibodies within 90 days of entry onto this study
+90.0
+Must not have received investigational therapy within 30 days of entry onto this study
+90.0
+Must not have received prior EBV or LMP-specific T cells within 90 days of entry onto this study
+90.0
+Must not have received alemtuzumab or other anti-T-cell antibody therapy within 28 days of entry onto this study
+90.0
+Patients must not have received enzyme�inducing anticonvulsants within 14 days prior to enrollment
+146.0
+Patients who have not previously received a bevacizumab-containing regimen (i.e., this must be the first bevacizumab-containing therapy administered to the patient)
+165.0
+For the dose escalation cohort, patients may have received any number of prior therapies
+40.0
+Irinotecan, temozolomide and mammalian target of rapamycin (mTOR) inhibitor exposure:* Patients who have received prior single agent therapy with irinotecan, temozolomide, or an mTOR inhibitor, excluding ABI-009, are eligible* Patients who have received prior therapy with ABI-009 are not eligible* Patients who have previously received irinotecan and temozolomide in combination without progressive disease while on therapy are eligible* Patients who have previously received irinotecan and temozolomide in combination and had significant toxicity with these two drugs are not eligible* Patients who have received prior therapy with all three agents in combination (i.e. irinotecan, temozolomide, and an mTOR inhibitor) are not eligible
+51.0
+Patient has not received more than 14 days of multiagent induction therapy beginning with the first dose of vinCRIStine
+700.0
+Patient may have started imatinib prior to study entry but has not received more than 14 days of imatinib
+700.0
+Patients must not have received nitrosoureas or mitomycin-C within 42 days prior to sub-study registration
+132.0
+Patients must not have received prior treatment with talimogene laherparepvec (T-VEC) or other oncolytic virus agents
+64.0
+Participants may not have had prior use of PARP inhibitors; patients may not have received prior treatment affecting the VEGF pathway including but not limited to thalidomide, bevacizumab, sunitinib, or sorafenib
+70.0
+Patients must not have received prior anti-VEGF therapy including bevacizumab (i.e. patients must be bevacizumab naive)
+35.0
+Patients who have previously received systemic, radiation or other treatment for uterine cancer
+50.0
+Patients may have received previous NY ESO 1 vaccine therapy; patients who received bevacizumab or other experimental therapies are eligible for enrollment provided they have discontinued therapy (at least 4 weeks) prior to randomization and recovered from toxicities to less than grade 2
+78.0
+Subjects who have received prior therapy with hypomethylating agents (5-azacytidine, decitabine, SGI-110)
+78.0

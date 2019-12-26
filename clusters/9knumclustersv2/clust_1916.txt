@@ -1,0 +1,36 @@
+Granulocyte  cells/mm
+Granulocyte > /ul within four weeks of enrollment
+Granulocyte count ? /mm^
+Granulocyte count >= /mm ((within  days before starting therapy)
+Granulocyte count >= /mm^ (within  days before starting therapy)
+Granulocyte count </mm
+Granulocyte count >= ,/mm^ (within  days of enrollment)
+Granulocyte count > /mm^
+PART  GROUP A INCLUSION CRITERIA: Peripheral ANC >= /mm^ (. x ^/L) without granulocyte growth factor for >=  days
+PART  GROUP  INCLUSION CRITERIA: Peripheral ANC >= /mm^ (. x ^/L) without granulocyte growth factor for >=  days
+Granulocyte count >= ,/mm^
+Granulocyte count >= /mm^
+Granulocyte count >= ,/mm
+Granulocyte count >= /mm^
+Granulocyte >= /ul
+Granulocyte count ? /mm^ ?  weeks
+Granulocyte >= ,/uL
+Peripheral granulocyte count of > ,/mm^
+Granulocyte count >= ,/mm^
+Granulocyte > /ul
+Granulocyte count of at least ,/uL
+Granulocyte >= /ul
+Granulocyte count >= ,/uL for lapatinib and > ,/uL for capecitabine
+Granulocyte count >= /mm^ (within  days before starting therapy)
+Peripheral granulocyte count of >= ,/mL
+Granulocyte count >= ,/mm^
+Peripheral granulocyte count of >= /mm
+Granulocyte count >= /mm^ (within  days before starting therapy)
+Granulocyte count >= /mm^
+Granulocyte count >= /mm^
+Granulocyte count >= /mm^
+Granulocyte count >= ,/mm^ within  days of starting therapy
+Granulocyte count >= ,/uL
+Granulocyte count > /mm^
+Total granulocyte count of > 
+Total granulocyte count of > . x ^/L

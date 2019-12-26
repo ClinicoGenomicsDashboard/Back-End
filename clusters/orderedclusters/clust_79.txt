@@ -1,0 +1,44 @@
+Platelets >= 100,000/uL (untransfused)
+400.0
+Platelets >= 100,000 cells/uL (75 x 10^9 L); and,
+90.0
+Platelets >= 100,000/ul
+97.0
+Platelets >= 100,000/uL
+72.0
+Platelets >= 100,000/ul
+104.0
+TUMOR BIOPSY SEQUENCING: Platelets >= 100,000/uL (mcL)
+700.0
+TREATMENT: Platelets >= 100,000/uL (mcL)
+700.0
+Platelets >= 100,000/ul (unsupported)
+52.0
+Platelets >= 90 x 10^3/uL
+92.0
+Platelets >= 100,000/uL
+23.0
+Platelets >= 100,000/ul
+280.0
+Platelets >= 100,000/ul
+450.0
+Platelets >= 100,000/ul
+96.0
+Platelets >= 100,000/uL
+58.0
+Platelets >= 100,000/uL
+35.0
+Platelets > 100,000/uL
+188.0
+Platelets >= 100,000/uL
+33.0
+Platelets > 100,000/uL
+32.0
+Platelets >= 100 x 10^3/uL
+714.0
+Platelets >= 100,000/uL
+40.0
+Platelets >= 100,000/uL
+30.0
+Platelets >= 100,000/ul
+50.0

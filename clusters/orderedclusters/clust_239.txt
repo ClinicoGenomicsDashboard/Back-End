@@ -1,0 +1,6 @@
+Complete blood count (CBC)/differential obtained within 21 days of registration on study (or within 21 days prior to day 1 of chemotherapy post-surgery for those patients having started chemotherapy prior to first step registration)
+545.0
+Complete blood count (CBC)/differential obtained within 28 days prior to step 2 registration
+606.0
+Blood cell count (CBC)/differential obtained within 60 days prior to registration on study
+360.0

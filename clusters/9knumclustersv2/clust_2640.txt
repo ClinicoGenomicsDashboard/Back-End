@@ -1,0 +1,43 @@
+Weight =<  lbs (pounds)
+Weight over  pounds.
+Subjects with baseline weight =<  kg ( pounds [lbs]).
+Subjects weighing >  lbs. (weight limit for scanner table), or unable to fit within the imaging gantry
+Patient weight >  pounds (lbs) (table limit for PET scanner)
+Weight >=  pounds (lbs)
+Weight <  lbs at time of study enrollment
+Patients who exceed the weight/size limits of the treatment table or CT scanner
+Weight >=  lbs
+Weight <  lbs
+Exclusion for fludeoxyglucose F  (FDG) scan is anyone exceeding the weight limit of the scanner ( lb)
+Body weight less than  pounds (lbs.), as dictated by the weight limit for dual x-ray absorptiometry (DXA) scanner and Saris CycleOps Phantom  bicycle
+EXCLUSION - PATIENT: Body weight exceeds that allowable by the MRI table
+Subjects must have a stable weight (have not gained or lost  pounds in the last  months)
+Patient must NOT weigh more than the maximum weight limit for the table for the PET/CT scanner at the institution where the study is being performed
+Patient must NOT weigh more than the maximum weight limit for the PET/CT table for the scanner(s) to be used at each center
+Participants who exceed the weight limit for the operative surgical table,  lbs or who will not fit into the  cm diameter bore of the MRI scanner
+Participants who exceed the weight limit for the surgical table at Advanced Multimodality Image Guided Operating (AMIGO),  lbs or who will not fit into the  cm diameter bore of the MRI scanner at AMIGO or the  cm diameter bore of the pre-procedure imaging MRI scanner
+Subjects weighing >  kg (weight limit for scanner table)
+Weight greater than the -lb weight limit of the PET scanner
+Patient weight exceeds table limit for the PET/CT scanner ( pounds)
+Subjects weighing >  pounds (lbs.) (weight limit for scanner table), or unable to fit within the imaging gantry
+Subjects weighing >  lbs; (weight limit for scanner table), or unable to fit within the imaging gantry
+Weight greater than that allowable by the MRI table
+Greater than  pounds in weight
+Participants with severe claustrophobia not relieved by oral anxiolytic medication or patients weighing >  kg (weight limit for scanner table)
+Weight exceeding capacity of imaging table
+Patients/subjects whose weight does not exceed  lbs
+Subjects weighing >  kg (weight limit for scanner)
+Weight <  lbs (patient bed max weight)
+Weight greater than the -pound (lb) weight limit of the PET scanner
+Individuals weighing more than  lb; (this is the weight limit of the scanner table)
+Weight more than  pounds (subjects who weigh more than  pounds will not be able to fit inside the imaging machines)
+Patient who weighs more than the weight limit for the PET table
+Weight >  lbs
+Weight over  lbs.
+Weight in excess of limitations of the scanner or girth that prohibits entry into the bore of the PET/CT scanner due to size
+Subjects weighing >  lbs (weight limit for scanner table), or unable to fit within the imaging gantry
+Subjects weighing >  lbs. (weight limit for scanner table), or unable to fit within the imaging gantry
+Subjects weighing >  kg (weight limit for scanner table)
+Subjects weighing >=  lbs or are unable to fit within the imaging gantry
+Weight exceeding capacity of imaging table
+Weight >  pounds (lbs)

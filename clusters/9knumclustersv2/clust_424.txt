@@ -1,0 +1,95 @@
+PSA values <  ng/ml within  days prior to randomization. Either done prior to biopsy or at least  days after prostate biopsy.
+Males diagnosed with histologically confirmed, adenocarcinoma of the prostate based on core biopsy prior to study entry from transrectal ultrasonography (TRUS)
+If the standard biopsy cores are positive, they must be from the same location in the prostate as MR lesion was biopsied and proven to be cancerous. (Left / Right, Base, Mid Gland, Apex).
+Subjects archival prostate biopsy specimen is available, and subject consents to provide tissue for study endpoint analysis; the prostate biopsy slides or blocks must be available prior to starting any study treatment
+PSA values < =  ng/ml within  days prior to randomization. Obtained prior to biopsy or at least  days after prostate biopsy.
+Men with new or progressing lymphadenopathy clearly consistent with prostate metastasis on imaging or proven by pathologic biopsy at any time three months or later following their initial definitive therapy
+Subjects must have the diagnosis of prostate cancer and be on active surveillance (AS). For the purpose of this study, active surveillance implies prostate-specific antigen (PSA) <  ng/mL, biopsy Gleason sum =<  with no pattern  or , cancer involvement of < % of biopsy cores, and clinical stage T/Ta tumor.
+Tolerated previous transrectal ultrasound guided biopsy procedure under local anesthetic\r\n* Uncomplicated previous transrectal ultrasound (TRUS) biopsy procedure (i.e., no prior hospitalization due to sepsis, prostatic abscess or severe hemorrhage following TRUS prostate biopsy)
+Patients with high-risk prostate cancer (at least  core with Gleason sum >= ) must have at least three core biopsies involved with cancer (a minimum of  core biopsies, must be obtained at baseline). A prostate biopsy within  months from screening is allowed for entry requirements.
+For the neoadjuvant cohort, patients must have histopathological documentation of adenocarcinoma of the prostate prior to starting this study and evaluable biopsy tissue (e.g., unstained slides or blocks) available for analysis; if evaluable tissue is not available, the patient must agree to undergo a pre-vaccination prostate biopsy on study; for the CRPC lead in cohort, if histopathological documentation is unavailable, a rising PSA and a clinical course consistent with prostate cancer would be acceptable
+Initial prostate biopsy is available for central pathologic review, and is confirmed to show at least  positive cores and a Gleason sum of >= 
+Gross residual disease in the prostate fossa appreciated wither on digital rectal examination (DRE) or on imaging, unless biopsy proven not to contain cancer
+Participants in the study must permit targeted prostate biopsy prior to initiation of study treatment and at the time of fiducial marker placement
+Pre-SBRT prostate volume >  cc as estimated by trans-rectal ultrasound at time of prostate biopsy (TRUS biopsy)
+Biopsy proven prostate cancer
+Histologically proven adenocarcinoma of the prostate diagnosed (with ? core biopsy) within  months of screening. The biopsy that was used for this diagnosis must be submitted for central pathology review.
+PSA values <  ng/ml within  days prior to registration, done either prior to prostate biopsy or at least  days after prostate biopsy
+Have biopsy proven carcinoma of the prostate
+Agree to have prostate biopsy blocks provided to the study for evaluation
+Prostate biopsy within  days prior to registration
+Must have  core biopsies involved with cancer (a minimum of  core biopsies must be obtained); prostate biopsy must be within seven months from screening; this includes prostate biopsy from men previously followed by active surveillance; less than  core biopsies is allowed if the patient has >  cm or T disease on magnetic resonance imaging (MRI)
+Histological documentation of adenocarcinoma of the prostate, with available biopsy pathology; biopsy material must be available for pathologic review
+Biopsy-proven (consisting of >=  tissue cores) adenocarcinoma of the prostate diagnosed within  months prior to pre-registration            \r\n* < % of biopsy tissue cores positive for cancer\r\n* =< % of any one biopsy tissue core positive for cancer\r\n* Clinical stage =< Ta\r\n* Patients who have prostate cancer with distant metastases are not eligible\r\nNOTE: if a patient undergoes a transurethral resection of the prostate (TURP) for benign prostatic hyperplasia (BPH), and prostate cancer is diagnosed incidentally from the TURP specimen, eligibility for CALGB  cannot be determined from the TURP specimen; however, if the patient subsequently undergoes a minimum -core prostate biopsy within  years of prostate cancer diagnosis from the TURP, and prostate cancer is detected in the biopsy specimen and meets the requirements above, the patient is eligible for this study; if prostate cancer is not detected in the biopsy specimen, the patient is not eligible
+prostate biopsy with ? core biopsies demonstrating  or more cores positive for cancer cells, within  months prior to treatment;
+Patients must have either:\r\n* A Kattan nomogram predicted probability of being free from biochemical progression at  years after surgery of < %; please note that for the purposes of the nomogram calculation, the pre-biopsy prostate specific antigen (PSA) value must be used OR\r\n* Prostate biopsy Gleason sum >=  \r\n(NOTE: the Kattan nomogram probability must be calculated for all patients, including those eligible based on Gleason sum >=  only)
+Have abnormal digital rectal examination, or abnormal prostate specific antigen (> . ng/ml), or obstructing prostate, or biopsy proven prostate cancer
+Scheduled TRUS-guided biopsy because of clinically suspected prostate cancer (abnormal serum prostate-specific antigen [PSA] level and/or abnormal digital rectal examination)
+No treatment for prostate cancer has been administered or will be administered before TRUS guided biopsy
+Adequate diagnostic prostate core biopsy specimen for pharmacodynamics evaluation (tissue block, or at least  unstained sections), or willingness to consent to and undergo a pretreatment ultrasound-guided biopsy of the prostate
+Patients must have at least three core biopsies involved with cancer (a minimum of  core biopsies must be obtained at baseline); at least  core with Gleason sum >= ; a prostate biopsy within  months from screening is allowed for entry requirements
+Must be diagnosed with prostate cancer and on active surveillance within the past  months (or the spouse or significant other of someone with prostate cancer on active surveillance)\r\n* While AS criteria for each program varies slightly, all programs use the following clinical and pathological criteria:\r\n** Clinical stage Tc or Ta prostate cancer, verified by a participating urologist\r\n** Diagnosis of prostate cancer made on a  core needle biopsy (if any of this information was unavailable prior to consent or on the diagnostic biopsy report, the eligibility was contingent on either urologist review of the diagnostic biopsy or the pathological data from the confirmation biopsy)\r\n** Biopsy Gleason score =<  OR Gleason score  (+ ONLY), with =<  cores positive
+Must have  core biopsies involved with cancer; prostate biopsy must be within seven months from screening; less than  core biopsies is allowed if the patient has >  cm or T disease on MRI
+Patient must have non-metastatic, biopsy proven prostate cancer
+Elect to undergo transrectal ultrasound (TRUS)-guided prostate biopsy as part of routine clinical care
+History of prior prostate biopsy in the last  years
+For Arm  patients, the time from the TRUS prostate biopsy to the planned first study PET scan must be >=  month; for patients who have undergone prior prostate mapping biopsy, the time from the mapping biopsy to the planned first study PET scan must be >=  months
+Men who will be undergoing transrectal ultrasound of the prostate with biopsy for the evaluation of prostate cancer in the Division of Urology at City of Hope, or at participating urology clinics
+Men without a prior diagnosis of prostate cancer but who have previously undergone a biopsy for a suspicious DRE or PSA
+Patient has been recommended to undergo and plans to have a prostate biopsy
+Patient is willing to delay prostate biopsy for a -month finasteride treatment
+Patient had a prostate biopsy performed by Dr. Mark with the Artemis device and has adenocarcinoma of the prostate
+Diagnostic prostate biopsy with only  core with cancer and < % of tissue from that core involved with cancer
+Biopsy-proven (consisting of >=  tissue cores) adenocarcinoma of the prostate with cancer present in at least one biopsy core, either random or targeted, in the most recent biopsy\r\n* All prior biopsies must meet the following: =< % of the total number of random biopsy cores positive for cancer\r\n* Gleason score =< (+)
+No planned prostate biopsies during the intervention until after the post-intervention biopsy
+Biopsy proven adenocarcinoma of the prostate (using a IMAGE-guided + core mapping biopsy), and targeted cores as needed obtained up to  months prior to scheduled treatment.
+Prior radiation or ablative therapy to intended site of biopsy, if within the prostate bed
+SUB-STUDY I: Newly diagnosed prostate cancer pathologically proven by prostate biopsy
+SUB-STUDY I: Prostate biopsy histology grade >= Gleason , positive biopsy >  cores
+SUB-STUDY I: At least  days after most recent prostate biopsy
+SUB-STUDY II: Prostate cancer pathologically proven by prostate biopsy
+SUB-STUDY III: Prostate cancer pathologically proven by prostate biopsy
+Signing consent for study imaging procedure and analysis of prostate biopsy
+Biopsy-proven prostate cancer
+Suspected prostate cancer based on elevated PSA level (>= ) and abnormal digital rectal examination with clinical decision to proceed to prostate biopsy
+Elevated PSA level (>= ) and a prior negative standard biopsy of the prostate
+Less than  month since any prior prostate biopsy (to decrease false positive from inflammation)
+Not otherwise eligible for prostate biopsy
+Have biopsy proven carcinoma of the prostate
+Biopsy-proven adenocarcinoma of the prostate; biopsy may be performed outside of University of California San Francisco (UCSF), if detailed results of sextant biopsy are available; a minimum of  patients out of a planned enrollment of  patients must have high-risk disease as defined by primary Gleason score of  or  on prior prostate biopsy
+Ability to detect lesions within prostate on MRI for biopsy
+Men undergoing a first-time prostate biopsy driven by PSA elevation to rule out cancer
+Any prior needle biopsy of the prostate
+Newly diagnosed high-risk, localized or locally advanced prostate cancer pathologically proven by prostate biopsy within the past  months:\r\n* Clinical T or greater, or\r\n* PSA >  ng/ml, or\r\n* Clinically N, or\r\n* Prostate biopsy histology grade ? Gleason -
+At least  weeks after most recent prostate biopsy
+The patient must have either ) an established diagnosis of pancreatic cancer by biopsy or ) cancer involving the liver by biopsy or radiographic criteria, or ) prostate cancer by biopsy, with the intent of undergoing definitive dose radiation therapy to targets within the pancreas, liver, or prostate; patients with prostatectomy receiving post-operative radiotherapy are also eligible
+Pre-enrollment prostate biopsy must consist of at least  cores
+Males scheduled for prostate biopsy (for known or suspected prostate cancer) followed by planned prostatectomy (population group A), or
+Males with known (biopsy?confirmed) primary adenocarcinoma of the prostate undergoing active surveillance scheduled for prostate biopsy (population group B)
+Prostate biopsy within  weeks prior to PET or MRI imaging
+Biopsy proven, clinical stage - prostate carcinomas
+Prostate biopsy-naive or a single negative biopsy
+Patients who had >  prior prostate biopsy
+Abnormal uptake in prostate necessitating biopsy
+Less than  months since any prior prostate biopsy (to decrease false positive uptake from inflammation)
+Less than  month since any prior prostate biopsy (to decrease false positive uptake from inflammation)
+Subject must be scheduled for a clinically indicated needle biopsy of the prostate based upon an elevated prostate specific antigen (PSA), abnormal digital rectal examination, or based upon active surveillance of prostate cancer
+Prostate biopsy must be reviewed at Brigham and Womens Hospital or the Dana Farber Cancer Institute and should support a diagnosis of stage I-III prostate adenocarcinoma
+Prostate biopsy within  weeks (unless biopsy is planned from extraprostatic tissue)
+Diagnosis of adenocarcinoma of the prostate, confirmed by transrectal ultrasound (TRUS) biopsy
+Diagnosis of prostate adenocarcinoma by transrectal ultrasound (TRUS)-guided biopsy between  to  days prior to enrollment
+Scheduled for a TRUS biopsy based on clinical suspicion for prostate cancer
+Contraindication to prostate biopsy via transrectal or transperineal approaches (including coagulopathy)
+Prostate biopsy within  weeks prior to study entry
+INCLUSION CRITERIA:\n\n          -  Ability to provide informed consent and willingness to comply with protocol\n             requirements\n\n          -  Life expectancy ?  months\n\n        Cohort A only:\n\n          -  A diagnostic trans-rectal ultrasound (TRUS)-guided biopsy within  months of\n             enrollment showing adenocarcinoma of the prostate gland\n\n          -  Within  days of consent, serum PSA ? . ng/mL or ? . ng/mL if on  ?-reductase\n             inhibitors.\n\n          -  Candidates for active surveillance and/or a Gleason score ?+\n\n          -  Scheduled to undergo radical prostatectomy (RP) with or without pelvic lymph node\n             dissection (PLND)\n\n        Cohort B only:\n\n          -  Very low risk (VLR) prostate cancer defined by  NCCN Guideline criteria:\n\n          -  Tc stage, and\n\n          -  PSA <  ng/mL, and\n\n          -  Gleason score ?  with <  biopsy cores cancer positive and ? % cancer in any core\n             based on prior prostate biopsy within  months of enrollment, and\n\n          -  PSA density < . mg/mL/g\n\n          -  Scheduled to undergo a reassessment of prostate cancer staging that includes prostate\n             biopsy as part of routine follow-up\n\n        EXCLUSION CRITERIA:\n\n          . Subjects administered a radioisotope within  physical half-lives prior to study drug\n             injection.\n\n          . Previous treatment with hormonal therapy, surgery (except biopsy), radiation therapy,\n             LHRH analogs, and non-steroidal anti-androgens, for the treatment of prostate cancer\n             or benign prostatic hyperplasia (BPH)\n\n          . Planned androgen or anti-androgen therapy prior to RP surgery or biopsy\n\n          . Subjects with any medical condition or other circumstances that, in the opinion of the\n             investigator, would significantly interfere with obtaining reliable data, achieving\n             study objectives, or completing the study\n\n          . Malignancy (not including curatively treated basal or squamous cell carcinoma of the\n             skin) within the previous  years. (Ta stage transitional cell carcinoma bladder\n             cancer with negative surveillance cystoscopy within the past  years may be included).
+Men at least  years of age referred with clinical suspicion of prostate cancer who have been advised to have a prostate biopsy
+Prior prostate biopsy
+Biopsy confirmed prostate cancer with at least ten biopsies performed for diagnosis
+Received a prostate biopsy procedure within  days before admission into the study
+Men who have elected to proceed with a diagnostic prostate biopsy
+Patients must have prostate biopsy within  months prior to registration showing newly diagnosed prostate cancer, stage T-NM; in addition, patients must have: Gleason score -
+All male patients (all ages) scheduled for standard prostate needle biopsy (first, repeat or active surveillance biopsy) under local anesthesia will be eligible for the study.
+All men >  years age and < years of age with an indication for a prostate biopsy will be offered inclusion in the study. Typical indications for biopsy include abnormal PSA (prostate specific antigen) and/or abnormal DRE (digital rectal exam).
+Men undergoing TRUS-guided prostate biopsy in the OR under anesthesia
+Men with anorectal abnormalities preventing TRUS-guided prostate biopsy
+Patients with known or suspected prostate cancer who have been referred to the Department of Radiology at the University of Chicago Medical Center for a diagnostic MRI exam of the prostate, to be followed by an MRI-guided fusion biopsy of the prostate

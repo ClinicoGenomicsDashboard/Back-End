@@ -1,0 +1,64 @@
+AST =< 2 x upper limit of normal
+100.0
+TREATMENT: Creatinine =< 2 x upper limit of normal for age
+44.0
+Creatinine =< 1.5 x upper limit of normal (ULN)
+224.0
+Creatinine =< 1.5 x upper limit of normal (ULN)
+107.0
+Creatinine =< twice upper limit institutional normal
+132.0
+Creatinine < 1.5 times institutional upper limit of normal, within 21 days prior to study entry
+143.0
+Adequate coagulation defined as:* Prothrombin time (PT) =< 1.2 x upper limit of normal
+74.0
+Creatinine < 1.5 institutional upper limit of normal OR
+165.0
+Serum creatinine of =< 1.5 X the upper limit of normal
+52.0
+TREATMENT: AST (SGOT)/ALT (SGPT) =< 3 x institutional upper limit of normal
+700.0
+Prothrombin time (PT) =< 1.5 x institutional upper limit of normal (ULN)
+68.0
+Prothrombin time (PT) < 1.3 x upper limit of normal (ULN)
+32.0
+Creatinine =< 1.5 x upper limit of normal (ULN) within 14 days prior to study registration
+440.0
+Serum creatinine > 2 times the upper limit of normal
+125.0
+Creatinine =< institutional upper limit of normal OR
+40.0
+Creatinine =< 1.5 x institutional/laboratory upper limit of normal (ULN)
+96.0
+INCLUSION CRITERIA FOR STRATUM C: ALT (SGPT) =< 3 x institutional upper limit of normal
+110.0
+AST/ALT =< 3 x upper limit of normal (ULN)
+195.0
+Creatinine (Cr) < 1.5 upper limit of normal (ULN)
+23.0
+Creatinine =< 1.5 x institutional upper limit of normal
+35.0
+Creatine phosphokinase =< institutional upper limit of normal
+37.0
+AST (SGOT)/ALT(SGPT) (only if elevated liver function tests [LFTs] are due to disease) =< 5.0 x institutional upper limit of normal
+36.0
+Serum creatinine =< 1.5 x upper limit of normal (ULN)
+64.0
+Creatinine =< 1.5 x upper limit of normal (ULN)
+137.0
+Serum creatinine of =< 1.5 x the upper limit of normal
+24.0
+Creatinine =< 1.5 x upper limit of normal (ULN)
+84.0
+Note: ULN is institutional or laboratory upper limit of normal
+84.0
+Creatinine =< 1.5 x upper limit of normal (ULN) or
+124.0
+Within 14 days prior to registration: Creatinine =< 1.5 x institutional upper limit of normal (ULN)
+488.0
+Creatinine =< 1.5 x upper limit of normal (ULN) or
+700.0
+Sodium >= the institutional lower limit of normal
+30.0
+AST =< 8 x upper limit of normal (ULN)
+324.0

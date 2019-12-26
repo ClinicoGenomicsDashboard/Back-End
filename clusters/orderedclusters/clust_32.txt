@@ -1,0 +1,44 @@
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+77.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+154.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+148.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 60 for patients =< 16 years of age; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+484.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+81.0
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 70; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 60; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+110.0
+Karnofsky performance status >= 50% for patients > 16 years of age and Lansky >= 50 for patients =<16 years of age; Note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+67.0
+RECURRENT/ PROGRESSIVE DIPG (STRATUM 1): Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within 7 days of enrollment must be >= 50%; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+50.0
+NON-PROGRESSED DIPG (STRATUM 2): Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within 7 days of enrollment must be >= 50%; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+50.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age * Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+65.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+36.0
+Karnofsky performance scale (KPS for > 16 years of age) or Lansky performance score (LPS for =< 16 years of age) assessed within two weeks of enrollment must be >= 60; patients who are unable to walk because of neurologic deficits, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+25.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age * Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+51.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age* Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+49.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age* Note: Neurologic deficits in patients with CNS tumors must have been relatively stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+98.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: Neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+49.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: Neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+49.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+144.0
+Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age; Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+49.0
+ELIGIBILITY CRITERIA FOR ENROLLMENT ONTO APEC1621SC: Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age); Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+1500.0
+GENERAL INCLUSION CRITERIA FOR SUBPROTOCOLS: Karnofsky >= 50% for patients > 16 years of age and Lansky >= 50 for patients =< 16 years of age); Note: neurologic deficits in patients with CNS tumors must have been stable for at least 7 days prior to study enrollment; patients who are unable to walk because of paralysis, but who are up in a wheelchair, will be considered ambulatory for the purpose of assessing the performance score
+1500.0

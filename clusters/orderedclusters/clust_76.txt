@@ -1,0 +1,176 @@
+Platelets (PLT) >= 100,000/mcL
+36.0
+Platelets >= 100,000/mcL
+102.0
+Platelets >= 100,000/mcl
+360.0
+Platelets >= 100,000/mcL
+276.0
+Platelets >= 100,000/mcl
+162.0
+Platelets >= 100,000/mcL
+40.0
+Platelets >= 100,000/mcL
+107.0
+Platelets >= 100,000/mcl
+52.0
+Platelets >= 100,000/mcL
+55.0
+Platelets >= 100,000/mcL
+165.0
+Platelets >= 100,000/mcL
+42.0
+Platelets >= 100,000/mcL
+36.0
+Platelets >= 100,000/mcL
+140.0
+Platelets >= 100,000/mcL
+80.0
+Platelets >= 100,000/mcL
+68.0
+Platelets >= 75,000/mcL
+42.0
+Platelets >= 100,000/mcL
+73.0
+Platelets >= 100,000/mcL
+80.0
+Platelets >= 100,000/mcL
+70.0
+Platelets >= 100,000/mcL
+72.0
+Platelets >= 100,000/mcL (without transfusion)
+12.0
+Platelets >= 100,000/mcL
+68.0
+Platelets greater than or equal to 100,000/mcl
+540.0
+Platelets >= 50,000/mcL
+54.0
+Platelets >= 100,000/mcL
+32.0
+Platelets >= 100,000/mcL
+100.0
+Platelets >= 100,000/mcL
+24.0
+Platelets >= 100,000/mcL
+35.0
+Platelets >= 100,000/mcL
+230.0
+Platelets >= 100,000/mcL
+40.0
+Platelets >= 100,000/mcL
+57.0
+Platelets >= 50,000 cells/mcL (50 x 10^9/L)
+52.0
+Platelets >= 100,000/mcL
+90.0
+Platelets >= 100,000/mcL
+36.0
+Platelets >= 100,000/mcL
+23.0
+Platelets >= 50,000/mcL or recovery to the baseline count
+80.0
+Platelets >= 75,000/mcL
+135.0
+Platelets >= 100,000/mcL
+37.0
+Platelets >= 150,000/mcL
+66.0
+Platelets >= 50,000/mcL
+12.0
+Platelets >= 100,000/mcL
+42.0
+Platelets >= 100,000/mcL
+209.0
+Platelets >= 100,000/mcL
+30.0
+Platelets >= 100,000/mcL
+75.0
+Platelets >= 100,000/mcL (not requiring platelet transfusions)
+50.0
+Platelets >= 100,000/mcL
+30.0
+Platelets >= 100,000/mcL
+549.0
+Platelets >= 100,000/mcL
+680.0
+Platelets >= 100,000/mcL
+46.0
+Platelets >= 100,000/mcL
+45.0
+Platelets >= 100,000/mcL
+82.0
+Platelets >= 100,000/mcL
+126.0
+Platelets >= 100,000/mcL
+150.0
+Platelets >= 100,000/mcL
+50.0
+Platelets >= 75,000/mcL
+46.0
+Platelets >= 100,000/mcL
+15.0
+Platelets >= 100,000/mcL
+46.0
+Platelets >= 50,000/mcL
+36.0
+Platelets >= 100,000/mcL
+90.0
+Platelets >= 100,000/mcL
+45.0
+Platelets >= 75,000/mcL, unless due to marrow involvement by lymphoma in which case a platelet count of >= 30,000/mcL will be used
+50.0
+Platelets >= 100,000/mcL
+46.0
+Platelets > 50,000/mcL
+60.0
+Within 2 weeks prior to initiation of study treatment: Platelets >= 100,000/mcL
+70.0
+Platelets >= 100,000/mcL (without transfusion within 2 weeks prior to cycle 1, day 1)
+29.0
+Platelets >= 100,000/mcL
+51.0
+Platelets >= 100,000/mcL
+150.0
+Platelets >= 100,000/mcL
+48.0
+Platelets >= 100,000/mcL
+20.0
+Platelets >= 75,000/mcl
+84.0
+Platelets >= 100,000/mcL
+60.0
+Platelets >= 100,000/mcL
+38.0
+Platelets >= 100,000/mcL
+70.0
+Platelets >= 100,000/mcL
+24.0
+Platelets >= 100,000/mcL
+35.0
+Platelets >= 100,000/mcL (not requiring platelet transfusions)
+24.0
+Platelets >= 100,000/mcL
+28.0
+Platelets >= 100,000/mcL
+148.0
+Platelets >= 100,000/mcL
+72.0
+Platelets >= 75,000/mcL (>= 50,000 for patients with hematologic malignancies)
+40.0
+Platelets >= 150,000/mcL
+60.0
+Platelets >= 100,000/mcL
+180.0
+Platelets >= 100,000/mcL
+40.0
+Platelets >= 100,000/mcL
+22.0
+Platelets >= 100,000/mcL
+70.0
+Platelets >= 100,000/mcL
+47.0
+Platelets >= 100,000/mcL
+35.0
+Platelets >= 100,000/mcL
+78.0

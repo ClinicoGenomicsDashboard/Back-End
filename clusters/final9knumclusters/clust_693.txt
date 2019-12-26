@@ -1,0 +1,35 @@
+Serum creatinine level =< IULN within 28 days prior to registration
+Within 28 days prior to registration: Serum creatinine =< 2.0 x IULN
+Patients must have adequate renal function with serum creatinine level =< IULN within 21 days prior to registration
+Serum creatinine =< 2.0 x IULN within 28 days prior to registration
+Patients must have creatinine clearance =< 2.5 x IULN
+Patients must have serum creatinine =< 2 x institutional upper limits of normal (IULN) within 7 days prior to registration
+Serum creatinine =< 1.5 x the IULN
+Creatinine =< 1.5 x IULN OR creatinine clearance >= 40 mL/min/1.73 m^2 for patients with creatinine levels > 1.5 x IULN (that is, if serum creatinine is > 1.5 x IULN, a 24-hour urine collection to calculate creatinine clearance must be performed)
+Creatinine =< IULN OR creatinine clearance >= 60 mL/min/1.73 m^2 for patients with serum creatinine levels above institutional normal (IULN) (calculated by creatinine clearance estimate by Cockcroft-Gault equation)
+Serum creatinine =< 1.5 x institutional upper limit of normal (IULN) OR creatinine clearance by Cockcroft-Gault >= 60 mL/min for patients with serum creatinine > 1.5 x IULN
+Serum creatinine =< 1.5 x IULN OR creatinine clearance by Cockcroft-Gault >= 30 mL/min/1.73 m^2 for patients with creatinine levels > 1.5 x IULN
+Adequate renal and hepatic function (creatinine ? 2.0 x IULN, bilirubin ? 1.5 IULN, AST and ALT ? 3.0 x IULN or 5 x IULN if known liver metastases).
+Serum creatinine =< 1.5 x IULN OR creatinine clearance by Cockcroft-Gault >= 60 mL/min/1.73 m^2 for patients with creatinine levels > 1.5 x IULN
+Serum creatinine =< 1.5 x IULN OR creatinine clearance by Cockcroft-Gault >= 60 mL/min/1.73 m^2 for patients with creatinine levels > 1.5 x IULN
+Serum creatinine < 3 x IULN
+Adequate renal and hepatic function (creatinine ? 1.5 x IULN, bilirubin ? IULN, AST and ALT ? 3.0 x IULN or 5 x IULN if know liver metastases).
+Creatinine =< 1.5 x IULN OR measured or calculated creatinine clearance >= 50 mL/min for patients with creatinine levels > 1.5 x IULN
+Adequate renal and hepatic function (creatinine ? 1.5 x IULN, bilirubin within normal limits, AST and ALT ? 3.0 x IULN or 5 x IULN if know liver metastases)
+Creatinine =< 1.5 x IULN
+Within 14 days of subject registration: Serum creatinine =< 1.5 X IULN
+Baseline BNP > 2 x IULN
+Serum creatinine =< 1.5 x IULN
+Serum creatinine =< 2 x institutional upper limit of normal (IULN), unless due to lymphoma, within 42 day prior to registration
+Performed within 14 days of patient registration: Serum creatinine =< 1.5 x IULN
+Serum creatinine =< IULN within 14 days prior to registration
+Serum creatinine =< 1.5 x IULN within 14 days prior to Step 2 Randomization OR
+Serum creatinine =< 1.5 x IULN within 14 days prior to Step 3 registration OR
+Baseline troponin I or T > IULN and b-type natriuretic peptide > IULN
+Serum creatinine level =< IULN
+Serum creatinine =< 1.5 x IULN (assessed within 7 days prior to study day 1)
+Serum creatinine =< 1.5 x IULN OR creatinine clearance by Cockcroft-Gault >= 60 mL/min/1.73 m^2 for patients with creatinine levels > 1.5 x IULN
+Serum creatinine < 2.0 x IULN within 28 days prior to registration
+Serum creatinine =< 2.0 x IULN
+Serum creatinine =< 1.5 x IULN obtained within 28 days prior to registration
+Transaminases =< IULN

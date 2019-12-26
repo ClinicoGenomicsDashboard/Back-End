@@ -1,0 +1,5 @@
+Cluster 373: block degree av atrioventricular second nd rd ventricular ecg type 
+Cluster 444: ventricular atrial tested tachycardia degree old fibrillation block lvef arrhythmias 
+Cluster 1546: ventricular fibrillation atrial tachycardia arrhythmia contractions premature flutter uncontrolled controlled 
+Cluster 1612: ventricular tachycardia fibrillation history pointes arrhythmia torsades arrhythmias sustained clinically 
+Cluster 2191: ventricular atrial heart tachycardia degree fibrillation block lvef arrhythmias old 

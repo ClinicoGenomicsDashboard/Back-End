@@ -1,0 +1,41 @@
+Platelets ? ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL.
+Platelets >= , cells/ml
+Platelets < ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets more or equal to ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets >= ,/ml
+Platelets ? , cells/ml,
+Platelets ?, / mL
+Platelets < /ml
+Platelets < /ml
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets >= , ml
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets > ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets < ,/ml
+Platelets ?, /mL
+Platelets ? , /mL;
+Platelets >= ,/mL
+Platelets >= ,/mL
+Platelets > ,/ml
+Within  days of surgery: Platelets >= ,/ml
+Platelets >= ,/ml
+Platelets >= ,/ml (within  days of surgery)
+Platelets >= ,/mL

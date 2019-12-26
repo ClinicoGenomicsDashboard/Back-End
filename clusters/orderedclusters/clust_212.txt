@@ -1,0 +1,174 @@
+No previous chemotherapy or radiation therapy
+400.0
+Prior radiation therapy is allowed; patients must not have received minimal radiation therapy (=< 5% of their total marrow volume) within 3 weeks prior to the initiation of study treatment; otherwise, patients must not have received radiation therapy (> 5% of their total marrow volume) within 4 weeks prior to the initiation of study treatment; patients who have received prior radiation to 50% or more of their total marrow volume will be excluded
+36.0
+History of prior radiation therapy or chemotherapy for glioma; note: patients who have a history of prior low grade glioma (with or without a distant history of prior surgery for that glioma), but who have never received prior chemotherapy or radiation therapy for the glioma are eligible for the study
+360.0
+Patient must be considered able to tolerate systemic chemotherapy combined with pelvic radiation therapy, and a radical cystectomy (if necessary) by the joint agreement of the participating urologist, radiation oncologist, and medical oncologist
+37.0
+Patients with cervix cancer who have received any previous radiation or chemotherapy
+360.0
+Must have received external beam radiation with curative intent
+240.0
+No prior chemotherapy or radiation therapy for HGG or DIPG is permitted; prior chemotherapy or radiation therapy for treatment of other malignancies is permitted
+30.0
+Patients must not have received prior chest radiation therapy for NSCLC
+162.0
+Prior radiation therapy is allowed; patients must not have received any radiation within 3 weeks prior to the initiation of study treatment; patients may not have areas of irradiated marrow exceeding 40% of bone marrow volume
+130.0
+Any prior pelvic radiation
+1120.0
+Planned partial breast radiation
+265.0
+Concurrent radiation therapy or chemotherapy
+224.0
+Patients who have received prior pelvic radiation or cytotoxic chemotherapy
+52.0
+Prior radiation therapy (RT) (any site) with concurrent lapatinib defined as 1 or more days on which the patient received both radiation therapy and lapatinib on the same day
+143.0
+Patients must have completed either breast-conserving surgery or total mastectomy, with negative margins and appropriate axillary staging; a negative margin is defined as no evidence of tumor or ductal carcinoma in situ (DCIS) at the line of resection; additional operative procedures may be performed to obtain clear margins* Patients who had breast-conserving surgery must have completed whole breast radiation; use of regional nodal basin radiation will be at the discretion of the investigator according to institutional guidelines* Patients with >= 4 positive lymph nodes must have completed breast/chest wall and nodal basin radiation therapy according to standard of care guidelines before randomization; omission of radiation therapy is not allowed in this high-risk population of patients* Patients must be registered at least 21 days after completion of radiation therapy and must have recovered (=< grade 1) from any of the effects of radiation
+1900.0
+Radiation: * Patients must not have received radiation (small port) for a minimum of two weeks prior to protocol therapy* Except for patients with a history of progressive disease, patients whose only site(s) of disease have been radiated are eligible if at least one lesion meets at least one of the criteria listed in sites of disease above* A minimum of 12 weeks prior to start of protocol therapy is required following large field radiation therapy (i.e. total body irradiation, craniospinal, whole abdominal, total lung, > 50% marrow space)* A minimum of 6 weeks must have elapsed prior to start of protocol therapy for other substantial bone marrow radiation
+62.0
+Patients must have a history of stage 0, I, II or III colon or rectal adenocarcinoma that has been treated per standard care with resection alone or in combination with radiation or chemotherapy; adjuvant chemotherapy and radiation therapy (RT) treatment must have been completed at least 30 days prior to registration
+491.0
+STEP I: Patients must have received no more than one cycle (4 weeks or less) of prior chemotherapy and no more than 160 mg of prior dexamethasone (or equivalent dose of prednisone) for treatment of symptomatic myeloma; they should not have been exposed to lenalidomide, bortezomib or carfilzomib for treatment of symptomatic myeloma; prior radiation therapy to symptomatic lesions is allowed provided there are no residual toxicity related to radiation and blood counts that meet the study requirements
+1080.0
+Patients must not have initiated chemotherapy or radiation prior to registration to this study
+612.0
+The subject has received radiation therapy within 4 weeks (=< 2 weeks for palliative radiation therapy)
+55.0
+No interim time prior to study entry is required following prior radiation therapy (RT) for non-target lesions; however, patients must not have received radiation for a minimum of 4 weeks prior to study entry at the site of any lesion that will be identified as a target lesion to measure tumor response; lesions that have been previously radiated cannot be used as target lesions unless there is radiographic evidence of progression at the site following radiation or a biopsy done following radiation shows viable neuroblastoma; palliative radiation is allowed to sites that will not be used to measure response during this study
+74.0
+Any radiation therapy for the currently diagnosed breast cancer prior to randomization
+1636.0
+Prior breast or thoracic radiation therapy (RT) for any condition
+1636.0
+Patients must have prior histologically proven glioblastoma that is progressive or recurrent following radiation therapy +/- chemotherapy
+36.0
+No neoadjuvant radiation therapy
+2918.0
+Prior local radiation therapy must be completed at least 30 days prior to enrollment and the patient must have recovered from all toxicity
+80.0
+Patients may have received prior radiation therapy; all adverse events associated with prior radiation therapy must have resolved to =< grade 1 prior to registration
+97.0
+Patients must not have received any prior chemotherapy, radiation therapy, immunotherapy or bone marrow transplant for the treatment of DIPG; prior dexamethasone and/or surgery are allowed
+77.0
+Stratum 1: patients must not have received radiation therapy
+52.0
+Previous steroid treatment and/or radiation treatment is not allowed unless it is for the emergent management of a mediastinal mass; emergent steroid treatment and/or radiation treatment should stop once protocol therapy is initiated
+140.0
+Patients may have received prior radiation therapy for treatment of endometrial carcinoma; prior radiation therapy may have included pelvic radiation therapy, extended field pelvic/para-aortic radiation therapy, and/or intravaginal brachytherapy; all radiation therapy must be completed at least 4 weeks prior to the first date of study therapy
+540.0
+Previous pelvic radiation for bladder or prostate cancer if performed < 12 months prior to enrollment into the study
+54.0
+At least 14 days after local palliative radiation therapy (XRT) (small port); at least 150 days must have elapsed if prior traumatic brain injury (TBI), craniospinal XRT or if >= 50% radiation of pelvis; at least 42 days must have elapsed if other substantial bone marrow radiation, including therapeutic doses of Iobenguane (MIBG)
+154.0
+Prior treatment:* Must have completed standard radiotherapy and concomitant TMZ therapy as defined and determined by the study oncologist* Besides concomitant TMZ with radiation, no other therapy (neo-adjuvant or adjuvant) can be given prior to study registration, including chemotherapy (also including Gliadel/carmustine [BCNU] wafers), biologics, immunotherapy, radiation therapy; the only exception is the Optune device (NovoTTF-100A), which may be started any time after end of radiation therapy up through the initiation of Cycle 1; intent to use Optune must be declared at registration for stratification
+440.0
+If patients have had a potential index lesion radiated, it must have progressed post radiation therapy to be used as a measurable eligibility lesion
+250.0
+Prior radiation is permitted; however, at least 2 weeks must have elapsed since the completion of prior radiation therapy and patients must have recovered from all radiation-associated toxicities to no greater than grade 1 at the time of registration
+28.0
+Evaluation by a radiation oncologist within 45 days prior to study registration
+84.0
+Prior radiotherapy must in general have been completed >= 2 weeks prior to randomization and patients must have recovered from the toxicity of the radiation* NOTE: Patients may receive concurrent radiation therapy to painful sites of bony disease or areas of impending fracture as long as sites of measurable or non-measurable disease outside the radiation therapy port are available to follow
+600.0
+Patients with prior TBI, craniospinal XRT and/or those with >= 50% radiation of the pelvis are not eligible
+148.0
+ARM II ONLY: For patients status post radiation therapy for prostate cancer, any PSA increase from post radiation therapy nadir OR
+125.0
+Patients must have histologically proven glioblastoma or gliosarcoma which is progressive or recurrent following radiation therapy +/- chemotherapy
+40.0
+Patients who have received any previous chemotherapy or radiation therapy are not eligible
+600.0
+No large (>= 2 cm) hemorrhagic or symptomatic brain metastases until local treatment has been administered (radiation therapy or surgery); treatment may begin >= 7 days after completion of local treatment; patients with small (< 2 cm) and asymptomatic brain metastases are allowed and may be treated with radiation therapy and/or surgery concurrently with Arm A or cycles 1 and 2 of Arm B if deemed medically indicated; radiation therapy should not be given concurrently with high-dose carboplatin or etoposide
+420.0
+Radiation therapy for bone metastasis within 2 weeks, any other external radiation therapy within 4 weeks before the first dose of study treatment; systemic treatment with radionuclides within 6 weeks before the first dose of study treatment; subjects with clinically relevant ongoing complications from prior radiation therapy are not eligible
+90.0
+The subject has received radiation therapy:* To the thoracic cavity or abdomen within 3 months before the first dose of study treatment, or has ongoing complications, or is without complete recovery and healing from prior radiation therapy* To bone or brain metastasis within 3 weeks before the first dose of study treatment* To any other site(s) within 28 days before the first dose of study treatment
+135.0
+Patients who have received prior chemotherapy or radiation therapy are not eligible
+330.0
+Prior external beam radiation therapy to the brain or whole brain radiation therapy* Prior single-fraction or fractionated radiosurgery is permitted
+510.0
+Patients who received radiation therapy within the last 4 weeks; radiation exposure may not exceed 30% of marrow area
+209.0
+Patients must have had their last fraction of:* Craniospinal irradiation >= 3 months prior to enrollment* Other substantial bone marrow irradiation >= 6 weeks prior to enrollment* Local palliative radiation therapy (XRT) (small port) >= 2 weeks
+110.0
+INCLUSION CRITERIA FOR STRATUM C: Patients must have had their last fraction of:* Craniospinal irradiation >= 3 months prior to enrollment* Other substantial bone marrow irradiation >= 6 weeks prior to enrollment* Local palliative radiation therapy (XRT) (small port) >= 2 weeks
+110.0
+For patients pre-registering after the completion of radiation therapy, documentation of a bone marrow aspirate and biopsy containing < 10% clonal plasma cells prior to start of radiation therapy
+110.0
+For all patients:* Radiation dose should range from 4500 cGy to 6000 cGy* No treatment for this disease following radiation therapy
+110.0
+Patients must have CD4 =< 300 cells/mm^3 in the last week (7 days) of standard radiation + temozolomide treatment (58-60 Gy radiation with temozolomide 75 mg/m2 daily during radiation)
+75.0
+Participants who have received any other investigational agents within the 4 weeks prior to enrollment; concurrent radiation therapy is not permitted, except palliative (limited-field) radiation therapy, if all of the following criteria are met:* Repeat imaging demonstrates no new sites of bone metastases* The lesion being considered for palliative radiation is not a target lesion
+84.0
+Prior treatment * Prior medical therapy is allowed but not required* No limit on number of prior therapies* No chemotherapy, other investigational agents within 28 days of study treatment* No other concurrent investigational agents or other meningioma-directed therapy (chemotherapy, radiation) while on study* For patients treated with external beam radiation, interstitial brachytherapy or radiosurgery, an interval > 24 weeks must have elapsed from completion of radiation therapy to registration* Steroid dosing stable for at least 4 days * Recovered to Common Terminology Criteria for Adverse Events (CTCAE) grade 1 or less toxicity from other agents with exception of alopecia and fatigue* No craniotomy within 28 days of registration
+69.0
+Prior radiation therapy within 2 weeks prior to the first dose of the study regimen
+33.0
+Patients must have fully recovered from the acute toxic effects of all prior chemotherapy, immunotherapy, or radiotherapy prior to entering this study* Myelosuppressive anti-cancer therapy: must not have been received within 2 weeks of study entry (4 weeks if prior nitrosourea)* Biologic (anti-neoplastic agent): at least 7 days since the completion of therapy with a biologic agent* Radiation therapy (RT): >= 2 weeks for local palliative radiation therapy (RT) (small port); >= 6 weeks must have elapsed if prior craniospinal RT or if >= 50% radiation of pelvis; >= 6 weeks must have elapsed if other substantial bone marrow (BM) radiation* Surgery: >= 2 weeks from last major surgery, including pulmonary metastasectomy, with the exclusion of a central line placement and core needle or small open biopsies
+44.0
+Have received surgery, chemotherapy, and/or radiation therapy
+720.0
+Have completed all surgery, chemotherapy and/or radiation therapy within the last 2-60 months
+720.0
+Patients may have received prior radiation therapy, but must have measurable disease outside the radiation port; at least 14 days must have elapsed since completion of prior radiation therapy; patients must have recovered from all associated toxicities at the time of registration
+180.0
+Prior radiation allowed (no restriction on amount); measurable lesion(s) may not have been previously irradiated
+32.0
+At least 2 weeks from end of radiation therapy
+60.0
+No prior pelvic radiation therapy or chemotherapy
+64.0
+Radiation therapy (RT): >= 2 weeks for local palliative RT (small port); >= 6 months must have elapsed if prior craniospinal RT or if >= 50% radiation of pelvis; >= 6 weeks must have elapsed if other substantial bone marrow (BM) radiation; Note: patients must have received =< than 13.6 Gray (Gy) prior radiation to the mediastinum
+56.0
+All women who undergo breast conserving therapy must receive concomitant radiotherapy; radiation after mastectomy is to be administered according to pre-specified institutional guidelines; radiation must be completed at least 21 days prior to registration
+NONE
+PRIOR/CONCURRENT THERAPY CRITERIA: Patients may have had prior radiation therapy as long as it has not affected greater than 25% of the bone marrow and at least one measurable lesion is outside the area of prior radiation; at least 7 days must have elapsed since last radiation treatment; patients must have recovered from any adverse events from prior radiation therapy to =< CTCAE grade 1
+53.0
+Any therapeutic pelvic radiation
+348.0
+Patients may have received prior radiation therapy for treatment of endometrial cancer; prior radiation therapy may have included pelvic radiation therapy, extended field pelvic/para-aortic radiation therapy, intravaginal brachytherapy and/or palliative radiation therapy; all radiation therapy must be completed at least 4 weeks prior to registration
+84.0
+No prior chemotherapy or radiation for pancreatic cancer
+124.0
+Prior therapy wash-out period requirements* Participants must be at least 4 weeks from prior surgical procedures and surgical incisions must be healed* Participants must have had their last fraction of external beam radiation therapy at least 4 weeks prior to enrollment; participants with prior radiation therapy must be at least 4 weeks post therapy and have had progression of disease outside the radiation port* Participants must have had their last dose of cytotoxic chemotherapy at least 28 days prior to enrollment, their last dose of biological therapy, such as biological response modifiers (e.g., cytokines), immunomodulatory agents, vaccines, differentiating agents, used to treat their cancer at least 28 days prior to enrollment, their last dose of a monoclonal antibody at least 28 days prior to enrollment, and their last dose of any investigational agent at least 28 days prior to enrollment* Participants must have recovered from the acute toxic effects of prior therapy to a grade 1 (Common Terminology Criteria for Adverse Events [CTCAE] v.4.0) level prior to enrollment (does not apply to alopecia)
+70.0
+At least 6 weeks must have elapsed prior to enrollment since the patient received any prior radiation therapy, and the target cutaneous neurofibromas have to be in areas outside of a prior radiation field
+24.0
+At least 6 weeks must have elapsed prior to enrollment since the patient received any prior radiation therapy
+28.0
+Prior radiation therapy is allowed; patients must not have received minimal radiation therapy (=< 5% of their total marrow volume) within 3 weeks prior to the initiation of study treatment; otherwise, patients must not have received radiation therapy (> 5% of their total marrow volume) within 4 weeks prior to the initiation of study treatment; patients who have received prior radiation to 50% or more of their total marrow volume will be excluded
+72.0
+>= 2 weeks must have elapsed since local palliative radiation therapy (XRT) (small port); >= 6 weeks must have elapsed since treatment with therapeutic doses of M-Iodobenzylguanidine (MIBG); >= 3 months must have elapsed if prior craniospinal XRT was received, if >= 50% of the pelvis was irradiated, or if total-body irradiation (TBI) was received; >= 6 weeks must have elapsed if other substantial bone marrow irradiation was given* Subjects should not have any clinically relevant ongoing complications from prior radiation therapy (i.e., radiation esophagitis or other inflammation of the viscera)
+146.0
+At least 21 days must have elapsed from prior systemic therapy (chemotherapy or radiation)
+180.0
+Patients must have at least one lesion that has not previously been irradiated (and is not within a previously radiated field) and for which palliative radiation is potentially indicated and could be safely delivered at the radiation doses specified in this protocol; this lesion must not be the only measurable lesion so that it is still possible to determine the response rate outside of the radiation treatment field; this lesion must not be within the central nervous system (CNS) (brain or spinal cord) or requiring urgent or emergent palliative radiation given the timing of radiation specified on this protocol; furthermore, this lesion: * For cohort 1 (NSCLC cohort) � the lesion to be irradiated must be in the lung, lymph nodes, adrenal gland or liver * For cohort 2 (colorectal cohort) � the lesion to be irradiated must be in the liver
+180.0
+Disease that is currently not amenable to surgery, radiation, or combined modality therapy with curative intent
+40.0
+X ray (XRT)/external beam irradiation including protons: >= 14 days after local XRT; >= 150 days after TBI, craniospinal XRT or if radiation to >= 50% of the pelvis; >= 42 days if other substantial bone marrow (BM) radiation
+51.0
+No other planned concurrent investigational agents or other tumor directed therapy (chemotherapy, radiation) while on study
+700.0
+Patients must have a primary tumor that are determined by multidisciplinary team (medical oncology, orthopedic/surgical oncology, and radiation oncology) to require radiation therapy for optimal management prior to surgical resection
+40.0
+Patients for whom radiation therapy (RT) to the affected breast or chest wall and regional nodal areas is clinically indicated as per NCCN treatment guidelines, should receive RT after randomization when possible, and receive MK-3475 (pembrolizumab) concurrent with RT, if randomized to the experimental arm; however, RT administered, or initiated, prior to registration is also allowed; pembrolizumab may be added to ongoing radiation, or started after its completion, if randomized to the experimental arm, provided there are no > grade 2 radiation-related skin toxicities; patients who have not yet started radiation must specify at the time of screening registration whether or not they will receive RT and the extent of intended RT
+1000.0
+Patients with any history of prior radiation therapy in the affected breast
+175.0
+Patients must have histologically confirmed glioblastoma that is progressive or recurrent following radiation therapy and temozolomide according to the Response Assessment in Neuro-Oncology (RANO) criteria with:* New contrast-enhancing lesion outside of radiation field on decreasing, stable, or increasing doses of corticosteroids* Increase by >= 25% in the sum of the products of perpendicular diameters between the postradiotherapy scan with the smallest tumor measurement and a scan at least 12 weeks from completion of radiation therapy (RT) + temozolomide (TMZ), on stable or increasing doses of corticosteroids** Note: clinical deterioration not attributable to concurrent medication or comorbid conditions is sufficient to declare progression on current treatment but not for entry onto a clinical trial for recurrence
+35.0
+Patients must be in first recurrence of glioblastoma following radiation therapy and temozolomide
+35.0
+Post-operative MRI imaging with contrast is mandatory obtained for radiation therapy planning and must be 30 days prior to the start of radiation therapy; enrolling sites are not mandated although highly encouraged to obtain thin-slice (< 1.5 mm) 3 dimensional (D) axial T2/FLAIR and T1 pre and post contrast sequences for planning purposes
+120.0
+Planned use of cytotoxic chemotherapy during radiation (only adjuvant temozolomide therapy will be used on this protocol)
+120.0
+The use of memantine during or following radiation is NOT allowed
+120.0

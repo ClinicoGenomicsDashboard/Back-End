@@ -1,0 +1,224 @@
+Histologically or cytologically confirmed small cell lung cancer
+729.0
+Patients must have a biopsy with histologically confirmed diagnosis of recurrent endometrial cancer confined to the pelvis and/or vagina and no evidence of extrapelvic disease
+164.0
+Diagnosis confirmed by staff of the Hematopathology Section, Laboratory of Pathology, National Cancer Institute (NCI)
+348.0
+Patients must have histologically or cytologically confirmed diagnosis of malignancy that is metastatic or unresectable and for which standard curative or palliative measures do not exist or are no longer effective or for whom CPT-11 treatment would be a viable therapy regimen; patients with solid hematologic malignancies (Hodgkin�s and non-Hodgkin�s lymphomas) may be included as long as a bone marrow has been performed within 6 weeks of treatment
+36.0
+Patients enrolled on the dose escalation for intermittent ABT-888 portion of the study must histologically or cytologically confirmed diagnosis of malignancy that is metastatic or unresectable and for which standard curative or palliative measures do not exist or are no longer effective or for whom CPT-11 treatment would be a viable therapy regimen; patients with solid hematologic malignancies (Hodgkin�s and non-Hodgkin�s lymphomas) may be included as long as a bone marrow has been performed within 6 weeks of treatment
+36.0
+PHASE I: Adult patients with histologically confirmed solid tumor malignancy that is metastatic or unresectable and for which standard curative measures or other therapy definitely capable of extending life expectancy does not exist
+102.0
+If radiologic evaluation of a lymph node is interpreted as �positive�, this must be evaluated further either by lymphadenectomy or by percutaneous needle biopsy; patients with histologically or cytologically confirmed node metastases will not be eligible
+37.0
+Evidence of distant metastases or histologically or cytologically proven lymph node metastases
+37.0
+Patients must be newly diagnosed with histologically-proven hepatoblastoma
+253.0
+Patients must have histologically confirmed malignancy that is radiologically evaluable and metastatic or unresectable, for which standard curative or palliative measures do not exist or are no longer effective, and for which there is expectation of response to the combination of carboplatin/paclitaxel (i.e., lung, ovarian, breast, melanoma, head and neck, endometrial, urothelial, testicular, esophageal, carcinoma of unknown primary); for indications not listed, eligibility based on disease must be verified by the principal investigator before they are considered
+276.0
+Patients must have histologically documented (confirmed at the Laboratory of Pathology, National Cancer Institute [NCI]), relapsed solid tumor malignancy or Hodgkin's disease/non-Hodgkin lymphoma that is metastatic or unresectable for which standard curative measures do not exist, or are associated with minimal patient survival benefit
+74.0
+Patients must have histologically or cytologically-proven new diagnosis of unresectable stage IIIA/IIIB*, non-small cell lung cancer (adenocarcinoma, bronchioloalveolar cell carcinoma, large cell carcinoma, squamous cell carcinoma, or mixed)* Per the American Joint Committee on Cancer (AJCC) 7th edition, pleural and pericardial are now considered stage M1a disease; when pleural fluid is visible on the computed tomography (CT) scan or on a chest x-ray, a thoracentesis is required to confirm that the pleural fluid is cytologically negative; patients with exudative pleural effusions are excluded, regardless of cytology; patients with effusions that are minimal (i.e. not visible on chest x-ray) that are too small to safely tap are eligible; a small effusion that has positive fludeoxyglucose F 18 (FDG) uptake on positron emission tomography (PET) has to be proven to be malignant per standard of care diagnostic procedures for the patient to be excluded
+162.0
+Participants must have histologically confirmed diagnosis of a solid tumor for which no curative therapy exists
+130.0
+Patients must have metastatic histologically or cytologically confirmed uveal melanoma; (if histologic or cytologic confirmation of the primary is not available, confirmation of the primary diagnosis of uveal melanoma by the treating investigator can be clinically obtained, as per standard practice for uveal melanoma); pathologic confirmation of diagnosis will be performed at Columbia University, Memorial Sloan-Kettering Cancer Center (MSKCC) or Vanderbilt University Medical Center
+40.0
+Patients must have histologically or cytologically confirmed (at original diagnosis or subsequent recurrence or progression) lymphoma, chronic lymphocytic lymphoma (CLL) or solid tumor; patients with lymphoma or CLL must have radiologically or clinically evaluable disease, and be refractory to standard therapy as defined by relapse within 6 months of last treatment (see note below); patients with solid tumors must have radiologically or clinically evaluable disease that is metastatic, unresectable, progressive, or recurrent, and for which standard curative measures do not exist or are no longer effective* Patients with a liver mass, raised alpha-fetoprotein level (>= 500 ng/mL) and positive serology for hepatitis, consistent with a diagnosis of hepatocellular carcinoma will be eligible without the need for pathologic confirmation of the diagnosis* Patients with prostate cancer, renal cell cancer, neuroendocrine tumors, lung cancer, colorectal cancers, soft tissue sarcomas, glioma and thyroid cancer are excluded in the normal and mild cohorts due to a lack of efficacy in these tumor types in phase 2 studies; patients with breast, pancreatic, bladder, head and neck cancers, as well as melanoma and other malignancies are eligible* Note: patients with prostate cancer, renal cell cancer, lung cancer, colorectal cancers, soft tissue sarcomas, glioma and thyroid cancer are allowed to enroll in the moderate and severe cohorts provided the patients:** Sign a separate consent form which outlines the lack of efficacy observed in prior studies** Are consented to the study by a protocol-specified designee who is not their longitudinal oncologist; patients with neuroendocrine tumors are still excluded from the moderate and severe cohorts* Note: as romidepsin is approved for patients with relapsed or refractory peripheral T-cell lymphoma (PTCL) or cutaneous T cell lymphoma (CTCL), these patients would be eligible WITHOUT the requirement of having �relapsed within 6 months of last treatment�
+132.0
+Patients must have histologically confirmed relapsed or refractory mantle cell lymphoma or low grade B-cell non-Hodgkin lymphoma (NHL); patients with evidence of transformation to a high grade histology will not be eligible
+24.0
+Pathologically (histologically or cytologically) proven diagnosis of invasive breast cancer
+143.0
+Histologically confirmed epithelial ovarian, primary peritoneal or fallopian tube malignancy that is metastatic and for which standard curative measures do not exist
+102.0
+Patients must have histologically or cytologically confirmed soft tissue sarcoma that is metastatic or unresectable and for which standard treatment that prolongs survival does not exist or is no longer effective
+55.0
+Pathologically (histologically or cytologically) proven diagnosis of head and neck squamous cell carcinoma (HNSCC) involving the oral cavity (excluding lips), oropharynx (p16 negative), larynx, or hypopharynx
+660.0
+Patients must have histologically documented metastatic or unresectable non-small cell lung cancer, head and neck cancer, urothelial transitional cell carcinoma, or breast cancer whose disease has progressed after at least one line of standard therapy
+165.0
+Diagnosis of malignancy must be confirmed by the department of pathology at the institution where the patient is enrolled prior to patient enrollment
+165.0
+Histologically or cytologically confirmed, newly diagnosed non-squamous NSCLC
+234.0
+Histologically or cytologically confirmed hematologic malignancy
+113.0
+Must have histologically proven glioblastoma
+36.0
+Patients must have histologically or cytologically confirmed metastatic endometrial cancer; eligible histologies for the experimental cohort are: endometrioid or serous; eligible histologies for the exploratory cohort are: carcinosarcoma, clear cell, mixed, adenosquamous and any other rare sub-type of endometrial cancer
+72.0
+Diagnosis of malignancy must be confirmed by the department of pathology at the institution where the patient is being enrolled prior to patient enrollment
+68.0
+Patients must have histologically or cytologically confirmed Hodgkin lymphoma, Burkitt�s lymphoma, double-hit lymphoma, other c-Myc positive B-cell lymphoma, diffuse large-B cell lymphoma including those patients with history of transformed follicular lymphoma, mantle cell lymphoma, or peripheral T-cell lymphoma
+42.0
+Patients must have histologically confirmed alveolar soft part sarcoma; pathology should be confirmed at the Laboratory of Pathology, National Institutes of Health
+73.0
+Patients (except those with hepatocellular carcinoma) must have histologically or cytologically confirmed (at original diagnosis or subsequent recurrence or progression) solid tumor or lymphoma that is metastatic, unresectable, progressive, or recurrent, and for which standard curative or palliative measures do not exist or are no longer effective; patients with hepatocellular carcinoma do not require biopsy confirmation; a liver mass with raised alpha-fetoprotein level (>= 500 ng/mL), consistent radiographic changes, and serology and viral deoxyribonucleic acid (DNA)/ribonucleic acid (RNA) measurements consistent with chronic hepatitis will be sufficient to identify hepatocellular carcinoma without the need for pathologic confirmation of the diagnosis; patients with hepatocellular carcinoma must still, however, have disease that has failed standard therapy; having chronic hepatitis B or C will not exclude patients from participating
+80.0
+Patients must have histologically confirmed metastatic alveolar soft part sarcoma that is not curable by surgery; diagnosis of malignancy must be confirmed by the department of pathology at the institution where the patient is enrolled prior to patient enrollment
+70.0
+Patients must have histologically confirmed (by the National Cancer Institute [NCI] Pathology Department) solid tumor malignancy or lymphoma that is metastatic or unresectable and for which standard curative or palliative measures do not exist or are associated with minimal patient survival benefit (as defined the Lymphoid Malignancies Branch physicians or if the patient refuses standard of care treatment); enrollment of patients with tumors that can be safely biopsied is encouraged
+52.0
+Histologically confirmed diagnosis of symptomatic multiple myeloma; relapsed disease is myeloma that has previously responded to prior therapy (MR or better) and subsequently progressed
+97.0
+Study participants must have histologically or cytologically confirmed unresectable or metastatic malignant melanoma
+40.0
+Patients must have histologically confirmed malignancy that is metastatic or unresectable and for which standard curative measures do not exist or are no longer effective
+18.0
+Histologically or cytologically proven diagnosis of non-small cell lung cancer
+330.0
+Have histologically proven adenocarcinoma of the pancreas; patients with mixed histology will be excluded
+92.0
+Patients must have histologically confirmed localized high grade (G3) transitional cell carcinoma (urothelial carcinoma) of the bladder that is stage Ta, T1, and/or carcinoma in situ (CIS) confirmed by the Laboratory of Pathology, National Cancer Institute (NCI) 90 days prior to study entry; this can be obtained at an outside hospital prior to entry into the study or at the NCI; however, all outside pathology specimens will require that the formalin-fixed paraffin embedded tissues be re-read by the Laboratory of Pathology, NCI; for patients enrolled at collaborating trial sites, diagnosis must be confirmed by the Department of Pathology at the institution where the patient is enrolled on the trial; pathology can also be reviewed by the Laboratory of Pathology at the NCI if the participating trial site prefers another pathologic evaluation
+54.0
+Patients must have a histologically or cytologically confirmed solid malignancy that is metastatic or unresectable for which standard curative or palliative treatments do not exist or are no longer effective* Hepatocellular carcinoma (HCC) patients are not required to have histologically or cytologically confirmed malignancy, patients are considered eligible based on tumor markers and/or imaging assessment* Patients with the following tumor types will be excluded from the normal and mild cohorts:** Pancreatic cancer patients** Colorectal cancer patients ** BRAF V600E melanoma patients who have failed BRAF inhibitors*** Note: Patients with pancreatic cancer, colorectal cancer, and BRAF V600E melanoma patients who have failed BRAF inhibitors are allowed to enroll in the moderate and severe cohorts provided the patients: 1) sign a separate consent form which outlines the extremely limited activity observed in prior studies, and 2) are consented to the study by a protocol-specified designee who is not their longitudinal oncologist
+68.0
+Patients must have histologically or cytologically confirmed epithelial ovarian, primary peritoneal and fallopian tube carcinoma; all histologic subtypes of epithelial ovarian cancer are eligible, but only patients with high grade serous ovarian cancer will be considered for the statistical analysis; non-high grade serous cancers will be allowed in an exploratory cohort
+100.0
+Eligible patients must have histopathologically confirmed H�rthle cell thyroid cancer by central review
+34.0
+Patients must have pathologically proven squamous cell carcinoma (SCCA) cancer of the lung confirmed by tumor biopsy and/or fine-needle aspiration; disease must be stage IV SCCA, or recurrent; the primary diagnosis of SCCA should be established using the current World Health Organization (WHO)/International Association for the Study of Lung Cancer (IASLC)-classification of Thoracic Malignancies; the diagnosis is based on hematoxylin and eosin (H&E) stained slides with or without specific defined immunohistochemistry (IHC) characteristic (p40/p63 positive, transcription termination factor [TTF1] negative) if required for diagnosis; mixed histologies are not allowed
+10000.0
+Histologically confirmed Rb1 positive primary recurrent, progressive, or refractory central nervous system tumors; patients with low grade gliomas are excluded
+40.0
+Patients must have histologically or cytologically diagnosed advanced anaplastic thyroid cancer (ATC)
+20.0
+Estrogen receptor (ER) and/or progesterone receptor (PR) positive histologically confirmed adenocarcinoma of the breast with staining of >= 1% cells will be considered positive; receptor status may be based on any time during treatment prior to study randomization, and from any site (i.e. primary, recurrent, or metastatic)
+600.0
+Pathologically (histologically or cytologically) proven diagnosis of intrahepatic cholangiocarcinoma (IHC) without distant extrahepatic metastasis within 90 days of registration; patients with an adenocarcinoma suggestive of a pancreaticobiliary primary with radiographic findings consistent with an intrahepatic cholangio-carcinoma are eligible
+182.0
+For Dose Escalation Cohort: Patients must have histologically confirmed malignancy that is metastatic or unresectable and for which standard curative or palliative measures do not exist or are no longer effective
+44.0
+Histologically proven diagnosis of glioblastoma (World Health Organization [WHO] grade IV) confirmed by central review prior to step 2 registration
+606.0
+Patients must have histologically or cytologically confirmed thyroid carcinoma of follicular origin (including papillary, follicular, or poorly differentiated subtypes and their respective variants); confirmation of thyroid carcinoma will be done at Memorial Sloan-Kettering (MSK)
+35.0
+Patients with advanced or metastatic cancer that is refractory to standard therapy or relapsed after standard therapy; patients must have histologically confirmed malignancy that is metastatic or unresectable and for which standard curative or palliative measures do not exist or are no longer effective
+57.0
+Patients must have a histologically/cytologically confirmed diagnosis of recurrent glioblastoma or an advanced solid tumor in which bevacizumab has shown benefit in specific disease population and for which standard or curative measures do not exist or are no longer effective
+23.0
+Patients must have histologically or cytologically confirmed primary central nervous system diffuse large B-cell lymphoma; only patients with relapsed or refractory disease are eligible; patients with PCNSL that is only extracranial will not be eligible
+52.0
+Pathologically confirmed metastatic breast cancer
+360.0
+Patients must have histologically confirmed diagnosis of osteosarcoma or Ewing sarcoma by central review, except if the diagnosis was already confirmed by the RRePS (R�seau de R�f�rence en Pathologie des Sarcomes et des Tissus Mous et des Visc�res) network
+90.0
+In dose escalation, patients must have histologically or cytologically confirmed metastatic disease from any solid tumor; in dose expansion, patients must have histologically or cytologically confirmed metastatic melanoma, renal cell carcinoma, ovarian cancer, or colorectal cancer
+36.0
+Patients must have histologically or cytologically confirmed advanced leiomyosarcoma of the uterus (ULMS); advanced ULMS is defined as metastatic ULMS or unresectable primary ULMS
+37.0
+Pathologically (histologically or cytologically) proven diagnosis of solid tumor malignancy within 5 years prior to Step 2 registration; if the original histologic proof of malignancy is greater than 5 years, then pathological (i.e., more recent) confirmation is required (e.g., from a systemic metastasis or brain metastasis)
+510.0
+Arm A dose escalation: patients with histologically or cytologically proven advanced solid tumors for which standard treatments are not available, or for whom the current dose level of cisplatin in combination with pemetrexed is appropriate; =< 2 prior cytotoxic chemotherapy regimen
+58.0
+Arm A dose level 4 (75 mg/m^2 cisplatin): patients with histologically proven chemotherapy-naive advanced unresectable solid tumors for which pemetrexed combined with cisplatin is an indicated regimen (malignant mesothelioma, non-small cell lung cancer, ovarian cancer and thymoma)
+58.0
+Arm A 14-patients expansion cohort: patients with histologically or cytologically proven chemotherapy naive unresectable malignant pleural or peritoneal mesothelioma
+58.0
+Patients must have histologically or cytologically confirmed metastatic or locally recurrent uveal melanoma; because histologic or cytologic confirmation of primary uveal melanoma is not always possible, confirmation of the clinical diagnosis of uveal melanoma by the treating investigator is allowed; clinical diagnosis of uveal melanoma is often made by an ophthalmologist, not by tissue diagnosis; if an ophthalmologist diagnosed and treated a patient for uveal melanoma in the past, it is sufficient for a clinical diagnosis
+35.0
+Patients must have histologically or cytologically confirmed advanced, incurable cancers of the esophagus, liver, stomach, small bowel, pancreas, bile duct, colon or rectum and be eligible to receive chest, abdominal and/or pelvic radiation therapy (RT) for palliation; documentation of this is required in physician note; concomitant systemic therapy is not allowed during administration of palliative RT; palliative RT can be considered for advanced primary tumors or metastatic disease as above
+30.0
+Patients must have histologically confirmed bone or soft tissue sarcoma by central pathology review* Patients must have histologically confirmed liposarcoma (LPS) (only dedifferentiated and pleomorphic; well differentiated not eligible), undifferentiated pleomorphic sarcoma (UPS)/malignant fibrous histiocytoma (MFH), or gastrointestinal stromal tumor (GIST)
+195.0
+Histologically confirmed metastatic breast cancer
+99.0
+Participants must have histologically confirmed solid tumor malignancy that is metastatic or unresectable and for which standard curative or palliative measures do not exist or are no longer effective; participants with uncontrolled Kaposi sarcoma are permitted (KS must be increasing despite HAART and HIV suppression for greater than or equal to 2 months, or stable KS despite HAART for greater than or equal to 3 months)* For participants in the 24 participant solid tumor cohort, only those histologies not known to respond to single agent nivolumab (such as pancreas, prostate, and microsatellite stable [MSS] colorectal cancer) will be excluded* For participants in the relapsed refractory HIV-cHL expansion cohort, participants must have histologically confirmed, relapsed/refractory (defined as relapsed/refractory to one or greater lines of therapy) HIV-associated classical Hodgkin lymphoma
+84.0
+Patients must have histologically or cytologically confirmed stage IV or recurrent squamous cell lung cancer that harbors any of the NFE2L2 mutations; any KEAP1 mutation will be eligible
+30.0
+Patients must have pathologically/histologically confirmed tumor of non-small cell histology
+126.0
+Dose escalation: patients must have histologically or cytologically confirmed solid tumor malignancy that is metastatic or unresectable and for whom either standard curative or palliative measures do not exist or are no longer effective, or for whom anti-PD-L1/cytotoxic T-lymphocyte antigen (CTLA)-4 is appropriate
+45.0
+Patients with stage IV or recurrent/metastatic histologically confirmed non-small cell lung cancer (NSCLC)
+82.0
+Patients must have histologically confirmed, metastatic or unresectable malignancy of the following types: (a) non-small cell lung cancer (NSCLC), (b) triple-negative breast cancer (TNBC; defined by estrogen receptor [ER] < 1%, progesterone receptor [PR] < 1% and HER2 1+ or less by immunohistochemistry [IHC]; if HER-2 expression is 2+, a negative fluorescence in situ hybridization [FISH] testing is required) (c) pancreatic adenocarcinoma (PDAC), or (d) small cell lung cancer (SCLC)
+126.0
+Patients must have histologically confirmed solid tumor that is metastatic or unresectable and for which standard curative or palliative measures do not exist or are no longer effective
+37.0
+Patients with stage IV or recurrent/metastatic histologically or cytologically confirmed non-squamous NSCLC
+36.0
+Have a confirmed diagnosis of cancer
+720.0
+Patients must have histologically or cytologically proven pancreatic adenocarcinoma; histologies other than adenocarcinoma, or any mixed histologies, will NOT be eligible
+150.0
+Histologically confirmed non-squamous NSCLC, with incurable advanced or metastatic disease
+50.0
+Histologically or cytologically confirmed relapsed cluster of differentiation (CD)19+ non-Hodgkin lymphoma (NHL) (included in this category are follicular grade I, II, III, marginal zone, mantle cell, gray zone, primary mediastinal, Burkitt's, diffuse large B cell, small lymphocytic lymphoma)
+36.0
+Patients must have histologically or cytologically confirmed metastatic urothelial carcinoma; urothelial cancer derived from the bladder, ureter or upper tract is permitted
+90.0
+Patients must have histologically or cytologically confirmed head and neck squamous cell cancer (HNSCC) including paranasal sinus cancers but excluding nasopharyngeal carcinomas
+45.0
+Histologically proven diagnosis of salivary cancer by central pathology review
+45.0
+Patients must have histologically or cytologically confirmed papillary histology renal cell carcinoma which is metastatic or locally advanced disease not amenable to surgical resection; (NOTE: a designation of type I or type II should be made by the local pathologist if possible); mixed histologies containing type I or type II will be allowed provided that they contain >= 50% of the papillary component
+180.0
+Histologically confirmed melanoma of cutaneous primary; metastatic melanoma from unknown primary are allowed
+32.0
+Patients with a histologically confirmed diagnosis of non-small cell lung cancer (NSCLC), including neuroendocrine tumors or small cell lung cancer (SCLC) who are being evaluated for palliative WBRT (with or without neurosurgical resection or stereotactic radiosurgery [SRS]) for radiologically or histologically diagnosed brain metastases presumed to be from the lung cancer are eligible for this Phase I study; group 2 will only include NSCLC patients
+46.0
+Patients must have histologically confirmed high grade serous ovarian or primary peritoneal or fallopian tube cancer; platinum resistant disease is defined as progression within 6 months after last platinum regimen
+70.0
+Patients must have histologically or cytologically confirmed clear cell renal cell carcinoma (RCC)
+29.0
+Patients must have histologically confirmed metastatic or unresectable malignancy that is refractory to standard therapy or for which no standard therapy exists and where irinotecan is deemed a reasonable treatment option
+51.0
+Histologically confirmed high grade serous or endometrioid ovarian, peritoneal or fallopian tube malignancy that is metastatic and for which curative measures do not exist; pathology must be reviewed and confirmed at Mayo Clinic Department of Pathology; the histology can be confirmed from tissue that was taken at the time of diagnosis; a biopsy at the time of recurrence prior to enrollment on study is not required
+150.0
+Patients must have pathologically confirmed diagnosis of a solid tumor cancer for which there is no known standard therapy capable of extending life expectancy
+48.0
+Patients must have histologically or cytologically documented pancreatic adenocarcinoma; patients with pancreatic neuroendocrine tumors, lymphoma of the pancreas, or ampullary cancer are not eligible
+143.0
+COHORT B: Patients must have histologically or cytologically confirmed primary desmoplastic melanoma that is unresectable; patients in Cohort B must have measurable disease per RECIST 1.1
+77.0
+Pathologically (histologically or cytologically) proven diagnosis of head and neck squamous cell carcinoma (HNSCC) involving the oral cavity (excluding lips), oropharynx (p16 negative), hypopharynx or larynx
+56.0
+For patients with oropharyngeal cancer only: p16 negative, confirmed by central pathology review
+56.0
+Patients must have a histologically confirmed diagnosis of supratentorial high-grade glioma or supratentorial ependymoma that is recurrent, progressive or refractory
+25.0
+Patients of any age must have histologically or cytologically confirmed embryonal or alveolar rhabdomyosarcoma (RMS) confirmed by the Laboratory of Pathology, National Cancer Institute (NCI)
+24.0
+Patients must have histologically or cytologically confirmed alveolar soft part sarcoma that is not curable by surgery; diagnosis of malignancy must be confirmed by the department of pathology at the institution where the patient is enrolled prior to patient enrollment
+35.0
+Histologically or pathologically confirmed malignancy (hematologic or solid tumor) that is metastatic or unresectable and for which standard of care therapy does not exist or is no longer effective
+40.0
+Patients must have histologically confirmed new diagnosis of breast cancer
+60.0
+Patients must have histologically or cytologically confirmed non-small cell lung cancer (cohort 1) or colorectal cancer (cohort 2)
+180.0
+Patients must have unresectable or metastatic, histologically confirmed low or intermediate grade (Klimstra Criteria) pancreatic neuroendocrine tumor (PNET) with radiological evidence of disease progression since last treatment
+40.0
+Histologically or cytologically confirmed diagnosis of extensive-stage small cell lung cancer with no prior systemic treatment
+132.0
+For the dose escalation cohort, patients must have histologically or cytologically confirmed malignancy that is metastatic or unresectable and for which standard curative or palliative measures do not exist or are no longer effective
+40.0
+For the dose expansion cohort, participants must have histologically or cytologically confirmed diagnosis of either:* Ovarian, fallopian tube, or primary peritoneal cancer of high grade serous histology which has recurred despite standard therapy; up to 3 prior lines in the platinum resistant setting (i.e. up to 3 lines after patients have become platinum resistant); patients may have received unlimited lines while platinum sensitive* Triple-negative breast cancer (TNBC) which has recurred despite standard therapy; recurrent TNBC needs to have metastatic disease and patients with an in breast recurrence are not eligible; up to 4 prior lines in the recurrent setting for patients with triple-negative breast cancer are allowed
+40.0
+Patients must have histologically confirmed grade 2 or 3 tumors by the French Federation of Cancer Centers Sarcoma Group (FNCLCC) sarcoma grading system
+40.0
+The patient must have a newly diagnosed unifocal intracranial meningioma, gross totally resected, and histologically confirmed as WHO grade II based upon pathology findings at the enrolling institution; WHO grade will be assigned according to WHO 2016 criteria
+148.0
+Histologically confirmed diagnosis of WHO grade II meningioma confirmed by central pathology review prior to step 2 registration
+148.0
+Patients may not have a known or confirmed history of pneumonitis
+70.0
+Patients must have histologically or cytologically confirmed A) low lying (i.e. =< 6 cm from the anal verge) rectal adenocarcinoma eligible for concurrent chemoradiation therapy to rectal tumor, B) if the treatment is palliative in the metastatic setting, no additional requirements for tumor size or nodal involvement is needed; C) if the treatment is in the neoadjuvant setting, the tumor must ALSO be high-risk locally advanced rectal cancer defined as T3-4, N+, and/or at risk for a positive radial margin (as determined by the surgeon)
+21.0
+Patients must have histologically-proven GBM
+30.0
+Patients must have histologically confirmed malignancy with brain metastases and are being recommended palliative WBRT
+47.0
+Pathologically (histologically or cytologically) or radiographically-proven (based on the American Association for the Study of Liver Diseases [AALSD] criteria) unresectable or locally recurrent hepatocellular cancer prior to registration
+186.0
+Patients must have a histologically proven diagnosis of endometrioid endometrial adenocarcinoma by endometrial curettage or biopsy within 8 weeks prior to registration; central pathology review will be required as part of the study but not for registration purposes
+50.0
+Histologically proven diagnosis of supratentorial, World Health Organization (WHO) grade II or III astrocytoma, oligodendroglioma or oligoastrocytoma, with IDH mutation confirmed by central review
+120.0
+Patients must have histologically confirmed epithelioid hemangioendothelioma which is metastatic or locally advanced (unresectable)
+27.0

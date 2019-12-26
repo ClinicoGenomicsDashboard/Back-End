@@ -1,0 +1,18 @@
+DONOR: Weight >=  kg and patient or guardian able to provide consent
+In the haplo cohort, the weight of the haplo donor must be ?  kg.
+DONOR: Age >=  and weight of >=  kg
+DONOR: weight of at least  kg
+DONOR: Weight >  kg
+DONOR: For younger donors, no more than  mL bone marrow may be harvested per kg of donor body weight
+DONOR: Weight >=  kg
+DONOR: Weight >  kg (in so far that the weight difference between recipient and donor does not exceed a reasonable likelihood of being able to obtain an adequate cell dose from the donor within two aphereses)
+DONOR: Weight >=  kg
+DONOR: Weight <  kg
+DONOR: The minimum recommended CD/kg cell dose should be  x ^ CD/kg, total dose from a single or combined double
+DONOR: Weight >= kg
+DONOR: The minimum recommended CD/kg cell dose is . x ^ CD/kg
+HAPLO-IDENTICAL DONOR: The donor must be >  kg in weight
+DONOR: Weight (Wt) >  kg
+DONOR: No contra-indication for the donor to collection by apheresis of mononuclear cells mobilized by G-CSF at a dose of  ug/kg of body weight
+The donor has a BW of at least  kg.
+The donor has a BMI of more than . and less than . kg/m.

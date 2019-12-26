@@ -1,0 +1,87 @@
+RANDOMIZED PHASE II CLINICAL TRIAL: Patients received up to  prior regimens for their metastatic disease
+RANDOMIZED PHASE II CLINICAL TRIAL: Patients are candidates for chemotherapy with carboplatin and gemcitabine
+RANDOMIZED PHASE II CLINICAL TRIAL: ECOG performance status -
+RANDOMIZED PHASE II CLINICAL TRIAL: Within  days of registration: Platelets >= , / mcL
+RANDOMIZED PHASE II CLINICAL TRIAL: Within  days of registration: Hemoglobin >=  g/dL or >= . mmol/L
+RANDOMIZED PHASE II CLINICAL TRIAL: Signed written informed consent in accordance with regulatory and institutional guidelines
+RANDOMIZED PHASE II CLINICAL TRIAL: Patients participating in another trial of an investigational agent within  weeks of the first dose of the study
+RANDOMIZED PHASE II CLINICAL TRIAL: Patients with tumors that cannot be measured or clinically followed (i.e. evaluable disease)
+RANDOMIZED PHASE II CLINICAL TRIAL: Patients with baseline grade  neuropathy
+RANDOMIZED PHASE II CLINICAL TRIAL: Life expectancy of less than  months
+RANDOMIZED PHASE II CLINICAL TRIAL: Patients known to be carriers of human immunodeficiency virus (HIV/)
+RANDOMIZED PHASE II CLINICAL TRIAL: Patients known to be carriers of hepatitis virus B and C
+RANDOMIZED PHASE II CLINICAL TRIAL: Active infection requiring systemic therapy
+RANDOMIZED PHASE II CLINICAL TRIAL: Subjects who do not consent to providing pre and post treatment tissue sample for future research would not be eligible to participate in the trial
+Protocol treatment is to begin within  calendar days of patient randomization for patients randomized to Arm . Patients randomized to Arm  must begin protocol treatment within  calendar days of randomization.
+Patients must be willing and able to check and record daily blood pressure readings when randomized to cediranib containing arm
+Randomized phase II: tumor proportional score of PD-L >= %.
+Must have relapsed radiographically between  months and  months of completion of first-line platinum chemotherapy and should be randomized within  weeks of radiographic relapse
+FOR THE RANDOMIZED PORTION ONLY
+RANDOMIZED PHASE II (ARMS K AND L): Patients may not have received other prior activating immunotherapies (i.e. checkpoint inhibitor therapies); for the purposes of this study monoclonal antibodies and antibody drug conjugates are not considered to be activating immunotherapies and there are no additional time restrictions on prior exposure to these agents (except prior brentuximab vedotin)
+RANDOMIZED PHASE II (ARMS K AND L): ECOG-ACRIN performance status between -
+RANDOMIZED PHASE II (ARMS K AND L): ANC >= /mcL (. x ^/L), obtained within  weeks prior to registration
+RANDOMIZED PHASE II (ARMS K AND L): Platelets >= ,/mcL ( x ^/L), obtained within  weeks prior to registration
+RANDOMIZED PHASE II (ARMS K AND L): AST/ALT =< . x upper limit of normal (ULN), obtained within  weeks prior to registration
+RANDOMIZED PHASE II (ARMS K AND L): Patient must have no current or prior history of CNS involvement
+RANDOMIZED PHASE II (ARMS K AND L): Patients must not be participating in any other clinical trial or taking any other experimental medications within  days prior to registration
+RANDOMIZED PHASE II (ARMS K AND L): Patients must not currently be smoking tobacco or other agents
+Patients in Cohort A will be randomized to receive either TIL alone or TIL plus dendritic cells
+Subject is willing to be randomized between intervention and control arms
+Subjects who have been previously randomized into the present study;
+Subjects who had previously received an experimental agent for MDS may not be randomized until a washout period has elapsed since the last dose of that agent.
+RANDOMIZED PHASE II STUDY -- ARMS C AND D
+Patients randomized to either arm may also co-enroll in phase III trials that compare local therapies, or compare systemic therapies (such as chemotherapy, if randomized to Arm I of S)
+Patients must be willing to have blood draws for PK/ADA analysis as outlined, should the patient be randomized to the MK- arm
+Participants must have been randomized to Arm A of the study and had radiographic disease progression according to RECIST .
+Failure to achieve at least a MR after the last rituximab-containing therapy. If the subject meets this exclusion criterion and therefore is excluded from the main randomized study, participation in the non randomized substudy (Arm C) may be considered
+Patients who are randomized to the control arm must not receive therapy based on prior molecular profiling
+Willingness by subject to be randomized to receive either ofatumumab or duvelisib at the dose and schedule defined in the protocol
+Patient must be registered/randomized to Step  within a maximum of  weeks following surgery
+Patients must be randomized within  weeks of their last dose of chemotherapy
+Patients must be randomized within  weeks of their last dose of chemotherapy
+Patients who provide consent for placement of the IP port system, if randomized to Regimen II (Study treatment: dd-TCip therapy)
+Received randomized double-blind treatment in PREVAIL;
+The participant must be randomized within  months from the time of surgery.
+Randomized cohort only: Prior treatment with a Janus kinase inhibitor other than ruxolitinib.
+If a patient is randomized to the RFA arm, but is deemed not to be an anesthesia candidate, he/she will be placed in the non-randomized SBRT cohort
+INCLUSION CRITERIA FOR NON-RANDOMIZED SBRT ARM
+Modified Glasgow prognostic score (mGPS) of  or  at Screening (randomized phase only)
+Patient understands if he or she is randomized to receive molecularly guided treatment, they must meet all inclusion and exclusion criteria in the drug specific appendix for which they were randomized
+Patients previously randomized in any other Onyx-sponsored phase  trial
+Patients randomized or previously randomized in any other Onyx-Sponsored Phase  trial.
+Patients at institutions that elect to confirm eligibility locally may be pre-registered at the same time as they are randomized
+Be willing to be randomized to experimental conditions
+Willing to be randomized to either standard care or intervention group
+Willing to participate in yoga therapy for twelve weeks if randomized to intervention group
+Unwilling to be randomized to either standard care or intervention group
+Unwilling to participate in yoga therapy for twelve weeks if randomized to intervention group
+NON-RANDOMIZED OBSERVATIONAL COMPONENT ELIGIBILITY:\r\nHistologically-documented localized (stage < T) prostate adenocarcinoma
+NON-RANDOMIZED OBSERVATIONAL COMPONENT ELIGIBILITY:\r\nUndergoing or initiating active surveillance
+NON-RANDOMIZED OBSERVATIONAL COMPONENT ELIGIBILITY:\r\nEnglish-speaking
+For the part  randomized controlled trial (RCT), participated in part , step  or 
+Willingness to be randomized to one of the study arms
+Willing to be randomized to one of the study arms
+Patients planning to start any type of cancer therapy during the  week, double blind, course of the study, once randomized on the study
+Willingness to be randomized
+Willing to be randomized into either study arm
+Consents to being part of a randomized, single-blinded study
+PHASE  (RANDOMIZED CONTROLLED TRIAL [RCT] GROUP)
+RANDOMIZED CONTROL TRIAL (RCT) (PHASE ) ELIGIBILITY CRITERIA:
+Willing to be randomized to one of the study arms
+Women who are pregnant or plan a pregnancy within  weeks after completion of treatment (only for patients who are going to be randomized to either therapeutic arms)
+Male partners of women who are pregnant (only for patients who are going to be randomized to either therapeutic arms)
+Willingness to be randomized
+Previously randomized to this study.
+Had sexual activity at least once in past  months (Randomized Trial Study only)
+Has been in a stable sexual relationship of at least  months duration (Randomized Trial study only)
+Women using systemic or vaginal estrogen, testosterone, or dehydroepiandrosterone (DHEA) during the Randomized Trial study will be excluded
+RANDOMIZED CONTROL TRIAL:
+RANDOMIZED CONTROLLED TRIAL: Who are enrolled at Group Health, and have had a negative mammogram as part of their routine care
+RANDOMIZED CONTROLLED TRIAL: Must also have a valid email address
+Willingness to be randomized to an immediate or delayed (by  weeks) start date
+Willing to be randomized
+If subjects are randomized to the control group they agree to not consume fish oil capsules during the -year study
+Willing to be randomized to a no dietary intervention control group or to a low-carbohydrate diet group
+(STEP ) - PRIMARY INTERVENTION STUDY (RANDOMIZED CONTROLLED TRIAL [RCT]):
+Diagnosis of rheumatoid arthritis by a rheumatologist (randomized controlled trial [RCT])
+RANDOMIZED-CONTROLLED TRIAL SUBJECT SELECTION

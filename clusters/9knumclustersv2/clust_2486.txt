@@ -1,0 +1,40 @@
+Ages =<  years of age with hematologic diseases treatable by allogeneic HCT who through pre-existing medical conditions or prior therapy are considered to be at high risk for regimen related toxicity associated with a high dose transplant (> % risk of transplant-related mortality [TRM]); this criterion can include patients with a HCT-comorbidity index (CI) score of >= ; transplants should be approved for these inclusion criteria by the principal investigators at the collaborating centers and at Fred Hutchinson Cancer Research Center (FHCRC); all children <  years must be discussed with the FHCRC principal investigator (PI) prior to registration
+Age-adjusted hematopoietic cell transplantation-comorbidity index (aaHCT-CI) less than or equal to .
+Patients >= age  must have an comorbidity score (hematopoietic cell transplant-comorbidity index [HCT-CI]) =<  (Sorror). The principal investigator is the final arbiter for comorbidity;
+Hematopoietic stem cell transplant comorbidity index (HCT-CI) >= ^
+Ages =<  years of age with hematologic diseases treatable by allogeneic HCT who through pre-existing medical conditions or prior therapy are considered to be at high risk for regimen related toxicity associated with a high dose transplant (> % risk of transplant related mortality [TRM]); this criterion can include patients with a hematopoietic cell transplant-comorbidity index (HCT-CI) score of > ; transplants should be approved for these inclusion criteria by the principal investigators at the collaborating centers and at Fred Hutchinson Cancer Research Center (FHCRC); all children <  years must be discussed with the FHCRC principal investigator (PI) prior to registration
+Patients >= age  must have a comorbidity score (hematopoietic cell transplant-comorbidity index [HCT-CI]) <  (Sorror)
+>  comorbidity points on the Hematopoietic Cell Transplant Co-Morbidity Index (HCT CI)
+Patients aged - with hematopoietic cell transplant-co-morbidity index (HCT-CI) of - are eligible
+Patients with comorbidity score > ; the principal investigator is the final arbiter of eligibility for comorbidity score > 
+Patients >=  and =<  years of age may be eligible if they have a Hematopoietic Cell Transplantation- Comorbidity Index (HCT-CI) Co-Morbidity score =< 
+HCT-CI/age score =<  points (patients with greater than  points will be allowed for trial with approval of the PI and the co-PI or his designee; this is an adjustment to account for healthy patients who meet the spirit of this protocol but have histories that result in higher than HCT-CI  points
+HCT-CI/age score >  points (patients with greater than  points will be allowed for trial with approval of the principal investigator and the co-principal investigator or his designee; this is an adjustment to account for healthy patients who meet the spirit of this protocol but have histories that result in higher than HCT-CI  points
+at least  grade  CIRS-G comorbidity (if compatible to participation in the study).
+PART : Comorbidity Index <  at the time of pre-transplant evaluation
+Hematopoietic cell transplantation (HCT) co-morbidity index score > ; the principal investigator is the final arbiter of eligibility for comorbidity score > 
+Hematopoietic Cell Transplantation-Specific Comorbidity Index score (HCT-CI) =<  for patients in Cohort  and >  for Cohort 
+Patients < age  years must have a Karnofsky performance status (KPS) of >= % and a hematopoietic cell transplant comorbidity index (HCT-CI) score of  or less
+Patients aged  to  years must have a KPS of >= % and an HCT-CI score of  or less
+Patients aged  to  years must have a KPS of % and an HCT-CI score of  or less
+Patients aged  years or more must have a KPS of % and an HCT-CI score of  or less
+Patients must have adequate Karnofsky performance status (KPS) and hematopoietic cell transplantation comorbidity index (HCT-CI) scores:\r\n* Patients < age  years must have a KPS of >= % and an HCT-CI score of  or less\r\n* Patients aged  to  years must have a KPS of >= % and an HCT-CI score of  or less\r\n* Patients aged  to  years must have a KPS of % and an HCT-CI score of  or less\r\n* Patients aged  years or more must have a KPS of % and an HCT-CI score of  or less
+Age >=  years AND/OR Charlson comorbidity index score >=  (prostate cancer diagnosis does not contribute to total score)
+Patients >  must have Karnofsky performance score >=  or ECOG - and comorbidity index < 
+Age ?  years with HCT comorbidity index < 
+Severe, active comorbidity, including any of the following:
+Patients >  to =<  years: Karnofsky >=  or ECOG - and non-age adjusted comorbidity index =< 
+Significant comorbidity associated with an estimation of <  remaining life years
+Patients must have a contraindication to cisplatin as defined in the following bullet points; sites must complete the online tool at comogram.org prior to step  registration to determine if the patient is eligible; the scores must be recorded on a case report form (CRF)\r\n* Age >=  with moderate to severe comorbidity or vulnerability to cisplatin, defined as having any one of the following conditions within  days prior to step  registration:\r\n** Modified Charlson Comorbidity Index >= \r\n** Adult Comorbidity Evaluation (ACE)- Index >= \r\n** Generalized Competing Event Model for Cancer Risk (GCE) omega PFS score < . \r\n** Geriatric screening (G-) score =< \r\n** Cancer and Aging Research Group (CARG) toxicity score >= %\r\n** Cumulative Illness Rating scale for Geriatrics (CIRS-G) score >=  OR\r\n* Age <  with severe comorbidity or vulnerability to cisplatin, defined as having two or more of the following conditions within  days prior to step  registration \r\n** Modified Charlson Comorbidity Index >= \r\n** ACE- Index >= \r\n** GCE omega PFS-score < . \r\n** G- score =< \r\n** CARG Toxicity score >= %\r\n** CIRS-G score >=  OR\r\n* Age >=  with an absolute or relative contraindication to cisplatin, defined as one or more of the following within  days prior to Step  registration:\r\n** Creatinine clearance (CC) >  and <  cc/min; for this calculation, use the Cockroft-Gault formula\r\n** Zubrod performance status  prior to step  registration\r\n** Pre-existing peripheral neuropathy grade >= \r\n** History of hearing loss, defined as either: \r\n*** Existing need of a hearing aid OR \r\n*** >=  decibel shift over  contiguous frequencies on a pretreatment hearing test
+Comorbidity or incurrent illness
+Charlson index of comorbidity score =< 
+Comorbidity that would interfere with therapy
+Ineligible for intensification treatment due to age or significant comorbidity
+>  comorbidity points on the Hematopoietic Cell Transplantation-Specific Comorbidity Index (HCT-CI)
+Patients >=  years: comorbidity score of  or higher
+Ages =<  years of age with hematologic diseases treatable by allogeneic HCT who through pre-existing medical conditions or prior therapy are considered to be at high risk for regimen related toxicity associated with a high dose transplant (> % risk of transplant related mortality [TRM]); this criterion can include patients with a HCT-comorbidity index (CI) score of >= ; transplants should be approved for these inclusion criteria by the principal investigators at the collaborating centers and at the Fred Hutchinson Cancer Research Center (FHCRC); all children <  years must be discussed with the FHCRC principal investigator (PI) prior to registration
+Hematopoietic Cell Transplantation Specific Comorbidity Index (HCT-CI) <  for age < , HCT-CI <  for age > 
+History of uncontrolled depression or other psychiatric comorbidity with psychosis
+Underlying structural brain abnormality or neurologic comorbidity.
+Subject has a modified hematopoietic cell transplant comorbidity index (HCT-CI) score ? 
+Active infection or chronic comorbidity that would interfere with therapy

@@ -1,0 +1,14 @@
+Cluster 115: subjects study therapy eligible investigator treatment prior receiving chemotherapy opinion 
+Cluster 480: participant research study received encephalopathy does treatment cell deficits household 
+Cluster 487: receive patients chemotherapy treatment unable planning study eligible therapy plan 
+Cluster 567: elapsed weeks therapy prior days radiation chemotherapy completion minimum dose 
+Cluster 964: participants research study prior eligible treated treatment received malignancy therapy 
+Cluster 1164: chemotherapy prior weeks patients treatment systemic dose days regimen study 
+Cluster 1197: radiation weeks therapy prior study treatment dose enrollment chemotherapy drug 
+Cluster 1466: previously received patients study subjects therapy untreated treatment radiation participated 
+Cluster 1778: cgy radiation tbi therapy delivered prior patients centigray ineligible therapeutic 
+Cluster 1875: radionuclide treatment dose weeks received study subject participant prior yttrium 
+Cluster 1991: initiating prior treatment therapy days study protocol weeks systemic estrogens 
+Cluster 2116: received prior therapy patients treatment radiation eligible weeks dose study 
+Cluster 2174: dose treatment study radiation days therapy received bone metastasis site 
+Cluster 2486: radiation marrow bone therapy prior received weeks pelvis patients hematopoietically 

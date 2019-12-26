@@ -1,0 +1,23 @@
+STUDY TREATMENT: Lymphocyte count >= 300/uL within 14 days prior to the first study treatment.
+Obtained within 14 days of the first study treatment: Lymphocyte count > 500/uL
+Obtained within 14 days of the first study treatment: Lymphocyte count >500/uL
+Obtained within 14 days prior to the first study treatment (cycle 1, day 1): lymphocyte count >= 500/uL
+Obtained within 14 days prior to the first study treatment (cycle 1, day 1): platelet count >= 100,000/uL
+Within 14 days prior to cycle 1 day 1 of treatment: Absolute lymphocyte count >= 500/uL
+Within 14 days prior to cycle 1 day 1 of treatment: Platelet count >= 100,000/uL
+Within 14 days prior to the first study treatment (cycle 1, day 1): Lymphocyte count >= 300/uL
+Absolute lymphocyte count >= 500 cells/uL (obtained within 28 days prior to first study treatment)
+Lymphocyte count ? 300/uL within 14 days prior to the first study treatment (cycle 1, day 1)
+Platelet count ? 100,000/uL within 14 days prior to the first study treatment (cycle 1, day 1)
+Within 14 days prior to the first study treatment (cycle 1, day 1): Lymphocyte count >= 300/uL.
+Absolute neutrophil count >= 1500 cells/uL, obtained within 14 days prior to the first study treatment (cycle 1, day 1)
+Lymphocyte count >= 300/uL, obtained within 14 days prior to the first study treatment (cycle 1, day 1)
+Platelet count >= 100,000/uL, obtained within 14 days prior to the first study treatment (cycle 1, day 1)
+Lymphocyte count >= 0.5 x 10^9/L, obtained within 14 days prior to initiation of study treatment
+Within 14 days prior to the first study treatment (cycle 1, day 1): Lymphocyte count >= 500/uL
+Obtained within 14 days prior to the first study treatment (cycle 1, day 1); lymphocyte count ? 300/uL
+Obtained within 14 days prior to the first study treatment (cycle 1, day 1); platelet count ? 75,000/uL
+Lymphocyte count >= 300/uL (obtained within 14 days prior to the first study treatment [course 1, day 1])
+Platelet count >= 75 x 10^3/uL obtained at baseline (day 1 of cycle 1, before study drug administration)
+Absolute neutrophil count >= 1.0 x 10^3/uL obtained at baseline (day 1 of cycle 1, before study drug administration)
+Lymphocyte count >= 500/uL (obtained within 28 days prior to the first study treatment)

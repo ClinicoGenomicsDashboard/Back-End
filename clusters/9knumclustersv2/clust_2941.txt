@@ -1,0 +1,31 @@
+Hemoglobin >=  mg/dL
+Hemoglobin >=  mg/dL
+COHORT : HORMONE RECEPTOR POSITIVE BREAST CANCER: Hemoglobin >=  mg/dL (transfusion to obtain hemoglobin >=  mg/dL within  hours prior to dosing is allowed)
+COHORT : TRIPLE NEGATIVE BREAST CANCER: Hemoglobin >=  mg/dL (transfusion to obtain hemoglobin >=  mg/dL within  hours prior to dosing is allowed)
+COHORT : ENDOMETRIAL CANCER: Hemoglobin >=  mg/dL (transfusion to obtain hemoglobin >=  mg/dL within  hours prior to dosing is allowed)
+Patients have normal organ function: Hemoglobin ? . gm/dL, Platelets ? , /L, Creatinine ?  mg/dL, AST and ALT <  X upper normal limit of the current institution; bilirubin < . mg/dL
+Adequate hematological, hepatic, and renal parameters; i.e., hemoglobin >  g/dL, creatinine < . mg/dL, bilirubin < . mg/dL , and aspartate aminotransferase, alanine aminotransferase <  U/L, and alkaline phosphatase <  U/L.
+Hemoglobin > mg/dL
+Hemoglobin >=  mg/dL
+Hemoglobin >= . mg/dl
+Hemoglobin ? mg/dL
+Hemoglobin >=  mg/dL
+Hemoglobin >=  mg/dL
+Phosphorus >= . mg/dL
+Hemoglobin >  mg/dl
+Hemoglobin ? mg/dL
+Hemoglobin >  mg/dL
+Hemoglobin: >=  mg/dL
+Patient has screening hemoglobin < mg/dL.
+Hemoglobin ? mg/dL.
+Hemoglobin >  mg/dL
+Hemoglobin >=  mg/dl
+Hemoglobin >= . mg/ml
+Hemoglobin must be >= . mg/dL
+Hemoglobin ? mg/dL.
+Anemia (hemoglobin < mg/dL) or thrombocytopenia (platelets<,/?L).
+Hemoglobin (Hg) >= . mg/dL
+Platelets <  mg/dL or history of thrombocytopenia
+Hemoglobin >=  mg/dL
+Hemoglobin >= . mg/dL
+Hemoglobin >=  mg/dL for men and >=  for women

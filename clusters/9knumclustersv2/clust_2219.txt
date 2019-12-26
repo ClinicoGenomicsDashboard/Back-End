@@ -1,0 +1,28 @@
+Patients who have had radiotherapy within  days before registration are not eligible; NOTE: if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy within  days before enrollment; if the involved field is limited to a single site,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy =<  days prior to registration; NOTE: if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy ?  days prior to registration; NOTE: If the involved field is small,  days will be considered a sufficient interval between treatment and administration of study drugs
+Radiotherapy within  days before enrollment. If the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy =<  days prior to registration; NOTE: If the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy =<  days prior to registration; NOTE: If the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy within  days before enrollment; if the involved field is small (single nodal area),  days will be considered a sufficient interval between treatment and beginning of protocol therapy
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the MLN
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the therapy
+Radiotherapy within  days before randomization; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the MLN
+Radiotherapy =<  days prior to registration; Note: If the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy within  days before enrollment (if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib.)
+Radiotherapy ?  days prior to registration; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy =<  days prior to registration\r\n* NOTE: If the involved field is small,  days will be considered a sufficient interval between treatment and administration of study drugs
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the MLN
+Radiotherapy within  days before first dose of study drug; if the involved field is small,  days will be considered a sufficient interval between treatment and study initiation
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the MLN
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the MLN
+Radiotherapy within  days prior to the first dose of study drug; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the first dose of the study medications
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the ixazomib
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the MLN (ixazomib citrate)
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of the MLN
+Radiotherapy within  days before enrollment; if the involved field is small,  days will be considered a sufficient interval between treatment and administration of MLN

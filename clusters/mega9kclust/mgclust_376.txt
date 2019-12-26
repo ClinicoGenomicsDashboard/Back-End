@@ -1,0 +1,8 @@
+Cluster 242: vaccination attenuated receipt live days durvalumab entry receiving tremelimumab prior 
+Cluster 368: vaccine live attenuated administration weeks study anticipation day cycle prior 
+Cluster 903: inactivated vaccines vaccination avelumab prohibited administration weeks dose trial influenza 
+Cluster 1040: immunotherapy vaccines type tumor completion days weeks completed initiation oncolytic 
+Cluster 1042: live receipt vaccine attenuated days dose prior study ip treatment 
+Cluster 1276: vaccinated attenuated vaccines live weeks drug dose study starting tremelimumab 
+Cluster 1286: vaccination live vaccine days prior start treatment minimum attenuated received 
+Cluster 1367: live vaccines attenuated study days weeks vaccinations treatment prior vaccination 

@@ -1,0 +1,100 @@
+Zubrod performance status 0-1
+700.0
+Zubrod performance status 0-1
+285.0
+Zubrod performance status =< 1
+37.0
+Zubrod performance status 0 or 1
+545.0
+Patients must have Zubrod performance status 0-1
+162.0
+REGISTRATION #2 - PRIOR TO CONSOLIDATION CHEMOTHERAPY: Patients must have Zubrod performance status 0-1
+162.0
+Patients must have a performance status of 0-2 by Zubrod criteria
+10000.0
+Zubrod performance status 0-2
+155.0
+Zubrod performance status 0-1 (unless otherwise specified)
+2580.0
+Patients must have a performance status of 0-2 by Zubrod criteria
+1900.0
+Patients must have Zubrod performance status =< 2
+130.0
+Zubrod performance status 0-2 within 28 days prior to study entry
+368.0
+Patients must have a Zubrod performance status of 0-1
+491.0
+Zubrod performance status 0-1
+252.0
+Zubrod performance status of 0-1 within 14 days prior to registration
+660.0
+Zubrod performance status 0-1 within 14 days prior to registration
+234.0
+Patients must have Zubrod performance status =< 1
+97.0
+Patients must have Zubrod performance status =< 2
+97.0
+Patients must have Zubrod performance status 0-2
+38.0
+Zubrod performance status 0-1 within 30 days prior to registration
+330.0
+Patients must have Zubrod performance status 0-1 documented within 28 days prior to screening/pre-screening registration
+10000.0
+Patients must have Zubrod performance status 0-1 documented within 28 days prior to sub-study registration
+10000.0
+Zubrod performance status 0-1 within 21 days prior to registration
+924.0
+Zubrod performance status =< 2 within 45 days prior to study registration
+84.0
+Zubrod performance status 0-1 within 30 days prior to registration
+182.0
+Patients must have a Zubrod performance status of 0 or 1
+230.0
+Patients must have a Zubrod performance status of 0-2
+44.0
+Patients must have Zubrod performance status of 0, 1 or 2
+280.0
+Patients must have Zubrod performance status of 0-2 within 7 days prior to hospitalization
+200.0
+Zubrod performance status =< 2 within 60 days prior to registration
+360.0
+Patients must have Zubrod performance status of 0 - 2
+223.0
+Patients must have a Zubrod performance status of 0-1
+150.0
+Zubrod performance status 0-2 within 30 days prior to Step 1 registration
+302.0
+Patients must have a Zubrod performance status of 0 � 1
+180.0
+Patients must have a performance status of 0-2 by Zubrod criteria
+333.0
+Patients must have a Zubrod performance status of 0-1
+143.0
+CLINICAL/LABORATORY CRITERIA: Patients must have Zubrod performance status of 0-2
+53.0
+Patients must have a Zubrod performance status of 0-2
+969.0
+Patients must have Zubrod performance status =< 2
+77.0
+Zubrod performance status of 0-1 within 28 days prior to registration
+56.0
+Zubrod performance status 0, 1, or 2 within 30 days prior to registration.
+186.0
+Patients must have a Zubrod performance status of 0-2
+707.0
+Patients must have Zubrod performance status =< 2
+148.0
+Patients must have Zubrod performance status =< 2
+1000.0
+Post-operative Zubrod performance status 0-1 within 60 days prior to step 2 registration
+148.0
+Patients must have Zubrod performance status =< 2
+64.0
+Zubrod performance status 0-1 within 60 days prior to step 1 registration
+282.0
+Zubrod performance status 0-1 within 30 days prior to registration
+186.0
+All patients must have a Zubrod performance status of 0, 1 or 2
+150.0
+Patients must have Zubrod performance status of =< 2
+94.0

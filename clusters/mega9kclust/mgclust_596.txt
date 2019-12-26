@@ -1,0 +1,4 @@
+Cluster 270: bowel inflammatory disease history active gastrointestinal diarrhea patients chronic ongoing 
+Cluster 959: bowel disease celiac colitis diarrhea gastrointestinal inflammatory irritable chronic associated 
+Cluster 2208: diarrhea grade chronic ctcae gastrointestinal persistent patients malabsorption etiology symptom 
+Cluster 2242: fibrosis colitis pneumonitis inflammatory bowel pulmonary disease known history chronic 

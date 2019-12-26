@@ -1,0 +1,119 @@
+HER , +, or + by IHC if HER testing is performed
+Invasive breast cancer is human epidermal growth factor receptor  (HER) negative; a patient is considered to have HER negative breast cancer if one of the following if one of the following applies: \r\n*  or + by immunohistochemistry (IHC) and in situ hybridization (ISH) not done\r\n*  or + by IHC or ISH ratio (HER gene copy/chromosome ) < \r\n* + by IHC and ISH ratio (HER gene copy/chromosome ) < 
+Tumor ER Allred score between - or HER positive by IHC (+) or amplified by FISH > .
+Tumor determined to be mismatch-repair deficient (dMMR) by Clinical Laboratory Improvement Act (CLIA)-certified immunohistochemical (IHC) assay with a panel of all four IHC markers, including MLH, MSH, PMS, and MSH; Note: microsatellite instability high (MSI-H) diagnosed by microsatellite instability (MSI) testing (either Bethesda markers or Pentaplex panel) or by next-generation sequencing (NGS) is not eligible unless dMMR is confirmed by CLIA-certified immunohistochemical (IHC) assay with a panel of all four IHC markers including MLH, MSH, PMS and MSH
+Patients must be newly diagnosed and have a confirmed molecular diagnosis of classical histologic type (non large cell/anaplastic [LC/A]) WNT medulloblastoma from rapid central pathology screening review on APECB (immunohistochemistry [IHC]/molecular screening [positive nuclear beta (B)-catenin by IHC and positive for catenin beta  [CTNNB] mutation) and confirmation of =< . cm^ maximal cross-sectional area of residual tumor from rapid central imaging review
+HER negative metastatic breast carcinoma defined as  or + by IHC or with a FISH ratio (HER gene copy/ chromosome ) <  if IHC + by local institution standard protocol
+Participants must have PD-L IHC testing with results performed by a central laboratory during the screening period
+Phase : Subjects must have a histologically or cytologically confirmed diagnosis of metastatic (AJCC stage IV) NSCLC that carries an ALK rearrangement with CNS metastases, as determined by FISH, RT-PCR, immunohistochemistry (IHC), or NGS via a CLIA-certified LDT
+The following results must be available or pending at time of registration, though results will not affect enrollment/treatment:\r\n* B-cell lymphoma (BCL)- rearrangement by FISH\r\n* BCL- rearrangement by FISH\r\nNOTE: although not required, it is encouraged that MYC and BCL- be measured by immunohistochemistry (IHC) and clearly documented
+Tumor tissue local laboratory HER testing results (clinical pathology report) based on FDA or other regulatory agency approved, validated or commercially available IHC or ISH HER assay. Pre-screening for HER is allowed only for subjects with breast and gastric cancer, GE junction or esophageal cancer, where applicable. Subjects with other types of cancer must have previously tested for HER status by HER IHC or ISH assay.
+Cohort : advanced breast cancer, ISH positive or IHC +.
+Cohort : advanced breast cancer, ISH negative with IHC +.
+Patients with leiomyosarcoma must have tumors with intact Rb as documented by protein expression by immunohistochemistry (IHC) for study entry; patients without sufficient archival tissue for testing will not be eligible; in the event that a patient has prior sequencing information (i.e. through commercial testing) suggestive of intact Rb, the patient may be included into the study on a case by case basis as determined by the principle investigators; the patient will still be required to submit tissue for Rb determination by IHC, but will not need to wait for these results for study entry
+A valid PTEN IHC result (testingcentral laboratory tested with results directly sent to IxRS) (e.g., participants with an \invalid\ or \failed\ PTEN IHC result are not permitted to enroll)
+IHC + or 
+HER-overexpressing (+ by IHC) or HER + and FISH positive breast cancer must have progressed after prior treatment with trastuzumab, pertuzumab, and T?DM
+Cohort : HER IHC +/FISH negative breast cancer
+Cohort : HER IHC + or HER IHC +/FISH positive breast cancer
+Cohort : HER IHC + or HER IHC +/FISH positive gastric/GEJ cancer
+Cohort : Any other HER IHC + or FISH positive cancer
+HER IHC + or IHC+/FISH- breast cancer patients who have received at least  and no more than  prior systemic chemotherapy regimens
+HER IHC + or IHC +/FISH+ breast cancer patients who have received prior therapy with trastuzumab, pertuzumab, and T-DM, at least  and no more than  prior systemic chemotherapy regimens
+Confirmation of HER positivity:\r\n* Phase I only: Patients with leptomeningeal disease from ependymomas, gliomas, and medulloblastoma will be eligible for phase I but are not required to have HER analysis; HER testing is only required for breast cancer patients with leptomeningeal metastases; HER positive (immunohistochemistry [IHC] + and/or FISH positive; IHC + HER patients are eligible with reflex FISH positive testing with the ratio >= .) breast cancer patients with leptomeningeal metastases by magnetic resonance imaging (MRI) or CSF (if MRI is negative) are eligible\r\n* Phase II only: ALL patients with HER+ cancers of other histology will be allowed to enroll in phase II if they have leptomeningeal disease\r\n* NOTE: review will be performed for cases not reviewed at the participation institution for confirmation, but will not preclude patients from entering the trial (pathology report showing HER positivity is sufficient for registration)
+Patients must have confirmation of folate receptor-a (FR-alpha) positivity by immunohistochemistry (IHC) (? % of tumor staining at ?  + intensity) on archival tissue or recent biopsy.
+NY-ESO- positive by immunohistochemistry (IHC) utilizing commercially available NY-ESO- antibodies
+Dose Escalation, Renal insufficiency, NSCLC and CPI-Treated Expansion Cohorts: For subjects with urothelial cancer and NSCLC: Subjects must submit a tumor tissue for Nectin- expression. Enrollment for these subjects is not dependent on the immunohistochemistry using the H-Score (IHC H-Score).
+Ovarian Expansion Cohort: Subjects must have tumor tissue positive (IHC H-score ?) for Nectin- expression
+Tumor specimen obtained prior to treatment initiation by interventional radiology guided biopsy will be interrogated per immunohistochemistry (IHC) and features should be as follows for a patient to be eligible \r\n* Overexpression of androgen receptor (AR)-C terminal and AR-N terminal and PTEN with lack of ARV expression along with and ki =<%\r\n* No RB loss or p mutation and \r\n* No expression of neuroendocrine markers CD and chromogranin (all markers assessed by standardized IHC protocols)
+Microsatellite stable disease as determined by IHC and/or PCR, or mismatch repair proficient disease as determined by IHC.
+NY-ESO- positive malignancy by immunohistochemistry (IHC) utilizing commercially available NY-ESO- antibodies
+The subject must have EGFR and c-Met overexpressed in tumor as determined by immunohistochemistry (IHC) test score of + for both markers
+Histologically or cytologically confirmed HER-positive (+ by IHC or amplified by FISH) according to ASCO/CAP guidelines\r\n* Note: A HER result of + by ICH is equivocal and requires a reflex test (same specimen using the alternative test) or new test (new specimen, if available, using same or alternative test)
+Histopathologically or cytologically documented TNBC or TN-IBC. Tumors must have been confirmed negative for ER and PR by IHC (<% positive tumor nuclei, as per ASCO-CAP guideline recommendations) and negative for HER by IHC or fluorescent or chromogenic in situ hybridization (FISH or CISH). Patients with equivocal HER results by IHC should have their negativity status confirmed by FISH.
+Colorectal patients must have documentation of microsatellite status; immunohistochemistry (IHC) is acceptable
+FULL STUDY INCLUSION CRITERIA: Histological documentation of overexpressing mesothelin at the moderate (+) or stronger (+) level in at least % of tumor cells as determined by immunohistochemistry (IHC)
+Non-clear subjects must be ENPP positive, defined as IHC H-score ?
+Archival tumor tissue retinoblastoma-associated protein (pRb) positive by immunohistochemistry (IHC)
+NY-ESO- positive malignancy by immunohistochemistry (IHC) utilizing commonly available NY-ESO- antibodies
+INCLUSION CRITERIA FOR PATIENTS WITH NSCLC OR TNBC (COHORT B): ROR expression in > % of the primary tumor or metastasis by immunohistochemistry (IHC)
+INCLUSION CRITERIA FOR TNBC: ROR expression in > % of the primary tumor or metastasis by IHC
+Tumor PD-L status, with Immunohistochemical (IHC) assay confirmed by a reference laboratory, must be known prior to randomization.
+AR (+), defined as >= % nuclear staining by IHC testing, the assessment of AR expression may have been performed any time in the past and is not limited to participation in Step 
+For Cohort  (rhabdoid tumors only), the following test results must be available by local laboratory: morphology and immunophenotypic panel consistent with rhabdoid tumors, and loss of INI or SMARCA confirmed by IHC, or molecular confirmation of tumor bi-allelic INI or SMARCA loss or mutation when INI or SMARCA IHC is equivocal or unavailable
+For Cohort ,  and  (subjects with INI-negative/aberrant tumors or any solid tumor with EZH GOF mutation only), the following test results must be available by local laboratory: Morphology and immunophenotypic panel consistent with INI-negative tumors (not applicable for solid tumors with EZH GOF mutation), and loss of INI confirmed by IHC, or molecular confirmation of tumor bi-allelic INI loss or mutation when INI IHC is equivocal or unavailable, or molecular evidence of EZH GOF mutation
+Patients carcinoma must express the mucin  (MUC) ectodomain (ecto) antigen detectable by immunohistochemistry (IHC) analysis of banked (paraffin embedded) or freshly biopsied tumor
+IHC evidence of MUC^ecto expression will be performed according to the technique and - scoring system
+AT THE TIME OF INFUSION: Recurrent or refractory HER-positive GBM\r\n* Immunohistochemistry (IHC) or reverse transcriptase-polymerase chain reaction (RT-PCR) will be used to determine HER positivity; results will be compared to standard controls; HER expression in tumors on IHC should be ? grade  and ?+ intensity score; wherein grades are defines as: grade : no staining; grade : -%; grade : -% and grade : -% of cell staining for HER and intensity scores are: negative; +; + and + using breast cancer standard arrays as a guide for intensity
+The invasive cancer must have been confirmed to be human epidermal growth factor receptor  (HER)-negative at some point in a given patients disease history (can be from any tumor specimen from a given patient, including archived primary, recurrent, or metastatic tumor), defined as immunohistochemistry (IHC) -+, or with a fluorescent in situ hybridization (FISH) ratio of < . if IHC is + or if IHC has not been performed
+Confirmation that primary tumor expresses mammaglobin-A by IHC
+NY-ESO- positive malignancy by immunohistochemistry (IHC) utilizing commonly available NY-ESO- antibodies
+Breast adenocarcinoma that is amplified for HER-/neu gene expression by -fold or more by FISH analysis, or that is IHC +
+Subject's tumor expresses CLDN. in ? % of tumor cells demonstrating moderate to strong membranous staining as determined by central immunohistochemistry (IHC) testing.
+Documented HER-positive disease measured by immunohistochemistry (IHC)
+ER with <% of cells positive on IHC or an IHC score (Allred) of ?
+PR with <% of tumour cells positive on IHC or an Allred score of ?
+HER with , + or + intensity on IHC and no evidence of amplification of the HER gene on ISH
+Immunohistochemistry (IHC) results from tumor biopsy for NY-ESO- positive
+Tumor expression of NY-ESO- (+ staining or > %) by immunohistochemistry (IHC).
+Subjects with glioblastoma mutated IDH by Immunohistochemistry (IHC)
+Tumor must have high Delta-like protein  (DLL) expression defined as having ? % tumor cells staining positive according to the VENTANA DLL (SP) IHC Assay.
+HER+ as + by IHC or in-situ hybridation (ISH) amplified.
+HER positive disease as defined by + IHC or positive FISH (both in primary and metastatic sites)
+Patients must have results from the determination of BAFa immunohistochemistry (IHC) status and must have a BAFa expression status that is currently open to enrollment
+Patients must harbor a tumor HER/neu+ based upon IHC staining score of + or + with confirmed gene amplification by FISH to be included
+For subjects with ATRT, MRT, RTK, or selected tumors with rhabdoid features only, the following test results must be available: Morphology and immunophenotypic panel consistent with rhabdoid tumor and loss of INI or SMARCA confirmed by IHC, or molecular confirmation of tumor bi-allelic INI or SMARCA loss/mutation when INI or SMARCA IHC is equivocal or unavailable
+For subjects with INI negative tumor only, the following test results must be available: Morphology and immunophenotypic panel consistent with INI-negative tumors, and loss of INI confirmed by IHC, or molecular confirmation of tumor bi-allelic INI loss/mutation when INI IHC is equivocal or unavailable
+For subjects with ATRT/MRT/RTK only - Has the following test results available: Morphology and immunophenotypic panel consistent with rhabdoid tumor, and loss of INI or SMARCA confirmed by IHC, or molecular confirmation of tumor bi-allelic INI or SMARCA loss/mutation when INI or SMARCA IHC is equivocal or unavailable
+Loss of INI confirmed by IHC, or
+Molecular confirmation of tumor bi-allelic INI loss/mutation when INI IHC is equivocal or unavailable
+DLL-expressing SCLC based on central immunohistochemistry (IHC) assessment of banked or otherwise representative tumor tissue. Positive is defined as staining in ? % of tumor cells.
+Tumor specimen positive for NY-ESO- expression by IHC.
+Tumor specimen positive for NY-ESO- expression by IHC and/or RT-PCR. At least one tumor must be accessible and patients must consent for biopsies in Arms C and D.
+Tumor histology consistent with melanoma tumor specimen positive for NY-ESO- expression by IHC and/or RT-PCR.
+IHC greater than or equal to  percent of tumor on tissue sections must stain with NPC-C.
+HER negative disease as per  American Society of Clinical Oncology (ASCO)/College of American Pathologists (CAP) guidelines, one of the following must apply:\r\n*  or + by immunohistochemistry (IHC) and not amplified by in situ hybridization (ISH)\r\n*  or + by IHC and ISH not done\r\n* + by IHC and not amplified by ISH or\r\n* IHC not done and not amplified by ISH
+Part : Molecular evidence of BAP loss of function mutation present on local pathology, e.g., lack of nuclear BAP staining by immunohistochemistry (IHC) or evidence of loss of function by gene sequencing
+If IHC HER +, a negative FISH test is required
+PD-L strong expressing tumor as determined by immunohistochemistry (IHC) at a central laboratory
+HER negative breast cancer. Central testing (required for all subjects) must demonstrate that the tumor is HER negative by FISH or Immunohistochemistry (IHC).
+NY-ESO- positive malignancy by immunohistochemistry (IHC) utilizing commonly available NY-ESO- antibodies
+Androgen receptor positive (AR+)\r\n* Defined as >= % nuclear AR staining by immunohistochemistry (IHC) in either the primary or metastatic lesion\r\n* NOTE: Research testing of AR status is available at City of Hope (COH) Pathology
+Documentation of HER overexpression or gene amplification, in the invasive component of either the primary tumor or metastatic disease site as defined as: + by Immunohistochemistry (IHC) and/or
+HER negative (IHC , or FISH HER:CEP ratio < .)
+Enrollment will be restricted to patients demonstrating NAD(P)H dehydrogenase, quinone  (NQO) immunohistochemistry (IHC) overexpression; demonstration of NQO overexpression by IHC should be confirmed prior to conducting other study procedures (e.g., laboratory and imaging studies)
+Note: patients with a negative or equivocal overall result (FISH ratio of < . or =< . HER gene copies per nucleus) and IHC staining scores of , +, + are not eligible for enrollment
+Tumors must be negative for HER (by FISH, CISH or IHC)
+Confirmation of AR+ (defined as ? % nuclear AR staining by immunohistochemistry [IHC]) TNBC in either the primary or metastatic lesion, assessed during the screening period by a local laboratory or by medical history
+Prior surgery for the IHC; (liver resection is not allowed)
+Tumor expression of NY-ESO- or LAGE- antigen by IHC or RT-PCR, or evidence of seropositivity to NY-ESO- or LAGE-.
+For Part  and , all patients must have an FGF IHC result available. Only FGF IHC+ HCC patients will be eligible for Part .
+Documentation of mucin  (MUC) expression by either serum carcinoma antigen  (CA) >= x Upper limit of normal (ULN) or by immunohistochemistry [IHC] by central review
++ by IHC and/or
+HER Positive disease documented as FISH-positive and/or + by IHC on previously collected tumor tissue.
+Patients must express NY-ESO- in their tumor by immunohistochemistry (IHC) (> %) prior to leukapheresis
+Patients are not allowed to receive prior surgery or chemotherapy for the IHC
+Tumor must be glucocorticoid receptor positive TNBC (?% positive cells by IHC of tumor biopsy)
+For participants with lung cancer, centrally confirmed high expression of a sodium-dependent phosphate transporter (NaPib) by immunohistochemistry (IHC) is required (i.e., IHC + or +).
+Evidence of HER oncoprotein expression at the + level by central laboratory. Patients whose tumors exhibit + staining by IHC are eligible for the study.
+Presence of tissue sample for IHC assay of MET receptor and HER status
+Tumor (primary or metastatic lesion) defined as MET-positive by IHC
+AR expression >= % by immunohistochemistry (IHC); in cases where multiple blocks are available staining will be performed on unstained slides from  separate blocks; if >= % AR tumor staining is seen on >=  slide the tumor will be considered to be AR+
+Histologic proof of cancer for which no standard therapy is available, and which shows no staining for RB by IHC.
+Met diagnostic-positive status tested by immunohistochemistry (IHC)
+Must have a biopsy in the metastatic setting with HER expression of + or + by IHC
+If biopsy of metastatic lesion is performed prior to study entry, HER expression by IHC must be + or +
+HER  or + by IHC on pre-treatment biopsy of metastatic lesion (if performed)
+NY-ESO- positive by IHC (for this study, even a small level of positivity is acceptable); for patients with < % NY-ESO- by IHC positivity, the level of staining should be discussed with the patient and they should be informed that this will likely effect the efficacy of the therapy; this conversation must be documented in the patient's medical chart
+Progressive HER positive solid tumours (immunohistochemistry [IHC] positive or equivocal) with no available standard or curative treatment.
+Documented ICOS positive expression using an analytically validated immunohistochemistry (IHC) assay by central laboratory for Part B and Part B biomarker cohorts only.
+HER expression as defined by ISH positive and/or + by immunohistochemistry (IHC)
+HER/neu-expressing tumor (IHC -+ and or positive FISH >.)
+HER/neu-negative breast cancers (IHC )
+HER negative (HER + by IHC or HER + by IHC/FISH)
+Fresh frozen (recommended) or paraffin fixed (required) specimen of primary or metastases available for ribonucleic acid (RNA) and immunohistochemistry (IHC)
+STEAP antigen positive tissue known from prior IHC testing or if STEAP status is not known archival sample will be sent to Genentech for IHC; samples needed to be positive, when feasible metastatic lesions will be tested preferentially rather than primary
+HER/neu positive by IHC and/or another FDA approved HER testing method
+Is MMR-proficient [selected by the site based on microsatellite instability assay (MSI) and/or immunohistochemistry (IHC) for MMR proteins]
+Tumors must be HER negative as defined according to ASCO/CAP , as HER  - + by IHC or non-amplified FISH or CISH. If HER IHC is +, FISH/CISH must be performed and must not be positive (HER/CEP ratio must be < , and HER copy number <  signals/cell), but otherwise FISH/CISH is not required if IHC is  or + by institutional standards.
+DLL-expressing SCLC based on central immunohistochemistry (IHC) assessment. Positive is defined as staining in ?% of tumor cells.

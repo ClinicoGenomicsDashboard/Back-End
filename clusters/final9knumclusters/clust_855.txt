@@ -1,0 +1,46 @@
+Leukocytes >= 2,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3000/uL
+Leukocytes >= 3,000/uL
+Leukocytes ? 3,000/uL
+Leukocytes >= 3,000/uL.
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL obtained within 14 days of first treatment
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000 cells/uL (to be performed within 7 days prior to start of study treatment)
+Leukocytes >= 3,000/ul
+Leukocytes >= 2,000/uL (within 2 weeks prior to radiotherapy)
+Secondary Registration: leukocytes >= 3,000/uL
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 4,000/ul
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 2,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 2,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 2,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes > 3,000/uL
+Leukocytes: >= 3,000/ul
+Leukocytes >= 3,000/uL
+Leukocytes >= 3000/uL
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes >= 3,000/uL
+Leukocytes > 3,000/uL
+Leukocytes >= 3,000 /uL

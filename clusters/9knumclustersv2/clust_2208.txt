@@ -1,0 +1,93 @@
+Patients must have received  or more cycles of one of the following prior systemic induction chemotherapy regimens:\r\n* Rituximab, cyclophosphamide, doxorubicin hydrochloride (hydroxydaunomycin), vincristine sulfate (Oncovin), prednisone (R-CHOP) (with or without cytarabine-containing cycles, including Nordic and European Mantle Cell Lymphoma Network [MCL-NET] protocols) with or without autologous (auto) stem cell transplant (SCT)\r\n* R-Hyper-cyclophosphamide, vincristine sulfate, doxorubicin hydrochloride (adriamycin), dexamethasone (CVAD) with or without auto SCT\r\n* Bendamustine + rituximab with or without auto SCT\r\n** Please note:\r\n*** Patients are allowed to receive combinations of the above regimens\r\n*** At the time of registration, patients must be at least  days out from last dose of cytotoxic chemotherapy, but no more than  days; if a patient underwent auto SCT, he/she must demonstrate engraftment (per treating investigator's discretion) and meet all other hematological requirements as outlined below\r\n*** Patients who progress during induction therapy are not eligible to enroll in this study
+Patients who have had a prior allogeneic stem cell transplant are not eligible\r\n* NOTE: if a patient underwent auto SCT, he/she must demonstrate engraftment (per treating investigators discretion) and meet all other hematological requirements
+Autologous stem cell transplantation (SCT) within  days prior to first infusion
+Completion of autologous SCT within  days prior to Day  of Cycle 
+Patients who received Allo-Stem cell Transplantation(Allo-SCT) within  months.
+Prior allogeneic stem-cell transplantation (SCT), or autologous SCT within  days prior to Day  of Cycle 
+Stem Cell Transplant (SCT): No evidence of active graft versus host disease. For allogeneic SCT, greater than or equal to  months must have elapsed.
+Any patient, regardless of age or sex, with Epstein-Barr virus (EBV)-positive lymphoma, or lymphoepithelioma regardless of the histological subtype or EBV (associated)-T/natural killer (NK)-lymphoproliferative disorder (LPD) all confirmed on any tissue sample\r\n* Primary refractory lymphoma or in second or subsequent relapse including after autologous or syngeneic stem cell transplant OR patients at a high risk for relapse defined as: (i) patients with primary refractory lymphoma or multiply relapsed lymphoma who are in remission but not eligible for autologous stem cell transplant (SCT) or (ii) patients with relapsed lymphoma after autologous SCT who are in remission but not eligible for allogeneic SCT (Group A) OR\r\n* Any patient who has received an allogeneic SCT for EBV lymphoma or EBV (associated)-T/NK-LPD or lymphoepithelioma (Group B)
+Subjects who have undergone autologous SCT with disease progression or relapse following SCT will be eligible if all other eligibility criteria are met; subjects who have undergone allogeneic SCT will be eligible if, in addition to meeting other eligibility criteria, they are at least  days post-transplant, they have no evidence of active graft versus host disease (GVHD) and have been without immunosuppressive agents for at least  days
+Who have received autologous stem cell transplant (SCT)  days before first infusion of TAK- or participants who have received allogeneic SCT  months before first infusion. Graft-versus-host disease that is active or requires ongoing systemic immunosuppression.
+Completed allogeneic stem cell transplant (allo-SCT) or are eligible for and willing to complete allo-SCT
+Any patients eligible for allogeneic stem cell transplantation (allo-SCT) and willing to undergo allo-SCT as determined at time of screening for trial; patients who are ineligible or not interested in undergoing allo-SCT will be eligible for the trial
+Prior allogeneic stem cell transplantation (SCT), or autologous SCT within  days prior to Day  of Cycle 
+Patient must have a B cell acute lymphoblastic leukemia (ALL) (inclusive of ALL blast transformation from chronic myelogenous leukemia [CML]) or lymphoma and must have relapsed or refractory disease after at least one standard chemotherapy regimen and one salvage regimen; in view of the principal investigator (PI) and the primary oncologist, there must be no available alternative curative therapies and subjects must be either ineligible for allogeneic stem cell transplant (SCT), have refused SCT, recurred after SCT, or have disease activity that prohibits SCT at the time of enrollment
+Prior stem-cell transplantation (SCT).
+Must have undergone an allogeneic SCT (regardless of stem cell source)
+Prior autologous or allogeneic stem cell transplant (SCT)
+Administration of chemotherapy, biological, immunotherapy, or investigational agent (therapeutic or diagnostic) within  weeks before enrollment ( days for non-myelosuppressive therapy). Subjects should be  weeks from last dose of nitrosourea, nitrogen mustards or monoclonal antibody,  weeks from autologous stem cell transplantation (SCT), and  weeks from allogeneic SCT
+Patients with Allo-SCT on active GVHD or immunosuppression therapy within  months prior to CD.
+Patient must have a B cell ALL (inclusive of chronic myeloid leukemia [CML] with ALL transformation) or lymphoma and must have relapsed or refractory disease after at least one standard chemotherapy regimen and one salvage regimen; in view of the principal investigator (PI) and the primary oncologist, there must be no available alternative curative therapies and subjects must be either ineligible for allogeneic stem cell transplant (SCT), have refused SCT, recurred after SCT, or have disease activity that prohibits SCT at the time of enrollment; patients who have undergone autologous SCT will be eligible, and patients that have undergone allogeneic SCT will be eligible if, in addition to meeting other eligibility criteria, they have no evidence of graft versus host disease (GVHD) and have been without immunosuppressive agents for at least  days; patients with Philadelphia chromosome + ALL must have failed prior tyrosine kinase inhibitor; patients must have measurable or evaluable disease at the time of enrollment, which may include any evidence of disease including minimal residual disease detected by flow cytometry
+Relapse after SCT is allowed but no active graft-versus-host disease (GVHD) as per treating physician; also must not exceed the number of prior induction regimens listed above; SCT does not count as line of therapy
+Relapsed and/or refractory disease as defined by: a. Clonal relapse after at least one previous line of therapy or high-dose chemotherapy and autologous stem cell transplantation OR b. Refractory disease to prior therapy defined as less than a hematologic very good partial response (VGPR). If previous therapy was autologous stem cell transplant (SCT), must be >=  months after SCT
+Subjects who have undergone autologous stem cell transplantation (SCT) with disease progression or relapse following SCT are eligible; subjects who have undergone allogeneic SCT will be eligible if, in addition to meeting other eligibility criteria, they are at least  days post transplant, they have no evidence of graft versus host disease (GVHD) and have been without immunosuppressive agents for at least  days
+Acceptable allogeneic stem cell donor with imminent plans to proceed with allo-SCT.
+Be able to start the drug therapy between  to  days following allogeneic SCT;\r\n* No more than  prior allogeneic SCT\r\n* Post-transplant bone marrow consistent with complete remission with no evidence of minimal residual disease by flow-cytometry or cytogenetics or molecular testing\r\n* Adequate engraftment within  days prior to starting study drug: absolute neutrophil count (ANC) >= . x ^/L without daily use of myeloid growth factor; and, platelet >=  x ^/L without platelet transfusion within  week
+Patients must have failed at least  prior regimen before ibrutinib (not including single agent rituximab or single agent corticosteroids)\r\n* Note: any relapse after prior autologous stem cell transplantation (SCT) will make the patient eligible regardless of other prior therapy
+No further chemotherapy or stem cell transplant (SCT) planned at the time of enrollment
+Prior autologous stem cell transplant (SCT) in the prior  months
+Stem cell transplant (SCT): at least  weeks following autologous SCT and  weeks for allogeneic SCT
+Patients should have received the autologous SCT within  months of their diagnosis of myeloma to be eligible for the study
+Prior allogeneic SCT
+Prior autologous SCT in last  months
+Mantle cell lymphoma\r\n* Beyond st CR with relapsed disease, progressive disease during first line rituximab-chemotherapy combination, or persistent disease after first line rituximab-chemotherapy combination and not eligible or appropriate for conventional allogeneic or autologous SCT\r\n* Relapsed after prior autologous SCT
+Diffuse large B cell lymphoma, previously identified as CD+\r\n* Residual disease after primary therapy and not eligible for autologous SCT\r\n* Relapsed or persistent disease after prior autologous SCT\r\n* Beyond st CR with relapsed or persistent disease and not eligible or appropriate for conventional allogeneic or autologous SCT\r\n* Patients with an antecedent history of follicular lymphoma or chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) are eligible
+Any relapse after prior autologous SCT will make patient eligible regardless of other prior therapy
+Prior autologous stem-cell transplant (SCT) in the prior  months
+Prior allogeneic hematopoietic SCT within the last  months or reduced-intensity transplant within the past  months
+Patients with lymphomas: prior allogeneic SCT
+Patient requiring allogeneic SCT
+Allogeneic SCT recipient requiring additional cellular therapy
+Known or suspected progressive disease following autologous SCT
+Additional treatment for NHL administered from time of autologous SCT through registration
+Are planning to undergo SCT prior to PD on this study (ie, these participants should not be enrolled in order to reduce disease burden prior to transplant).
+Has received autologous SCT within  weeks before the date of study treatment.
+Subjects with a history of autologous SCT, are eligible for study participation provided the following eligibility criteria are met: Autologous SCT was > days prior to study enrollment; No active bacterial, viral, or fungal infection(s) present; Subject meets the remainder of the eligibility criteria.
+Prior treatment with any of the following: allogeneic or syngeneic SCT within  weeks prior to randomization; or autologous SCT within  weeks prior to randomization.
+Stem cell transplant (SCT): no evidence of active graft vs. host disease for at least  weeks; for allogeneic SCT patients, >=  months must have elapsed since transplant\r\n* Must have received no more than  prior autologous or allogeneic stem cell transplant.\r\n* Patients must be off all systemic immunosuppressive therapy for at least  weeks, excluding hydrocortisone for physiologic cortisol replacement
+Patient must have a CD-expressing B cell acute lymphoblastic leukemia (ALL) or lymphoma and must have relapsed or refractory disease after at least one standard chemotherapy and one salvage regimen; in view of the principal investigator (PI) and the primary oncologist, there must be no available alternative curative therapies and subjects must be either ineligible for allogeneic stem cell transplant (SCT), have refused SCT, or have disease activity that prohibits SCT at this time
+Multiple myeloma\r\n* Primary treatment failure\r\n* Relapse after autologous SCT or for consolidation after autologous SCT\r\n* Non-CR after salvage regimen
+Ineligible to receive treatment with auto-SCT due to age (? years old) or any significant coexisting medical condition (cardiac, renal, pulmonary or hepatic dysfunction), likely to have a negative impact on tolerability of auto-SCT. Participants < years of age who refuse auto-SCT are not eligible for this study.
+Has relapsed after autologous stem cell transplant (auto-SCT) or has failed to achieve a Complete Response or Partial Response within  days of auto-SCT. Participants may have received intervening therapy after auto-SCT for relapsed or refractory disease, in which case they must have relapsed after or be refractory to their last treatment. OR
+Any BM relapse after allogeneic SCT and must be >  months from SCT at the time of CTL infusion OR
+Ineligible for allogeneic SCT
+Has received autologous stem cell transplant (auto-SCT) within  weeks before the first infusion or is planning for or is eligible for auto-SCT
+Any BM relapse after allogeneic stem cell transplantation (SCT) and must be ?  months from SCT at the time of CTL infusion OR.
+Ineligible for allogeneic SCT.
+Completion of autologous stem cell transplant (SCT) within  days prior study start
+Prior allogeneic SCT
+Eligibility for autologous SCT (participants with r/r DLBCL)
+Completion of autologous SCT within  days prior to Day (D)  of Cycle (C) 
+Autologous stem cell transplantation (SCT) within  days prior to study drug, or any prior allogeneic SCT or solid organ transplantation
+Prior allogeneic stem cell transplantation (SCT), completion of autologous SCT within  days prior to Day  of Cycle  (DC)
+Participant may have failed to achieve a response to, progressed after, or be ineligible for autologous stem cell transplant (auto-SCT)
+Prior allogeneic stem cell transplant (SCT) within  weeks or autologous SCT within  weeks of initiation of therapy (patients that require immunosuppressive therapy are not eligible within  days of therapy)
+Subject is a candidate for high-dose therapy and autologous SCT based on standard criteria at the institution where this treatment will be administered
+Prior allogeneic stem cell transplant (SCT) within  weeks or autologous SCT within  weeks of initiation of therapy; (patients that require immunosuppressive therapy are not eligible within  days of therapy)
+Autologous SCT within  weeks and allogeneic SCT within  weeks prior to initiation of study treatment. Patients with prior allogeneic SCT should not have evidence of moderate-to-severe graft-versus-host disease (as defined in Filipovich ).
+May include prior auto-SCT but not prior allo-SCT Patients who have failed second or third line therapy and beyond, such as DPACE, and who are experiencing a partial response rather than progressive disease are also eligible.
+Patients for whom lenalidomide and dexamethasone treatment is appropriate and who are not eligible for high-dose therapy followed by stem-cell transplantation (HDT-SCT) for  or more of the following reasons:
+Immunotherapy/standard myeloma therapy within  weeks; prior stem cell transplant (SCT) therapy (autologous SCT within the prior  weeks; allogeneic SCT within the prior  weeks)
+Any relapse after prior autologous SCT will make patient eligible regardless of other prior therapy
+Patient must be determined fit to undergo auto-SCT procedure by a study physician
+Autologous SCT within  weeks prior to study entry (Arms A and D only)
+Prior allogeneic SCT or organ transplant (Arms A and D only)
+Prior allogeneic stem cell transplantation (SCT), or autologous SCT within  days prior to Day  of Cycle 
+Prior autologous or allogeneic stem cell transplant (SCT)/bone marrow transplant within  months of signing the ICD. Subjects who received allogeneic SCT ?  months before signing the ICD may be eligible provided there is no ongoing graft-versus-host disease and no ongoing immune suppression therapy.
+frontline cytotoxic systemic therapy, for patients who are ineligible for stem cell transplant (SCT).
+Allogeneic stem cell transplant (SCT)
+Completion of autologous stem cell transplant (SCT) within  days prior to Cycle  Day 
+Prior allogeneic SCT
+Eligibility for autologous SCT
+Prior autologous or allogeneic SCT
+Is indicated with standard melphalan prednisone (MP) treatment and is not a candidate for high-dose therapy plus stem cell transplantation (HDT-SCT) for  of the following reasons: the participant is  years of age or older OR the participant is less than  years of age but has significant comorbid condition(s) that are likely to have a negative impact on tolerability of HDT-SCT
+At least a partial remission before allo-SCT
+PRE-STEM CELL TRANSPLANT (SCT)
+PRE-SCT
+Prior allogeneic SCT
+Be planning to receive a conditioning regimen for stem cell transplant (SCT) consisting of cyclophosphamide and total body irradiation and must meet inclusion criteria for SCT which include:
+Patients with a prior stem cell transplant (SCT) must have failed the SCT
+Patient undergoing an allo-SCT
+Patients who have previously undergone hematopoietic stem cell transplantation (SCT) or who are scheduled for SCT
+Prior autologous or allogeneic stem cell transplantation (SCT) within  weeks of initiation of study treatment
+Disease progression or recurrence less than or equal to  months of prior autologous SCT

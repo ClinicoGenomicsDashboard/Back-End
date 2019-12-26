@@ -1,0 +1,36 @@
+ANC < /ul
+ANC < ,/L.
+ANC ? /L
+ANC ?. x ?/L
+ANC > /L
+ANC ? ,/?L
+ANC < ,/L
+ANC ? ,/l
+ANC ? . x /L
+ANC ? /uL
+ANC ?/mcL
+ANC ? ,/?L
+ANC </?L
+ANC >/= x()/L and platelets >/= x()/L.
+ANC ?.  ^/Liter (L)
+ANC ? . x /L
+ANC ? /L (?. x ^/L)
+ANC ?.^/L.
+ANC ? . x /L
+ANC ?,/l
+ANC > /mcL
+ANC ?.^/L
+ANC ?/?L
+ANC ?  /?L
+ANC ? . x ?/L
+COHORT B: ANC >= /uL
+ANC < ,/L
+ANC ? /uL
+ANC < ,/L
+ANC >  /ml
+ANC >= /uL
+Hematology: ANC ? .X/L; Platelets >x/L.
+ANC > /uL
+ANC ? ,/?L
+ANC ?/L
+ANC ? . x ?/L

@@ -1,0 +1,110 @@
+Subjects must have measurable disease preoperatively, defined as at least 1 contrast-enhancing lesion, with 2 perpendicular measurements of at least 1 cm, as per RANO criteria
+Pathologic criteria:
+Have measurable disease based on RECIST 1.1 including at least two cancerous deposits; at least one deposit must be RECIST measurable while at least one deposit must meet criteria for SBRT; non-radiated tumor will be identified prior to randomization on the protocol
+Measurable disease based on Cheson 2007 criteria
+For patients with solid tumors, one of the following must apply: a. Patient has measurable disease as defined by the immune-related response criteria (irRC), b. Patient has ovarian cancer and has disease evaluable by CA-125 only
+Measurable disease as defined by the tumor specific relevant response criteria for the breast and other solid tumor cohorts (measurable disease is not required for enrollment in the prostate cancer cohort):\r\n* RECIST version 1.1 criteria\r\n* Prostate Cancer Clinical Trials Working Group 3 (PCWG3) criteria\r\n* RANO criteria
+Measurable disease by RECISTv1.1 criteria
+Measurable disease, defined by the 2014 Lugano Classification Criteria
+Measurable disease, defined by the Revised Response Criteria for Malignant Lymphoma
+Have disease that can be clinically evaluated for improvement or progression. In the dose-expansion phase of the study, subjects must have disease that is measurable, as defined by the RECIST Version 1.1 criteria for solid tumors (Eisenhauer et al, 2009) or the Lugano criteria for lymphoma (Cheson et al, 2014).
+Measurable disease per the Lugano criteria
+Must have evaluable or measurable disease; subjects with lymphoma must have evaluable or measurable disease according to the revised International Working Group (IWG) Response Criteria for Malignant Lymphoma must be present; lesions that have been previously irradiated will be considered measurable only if progression has been documented following completion of radiation therapy
+Patients must have measurable disease by the Lugano criteria
+Progression (according to 2006 IWG criteria) at any time after initiation of AZA or DAC treatment or Failure to achieve complete or partial response or hematological improvement (HI) (according to 2006 IWG) after at least six 4-week cycles of AZA or either four 4-week or four 6-week cycles of DAC administered or Relapse after initial complete or partial response or HI (according to 2006 IWG criteria)
+Subjects must have received at least 1 and not more than 3 previous lines of treatment and have had a response to at least 1 prior Treatment in the past (i.e., achieved a minimal response [MR] or better) according to the IMWG uniform response criteria.
+Measurable disease by physical examination or imaging as defined by RECIST v1.1 criteria or evaluable disease as defined by Gynecologic Cancer Intergroup (GCIG) CA125 criteria.
+Diagnosis of neuroblastoma as defined per International Neuroblastoma Response Criteria
+Complete or partial response to salvage chemotherapy by International Working Group (IWG) criteria
+Have up to five measurable (by Response Assessment in Neuro-Oncology Criteria [RANO]) brain metastasis planned for stereotactic radiosurgery
+Measurable disease by RANO criteria
+Have measurable disease based on iwCLL or Lugano criteria
+Must have evaluable or measurable disease; subjects with lymphoma must have evaluable or measurable disease according to the revised International Working Group (IWG) Response Criteria for Malignant Lymphoma; lesions that have been previously irradiated will be considered measurable only if progression has been documented following completion of radiation therapy
+Measurable disease as defined by modified PCWG3 using iRECIST criteria
+Patients must have measurable disease by Response Assessment in Neuro-Oncology (RANO) 2010 criteria at the time of registration (pre-operative)
+Complete or partial response by International Working Group (IWG) Working Group or International Conference on Malignant Lymphoma (ICML) criteria to maximum of one salvage line of chemotherapy without pre-HDT/ASCT salvage radiotherapy
+Disease status: Subjects must have measurable or evaluable disease, by RECIST v1.1 ± Curie Scale Criteria or RANO/RANO-BM
+Subjects must have failed hypomethylating treatment where \failure\ is defined as: Progression (according to 2006 International Working Group [IWG] criteria) at any time after initiation of the hypomethylating treatment OR Failure to achieve complete or partial response or hematological improvement (HI) (according to 2006 IWG) after at least 4 cycles treatment OR Relapse after initial complete or partial response or HI (according to 2006 IWG criteria).
+Subjects must have received 1 or more prior therapies for this disease and have had stable disease or progressive disease based upon the criteria from the Revised Response Criteria for Malignant Lymphoma, or intolerable toxicities precluding further therapy with a prior regimen
+Subjects must have measurable disease per Revised Response Criteria for Malignant Lymphoma
+Measurable disease by the criteria proposed by the acquired immunodeficiency syndrome (AIDS) Clinical Trials Group Oncology Committee (for KS)
+JUST PRIOR TO FIRST VACCINATION (WITHIN 21 DAYS): patients must have either measurable disease per Response Criteria in Solid Tumors (RECIST) version (v)1.1 or evaluable disease defined as an elevated tumor biomarker (CA19-9, carcinoembryonic antigen [CEA] or circulating free deoxyribonucleic acid [cfDNA] mutation); pancreatic cancer patients with an elevated tumor marker following a primary pancreatic surgery would be eligible
+Participants must have evaluable or measurable disease in accordance with the International Working Group Guidelines for Lymphoma.
+Have measurable disease based on RECIST 1.1 and immune related response (irRC) criteria
+Have measurable disease based on immune related response criteria (irRC) criteria
+PROTOCOL-SPECIFIC CRITERIA:
+PROTOCOL-SPECIFIC CRITERIA:
+Measurable or assessable disease according to the “Revised Response Criteria for Malignant Lymphoma” (Cheson et al., J. Clin. Onc., 1999)105; patients in complete remission with no evidence of disease are not eligible
+Measurable or evaluable disease by RANO criteria (MRI) or Macdonald (CT) criteria
+Measurable disease as per IMWG response criteria
+Have measurable disease based on immune-related response criteria (irRC)
+CONSOLIDATION CRITERIA:
+MAINTENANCE CRITERIA:
+Have measurable disease outside of biopsy site present per immune related (ir)RECIST criteria
+Have measurable or evaluable disease, as defined in 2007 Revised Response Criteria for Malignant Lymphoma; HL patients must not be currently eligible for autologous stem cell transplant
+Measurable unresectable melanoma at least 1 measurable lesion based on Immune-related Response Criteria (irRC)
+Disease Related Criteria:
+Regulatory Criteria:
+Diagnosis of PMF according to the revised WHO criteria; or PET-MF or PPV-MF according to the IWG-MRT criteria
+In the Phase 2 portion of the protocol only, subjects must have measurable disease according to response criteria appropriate for their type of cancer (as explained in Section 9.1).
+Disease progression following an initial confirmed response of MR or better to the combination (according to IMWG response criteria).
+Measurable disease per the IMWG response criteria
+Disease that is measurable as defined by RECIST v1.1, mINRC, Revised Response Criteria for Malignant Lymphoma, RANO criteria (as appropriate) or evaluable by nuclear medicine techniques, immunocytochemistry techniques, tumor markers, or other reliable measures
+Measurable disease by RANO criteria at progression;
+At least one measurable lesion according to the International Working Group Response Criteria for Lymphomas; there must be measurable lymphadenopathy to follow with serial exam and/or imaging
+Stopped initial treatment with MK-3475 after attaining an investigator-determined confirmed response according to RECIST1.1 response criteria
+Histological confirmation of disease with documented disease relapse after the last therapy requiring treatment per the treating physician. Participants with lymphoma must have at least 1 measurable site of disease (Part 2 only). In addition, B-cell malignancy disease-specific criteria specified in the protocol must also be met
+REGULATORY CRITERIA:
+Must have achieved a response (partial response [PR] or better based on investigator's determination of response by the IMWG criteria) to at least 1 prior regimen in the past
+Measurable or evaluable disease, as defined in 2008 Revised Response Criteria for Malignant Lymphoma; baseline scans used for measurement should be obtained within 30 days of registration, and baseline bone marrow biopsy and/or aspiration should be obtained with 90 days of registration
+Patients taking ruxolitinib at the time of enrollment must be deemed to have had a suboptimal response (less than partial response per IWG criteria) to ruxolitinib single-agent therapy or deemed to have progression of disease (per IWG criteria)
+Disease that is measurable by standard imaging techniques per RECIST and immune-related response criteria (irRC; all tumor types except lymphoma) or International Working Group (IWG) revised response criteria for malignant lymphoma (lymphoma only). For patients with prior radiation therapy, measurable lesions must be outside of any prior radiation field(s), unless disease progression has been documented at that disease site subsequent to radiation.
+Measurable disease by RECISTv1.1 criteria
+AML participants must have the following malignancy criteria: measurable and evaluable disease per tumor response criteria; ? 5% bone marrow blasts without alternate causality; and > 90 days since allogeneic stem cell transplantation relapse in participants relapsing after transplant
+Cohort B-2: 1) B- cell follicular lymphoma Grade 1, 2, or 3a (WHO criteria) 2) Relapsed/refractory disease >= 2 lines separated by Progression, prior treatment (or not eligible for receiving) CD20 antibody 3) Measurable disease (IWG -Lugano 2014)
+Patients must have measurable non-visceral lesion(s) that are evaluable by the modified World Health Organization (mWHO) criteria and immune-related response criteria (irRC).
+MCL patients must have:\r\n* At least 1 measurable site of disease according to Revised Response Criteria for Malignant Lymphoma\r\n* Received at least 1 prior standard therapy for MCL
+At least 1 measurable site of disease according to Revised Response Criteria for Malignant Lymphoma 2007
+At least 1 measurable site of disease according to Revised Response Criteria for Malignant Lymphoma
+They must have recurrent melanoma with measurable or evaluable sites of disease, 1.0 cm or larger, in order to assess the response to treatment by the immune-related response criteria (irRC)
+Recurrent NSCLC: Defined as the re-appearance of measurable disease, or the appearance of new measurable disease by RECIST Criteria after prior successful treatment or complete response.
+Refractory NSCLC: Defined as achieving less than a complete response and having residual measurable disease by RECIST criteria after prior treatment with chemotherapy, targeted or small molecules, monoclonal antibodies or any combination of these.
+PATHOLOGICAL CRITERIA:
+DISEASE AND PRIOR STATUS CRITERIA:
+Measurable or evaluable disease, as defined in 2008 Revised Response Criteria for Malignant Lymphoma
+Measurable disease, defined by the revised lymphoma criteria (Cheson 2007)
+Measurable disease is not required for this study, since the primary endpoint is complete pathologic response
+Ovarian cancer, primary peritoneal, and fallopian tube participants in the Phase 1 and Phase 1-T portions of this trial must have either measurable cancer by RECIST 1.1 criteria or an elevated cancer antigen (CA)125 level at least twice the upper limit of normal on two separate occasions at least 1 day but not more than 3 months apart; at least one of the samples should be within 1 week of starting treatment; patients with both an elevated CA125 and measurable cancer will be followed by RECIST 1.1 criteria; patients with only an elevated CA125 level will be followed by modified Gynecologic Cancer Intergroup (GCIG) criteria
+DIAGNOSTIC CRITERIA
+TIER I SUBJECTS: Patients with relapsed follicular lymphoma with stable disease and no lymph node mass greater than 5 cm (in any one dimension) following at least two systemic chemotherapy and/or immunotherapy regimens; stable disease from pre-study regimen may be either a clinically determined response by the principal investigator or physician co-investigator member of the study team, or a measured response as per the response criteria of this protocol
+TIER II SUBJECTS: Patients with follicular lymphoma who have achieved at least a partial response with an initial chemotherapy and/or immunotherapy regimen; response from pre-study regimen may be either a clinically determined response by the principal investigator or physician co-investigator member of the study team, or a measured response as per the response criteria of this protocol
+TIER II SUBJECTS: Patients with follicular lymphoma who have stable disease and no lymph node mass greater than 5 cm (in any one dimension) following an initial chemotherapy and/or immunotherapy regimen; response from pre-study regimen may be either a clinically determined response by the principal investigator or physician co-investigator member of the study team, or a measured response as per the response criteria of this protocol
+At least 1 measurable site of disease according to Revised Response Criteria for Malignant Lymphoma
+Must have achieved at least a minor response to any previous regimen according to adapted European Group for Blood and Marrow Transplantation (EBMT) criteria
+Patients must have chemo-sensitive disease achieving at least partial response (Cheson 2007 criteria) to last chemotherapy
+Chemo-refractory disease as determined by less than partial response (Cheson 2007 Criteria) to last chemotherapy
+Four or more American College of Rheumatology (ACR) criteria as revised by Hochberg for the classification of SLE or 4 or more of the Systemic Lupus International Collaborating Clinics (SLICC) criteria
+Radiologically measurable disease by immune-related Response Criteria (irRC).
+They must have recurrent melanoma with measurable or evaluable sites of disease, 1.0 cm or larger, in order to assess the response to treatment by the immune-related response criteria
+Applicable disease criteria
+Measurable disease by International Working Group (IWG) response criteria for lymphoma
+At least one measurable lesion per revised IWG Response Criteria
+For expansion: documentation by established staging studies or clinical examination to have measurable metastatic disease per RECIST v1.1 criteria
+Measurable disease by RECIST v1.1 for subjects with solid tumors without glioma, by modified RANO criteria for subjects with glioma, or by the revised IWG criteria for subjects with AITL
+Measurable tumor lesions according to RANO working Group Criteria. a. In the case that there is \non-measurable\ disease due to a radical surgical resection during screening, the subject still qualifies if Inclusion #3(b) is met.
+Measurable disease based on Cheson 2007 criteria
+All of the criteria listed above
+At least one measurable lesion according to international workshop lymphoma response criteria; there must be measurable lymphadenopathy to follow with serial exam and/or imaging
+Relapse or disease progression following response to prior rituximab-based therapy, requiring treatment by 2007 Revised Response Criteria for Malignant Lymphoma (RRCML) guidelines.
+Part A: Have the presence of measurable or nonmeasurable disease as defined by the RECIST v1.1 (Eisenhauer et al. 2009) or Revised Response Criteria for Malignant Lymphoma (Cheson et al. 2007) or have measureable disease for multiple myeloma.
+Patients must meet one of the following two requirements:\r\n* Have achieved minimal response (MR) or stable disease (SD) in current treatment regimen after receiving a minimum of two cycles\r\n* Have a partial response but show a decrease less than 25% or an increase less than 25% in measurable disease over a two month period\r\n** NOTE: Patients may be refractory to primary therapy or relapsed and have measurable or assessable disease; (refractory disease is defined as anything less than partial response [PR] or progression within 60 days of completing therapy)
+Measurable disease per IWG 2007 criteria.
+Radiographically or clinically measurable disease with at least 1 target lesion per International Working Group (IWG) criteria for malignant lymphoma.
+CRITERIA FOR SURVIVORS:
+Measurable disease as defined by mINRC, RANO, RECIST v1.1, or evaluable by nuclear medicine techniques, immunocytochemistry, tumor markers, or other reliable measures
+REGULATORY CRITERIA
+Measurable disease as per IMWG response criteria
+Disease that is either:\r\n* Radiologically-measurable or evaluable as define by tumor response criteria from and MSKCC-Institutional Review Board (IRB) approved clinic research protocol\r\n* Detectable by biopsy (eg, bone marrow) and/or peripheral blood assays obtained within 6 weeks of study enrollment
+Documented evidence of progressive MM (based on the Investigator's determination according to the modified IMWG response criteria) on or after their most recent regimen.
+At least one measurable lesion per revised IWG Response Criteria
+Relapse/progression based solely on elevation of CA-125, in absence of measurable disease, according to irRECIST criteria.

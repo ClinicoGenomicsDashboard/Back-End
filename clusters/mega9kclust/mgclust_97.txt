@@ -1,0 +1,7 @@
+Cluster 275: fish ihc hybridization situ fluorescence immunohistochemistry negative positive fluorescent breast 
+Cluster 628: receptor er estrogen progesterone pr positive negative breast epidermal growth 
+Cluster 808: tamoxifen aromatase raloxifene inhibitors therapy estrogen selective breast receptor cancer 
+Cluster 916: er pr positive breast cancer negative ihc staining receptor pgr 
+Cluster 1507: receptor estrogen positive progesterone hormone breast cancer negative status tumor 
+Cluster 2093: copy probe signals number average cep ihc ratio ish dual 
+Cluster 2180: receptor negative ihc er pr progesterone estrogen immunohistochemistry hybridization fish 

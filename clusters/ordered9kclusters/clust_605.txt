@@ -1,0 +1,37 @@
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+Peripheral absolute neutrophil count (ANC) >= 1000/uL
+Peripheral absolute neutrophil count (ANC) >= 1000/uL for patients with solid tumors without bone marrow involvement
+Peripheral absolute neutrophil count (ANC) >= 750/uL for patients with solid tumors and known bone marrow metastatic disease
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+Peripheral absolute neutrophil count (ANC) >= 1000/uL
+Peripheral absolute neutrophil count (ANC) of at least 1,000/L
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+Peripheral absolute neutrophil count (ANC) >= 1000/uL
+Absolute peripheral neutrophil count (ANC) > 1,000.
+Peripheral absolute neutrophil count (ANC) ?1.0 × 10^9/liter (L).
+Peripheral absolute neutrophil count (ANC) >= 1500/uL
+Peripheral absolute neutrophil count (ANC) >= 1,000/uL
+Peripheral absolute neutrophil count (ANC) ? 750/uL
+Peripheral absolute neutrophil count (ANC) >= 1500/uL
+Peripheral absolute neutrophil count (ANC) >= 1,000/uL
+Peripheral absolute neutrophil count (ANC) >= 1,000/uL
+Peripheral absolute neutrophil count (ANC) > 1,000/uL
+Peripheral absolute neutrophil count (ANC) >= 750/uL\r\n* If the ANC and/or platelet count are not adequate, but due to bone marrow metastatic disease, these criteria will be waived
+For patients with solid tumors without bone marrow involvement: peripheral absolute neutrophil count (ANC) >= 1000/uL
+For patients with solid tumors and known bone marrow metastatic disease: peripheral absolute neutrophil count (ANC) >= 750/uL
+Peripheral absolute neutrophil count (ANC) >= 1000/uL
+Peripheral absolute neutrophil count (ANC) >= 1000/uL (must not have received filgrastim [G-CSF] within the prior 7 days)
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+Peripheral absolute neutrophil count (ANC) >= 1500/uL
+The peripheral absolute neutrophil count must be at least 1,500/uL
+Peripheral absolute neutrophil count (ANC) >= 750/m^3 (no transfusion within 7 days of enrollment)
+Peripheral absolute neutrophil count (ANC) >= 1000/uL
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+Peripheral absolute neutrophil count (ANC) >= 1,000/uL
+Peripheral absolute neutrophil count (ANC) >= 1000/uL
+Peripheral absolute neutrophil count (ANC) >= 750/uL
+Peripheral absolute neutrophil count (ANC) >= 1000/uL
+Peripheral absolute neutrophil count (ANC) ? 1.5 x 109/L
+Peripheral absolute neutrophil count (ANC) > 1,000/ul
+Peripheral absolute neutrophil (ANC) >= 1000/uL
+Peripheral absolute neutrophil count (ANC) >= 1000/uL (must not have received G-CSF [filgrastim] within the prior 7 days)

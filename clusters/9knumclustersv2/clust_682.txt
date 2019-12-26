@@ -1,0 +1,48 @@
+Platelets >= ,/mm^, within  days before the first dose of cabozantinib
+Hemoglobin >=  g/dL, within  days before the first dose of cabozantinib
+Serum albumin >= . g/dl, within  days before the first dose of cabozantinib
+Clinical MRIs performed at baseline must be completed within  days before the first dose of cabozantinib
+Platelets >= ,/mm^ within  days before the first dose of cabozantinib
+Hemoglobin >=  g/dL within  days before the first dose of cabozantinib
+Serum albumin >= . g/dl within  days before the first dose of cabozantinib
+Calcium >= LLN within  days before the first dose of cabozantinib
+Prior treatment with cabozantinib
+Prior treatment with cabozantinib (XL)
+Obtained within  days prior to the first dose of cabozantinib: platelets >= ,/mm^.
+Obtained within  days prior to the first dose of cabozantinib: hemoglobin >=  g/dL.
+Obtained within  days prior to the first dose of cabozantinib: serum albumin >= . g/dl.
+Obtained within  days prior to the first dose of cabozantinib: serum phosphorus >= . mg/dl.
+Obtained within  days prior to the first dose of cabozantinib: calcium >=  mg/dL.
+Obtained within  days prior to the first dose of cabozantinib: magnesium >= . mg/dL.
+Prior treatment with cabozantinib or other cMET inhibitors.
+Prior treatment with cabozantinib or erlotinib
+Patients must have completed their most recent drug therapy directed at multiple myeloma in the following timeframes:\r\n* Chemotherapy, biological therapy, immunotherapy, or an investigational therapy at least  weeks prior to starting cabozantinib\r\n* Corticosteroids at least  weeks prior to starting cabozantinib, except for a dose equivalent to dexamethasone of =<  mg/day\r\n* Nitrosoureas, nitrogen mustards, mitomycin C, or monoclonal antibodies at least  weeks prior to starting cabozantinib\r\n* Autologous stem cell transplantation at least  weeks prior to starting cabozantinib\r\n* Allogeneic stem cell transplantation at least  weeks prior to starting cabozantinib, and these patients must also not have moderate to severe active acute or chronic graft versus host disease
+Patients who have undergone any recent major surgery must have done so at least  weeks prior to starting therapy with cabozantinib, with the following exceptions:\r\n* Vertebroplasty and/or kyphoplasty, which must have been performed at least  week prior to starting cabozantinib\r\n* Planned elective surgery unrelated to the patients diagnosis of multiple myeloma, such as hernia repair, may be allowed, at the discretion of the principle investigator, as long as it was performed at least  weeks prior to starting cabozantinib, and patients have\r\nrecovered fully from this procedure
+Patients who have required plasmapheresis and exchange less than  weeks prior to initiation of therapy with cabozantinib
+Has had prior treatment with cabozantinib
+Patients with previous history of vandetanib or cabozantinib treatment for more than  days of treatment (patients have discontinued treatment for  days before enrolling)
+Patients should be excluded if they have had prior treatment with cabozantinib; previous use of other antiangiogenic agents other than cabozantinib is allowed
+Subjects who have received cabozantinib or have an allergy to cabozantinib are excluded; subjects who have previously received tyrosine kinase inhibitors are allowed
+Prior treatment with cabozantinib
+Within  days prior to the first dose of cabozantinib: Platelets >= ,/mm^
+Within  days prior to the first dose of cabozantinib: Hemoglobin >=  g/dL
+Within  days prior to the first dose of cabozantinib: Serum albumin >= . g/dl
+Within  days prior to the first dose of cabozantinib: Serum magnesium >= . mg/dL
+Prior treatment with cabozantinib
+Prior treatment with cabozantinib or other c-MET directed therapy
+Prior treatment with cabozantinib
+Within  days before the first dose of cabozantinib: Platelets >= ,/mm^
+Within  days before the first dose of cabozantinib: Hemoglobin >=  g/dL
+Within  days before the first dose of cabozantinib: Serum albumin >= . g/dl
+Prior treatment with cabozantinib
+Subject has had prior treatment with cabozantinib
+Prior cabozantinib treatment.
+Prior treatment with cabozantinib
+Prior treatment with cabozantinib
+Prior treatment with cabozantinib
+Prior treatment with cabozantinib
+No prior therapy with cabozantinib
+Prior treatment with cabozantinib and other met inhibitors
+Subject has had prior treatment with cabozantinib
+Prior treatment with cabozantinib
+Prior treatment with cabozantinib (or other MET inhibitor) or CB-

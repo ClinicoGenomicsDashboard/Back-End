@@ -1,0 +1,9 @@
+Cluster 87: interstitial lung disease history signs symptoms ongoing time informed consent 
+Cluster 170: pulmonary obstructive copd chronic disease severe lung asthma requiring oxygen 
+Cluster 323: pneumonitis history induced active ongoing drug years radiation confirmed patients 
+Cluster 1449: ild interstitial lung pneumonitis history disease induced evidence active drug 
+Cluster 1540: severely lung impaired function interstitial concurrent condition severity history judged 
+Cluster 1549: interstitial pneumonitis lung history disease active requiring patients radiation clinically 
+Cluster 1672: interstitial lung evidence disease clinically history asymptomatic active patients dyspnea 
+Cluster 2056: cardiac disease arrhythmia history shunts patients known condition active requiring 
+Cluster 2423: noninfectious pneumonitis interstitial evidence lung history active steroids required disease 

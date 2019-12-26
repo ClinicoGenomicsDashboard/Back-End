@@ -1,0 +1,11 @@
+Cluster 2: transaminase aminotransferase serum glutamic pyruvate oxaloacetic glutamate sgot sgpt institutional 
+Cluster 548: transaminase glutamic serum pyruvic aminotransferase sgpt oxaloacetic sgot upper alt 
+Cluster 729: transaminase aminotransferase serum uln pyruvate glutamic glutamate oxaloacetic sgot sgpt 
+Cluster 946: glutamic oxaloacetic sgot transaminase serum normal upper limit times uln 
+Cluster 980: transaminase aminotransferase serum pyruvate glutamic glutamate oxaloacetic sgot sgpt aspartate 
+Cluster 1063: sgot glutamic oxaloacetic transaminase aspartate ast aminotransferase uln serum institutional 
+Cluster 1628: glutamic transaminase aminotransferase pyruvic serum uln sgpt alt sgot oxaloacetic 
+Cluster 1931: transaminase iuln aminotransferase serum glutamic sgot oxaloacetic glutamate pyruvate sgpt 
+Cluster 2040: sgot oxaloacetic glutamic transaminase aspartate aminotransferase ast upper limit normal 
+Cluster 2227: transaminase serum sgot pyruvate glutamate glutamic sgpt oxaloacetic normal upper 
+Cluster 2442: transaminase aminotransferase serum glutamic oxaloacetic pyruvate sgot glutamate sgpt ast 

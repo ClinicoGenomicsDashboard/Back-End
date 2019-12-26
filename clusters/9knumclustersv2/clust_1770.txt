@@ -1,0 +1,53 @@
+DONOR: age >=  and =<  years
+DONOR: Donor is at least  years of age
+Donor age >=  years
+DONOR: At least  years of age
+DONOR:  to  years of age - priority should be given to age (<  years), followed by HLA matching (haploidentical and if not available then fully mismatched donor)
+DONOR: Voluntary written consent (using assent form if donor <  years of age)
+DONOR: Age >  years
+DONOR: At least  years of age
+<  years of age with no matched / or / sibling donor - patients >=  and =<  years of age may be eligible if they have a co-morbidity score =< 
+DONOR: Age >=  and =<  years
+DONOR: Age  to  years of age
+DONOR: Age =<  years of age
+DONOR: Age >=  years
+MATCHED RELATED DONOR: Age - years
+HAPLOIDENTICAL RELATED DONOR: Age - years
+MATCHED RELATED DONOR: Age less than  years or greater than  years
+HAPLOIDENTICAL RELATED DONOR: Age less than  years or greater than 
+DONOR: At least  years of age
+DONOR: Age >= . years
+DONOR: Donor must be  years of age or older and weigh at least  pounds
+DONOR: There is no upper age limit for donors; however, the minimum age for a related donor is  years as this is the youngest age a person can be considered capable of giving assent to participate in a research study
+DONOR: Age >=  years
+DONOR: Age >=  years of age
+DONOR: Age >= 
+Must be <  years old with no matched / or / sibling donor; patients >=  and =<  years of age may be eligible if they have a co-morbidity score =< 
+DONOR: Age >=  to =<  years old
+DONOR: Age >=  years old (yo) and =<  years
+DONOR: Age less than  years
+DONOR: - years of age
+DONOR: Age >= . years
+DONOR: Age >=  years and =<  years
+DONOR:  to  years of age
+DONOR: At least  years of age
+DONOR: - years of age
+DONOR: Children less than  years of age.
+DONOR: Age <  years
+DONOR: Age less than  years
+DONOR: Age <  years
+DONOR: age >=  years old
+DONOR: Age >  years (yr)
+MSC DONOR: age >=  years, =<  years
+INCLUSION CRITERIA - HPC-A CELL DONOR: At least  years of age
+DONOR: At least  years of age
+DONOR: At least  years of age
+DONOR: At least  years of age
+DONOR: Age  years to  years
+DONOR: Age >=  to =<  years old
+DONOR: Age >=  years
+DONOR: Age <  years
+Must be >= , but <  years of age with no matched / or / sibling donor - patients >=  and =<  years of age may be eligible if they have a Co-Morbidity score =< 
+DONOR: Age >=  years
+DONOR: Age <  years
+Must be >= , but <  years of age with no matched / or / sibling donor - patients >=  and =<  years of age may be eligible if they have a co-morbidity score =< 

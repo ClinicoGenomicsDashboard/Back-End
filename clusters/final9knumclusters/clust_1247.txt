@@ -1,0 +1,178 @@
+Presence of GVHD overlap syndrome.
+Participants must have acute GVHD of the lower gastrointestinal tract as defined by the clinical impression of the treating physician, requiring systemic treatment; minimum criteria for GI GVHD includes diarrhea of greater than 500 mL/day; biopsy of the GI tract is required for study entry and must confirm the diagnosis of acute GVHD; stool samples to rule out infectious causes of diarrhea, including norovirus, Clostridium difficile and other clinically indicated infections must also be negative; eligibility includes:\r\n* Acute GVHD developing after allogeneic hematopoietic stem cell transplantation (HSCT) using bone marrow, peripheral blood stem cells, or umbilical cord blood; recipients of non-myeloablative, reduced intensity and myeloablative transplants are eligible\r\n* Patients who develop acute GVHD after donor lymphocyte infusion (DLI) are eligible\r\n* There is no specified time window after day 0 of transplant as acute GVHD is only defined by clinical manifestations\r\n* Patients must have experienced neutrophil engraftment after HSCT as defined by absolute neutrophil counts >= 500 /uL x 3 consecutive measurements\r\n* Platelets >= 10,000 / uL (platelet transfusions are allowed on the same day)\r\n* The presence of hepatic, upper GI and/or cutaneous acute GVHD is permitted\r\n* Steroids can be started up to 7 days prior to the administration of natalizumab
+Patients with the entity of acute/chronic GVHD overlap syndromes
+If the participant has developed overall grades II-IV acute GVHD, the following criteria must be met to be randomized:
+Receiving an investigational GVHD treatment within 28 days of study entry.
+Has acute GVHD.
+Participants receiving GVHD prophylaxis with drugs other than calcineurin inhibitor, short-course methotrexate, steroids, mycophenolate mofetil, or sirolimus
+? Grade II acute GvHD or chronic extensive GvHD due to a previous allograft at the time of screening
+Subject with chronic GVHD features (acute/chronic GVHD overlap syndrome or classical chronic GVHD).
+Patients can continue to receive other immunosuppressive drugs for treatment of GVHD as determined by their primary team
+Patients on other experimental protocols for prevention of acute GVHD
+GVHD prophylaxis must include a calcineurin inhibitor combined with methotrexate or mycophenolate.
+Patients who develop acute GVHD prior to start of study drug.
+Active GVHD or on immunosuppressive medication for GVHD (applies to cohort #2)
+Any drug used for GVHD within 4 weeks prior to enrollment
+Acute GVHD grade II-IV by Glucksberg criteria or severity B-D by IBMTR index; acute or chronic GVHD requiring systemic treatment within 4 weeks prior to enrollment
+Participants may be receiving other immunosuppressants for the prophylaxis or treatment of acute GVHD but if the subject is receiving prednisone for prophylaxis or treatment of acute GVHD it must be at or below 0.5 mg/kg/d
+NIH Stage 4 acute GVHD of the skin (i.e., generalized erythroderma with bullous formation) within 7 days prior to Day 1
+NIH Stage 2 or higher acute GVHD of the gut (i.e., diarrhea > 556 mL/m2/day, or severe abdominal pain with or without ileus) within 7 days prior to Day 1
+Patient is using or plans to use an investigational agent for the prevention of GvHD.
+Subjects must be free from active GVHD and off immunosuppressive GVHD therapy for 4 weeks prior to enrollment
+Patients who develop grade IV acute GVHD or severe chronic GVHD prior to enrollment on the protocol
+Has a diagnosis of active GvHD (>= grade I); patients with prior active GvHD that is quiescent (grade 0) at time of entry may be considered
+Patients must have no active acute or chronic GVHD
+Subjects must be free from active GVHD and off immunosuppressive GVHD therapy for 4 weeks prior to enrollment. GVHD status will be determined in conjunction with an evaluation by an oncologist specialized in GVHD diagnosis and management through Seattle Children’s Blood and Cancer Disorders Center
+Acute GvHD prophylaxis with methotrexate and tacrolimus
+Active grade III-IV classic acute GvHD; subjects with prior resolved acute GvHD on stable doses of immunosuppression at time of enrollment will be permitted
+Evidence of classic chronic GvHD or overlap chronic GvHD at time of enrollment
+Subjects who participated in a clinical trial of acute GvHD prophylaxis in which chronic GvHD was a secondary end point
+Active acute or chronic GVHD of the liver
+CRITERIA FOR LYMPHODEPLETING CHEMOTHERAPY AND huJCAR014 TREATMENT: Presence of active acute or chronic GVHD
+Patients receiving post-transplant cyclophosphamide as GVHD prophylaxis
+Acute or chronic GVHD with ongoing active systemic treatment
+Either no evidence of graft versus host disease (GVHD) or minimal clinical evidence of acute GVHD and chronic GVHD while off of systemic immunosuppressive therapy for at least 28 days; minimal clinical evidence of acute GVHD defined as grade 0 to I acute GVHD; minimal evidence of chronic GVHD is defined as mild global score chronic GVHD (as defined by the 2005 NIH consensus project) or no chronic GVHD; subjects with disease that is controlled to stage I acute GVHD or to mild global score chronic GVHD with local topical cutaneous steroids will be eligible for enrollment
+Patients with chronic GVHD requiring systemic therapy are eligible
+Any active acute GVHD or chronic GVHD greater than grade 1
+Patients who have disease relapse, active GVHD or history of more than grade 1 skin acute GVHD, history of chronic (c)GVHD
+Clinically diagnosed Grades II to IV acute GvHD as per standard criteria occurring after alloSCT requiring systemic immune suppressive therapy. Biopsy of involved organs with aGvHD is encouraged but not required for study screening.
+Active GVHD requiring systemic steroid therapy; medications for GVHD prophylaxis are acceptable
+Active chronic GVHD that is extensive
+New onset acute GVHD Ann Arbor score 3 following allogeneic bone marrow transplantation (BMT); any clinical severity (Glucksberg grade I-IV) is eligible; patients with prior or existing diagnosis of GVHD without any treatment are eligible; patients given only topical corticosteroids for skin GVHD are eligible
+No prior systemic treatment for acute GVHD except for a maximum of 3 days of prednisone (or IV methylprednisolone) ? 2 mg/kg/day; topical skin steroid treatment, non-absorbable oral steroid treatment for gastrointestinal (GI) GVHD, and resumption of GVHD prophylaxis agents (e.g., calcineurin inhibitors) are permissible; patients enrolled in BMT CTN 1501 who randomized to sirolimus are also eligible
+Biopsy of acute GVHD target organ is strongly recommended but not required; enrollment should not be delayed for biopsy or pathology results; patients who do not enroll within 3 days of initiation of systemic steroid treatment for acute GVHD are not permitted to participate
+Patients with chronic GVHD only; patients diagnosed with overlap syndrome are still eligible
+Use of other drugs for the treatment of acute GVHD
+Steroid therapy for indications other than GVHD at doses > 0.5 mg/kg/d of methylprednisolone or equivalent within 7 days prior to initiation of GVHD treatment
+Active GVHD grade ? 2
+Patients with active GVHD > grade 2 will be excluded; patients with recent increase in the immunosuppressive medication dose within last 2 weeks to control GVHD will not be included; patients with grade 1 or lower GVHD on =< 10 mg prednisone without any additional immunosuppressive therapies (tacrolimus, prograf, etc) will be eligible
+EXCLUSION CRITERIA FOR ENROLLMENT: Most recent alloHCT performed did not utilize PTCy GVHD prophylaxis
+EXCLUSION CRITERIA FOR ENROLLMENT: The use of immunosuppression for grade II-IV acute GVHD within 28 days prior to the infusion of PTCy-MILs
+EXCLUSION CRITERIA FOR ADDITIONAL PTCy-MILs INFUSION AT RELAPSE: The presence of active GVHD requiring treatment
+Patients with chronic GVHD diagnosed within 3 years after hematopoietic stem cell transplant (HSCT) for any disease, with any graft, and any conditioning regimen with at least one manifestation secondary to fibrosis, including: sclerodermatous skin changes, dry mouth, dry eye, esophageal strictures, or vaginal GVHD
+Has received Hematopoietic Stem Cell Transplantation (HSCT) within 60 days of the first dose of DS-3032b, is on immunosuppressive therapy post-HSCT at the time of screening, or has clinically significant GVHD (use of topical steroids for ongoing skin GVHD will be permitted). Subjects must have a washout period of >=2 weeks or at least 4 half-lives from their last systemic immunosuppressive treatment for GVHD.
+Patients with active acute GVHD grades II-IV
+Allogeneic patients if: i. patients had engrafted donor cells (i.e., > 20% donor T-cell from peripheral blood [PB]/polymerase chain reaction [PCR]); and, ii. patients NOT in complete remission (CR) after their allogeneic transplant, and off tacrolimus and/or mycophenolate mofetil for at least 3 to 4 weeks with no signs of GVHD; or, iii. patients had evidence of relapse after their transplant who are off tacrolimus and/or mycophenolate mofetil or other immunosuppressants for GVHD for 3 to 4 weeks with no signs of GVHD (prednisone doses =< 10 mg are permitted as stated previously)
+Active GVHD or recent GVHD and still on > 10 mg prednisone (or equivalent)
+Must be able to receive GVHD prophylaxis with tacrolimus and methotrexate
+No active acute GvHD >= grade II
+No extensive chronic GvHD
+Any patient with either progressive aGvHD or steroid refractory (SR) aGvHD after hematopoietic stem cell transplant (HSCT) will be eligible; prophylactic GvHD therapy with cyclosporine, tacrolimus, mycophenolate mofetil (MMF), or sirolimus can be continued; biopsy/pathological confirmation of skin/gastrointestinal or liver GvHD is not required, but it is encouraged
+Patients with late onset acute GvHD will be eligible; this includes features of classical acute GvHD without diagnostic or distinctive manifestations of chronic GvHD occurring beyond 100 days of HSCT
+Patients with prior history of severe (grade III or IV) acute GVHD even if resolved if post-transplant
+Active, acute GvHD > grade II or extensive, chronic GvHD
+Active, acute GvHD > grade II or extensive, chronic GvHD
+Either no evidence of graft-versus-host disease (GVHD) or minimal clinical evidence of acute GVHD and chronic GVHD while off of systemic immunosuppressive therapy for at least 28 days; minimal clinical evidence of acute GVHD is defined as grade 0 to I acute GVHD; minimal evidence of chronic GVHD is defined as mild global score chronic GVHD (as defined by the 2005 NIH consensus project) or no chronic GVHD; subjects with disease that is controlled to stage I acute GVHD or to mild global score chronic GVHD with local therapy only, e.g., topical cutaneous steroids, will be eligible for enrollment
+Anti-GVHD agents posttransplant
+Graft failure, acute or extensive chronic GvHD
+Patients receiving other investigational drugs for GVHD. Co-enrollment in other clinical trials that do not include experimental GVHD therapies is allowed
+GvHD requiring systemic immunosuppressive therapy
+Extensive chronic GvHD requiring ongoing immunosuppression with calcineurin inhibitors
+any systemic therapy against GvHD < 2 weeks prior to study Day 1
+Ongoing active acute or chronic GVHD requiring immunosuppressive therapy or signs of acute (a)GVHD or chronic (c)GVHD requiring treatment
+As GvHD is a clinical diagnosis, and patients will have already been initiated on steroid therapy at the discretion of the attending physician, tissue confirmation of refractory GvHD by biopsy is not required for entry to this study; it is anticipated that most, but not all, patients will have undergone tissue confirmation of the initial diagnosis of GvHD; however lack of tissue confirmation for this clinical syndrome is not exclusionary
+Subject has active clinically significant GVHD or is on treatment with systemic corticosteroids for GVHD.
+Subject must have no evidence of active acute or chronic GVHD (Grade 0) for 4 weeks prior to the first dose of lenalidomide.
+If the subject has a history of maximum Grade 1 or 2 GVHD that was treated with systemic steroid (? 0.5 mg/kg/day prednisone equivalents) or other non-steroid systemic IST, the subject must be off all IST for at least 2 weeks, and must have ceased treatment doses of steroids for GVHD (? 0.5 mg/kg/day prednisone equivalents) for at least 4 weeks. o If the subject has a history of Grade 3 or greater GVHD, the subject must be off all systemic IST for 4 weeks o Topical therapy is permitted and does not imply the subject has active acute or chronic GVHD.
+Clinically suspected Grades II to IV acute GVHD as per MAGIC guidelines, occurring after allo-HSCT with any conditioning regimen and any anti-GVHD prophylactic program.
+Subjects with steroid-refractory acute GVHD, defined as any of the following:
+Has received more than 1 systemic treatment in addition to corticosteroids for acute GVHD.
+Presence of GVHD overlap syndrome as per NIH guidelines.
+Greater than active Grade II acute GvHD or chronic extensive GvHD due to a previous allograft at the time of screening
+Patient receiving an immunosuppressive treatment for GvHD treatment due to a previous allograft at the time of screening
+Patients with standard-risk acute GVHD, according to refined Minnesota Criteria. Refined Minnesota Criteria are available at https://redcap.ahc.umn.edu/surveys/?s=bNmFhseJIf. Standard-risk acute GVHD according to the refined Minnesota Risk Criteria requires meeting one of the criteria below:
+Acute Minnesota Standard Risk GVHD requiring systemic immune suppressive therapy.
+Patients receiving sirolimus (for any indication including GVHD prophylaxis) within 14 days of screening for enrollment.
+A clinical presentation resembling de novo chronic GVHD or overlap syndrome developing before or present at the time of enrollment.
+Clinically suspected Grades IIB to IVD acute GVHD as per modified MN-CIBMTR criteria, occurring after allo-HSCT with any conditioning regimen and any anti-GVHD prophylactic program.
+Subjects may, but are not required to, have previously received corticosteroids for acute GVHD:
+Has progressed on more than 2 prior treatment regimens for acute GVHD.
+Requirement for active immunosuppression to treat GVHD
+Any drug used for GVHD within 4 weeks prior to enrollment
+Acute GVHD grade II-IV by Glucksberg criteria or severity B-D by IBMTR index; acute or chronic GVHD requiring systemic treatment within 4 weeks prior to enrollment
+Patients must have a diagnosis of a chronic GVHD according to the National Institute of Health (NIH) Consensus Criteria
+Patients must have failed at least one prior line of systemic immune suppressive therapy for management of chronic GVHD
+Major surgery within 14 days before enrollment\r\n* Does not include placement of venous access device, bone marrow biopsy, GVHD diagnostic biopsy, or other routine procedures in chronic GVHD or post-transplantation care
+Diagnosis of chronic GVHD according to National Institutes of Health (NIH) Consensus Criteria\r\n* May have either classic chronic GVHD or overlap subtype of chronic GVHD
+Failure of at least one prior line of systemic immune suppressive therapy for management of chronic GVHD
+Surgery within 21 days prior to enrollment\r\n* Does not include placement of venous access device, bone marrow biopsy, GVHD diagnostic biopsy, or other routine procedures in chronic GVHD or post-transplantation care
+New systemic immune suppressive agent added for the treatment of chronic GVHD within 2 weeks prior to enrollment
+Patients with acute GVHD grade II-IV
+Steroid dependent or refractory classic chronic GVHD disease.
+Known or suspected active acute GVHD.
+Patients on other experimental protocols for prevention of acute GVHD
+No evidence of grade II or higher acute GVHD or chronic GVHD at initiation of first DLI
+HCT recipients newly requiring systemic glucocorticoid therapy (at >= 1 mg/kg/day prednisone or equivalent) for chronic GVHD\r\n* In the phase I component of the trial, only those with overall moderate or severe global composite score are eligible\r\n* In the phase II component of the trial, patients of any global composite score are eligible, provided they have need for systemic therapy for chronic GVHD
+Previous systemic glucocorticoid therapy (at >= 1 mg/kg/day prednisone or equivalent) for chronic GVHD\r\n* Prior systemic glucocorticoid therapy for acute GVHD is permitted\r\n* Prior or ongoing systemic immune suppressive agents (including, but not limited to common examples such as calcineurin inhibitors, sirolimus, mycophenolate mofetil) provided for either prevention or treatment of acute GVHD are permitted and part of routine standard of care\r\n* Patients with progressive, uncontrolled manifestations of acute or chronic GVHD despite >= 1mg/kg/day prednisone (or equivalent) therapy have steroid-refractory disease, and are therefore not eligible for this study
+No minimum platelet count is required by this trial, as this is a frequent manifestation of poor-risk chronic GVHD, and such patients may benefit from this protocol therapy
+Patients with irreversible damage as the only manifestation of chronic GVHD (irreversible contractures or sicca syndrome)
+Patients with uncontrolled acute or chronic GVHD or refractory disease not responding to conventional therapy
+Patients with active acute GVHD who have been initiated on therapy or had therapy escalation within 21 days are not eligible
+Individuals who have had a stem cell transplant and are still receiving treatment for GVHD or GVHD prophylaxis, or who have evidence of acute GVHD, or who are less than 100 days from stem cell infusion
+Patients with any NIH subtype (classic or overlap) of chronic GVHD who are starting treatment with ECP
+Stage 4 gastrointestinal GVHD as per Seattle-Glucksberg criteria
+Suitable candidates are patients with classic chronic GVHD or overlap syndrome (classic chronic plus acute GVHD)that is: a)Previously untreated (newly diagnosed) as defined by having received < 14 days of prednisone (or equivalent) before enrollment/randomization to study therapy; b)Previously treated but inadequately responding after ? 16 weeks of initial therapy with prednisone and/or calcineurin inhibitor (CNI) ± additional non-sirolimus agent (started at the time of chronic GVHD diagnosis).
+Patients with late persistent acute GVHD or recurrent acute GVHD only.
+Receiving sirolimus for treatment of chronic GVHD (sirolimus for prophylaxis or treatment of acute GVHD is acceptable).
+Receiving therapy for chronic GVHD for more than 16 weeks.
+Current grade II to IV acute GVHD or extensive chronic GVHD
+Presence of chronic GvHD at Screening (including acute-chronic overlap syndrome).
+Hyperacute GvHD defined as onset of GvHD within the first 15 days following hematopoietic stem cell infusion.
+Received systemic agents other than corticosteroids for treatment of acute GvHD. GvHD prophylaxis agents (example, calcineurin inhibitors) may be continued.
+Subjects with Stage 1-4 (per the Modified Keystone Grading Schema) acute GVHD of the lower GI tract, without signs of chronic GVHD, at the time of diagnosis, which developed in the first 180 days following allogeneic hematopoietic cell transplantation (HCT) using bone marrow, peripheral blood, or cord blood; or after preplanned donor lymphocyte infusion.
+Stage of acute GVHD of the lower GI tract will be determined using the Modified Keystone Grading Schema.
+Subjects with signs and symptoms of chronic GVHD.
+Subjects who received previous systemic treatment for acute GVHD, except for a maximum of 3 days (72 hours) of 2 mg/kg corticosteroid therapy.
+Active grades III or IV acute GVHD
+Presence of Grade II-IV (Glucksberg) or B-D (IBMTR) acute or extensive chronic GVHD at the time of screening
+GVHD therapies: Any drug used for GVHD within 4 weeks prior to leukapheresis
+Participant with manifestations of chronic GvHD
+Participant with acute/chronic GvHD overlap syndrome
+Participant receiving GvHD treatment other than continued prophylaxis (eg, cyclosporine and/or mycophenolate mofetil, etc) or corticosteroid therapy. In addition, a participant who received the first dose of corticosteroid therapy for acute GvHD with lower GI involvement more than 72 hours before the first dose of study treatment is not eligible for the study
+Anti-leukemia treatment within14 days of study drug (other than hydroxyurea or 6-mercaptopurine), immunosuppressive therapy (except for GVHD treatment/prophylaxis in Part B), or investigational agents
+Symptomatic moderate or severe chronic GVHD patients in need of a change of systemic immunosuppressant (IS) therapy
+GVHD\r\n* ARM A: Without evidence of active or prior history of GVHD\r\n* ARM B: Patients with active GVHD, or with GVHD controlled by steroids or other immunosuppressive medications
+Phototherapy-unless administered for acute GVHD
+Patient was diagnosed with Grade B-D acute GVHD requiring corticosteroid systemic therapy. The subject may have Grade C or D aGVHD involving the skin, liver, and/or gastrointestinal (GI) tract or may have Grade B aGVHD involving the liver and/or GI tract, with or without concomitant skin disease. Acute GVHD is defined as the presence of skin rash and/or persistent nausea, vomiting, and/or diarrhea and/or cholestasis presenting in a context in which aGVHD is likely to occur and where other etiologies such as drug rash, enteric infection, or hepatotoxic syndromes are unlikely or have been ruled out.
+Patient has received systemic agents other than steroids and prophylactic agents for primary treatment of acute GVHD.
+Active GVHD
+GVHD: Patients will not be eligible for DLI if they have grades 2 – 4 acute GVHD or extensive chronic GVHD
+Planned administration of alemtuzumab (Campath-1H) or other investigational agents as alternative agent for GVHD prophylaxis
+Diagnosis and staging of de novo acute GvHD of the GIT (any site except isolated “upper” GIT disease);\r\n* Patients must be classifief as \high risk\ by the combined Minnesota (MN)/Center for International Blood and Marrow Transplant (CIBMTR) grading\r\n* Biopsies should be obtained by full endoscopy including esophagogastroduodenoscopy (EGD) and flexible sigmoidoscopy or colonoscopy; however, it is not necessary to have confirmation of GvHD diagnosis before initiating IASA therapy; such is not recommended\r\n* If other diagnoses are excluded, it is not necessary to biopsy all potentially involved sites in the GIT to initiate therapy\r\n* It is possible that other diagnoses may be present as well, and this should not exclude eligibility so long as they are distinct (this statement is generic, but applies especially to various types of infective colitis; that said, concomitant anti-infective therapy must be on-going)\r\n* Although this study is designed for patient with high-risk de novo, acute GvHD of the lower gastrointestinal tract, selected patients with more advanced, even “steroid refractory” acute GvHD may be considered for this study providing they fulfill two criteria: 1) have no history of prior IASA; and 2) are personally approved by the principal investigator (PI), or in his absence, his designee
+Prior or on-going therapy:\r\n* No previous systemic (topical allowed) therapy for acute GvHD --except for a maximum (and ideally less) of 48 hours of prior glucocorticoid (GC) therapy, > 0.5 mg/kg/day of MePDSL or equivalent after the onset of acute GvHD\r\n* An exception to the above exists for patients with prior acute GvHD (of any site) who received GC therapy, experienced a complete response (CR), were tapered off GC and recurred >= 15 days later; such are eligible after review by the PI or his designee\r\n* For patients with SR, no prior stipulations – beyond prior IASA – will be specified\r\n* The use of on-going acute GvHD prophylaxis will be continued as above (if in the rare case this is not possible due to toxicity, discussion with, and approval by the study PI is required)\r\n* Moreover, the use of any other IST is allowed if acute GvHD of the GIT develops while the patient is off all IST; IST may be restarted at the discretion of the attending physician after discussion with the PI of this study\r\n* Treatment with oral budesonide is to be started or continued at full dose\r\n* Please consult with the study PI regarding any questions or concerns of study eligibility
+Patients may not be receiving any other drugs for the treatment of GvHD or investigational agents, except for a maximum of 48 hours of prior GC therapy, as above (obviously, this requirement is waived for SA – acute GvHD patients; in this case, no requirements are mandated)
+Active uncontrolled stage 3-4 acute gastrointestinal (GI) GVHD prior to administration of ibrutinib
+Active uncontrolled stage 4 acute liver GVHD prior to administration of ibrutinib
+Use of second line systemic therapy for treatment of acute GVHD prior to administration of ibrutinib
+Evidence of GVHD at the time of enrollment as assessed clinically
+New chronic GVHD therapies (e.g. gleevec, extracorporeal photopheresis, rituximab, immunosuppressive medications) in the 4 weeks prior
+Patients receiving other investigational drugs for GVHD; co-enrollment in other clinical trials that do not include experimental GVHD therapies is allowed
+Participants must have acute GVHD as defined by the clinical impression of the treating physician; biopsy of the involved tissue, while encouraged, is not required for study entry; eligibility includes:\r\n* Acute GVHD developing after allogeneic hematopoietic stem cell transplantation using bone marrow, peripheral blood stem cells, or umbilical cord blood; recipients of non-myeloablative, reduced intensity and myeloablative transplants are eligible\r\n* Patients who develop acute GVHD after donor lymphocyte infusion (DLI) are eligible\r\n* There is no specified time window after day 0 of transplant as acute GVHD is only defined by clinical manifestations\r\n* Patients must have experienced neutrophil engraftment after hematopoietic cell transplant (HCT) as defined by absolute neutrophil counts >= 500/ul x 3 consecutive measurements
+Patients with the entity of acute/chronic GVHD overlap syndromes
+Participants may not have received > 1 systemic immunosuppressive agent beyond corticosteroids for the treatment of GVHD; GVHD prophylaxis regimens used for an individual patient do not count as additional agents
+Patients with steroid (or immunosuppressive therapy [IST]) refractory acute GVHD (aGVHD) or chronic GVHD (cGVHD)
+Stable dose of corticosteroids for treatment of GVHD for 2 weeks prior to enrollment (fluctuation of corticosteroids for treatment of anything other than GVHD acceptable)
+Participation in an investigational study that has acute GVHD as the primary endpoint
+Patients receiving calcineurin inhibitors as part of GVHD prophylaxis
+Patients with acute GVHD grades II-IV developing despite GVHD prophylaxis
+Patients who have received any systemic agents in addition to steroids for treatment of GVHD
+Patients with manifestations of classic chronic GVHD
+Patients with acute/chronic GVHD overlap syndrome
+Subject has moderate or severe overlap chronic (c)GVHD according to National Institutes of Health (NIH) criteria
+Active cGVHD despite treatment with at least two immunosuppressive treatments (not including GVHD prophylaxis) in the past year
+FOR THE 31 SUBJECTS ENROLLED IN YEAR 1: If patients are on immunosuppressive therapy for treatment of GVHD, then only those on stable doses for at least 4 weeks (or on tapering doses) will be eligible
+Participation in a clinical trial evaluating another preventative strategy for chronic graft-versus-host disease (GVHD), or ongoing participation in a clinical trial for therapy of acute GVHD; prior completion of experimental therapy for acute GVHD is permissible if the experimental agent was used > 30 days prior to enrollment
+Any evidence of ongoing gastrointestinal or hepatic acute GVHD, or evidence of greater than ongoing stage I cutaneous acute GVHD; ongoing, tapering therapy for resolved acute GVHD is permissible
+Any evidence of prior active or resolved chronic GVHD
+Patients with Acute GVHD Grade III-IV
+EXCLUSION CRITERIA (PRIOR TO IBRUTINIB ADMINISTRATION): Active and uncontrolled acute GVHD grades III or IV
+EXCLUSION CRITERIA (PRIOR TO IBRUTINIB ADMINISTRATION): Use of secondary therapy for acute GVHD at any time (defined as any systemic therapy intended to treat acute GVHD besides corticosteroids)
+Myeloid or lymphoid hematologic malignancy treated with a reduced intensity (RI) or non-myeloablative (NMA) conditioning HSCT who received calcineurin inhibitor based drug (for example: tacrolimus or cyclosporin) and methotrexate as part of their initial GVHD prophylaxis; patients who received sirolimus as part of their GVHD prophylaxis will be eligible
+Active acute or chronic GVHD
+Patients actively enrolled on any other GVHD prevention trial
+Patients without cGVHD are defined as having no signs or symptoms of GVHD with chronic features diagnosed at any time prior to enrollment
+Participation in a clinical trial evaluating another preventative or treatment strategy for chronic GVHD or ongoing participation in a clinical trial for therapy of acute GVHD; prior completion of experimental therapy for acute GVHD is permissible if the experimental agent was used > 30 days prior to enrollment
+Any evidence of ongoing gastrointestinal or hepatic acute GVHD or evidence of greater than ongoing stage I cutaneous acute GVHD at time of enrollment; ongoing, tapering therapy for resolved acute GVHD is permissible
+Cyclophosphamide as part of the conditioning regimen or for GVHD prophylaxis
+Participation in an investigational study that has acute GVHD as the primary endpoint
+Subjects receiving pre-transplant conditioning/GVHD prophylaxis regimens other than those defined, herein.

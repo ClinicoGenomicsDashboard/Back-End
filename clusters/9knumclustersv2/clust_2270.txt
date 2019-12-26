@@ -1,0 +1,24 @@
+Life expectancy of <  year
+Life expectancy of greater than  year
+Life expectancy, in the clinician's judgment, greater than  year
+Life expectancy of >=  year
+Life expectancy of at least  year
+Patients must have a life expectancy of at least one year
+Other serious medical conditions that may be expected to limit life expectancy to less than  year (e.g., liver cirrhosis).
+Life expectancy of greater than  year
+Life expectancy is greater than  year
+Life expectancy of greater than  year
+Life expectancy less than one year
+Patients with end-stage disease, severe dementia and/or life expectancy of less than one year
+Life expectancy of at least one year
+Patients with end-stage disease, severe dementia and/or life expectancy of less than one year
+Patients should have a life expectancy of at least  year
+Patients with a life expectancy of less than one year
+Life expectancy of at least one year
+Life expectancy of less than one year.
+Life expectancy of greater than  year
+Group I: Life expectancy >=  year
+Group II: Life expectancy >=  year
+Group III: Life expectancy >=  year
+Life expectancy > year. LGL-Specific:
+Other malignancy with life expectancy <  year due to the other malignancy

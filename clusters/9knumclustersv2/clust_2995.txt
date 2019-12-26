@@ -1,0 +1,41 @@
+QT corrected by Bazzett's formula (QTcB) must be <  milliseconds (ms) for males and <  ms for females
+Has a mean QTcF prolongation > ms for females and > ms for males in three successive Screening measurements.
+Has a QT interval corrected for heart rate (QTc) >  ms using the Fridericia formula; if the screening electrocardiogram (ECG) has a QTc > ms, the mean QTc of  electrocardiograms (ECGs) can be utilized, but must be <  ms
+Patients, who continue to have prolonged corrected QT (QTc) (males: >  ms; females: >  ms as calculated by Fridericias correction formula) despite normal electrolyte balance and discontinuation of medications known to prolong QTc, will be excluded from the study
+Electrocardiogram (EKG) with QTcB (Bazetts formula) >  ms done within  days of enrollment
+Prolonged QTc greater than or equal to  ms. If QTc greater than or equal to ms, confirmation of eligible QTc requires mean calculation from  additional electrocardiograms (ECGs) ? minutes apart using Fridericia's Correction Formula (mean less than  ms).
+Has a corrected QT prolongation to >  millisecond (ms) in males and >  ms in females
+Cardiac MRI T* <ms;
+QTc interval <  ms
+QTcb > ms
+Within  days of registration: Corrected QT interval (QTc) must be <  ms in males and <  ms in females
+A prolonged QTc of >=  ms interval on electrocardiogram
+Has a QTc prolongation to >  millisecond (ms) in males and >  ms in females
+QTc interval of >  ms.
+Evidence of QTcF prolongation defined as >  ms for males and >  ms for females at screening
+Mean QT interval ? ms
+QRS interval ? ms
+PR interval ? ms
+Patients must not have a prolonged PR interval (defined as >  ms).
+For mefloquine arm, patients with evidence of QTc interval >  ms or clinically significant arrhythmia on baseline EKG obtained within  days of registration will be ineligible for protocol enrollment
+MS INCLUSION:
+ECG: QTc interval ?  ms
+Has a QTc prolongation to >  millisecond (ms) in males and >  ms in females.
+Cardiac ejection fraction ?%, and QTcF< ms (males) or < ms (females) on ECG at Baseline.
+Patients should not be allergic to eggs or soy beans. Patients must be medically, psychologically and neurologically stable and have triplicate baseline ECG's with a mean QTc interval < ms and > ms and neither a history of congenital prolonged or short QT syndrome. Patients with a history of cardiac disease must be stable.
+QTcF corrected with Frederica's or Bazett's formula QTcB > ms for males and > ms for females on screening ECG.
+QTc interval prolongation >ms for males and > ms for females.
+A baseline ECG QTc >  ms
+QTcF > ms for males and > ms for females on screening ECG
+Prolonged QTC interval >ms
+Prolonged QTc interval (males >ms, females >ms)
+Prolonged QTc interval (males >ms, females >ms)
+Corrected (Bazett) QTc interval of > . ms (male) or > . ms (female)
+Q-T interval of =<  ms as measured by electrocardiography (EKG)
+Evidence of QT prolongation on pretreatment electrocardiography (ECG) (greater than  ms in males or greater than  ms in females)
+Evidence of QT prolongation on pretreatment electrocardiogram (ECG) (greater than  ms in males or greater than  ms in females)
+Evidence of QT prolongation on pretreatment electrocardiogram (ECG) (greater than  ms in males or greater than  ms in females)
+Prolonged QTc interval defined as greater than  ms.
+Subjects with QTc interval > ms.
+QTcF interval > ms for men and > ms for women, symptomatic bradycardia < beats per minute or other significant ECG abnormalities in the investigator's opinion.
+QTc >  ms (M) or  ms (F) (Bazett formula -QT Interval / ? (RR interval) where RR Interval = /HR).

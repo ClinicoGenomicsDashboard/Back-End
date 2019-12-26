@@ -1,0 +1,4 @@
+Cluster 427: histologically confirmed diagnosis cytologically cancer melanoma prostate breast disease hcc 
+Cluster 1032: adenocarcinoma cytologically histologically confirmed prostate rectum colon diagnosis breast metastatic 
+Cluster 1080: adenocarcinoma histologic prostate diagnosis confirmation cytologic rectum colon patients evidence 
+Cluster 1615: rectal cancer colon digital prior adenocarcinoma surgery stage diagnosis stenosis 

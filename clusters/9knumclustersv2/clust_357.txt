@@ -1,0 +1,114 @@
+Age ?  years at time of informed consent
+Be >  years of age on day of signing informed consent
+Age .  years old at the time of signing the informed consent
+Male or female patients, age  years or older at the time of signing the informed consent form (ICF).
+At least  or older of age on day of signing informed consent
+COHORT : Be >=  years of age on day of signing informed consent
+COHORT : Be >=  years of age on day of signing informed consent
+Patients must be a male or female ?  years of age on the day of signing informed consent.
+Patients age ? years at signing the informed consent.
+Must be ?  years of age at the time of signing the ICF.
+Patients age ? years at signing the informed consent.
+At least  years of age at the time of signing the informed consent form.
+Subject is ?  years of age at the time of signing the informed consent form (ICF).
+Subject is ? years of age at the time of signing the study informed consent.
+Must be ?  years of age at the time of signing the ICF.
+Age ? years on the day of signing informed consent.
+Males ? years of age at the time of signing consent
+Men and women ? years old on the day of signing informed consent.
+Age ? years at the time of informed consent.
+Age ?  years old at the time of signing the informed consent
+Age >= years at time of signing Informed Consent Form
+Be ?  years of age on day of signing informed consent.
+Age ? years at the time of signing informed consent.
+Subject is  to <  years of age at the time of signing the Informed Consent Form/Informed Assent Form (ICF/IAF).
+Be ?  years of age at time of consent
+Age ? years at the time of informed consent
+Subject is ? years of age at the time of signing the study informed consent.
+Age ?  years at the time of consent.
+Signing of the Informed Consent Form
+Be  years of age on day of signing informed consent.
+Female subjects who are at least  years of age at the time of informed consent
+Newly diagnosed MCL: Age >  years at the time of signing the informed consent
+Age ? years at the time of signing the informed consent form.
+Subject must be >= years of at the time of signing the informed consent.
+Pregnant or nursing at the time of signing informed consent
+Between  and  years of age inclusive, at the time of signing the informed consent.
+Be >  years of age on day of signing informed consent.
+Subject is ?  years of age at the time of signing the informed consent form (ICF)
+Subject is at least  years old at the time of signing the consent form.
+Age ?  years at time of signing informed consent form.
+ Age ?  at the time of informed consent.
+Age ? years at the time of consent.
+Male or female patients ?  years of age on day of signing informed consent.
+The subject must be >=  years of age at the time of consent
+ years of age at the time of signing informed consent
+Male or female is  to ?  years of age at the time of signing the Informed Consent Form / Informed Assent Form (ICF/IAF).
+Age ?  years of age at the time of signing the Informed Consent Form. . Understand and voluntarily provide written consent to the Informed Consent Form prior to conducting any study related assessments/procedures.
+Subject is male or female, ?  years old at the time of signing the informed consent form (ICF).
+Subject is ?  years of age at the time of signing the informed consent form (ICF)
+Age ?  years at the time of signing the informed consent form (ICF). . Central confirmation of diagnosis of one of the following untreated AML as per WHO classification (Appendix I):
+Subject is considered an adult according to local regulation at the time of signing informed consent.
+Age ?  at time of informed consent
+have undergone ASCT within the period ?  months prior to signing the informed consent form.
+Males and females at least  years of age at the time of signing of the informed consent document.
+Age ?  years of age at the time of signing the informed consent document.
+Subjects must be ? years of age at the time of signing the Informed Consent Form (ICF);
+Males and females aged >= years (for Japan only: Age >= years at time of signing Informed Consent Form) with histologically confirmed metastatic colorectal cancer (mCRC).
+Men ?  years of age at the time of informed consent.
+Male or female and ? years of age on day of signing informed consent.
+Are at least  years of age at the time of informed consent
+Be  years of age or older on day of signing informed consent.
+Age ? years at the time of signing the informed consent document.
+Age >  years at the time of consent.
+Age ?  years and <  years at the time of signing the informed consent form
+MDS subjects may not receive RIC and must be <  years of age at the time of signing the informed consent form
+Men and women ?  years of age, at the time of signing the informed consent form (ICF).
+Participant is ?  years of age at the time of signing the informed consent form.
+Subject is ?  years of age or is considered an adult according to local regulation at the time of signing informed consent.
+Be ?  years of age on day of signing informed consent.
+Subject is female ?  years of age (at the time of signing the informed consent form) with metastatic breast cancer not amenable to curative treatment by surgery or radiotherapy.
+Age ?  years at the time of consent
+?  years at time of consent.
+Age ?  years at the time of consent.
+Age: >= years of age at the time of providing informed consent.
+Male or Female ?  years old at the time of signing the informed consent.
+Must be ? yrs at the time of signing informed consent.
+ months to less than  years of age at the time of consent.
+Age > =  years at the time of signing the informed consent form.
+Patients with chronic lymphocytic leukemia requiring treatment age > at the time of signing informed consent.
+Age >= years at the time of consent.
+Age > than  years at the time of signing the informed consent form.
+Be ?  years of age at time of consent
+Must be greater than or equal to  years at the time of signing the informed consent form.
+Age ?  years at the time of consent.
+Age ?  years at the time of consent
+Subject is  years of age or more at the time of signing the Informed Consent Form
+Males and females ?  years of age at the time of signing the informed consent document (ICD).
+Males and females ? years of age at the time of signing the consent form.
+Thrombocytopenia (platelet count ? ,/L) at any time after signing informed consent
+Be ?  years of age on day of signing informed consent.
+Females or males, aged >= years at the time of signing the informed consent form (ICF).
+Subjects ?  years age and ?  years of age at the time of signing the informed consent form.
+Adult male or female ?  years of age at the time of signing the informed consent form (ICF).
+Men and women ? -years-old on the day of signing informed consent.
+Non-pregnant female adults at least  years of age at time of informed consent
+Age ?  years of age at the time of signing the Informed Consent Form.
+Be at least  years of age at the time of consent
+Age ?  to ?  years at the time of signing the informed consent form
+Male or female between  to  years of age, inclusive, at the time of signing the informed consent form;
+Age ?  years of age, at the time of informed consent.
+Male or female >= months and < years of age at the time of signing the informed consent form.
+The patient is >=  years of age at the time of signature of the first informed consent form.
+Age >  years at the time of consent.
+The patient is >=  years of age at the time of signature of the informed consent form.
+Age ?  years at the time of signing consent
+Age ?  to ?  years at the time of signing the informed consent form
+Subject is ? years of age at the time of signing the study informed consent.
+Age >  years at the time of consent.
+Male or female, ?  years of age at the time of signing the informed consent document
+Subject is ?  years of age at the time of signing the informed consent form (ICF).
+? years of age at the time of signing informed consent
+Is at least  years of age at the time of consent
+Males and females of age ?  years or of age ?  years for those assigned to Optune at the time of signing of the informed consent document.
+Men and women ?  years of age, at the time of signing the ICD (Informed Consent Document).

@@ -1,0 +1,83 @@
+AST < . x ULN (. x ULN in the presence of liver metastasis)
+ALT < . x ULN (. x ULN in the presence of liver metastasis).
+AST and ALT must be less than or equal to . x ULN for the lab with the following exception: for patients with documented liver metastases, AST and ALT must be less than or equal to  x ULN.
+ALP, ALT, and AST >  x ULN (> x ULN if subject has liver metastases)
+Has adequate hepatic function, defined as: AST/ALT levels =<  x ULN (if liver metastases are present, =<  x ULN) Bilirubin =< . x ULN.
+AST ?. x ULN (if liver or bone mets are present, ? x ULN)
+ALT ?. x ULN (if liver or bone metastases are present, ? x ULN)
+Aspartate transaminase (AST) =<  x ULN, except for patients with liver metastasis, who are included if AST =<  x ULN, at the screening visit
+Alanine transaminase (ALT) =<  x ULN, except for patients with liver metastasis, who are only included if ALT =<  x ULN, at the screening visit
+For subjects with liver metastasis, adequate liver function is demonstrated by AST/ALT =< . x ULN
+AST and/or ALT ?. ULN, < ULN w/liver metastases
+Liver Transaminases (ALT/AST) ? . x ULN, ? . x ULN if liver metastases present
+AST (aspartate aminotransferase) =<  x ULN\r\n* NOTE: ALT and/or AST may be =<  x ULN if due to liver metastases. If ALT or AST is >  and =<  x ULN in patients with liver metastases
+ALT and AST ?  x ULN or ?  x ULN if documented liver infiltration with leukemia cells
+ALT or AST > . ULN in patients (pts) without liver metastasis
+For pts with liver metastasis: ALT or AST > . ULN
+Aspartate aminotransaminase (AST), alanine aminotransaminase (ALT) within . x institutional upper limits of normal unless there are liver metastases in which case AST and ALT within . x ULN
+If liver metastasis present, then AST/ALT =<  x ULN
+CERITINIB INCLUSION CRITERIA: AST (SGOT) and ALT (SGPT) =<  x ULN if no liver metastases are present? =<  x ULN if liver metastases are present
+REGORAFENIB INCLUSION CRITERIA: AST (SGOT) and ALT (SGPT) =< . x ULN if no liver metastases are present? =<  x ULN if liver metastases are present
+ENTRECTINIB INCLUSION CRITERIA: AST (SGOT) and ALT (SGPT) =< . x ULN if no liver metastases are present? =<  x ULN if liver metastases are present
+Aspartate transaminase (AST) < . x ULN, except for patients with liver metastasis, who are only included if AST <  x ULN; alanine transaminase (ALT) < . x ULN, except for patients with liver metastasis, who are only included if ALT <  x ULN
+AST and ALT ?  x ULN for age unless elevation can be clearly attributed to liver leukemia or metastases
+ARM B COHORT : AST and ALT =<  X ULN; if liver metastases are present then must be <  X the ULN
+ARM B COHORT : AST and ALT =<  X ULN; if liver metastases are present then must be <  X the ULN
+For subjects with liver metastasis, adequate liver function is demonstrated by serum bilirubin =<  x ULN and AST/ALT =< . x ULN
+AST and ALT ?  x ULN or ?  x ULN for subjects with known liver metastases
+Aspartate transaminase (AST) =< . x ULN, except for patients with liver metastasis, who are only included if AST =<  x ULN; alanine transaminase (ALT) < . x ULN, except for patients with liver metastasis, who are only included if ALT <  x ULN
+AST/ALT > .-fold above ULN (>-fold above ULN if liver metastases)
+For Phase I and II: Adequate liver (bilirubin </=x ULN, ALT </=.x ULN) and renal (creatinine </=x ULN) function. For patients with suspected liver infiltration from leukemia ALT should be </=  ULN.
+Exception for patients with liver metastasis: total bilirubin =<  x ULN; ALT (SGPT) =<  X ULN
+Obtained =<  days prior to randomization:\r\nAspartate transaminase (AST) =< . x ULN (or =<  x ULN in presence of liver metastases)
+AST and ALT must be less than or equal to . x ULN for the lab with the following exception: for patients with documented liver metastases, AST and ALT must be less than or equal to  x ULN.
+DOSE ESCALATION COHORT: \r\n* Note: Subjects with bone metastasis and no liver metastasis on screening image may enroll if ALP is <  X ULN; subjects with liver metastasis may enroll if all of AST/ALT/ALP are <  X ULN; however, subjects with extensive liver metastasis occupying more than % of liver parenchyma will be excluded per epacadostat investigators brochure
+DOSE EXPANSION COHORT: \r\n* Note: subjects with bone metastasis and no liver metastasis on screening image may enroll if ALP is <  X ULN; subjects with liver metastasis may enroll if all of AST/ALT/ALP are <  X ULN; however, subjects with extensive liver metastasis occupying more than % of liver parenchyma will be excluded per epacadostat investigators brochure
+If the patient has liver metastases, ALT and AST <  x ULN
+AST and/or ALT ?. x upper limit of normal (ULN) if liver metastases, or ? x ULN without liver metastases
+AST/ALT =< . x ULN if with liver metastases
+Patients who do not have hepatocellular carcinoma but who have liver lesions or liver metastases may be eligible if they have AST < . x ULN and AST < . x ULN if agreed upon by the investigator and medical monitor for the sponsor.
+AST/ALT =< . x ULN and bilirubin =< ULN for patients with liver metastases
+Alanine aminotransferase (ALT) =< . x ULN for patients without liver metastases; for patients with liver metastasis ALT =<  x ULN is allowed
+AST and/or ALT ?. x upper limit of normal (ULN) if liver metastases, or ? x ULN without liver metastases
+S-creatinine and S-bilirubin ? . x ULN. S-ALAT and S-ASAT ? . x ULN (or ? in case of liver metastases)
+Patients with liver metastasis may not be included if AST and/or ALT > xULN
+AST/ALT ?  x ULN for patients without liver metastasis; ?  x ULN for patients with liver metastasis
+Bilirubin =< . x ULN; for subjects with liver metastases =<  x ULN is allowed
+AST and ALT ?  x ULN (?  x ULN if liver is involved by extramedullary hematopoiesis as judged by the investigator or if related to iron chelator therapy that was started within the prior  days)
+Absolute neutrophil count ? ,/L; platelets ? ,/L; creatinine ? .x upper limit of normal (ULN); total bilirubin ? .x ULN; AST/ALT ? .x ULN. For subjects with documented liver metastases, the AST/ALT may be ? x ULN.
+AST/ALT ? X ULN [with underlying Liver Metastasis]
+AST and ALT =< . x ULN (=<  x ULN if liver metastases are present) obtained =<  days prior to registration
+Liver Transaminases (ALT/AST) ? . x ULN, ? . x ULN if liver metastases present
+ALT or AST > . ULN in patients (pts) without liver metastasis; for pts with liver metastasis: ALT or AST >  x ULN
+Chronic liver disease (bilirubin > . x ULN, ALT or AST >  x ULN)
+AST/ALT levels ? . x ULN, or ?  x ULN if liver metastases are present.
+Alanine aminotransferase (ALT) =< . x ULN for patients without liver metastases; for patients with liver metastasis ALT =<  x ULN is allowed
+AST level ?. x ULN and ALT ? .  ULN. For patients with liver metastases, AST ?. x ULN, and AST ?. x ULN may be enrolled if agreed upon by the investigator and medical monitor for the sponsor.
+Adequate liver function, defined as bilirubin ?.x ULN, ALT ?.x ULN, and AST ?.x ULN
+ALT =< . x =<  x ULN if liver metastases persist
+For subjects with liver metastases: ALT and AST =<  x ULN
+Adequate liver function Total Serum Bilirubin <=. x upper limit of normal (ULN) Transaminases (AST/ALT) <=.ULN (if liver metastases are present, then <=ULN is allowed) ALP <=.ULN (if liver and/or bone metastases are present, then <=ULN is allowed)
+Exception for patients with liver metastasis: ALT (SGPT) =<  x ULN
+AST and ALT ?  ULN (?  x ULN for subjects with liver metastases)
+Adequate liver function Total Serum Bilirubin <=. x upper limit of normal (ULN) Transaminases (AST/ALT) <=.ULN (if liver metastases are present, then <=ULN is allowed) ALP <=.ULN (if liver and/or bone metastases are present, then <=ULN is allowed)
+AST and ALT ? . x ULN or ?  x ULN if subject has documented liver metastases
+For patients with tumor involvement of the liver AST or ALT >  x ULN
+ALT and AST ? . upper limit normal (ULN), or <  x ULN if liver metastases are present; serum total bilirubin ? ULN or . x ULN if liver metastases are present or total  x ULN with direct bilirubin ? ULN in patients with well documented Gilbert Syndrome.
+Adequate hepatic function: AST and ALT <. x ULN, Total and Direct Bilirubin <. x ULN. However, in the presence of liver metastases, AST and ALT must be < x ULN
+AST and ALT ?. x ULN for subjects without liver metastases and ?. x ULN for subjects with liver metastases
+- Hepatic function: aspartate aminotransferase (AST)/ Alanine Amino Transferase (ALT) = . X Upper Limit of Normal (ULN) and bilirubin = ULN for patients without liver metastases. AST/ALT = . X ULN and bilirubin = ULN for patients with liver metastases. Patients with Gilbert syndrome and bilirubin <  X ULN and normal AST/ALT are eligible
+Has adequate hepatic function, defined as: AST/ALT <=  X ULN (if liver metastases are present, <=  X ULN) Bilirubin <= . X ULN
+Adequate hepatic function including ALT ? . x upper limit of normal (ULN) if liver metastasis is NOT present or ?  x ULN if liver metastasis is present, and total bilirubin ? . x ULN.
+Adequate liver function defined as: bilirubin (sum of conjugated + unconjugated) <=. x upper limit of normal (ULN) for age, aspartate aminotransaminase (AST) and alanine transaminase (ALT) <=. x ULN; AST/ALT may be < x ULN at baseline if disease under treatment involves the liver (requires radiographic confirmation of liver involvement).
+ALT or AST < . X ULN in the absence of liver metastases
+Liver Function If bilirubin, AST, and/or ALT are >ULN
+Aspartate transaminase (AST) > . x ULN, except for patients with liver metastasis who are excluded if AST > . x ULN
+Alanine transaminase (ALT) > . x ULN, except for patients with liver metastasis who are excluded if ALT > . x ULN
+Abnormal liver function (total bilirubin > X ULN or liver enzymes alanine aminotransferase [ALT] or aspartate aminotransferase [AST] > .X ULN for subjects without liver metastasis or ? X ULN for subjects with liver metastasis) as assessed by the central laboratory during screening. Subjects with documented Gilbert's Disease may be eligible.
+- AST and ALT < . x ULN (<  x ULN in patients with known liver metastases)
+AST and ALT =< . X ULN or =<  x ULN if liver metastases are present (evaluated within  days of randomization); concomitant elevations in bilirubin and AST/ALT above . x ULN are not permitted
+ALT/AST ? . x ULN or ?  x ULN if documented liver metastases
+- AST and ALT < . x ULN (<  x ULN in patients with known liver metastases)
+Alanine transaminase (ALT) =<  x ULN (=<  x ULN acceptable for pancreatic subjects with known liver metastasis only)
+AST and ALT ? . x ULN, independently of the presence of liver metastases.

@@ -1,0 +1,23 @@
+White blood cell count >=  cells/mm^
+White blood cell count >= . x ^/mm^
+Patients who have a white blood cell count less than , per cubic mm
+White blood count >= /mm^
+White blood cell count >= , cells/mm^
+White blood cell count >= . x ^/mm^
+White blood cell count >= . x ^/mm^
+White blood count ?  cells/mm
+Patients with uncontrolled white blood cell count (defined as >  K/cu mm not controlled with hydrea).
+Total white blood cell count ?,/mm
+White blood count >= ,/mm^
+White blood cell count of more than or equal to /mm^
+White blood count >= ,/mm^
+White blood cell count > /mm^
+White Blood Count > ,/mm
+White blood cell count > . k/mm
+White blood cell count > /mm^
+White blood cell count > /mm^
+White blood cell count >= . K/cu mm
+White blood cell count >= . K/cu mm
+White blood cell >= , /mm^ without transfusion support >  days prior to registration
+White blood count >= ,/mm^
+White blood count > ,/mm^

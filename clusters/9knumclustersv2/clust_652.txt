@@ -1,0 +1,85 @@
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Within  days of treatment initiation: Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets > = , cells/mm.
+Platelets >= , cells/mm^
+Platelets ? , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets ? , cells/mm;
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets ?  x  cells/L
+Platelets > , cells/mm^
+Platelets ? , x ^ cells/L
+Platelets > , cells/mm^
+Platelets >= , cells/mm^
+Platelets > , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets ?  x  cells/L
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >=, cells/mm^
+Platelets >= , cells/mm^
+Platelets > , cells/mm^
+Platelets >= , cells/mm^
+Platelets ? , cells/mm
+Platelets >= , cells/mm^ ( x ^/L)
+Platelets >= , cells/mm^
+Within  days of enrollment: Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets ?  x ^ cells/L
+Platelets > cells/mm
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >=  X ^ cells/L
+Platelets >= , cells/mm^
+Platelets > , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >=  x ^ cells/L
+Platelets >= , cells/mm^
+Within  weeks of randomization: Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets>= , cells/mm^
+Platelets >= , cells/mm^
+Platelets > , cells/mm^
+Platelets > , cells/mm^
+Platelets ? , cells/mm.
+Platelets > , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^
+Platelets ? , cells/mm
+Platelets >= , cells/L
+Platelets > , cells/mm^
+Platelets >= , cells/mm^
+Platelets >= , cells/mm^

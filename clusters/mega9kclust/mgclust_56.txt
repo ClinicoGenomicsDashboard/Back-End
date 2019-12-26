@@ -1,0 +1,6 @@
+Cluster 264: normalized inr international ratio uln coagulation anticoagulation warfarin anticoagulants blood 
+Cluster 844: anticoagulation therapeutic applies inr aptt normalized ratio thromboplastin activated international 
+Cluster 874: time aptt thromboplastin activated partial inr normalized ratio prothrombin international 
+Cluster 1403: prothrombin inr normalized pt ratio international time uln normal seconds 
+Cluster 2235: time inr ptt thromboplastin normalized partial ratio international prothrombin pt 
+Cluster 2279: inr warfarin heparin normalized ratio international stable ptt time thromboplastin 

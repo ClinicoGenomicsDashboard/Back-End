@@ -1,0 +1,19 @@
+Obtained =<  days prior to registration: aspartate aminotransferase (AST) =<  x institutional upper limit of normal (ULN)
+Aspartate aminotransferase (AST) <  x institutional upper limit of normal (ULN) within  days of enrollment to trial
+Obtained =<  days prior to registration and confirmed prior to the first dose of study drug: Aspartate aminotransferase (AST) =<  x institutional upper limit of normal (ULN)
+Aspartate aminotransferase (AST) =< upper limit of institutional normal
+Serum aspartate aminotransferase (AST) <  x institutional upper limit of normal (IULN)
+Aspartate aminotransferase (AST) =<  times the institutional upper limit of normal
+Aspartate aminotransferase (AST) <  times the upper limit of institutional normal
+Aspartate aminotransferase (AST) =<  times the institutional upper limit of normal
+Aspartate aminotransferase (AST) > . x institutional upper limit of normal
+Aspartate aminotransferase (AST) =< . x institutional upper limit of normal
+Aspartate aminotransferase =<  x institutional upper limit of normal (ULN), obtained =<  days prior to registration and confirmed prior to the first dose of study drug
+Obtained =<  days prior to registration: Aspartate aminotransferase (AST) =<  x institutional upper limit of normal (ULN)
+Aspartate aminotransferase (AST) < . X institutional upper limit of normal
+Aspartate aminotransferase (AST) =<  x upper limit of institutional normal
+Aspartate aminotransferase (AST) < . X institutional upper limit of normal
+AST < . X institutional upper limit of normal
+Aspartate aminotransferase (AST)  x upper limit of normal (based on institutional standards)
+Aspartate aminotransferase (AST) =< . x upper limit of institutional normal
+Aspartate aminotransferase (AST) =< upper limit of institutional normal

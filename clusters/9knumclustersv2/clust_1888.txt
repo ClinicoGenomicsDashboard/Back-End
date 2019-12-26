@@ -1,0 +1,8 @@
+Cardiac: Asymptomatic or if symptomatic, then left ventricular ejection fraction (LVEF) at rest must be >= % and must improve with exercise.
+Asymptomatic or if symptomatic then left ventricular ejection function (LVEF) at rest must be >= % and must improve with exercise
+Cardiac: asymptomatic or if symptomatic then left ventricular ejection fraction (LVEF) at rest must be >= % and must improve with exercise
+Asymptomatic cardiac function or if symptomatic then left ventricular ejection fraction (LVEF) >= % and must improve with exercise
+Cardiac: asymptomatic or if symptomatic then left ventricular ejection fraction (LVEF) at rest must be > %
+Cardiac: asymptomatic or if symptomatic then left ventricular ejection fraction (LVEF) at rest must be >= % and must improve with exercise
+Cardiac: asymptomatic or if symptomatic then left ventricular ejection fraction (LVEF) at rest must be > % and must improve with exercise
+Cardiac: asymptomatic or if symptomatic then left ventricular ejection fraction (LVEF) at rest must be > % and must improve with exercise

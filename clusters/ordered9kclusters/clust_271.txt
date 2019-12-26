@@ -1,0 +1,130 @@
+Intent to proceed with RIC alloHCT if a matched sibling or matched unrelated donor is identified. There is no requirement as to the timing of the transplantation.
+A suitable donor must be identified; there are no restrictions on donor type and can include a matched sibling, a matched or mismatched unrelated donor, a family haplotype matched donor or a cord blood donor (single or double)
+The HLA-matched donor must be medically fit to donate and willing to donate bone marrow.
+DONOR: Matched unrelated donors\r\n* Unrelated volunteer donor matched for HLA-A, -B, -C and -DRB1 defined by high resolution molecular typing\r\n** Mismatched unrelated volunteer donors may be considered if no other suitable donor is available
+Any identified and available 10/10 HLA-matched related donor or 10/10 HLA-matched unrelated donor.
+Available mismatched related (mMRD) or mismatched unrelated (mMUD) donor, HLA matched 8/10 or 9/10
+HLA-matched related or unrelated donor available
+Patients with suitably matched related or unrelated donor, as defined per institutional practice.
+Patients who have a matched donor and are candidates for allogeneic bone marrow transplantation
+Patient with a HLA-matched (HLA-A, B, C, and DR beta 1 [DRB1] molecularly matched) unrelated donor or related donor capable of donating PBSC
+Patients with Hodgkin Lymphoma with either of the following: • Primary induction failure (failure to achieve initial CR) and/or primary refractory disease OR First, Second or Third relapse AND History of prior ablative auto HSCT or ineligible for an ablative auto HSCT or ?25% residual disease after at least two reinduction chemotherapy cycles AND HLA matched family donor (6/6 or 5/6) or matched unrelated adult donor (MUD) (8/8) or matched umbilical cord blood unit (?5/6) with prethaw cell dose of at least 3 x 107/kg TNC.
+No identified 8/8 (based upon A, B, C, DRB1 loci) allele matched unrelated donor, or unable to wait sufficient time to procure an 8/8 allele matched unrelated donor
+DONOR: Arm B: The recipient must have a related donor genotypically HLA-A, B, C and DRB1 loci haploidentical to the recipient; no HLA matched sibling or matched unrelated donor is available; DSA is allowed with desensitization done if recommended by donor selection committee (DSC) per City of Hope (COH) standard operating procedures (SOP)
+Patients with no available and suitably matched related or unrelated donor in the required time period.
+Patients without a matched related or unrelated donor
+Patient must have planned to receive either a myeloablative or reduced-intensity conditioning regimen and have an unrelated donor who is HLA matched or single-allele mismatched
+Patient with hematologic malignancy not in CR: Does NOT have a 10/12 (or better) HLA matched related or unrelated donor available OR treating clinician considers haploidentical transplant preferable (despite sibling donor availability or 10/12 or better HLA matched donor availability) due to patient’s clinical status
+HLA-MATCHED UNRELATED DONOR: Patient and donor pairs homozygous at a mismatched allele in the graft rejection vector are considered a two-allele mismatch, i.e., the patient is A*0101 and the donor is A*0102, and this type of mismatch is not allowed
+Meets institutional criteria for a RIC allogeneic (allo) BMT to treat a B?cell derived hematologic malignancy of a fully matched or partially mismatched related or unrelated donor source
+Lack of an HLA matched donor or need to proceed fast to transplantation when a patient does not have an immediately available matched unrelated donor (typed by high-resolution in the registry)
+Patient must not have a 10/10 HLA matched family member or unrelated donor.
+Subjects have undergone alloSCT > 90 days prior to enrollment from a matched-related donor (MRD), matched-unrelated donor (MUD), cord blood donor, or haplo-identical and cord blood donor
+DONOR: HLA 6/6 matched related or unrelated donor
+Patients must have a haploidentical related donor or a fully matched related or unrelated donor
+Subjects must have a suitable stem cell donor available who may donate cells if the subject needs to undergo allogeneic hematopoietic cell transplant (HCT); donor may be matched or mismatched and must be found to be suitable according to the institution’s standard criteria
+HLA-matched stem cell donor, either related (6/6 or 5/6 loci matched) or unrelated (8/8 or 7/8 loci matched) \r\n* Note: unrelated donors should be matched at HLA-A, -B, -C, and -DRB1 loci; however, a single locus mismatch will be acceptable in the event a more closely matched donor is not available
+Patients with hematologic diseases who have undergone T-cell depleted reduced intensity/non-ablative allogeneic transplantation, using a 7-8/8 HLA-matched related or unrelated donor or 4-6/8 HLA-matched related donor; this may include patients with a mixed chimeric state or disease persistence or at high risk of relapse
+HLA 4-8/8 MATCHED RELATED DONOR
+Will be matched at least as HLA -A, -B, C and -DRB1; criterion for donation will be those allowing donation following the National Marrow Donor Program (NMDP) accepted donor criterion and program standard operating procedures (SOPs) for the typical matched unrelated donors
+No HLA matched sibling or matched unrelated donor is available
+Donor criteria: availability of a donor either an human leukocyte antigen (HLA) matched sibling donor (MSD) or a haploidentical (5-9/10 HLA matched); alternatively a 8/8 HLA matched unrelated donor (MUD) by high resolution typing is immediately available
+Donor source is matched related, unrelated, haploidentical donor or cord blood.
+DONOR: 10 of 10 HLA-matched or 1 allele mismatched (9 of 10) unrelated donor
+Available familial haploidentical (4 to 6 out of 8 HLA loci-matched) donor
+Donor is either matched related, matched unrelated, mismatched unrelated, or haploidentical; cord blood recipients are also eligible
+HLA-matched donor able to donate
+Patients must have an allogeneic hematopoietic progenitor cell donor (HPCT), either a matched sibling, mismatched (1 allele) sibling, or a matched unrelated donor (MUD) or a mismatched (1 allele) unrelated donor\r\n* Previous autologous hematopoietic progenitor cell transplantation is allowed; a minimum of 6 months should have elapsed from prior autologous hematopoietic progenitor cell transplantation; prior transplantation with conditioning regimens using total body irradiation is not allowed
+Haploidentical Related Donor Selection Criteria: the recipient must have a related donor haploidentical for HLA A, B, C, and DR (i.e. matched at one locus); they may be partially matched on the other haplotype; if a matched sibling donor is available but disease status (poor disease control, recurrence after allogeneic HSCT) precludes treatment on other protocols, a haplo-identical relative is preferred as the HSC (cluster of differentiation [CD]34+ cell) source
+RECIPIENT: No available 10/10 or 9/10 HLA-matched related or unrelated donor, 4/6 (or greater) matched UCB unit(s) with a total dose of greater than or equal to 3.5 x 10^7 TNC/kg, or haploidentical related donor
+MATCHED RELATED DONOR: Ability to give informed consent
+MATCHED RELATED DONOR: History of other medical conditions that in the opinion of PI constitute a contraindication to donation
+MATCHED UNRELATED DONOR: Failure to qualify as an NMDP donor
+Patients must have a fully-matched sibling donor or a matched unrelated donor identified
+Patients must have an HLA-matched donor of hematopoietic stem cells (related or unrelated)
+DONOR: Patient and donor (related or unrelated) must be HLA-matched and express HLA-A*0201
+HLA-matched related donor able to donate
+Absence of a suitable related or unrelated bone marrow donor who is molecularly matched at HLA-A, B, Cw, DRB1, and DQB1
+No available 10/10 or 9/10 HLA-matched related or unrelated donor or haploidentical related donor
+MATCHED RELATED DONOR: Age 2-60 years, and weight of >= 10 kilograms
+MATCHED RELATED DONOR: At least one normal DOCK8 allele demonstrated by a CLIA-certified lab
+MATCHED RELATED DONOR: History of severe cutaneous viral infections with herpes simplex, herpes zoster, or molluscum contagiosum
+MATCHED RELATED DONOR: HIV infection
+MATCHED RELATED DONOR: Chronic active hepatitis B; donor may be hepatitis core antibody positive
+MATCHED RELATED DONOR: Other medical conditions that in the opinion of the PI constitute exclusion as a donor
+MATCHED RELATED DONOR: Mutation of DOCK8 on both alleles
+MATCHED UNRELATED DONOR: Failure to qualify as an NMDP donor
+HLA-matched or single allele-mismatched donor able to donate
+Cross-over to other tandem autologous-allogeneic research protocol (#1409 or other appropriate protocol) will be allowed if a suitable HLA-matched related or unrelated donor is identified before receiving the allogeneic transplantation and if the patient meets the eligibility criteria of the subsequent study
+Cross-over from other tandem autologous-allogeneic research protocol (#1409 or other appropriate protocol) will be allowed if the patient loses the suitable HLA-matched related or unrelated donor but has an available HLA-haploidentical donor before receiving the allogeneic transplantation and if the patient meets the eligibility criteria of the subsequent study
+Available matched related or unrelated donor; selected donor must be a complete match or have only a single antigen mismatch
+No available and suitably matched related or unrelated donor
+Very well-matched related or unrelated donor
+DONOR: An unrelated donor–fully matched
+DONOR: An unrelated donor–9/10 matched
+Patients who have a matched related donor who is eligible and willing to donate stem cells
+All patients, irrespective of participation in a clinical trial, must have a signed informed consent for the performance of matched related donor transplantation
+Absence of timely and suitable fully HLA matched or one HLA locus mismatched family or unrelated donor and, at Investigator's discretion, absence of other possible therapeutic alternatives
+Patients must have resolved any serious infectious complications related to induction\r\n* NOTE: Patients with an HLA-matched donor and proceeding to transplant will be allowed up to one cycle of consolidation treatment
+No availability of a readily available HLA-matched volunteer unrelated donor (8 of 8 allele match at HLA-A, -B, -C and -DRB1); patients with unstable disease who are in danger of significant disease progression while waiting to procure volunteer donor cells will be eligible to be treated on this protocol, even if a matched donor is available
+Availability of a suitable matched related (6/6 or 5/6) or unrelated donor (10/10 or 9/10 antigen or allele matched)
+Is undergoing matched or single-antigen mismatched unrelated-donor myeloablative transplant for the treatment of ALL or AML; Is less than or equal to (<=) 60 years of age For the cohort after Recommended phase 2 dose (RP2D)
+Is undergoing matched or single-antigen mismatched related or unrelated-donor transplant and receiving myeloablative conditioning or RIC for the treatment of hematologic malignancies or myeloproliferative neoplasms; Is less than or equal to (<=) 75 years of age
+Matched Related Donor: Related to the patient and is genotypically or phenotypically HLA-identical
+Matched Related Donor: Donor age < 75 yrs unless cleared by institutional PI
+Matched Related Donor: Donor must consent to PBSC mobilization with G-CSF and apheresis
+HLA Matched Unrelated Donor: Donor must consent to PBSC mobilization with G-CSF and apheresis; bone marrow unrelated donors are not eligible for this protocol
+Matched Related Donor: Identical twin
+Matched Related Donor: Any contra-indication to the administration of subcutaneous G-CSF at a dose of 16mg/kg/d for five consecutive days
+Matched Related Donor: Serious medical or psychological illness
+Matched Related Donor: Pregnant or lactating females
+Matched Related Donor: HIV seropositivity
+Known HLA matched related donor without contraindications to donate
+HLA-matched donor able to donate
+HLA-matched related or 8/8 allele matched (HLA-A, -B, -C, -DRB1) unrelated donor available. This exclusion does not apply to HIV-positive subjects who have a CCR5delta32 homozygous donor.
+Subjects should have a potential 3-5/6 HLA-matched related haploidentical donor that will be evaluated for eligibility to provide DLI
+DONOR: Patients must have a healthy HLA matched or mismatched related or unrelated donor who is willing to receive filgrastim (G-CSF) injections and undergo apheresis for peripheral blood stem cell (PBSC) collection, or undergo a marrow harvesting procedure
+HLA-Matched Related and Unrelated Donors: Patients who have an HLA-matched related or unrelated donor are eligible for entry on this protocol; this will include a healthy donor who is genotypically matched at all A, B, C, DRB1 and DQB1 loci, as tested by deoxyribonucleic acid (DNA) analysis
+Patients must have a fully-matched related donor or a matched unrelated donor identified; double cord (at least 4/6 matched) can be used if no adult matched donor is available
+MATCHED RELATED DONOR: History of medical illness that in the estimation of the PI or Department of Transfusion Medicine (DTM) physician precludes donation of marrow
+MATCHED RELATED DONOR: Pregnant females
+MATCHED RELATED DONOR: Any medical contraindication to anesthesia or marrow donation will exclude the donor
+MATCHED RELATED DONOR: Active autoimmune disease that in the opinion of the PI or AI would compromise the success of the transplant
+HLA-matched related and unrelated donors: \r\n* Patients who have an HLA-matched related or unrelated donor are eligible for entry on this protocol; this will include a healthy donor who is genotypically matched at all A, B, C, DRB1 and DQB1 loci, as tested by deoxyribonucleic acid (DNA) analysis
+Patients must have a 6/6 HLA-matched related donor who is evaluated and deemed able to provide peripheral blood stem cells (PBSCs) and/or marrow by the transplant team
+DONOR: Donor must be 6/6 HLA matched, and related to the patient
+Patients for whom HLA-matched unrelated donor search could not be initiated or completed due to insurance reasons, concerns of rapidly progressive disease, and/or discretion of attending physician are eligible for this protocol
+No available suitably HLA- matched unrelated donor
+Available suitably HLA- matched unrelated donor is unwilling to donate peripheral blood stem cells (PBSC), and no alternate donor is found
+Availability of appropriate, willing, HLA-matched related marrow donor
+Matched related or unrelated donor identified and available; donor must be a complete match or have only a single allele or antigen mismatch
+Must have an HLA genotypically or phenotypically identical related donor or, at a minimum, a high likelihood of identifying an HLA-matched unrelated donor; the determination of availability of a suitable unrelated donor may be based on a World-Book search
+Cross-over to other tandem autologous-allogeneic research protocol (#2241) will be allowed if the patient loses the suitable HLA-matched related or unrelated donor but has an available HLA-haploidentical donor before receiving the allogeneic transplantation and if the patient meets the eligibility criteria of the subsequent study
+Cross-over from other tandem autologous-allogeneic research protocol (#2241) will be allowed if a suitable HLA-matched related or unrelated donor is identified before receiving the allogeneic transplantation and if the patient meets the eligibility criteria of the subsequent study
+Patient must have a fully matched related or unrelated donor willing to donate stem cells
+Must have suitable matched sibling or matched unrelated donor for stem cell source
+For Pre-allo Part A (before stem cell transplant): Availability of an HLA matched related or unrelated donor
+Lack of 5 6/6 HLA matched related or 8/8 HLA A, B, C, DRß1 matched unrelated donor; or unrelated donor not available within appropriate timeframe, as determined by the transplant physician.
+HLA-matched related donor able to donate.
+HLA-matched donor able to donate
+Patient should have an already identified sibling, matched unrelated donor or cord blood donor at the time of enrollment to this clinical trial
+No available suitable matched related (6/6 or 5/6) or unrelated donor (8/8 or 7/8 allele matched) or unwilling or unable to pursue allogeneic stem cell transplant
+Does not have a suitable matched related/sibling donor (MSD) or volunteer matched unrelated donor (MUD) available in the necessary time for stem cell donation
+Subjects with who have undergone a non-myeloablative allogeneic transplant, using a 3-6/6 HLA matched related donor
+Patients < 55 years (myeloablative regimen #1) or > 55 and =< 75 years or significant comorbidities (reduced intensity regimen #2) old lacking a matched related volunteer donor identified in time for transplant for which a related haploidentical donor (=< 7/8 allele match at the A, B, C, DR loci), a 7/8 allele matched related or unrelated donor is identified, or a matched unrelated donor (MUD); the patients must be diagnosed with high-risk disease as following:
+Matched unrelated donor must consent to provide a marrow allograft
+Matched (8/8) or mismatched (7/8) related, unrelated HCT
+Patient has a suitable and willing HLA-8/8 matched or 7/8 mismatched (at one allele) unrelated donor identified
+Patients must have a related or unrelated donor as follows:
+Availability of a suitable 8/8 HLA-A, -B, -C, and -DRB1-matched unrelated mPB donor;
+Patients who have undergone allogeneic HSCT in CR1 from a matched related or matched unrelated donor. All of the following criteria must also be met:
+Histocompatible donor identified:\r\n* Related donor or unrelated donor matched 5/6 or better (A, B, DRB1)
+Available matched unrelated donor
+Donor choices per matched unrelated donor (MUD) committee according to center standard operating procedure (SOP)
+Recipients of 8-7/8 HLA-matched donor; post-HSCT period within day +100 to day +150
+Patients must have an available 8/8 HLA-A, -B, -C, and -DRB1 matched-related or unrelated donor allogeneic hematopoietic peripheral blood stem cell graft
+Planned recipient of a first kidney allograft from an HLA-matched, living related donor
+Patient plans on receiving stem cells from a matched (8/8) related donor
+Clinical justification of allogeneic stem cell transplantation where a suitable HLA matched sibling or unrelated donor is unavailable in a timely manner. An unrelated donor search is not required for a patient to be eligible if the clinical situation dictates an urgent transplantation. Clinical urgency is defined as 6-8 weeks from referral to transplant center or low likelihood of finding a matched unrelated donor
+Availability of a fully matched related or unrelated donor following a donor search
+HLA-matched, related or 7-or 8/8 allele matched (HLA-A,-B,-Cw,-DRBl) unrelated donor able to donate.

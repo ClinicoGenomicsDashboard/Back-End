@@ -1,0 +1,44 @@
+Platelet count (PLT) >= ,/uL (>=  X ^/L), within  days of registration
+Obtained =<  days prior to registration: Platelet (PLT) >= ,/mm^
+Platelet count , (plt/mm)
+Platelet count (PLT) < ,/ul or
+Platelet (PLT) count greater than or equal to ,/L
+Platelet count (PLT) > ,/L
+Platelet count (PLT) > ,/mm^
+Platelet (PLT) > ,
+Platelet (Plt) < ,/mm^
+Platelet count (PLT) >= ,/mm^ (measured within  days of registration)
+Platelet (PLT) =< K
+Platelet (PLT) count >= ,/mm^
+Platelet (PLT) count >  K/uL
+Platelet (Plt) >= ,/uL
+Platelet count >= , (platelets [plt]/mm^), (CTCAE grade  baseline)
+Platelet (PLT) >= ,/mm^
+Platelet (PLT) >=  K/CUMM
+Within  months of registration: Platelet count (plt) >= ,/uL
+Platelet count (Plt) ?  x /L
+Platelet (PLT) >  x ^/L
+Platelet (PLT) count >= ,/mm^
+Platelet count (PLT) >=  x ^/L; PLT count less than  x ^/L if cytopenia is due to extensive bone marrow involvement of disease as determined by the treating physician
+Platelet (Plt) >= ,
+Platelet (PLT) >= ,/mcL
+Platelet count (PLT) >= ,/mm^
+Platelet count >= , plt/mm^
+Platelet (PLT) >= ,
+Platelet (PLT) count ? ,/L
+Platelet count (PLT) >= ,/mm^
+Platelet count (PLT) > ,/mm^
+Platelet (PLT) = ,/uL
+Platelet count ?, (plt/mm) (CTCAE Grade  baseline)
+Platelet (PLT) count >= ,/mm^
+Platelet count (PLT) >= ,/mm^
+Platelet (PLT) >= ,/mm^
+Platelet (PLT) >= ,/uL
+Platelet (PLT) count >= K/uL, unless attributed to marrow infiltration with CLL
+Platelet (PLT) >= ,/uL
+Platelet count (Plt) >= ,/uL
+Platelet (PLT) count ? ,/microliter
+Peripheral platelet count (PLT) >= ,/mm^
+Peripheral platelet count (PLT) >= ,
+Platelet count (PLT) >= ,/mm^
+Platelet count (PLT) >  K/uL

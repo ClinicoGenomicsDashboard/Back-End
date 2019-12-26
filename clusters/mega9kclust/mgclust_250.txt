@@ -1,0 +1,6 @@
+Cluster 99: organ transplant allogeneic history major patients primary immunodeficiency having hematopoietic 
+Cluster 182: source stem donor blood cell cells peripheral marrow hematopoietic unrelated 
+Cluster 1144: hematopoietic transplant stem cell autologous prior allogeneic months received relapse 
+Cluster 1747: comorbidity index ci hct score hematopoietic age transplant cell years 
+Cluster 1868: myeloablative transplant conditioning stem months hematopoietic cell non allogeneic prior 
+Cluster 2457: allo hsct sct hct post cell gvhd stem transplant allogeneic 

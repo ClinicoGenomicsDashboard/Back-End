@@ -1,0 +1,42 @@
+Absolute neutrophil count (ANC) >= , microliter (mcL)
+Absolute neutrophil count ? ,/microliter (uL)
+Platelet count >= , x ^/microliter
+Absolute neutrophil count (ANC) >= , microliter (mcL)
+Absolute neutrophil count >= ,/microliter
+Platelet count >= ,/microliter
+Absolute neutrophil count >=  per microliter
+Absolute neutrophil count (ANC) >= ,/microliter
+Absolute neutrophil count >= , microliter
+absolute neutrophil count greater than or equal to , cells/microliter
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count (ANC) ? /microliter
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count > /microliter
+Platelet count > ,/microliter
+Absolute neutrophil count >= /microliter (mcL)
+Absolute neutrophil count (ANC) >= /microliter
+Absolute neutrophil count less than  per microliter.
+Absolute neutrophil count of >  per microliter
+Platelet count > , per microliter
+Platelet count >= ,/microliter
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count less than /microliter
+Platelet count less than ,/microliter
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count >= ,/microliter
+Neutrophils (absolute neutrophil count [ANC]) >= ,/microliter
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count >= ,/microliter
+Leukocyte count >= ,/microliter
+Platelet count >= ,/microliter
+Absolute neutrophil count >= ,/microliter
+Leukocyte count >= ,/microliter obtained =<  days prior to randomization
+Absolute neutrophil count >= ,/microliter obtained =<  days prior to randomization
+Absolute neutrophil count >= ,/microliter
+Absolute neutrophil count >= ,/microliter

@@ -1,0 +1,31 @@
+Total bilirubin >= 1.5 mg/dL (> 26 mol/L, SI unit equivalent)
+Serum total bilirubin ? 2.0 mg/dL (34 ?mol/L). In the case of Gilbert's syndrome, or documented liver or pancreatic involvement by lymphoma, serum total bilirubin must be ? 5.0 mg/dL (86 ?mol/L).
+Adequate organ function defined as absolute neutrophil count ?1,500×10^6/L, absolute lymphocyte count ?500/mm^3, and platelet count ?100,000×10^6/mm^3. Adequate liver function defined as aspartate aminotransferase and alanine aminotransferase ?2.5× the upper limit of institutional normal, bilirubin ?1.5 mg/dL or 25 µmol/L. Adequate renal function defined as blood urea nitrogen and serum creatinine of ?1.5 mg/dL or 130 µmol/L.
+NIH Stage 2 or higher acute GVHD of the liver (i.e., bilirubin > 3 mg/dL [SI: > 51 ?mol/L]) within 7 days prior to Day 1
+ALT > 5x ULN, AST > 5x ULN, or total bilirubin > 3 mg/dL [SI: > 51 ?mol/L] within 7 days prior to Day 1
+Serum creatinine level ?2.5 mg/dL (221 ?mol/L)
+Total bilirubin =< 1.5 mg/dL (25.65 mol/L)
+Adequate organ function as defined below: • Liver function: a. Total bilirubin < 2.0 mg/dL (34 µmol/L) b. AST and/or ALT <3 x ULN
+Creatinine > 177 ?mol/L (> 2 mg/dL) at screening
+Serum total bilirubin <2.0 mg/dL (34 µmol/L)
+Renal insufficiency: serum creatinine > 173 µmol/l
+Total bilirubin >= 1.5 mg/dL (> 26 mol/L, International System of Units [SI] unit equivalent)
+Adequate hepatic function, with serum ALT ? 3times the upper limit of normal and\n             serum direct bilirubin ? 2 mg/dL (34 µmol/L) within 14 days prior to randomization
+Serum creatinine 6 months to 1 year: male 0.6 mg/dL (53 µmol/L) female 0.5 mg/dL (44 µmol/L)
+Serum creatinine 1 to < 2 years: male 0.6 mg/dL (53 µmol/L) female 0.6 mg/dL (53 µmol/L)
+Serum creatinine 2 to < 6 years: male 0.8 mg/dL (71 µmol/L) female 0.8 mg/dL (71 µmol/L)
+Serum creatinine 6 to <10 years: male 1 mg/dL (88 µmol/L) female 1 mg/dL (88 µmol/L)
+Serum creatinine 10 to <13 years: male 1.2 mg/dL (106 µmol/L) female 1.2 mg/dL (106 µmol/L)
+Serum creatinine 13 to <16 years: male 1.5 mg/dL (133 µmol/L) female 1.4 mg/dL (125 µmol/L)
+Serum creatinine ?16 years: male 1.7 mg/dL (150 µmol/L) female 1.4 mg/dL (125 µmol/L)
+Serum creatinine ? 2.0 mg/dL or 177 µmol/L
+Subject has creatinine > 2 mg/dL (177 ?mol/L).
+Creatinine > 2 mg/dL (177 µmol/L) at screening;
+Creatinine > 2 mg/dL (177 µmol/L), dialysis or prior renal transplant;
+Serum creatinine < 2.0 mg/dL or 177 ?mol/L
+Creatinine > 177 ?mol/L (> 2 mg/dL) at screening.
+Serum creatinine level >200 µmol/L in case platelet count is > 30×10E9/L
+Bilirubin >=1.5 mg/dL (> 26 mol/L, International System [SI] unit equivalent)
+Adequate renal function as evidenced by serum creatinine ? 2.0 mg/dL (177 µmol/L)
+Patients with a serum creatinine > 2 mg/dL (177 µmol/L) [Exception: Patients with a serum creatinine > 2 mg/dL (177 µmol/L) and being treated with continuous renal replacement therapy (Continuous Veno-Venous Hemodialysis and CVVHemoDiafiltration) or daily hemodialysis will receive the aerosol study drug treatment]
+Adequate hepatic function, with serum ALT ? 3.5 times the upper limit of normal and serum direct bilirubin ? 2 mg/dL (34 µmol/L) within 21 days prior to randomization

@@ -1,0 +1,1005 @@
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1)
+Cohort 1 (NSCLC cohort) \r\n* In regards to administration of prior anti-PD-1 or anti PD-L1 antibodies, a patients:\r\n** Must not have experienced a toxicity that led to permanent discontinuation of prior immunotherapy\r\n** All adverse events (AEs) while receiving prior immunotherapy must have completely resolved or resolved to baseline prior to screening for this study\r\n** Must not have experienced a >= grade 3 immune related AE or an immune related neurologic or ocular AE of any grade while receiving prior immunotherapy; NOTE: subjects with endocrine AE of =< grade 2 are permitted to enroll if they are stably maintained on appropriate replacement therapy and are asymptomatic\r\n** Must not have required the use of additional immunosuppression other than corticosteroids for the management of an AE, not have experienced recurrence of an AE if re-challenged, and not currently require maintenance doses of > 10 mg prednisone or equivalent per day\r\n* Eligibility for Food and Drug Administration (FDA)-approved agents targeting the EGFR, ROS1 or ALK pathway, which should be evaluated as per standard of care; exceptions to this requirement may be considered on a case-by-case basis by the principal investigator if the patient was previously treated with another targeted agent
+Unresolved toxicity (i.e., > grade 1 or above baseline) due to previously administered agents; exception includes: subjects with =< grade 2 neuropathy are eligible for the study
+Residual CTCAE ? Grade 2 toxicity from any prior anticancer therapy, with the exception of Grade 2 alopecia or Grade 2 neuropathy
+All adverse events grade > 1 related to prior therapies (chemotherapy, radiotherapy, and/or surgery) must be resolved, except for alopecia
+Antibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1
+Patients with grade 3 ataxia or grade >1 extrapyramidal movement disorder are not eligible
+>= 21 days must have elapsed from infusion of lase dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1
+Patients who have not recovered from adverse events due to prior anti-cancer therapy to grade 1 or baseline; patients with stable, controlled grade 2 adverse events (AEs) such as peripheral neuropathy, hypothyroidism, hypertension, adrenal insufficiency or alopecia are allowed after discussing with the PI
+Any grade I DCIS
+Any grade II DCIS without comedonecrosis
+Grade II DCIS with comedonecrosis
+Prior to randomization patients with any non-hematologic toxicity from surgery, chemotherapy, or radiation must have recovered to grade =< 1 with the exception of alopecia and the criteria outlined
+Patients must not have experienced a grade 3 or worse immune-related adverse event (irAE) (except asymptomatic nonbullous/nonexfoliative rash) or any unresolved irAE grade 2, nor have experienced a toxicity that led to permanent discontinuation of prior anti-PD-1/PD-L1 immunotherapy
+Patients who had prior grade 3 or higher immune-related adverse event (e.g. pneumonitis, hepatitis, colitis, endocrinopathy) with prior immunotherapy (e.g. cancer vaccine, cytokine, etc.) are not eligible
+Patients must have recovered to =< grade 2 following a significant adverse event or toxicity attributed to previous anti-cancer treatment except neurotoxicity which must be =< grade 1
+Prior to randomization patients with any non-hematologic toxicity from surgery, chemotherapy and radiation therapy must have recovered to grade =< 1 with the exception of alopecia, ototoxicity and neuropathy
+Patients must have recovered from adverse events (toxicities resolved to grade 1 or less) of prior therapy; patients with immune related toxicities from ipilimumab + nivolumab may continue onto Step 2 even if still on steroids to control side effects, so long as toxicity has resolved to grade 1 or less
+All adverse events associated with any prior surgery and intravesical therapy must have resolved to grade =< 2 prior to registration
+All non-hematologic treatment related toxicities that are deemed clinically significant by the treating investigator must have resolved to =< grade 2
+Registration Step 3 – Maintenance: All non-hematologic treatment related toxicities that are deemed clinically significant by the treating investigator must have resolved to =< grade 2
+Antibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1
+CNS toxicity =< grade 2
+Grade 2 or greater rash of any cause at time of study entry
+Grade 2 or greater diarrhea of any cause at time of study entry
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Treatment-related toxicity from prior therapy > grade 2
+Patient has an unresolved ? Grade 2 adverse event (AE) from a previous antineoplastic treatment, excluding alopecia and phlebitis
+Persistent clinically significant toxicities (>= CTCAE version [v.] 4.0 grade 2) caused by previous cancer therapy, with the exception of alopecia
+Ongoing toxic manifestations of previous treatments. Exceptions to this are alopecia or certain Grade 1 toxicities, which in the opinion of the investigator should not exclude the participant a. Any known history of Grade 4 thrombocytopenia with any prior chemotherapy regimen
+Any prior >= grade 4 immune-related adverse event while receiving immunotherapy; patients will be excluded if experiencing any unresolved grade 3 immune related adverse events at the time of study entry; participants with a history of hypersensitivity to compounds of similar biologic composition to tremelimumab or any constituent of the product
+Unresolved toxicities from prior anticancer therapy that have not resolved to CTCAE, version 4.0, grade =< 1 or baseline, with the exception of alopecia and laboratory values listed
+Treatment with chemotherapy or investigational drugs within 21 days prior to the screening visit. Acute toxicities from prior therapy must have resolved to Grade ? 1 above baseline.
+With the exception of alopecia or toxicities related to the use of gonadotropin-releasing hormone agonists any unresolved toxicities from prior therapy greater than CTCAE grade 1 at time of study treatment
+Any ongoing toxicity from prior anti-cancer therapy that is > Grade 1 (except hemoglobin value) and/or that is progressing in severity, except alopecia
+9. Unresolved toxicities from prior anticancer therapy defined as having not resolved to baseline or to Grade 0 or 1, or to levels dictated in the inclusion/exclusion criteria with the exception of alopecia;
+The interval between last nivolumab or pembrolizumab and start of study treatment should be at least 21 days with no residual anti-PD-1-related immune toxicities in excess of Grade 1 severity.
+Patients with a history of Grade 3-4 capillary leak syndrome, or non-cardiac Grade edema are ineligible, e.g., related to SL-401 or other etiology
+Note: Subjects with ? Grade 2 neuropathy or ? Grade 2 alopecia are an exception to this criterion and may qualify for the study.
+Has not recovered from the adverse effect of previous anticancer treatments to pre-treatment baseline or Grade 1 except for alopecia, anemia (hemoglobin must meet the study inclusion criteria) and peripheral neuropathy (which must have recovered to ? Grade 2).
+Adverse events from prior anti-cancer therapy resolved to Grade < or = 1, except any grade alopecia and/or peripheral sensory or motor neuropathy which must have resolved to Grade < or = 2
+Resolution of toxicity from prior anti-cancer therapy, to NCI CTCAE v4.03 Grade 0 or 1, except for alopecia. Subjects may be enrolled if their toxicity is determined to be irreversible and will not put them at undue risk from study treatment, based on the Investigator's assessment.
+Recovery to =< grade 1 or baseline of any toxicity due to prior systemic treatments, excluding alopecia
+Unresolved toxicities from prior antitumor therapy, defined as not having resolved to CTCAE, version 4.0 grade 1 (with the exception of myelosuppression, eg, neutropenia, anemia, thrombocytopenia), or to levels dictated in the eligibility criteria with the exception of alopecia or toxicities from prior antitumor therapy that are considered irreversible (defined as having been present and stable for > 2 months) which may be allowed if they are not otherwise described in the exclusion criteria AND there is agreement to allow by both the investigator and sponsor.
+Ongoing adverse event from previously administered systemic anti-cancer therapy unless has recovered to =< grade 1 or at baseline prior to C1D1\r\n* Subjects with any grade alopecia or =< grade 2 neuropathy are an exception to this criterion and may qualify for the study
+Adverse events from prior anti-cancer therapy that have not resolved to Grade ? 1. Clinically stable patients with manageable immune-related adverse events resulting from prior cancer immunotherapy may be eligible for the study.
+Must not have experienced any ? Grade 3 AE nor any neurologic or ocular AE of any grade while receiving prior checkpoint inhibitors.
+Subject has toxicity from previous anticancer therapy that has not recovered to ? Grade 1 or to their baseline level of organ function prior to enrollment (except for non-clinically significant toxicities, e.g., alopecia, vitiligo).
+Subjects with Grade 2 toxicities that are deemed stable or irreversible (e.g. peripheral neuropathy) can be enrolled on a case-by-case basis with prior consultation and agreement with the Sponsor Study Physician.
+Residual side effects to previous therapy > grade 1 prior to randomization (Alopecia any grade and/or neuropathy grade 2 without pain are permitted)
+>= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1
+CNS toxicity =< grade 2
+Grade 3b FL
+Unresolved acute toxicity from prior anticancer therapy
+At least two weeks from last systemic therapy for breast cancer, with recovery of all treatment related toxicity to grade 1 or less; subjects with =< grade 2 neuropathy are an exception to this criterion
+At least two weeks from last radiation therapy, with recovery of all treatment related toxicity to grade 1 or less (excluding alopecia)
+At least 2 weeks since the last systemic therapy regimen prior to enrollment. Subjects must have recovered to NCI CTCAE v4.03 Grade 1 or less from all acute toxicities (excluding Grade 2 toxicities that are not considered a safety risk by the Sponsor and Investigator) or toxicity must be deemed irreversible by the Investigator.
+Grade >1 gastrointestinal toxicity that cannot be managed with supportive care measures.
+Unresolved toxicity from prior chemotherapy (subjects must be recovered to ? Grade 1 toxicity from previous anticancer treatments or previous investigational products.
+Patient has had a prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Subject has any Grade ? 2 persistent non-hematological toxicity related to allotransplant
+All ACT related toxicities resolved to grade 1 with the exception of alopecia, vitiligo and endocrine abnormalities requiring replacement therapy which may be grade 2
+At least 1 week since the last systemic therapy regimen prior to Cycle 1 Day 1. Subjects must have recovered to NCI CTCAE v. 4.03 < Grade 2 from all acute toxicities (excluding Grade 2 toxicities that are not considered a safety risk by the Sponsor and Investigator) or toxicity must be deemed irreversible by the Investigator.
+All clinically significant toxicities from prior systemic therapy must be =< grade 1 (with the exception of alopecia, endocrinopathies associated with prior immunological therapies as long as they are stable with replacement therapy, and peripheral neuropathy, which may be =< grade 2)
+Unresolved chronic toxicity > grade 1 from prior therapy
+All associated clinically significant toxicity from previous cancer therapy must be resolved (to ?Grade 1 or baseline) prior to study treatment administration (Grade 2 alopecia is allowed).
+Participants must have recovered to grade =< 1 or pretreatment baseline from clinically significant adverse events related to prior therapy (exclusions include but are not limited to alopecia, laboratory values listed per inclusion criteria and lymphopenia)
+Major surgery or treatment with any chemotherapy, radiation therapy, biologics for cancer or investigational therapy in the 28 days before the first dose of study treatment (subjects with prior cytotoxic or investigational products <3 weeks prior to study treatment might be eligible after discussion between the Investigator and Medical Monitor, if toxicities from the prior treatment have been resolved to NCI CTCAE Grade 1). All toxicities attributed to prior anti-cancer therapy other than alopecia and fatigue must have resolved to Grade 1 or baseline before the first dose of study treatment. Subjects with toxicities attributed to prior anti-cancer therapy which are not expected to resolve and result in long lasting sequelae, such as neuropathy after platinum based therapy, are permitted to enrol
+Persistent toxicities (>= CTCAE grade 2) with the exception of alopecia, caused by previous cancer therapy
+Failed to recover from the reversible effects of prior anticancer therapies with the exception of alopecia and grade 2 neuropathy
+Antibodies: >= 21 days must have elapsed from infusion of last dose of antibody, and toxicity related to prior antibody therapy must be recovered to grade =< 1
+Recovery to =< grade 1 or baseline of any toxicities due to prior systemic treatments, excluding alopecia
+Participants must have fully recovered (grade =< 1 or baseline or deemed irreversible) from any clinically significant acute toxicity related to prior therapy (with the exception of lymphopenia, which is common after therapy with temozolomide); patients who discontinued bevacizumab previously due to a bevacizumab-related toxicity will not be allowed to participate
+Patients in whom prior treatment related toxicities have not recovered to grade 1 or less (except for alopecia)
+Has an EGFR TKI- related toxicity that has NOT resolved to Grade 1 or less.
+Has not recovered from reversible toxicity of prior anticancer therapy (except toxicities which are not clinically significant such as alopecia, skin discoloration, or Grade 1 neuropathy)
+Recovery to Grade 1 or baseline of any toxicity due to prior systemic treatments or radiotherapy (excluding alopecia).
+Grade 2 or greater toxicities due to previous therapies, subject to laboratory abnormalities listed below. Stable, tolerable Grade 2 adverse events may be allowed at discretion of Investigator
+Not recovered to less than or equal to Grade 1 toxicities (except Grade 2 alopecia or neuropathy) associated with previous cancer therapies
+Has unresolved toxicities from previous anticancer therapy, defined as toxicities (other than alopecia) not yet resolved to NCI-CTCAE v4, grade =< 1 or baseline. Subjects with chronic grade 2 toxicities may be eligible per the discretion of the Investigator and Sponsor (eg, grade 2 chemotherapy-induced neuropathy).
+A life-threatening (Grade 4) immune-mediated adverse event related to prior immunotherapy.
+Failure to recover from any immune-related toxicity from prior cancer therapy to ? Grade 1.
+Failure to recover from any other toxicity (other than immune-related toxicity) related to previous anticancer treatment to ? Grade 2.
+All acute toxic effects of any prior antitumor therapy resolved to Grade ?1 before baseline, with the exception of alopecia and neurotoxicity (CTCAE Grade 1 or 2 permitted).
+Patients must have recovered to eligibility levels from prior toxicity or adverse events as a result of previous treatment prior to entering the study (except alopecia).
+Participants must not have experienced a grade >= 3 immune-related adverse event (AE) or an immune-related neurologic or ocular AE of any grade while receiving prior immunotherapy, or experienced a toxicity of any grade that led to permanent discontinuation of prior immunotherapy as a result of the toxicity. Participants with prior endocrine adverse events of grade =< 2 are permitted to enroll if stably maintained on appropriate replacement therapy and are asymptomatic. In the setting of prior immune-related AE, participants must not have required the use of additional immunosuppressive agents other than corticosteroids for the management of the adverse event(s), not have experienced recurrence of the adverse event if re-challenged, and not currently requiring maintenance doses of > 10 mg of prednisone or equivalent per day at the time of enrollment.
+The subjects who have not recovered to baseline or CTCAE ? Grade 1 from related toxicity to all prior therapies will be excluded. Patients with Non-serious adverse events such as alopecia, fatigue, weakness, loss of appetite and nausea that are non-significant will not be excluded.
+Resolution of all chemotherapy-related or radiation-related toxicities to grade 1 severity or lower, except for stable sensory neuropathy (=< grade 2 allowed) and alopecia (of any grade)
+Participants who have not recovered to =< CTCAE grade 1 or baseline from toxicity as a result of previous cancer treatment prior to entering the study (with the exception of alopecia and peripheral neuropathy which can be =< grade 2)
+Previous immunotherapy/monoclonal antibody use must be completed at least 4 weeks or 4 half lives, whichever is longer prior to administration of TAK-580; in addition, radiation therapy to the target lesion must be completed at least 6 months prior to administration of TAK-580; all associated toxicity from previous therapies must be resolved to ? grade 1 or considered baseline prior to administration of TAK-580
+Chemotherapy, radiotherapy, and/or biological cancer therapy within 3 weeks prior to the first trial dose or has not recovered to CTCAE v.4 grade 1 or better from adverse events (except alopecia).
+Active colitis or previous immune-mediated colitis that has not resolved to grade 1 or less.
+Acute toxicities from any prior anti-tumor therapy, surgery, or radiotherapy that has not resolved to Grade </=2, except alopecia
+Patient must have recovered to Grade 1 toxicity from prior cancer therapy
+Subjects must have resolution of toxic effect(s) from prior therapy to Grade 1 or less. Subjects with ? Grade 2 neuropathy or alopecia are an exception to this criterion. If a subject received major surgery or radiation therapy of > 30 Gy, they must have recovered from the toxicity and/or complications from the intervention to Grade 1 or less
+Patients must have recovered from adverse events (greater than grade 1) due to prior anticancer therapy, except for stable chronic toxicities such as alopecia
+Any prior >= grade 3 immune-related adverse event (irAE) while receiving immunotherapy, or any unresolved irAE > grade 1
+Any adverse events related to previous therapies for breast cancer that have not resolved to ?Grade 1.
+Toxicities due to prior therapy must be stable and recovered to =< grade 1 (except for clinically non-significant toxicities, such as alopecia, nutritional support measures, electrolyte abnormalities, or those not impacting the investigator’s ability to assess treatment emergent toxicities)
+Grade > 2 toxicity (other than alopecia) continuing from prior anti-cancer therapy
+Grade >= 2 toxicity (other than alopecia) continuing from prior anti-cancer therapy
+Any anti-cancer treatment (except for radiation therapy) within 21 days, or any investigational agent within 30 days prior to the first dose of study drug; participants should have recovered from any toxicity related to previous anti-cancer treatment to Common Toxicity Criteria (CTC) grade 0 or 1.
+ENROLLMENT TO THE DOSE ESCALATION, EXPANSION AND PART II: Patients must have recovered to =< grade 1 in terms of toxicity from prior treatments (excluding neuropathy which can be =< grade 2, and alopecia)
+All toxicities (except alopecia) from prior cancer treatments must have resolved to ? Grade 1 or returned to baseline levels prior to enrollment
+Cohorts 1, 2, and 3: Patients with low-grade ovarian cancer (eg, low grade serous, mucinous carcinoma) are not eligible
+Must not have experienced a Grade ?3 immune-related AE or an immune-related neurologic or ocular AE, pneumonitis or cardiomyopathy of any grade while receiving prior immunotherapy.
+Subjects with known persistent (> 4 weeks) >= grade 2 toxicity from prior cancer therapy
+Subjects with known >= grade 3 hematological toxicity with the last chemotherapy regimen
+Any history of a prior >= grade 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent
+There are no limits on prior lines of therapy; however, patients must have recovered to eligibility levels from prior toxicity or adverse events as a result of previous treatment prior to entering the study (except alopecia)
+Resolution of all chemotherapy-related or radiation-related toxicities to grade 1 severity or lower, except for stable sensory neuropathy (=< grade 2) and alopecia
+Patients currently receiving other anti-melanoma treatment; toxicities attributable to any prior therapy must have resolved to grade 1 or better prior to enrollment
+Patients with grade > 1 neuropathy or grade > 1 toxicity (except alopecia or anorexia) from prior therapy
+Washout of at least 3 weeks from prior chemotherapy or targeted therapy that induces myelosuppression and recovery of treatment related adverse events to grade 1 or less, with the exception of alopecia, is required prior to the start of palbociclib
+Received prior chemotherapy, an immune checkpoint inhibitor, or radiation therapy within 2 weeks prior to study registration or who has not recovered (i.e., ? Grade 1 or at baseline) from adverse events from previously administered agents. NOTE: Subjects with alopecia, grade ? 2 sensory neuropathy or other grade ? 2 AEs not constituting a safety risk based on investigator judgement are an exception to this criterion and can still be considered for the study.
+> = 21 days must have elapsed from infusion of last dose of antibody and toxicity related to prior antibody therapy must have recovered to Grade <= 1.
+Presence of any of the following conditions, which are risk factors for RVO: Uncontrolled glaucoma with intraocular pressure >21 millimetres of mercury (mm Hg); Serum cholesterol >/=Grade 2; Hypertriglyceridemia >/=Grade 2; Hyperglycemia (fasting) >/=Grade 2; Grade >/=2 uncontrolled hypertension (participants with a history of hypertension controlled with anti-hypertensive medication to Grade </=1 are eligible)
+All acute, clinically significant treatment-related toxicity from prior therapy, except for alopecia, must have resolved to grade =< 1 prior to study entry
+Grade > 1 toxicity from prior therapy (except alopecia or anorexia)
+Patients must have resolution of toxic effect(s) of the most recent prior chemotherapy to grade 1 or less (except alopecia)
+Grade 3 or higher toxicity effects from previous treatment with immunotherapy
+Unresolved toxicity higher than CTCAE (v. 4.03) Grade 1 attributed to any prior therapy/procedure excluding alopecia and hypothyroidism;
+Have not recovered from toxicity of prior therapy defined as a return to < grade 1 at the time of dose assignment, graded according to CTCAE v4.03 (excluding alopecia, neuropathy, and lymphopenia)
+Unresolved toxicity higher than CTCAE grade 1 attributed to any prior therapy/procedure excluding alopecia
+History of grade 4 immune-related adverse events requiring treatment with prednisone, or grade 3 immune-related adverse events requiring prednisone > 10 mg/kg for > 12 weeks, if previously treated with ipilimumab
+At least 1 week since the last systemic therapy regimen prior to Cycle 1 Day 1. Subjects on a stable dose of hydroxyurea for at least 2 weeks prior to Cycle 1 Day 1 may continue on hydroxyurea until Cycle 1 Day 7. Subjects must have recovered to NCI CTCAE v. 4.03 < Grade 2 from all acute toxicities (excluding Grade 2 toxicities that are not considered a safety risk by the Sponsor and Investigator) or toxicity must be deemed irreversible by the Investigator.
+Patient has not recovered (i.e., =< grade 1 or baseline) from adverse events due to prior anti-cancer therapy;\r\n* Note: patients with =< grade 2 neuropathy are eligible
+Patient has had a prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+With the exception of alopecia, any unresolved toxicities from prior therapy greater than CTCAE Grade 1 at the time of starting study treatment.
+Patients with history of any grade 4 toxicity during previous anti PD-1 treatment or history of grade 3 or higher pneumonitis
+Have had any prior Grade ?3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, have any unresolved irAE Grade >1, or any irAE that led to the permanent discontinuation of prior immunotherapy.
+Have experienced a Grade ?3 AE or a neurologic or ocular AE of any grade while receiving prior immunotherapy.
+Experienced resolution of toxic effect(s) of the most recent prior anti-cancer therapy to Grade <1 (except alopecia or neuropathy).
+Histologically confirmed low grade (grade 1 or grade 2) noninvasive (Ta) urothelial carcinoma of the bladder with a new recurrence that meets the following criteria:\r\n* Total tumor burden =< 3 cm in size (multiple lesions permitted)\r\n* Low grade appearance (grade 1 or grade 2)\r\n* Noninvasive appearance (Ta)\r\n* No history of carcinoma in situ (CIS) within the last 3 years or lesions concerning for CIS\r\n* Negative urine cytology (atypical or suspicious for low grade neoplasm are considered negative) within 5 years\r\n* Eligible for surgery\r\n* Urothelial carcinoma of the bladder recurrence can be confirmed by either cystoscopic visual evaluation or histologic evaluation of a biopsy sample
+The patient has persistent clinically significant ?Grade 2 toxicities from previous anticancer therapy (excluding Grade 2 chemotherapy-related neuropathy which is permitted, and excluding Grade 2-3 laboratory abnormalities if they are not associated with symptoms, are not considered clinically significant by the Investigator, and can be managed with available medical therapies).
+Recovery to grade ? 1 or to baseline from any adverse event (AE) derived from previous treatment (excluding alopecia and/or cutaneous toxicity and/or peripheral neuropathy and/or fatigue grade ? 2).
+Unresolved toxicities from prior antitumor therapy, defined as not having resolved to CTCAE, version 4.0 grade 1
+Active esophagitis grade B or higher
+Unresolved CTCAE >Grade 2 toxicity (other than stable toxicity) from previous anti-cancer therapy excluding alopecia.
+Dehydration ? grade 1
+Toxicity from prior therapy (except alopecia) has resolved to ?Grade 1; in the event of toxicity that has not resolved to ?Grade 1 but is considered stable, the patient may be eligible after discussion among the investigator and sponsor's medical monitor.
+Have any unresolved chronic toxicity with CTC AE grade >= 2, from previous anti-NF1 therapy, except for alopecia
+Patients who have received prior chemotherapy, other ALK inhibitors, biologic therapy, or other investigational agents, must have recovered from all toxicities related to prior anticancer therapies to grade ?1 (CTCAE v 4.03). Patients with grade ? 2 peripheral neuropathy or any grade of alopecia, fatigue, nail changes or skin changes are allowed to enter the study
+Patients may have received prior chemotherapy, crizotinib (other ALK inhibitors are not allowed), biologic therapy or other investigational agents. Patients must have recovered from all toxicities related to prior anticancer therapies to grade ? 1 (CTCAE v 4.03). Patients with any grade of alopecia are allowed to enter the study.
+Toxicity related to any prior therapy must either have returned to =< grade 1 or baseline
+LOW GRADE B-NHL PATIENTS ONLY
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+Any prior grade >= 3 immune related adverse events immune-mediated adverse events (imAE) while receiving immunotherapy, including anti-cytotoxic T-lymphocyte protein 4 (CTLA4) treatment, or any unresolved imAE > grade 1; Note: active or history of vitiligo will not be a basis for exclusion
+Patients must have recovered all toxicities from prior therapy or radiation to grade 1 or less (excluding alopecia)
+Have not recovered to ? Grade 1 toxicity from previous anticancer treatments or previous IPs.
+More than two weeks must have elapsed since any prior palliation for major bronchial occlusion or bleeding at the time the patient receives the preparative regimen, and patient’s toxicities must have recovered to a grade 1 or less
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); patients must have progressive disease after prior treatment; note: patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less
+Patient has recovered (to Grade ?1) from all clinically significant toxicities related to prior antineoplastic therapies (with the exception of alopecia)
+Serum cholesterol levels must be less than grade 2 (< 300 mg/dL), and serum triglyceride levels must be less than grade 2 (< 2.5 x ULN)
+Patients must be either intolerant or refractory to one or more standard line(s) of chemotherapy treatment prior to enrollment; toxicity from prior regimens must be resolved to less than or equal to grade 1 prior to enrollment; patients with grade 2 neurotoxicity may be enrolled on a case by case basis at the discretion of the principal investigator; patients should be off all treatment for at least 4 weeks prior to trial enrollment
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo)\r\n* Note: Patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less; patients may have undergone minor surgical procedures with the past 3 weeks, as long as all toxicities have recovered to grade 1 or less or as specified
+Ongoing prior toxicities related to previous treatments must be recovered to < grade 2 at the time of registration (with the exception of alopecia, grade 2 peripheral neuropathy or lymphopenia)
+Has known grade >= 3 docetaxel-related toxicities or docetaxel toxicity related dose interruption or discontinuation
+Symptomatic loco-regional disease that causes ongoing grade 3 or grade 4 urinary or rectal symptoms
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual drug related toxicities > grade 1) except for alopecia and grade 2 fatigue
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to grade 1 or less (except for toxicities such as alopecia or vitiligo).\r\n* Note: Patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less.
+Recovery from recent surgery, radiotherapy, chemotherapy or any other anti-cancer therapy to baseline or ? Grade 1 (other than alopecia); ? Grade 2 neuropathy allowed
+Any prior grade ? 3 immune-related adverse event (irAE) while receiving a prior immunotherapy agent, or any unresolved irAE > grade 1
+Grade >= 2 toxicity (other than alopecia) continuing from prior anticancer therapy, including radiation
+At least 3 half-lives must have elapsed since prior therapy that included a monoclonal antibody with the exception of blinatumomab; patients must have been off blinatumomab infusion for at least 7 days and all drug related toxicity must have resolved to grade 2 or lower as outlined in the inclusion/exclusion criteria
+Prior treatment-related toxicity resolved to =< grade 2 or baseline
+Patients with unresolved > Grade 1 toxicity associated with any prior antineoplastic therapy
+Residual side effects to previous therapy > Grade 1 prior to initiation of therapy (Alopecia any grade and/or neuropathy Grade 1 without pain are permitted)
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the immunization regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo)
+Toxicities related to prior therapy must have returned to Grade 1 or less, except for alopecia.
+Patient with any active immune toxicity of Grade 1 or greater or any other severe or Grade 3 treatment-related adverse event.
+Previous exposure to gemcitabine will only be allowed if there is no residual toxicity from previous treatments. Toxicity must be graded as 0 or 1 prior to study
+Inadequate recovery from adverse events related to prior therapy to grade ? 1 (excluding grade 2 alopecia and neuropathy)
+Acute, clinically significant treatment-related toxicity from prior therapy must have resolved to Grade </=1 prior to study entry
+At least 4 weeks after any prior chemoembolization, radioembolization, local ablative therapies, or hepatic radiation and recovery to =< grade 1 treatment-related toxicity
+At least 6 weeks after any major surgery including prior hepatic resection and recovery to =< grade 1 treatment-related toxicity
+At least 2 weeks after any prior palliative radiation (e.g. to focal metastatic lesion such as bone metastases) and recovery to =< grade 1 treatment-related toxicity
+Any unresolved toxicities from prior therapy greater than CTCAE grade 1 at the time of starting study treatment, with the exception of alopecia or neuropathy
+History of any of the following toxicities associated with a prior immunotherapy: \r\n* Grade > 3 immune mediated adverse event that was considered related to previous immunotherapy and required immune suppressive therapy\r\n* Immune mediated adverse event that was considered related to previous immunotherapy and is still > grade 1 with immune suppressive therapy
+Failure to recover to grade 1 or baseline from all toxic effects of previous chemotherapy, radiation therapy, biologic therapy, immunotherapy, and/or experimental therapy, with the exception of: alopecia, grade =< 2 peripheral neuropathy, grade =< 2 cetuximab-related rash or other skin changes, hypomagnesemia (acceptable values detailed below), hypokalemia (acceptable values detailed below), and the acceptable hematologic values summarized above; a washout period of 2 weeks from prior cetuximab is required; a washout period of 3 weeks from any prior cytotoxic chemotherapy, targeted therapy, immunotherapy or investigational drug is required
+Patients must have recovered from adverse events due to prior treatment to ? grade 1, except for alopecia and sensory neuropathy ? grade 2
+All acute toxic effects of any prior antitumor therapy resolved to ?Grade 1 before the start of study therapy (with the exception of alopecia [Grade 1 or 2 permitted], or neurotoxicity [Grade 1 or 2 permitted], or selected laboratory parameters [Grade 1 or Grade 2 permitted with exceptions as noted below]).
+Neuropathy as residual toxicity after prior antitumor therapy Grade >2
+All adverse events Grade > 1 related to prior therapies (chemotherapy, radiotherapy, and/or surgery) must be resolved to grade 1 or baseline, except for alopecia and sensory neuropathy Grade ? 2, or other Grade ? 2 not constituting a safety risk based on investigator's judgment, are acceptable.
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less; patients may have undergone minor surgical procedures within the past three weeks, as long as all toxicities have recovered to grade 1 or less
+For cohort 3, more than two weeks must have elapsed since any prior palliation for major bronchial occlusion or bleeding at the time the patient receives the preparative regimen, and patient’s toxicities must have recovered to a grade 1 or less
+Has unresolved toxicities from previous anticancer therapy
+Toxicities from previous anticancer therapies should have resolved to baseline levels or to Grade 1 or less except for alopecia or peripheral neuropathy
+Subject has not recovered from adverse reactions to prior cancer treatment or procedures (surgery, chemotherapy, immunotherapy, radiation therapy) to CTCAE Grade 2 or better.
+GENERAL: Adverse events (AEs) from prior anticancer therapy that have not resolved to grade =< 1 except for alopecia.
+Recovery to Grade 1 of any clinically significant toxicity (excluding alopecia) prior to initiation of study drug administration
+Persisting toxicity related to prior therapy >Grade 1
+All anticancer- and radiation therapy-related toxicities must be completely resolved or downgraded to Grade 1 or less (neuropathy may be Grade 2 or less).
+Patients must have recovered from adverse events attributable to previous treatment to =< grade 1, except for alopecia and sensory neuropathy =< grade 2
+Resolution of all chemotherapy or radiation-related toxicities to ? Grade 1
+Resolution of all clinically significant treatment-related, non-hematological toxicities, except alopecia, from any previous cancer therapy to =< grade 1 prior to the first dose of study treatment
+Systemic anti-cancer treatment within 2 weeks, and all ongoing adverse events resolved to grade ? 1
+In immunotherapy pretreated patients, any history of dose-limiting toxicity with prior immunotherapy agents, including grade 3/4 immune-related adverse events (irAEs); irreversible irAEs; grade >= 3 irAEs that did not respond to steroid rescue; or neurologic irAE with significant clinical sequelae
+Any toxicity (> CTCAE version 4 grade 3) from previous anti-cancer therapy that has not resolved to a grade 1; persistence of clinically relevant therapy related toxicity from previous chemo and/or radiotherapy; patients with irreversible toxicity that is not reasonably expected to be exacerbated by the investigational product may be included (e.g., hearing loss, peripherally neuropathy, alopecia)
+Recovery to baseline or =< grade 1 CTCAE v.4.0 from toxicities related to any prior treatments, unless adverse events (AEs) are clinically nonsignificant and/or stable on supportive therapy.
+The subject has not recovered to baseline or CTCAE =< grade 1 from toxicity due to all prior therapies except alopecia and other non-clinically significant AEs.
+Patients who experienced grade 3 or above skin toxicity from prior EGFR inhibiting therapy
+Residual or ongoing ? Grade 3 toxicity from chemotherapy
+Adverse events from prior anticancer therapy that have not resolved to grade =< 1 except for alopecia.
+Patients with unresolved > Grade 1 toxicity associated with any prior antineoplastic therapy
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the vaccine, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo)\r\n* Note: Patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1) except alopecia are ineligible
+All associated clinically significant drug-related toxicity from previous cancer therapy must be resolved prior to study treatment administration (alopecia is allowed).
+Persistent, unresolved ?Grade 2 clinically significant drug-related toxicity (except alopecia, erectile impotence, hot flashes, libido, neuropathy) associated with previous treatment
+Unresolved toxicities from prior antitumor therapy, defined as not having resolved to CTCAE, version 4.0 grade 1 (with the exception of myelosuppression, e.g., neutropenia, anemia, thrombocytopenia), or to levels dictated in the eligibility criteria with the exception of alopecia or toxicities from prior antitumor therapy that are considered irreversible (defined as having been present and stable for > 2 months) which may be allowed if they are not otherwise described in the exclusion criteria AND there is agreement to allow by both the investigator and sponsor
+All adverse events grade > 1 related to prior therapies (chemotherapy, radiotherapy, and/or surgery) must be resolved to grade 1 or baseline, except for alopecia and sensory neuropathy grade =< 2, or other grade =< 2 not constituting a safety risk based on investigator’s judgment, are acceptable
+Toxicity related to prior treatments must either have resolved to grade 1 or less, returned to baseline, or be deemed irreversible
+Has a diagnosis of active GvHD (>= grade I); patients with prior active GvHD that is quiescent (grade 0) at time of entry may be considered
+Dose escalation only: known grade 4 toxicity probably or definitely attributed to past irinotecan treatment
+Has been receiving erlotinib, gefitinib, or afatinib for at least 6 weeks with well-controlled related toxicities less than Grade 3 in severity at the time of screening period.
+Pre-existing and ongoing radiation-related grade 3 bowel or bladder toxicity
+Residual side effects to previous therapy > grade 1 prior to initiation of therapy (alopecia any grade and/or neuropathy grade 2 without pain are permitted)
+Have resolution of all previous treatment-related toxicities to Grade 1 severity or lower, except for stable sensory neuropathy (less than or equal to Grade 2) or alopecia. If subject received major surgery or radiation therapy of > 30 Gy, must have recovered from the toxicity and/or complications from the intervention.
+Patients with carcinosarcoma, mucinous, low grade endometrioid, or low grade serous histology evident on pretreatment biopsy
+Must have recovered (i.e., adverse event [AE] =< grade 1 or stable) from AEs due to a previously administered agent
+Radiation therapy =< 2 weeks prior to study entry; patients who have received prior radiotherapy must have recovered from toxicity (=< grade 1) induced by this treatment (except for alopecia)
+Toxicities due to prior therapy must be stable and recovered to =< grade 1 (except for clinically non significant toxicities such as alopecia)
+All prior treatment-related toxicities must be CTCAE (version 4.03) =< grade 1 (except alopecia) at the time of randomization
+Grade 3 or 4 non-hematological, treatment-related adverse event (AE)s
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1)
+Any unresolved toxicity (> CTCAE version [v]4 grade 2) from previous anti-cancer therapy; subjects with irreversible toxicity that is not reasonably expected to be exacerbated by the investigational product may be included (e.g., hearing loss, peripheral neuropathy)
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Patients must have recovered from treatment toxicities to =< grade 1 or to their pretreatment levels except for adverse events (AEs) that in the investigator’s judgment do not constitute a safety risk for the patient
+Adverse events (AEs) from prior anticancer therapy that have not resolved to grade =< 1 except for alopecia and neuropathy
+Grade 3 or above neuropathy induced from prior treatment, that is not resolved to grade 2 or below despite best supportive care
+have inadequate recovery* from adverse events resulting from previously-administered anti-cancer therapies; [*Note: Unless more specifically defined in Inclusion Criteria 6, 7 and 8 above, adequate recovery is defined as improvement to ? Grade 2 for any other hematologic toxicity and for peripheral neuropathy, and improvement to ? Grade 1 for any other non-hematologic toxicity.]
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo)
+More than 3 weeks must have elapsed since minor surgical procedures or limited field radiotherapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to grade 1 or less
+Existing severe major organ dysfunction, i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity >= grade 3 except for hearing loss, alopecia, anorexia, nausea, and hypomagnesemia from total parenteral nutrition (TPN), which may be grade 3
+Adverse events (AEs) from prior anticancer therapy that have not resolved to grade =< 1 except for alopecia
+Any unresolved toxicity (>= CTCAE grade 2) from previous anti-cancer therapy, excluding alopecia
+Participants with any prior >= grade 3 immune-related adverse event (irAE) which began while receiving immunotherapy
+Participants with any unresolved immune-related adverse event (irAE) at time of study entry\r\n* Note: Subjects with =< grade 2 thyroiditis and/or hypophysitis are an exception to this criterion and may qualify for the study
+Any unresolved >= grade 2 pulmonary toxicity from previous anti-cancer therapy
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Toxicities from previous anticancer therapies should have resolved to baseline levels or to Grade 1 or less except for alopecia or peripheral neuropathy
+Any unresolved grade 2 or higher toxicity from previous anti-cancer therapy
+Recovered from any toxicity to grade 2 or less from all prior chemotherapy, immunotherapy or radiotherapy and be at least 30 days past the date of their last treatment with the exception of mitotane which may be continued
+Recovered from any prior treatment related toxicity to at least Grade 1 with exception of Grade 2 alopecia or other Grade 2 toxicity with prior approval of the Medical Monitor
+Any prior immune-related adverse event (irAE) >= grade 2 while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+Patients will be excluded from study participation if they currently are known to have any of the following risk factors for RVO: a. Glaucoma with intraocular pressure >= 21 mmHg b. Grade >= 2 serum cholesterol c. Grade >= 2 hypertriglyceridemia d. Grade >= 2 or symptomatic hyperglycemia (fasting) e. Grade >= 2 uncontrolled hypertension (patients with a history of hypertension controlled with anti-hypertensive medication to grade =< 1 are eligible
+(For both cohorts A and B): Patients must have resolution of toxic effect(s) of the most recent prior chemotherapy to grade 1 or less (except alopecia)
+No more than grade 2 toxicity with last previous cycle of regorafenib mono therapy
+Patients must have recovered from toxicity related to prior therapy to at least grade 1 (defined by CTCAE 4.0) or baseline level. Chronic stable grade 2 peripheral neuropathy secondary to neurotoxicity from prior therapies may be considered on a case by case basis by the Principal Investigator.
+Patients with history of any Grade 3 or Grade 4 adverse events from prior ipilimumab therapy, if administered in the past.
+Recovery (i.e., to grade 1 or baseline) from all clinically significant adverse event (AE)s related to prior therapies (excluding alopecia, neuropathy, and nail changes)
+Unresolved toxicities from prior anticancer therapy, defined as having not resolved to NCI CTCAE grade =< 1 with the exception of alopecia and laboratory values listed per the inclusion criteria. Subjects with irreversible toxicity that is not reasonably expected to be exacerbated by the investigational product may be included (eg, hearing loss)
+History of grade 3 or higher immune-mediated adverse event (including AST/ALT elevations that where considered drug related and cytokine release syndrome) that was considered related to prior immune-modulatory therapy (e.g., checkpoint inhibitors, costimulatory agents etc.) or any grade immune-related adverse events (AEs) that required immune suppressive therapy
+Unresolved grade 2 or greater toxicity from most recent treatment, including chemotherapy, hormonal therapy, or radiotherapy, at the time of study enrollment
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Patient has had a prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Patient has had prior grade 4 infusion reaction to cetuximab
+Subjects with history of grade 3 toxicity or use of infliximab with prior immunotherapy
+All non-hematological toxicity of previous cancer therapy should have resolved to =< grade 1 (except alopecia or other toxicities not involving major organs)
+Only for subjects enrolled in Arm 2 - Neratinib and palbociclib: any prior neuropathy should be back to baseline or grade 1.
+Presence of grade 3 or greater toxicity from the previous treatment.
+Resolution of all treatment-related, non-hematological toxicities, except alopecia, from any previous cancer therapy to < grade 1 prior to the first dose of study treatment
+Patients who have residual toxicities > grade 2 attributed to taxane therapy, except for neuropathy, who are excluded if > grade 1
+Presence of unresolved toxicities from prior anticancer therapy, defined as having not resolved to NCI CTCAE v4.03 grade 0 or 1 with the exception of alopecia; subjects with irreversible toxicity that is not reasonably expected to be exacerbated by regorafenib (e.g. hearing loss, neuropathy) may be included after consultation with the principal investigator
+Prior treatment-related toxicities that have not resolved to ? Grade 1 before the date of study drug administration except for stable chronic toxicities (? Grade 2) not expected to resolve (eg, stable Grade 2 peripheral neurotoxicity).
+Existing major organ dysfunction, i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity >= grade 3, with the exception of hearing loss and hematologic toxicity
+Recovered from reversible toxicities of prior therapy to grade 0 or grade 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1.
+Adverse events (AEs) from prior anti-cancer therapy that have not resolved to grade =< 1 except for alopecia and neuropathy
+Adverse events (AEs) from prior anticancer therapy that have not resolved to grade =< 1 except for alopecia
+At least 2 weeks beyond prior treatment (chemotherapy, investigational drugs including small molecular inhibitors, endocrine therapy, immunotherapy and/or radiation therapy) or major surgery, and recovered from all acute toxicities to Grade 1 or less (except alopecia and peripheral neuropathy).
+Resolution of all toxicities from prior therapy to ?Grade 1 (or baseline) within 1 week prior to the first dose of study drug (excluding alopecia and ?Grade 3 clinically asymptomatic lipase, amylase, and creatine phosphokinase laboratory abnormalities).
+Ongoing clinically significant toxicity (Grade 2 or greater) associated with prior treatment (including radiotherapy or surgery).
+Patient must have completed prior chemotherapy at least 2 weeks (washout period) prior to randomization and recovered from toxicity to Grade 1 or baseline
+All side effects attributed to prior anti-cancer therapy must have resolved to Grade 1 or baseline
+Grade >= 3 non-hematologic toxicity from prior therapy that has not resolved to =< grade (G) 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Adverse events (AEs) from prior anticancer therapy that have not resolved to grade ? 1 except for alopecia
+History of grade 4 immune-related adverse events requiring treatment with prednisone or history of grade 3 immune-related adverse events requiring prednisone > 10 mg/kg for > 12 weeks
+Inadequate recovery from adverse events related to prior therapy to grade =< 1 (excluding grade 2 alopecia and neuropathy)
+All prior treatment-related toxicities resolved to =< grade 1 or are determined to be clinically stable by the investigator
+Subjects with low grade tumors (histologic grade 1/3)
+Adverse events from previous cancer therapies (excluding alopecia) must have recovered to grade 1 (CTCAE, most recent version). Stable grade 2 AEs such as endocrine conditions are allowed, and other chronic stable AEs may be considered on a case by case basis by the Principal Investigator.
+Grade 2 or higher pneumonitis
+Grade 4 AST or ALT elevation
+Participant has unresolved adverse events greater than grade 1 from prior anticancer therapy except for alopecia.
+At least 4 weeks (wks) since prior radiation or surgery with full recovery (no persistent toxicity >= grade 1)
+Recovery to =< grade 1 from all toxicities associated with prior therapy except alopecia
+Grade ?2 hypotension at screening
+Patients with active infection, un-resolving more than grade 2 transplant-related toxicities
+Is still experiencing toxicity related to prior treatment and assessed as Common Terminology Criteria for Adverse Events (CTCAE) grade > 1. Exceptions are alopecia and/or anorexia. The eligibility of patients who are still experiencing irreversible toxicity that is not reasonably expected to be exacerbated by the study drugs in this study (eg, hearing loss) must be reviewed and approved by both the principal investigator and medical monitor
+Has experienced immune-related adverse events (AEs) (irAEs) while receiving prior immunotherapy (including anti-CTLA4 treatment) and assessed as CTCAE grade >= 3
+Baseline toxicities from prior anti-cancer treatments > grade 1
+Recovered from any previous therapy related toxicity to =< grade 1 or baseline at study entry (except for stable sensory neuropathy =< grade 2 and alopecia)
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+For participants entering cohorts C or D, prior treatment-related toxicities should have resolved to grade 1 or baseline (with the exception of anemia (as per inclusion criteria, alopecia, and neuropathy [=< grade 2 allowed])
+Prior radiation or surgery must have completed at least 2 weeks prior to initiation of therapy and all toxicities or complications from these must have resolved to baseline or grade 1 prior to starting therapy (with the exception of anemia (as per inclusion criteria, alopecia, and neuropathy [=< grade 2 allowed])
+Any toxicity related to prior treatment must have resolved to Grade 1 or less, with the exception of alopecia and Grade 2, prior platinum-therapy related neuropathy
+Should be off any active therapy for AML with the exception of hydroxyurea for at least 14 days prior to study registration unless patient has rapidly progressive disease, and all grade 2-4 non-hematologic toxicities should have resolved
+Patients that had grade 3/4 immune-related adverse events (AEs) on ipilimumab that required more than 12 weeks of immune suppression with corticosteroids
+Persistence of clinically relevant therapy related toxicity from previous chemo and/or radiotherapy
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Residual or on-going >= grade 3 treatment-related toxicity from previous chemotherapy should be resolved
+Participant has recovered from toxicities of prior chemotherapy or other therapy (to grade 2 or less)
+Adverse events from prior anticancer therapy that have not resolved to grade =< 1 except for alopecia
+Has recovered from all therapy-related toxicity to =< grade 2 (except alopecia, anemia and any signs or symptoms of androgen deprivation therapy) at the time of registration
+Have any unresolved chronic toxicity with CTCAE grade >= 2, from previous anti-NF1 therapy, except for alopecia
+Patients are ineligible if they have unresolved toxicities from prior anticancer therapy, defined as having not resolved to National Cancer Institute (NCI) CTCAE version 4.03 grade 0 or 1 with the exception of alopecia and laboratory values listed per the inclusion criteria\r\n* Note: Subjects with irreversible toxicity that is not reasonably expected to be exacerbated by any of the investigational products may be included (eg, hearing loss) after consultation with the PI and Northwestern University (NU) Quality Assurance Monitor (QAM)
+Hydroxyurea may be used to control leukocytosis, provided that it is without grade > 2 toxicity, and can be taken until start of therapy
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo)\r\n* Note: Patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Ongoing acute treatment-related toxicity associated with a previous therapy greater than grade 1 except for grade 2 alopecia or neuropathy.
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+Must not have experienced a Grade ?3 immune-related AE or an immune-related neurologic or ocular AE of any grade while receiving prior immunotherapy.
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); Note: patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less or as specified in the eligibility criteria
+mCRPC EXPANSION COHORT: The patient has not recovered to baseline or CTCAE =< grade 1 from toxicity due to all prior therapies, including surgery, except alopecia and other non-clinically significant adverse events (AEs)
+To be eligible for study treatment, toxicity from prior treatment must recover to Grade ? 1, except for alopecia
+To be eligible for study treatment, radiation therapy-related toxicity must recover to Grade ? 1 prior to administration of the first dose of ARQ 751.
+Failed to recover to baseline or stable grade 1 from the reversible effects of prior anticancer therapies with the exception of alopecia
+Any unresolved toxicity (> CTCAE grade 2) from previous anti-cancer therapy; any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+All acute treatment-related toxicities from prior therapy must have resolved to grade =< 1 prior to study entry excluding alopecia
+Patients must have recovered from all treatment-related toxicities to Grade 1 or less.
+Recovery from adverse events of previous systemic anti-cancer therapies to baseline or grade 1, except for:\r\n* Alopecia\r\n* Stable neuropathy of =< grade 2 due to prior cancer therapy
+Has no prior treatment-related toxicities >Grade 1 (except alopecia) at the time of enrolment.
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Has experienced grade 4 toxicity on treatment with prior radiation
+Has clinically relevant hearing impairment > grade 2
+PRIOR TO LYMPHODEPLETION: For grade 4 neutropenia, ? grade 3 febrile neutropenia, or grade 4 thrombocytopenia, hold bendamustine until toxicity resolve to ? grade 2
+Patients must have recovered to less than grade 1 or to baseline from toxicity of prior chemotherapy or biologic therapy and must not have had major surgery, chemotherapy, radiation or biologic therapy within 2 weeks prior to beginning treatment; NOTE: Exceptions to this include events not considered to place the subject at unacceptable risk of participation in the opinion of the principal investigator (PI) (e.g., alopecia)
+Recovery from adverse events of previous systemic anti-cancer therapies to baseline or grade 1, except for: \r\n* Alopecia\r\n* Stable neuropathy of =< grade 2 due to prior cancer therapy
+Prior lenalidomide exposure is permitted only if the subject did not discontinue lenalidomide due to a related, grade >= 3 adverse event (AE)
+Any toxicity from prior therapy must have recovered to ? Grade 1 (except alopecia).
+Existing severe major organ dysfunction, i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity > grade 3 except for hearing loss, alopecia, anorexia, nausea, hyperbilirubinemia and hypomagnesemia from total parenteral nutrition (TPN), which may be grade 3
+The risk factor for RVO are listed below; exclusion should be considered by clinical discretion if they have the following conditions:\r\n* Uncontrolled glaucoma with intra-ocular pressures > 21 mmHg\r\n* Serum cholesterol >= grade 2\r\n* Hypertriglyceridemia >= grade 2\r\n* Hyperglycemia >= grade 2
+Unresolved toxicity higher than CTCAE grade 1 attributed to any prior therapy/procedure excluding alopecia
+Recovered (returned to ? grade 1 as per CTCAE v4.03) from prior treatment-related toxicity.
+Toxicities from previous cancer therapies resolved to =< grade 1 unless specified otherwise in the inclusion or exclusion criteria (Exceptions: Chronic residual toxicities that in the opinion of the investigator are not clinically relevant given the known safety/toxicity profiles of pemetrexed and sorafenib, such as alopecia, changes in pigmentation, stable endocrinopathies; neuropathy related to previous chemotherapy must be resolved to =< grade 2)
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo)\r\n* Note: patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less
+Prior chemotherapy provided patients have been off previous anti-cancer therapy for at least 21 days and recovered from all treatment related toxicity
+Prior auto graft is allowed prior to study start (1st dose of study medication), but patients must be at least 3 months from date of stem cell infusion and have recovered to =< grade 1 toxicities related to this procedure
+Any prior grade ? 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved immune related adverse events (irAE) > grade 1
+Grade >= 3 non-hematologic toxicity from previous therapy that has not resolved to =< grade (G)1
+Subjects who are receiving any concurrent investigational or conventional agent with known or suspected activity against multiple myeloma, or those whose adverse events due to agents administered more than 4 weeks earlier have not recovered to a severity of grade 0 or grade 1; subjects with chronic grade 2 toxicities may be eligible per discretion of the investigator and M. D. Anderson Cancer Center (MDACC) Investigational New Drug (IND) Office (eg, grade 2 chemotherapy-induced neuropathy)
+Toxicity from a previous anti-tumor treatment that does not return to Grade 0 or 1 (except for alopecia);
+Toxicities from prior therapies, with the exception of peripheral neuropathy attributable to bortezomib, must have recovered to grade =< 2 according to the Common Toxicity Criteria (CTC) 4.0 criteria or to the subject’s prior baseline
+COHORT I: Non-bevacizumab failure, i.e. either no prior bevacizumab or bevacizumab stable/responder, which is defined as stable for at least 6 months from prior treatment with bevacizumab without experiencing a bevacizumab adverse event of special interest (AESI) while on a bevacizumab-containing regimen, such as:\r\n* >= grade 3 hypertension not controlled by medication, hypertensive crisis, or hypertensive encephalopathy\r\n* >= grade 3 proteinuria that does not resolve or nephrotic syndrome\r\n* Any grade gastrointestinal (GI) perforation\r\n* >= grade 3 infusion-related reaction\r\n* >= grade 3 wound healing complications\r\n* >= grade 3 hemorrhage or any grade central nervous system (CNS) hemorrhage or >= grade 2 hemoptysis\r\n* Any grade arterial thromboembolic event (e.g. myocardial infarction or cerebral infarction) or >= grade 3 venous thromboembolic event\r\n* Any grade posterior reversible encephalopathy syndrome (PRES)\r\n* >= grade 3 congestive heart failure\r\n* >= grade 2 non-GI abscesses and fistulae
+Resolution of all treatment-related toxicities, except alopecia, anemia and neuropathy, from any previous cancer therapy to ? Grade 1 prior to the first dose of study treatment.
+Proteinuria < grade 2
+Grade >= 3 non-hematologic toxicity from previous therapy that has not resolved to =< grade 1
+Any unresolved toxicities from prior therapy greater than CTCAE Grade 1 at the time of starting study treatment with the exception of alopecia and Grade 2, prior platinum-therapy related neuropathy.
+Patients must have recovered from all toxicities related to prior anticancer therapies to grade ? 1 (CTCAE v 4.03). Patients with any grade of alopecia are allowed to enter the study.
+Have received anti-cancer therapies listed below within the specified timeframe, or who have ongoing toxicity from prior therapy > Grade 1 according to the Common Terminology for Adverse Events (CTCAE). Exceptions to this are: > Grade 1 toxicities which in the opinion of the Investigator should not exclude the subject (e.g. alopecia, Grade 2 neuropathy, hypo- or hyperthyroidism or other endocrinopathies that are well-controlled with hormone replacement) and are approved by the Medical Monitor.
+At least 4 weeks from end of surgery, chemotherapy, or radiotherapy with resolution of any toxicity to grade 1 or less, excluding alopecia\r\n* NOTE: There is no washout for patients who have undergone cosmetic surgeries
+Subject has unresolved adverse events >= Grade 2 from prior anticancer therapy, except for alopecia or anemia.
+Must not have had a grade >= 3 immune related adverse event (irAE) on nivolumab monotherapy (excluding endocrine toxicity managed with replacement therapy)
+Grade >= 3 nonhematological toxicity from prior therapy that has not resolved to =< grade 1
+Any unresolved toxicity > CTCAE grade 2 despite optimal care/support, from previous anti-cancer therapy, except for alopecia, within 7 days prior to Cycle 1, day 1
+Patients must be at least 4 weeks from any prior treatments and have recovered (to < grade 2) from acute toxicity attributed to this prior treatment, unless considered chronic
+Persistent toxicities (> CTCAE grade 2) with the exception of alopecia, caused by previous cancer therapy
+PHASE I STUDY ELIGIBILITY CRITERIA:\r\nToxicities of prior therapy (excepting alopecia) should be resolved to less than or equal to grade 1 as per CTCAE v 4.03 except hemoglobin; patients with long-standing stable grade 2 neuropathy may be considered after discussion with the PI
+PHASE I STUDY ELIGIBILITY CRITERIA:\r\nAny prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1; toxicities of prior therapy, excepting alopecia, should be resolved to less than or equal to grade 1 as per National Cancer Institute (NCI)-CTCAE v4.0; patients with greater than 1+ proteinuria at entry are ineligible
+PHASE II STUDY COHORT 1 OVARIAN CANCER ELIGIBILITY CRITERIA (MEDI+O, MEDI+C AND MEDI+O+C):\r\nAny prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1; toxicities of prior therapy, excepting alopecia, should be resolved to less than or equal to grade 1 as per NCI-CTCAE v4.0; patients with greater than 1+ proteinuria at entry are ineligible
+PHASE II STUDY COHORT 5 TRIPLE NEGATIVE BREAST CANCER ELIGIBILITY CRITERIA (MEDI+O ONLY):\r\nAny prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1; toxicities of prior therapy, excepting alopecia, should be resolved to less than or equal to grade 1 as per NCI-CTCAEv4.0
+PHASE II STUDY NON-SMALL CELL LUNG CANCER (COHORT 2; MEDI+O AND MEDI+C) AND SMALL CELL LUNG CANCER (COHORT 3; MEDI+O ONLY) ELIGIBILITY CRITERIA:\r\nAny prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1; toxicities of prior therapy, excepting alopecia, should be resolved to less than or equal to grade 1 as per NCI-CTCAEv4.0; patients with greater than 1+ proteinuria at entry are ineligible
+PHASE II COLORECTAL CANCER COHORT 6 (MEDI+C ONLY):\r\nToxicities of prior therapy (excepting alopecia) should be resolved to less than or equal to grade 1 as per CTCAE v 4.03 except hemoglobin; patients with long-standing stable grade 2 neuropathy may be considered after discussion with the PI
+PHASE II COLORECTAL CANCER COHORT 6 (MEDI+C ONLY):\r\nAny prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1; toxicities of prior therapy, excepting alopecia, should be resolved to less than or equal to grade 1 as per NCI-CTCAEv4.0; patients with greater than 1+ proteinuria at entry are ineligible
+No toxicities related to prior treatment related toxicities with the exception of alopecia and neuropathy
+To be eligible for study treatment, toxicity from prior treatment must recover to Grade ? 1, except for alopecia
+Non-hematologic toxicities from previous cancer therapies resolved to =< grade 1 except chronic residual toxicities that in the opinion of the investigator are not clinically relevant given the known safety/toxicity profiles of regorafenib and sildenafil (eg, alopecia, changes in pigmentation, stable endocrinopathies)
+Subject has recovered from toxicities of prior chemotherapy or other therapy (to grade 2 or less)
+AT THE TIME OF INFUSION: Recurrent or refractory HER2-positive GBM\r\n* Immunohistochemistry (IHC) or reverse transcriptase-polymerase chain reaction (RT-PCR) will be used to determine HER2 positivity; results will be compared to standard controls; HER2 expression in tumors on IHC should be ? grade 1 and ?1+ intensity score; wherein grades are defines as: grade 0: no staining; grade 1: 1-25%; grade 2: 26-50% and grade 3: 51-100% of cell staining for HER2 and intensity scores are: negative; 1+; 2+ and 3+ using breast cancer standard arrays as a guide for intensity
+Patients must have recovered from acute non hematologic toxicity (to =< grade 1) of all previous therapy prior to enrollment
+Non-hematological toxicities ? Grade 2
+Diarrhea > grade 1 in the absence of anti-diarrheals
+Recovery from >= grade 2 toxicities of prior therapy regimen to grade 1 or baseline, with the exception of anemia and lymphopenia and chronic residual toxicities that in the opinion of the investigator are not clinically relevant given the known safety/toxicity profiles of gemcitabine, sorafenib, and vorinostat (eg, alopecia, changes in pigmentation, stable endocrinopathies); patients with =< grade 2 peripheral sensory or motor neuropathy are eligible
+Not recovered from toxicity of any prior chemotherapy to grade ? 1.
+Has unresolved toxicities from previous anticancer therapy, defined as toxicities (other than alopecia) not yet resolved to NCI-CTCAE v4, Grade =<1 or baseline. Subjects with chronic Grade 2 toxicities may be eligible per discretion of the Investigator and Sponsor (eg, Grade 2 chemotherapy-induced neuropathy).
+Patients who have not recovered from acute non hematologic toxicity (to =< grade 1) of all previous therapy prior to enrollment
+The subject has not recovered to baseline or CTCAE =< grade 1 from toxicity due to all prior therapies except alopecia and other non-clinically significant adverse events (AEs)
+All prior treatment-related toxicities must be =< grade 1
+Persistent toxicities >= grade 2 from prior chemotherapy or biological therapy regardless of interval since last treatment
+All toxicities from prior therapy must be recovered to a grade 1 or better according to the Clavien-Dindo classification system
+Patients who have residual toxicity(-ities) from previous anti-cancer treatment(s) that is/are clinically significant or > grade 1 are excluded; those whose toxicity(-ities) improved to grade 1 or better will be eligible
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving immunotherapy (including anti-cytotoxic T-lymphocyte antigen 4 [CTLA-4] or anti-cluster of differentiation [CD]137 monoclonal antibody [MAb]) or any unresolved irAE of any grade (controlled irAE endocrinopathies are allowed)
+No diarrhea >= grade 2 at baseline
+Any ongoing toxicity from prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity (except alopecia); any immuno-oncology (IO) related adverse events must be =< grade 1 to be eligible
+Any clinically significant toxicity from prior therapy must have improved to grade 0 or grade 1
+Skin toxicity no greater than grade 1
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); patients must have progressing disease after prior treatment; note: patients who have previously received ipilimumab and have documented gastrointestinal (GI) toxicity must have a normal colonoscopy with normal colonic biopsies
+Toxicity related to prior therapy must either have returned to =< grade 3, baseline, or deemed irreversible
+Non-hematological toxicity related to prior therapy must either have returned to =< grade 3, baseline, or deemed irreversible
+Chemotherapy or radiotherapy within 4 weeks prior to entering the study or those with residual treatment related toxicity of greater than grade 1 not addressed in inclusion criteria
+Presence of an acute or chronic toxicity of prior chemotherapy that has not resolved to ? Grade 1, as determined by CTCAE v 4.0.
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); patients must have progressing disease after prior treatment
+Prior grade 4 toxicity attributed to cytarabine
+Existing severe major organ dysfunction, i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity >= grade 3, except for grade 3 hematologic toxicity
+Treatment-related toxicities from prior therapies must have resolved to grade =< 1
+At least 4 weeks since prior surgery with full recovery (no persistent toxicity >= grade 1)
+Recovered from toxicity of previous chemotherapy (excludes grade 1 neurotoxicity and hematological toxicity)
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); note: patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less
+Patients must have fully recovered from the acute, non-hematological, non-infectious toxicities of any prior treatment with cytotoxic drugs, radiotherapy or other anti-cancer modalities; patients with persisting, non-hematologic, non-infectious toxicities from prior treatment =< grade 2 are eligible, but must be documented as such
+More than one grade 2 or higher transaminase elevation
+Patients must have recovered all toxicities from prior therapy or radiation to grade 1 or less (excluding alopecia).
+Treatment-related toxicities from prior therapies must have resolved to grade equal to or less than 1
+Resolution of all non-hematologic brentuximab vedotin-related adverse events (AEs) to < grade 2
+Grade >= 3 non-hematologic toxicity from previous therapy that has not resolved to =< grade 1
+Patient who has had radiotherapy within 1 week (or unresolved radiation-related toxicities), chemotherapy within 2 weeks or 5 half-lives, whichever is longer (6 weeks for nitrosoureas, mitomycin C or bevacizumab), anti-cancer monoclonal antibody for direct anti-neoplastic treatment within 3 weeks, or who has not recovered from toxicity due to previous agents administered. If the patient has residual toxicity from prior treatment, toxicity must be =< grade 1 (except for neuropathy and alopecia)
+Any previous history of >= grade 3 toxicity to dasatinib
+If the patient has residual toxicity from prior treatment, toxicity must be =< grade 1
+Any ongoing toxicity from prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity, except alopecia
+Patients with a history of any grade of persistent or chronic nausea or vomiting within the last 4 weeks related to prior therapy or disease process
+Prior neurologic toxicity to previous immunotherapy
+Any unresolved toxicity ? Grade 2 from previous anticancer therapy except for stable chronic toxicities (? Grade 2) not expected to resolve.
+All irAEs while receiving prior immunotherapy must have resolved to ? grade 1 or Baseline prior to Screening for this study. Must not have experienced a ? grade 3 immune-related AE within the past 16 weeks or any grade 4 life- threatening irAE (regardless of duration) or neurologic or ocular AE of any grade while receiving prior immunotherapy (NOTE: Subjects with endocrine AE of any grade are permitted to enroll if they are stably maintained on appropriate replacement therapy, but must have no history of adrenal crisis and be asymptomatic)
+Experiencing CTCAE grade >1 events, experienced immune-related grade ?3AEs with prior immunotherapy
+Recovery to Grade 1 of any clinically significant toxicity attributed to prior anticancer therapy prior to initiation of study drug administration
+All acute toxicities from prior therapy with the exception of alopecia must have resolved to =< grade 1
+Severe major organ toxicity; renal, cardiac, hepatic, pulmonary, gastrointestinal and neurologic toxicity should all be grade 1 or less (per National Cancer Institute [NCI] Common Toxicity Criteria [CTC] version 3 criteria) with the following exceptions:\r\n* Serum aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase should be =< 5 x upper limit of normal (ULN)\r\n* Serum bilirubin =< 3 x ULN and nausea and vomiting should be =< grade 2\r\n* Patients with myelosuppression are not excluded if absolute neutrophil count (ANC) >= 500/uL
+Severe major organ toxicity: specifically, renal, cardiac, hepatic, pulmonary, gastrointestinal and neurologic toxicity should all be grade 2 or less; a grade 3 hearing deficit is acceptable
+Patients with unresolved > Grade 1 toxicity associated with any prior antineoplastic therapy
+Toxicity from previous treatment including: a) Toxicity Grade >=3 related to prior immunotherapy and that lead to study treatment discontinuation. b) Toxicity related to prior treatment has not resolved to Grade <=1 (except alopecia, or endocrinopathy managed with replacement therapy).
+Has had a prior monoclonal antibody (mAb) within 4 weeks prior to Study Day 1 or who has not recovered (i.e. ? Grade1 1 or at baseline) from acute adverse events from prior mAb therapy NOTE: Subjects with ? Grade 2 neuropathy or Grade 2 alopecia are an exception to this criterion and may qualify for the study. Investigators should discuss individual cases with the Medical Monitor or Sponsor as needed;
+Unresolved toxicities from previous anticancer therapy.
+Any unresolved toxicities from prior therapy greater than CTCAE grade 1 at the time of starting study treatment with the exception of alopecia and grade 2, prior platinum-therapy related neuropathy
+History of immune-related adverse event from prior immunotherapy treatment that has not improved to grade 0-1; subjects with grade 2 hypothyroidism and grade 2 adrenal insufficiency requiring continued medical treatment may enroll provided that they are asymptomatic and stable on their dose of hormone replacement
+Any ongoing toxicity from prior anti-cancer treatment that, in the judgement of the investigator, may interfere with study treatment. All toxicities attributed to prior anti-cancer therapy other than alopecia and fatigue must resolve to grade 1 (NCI CTCAE version 4) or baseline prior to enrollment. Eligible patients must not require more than 10 mg/day prednisone (or equivalent dose).
+Recovered from toxicities of previous anticancer therapy to CTCAE Grade ? 1
+Recovered from all toxicities related to prior anti-cancer therapies to grade ? 1
+Recovered from toxicities of previous anticancer therapy to CTCAE Grade ? 1 with the exception of alopecia
+Toxicities from previous anti-cancer therapies have not resolved to baseline levels or to Grade 1 or less except for alopecia and peripheral neuropathy
+Recovery to Grade 1 or baseline of any toxicities due to prior treatments, excluding alopecia
+Otherwise, all toxicity at study entry ? Grade 1 by NCI CTC v4.0.
+Past discontinuation of bortezomib due to associated grade 3 or higher adverse event
+Any grade 3-4 adverse event related to HSV-Tk infusion or a grade 2 adverse event that does not resolve to no more than grade 1 before the next infusion
+Treatment with chemotherapy or investigational drugs within 21 days prior to the screening visit. Acute toxicities from prior therapy must have resolved to Grade ? 1 above baseline.
+Patients with the following histologies: \r\n* Diffuse astrocytoma (grade 2)\r\n* Oligodendrogliomas (any grade)\r\n* Pleomorphic xanthoastrocytoma (PXA, any grade)
+208 Unresolved toxicity from prior anti-tumor therapy, defined as not having resolved to CTCAE version 4.0 grade 1, or to levels dictated in the eligibility criteria with the exception of alopecia or toxicities from prior anti-tumor therapy that are considered irreversible (defined as having been present and stable for > 28 days) which may be allowed if they are not otherwise described in the exclusion criteria AND there is agreement to allow by both the investigator and the Amgen Medical Monitor.
+Persisting toxicity related to prior therapy Grade >1.
+Prior systemic chemotherapy for indications other than urothelial cell carcinoma of the bladder is permitted. All toxicities attributed to prior anti-cancer therapy other than alopecia and fatigue must have resolved to Grade 1 (National Cancer Institute CTCAE version 4.03) or baseline before administration of study drug. Participants with toxicities attributed to prior anti cancer therapy which are not expected to resolve and result in long lasting sequelae, such as peripheral neuropathy after platinum-based therapy or audiometric hearing loss, are permitted to enroll.
+Must have recovered (? Grade 2 or at pretreatment baseline) from adverse events (AEs) from previously administered therapies except for stable chronic toxicities (? Grade 2) not expected to resolve.
+Toxicities incurred as a result of previous anti cancer therapy (radiation therapy [RT], chemotherapy, or surgery) must be resolved to ? Grade 1 except for alopecia and anorexia.
+Grade > 1 toxicity from prior therapy (except alopecia or anorexia)
+Has persistent, clinically significant > Grade 1 non-hematologic toxicity from prior AML therapies
+Unresolved > Grade 1 toxicity associated with any prior antineoplastic therapy
+Prior Grade 3 or higher immune-related AEs or any ocular toxicity on prior immunotherapy as per protocol-defined criteria.
+All acute toxic effects of any prior antitumor therapy must be resolved to grade ? 1 before enrollment, with the exception of alopecia (any grade permitted), or bone marrow parameters (any grades permitted)
+Severe immune-related toxicity related to checkpoint inhibitors defined as any Grade 4 toxicity or Grade 3 toxicity
+Severe immune-related toxicity related to checkpoint inhibitors defined as any Grade 4 toxicity or Grade 3 toxicity
+Adverse events resulting from previous therapies have not recovered to grade 1 or less
+Hydroxyurea may be used to control leukocytosis and can be taken until day 1 of therapy; patients with persisting, non-hematologic, non-infectious toxicities from prior treatment =< grade 2 are eligible, but must be documented as such
+Otherwise, all acute toxicity at study entry ? Grade 1 by NCI CTC v4.0, or recovered to baseline
+Grade >= 3 non-hematologic toxicity from prior therapy that has not resolved to =< grade 1 (G1).
+Grade > 1 toxicity from prior therapy (except alopecia or anorexia).
+Adverse events (AEs) from prior anticancer therapy that have not resolved to grade =< 1 except for alopecia.
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1)
+If received prior immunotherapy must not have experienced one of the following:\r\n* A toxicity that led to permanent discontinuation of prior immunotherapy\r\n* All adverse events (AEs) while receiving prior immunotherapy must have completely resolved or resolved to baseline prior to screening for this study\r\n* Must not have experienced a >= grade 3 immune related AE or an immune related neurologic or ocular AE of any grade while receiving prior immunotherapy; NOTE: Patients with endocrine AE of =< grade 2 are permitted to enroll if they are stably maintained on appropriate replacement therapy and are asymptomatic\r\n* Must not have required the use of additional immunosuppression other than corticosteroids for the management of an AE and must not have experienced recurrence of an AE if re-challenged
+Inadequate recovery from adverse events related to prior therapy to grade =< 1 (excluding grade 2 alopecia and neuropathy)
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo). (Note: Patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less)
+Any unresolved toxicity (CTCAE grade < 2) from previous anti-cancer therapy; (subjects with irreversible toxicity that is not reasonably expected to be exacerbated by the investigational product may be included (e.g., hearing loss, peripherally neuropathy)
+Any prior grade >/= 3 immune-related adverse event (imAE) while receiving any previous immunotherapy agent, or any unresolved imAE > grade 1
+Any unresolved toxicity (National Cancer Institute Common Terminology Criteria for Adverse Event [CTCAE] version 4.03 [v4.03]) grade 2 or greater from previous anticancer therapy with the exception of alopecia, and the laboratory values defined in the inclusion criterion 8. Hearing loss of grade 3 or lower and peripheral neuropathy of grade 2 or lower is allowed. Subjects with grade >= 2 neuropathy will be evaluated on a case-by-case basis after consultation with the study physician. Subjects with irreversible toxicity not reasonably expected to be exacerbated by treatment with durvalumab may be included only after consultation with the study physician.
+Grade >= 2 proteinuria at screening (or known prior)
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Patients will be ineligible if they have a baseline neurologic toxicity of grade 3 or greater
+Prior treatment within 21 days of the first dose of study drug with any other chemotherapy, immunotherapy, biologic therapy, vaccine therapy, or investigational treatment, or failure to recover from adverse effects of prior therapies administered over 4 weeks prior to study day 1; all toxicities from prior therapies must be =< grade 1 (or =< grade 2 for alopecia or peripheral neuropathy); prior systemic treatment in the adjuvant setting is allowed
+Toxicity related to prior therapy must either have returned to =< grade 1, baseline, or been deemed irreversible
+Toxicity related to prior therapy must either have returned to less than or equal to grade 1, baseline, or been deemed irreversible
+Diarrhea > grade 1 at baseline
+Patients must demonstrate resolution of all toxicities related to prior chemotherapy, endocrine therapy, or biologic therapy to grade =< 1, including peripheral neuropathy, with the exception of alopecia (any grade permissible)
+Prior radiotherapy must be completed >= 14 days prior to randomization with documentation of adequate recovery from associated toxicities to grade =< 1
+Has any prior Grade ?3 immune-related adverse event (irAE) while receiving immunotherapy, including anti-CTLA-4 treatment, or any unresolved irAE >Grade 1.
+Participant must have recovery to Grade 0 or 1 of any clinically significant toxicity (excluding alopecia) prior to initiation of study drug administration.
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1 excepting alopecia, peripheral sensory neuropathy, and stable endocrine insufficiencies such as thyroid and adrenal insufficiency)
+All acute, clinically significant treatment-related toxicity from prior therapy, except for alopecia, must have resolved to grade =< 1
+Patients must have a creatinine and AST =< grade 1
+AST =< grade 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1 except for endocrine adverse events (AEs) managed with replacement therapy; any other AEs unresolved toxicities grade 2 or more from previous anti-cancer therapy, except alopecia, peripheral neuropathy or non-clinically significant lab abnormalities
+Patients who have not recovered from adverse events due to prior anti-cancer therapy (i.e., have residual toxicities > grade 1)
+Non-hematologic toxicities from previous cancer therapies resolved to =< grade 1
+Any Grade ? 2 persistent non-hematological toxicity related to allotransplant
+Persisting effects of any previous or ongoing treatment ? grade 1 that might compromise delivery of study treatment or assessment of adverse events (except alopecia or neuropathy ? grade 2 without pain)
+Patients must have recovered to =< grade 1 adverse events or to =< grade 2 alopecia and sensory neuropathy due to prior treatment
+DOSE ESCALATION COHORT: Any prior ? grade 3 immune-related adverse event (irAE) while receiving immunotherapy, including anti-CTLA-4 and anti-PD-1/PD-L1 treatment, or any unresolved irAE > grade 1\r\n* Note: Previous immune-related ocular toxicity of any grade is excluded
+DOSE EXPANSION COHORT: Any prior ? grade 3 immune-related adverse event (irAE) while receiving immunotherapy, including anti-CTLA-4 and anti-PD-1/PD-L1 treatment, or any unresolved irAE > grade 1; Note: previous immune-related ocular toxicity of any grade is excluded
+Persistent toxicities caused by previous cancer therapy; toxicities should have recovered to =< grade 1, excluding alopecia and stable chronic grade 2 toxicity that is not overlapping with presumed toxicities of olaparib
+Major surgery within 2 weeks of starting study treatment; effects from surgeries should have recovered to =< grade 1, with the exception of stable chronic grade 2 that is not overlapping with presumed toxicities of olaparib
+Any unresolved toxicity (> CTCAE grade 2) from previous anti-cancer therapy; subjects with irreversible toxicity that is not reasonably expected to be exacerbated by the investigational product may be included (e.g., hearing loss, peripherally neuropathy)
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Patients must have recovered from acute toxicities of prior chemotherapy or stem cell transplant; any prior non-hematologic vital organ toxicity (cardiac, pulmonary, hepatic, renal) of previous therapy must have resolved to grade 1 or less
+Unresolved toxicity higher than CTCAE grade 1 attributed to any prior therapy/procedure, excluding alopecia
+Previous toxicities from previous treatment must have resolved to grade 1 or less\r\n* For patients in expansion cohort B, stable grade 2 neuropathy will be allowed
+Prior treatment-related toxicity resolved to =< grade 1 or baseline with the exception of alopecia and permanent grade =< 2 toxicities related to prior immune checkpoint inhibitor treatment (e.g. PD-1/PD-L1, CTLA-4, CD40, LAG3) treatment with the review and approval by the lead principal investigator (PI)
+Toxicities of prior therapy (excepting alopecia) should be resolved to less than or equal to grade 1 as per CTCAE v 4.0
+The patient has not recovered from adverse events related to prior therapy to Grade ?1 (excluding Grade 2 alopecia and neuropathy)
+History of grade 3 or 4 bowel toxicity from immune checkpoint inhibitor within 12 weeks of registration
+Persistent toxicities >= grade 3 from prior chemotherapy or biological therapy regardless of interval since last treatment
+Resolution of all chemotherapy related grade III-IV toxicity
+=< grade 2 hematuria (criteria applicable only for dose levels that include isotretinoin) and =< grade 2 proteinuria
+Skin toxicity =< grade 1
+Recovered from prior toxicities to grade 0-1 at least 2 weeks prior to investigational therapy
+Patients must have completed standard therapy for their malignancy and recovered from all toxicities to less than or equal to grade 2 within 3 weeks prior to enrollment
+Any toxicity related to prior EGFR inhibitor treatment must have resolved to Grade 1\n             or less
+Patients who have had chemotherapy, targeted therapy, or radiotherapy, and have not recovered from acute toxicity to their pretreatment baseline or to a grade 1 level within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study \r\n* Note: patients with chronic residual prior therapy-related toxicity (e.g. vitiligo, alopecia, low grade neuropathy), or in the consensus opinion of the Cancer Immunotherapy Trials Network (CITN)/Cancer Therapy Evaluation Program (CTEP) investigators would not impact the safety of the patient or the integrity of the study, are not excluded\r\n* Note: for resolution of autoimmune toxicity from prior immune therapy, patients must be off steroids for at least 30 days without relapse of autoimmune toxicity, or it must be at least 30 days from their last dose of infliximab or related immunosuppressive therapy without relapse of autoimmune toxicity
+Dehydration grade >= 1
+Subjects experiencing unresolved toxicity of previous antitumor therapy which is CTCAE grade > 1 before the start of study treatment, except for alopecia or hemoglobin >= 9.0 g/dL or >= 5.6 mmol/L
+Grade 2 or greater toxicity from prior therapy
+Grade 2 or greater diarrhea
+Recovery to =< grade 1 toxicities associated with prior therapy
+Adverse events (AEs) from prior anticancer therapy that have not resolved to grade =< 1 except for alopecia
+Patients who have a CNS toxicity > grade 2 are not eligible
+At least 14 days must have elapsed since any prior systemic therapy at the time the patient starts the cyclophosphamide and fludarabine (fludarabine phosphate) conditioning regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo)
+Patients must have recovered from any VEGF blocking drug-related toxicity (proteinuria, hypertension, hepatotoxicity, and pancreatic toxicity)
+Neuropathic pain =< grade 1
+Subjects who experienced grade 3 or 4 toxicity regardless of causality to the cell infusion must have had a reduction to a grade 1 or less or returned to baseline levels
+All prior treatment-related toxicities must be CTCAE v4 grade =< 1 (except alopecia) at the time of randomization
+Patients must have recovered from all non-hematologic toxicities to =< grade 2 and from all hematologic toxicities to =< grade 3 prior to registration
+Patients with pre-existing grade 2 or higher neuropathy or other serious neurologic toxicity that would significantly increase risk of complications from bortezomib therapy are excluded
+Recovered from any toxicity to grade 2 or less from all prior chemotherapy, immunotherapy or radiotherapy and be at least 30 days past the date of their last treatment with the exception of mitotane which may be continued
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); Note: patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less or as specified in the eligibility criteria
+At least 12 weeks beyond stem cell transplant and 4 weeks beyond chemotherapy or\n             immunotherapy, major surgery, other experimental treatments, or radiation therapy to\n             the index lesions, and with all acute toxicities from prior therapy resolved to less\n             than Grade 2 toxicity by NCI CTC version 4.0
+< Grade 3 hypo/hypercalcemia
+< Grade 3 hypo/hyperphosphatemia
+< Grade 3 hypo/hypermagnesemia
+Omission of cytotoxic chemotherapy or other systemic therapy of the malignancy for >= 4 weeks prior to entry into the trial; patients must be >= 4 weeks since major surgery, radiotherapy, or biotherapy/targeted therapies and recovered from the toxicity of prior treatment to =< Common Toxicity Criteria (CTC) grade 1, exclusive of grade 2 alopecia, fatigue, lymphopenia, CD4+ circulating T cells, white blood count (WBC) or bilirubin
+Resolution of grade >= 2 toxicity from prior therapy (other than alopecia)
+Prior therapy with an anti-PD-1, anti-programmed death-ligand (PD-L)1, anti-PDL-2, or anti-cytotoxic T-lymphocyte antigen 4 (CTLA-4) antibody (or any other antibody targeting T cell co-stimulation pathways)\r\n* In the fourth cohort at 3 mg/kg of BMS-936558, ten patients will be accrued that have had prior anti-CTLA-4 antibody at 3 or 10 mg/kg, and have not had any dose limiting immune-related adverse events (irAE) as defined in this protocol, i.e. none, or grades 1 or 2 non-dose limiting toxicity\r\n* In an additional fifth cohort, also at 3 mg/kg of BMS-936558, twenty patients will be accrued that have had prior anti-CTLA-4 antibody at 3 or 10 mg/kg, and may have had a dose limiting irAE of grades 3 or 4 as defined in this protocol\r\n* After amendment 9, grade 4 hepatotoxicity, skin toxicity or pancreatic enzyme elevations that did not require infliximab, mycophenolic acid, or any immune suppressive treatment beyond steroids will be allowed; those who experienced grade 4 colitis, hypophysitis, neurologic changes or any other grade 4 side effect other than liver, pancreatic or skin related will still be excluded from this cohort; after amendment 12, those with grades 3-4 side effects that required treatment with any immune suppressive in addition to steroids will be allowed in cohort 5; those with grade 4 side effects other than GI, endocrine, skin, liver and pancreatic will still be excluded from entry to cohort 5\r\n* In the sixth cohort at 3 mg/kg of BMS-936558, an extension cohort of sixty patients will be accrued that have had prior anti-CTLA-4 antibody at 3 or 10 mg/kg, and have not had any dose limiting irAE as defined in this protocol, i.e. they would have had none, or grade 1 or grade 2 non-dose limiting toxicity from ipilimumab\r\n* Within cohort 6, up to ten patients may be included that have four or fewer untreated brain metastases, with no lesion larger than 2 cm, and no evidence of cerebral edema requiring steroids
+Potassium (K) and magnesium (Mg) >= grade 2 toxicity
+All previous intravenous therapy administered outside of the National Institute of Health (NIH) Clinical Center must be completed at least 2 weeks prior to study entry, with recovery to =< non-hematologic grade 2 toxicity of previous therapy
+Persistent, clinically significant > Grade 1 non-hematologic toxicity from prior AML therapy.
+Recovery from the adverse effects ? grade 1;
+Recovery to Grade 1 of any clinically significant toxicity (excluding alopecia) prior to initiation of study drug administration
+Any unresolved toxicity ? Grade 2 (except stable Grade 2 peripheral neuropathy or alopecia) from previous anticancer therapy
+Lack of recovery from toxic effects of previous treatment for RCC ? grade 1 with the exception of alopecia, unless stabilized under adequate medical control.
+History of significant intolerance to capecitabine or fluorouracil (5FU) (ie. grade 4 toxicity related to one of these agents; grade 3-4 toxicity related to other concurrently administered agents is not an exclusion)
+Any ongoing toxicity from prior anti-cancer therapy that is greater than grade 1 and/or that is progressing in severity, except alopecia
+Has not recovered (i.e., AE ? Grade 1 or at Baseline) from AEs due to a previously administered agent.
+Persisting toxicity related to prior therapy except alopecia
+Patients must not have any known, persistent (> 4 weeks), ?Grade 3 hematologic toxicity during the last cancer therapy. Patients must not have any known, persistent (>4 weeks), ? Grade 3 fatigue during the last cancer therapy.
+Current grade >= 1 toxicity (except alopecia) from prior therapy
+History of prior grade 3 or 4 hypersensitivity or any toxicity to trastuzumab that warranted permanent cessation of this antibody
+Recovery to from toxicities related to any prior treatments.
+Failure to recover (to CTCAE Version 4.0 Grade 0 or Grade 1) from acute non hematologic toxicity (except all grades of alopecia or Grade 2 or lower neuropathy), due to previous therapy, prior to Screening.
+All acute toxic effects of any prior radiotherapy, chemotherapy, or surgical procedure must have resolved to Grade less than or equal to 1 or returned to baseline except alopecia (any grade) and Grade 2 peripheral neuropathy
+Adverse events from prior anti-cancer therapy that have not resolved to Grade less than or equal to (</=) 1 except for alopecia or endocrinopathy managed with replacement therapy
+Resolution of any adverse events (AEs) from prior treatments must be resolved to baseline or grade =< 1 at enrollment (with the exception of alopecia), neuropathy, and ototoxicity (i.e., AEs that are not expected to improve within the washout period)
+Grade 3 or 4 immune related toxicity associated with prior ipilimumab therapy that has not resolved to grade 0 or 1
+Active diarrhea of any grade
+Cytotoxic chemotherapy or radiotherapy within 3 weeks prior and any encountered treatment-related toxicities (excepting alopecia) not resolved to Grade 1 or less [Phase 1] or Grade 2 or less [Phase 2].
+Monoclonal antibodies within 4 weeks prior and any encountered treatment-related toxicities not resolved to Grade 1 or less [Phase 1] or Grade 2 or less [Phase 2].
+Investigational drugs (small molecules or biologics) within the longer of 2 weeks or 5 half-lives prior to study treatment and any encountered treatment-related toxicities not resolved to Grade 1 or less [Phase 1] or Grade 2 or less [Phase 2].
+Patients must have recovered from adverse events attributable to previous treatment to =< grade 1, except for alopecia and sensory neuropathy =< grade 2
+Recovery (ie, to Grade 1 or baseline) from all clinically significant AEs related to prior therapies (excluding alopecia, neuropathy, and nail changes)
+Subjects who have not recovered to within one grade level (not to exceed grade 2) of their baseline following a significant adverse event or toxicity attributed to prior anti-cancer treatment are excluded
+Any ongoing toxicity from prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity (except alopecia)
+The patient has persistent clinically significant toxicities Grade ? 2 from previous chemotherapy (excluding alopecia, nausea, fatigue, and liver function tests (as mandated in the inclusion criteria)).
+Except for alopecia, any unresolved toxicities from prior therapy greater than CTCAE Grade 1 at the time of starting study treatment.
+All prior treatment-related toxicities must be CTCAE v4 grade =< 1 (except alopecia) at the time of randomization
+Known persistent (> 4 weeks) ? Grade 2 neutropenia, ? Grade 2 thrombocytopenia or > Grade 3 anemia from prior cancer therapy
+Grade 3 colitis, hepatitis, pneumonitis uveitis, myocarditis, myositis, CNS toxicity or autoimmune related neuromuscular toxicity such as myasthenia gravis associated with the administration of an immune checkpoint inhibitor
+Patients must not have any prior grade >= 3 immune-related adverse event (irAE) or any unresolved irAE > grade 1
+Patients must not have any prior grade >= 3 immune-related adverse event (irAE) or any unresolved irAE > grade 1 (MEDI4736 RE-TREATMENT)
+Subject has any unresolved toxicity Grade > 1 from previous anti-cancer therapy
+Unresolved toxicities from previous anticancer therapy
+Patients must have completed any prior chemotherapy, radiotherapy or major surgery at least 4 weeks before receiving study treatment; ongoing toxicities related to treatment must be =< grade 1 and patients with grade 2 alopecia or peripheral neuropathy can also be included; palliative radiation to < 10% of bone marrow is permissible if completed within one week of commencing study treatment as long as the toxicities secondary to palliative radiotherapy are limited to grade 1; the lesions that have received radiation treatment immediately before will be excluded as target lesions; previously irradiated lesions can be considered as targeted lesions, as long as there is prove of radiological progression
+Ongoing toxicity due to a prior therapy, unless returned to baseline or Grade 1. Grade 2 toxicities (e.g., alopecia or peripheral neuropathy) that are not likely to increase the subject's safety risk while receiving trial treatment may be accepted after Sponsor approval.
+Minimal or no ongoing toxicity from immediately prior therapy according to specific appropriate criteria. Mild ongoing toxicity is allowed in case of alopecia, skin toxicity, fatigue and/or finger numbness or tumbling.
+Had rash ? Grade 3 during prior thalidomide, lenalidomide, or pomalidomide therapy
+Acute toxicities of prior treatments and procedures not resolved to grade ? 1 or baseline before randomisation.
+Adverse events except for sensory neuropathy from any previous treatments must be resolved or stabilized to Grade less than equal to (</=) 2 prior study start
+Adverse events from prior anti-cancer therapy that have not resolved to Grade <= 1 except for alopecia
+No neurosensory or neuromotor toxicity >= grade 2 at the time of registration
+Patients must not have a limiting unresolved grade 3 or greater toxicity from lenalidomide monotherapy or drug intolerance preventing continuation of lenalidomide treatment
+Toxicity from previous anti-cancer therapy that has not recovered to ?Grade 1 prior to enrollment (except for non-clinically significant toxicities, e.g., alopecia, vitiligo). Subjects with existing pneumonitis as a result of radiation are not excluded; however, subjects cannot be oxygen dependent.
+No ongoing toxicity from prior anti-cancer treatment that may interfere with study treatment. All toxicities attributed to prior anti-cancer therapy other than alopecia and fatigue must resolve to grade 1 or baseline before administration of the study treatment.
+All acute treatment-related toxicity must have resolved to Grade less than or equal to (</=) 1 or be deemed stable by the Investigator
+Patients must have recovered (to baseline/stabilization) from prior chemo- or radio-therapy and associated acute toxicities must have resolved to a NCI CTCAE v4 Grade 1 or less, with the exception of alopecia
+Recovery to ? Grade 1 or baseline of any toxicities due to prior systemic treatments, excluding alopecia;
+Prior history of >= grade 2 neurotoxicity or any other toxicity requiring discontinuation of taxane therapy that has not resolved to =< grade 1, with the exception of alopecia
+Grade 3 or 4 toxicity related to prior VEGFR TKI that did not resolve to grade 1
+Any unresolved toxicity greater than Common Toxicity Criteria (CTC) grade 1 from previous anti-cancer therapy
+Patients must have recovered from all infectious and non-hematologic toxicities from prior chemotherapy to =< CTCAE grade 1 or baseline prior to study enrollment
+Resolution of all toxicities and any toxic effect(s) of the most recent prior therapy to Grade 1 or less (except alopecia). Subjects with ? Grade 2 neuropathy are an exception and may enroll.
+Neuroendocrine tumors, pancreatic basket\r\n* Grade 1 or grade 2 (or described as low grade, intermediate grade, well differentiated, or moderately differentiated) according to reviewing pathologist\r\n* Progressive disease over the preceding 12 months\r\n* Any number of prior therapies, including 0\r\n* Patients using a somatostatin analogue for symptom control must be on stable doses for 56 days prior to enrollment
+Neuroendocrine tumors, extrapancreatic basket\r\n* Grade 1 or grade 2 (or described as low grade, intermediate grade, well differentiated, or moderately differentiated; typical or atypical carcinoid if originating in lung) according to reviewing pathologist\r\n* Progressive disease over the preceding 12 months\r\n* Any number of prior therapies, including 0\r\n* Patients using a somatostatin analogue for symptom control must be on stable doses for 56 days prior to enrollment
+At least a two-week washout period since the end of the last therapy (six weeks for a prior nitrosourea-containing regimen), recovery to grade ? 1 from any non-hematological adverse event (AE) derived from previous treatment (excluding alopecia).
+All acute toxic effects of any prior antitumor therapy resolved to Grade ? 1 before the start of study drug dosing (with the exception of alopecia [Grade 1 or 2 permitted] and neurotoxicity [Grade 1 or 2 permitted])
+Any unresolved toxicity > Common Toxicity Criteria Grade 1 (except alopecia) from previous anticancer therapy (including radiotherapy)
+have discontinued all previous treatments for cancer and recovered from the acute effects of therapy, other than less than or equal to Grade 2 neuropathy or nonserious and nonlife-threatening toxicities such as alopecia, altered taste, and nail changes
+Any prior Grade ? 3 immune-related adverse event (irAE) or any prior corticosteroid-refractory irAE
+Unresolved toxicities from prior anticancer therapy, defined as having not resolved to NCI CTCAE v 4.03 < Grade 2 or normalized to baseline, or to levels dictated in the inclusion/exclusion criteria, with the exception of alopecia.
+Prior surgical treatment for prostate cancer is allowed but must have been completed at least 14 days prior to registration and any toxicity from such therapy must have recovered to ? grade 1 per CTCAE version 4 criteria by the time of registration.
+Grade >1 toxicity from prior therapy (except alopecia or anorexia).
+Current Grade greater than (>) 1 toxicity (except alopecia and anorexia) from prior therapy
+Previous primary progression or grade 3 toxicity on treatment with brentuximab vedotin
+All treatment-related or radiation-related toxicities resolved to Grade 1 or lower
+Lack of recovery from all toxicity from previous therapy to grade 1 or baseline
+Uncontrolled grade 2 or greater toxicity except alopecia
+Patients have not recovered from all toxicities related to prior anticancer therapies to grade ?1 (CTCAE v 4.03)
+Patients with recurrent WHO grade III gliomas should have received one prior treatment for recurrent high grade disease
+Presence of grade 3 or greater toxicity from the previous treatment
+Patients must have recovered from all reversible toxicities related to prior therapy before beginning protocol treatment, and may not have any pre-existing treatment-related toxicities greater than grade 2; patients must have < grade 2 pre-existing peripheral neuropathy
+Grade 3-4 adverse event (AE) associated with prior anti-VEGF therapy; grade 3 hypertension that was readily managed will be permitted
+Toxicity from prior therapy (excluding alopecia) that has not resolved to =< grade 1 prior to the first treatment with G-202
+Should be off any active systemic therapy for AML with the exception of hydroxyurea for at least 14 days prior to study registration unless patient has rapidly progressive disease, and all grade 2-4 non-hematologic toxicities should have resolved
+Baseline toxicities from prior anti-cancer treatments > grade 1
+known and persistent (>4 weeks) >/= grade 3 toxicity or fatigue from prior cancer treatment.
+Patients must not have >= grade 2 diarrhea
+Recovery to Grade 1 or baseline of any toxicity due to prior systemic treatments (excluding alopecia).
+Existing severe major organ dysfunction i.e., renal, cardiac, hepatic, neurologic, pulmonary, or gastrointestinal toxicity >= grade 3 except for hearing loss, alopecia, anorexia, nausea, hyperbilirubinemia and hypomagnesemia from total parenteral nutrition (TPN), which may be grade 3
+Toxicity of ? Grade 2 from prior anticancer therapy
+Not recovered to baseline or Common Terminology Criteria for Adverse Events (CTCAE) =< grade 1 from toxicity due to all prior therapies except alopecia and neuropathy; alopecia and neuropathy must have resolved to =< grade 2; congestive heart failure (CHF) must have been =< grade 1 in severity at the time of occurrence and must have resolved completely prior to registration
+Adverse events (AEs) from prior anticancer therapy that have not resolved to grade =< 1 except for alopecia
+Resolution of grade 2 and above toxicities of most recent therapy except for stable sensory neuropathy (=< grade 2) and alopecia
+Persistent clinically significant toxicities (Grade ?2) from previous anticancer therapy (excluding Grade 2 chemotherapy-related neuropathy and alopecia which are permitted). Prior toxicities that resulted in laboratory abnormalities should have resolved to Grade ?1. If medical therapy is required for the treatment of a laboratory abnormality, the dose and laboratory value(s) should be stable.
+A history of any grade immune-related ocular event.
+A history of Grade ?3 immune-related adverse event regardless of offending agent.
+Previously received an immune therapy that was discontinued due to immune-related AEs, regardless of grade.
+Persisting ?Grade 2 CTCAE toxicity (except alopecia and Grade 2 peripheral neuropathy) from previous anti-cancer treatment(s)
+Resolution of treatment-related toxicities except alopecia
+All grade >= 2 toxicities other than alopecia from prior therapy have resolved by the time of study commencement
+Must have recovered from all treatment-related toxicities to Grade 1 or less.
+Toxicity related to prior therapy must either have returned to =< grade 1, baseline, or been deemed irreversible. Certain non-serious exceptions include alopecia, hypothyroidism, neuropathy, nausea, adrenocortical deficiency requiring physiologic replacement dose of steroids, and other conditions noted and approved by the principal investigator (PI).
+Toxicity related to prior therapy must either have returned to =< grade 1, baseline, or been deemed irreversible. Certain non-serious exceptions include alopecia, hypothyroidism, neuropathy, nausea, adrenocortical deficiency requiring physiologic replacement dose of steroids, and other conditions noted and approved by the PI.
+Prior chemotherapy must have been completed 21 days prior to initiation of protocol therapy and all toxicities must < grade 2.
+Intolerance to bevacizumab defined as any NCI CTCAE grade 3 or grade 4 toxicity attributed to this agent that required discontinuation of bevacizumab (e.g., arterial thromboembolism [ATE], perforation, wound healing difficulty, proteinuria, reversible posterior leukoencephalopathy syndrome [RPLS]); Note: patients with prior grade 3 bevacizumab-related hypertension may be permitted if hypertension was manageable with standard oral antihypertensives as so judged by the treating physician
+Persistence of clinically relevant therapy related toxicity from previous chemo and/or radiotherapy
+Patients are not eligible if they have an intolerance to most recent prior TKI (other than dasatinib) at the lowest possible effective dose, defined as a grade >= 3 toxicity considered at least possibly related to that TKI; patients are also excluded if they are intolerant or allergic to dasatinib and discontinued prior therapy due to a >= grade 2 treatment related adverse event
+Patients should have discontinued any and all other therapy for CLL >= 48 hours prior to start of study therapy and recovered from any toxicity due to these therapies to grade =< 1
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade1
+Recovery from acute toxicity related to prior therapy, including surgery and radiation, or no toxicity >= grade 2
+Recent prior therapy, defined as follows: 1) Any investigational or Food and Drug Administration (FDA)-approved anti-cancer drug within 14 days or 5 half-lives, whichever is longer, prior to the first dose of GSK2820151. Any nitrosoureas or mitomycin C within 42 days prior to the first dose of GSK2820151. Prior therapy with monoclonal antibodies is permitted so long as 14 days have elapsed since therapy and all therapy-related toxicity has resolved to Grade 1 or less. Note that an investigational drug is defined as a drug without an approved oncologic indication. 2) Any radiotherapy within 14 days or major surgery within 28 days prior to the first dose of GSK2820151. 3) Anti-androgen therapies for prostate cancer, such as bicalutamide, must be stopped 4 weeks prior to enrollment. Second-line hormone therapies such as enzalutamide, abiraterone, or orteronel should be stopped 2 weeks prior to enrolment. Subjects with prostate cancer should remain on luteinizing hormone releasing hormone (LHRH) agonists or antagonists. Subjects with prostate cancer may also remain on low-dose prednisone or prednisolone (up to 10 milligrams [mg]/day) and still be eligible for this study. 4) In addition, any therapy-related toxicity must have resolved to Grade 1 or less, with the exception of alopecia (acceptable at any Grade) and peripheral neuropathy (which must be Grade 2 or less prior to enrollment).
+Toxicities from prior therapies that have not resolved to grade 1 or grade 0
+A minimum of two weeks since last dose of most recent RCC therapy assuming resolution of clinically significant treatment-related toxicities to grade 1, baseline, or controlled with supportive medications
+Recovered from all toxicities associated with prior treatment, to acceptable baseline status or grade 1 or less, except for toxicities not considered a safety risk, such as alopecia or vitiligo; peripheral neuropathy must be grade 2 or less
+Grade 3b FL
+Recovery to ? Grade 1 or baseline of any toxicities, except for stable sensory neuropathy ? Grade 2 and alopecia
+Patients must be at least 2 weeks from prior chemotherapy, including biologics or targeted therapy (i.e. everolimus), or radiotherapy, or any investigational drug product, with adequate recovery of toxicity to baseline, or grade < 1, with the exception of alopecia and hot flashes; there is no washout period for prior endocrine therapy
+Grade > 2 toxicity (other than alopecia) continuing from prior anti-cancer therapy
+All adverse events related to prior therapies (chemotherapy, radiotherapy, and/or surgery) must be resolved to =< grade 1, except for alopecia
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1
+Side effects from prior treatment have not resolved to =< grade 1 (or baseline due to previously administered agent/pre-existing conditions)
+Persistent proteinuria of Common Toxicity Criteria (CTC) grade 3 or higher (>= 3.5 g/24 hours [hrs])
+Unresolved toxicity greater than CTCAE (version 4.0) grade 1 attributed to any prior therapy/procedure excluding alopecia and oxaliplatin induced neurotoxicity =< grade 2
+Any prior Grade ?3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE >Grade 1
+Recovered from toxicities of prior therapy to grade 0 or 1
+Previous systemic anti-cancer therapy must have been discontinued at least 3 weeks prior to treatment and adverse effects must have resolved to =< grade 1 or baseline; in the phase IIa portion, in progressing subjects, a 2 week washout may be allowed after discussion with the Memorial Sloan-Kettering (MSK) principal investigator
+Subjects who have not recovered to Grade 0 or 1 toxicity from previous anti-cancer treatments or previous investigational agents.
+Any unresolved toxicity NCI CTCAE Grade ?2 from previous anticancer therapy with the exception of alopecia, vitiligo, and the laboratory values defined in the inclusion criterion;
+Significant unresolved toxicities from previous anticancer therapy that have not resolved, or have not stabilized at a new baseline
+Participants must have recovered to grade 1 toxicity from prior therapy
+Failure to recover to grade 1 or baseline from all toxic effects of previous chemotherapy, radiation therapy, biologic therapy, and/or experimental therapy, with the exception of: alopecia, grade =< 2 peripheral neuropathy, grade =< 2 cetuximab-related rash or other skin changes, hypomagnesemia (acceptable values detailed below), hypokalemia (acceptable values detailed below), and the acceptable hematologic values summarized above; a washout period of 2 weeks from prior cetuximab is required; a washout period of 3 weeks from any prior cytotoxic chemotherapy or investigational drug is required
+Patients receiving chemotherapy or radiotherapy within 4 weeks of injection of HF10, or history of Grade 4 adverse events or presence of adverse events Grade 2 or greater, except alopecia, resulting from anticancer agents administered more than 4 weeks prior to HF10 injection.
+Toxicity from prior radiation therapy has NOT resolved to grade 1 or less
+Recovered from prior radiotherapy and/or systemic therapy related toxicities to grade =< 1
+All AEs while receiving prior immunotherapy must have resolved to ? Grade 1 or baseline prior to screening for this study.
+Must not have experienced a ? Grade 3 AE or neurologic or ocular AE of any grade while receiving prior immunotherapy
+Any unresolved toxicity NCI CTCAE Grade ?2 from previous anticancer therapy with the exception of alopecia, vitiligo, and the laboratory values defined in the inclusion criterion
+Grade ? 2 toxicity (other than alopecia).
+Any unresolved toxicity CTCAE >Grade 2 from the prior chemoradiation therapy.
+Toxicities related to prior therapy must either have returned to =< grade 1, baseline, or deemed irreversible
+Subjects who have had any anticancer treatment prior to entering the study and have not recovered to baseline (except alopecia) or ? Grade 1 AEs, or deemed irreversible from the effects of prior cancer therapy. AEs > Grade 1 that are not considered a safety risk by the Sponsor and investigator may be allowed upon agreement with both, including residual neuropathy.
+Unresolved toxicity higher attributed to any prior therapy/procedure excluding alopecia, hypothyroidism and oxaliplatin- induced neurotoxicity ? Grade 2 for at least 14 days;
+Patients must have recovered from the toxicity of prior therapy to less than grade 2
+Toxicities related to prior therapy must either have returned to =< grade 1, baseline or deemed irreversible
+Any unresolved toxicity CTCAE >Grade 2 from previous anti-cancer therapy.
+Any prior Grade ?3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE >Grade 1
+Patients with > grade 1 neurologic toxicity at the time of treatment
+Patients may have been treated with locoregional therapies such as major surgery, radiation, radiofrequency ablation, or cryosurgery provided this has been completed at least 4 weeks prior to registration and recovered from therapy related toxicity to less than CTCAE grade 2
+Recovered from toxicities of previous anticancer therapy
+Patients will be ineligible if they have a baseline neurologic toxicity of grade 3 or greater
+Recovery to =< grade 1 toxicities associated with prior therapy
+Participants may or may not have received adjuvant radiotherapy, but must be at least 30 days after last dose radiotherapy, with no more than grade 1 residual toxicity at the time of screening
+Recovery from effects of recent treatment to baseline or CTCAE =< grade 1 toxicity from all prior therapies except alopecia and other non-clinically significant adverse events (AEs), unless the principal investigator (PI) determination is that the electrolyte imbalance is a result of the disease process
+All adverse events (excluding alopecia, acne, rash) due to agents administered more than 2 weeks earlier should recover to =< grade 1; patients with hematologic malignancies are expected to have hematologic abnormalities at study entry; these abnormalities which are thought to be primarily related to the underlying leukemia, are not considered to be toxicities (adverse events [AE]) and do not need to resolve to =< grade 1
+Grade ? 2 toxicity (other than alopecia) continuing from prior anticancer therapy including radiation.
+Patients must have recovered to =< grade 1 in terms of toxicity from prior treatments (excluding neuropathy which can be =< grade 2)
+Received any anti-cancer or investigational therapy within 28 days prior to the first dose of study drug or has not recovered to less than Grade 2 clinically significant adverse effect(s)/toxicity(ies) of any previous therapy
+All toxicity related to prior cancer therapies must have resolved to ? Grade 1, with the following exceptions: alopecia; neuropathy, which must have to resolved to ? Grade 2; and congestive heart failure (CHF), which must have been ? Grade 1 in severity and must have resolved completely.
+Any prior Grade ? 3 immune-related adverse event (irAE) or any prior corticosteroid-refractory irAE.
+With the exception of alopecia or toxicities related to the use of gonadotropinreleasing hormone agonists, any unresolved toxicities from prior therapy greater than CTCAE Grade 2 at the time of starting study treatment.
+Inadequate recovery from any toxicity related to prior treatment (to grade 2 or baseline)
+Any ongoing toxicity related to prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity (exceptions include alopecia, fatigue, and hematologic toxicities)
+History of immune-mediated adverse events requiring immunosuppressive therapy or were grade 3 or higher related to prior immune-modulatory therapy
+Grade 3 adenocarcinoma
+Any systemic therapy associated toxicity should be grade 1 or less
+Adverse events (AEs) from prior anticancer therapy that have not resolved to grade ? 1 except for alopecia
+History of any of the following during first-line therapy with a bevacizumab-containing regimen: arterial thrombotic/thromboembolic event, bowel perforation, Grade 4 hypertension, Grade 3 proteinuria or Grade 3 - 4 bleeding event.
+Persisting toxicity related to prior therapy >Grade 1
+Grade 2 or greater toxicities from prior therapy, except for Grade 2 toxicities that are not expected to resolve and that in the judgment of the Investigator do not pose a significant safety risk to subject participation.
+PART B: Previous treatment related side-effects/adverse events must have resolved to at least grade 1 or, at the discretion of the investigator, select stable grade 2 toxicities (e.g. alopecia or fatigue) may be permissible if unchanging in grade for at least 3 months following discussion with the principal investigator (PI)
+Any ongoing toxicity from prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity, except alopecia
+Subjects must be recovered from any clinically relevant toxic effects of any prior surgery, radiotherapy, or other therapy intended for the treatment of cancer. (Subjects with residual Grade 1 toxicity, for example Grade 1 peripheral neuropathy or residual alopecia, are allowed with approval of the Medical Monitor.)
+Subjects who have had any anticancer treatment prior to entering the study and have not recovered to baseline (except alopecia) or? Grade 1 AEs, or deemed irreversible from the effects of prior cancer therapy. AEs > Grade 1 that are not considered a safety risk by the Sponsor and investigator may be allowed upon agreement with both.
+Patients must have recovered from acute toxicity (to grade 1 or less) of all previous therapy prior to enrollment. Treatment may start earlier if necessitated by the patient's medical condition (e.g. progressive disease) following discussion with the Investigator.
+Recovery from acute toxicity related to prior therapy, including surgery and radiation, or no toxicity >= grade 2
+Unresolved toxicity higher than CTCAE v. 4.0 grade 1 attributed to any prior therapy/procedure excluding alopecia and oxaliplatin-induced neurotoxicity (which must be =< grade 2)
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+Patients are excluded from re-induction if they have experienced any related dose-limiting toxicities, delayed dosing beyond 35 days due to tremelimumab-related adverse events (AEs), or have been taken off treatment due to toxicity
+Recovered from toxicity of previous chemotherapy (excludes grade 1 neurotoxicity and hematological toxicity)
+Any ongoing toxicity from prior hormonal therapy that is > grade 1 and/or that is progressing in severity
+Prior hormonal/endocrine therapy =< 2 weeks prior to study entry (except for letrozole, which does not need to be interrupted); patients must have recovered from toxicity > grade 1, except for alopecia
+Prior HER2-targeted therapy < 3 weeks prior to study entry; patients must have recovered from toxicity > grade 1, except for alopecia
+Residual toxicity resulting from previous therapy (for example, hematologic, cardiovascular, or neurologic toxicity that is Grade >/=2). Alopecia is permitted
+Grade > 2 treatment-related toxicity from prior therapy
+Urinalysis with < grade 1 proteinuria
+Any unresolved toxicity greater or equal to grade 2 from previous anticancer therapy, except for stable chronic toxicities not expected to resolve
+Completed > 80% of the prescribed radiation therapy and concurrent temozolomide according to the Stupp regimen without grade 3 or 4 hematologic toxicity
+Patient must not be experiencing any ongoing toxicity from prior anti-cancer therapy that is > grade 1 or that is progressing in severity, except alopecia
+Patients must be at least 4 weeks from any prior treatments and have recovered (to < grade 2) from acute toxicity attributed to this prior treatment
+Recovered from all reversible toxicities related to their previous treatment (other than alopecia) to =< grade 1 or baseline
+Any prior Grade ? 3 irAE while receiving immunotherapy
+Toxicities related to prior therapy must either have returned to =< grade 1 or baseline or been deemed irreversible and in the opinion of the investigator not worsened
+Recovery from non-hematological toxicities of prior therapy (including HSCT) to no more than grade 1 (except alopecia)
+Recovery to =< grade 1 from all significant toxicities of previous therapies
+Any previous history of >= grade 3 toxicity to Dasatinib
+Has recovered from all acute National Cancer Institute (NCI) Common Toxicity Criteria grade II-IV acute non-hematologic toxicities from prior therapy per the judgment of the principal investigator (PI)
+Sodium levels =< grade 1
+Potassium levels =< grade 1
+Any ongoing toxicity from prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity, except alopecia
+Patients must have recovered to =< grade 1 toxicity (except alopecia and hearing loss) from any prior chemotherapy, other investigational therapy, hormonal, biological, targeted agents
+Any history of previous >= grade 3 toxicity attributable to erlotinib (except dermatological toxicity)
+Any grade 3 or 4 -hematologic toxicity of previous therapy must have resolved to grade 2 or less prior to apheresis and any grade 3 or 4 toxicity must have resolved to grade 2 or less prior to pre-infusion lymphodepletive chemotherapy.
+Patients must be at least 2 weeks from prior chemotherapy or radiotherapy, or any investigational drug product with adequate recovery of toxicity to baseline, or grade =< 1, with the exception of alopecia and hot flashes; there is no washout period for prior endocrine therapy
+Resolution of all chemotherapy or radiation-related toxicities to grade 1 severity or lower except for alopecia
+Received treatment with chemotherapy, radiation, antibody therapy or other immunotherapy, gene therapy, vaccine therapy, angiogenesis inhibitors, or experimental drugs 14 days prior to first dose of rucaparib and/or ongoing adverse effects from such treatment > NCI CTCAE Grade 1 (Grade 2 non-hematologic toxicity to most recent treatment may be permitted with prior advanced approval from Sponsor).
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); Note: patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less
+Any ongoing toxicity from prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity
+Unresolved toxicities from prior therapy with the exception of alopecia that have not resolved to ? Grade 1 at the time of starting study treatment
+Any ongoing toxicity from prior investigational therapy that is > grade 1 and/or that is progressing in severity, except alopecia
+Patients with any unresolved toxicity greater than Grade 1 from previous anticancer therapy
+Any ongoing toxicity from prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity, except alopecia
+Last anti-cancer treatment (including any investigational drug) >= 2 weeks from initiation of protocol-based therapy, and provided all adverse events (AEs) (other than alopecia) have resolved to =< grade 1 at baseline
+Grade >1 retinopathy
+Recovered from all reversible toxicities related to their previous treatment (other than alopecia) to =< grade 1 or baseline
+Dehydration according to NCI-Common Toxicity Criteria (CTC) v 4.0 grade >= 1
+Unresolved toxicity higher than CTCAE v. 4.0 grade 1 attributed to any prior therapy/procedure excluding alopecia and oxaliplatin-induced neurotoxicity (which must be =< grade 2)
+Persistent toxicities >= grade 2 from prior chemotherapy or biological therapy regardless of interval since last treatment
+Has recovered from all therapy-related toxicity to =< grade 2 (except alopecia, anemia and any signs or symptoms of androgen deprivation therapy)
+Patient did not discontinue due to a Grade ?3 related adverse event
+CARBOPLATIN AND PACLITAXEL ARMS: patient with neuropathies of Common Toxicity Criteria (CTC) grade 1 or less
+EXPANSION COHORT ONLY: Any ongoing toxicity from prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity; hypothyroidism treated with medication is not excluded if TSH is within normal limits
+Subject has recovered from toxicities of prior chemotherapy or other therapy (to grade 2 or less)
+Adequate recovery from any adverse events resulting from prior anti-neoplastic treatment including chemotherapy, biological therapy, targeted small molecule therapy, radiation therapy, and surgery as determined by the investigator (and in consultation with the study PI); in most instances, adequate recovery is resolution to =< grade 1 except for alopecia of any grade, grade 2 neuropathy and/ or any grade hearing loss
+Recovery to baseline or ? Grade 1 CTCAE v4 from toxicities related to any prior treatments, unless AE(s) are clinically nonsignificant and/or stable on supportive therapy.
+Any unresolved toxicity (> CTCAE grade 2) from previous anti-cancer therapy; subjects with irreversible toxicity that is not reasonably expected to be exacerbated by the investigational product may be included (e.g., alopecia, hearing loss, peripheral neuropathy)
+Grade 3 histology
+Participants who have had endocrine, chemotherapy, and/or biologic therapy < 14 days prior to entering the study or those who have not recovered from any prior treatment-related toxicities (must recover to no more than grade 1; alopecia, sensory neuropathy grade =< 2, or other grade =< 2 toxicity not constituting a safety risk based on investigator’s judgment are acceptable)
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Adverse events (AEs) from prior anticancer therapy that have not resolved to grade =< 1 except for alopecia
+Any toxicity related to prior cancer therapies that has not resolved to =< grade 1, with the exception of peripheral neuropathy, which must have resolved to =< grade 2, and alopecia
+Have not recovered (to baseline or Grade ?1) from toxicity associated with prior treatment.
+Any unrecovered toxicity reactions of CTCAE version 4.03 > grade 1 caused by any previous therapy (excluding alopecia and neurotoxicity < grade 2)
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Have resolution of all previous treatment-related toxicities to Grade 1 severity or lower, except for stable sensory neuropathy (less than or equal to Grade 2) or alopecia. If subject received major surgery or radiation therapy of > 30 Gy, must have recovered from the toxicity and/or complications from the intervention.
+Any persistent, unresolved Common Terminology Criteria for Adverse Events (CTCAE) Grade ?2 drug-related toxicity (except alopecia, erectile impotence, tinnitus, hot flashes, and loss of libido) associated with previous treatment. Inclusion of patients with persistent neuropathy or hearing loss Grade ?2 due to previous treatment requires discussion with the sponsor.
+Toxicity from prior chemotherapy that has not resolved to Grade ? 1;
+Grade 3/4 proteinuria
+Resolution of all chemotherapy related grade III-IV toxicity as per Common Toxicity Criteria (CTC) criteria 4.0
+Resolution of all chemotherapy related grade III-IV toxicity as per CTC criteria 4.0
+Patients must not have a history of grade >= 2 neurological toxicity with previous treatment, or persistent grade >= 2 peripheral neuropathy; drowsiness and lethargy were exempted from this criteria unless previously persistent for more than one week
+Any prior therapies such as surgery, chemoembolization, radiofrequency ablation, and alcohol injection are allowed as long as toxicity from such prior therapy is =< grade 1
+PRIOR TO MOBILIZATION THERAPY: Resolution of grade III-IV toxicity associated with pre-transplant therapy
+PRIOR TO HIGH-DOSE CHEMOTHERAPY: Patients without evidence of ongoing grade III-IV toxicity related to mobilization therapy
+PRIOR TO POST-TRANSPLANT IMMUNOTHERAPY: Resolution of all transplant related grade III-IV toxicity
+Grade >1 retinopathy
+More than three weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo)
+If patient has received previous systemic treatment, at least 4 weeks must have elapsed since the last chemotherapy, radiotherapy or immunotherapy and the beginning of protocol therapy and the patient must have recovered from toxicity due to the previous therapy (i.e., toxicity has resolved to baseline or is deemed irreversible)
+All previous cytotoxic chemotherapy must be completed at least 2 weeks prior to study entry, with the exception of the tyrosine kinase inhibitors imatinib, nilotinib and dasatinib which may be continued through induction therapy; any grade 3 or 4 nonhematologic toxicity of any previous therapy must have resolved to grade 2 or less, unless specified elsewhere
+All associated toxicity from previous or concurrent cancer therapy must be resolved (to ?Grade 1 or Baseline) prior to study treatment administration
+History of Grade ?3 infusion-related adverse events (AEs) or hypersensitivity to NEOD001
+Failure to recover to Grade 0 or Grade 1 from acute non-hematologic toxicity due to previous therapy, prior to screening (with the exception of alopecia).
+Clinically significant toxic effects of any prior antitumor therapy (except hydroxyurea) resolved to Grade ? 1 before the start of study therapy (bone marrow parameters [Grade 1 to 4 permitted]);
+Recovery to Grade 1 from all clinically significant adverse events related to prior MF therapy, including transplant-related toxicities.
+Any unresolved toxicity (> CTCAE grade 2) from previous anti-cancer therapy
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Grade > 2 treatment-related toxicity from prior therapy
+All associated toxicity from previous or concurrent cancer therapy must be resolved (to ? Grade 1 or Baseline) prior to study treatment administration.
+Recovered from toxicities of previous anticancer therapy to CTCAE Grade ? 1 with the exception of alopecia.
+Residual AEs >Grade 2 from previous treatment
+Toxicity recovery should include the following:\r\n* Grade =< 2 neuropathy\r\n* Grade =< 2 diarrhea\r\n* Grade =< 2 mucositis
+Has any unresolved toxicity ? Grade 2 from previous anticancer therapy
+Residual AE from previous treatment > Grade 1
+Subjects experiencing unresolved toxicity of previous antitumor therapy (excluding alopecia) which is CTCAE Grade >1 at screening
+Known grade 3 or 4 neurotoxicity
+Persistence of toxicity from previous chemo and/or radiotherapy > grade 2
+Ongoing toxicities >= grade 2 from prior therapy
+Discontinuation of prior anticancer therapy for ? 7 days prior to C1D1 and recovered to ? CTCAE grade 2 (or baseline) from any acute or chronic toxicity associated with prior therapy.
+Unresolved or unstable, serious toxicity from prior cancer treatment (any toxicities greater than grade 2)
+Participants with history of chronic diarrhea, grade >= 2 prior to study participation; persons with up to grade 1 diarrhea will be eligible
+Grade > 2 treatment-related toxicity from prior therapy
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); patients must have progressing disease after prior treatment; note: patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less or as specified in the eligibility criteria
+Patients who have toxicity from last prior therapy that has not recovered to at least Grade 1, with the exception of Grade 2 alopecia
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); Note: patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less
+Patients are permitted to have been treated with previous systemic chemotherapy; a minimal time interval since last dose of cytotoxic chemotherapy must be equal to or greater than 21 days, and all acute toxicities should be resolved to less than grade 2, and hematologic counts should meet study criteria; with regards to toxicity, patients who have left sided chest wall recurrences should not have previously exceeded more than 450 mg/m^2 doxorubicin due to expected cumulative cardiotoxicity; prior taxane therapy is allowed, however, there should be no reported anaphylactic reactions of grade 3 or higher
+9. All prior cytotoxic toxicities must have resolved to grade ? 1 prior to randomization.
+Recovered to Grade 1 from reversible toxicities of prior therapy
+Subjects who have not recovered from the adverse effects of prior therapy at the time of enrollment to ? grade 1; excluding alopecia and grade 2 neuropathy.
+Any ongoing toxicity from prior anti-cancer therapy that is > Grade 1 and/or that is progressing in severity, except alopecia.
+Resolution of prior treatment associated toxicities to ? grade 1
+Patients must have Eastern Cooperative Oncology Group (ECOG) performance status of 0-2 as below:\r\n* Grade 0: Up and about, no restriction\r\n* Grade 1: Ambulatory, no strenuous activity\r\n* Grade 2: Ambulatory, capable of self-care appropriate for age; up and about > 50% of time, but unable to carry out any physical activities or attend school\r\n* Grade 3: Limited self-care only; up and about < 50% of time\r\n* Grade 4: Disabled, no self-care; bedridden or confined to chair
+Serum cholesterol >= Grade 2
+Hypertriglyceridemia >= Grade 2
+Residual relevant toxicity resulting from previous therapy
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo)
+NON-PROGRESSED DIPG (STRATUM 2): Patients must have recovered from the acute treatment-related toxicities (defined as =< grade 1) of radiotherapy prior to entering this study
+With the exception of alopecia, any unresolved toxicities from prior chemotherapy should be no greater than CTCAE v4 grade 1 at the time of starting study treatment
+Patients must have recovered from all toxicities related to prior anticancer therapies to grade =< 2 (Common Terminology Criteria for Adverse Events [CTCAE] version [v] 4.03) provided that concomitant medication is given prior to initiation of treatment with LDK378 [ceritinib], except for patients with grade 2 nausea/vomiting and/or grade 2 diarrhea despite optimal supportive therapy who will not be allowed to participate in the study; additionally, patients with any grade of alopecia are allowed on treatment
+Grade 3b FL
+At least 2 weeks since last cytotoxic chemotherapy, hormonal therapy, or radiotherapy; toxicities related to prior therapy must either have returned to grade 1, or baseline (excluding alopecia)
+Patients must have recovered from adverse events attributable to previous treatment to =< grade 1, except for alopecia and sensory neuropathy =< grade 2
+Resolution of all chemotherapy-related or radiation-related toxicities to Grade 1 severity or lower, except for stable sensory neuropathy (<= Grade 2) and alopecia.
+There are no limits on prior lines of therapy; however, patients must have recovered to eligibility levels from prior toxicity or adverse events as a result of previous treatment prior to entering the study (except alopecia)
+All associated toxicity from previous or concurrent cancer therapy must be resolved (to ? Grade 1 or Baseline) prior to study treatment administration.
+Ongoing infection of ? Grade 2 severity.
+Patients should be without any persisting clinically significant > grade 2 hematological/non hematological toxicities from previous treatments that would preclude evaluation of toxic effects of study treatment; grade 1 residual toxicity will be acceptable; patients should be off previous treatment at least 2 weeks from prior therapies before treatment start
+Any unresolved chronic toxicity greater then Common Terminology Criteria (CTC) grade 2 from previous anticancer therapy
+Experienced resolution of toxic effect(s) of the most recent prior anti-cancer therapy to Grade ?1 (except alopecia or neuropathy)
+All acute treatment-related toxicity from prior therapy must have resolved to Grade ? 1 prior to study entry
+Current Grade greater than (>) 1 toxicity (except alopecia and anorexia) from prior therapy or Grade >1 neuropathy from any cause
+Participant with ? Grade 2 (CTCAE v 4.0-JCOG) persistent symptoms and objective findings due to the toxicity attributable to prior treatment with antitumor effect (except alopecia).
+Resolution of non-hematologic toxic effect(s) of NAC to =< grade 1 or baseline (except alopecia)
+Has not recovered from the adverse effects of previous anti-cancer treatments to pre-treatment baseline or Grade 1, except for alopecia, anemia (hemoglobin must meet the present study inclusion criterion), and peripheral neuropathy (which must have recovered to ? Grade 2).
+Treatment related residual toxicity > grade 1
+Has recovered from all acute National Cancer Institute (NCI) Common Toxicity Criteria grade II-IV non-hematologic toxicities from prior therapy per the judgment of the principal investigator (PI)
+High grade (or grade 3) serous histology or known to have gBRCAmut
+Recovery to grade ? 1 or to baseline from any AE derived from previous treatment (excluding alopecia of any grade).
+Patient with an unresolved ? Grade 2 AE from a previous antineoplastic treatment, excluding alopecia.
+Patient has an unresolved ? Grade 2 AE from a previous antineoplastic treatment, excluding alopecia.
+Resolution of all prior treatment-related toxicities to Grade 1 or less, except for Grade 2 fatigue or alopecia prior to C1D1
+Persistent grade 2 fatigue at Baseline.
+Persistent toxic effects with severity of CTCAE grade 2 or greater (excluding alopecia) caused by previous treatment
+Recovery to grade 1 or baseline of any toxicity due to prior anticancer therapies (excluding alopecia)
+Acute prior study treatment related toxicity (except alopecia) that has not resolved to Grade < or = to 1 unless it has been deemed stable by the investigator
+Failure to recover to Grade 1 or lower toxicity related to prior systemic therapy (excluding alopecia and neuropathy) prior to study entry
+All acute toxic effects of any prior antitumor therapy resolved to Grade ? 1 before enrollment, with the exception of alopecia (any grade permitted)
+Patients must have recovered (grade 1 or baseline) from any clinically significant toxicity associated with prior therapy
+For Part A only: Participants who did not recover from all clinically significant toxicities (excluding alopecia and hematologic toxicities) of any previous surgery, radiotherapy, targeted therapy, or chemotherapy to less than or equal to Grade 1
+Ongoing toxic manifestations of previous treatments. Exceptions to this are alopecia or Grade 1 toxicities which, in the opinion of the Investigator, should not exclude the patient.
+Prior treatment toxicities (i.e. any toxicity from treatment of a previous cancer ) must be resolved to =< grade 1 according to National Cancer Institute (NCI) CTCAE version 4.0 (except alopecia)
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+Patients must have recovered from acute side effects of HSCT, defined as having < grade 2 non-hematological toxicity related to the transplant (exceptions are alopecia and other non-acute toxicities)
+Has received treatment with any systemic anticancer therapy, wide-field radiation, or experimental agent within 4 weeks of receiving cyclophosphamide on Day -3, with the exception of anticancer hormonal therapy, which may not be given within 2 weeks of receiving cyclophosphamide on Day -3. All residual toxicity related to prior anticancer therapies (excluding vitiligo, endocrinopathies on stable replacement therapy, alopecia and Grade 2 fatigue) must resolve to Grade 1 severity or less or return to baseline prior to receipt of study treatment.
+Lack of recovery from all toxicity from previous therapy to grade 1 or baseline
+Recovered from any previous therapy related toxicity to <= Grade 1 at study entry (except for stable sensory neuropathy <= Grade 2 and alopecia)
+Must have full recovery from any toxicities from prior therapy CTCAE Grade 1 or less with the exception of Grade 2 alopecia) prior to randomization.
+Failure to recover to grade 1 or less all prior adverse events.
+Grade 3 immune mediated adverse event that was considered related to previous immunotherapy and required immune suppressive therapy;
+Grade 2 hepatic function related adverse event that persisted more than 1 week, was considered related to immunotherapy, or required treatment discontinuation or immunosuppressive therapy
+Inadequate recovery from any toxicities related to prior treatment (to grade 1 or baseline)
+Patients with chronic grade 1 or 2 toxicity may be eligible at the discretion of the principal investigator if the condition has been stable, and not worsening, for at least 30 days; patients with ongoing alopecia of any grade will be eligible
+Unresolved clinically significant toxicity greater than Grade 2 from previous anti-cancer therapy
+Recovery from prior therapy toxicity, defined as resolution of all treatment-related adverse events (AEs) to Grade ? 1 or pre-treatment baseline (except alopecia and lymphopenia).
+All acute treatment-related toxicity from prior therapy must have resolved to Grade ? 1 prior to study entry
+Any prior Grade ? 3 immune-related adverse event while receiving immunotherapy
+Prior treatment toxicities must be ? Grade 1
+Unresolved toxicities from prior anticancer therapy, defined as having not resolved to NCI CTCAE v4.03 Grade 0 or 1, or to levels dictated in the inclusion/exclusion criteria with the exception of alopecia. Subjects with irreversible toxicity that is not reasonably expected to be exacerbated by MEDI0680 (AMP-514) may be included (eg, hearing loss) after consultation with the MedImmune medical monitor
+Have unresolved toxicity from previous treatment or previous investigational agents; excluding alopecia; clinical judgment by the investigator is allowed to determine if grade 1 fatigue at screening is residual toxicity from prior treatment or is a symptom of the patient’s general condition or disease; the investigator and medical monitor will discuss the eligibility of patients with baseline toxicity
+Toxicity (except alopecia and anorexia) from prior therapy or neuropathy of grades >
+Patients with grade >= 3 non-hematologic toxicity from previous therapy that has not resolved to =< grade 1
+Unresolved toxicities from prior anti-cancer therapy, defined as having not resolved to CTCAE Grade 0 or 1, or to the levels dictated in the eligibility criteria with the exception of alopecia
+Resolution of all prior ONT-10 related toxicities to ? Grade 1in severity
+All acute treatment-related toxicity from prior therapy must have resolved to Grade ? 1 prior to study entry
+Have not recovered to ? Grade 1 toxicity from previous anticancer treatments or previous investigational agents
+All acute treatmentrelated toxicity from prior therapy must have resolved to Grade ? 1 prior to study entry
+Subjects who have had any anticancer treatment prior to entering the study and have not recovered to baseline (except alopecia) or ? Grade 1 AEs, or deemed irreversible from the effects of prior cancer therapy. AEs > Grade 1 that are not considered a safety risk by the Sponsor and Investigator may be allowed upon agreement with both.
+Patient has recovered (to Grade ?1) from all clinically significant toxicities related to prior antineoplastic therapies.
+The patient has a prior ALK-inhibitor-related toxicity or any other prior therapy-related acute toxicity that has not resolved prior to the first dose of study drug.
+Recovered from toxicities of previous anticancer therapy to CTCAE Grade ? 1 with the exception of alopecia.
+The subject has not recovered from toxicity due to all prior therapies (i.e., return to pretherapy baseline or to grade 0 or 1)
+Prior clinically significant grade 3-4 non-hematological toxicity to high dose Ara-C or grade ? 2 of neurological toxicity.
+Recovery to =< grade 1 toxicities associated with prior therapy
+Patients should have recovered to baseline or =< grade 1 for all-prior treatment related toxicities
+Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study; if the patient has residual toxicity from prior treatment, toxicity must be =< grade 1 (or =< grade 2 for peripheral neuropathy and/or alopecia)
+Residual > Grade 2 toxicity from prior treatment must have resolved with the exception of those explicitly described elsewhere in entry criteria
+Residual toxicity of > grade 1 from prior therapy
+History of grade 3-4 drug-related hepatitis
+Subjects must have progressed on standard dose/schedule of carfilzomib without having had any carfilzomib related grade 3 or 4 toxicities
+Should be off any active therapy for AML with the exception of hydroxyurea for at least 14 days prior to study registration unless patient has rapidly progressive disease, and all grade 2-4 non-hematologic toxicities should have resolved
+Participants not recovered from reversible toxicity of prior anticancer therapy (except toxicities which are not clinically significant such as alopecia, skin discoloration, or Grade 1 neuropathy)
+Subjects who have had any anticancer treatment prior to entering the study and have not recovered to baseline (except alopecia) or ? Grade 1 AEs, or deemed irreversible from the effects of prior cancer therapy. AEs > Grade 1 that are not considered a safety risk by the Sponsor and investigator may be allowed upon agreement with both.
+Thyroid function abnormality ? Grade 2
+The patient has persistent and clinically significant Grade ?2 toxicities from induction or consolidation therapy (excluding alopecia, nausea, fatigue, and liver function tests [as mandated in the inclusion criteria]) not readily managed with supportive measures.
+Grade 3b FL
+Any unresolved >=Grade 2 (per CTCAE v 4.0) toxicity from previous anti-cancer therapy at the time of enrollment, except alopecia or Grade 2 anemia (if hemoglobin is >9.0 g/dL)
+Dehydration > grade 1
+No limit to prior therapies with last anti-cancer treatment >= 2 weeks from initiation of protocol-based therapy provided all toxicities (other than alopecia) have resolved to =< grade 1 or baseline
+Must not be experiencing a Grade 3 or 4 toxicity from previous anti-cancer treatment
+Unresolved, clinically significant toxicity from prior therapy, except for alopecia and Grade 1 peripheral neuropathy
+Presence of an acute or chronic toxicity resulting from prior anti-cancer therapy, with the exception of alopecia, that has not resolved to Grade ? 1 within 7 days prior to start of CA-4948 unless approved by the Medical Monitor
+Has not recovered (ie, to ? Grade 1 or to baseline) from chemotherapy induced AEs. Note: Patient with ? Grade 1 neuropathy or ? Grade 2 alopecia is an exception to this criterion and may qualify for the study. Persistent > Grade 2 toxicity from prior cancer therapy
+Has not recovered (ie, to ? Grade 1 or to baseline) from chemotherapy induced AEs. Note: Patient with ? Grade 1 neuropathy or ? Grade 2 alopecia is an exception to this criterion and may qualify for the study. Persistent > Grade 2 toxicity from prior cancer therapy
+Adverse events from prior anti-cancer therapy that have not resolved to Grade <=1 except for alopecia, vitiligo, or endocrinopathy managed with replacement therapy
+Patient has not recovered to baseline or less than Grade 1 from non-hematologic adverse events related to any anticancer therapy received prior to signing informed consent on the Treatment Extension study, with the exception of hair loss.
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); Note: patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less or as specified
+More than four weeks must have elapsed since any prior systemic therapy at the time of treatment, and patients’ toxicities must have recovered to a grade 1 or less (except for alopecia or vitiligo); patients must have stable or progressing disease after prior treatment; note: patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less or as specified in the eligibility criteria
+All acute toxicities related to prior therapy must have resolved prior to study entry, except for alopecia and mild neuropathy
+Grade 2 or greater unresolved toxicity from prior antineoplastic therapy
+Recovered from all treatment-related toxicities to Grade 1 or less.
+Patient who had not recovered to grade 1 or better from any adverse events (except alopecia, nausea, vomiting) related to previous antineoplastic therapy before screening procedures are initiated, as allowed in inclusion criteria
+Any subject with the following reported drug-related adverse events on anti- Cytotoxic T-Lymphocyte Antigen 4 (anti-CTLA4) will not be permitted on study: hepatic, diarrhea/colitis or endocrine adverse events (AE)s Grade ? 2, any other non-laboratory immune-related AE ? Grade 3. Subjects must have minimum 9 week washout period between the last dose of anti-CTLA4 and the first dose Urelumab (BMS-663513)
+Current Grade >/= 2 toxicity (except for alopecia, anorexia and fatigue) from prior therapy or Grade >/= 2 neuropathy
+Prior Lenalidomide exposure is permitted only if the subject did not discontinue Lenalidomide due to a Grade ?3 related Adverse Event (AE)
+Diarrhea (> Grade 1)
+Adequate recovery (to at least Grade 1) from toxicity of prior therapy as follows:
+Has diarrhea (> Grade 1)
+Any ongoing toxicity from prior anti-cancer therapy that is > Grade 1 and/or that is progressing in severity, except alopecia.
+Patients must have recovered from any acute toxicity related to prior therapy, including surgery; toxicity should be =< grade 1 or returned to baseline
+Any unresolved toxicity greater than CTCAE grade 1 (except alopecia, and certain other unresolved CTCAE grade 2 toxicities including bone marrow hypocellularity, lymphopenia, infusion-related reaction, infusion site extravasation, injection site reaction, portal vein hypertension, obesity) from previous anti-cancer therapy; patients with grade 1 neuropathy will be evaluated on a case by case basis for entry into study; pre-chemotherapy medical conditions will be taken into consideration
+All prior treatment related non-hematologic toxicities (with the exception of alopecia) must have resolved to CTCAE (Version 4.0) ? Grade 2 at the time of randomization.
+Patients are eligible if standard or palliative measures do not exist or are no longer effective; at least 2 weeks should have elapsed since the last treatment and patients should have recovered from previous significant toxicity (i.e. to grade 1 or less); alopecia, skin discoloration, nail changes and other cosmetic changes are not considered significant toxicities; there is no limit on the number of prior therapies; patients may have received prior cisplatin or other platinum regimens
+Any ongoing toxicity from prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity
+Patients with unresolved grade > 2 non-hematologic toxicity from previous therapy; patients with grade 2 toxicity will be eligible at the discretion of the Principal Investigator (PI)
+All previous therapy must be completed at least 2 weeks prior to study entry; any grade 3 or 4 non-hematologic toxicity of any previous therapy must have resolved to grade 2 or less, unless specified elsewhere
+At the time of enrollment, at least 3 weeks and no more than 8 weeks should have elapsed since the last cycle of cytotoxic therapy or since the last dose of radiation therapy, and patients should have recovered from toxic side effects of previous therapy to a grade 1 or less, with the exception of the following:\r\n* Hematological toxicity: recovery to required levels\r\n* Low electrolyte levels (such individuals should receive appropriate supplementation)\r\n* For patients on anticoagulant therapy or with pre-existing coagulation abnormalities, PT, PTT must return to baseline\r\n* Liver function tests must resolve to required values\r\n* Grade 3 hypoalbuminemia is permitted\r\n* Alopecia is permitted\r\n* Sterility is permitted
+Patients with pre-existing neurologic toxicity > grade 1 (as per CTCAE version 3.0) are not eligible for participation in cohort A; patients screened for participation in cohort B with pre-existing neurologic toxicity > grade 2 (as per CTCAE, version 3.0) are not eligible, unless pre-existing neurologic toxicity is documented in detail and patient's participation in the trial has been approved by the neuro-oncology team at participating institutions
+Any on-going toxicity from prior anti cancer therapy except alopecia;
+Patient experiencing unresolved toxicity ? CTCAE grade 2 (except alopecia) from previous agents.
+All previous therapy-related toxicities must have resolved or return to baseline.
+Any unresolved chronic toxicity greater than CTC grade 2 from previous anticancer therapy (except alopecia)
+Serum creatinine level greater than CTC grade 2.
+No significant immune-related adverse event due to the nivolumab plus ipilimumab dose received in the neoadjuvant setting, as follows:\r\n* Any grade myocarditis, including an asymptomatic troponin elevation felt to be related to nivolumab plus ipilimumab\r\n* Any grade neurologic complication (e.g. meningitis, encephalitis, neuropathy); study chair should be contacted if there is any question whether an adverse event (AE) was neurologic in nature\r\n* Grade 2 or higher pneumonitis\r\n* Grade 2 colitis\r\n* Grade 2 or higher anemia (due to drug; unrelated anemia is not exclusionary)\r\n* Thyroid/adrenal AEs regardless of grade that have stabilized or are clinically asymptomatic are eligible\r\n* Fatigue, regardless of grade, is not a contraindication to randomization\r\n* Grade 4 AST or ALT elevation\r\n* Asymptomatic elevated amylase and lipase, regardless of grade, are not contraindications to randomization\r\n* Grade 4 rash; grade 3 rash is not a contraindication to randomization; any oropharyngeal lesions or bullous skin lesions that are suggestive of toxic epidermal necrolysis or Stevens-Johnson syndrome are contraindications to randomization regardless of the grade of rash\r\n** If not specified above, other Common Terminology Criteria for Adverse Events (CTCAE) grade 3 or higher AEs deemed possibly related to the nivolumab plus ipilimumab are exclusions to randomization; AEs that were attributable to surgery or adjuvant RT would not be contraindications to randomization
+Subject must have NCI common toxicity Grade 3-4 immune-related diarrhea for up to 3 days or persistent Grade 2 diarrhea for more than 5 days
+Any unresolved toxicity (> CTCAE grade 2) from previous anti-cancer therapy; subjects with irreversible toxicity that is not reasonably expected to be exacerbated by the investigational product may be included (e.g., hearing loss, peripherally neuropathy)
+Any prior grade >= 3 immune-related adverse event (irAE) while receiving any previous immunotherapy agent, or any unresolved irAE > grade 1
+Grade >= 3 non-hematologic toxicity from prior therapy that has not resolved to =< G1
+Patients must have recovered from non-hematologic toxicities associated with treatment of malignancy to less than or equal to grade 1
+All acute, clinically significant treatment-related toxicity from prior therapy, except for alopecia, must have resolved to grade =< 1
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); patients must have progressive disease after prior treatment\r\n* Note: patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less
+More than four weeks must have elapsed since any prior systemic therapy at the time the patient receives the preparative regimen, and patients’ toxicities must have recovered to a grade 1 or less (except for toxicities such as alopecia or vitiligo); Note: Patients may have undergone minor surgical procedures within the past 3 weeks, as long as all toxicities have recovered to grade 1 or less
+Any ongoing toxicity from prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity, except alopecia
+Has no Gleason grade 4 or 5,
+Patient has received other chemotherapeutic, hormonal, or investigational anti cancer agents that are outside of the timeframe described above and thus would be allowed in the study, but has toxicity that is unresolved (i.e., toxicity has resolved to Grade ? 1 or is deemed irreversible)
+Reduction of any acute toxicity from radiation treatment to grade 1
+>= grade 2 proteinuria
+Any grade 3 or clinically significant grade 2 treatment-related non-hematological toxicity must be resolved to grade 1 before retreatment with chemotherapy (with exception of alopecia)
+Patients with existing grade 2 toxicities, except as approved by the investigator
+Have unresolved toxicity from prior radiation, chemotherapy, or other targeted treatment, including investigational treatment, with the exception of alopecia and ?Grade 1 peripheral neuropathy according to the NCI CTCAE v4.03. Clinical judgment by the investigator is allowed to determine if Grade 1 fatigue at screening is residual toxicity from prior treatment or is a symptom of the patient's general condition or disease. The investigator and Medical Monitor will discuss the eligibility of patients with baseline toxicity.
+Failure to recover from all prior treatment-related non-hematological toxicities to ? Grade 1 prior to the first scheduled dose of MEDI7247 (except for alopecia and neuropathy).
+Has had a prior monoclonal antibody within 4 weeks before study day 1 or who has not recovered (i.e., =< grade 1 or at baseline) from AEs due to agents administered more than 4 weeks earlier\r\n* Note: the following will not be exclusionary: patients may have any grade alopecia or lymphopenia and still participate if other inclusion/exclusion criteria are met; patients may have grade 1 or 2 neuropathy at baseline and still participate if other inclusion/exclusion criteria are met
+Chemotherapy-related or radiation-related toxicities that have not resolved to grade 1 severity or lower, except for stable sensory neuropathy (=< grade 2) and alopecia
+Have not recovered (recovery is defined as CTCAE grade ? 1) from the acute toxicities of previous anticancer standard or investigational therapy, except treatment-related alopecia or laboratory abnormalities otherwise meeting eligibility requirements.
+Have not recovered (recovery is defined as CTCAE grade ? 1) from the acute toxicities of previous anticancer standard or investigational therapy, except treatment-related alopecia or laboratory abnormalities otherwise meeting eligibility requirements.
+Subject that has toxicity from previous anti-cancer therapy must have recovered to ? Grade 1 (except for non-clinically significant toxicities, e.g., alopecia, vitiligo). Subjects with Grade 2 toxicities that are deemed stable or irreversible (e.g. peripheral neuropathy) can be enrolled.
+Patients not recovered from any therapy-related toxicities from previous therapies to at least CTCAE ? Grade 1 except in case of liver metastases or Gilbert's Syndrome or alopecia.
+SUBJECT: Must be off anti-neoplastic therapy for at least 2 weeks and all therapy-related toxicities should return to baseline or =< grade 1 if previously nonexistent.
+Recovered from toxicity of any prior therapy to grade 1 or better
+Resolution of any acute, clinically significant treatment-related toxicity from prior therapy to Grade less than or equal to (</=) 1 prior to study entry, with the exception of alopecia
+Failure to recover to Grade 1 or lower toxicity related to prior systemic therapy (excluding alopecia and neuropathy) prior to study entry
+Grade > 2 toxicity (other than alopecia) continuing from prior anti-cancer therapy
+Patients with prior immune checkpoint inhibitors must have related toxicities reduced to Grade 0, 1, or baseline
+Unresolved adverse events >= Grade 2 from prior anticancer therapy, except for alopecia.
+Patients must have had sufficient time between a prior therapy and resolution of toxicities from the prior therapies prior to registration as follows:\r\n* Prior EGFR inhibitor: A minimum of 7 days must have elapsed from the last dose of the prior EGFR inhibitor and resolution of any drug-related toxicity to =< grade 1 except for alopecia\r\n* Chemotherapy: A minimum of 21 days must have elapsed from the last dose and resolution of toxicity to =< grade 1 excluding =< grade 2 peripheral neuropathy or alopecia\r\n* Surgery: A minimum of 21 days must have elapsed following major surgery and resolution of toxicity to < grade 1 and complete wound healing must have occurred\r\n* Radiation: A minimum of 14 days must have elapsed following radiation therapy and resolution of all radiation induced toxicity excluding alopecia\r\n* Treatment with an investigational drug: A minimum of 3 months or five half-lives of the compound, whichever is greater, must have elapsed from last treatment date
+Any grade neurologic or ocular irAE
+Any grade immune-related pneumonitis, cardiomyopathy, or hepatitis
+Has been receiving erlotinib for treatment of NSCLC with erlotinib-related toxicities well-controlled and less than Grade 3 in severity at screening
+For Arms L (pembrolizumab) and M (nivolumab), history of a prior grade 3 or 4 immune-related adverse event (irAE) or any grade ocular irAE from prior immunotherapy
+Participants must have recovered to grade 1 toxicity from prior therapy
+>= Grade 3 diarrhea, >= grade 3 rectal bleeding, abdominal cramping, or incontinence of stool =< 7 days prior to registration
+Gleason grade 3+4 or less
+Persistent clinically significant grade >= 2 toxicities (as per >= CTCAE v4) related to prior cancer therapy
+Unresolved toxicity from other agents; participants with unresolved or unstable Common Toxicity Criteria Adverse Event version 4 (CTCAE v4) grade 2 or greater toxicity from prior administration of another anti-cancer treatment are not eligible
+Any grade 3 or 4 hematologic toxicity of any previous therapy must have resolved to grade 2 or less prior to apheresis and any grade 3 or 4 toxicity must have resolved to grade 2 or less prior to pre-infusion lymphodepletive chemotherapy.
+Must have received bilateral radiation therapy, and subsequently developed grade 2 or 3 xerostomia, according to modified Radiation Therapy Oncology Group (RTOG) scale:\r\n* Grade 0 – None\r\n* Grade 1 – Slight dryness of mouth (good response on stimulation and no significant dietary alterations necessary)\r\n* Grade 2 – Moderate dryness of mouth (poor response on stimulation and altered oral intake required such as frequent water, oral lubricants, or soft-moist foods)\r\n* Grade 3 – Complete dryness of mouth (no response on stimulation and difficult oral alimentation; intravenous (IV) fluids, pureed diet or tube feedings may be required)\r\n* Grade 4 – Fibrosis
+Any unresolved toxicity from previous anti-cancer therapy must have resolved to at least =< grade 1 (or baseline) at time of enrollment\r\n* Patients with irreversible toxicity that is not reasonably expected to be exacerbated by treatment with durvalumab and tremelimumab may be included after consultation with the principal investigator or co-principal investigator (e.g. alopecia, hearing loss, peripheral neuropathy)
+Participants may or may not have received adjuvant radiotherapy, but must be at least 30 days after last dose radiotherapy, with no more than grade 1 residual toxicity at the time of screening
+Grade 3 disease
+Patients on adjuvant ipilimumab are allowed to participate at least 30 days from drug discontinuation as long as they have at most grade 1 adverse events (or grade 2 if they have to received hormone replacement therapy for their otherwise grade 1 ipilimumab-induced autoimmune endocrinopathies)
+PHASE I: Cardiac, pulmonary, gastrointestinal and neurologic toxicity should all be =< grade 2
+EXPANSION COHORT: Cardiac, pulmonary, gastrointestinal and neurologic toxicity should all be =< grade 2
+Major organ toxicity including cardiac, pulmonary, gastrointestinal and neurologic toxicity more than grade 2
+Patient must not have any ongoing toxicity from prior anti-cancer therapy that is > grade 1 and/or that is progressing in severity, except alopecia
+No tertiary Gleason grade >= 4
+All toxicities should recover to grade 0 or 1 prior to day 1
+LOCALIZED RCC TREATED WITH PARTIAL NEPHRECTOMY:\r\nRecovered from toxicity of any prior therapy to >= grade 1
+ADVANCED RCC TREATED WITH RADICAL NEPHRECTOMY:\r\nRecovered from toxicity of any prior therapy to >= grade 1
+Has been receiving erlotinib, gefitinib, afatinib, or osimertinib for at least 6 weeks with well-controlled related toxicities less than Grade 3 in severity at the time of Screening
+Residual toxicity due to previous anticancer therapy with no return to baseline or =< Grade 1 (except alopecia) according to CTCAE V4.03
+Toxicities due to prior therapy must be recovered to baseline or ? grade 1, except for clinically non-significant toxicities such as alopecia
+Has unresolved toxicities from previous anticancer therapy
+Developed autoimmune disorders of Grade 4 while on prior immunotherapy. Subjects who developed autoimmune disorders of Grade ? 3 may enroll if the disorder has resolved to Grade ?1 and the subject has been off systemic steroids at doses >10 mg/day for at least 2 weeks.
+Resolution of all chemotherapy related grade III-IV toxicity as per Common Toxicity Criteria (CTC) criteria 4.0
+Resolution of all chemotherapy related grade III-IV toxicity as per CTC criteria 4.0
+Resolution of treatment-related toxicity to < grade 1; alopecia and cutaneous toxicity are allowed < grade 2
+ongoing grade 2 or greater toxicities due to previous therapies. However, tolerable grade 2 adverse (e.g. neuropathy) events may be allowed at the discretion of the investigator.
+Subjects with grade 2 or greater toxicities due to previous therapies (subject to the additional laboratory abnormalities listed below); however, tolerable grade 2 adverse (e.g. residual neuropathy from taxane or oxaliplatin) events may be allowed at the discretion of the investigator
+All acute toxic effects of any prior radiotherapy, chemotherapy, or surgical procedure must have resolved to Grade less than or equal to (<=) 1 or returned to baseline, except alopecia (any grade) and Grade 2 peripheral neuropathy
+Unresolved toxicities from previous anticancer therapy, defined as toxicities (other than alopecia) not yet resolved to Grade ? 1 or baseline. Subjects with chronic Grade 2 toxicities may be eligible per the discretion of the Investigator after consultation with the Sponsor Medical Monitor or designee (eg, Grade 2 chemotherapy-induced neuropathy).
+Have discontinued all disease-modifying therapy for the primary cancer >28 days prior to initiation of study treatment. In addition, clinically significant toxicities associated with any prior therapy for the primary cancer, including investigational treatments, have resolved or stabilized to Grade ?1 toxicity >28 days prior to initiation of study treatment with the exception of neuropathy, which must have resolved to Grade ?2. Continuation of a stable dose (minimum of 28 days prior to study entry) of denosumab or bisphosphonate is permitted on study.
+Diarrhea symptoms resolved to Grade 1 or better.
+Recovery to grade ? 1 from any AE derived from previous treatment (excluding alopecia and/or cutaneous toxicity and/or asthenia).
+Completed a prior therapy less than (<) 2 weeks prior to first dose and for whom adverse events (AEs) related to prior therapy had not returned to baseline or improved to Grade 1.
+grade 3 to 4 nonhematologic toxicity that does not resolve with adequate intervention
+grade 4 hematologic toxicity lasting more than 7 days, or a documented inability to sustain the TKI therapy because of recurrent grade 3 or 4 hematologic toxicity with re-initiation of the same therapy
+any grade 2 or greater toxicity that is unacceptable to the patient
+Patients who have received prior chemotherapy, other ALK inhibitors, biologic therapy, or other investigational agents, must have recovered from all toxicities related to prior anticancer therapies to grade ? 1 (CTCAE v 4.03) prior to starting study drug. Patients with grade ? 2 peripheral neuropathy or any grade of alopecia, nail changes or skin changes are allowed to enter the study.
+Failure to recover from Grade 3 or 4 toxicity from previous treatment
+Recovery to Grade 1 of any clinically significant toxicity (excluding alopecia) prior to initiation of study drug.
+Has not recovered (e.g., to ? Grade 1 or to baseline) from AEs due to a previously administered therapy.
+Unresolved specific chronic toxicity of previous treatment of grade > 1 except for alopecia or hemoglobin ?9.0 g/dL (or ?5.6 mmol/L)
+Have not recovered to ? Grade 1 toxicity from previous anticancer treatments or previous investigational products (IPs)
+Recovered from all reversible toxicities related to their previous treatment (other than alopecia) to =< grade 1 or baseline; exceptions to this criteria may be allowed at the discretion of the UNC PI for toxicities that are not expected to be exacerbated by pembrolizumab or nab-paclitaxel
+Failure to recover from acute non hematologic toxicity (except alopecia or Grade 2 or lower neuropathy), due to previous therapy, prior to Screening.
+Recovery from prior surgery and recovery from adverse events to grade 1 or less (except alopecia) due to prior radiation therapy and any systemic therapy.

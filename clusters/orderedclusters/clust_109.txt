@@ -1,0 +1,142 @@
+Patients with a histological diagnosis of epithelial ovarian cancer, fallopian tube or primary peritoneal carcinoma, clinical stage II, III or IV at diagnosis
+1070.0
+Patients with a histological diagnosis of clinical stage I epithelial ovarian cancer, fallopian tube or primary peritoneal carcinoma
+1070.0
+Patients who are currently undergoing treatment (primary or consolidation) for stage II, III or IV ovarian, fallopian tube or primary peritoneal cancer or who completed treatment less than six weeks ago
+1070.0
+Pathologically proven diagnosis of carcinoma of the bladder within 105 days prior to registration* Operable patients whose initial tumor is a primary high grade urothelial carcinoma of the bladder exhibiting histologic evidence of invasion into the lamina propria (disease clinical stage T1) or a high grade stage Ta urothelial carcinoma without hydronephrosis; patients who have involvement of the prostatic urethra with urothelial carcinoma and have no evidence of stromal invasion of the prostate remain eligible; if the patient�s initial tumor was a high grade stage Ta urothelial carcinoma then his/her recurrent tumor must be a high grade stage T1 urothelial carcinoma to be eligible
+37.0
+Organ function requirements are not required for enrolled patients who are stage I, PFH and will not be receiving chemotherapy
+253.0
+Patients with stage I or II disease who do not have specimens submitted for rapid central pathology review by day 14 after initial surgical resection
+253.0
+Patients with apparent stage I disease who have not undergone a staging procedure
+128.0
+Diagnosis of ovarian epithelial, fallopian tube, or primary peritoneal carcinoma* Stage II, III, or IV disease with optimal (=< 1 cm residual disease) or suboptimal residual disease* All patients must have a procedure for determining diagnosis of epithelial ovarian, fallopian tube, primary peritoneal, with appropriate tissue for histologic evaluation* The minimum surgery required is an abdominal surgery providing tissue for histologic evaluation and establishing and documenting the primary site and stage, as well as a maximal effort at tumor debulking; if additional surgery was performed, it should have been in accordance with appropriate surgery for ovarian or peritoneal carcinoma described in the Gynecologic Oncology Group (GOG) Surgical Procedures Manual
+NONE
+Patients must have non-bulky stage I or II disease by Ann Arbor classification* This staging excludes fludeoxyglucose F 18 (FDG)-PET evaluation* Patients who have stage I or II non-bulky disease based on diagnostic CT scan, but are upstaged to stage III or IV based on FDG-PET evaluation, are also eligible* Stage and bulk are assigned using measurements obtained prior to biopsy
+155.0
+Patients with stage IA1 disease who are LVSI negative
+600.0
+Patients with stage IB1 with tumor size (maximum visible or palpable) > 2 cm
+600.0
+Patients with >= stage IB2 disease
+600.0
+Patients who are treatment na�ve, high risk, stage IVa/IVb (all other sites) and histologically proven squamous cell carcinoma of the head and neck (SCCHN) with no definitive evidence of metastatic disease, excluding patients with oropharynx human papillomavirus (HPV)-positive tumors; in summary, those patients eligible are newly diagnosed and treatment naive: * Stage IVa-b squamous cell carcinoma other than oropharyngeal cancer (OPC), or* Oropharyngeal cancer (OPC) HPV-negative, stage IVa-b
+110.0
+Patients who are treatment na�ve, high risk, stage IVa/IVb (all other sites) histologically proven SCCHN with no definitive evidence of metastatic disease; in summary, those patients eligible are:* Stage IVa-b SCCHN other than OPC, or* OPC, HPV-negative, IVa-b, or* OPC, HPV positive, with greater than 10 pack-year smoking history and N2b-N3 disease
+110.0
+Pathologically confirmed diagnosis of breast cancer, clinical stage I-II (T1-3 N0 M0, T0-2 N1 M0); diagnosis must be by needle biopsy; patients diagnosed by surgical excision are excluded; for patients enrolled after receipt and completion of neoadjuvant chemotherapy, the clinical stage must be determined based on pre-chemotherapy assessment
+317.0
+Patients must have Barcelona Clinic Liver Cancer (BCLC) stage: intermediate (B) or advanced (C) within 28 days prior to study entry
+368.0
+Stage IV breast cancer
+3780.0
+Stage II, III or IV disease as defined by the Ann Arbor Staging System
+70.0
+Patients must have estrogen and/or progesterone receptor positive histologically confirmed stage I-III adenocarcinoma of the breast
+1000.0
+Patients must have locally advanced unresectable stage IIIC or metastatic stage IV cancer with either progression to prior therapy or a newly diagnosed cancer that does not have an available treatment with curative intent
+97.0
+Patients must have histologically confirmed melanoma with BRAF^V600 mutation; patients must have stage IIIC or stage IV disease
+97.0
+Patients must have histologically confirmed, newly diagnosed or recurrent from a previously treated early stage lung cancers that are locally confined, non-small cell lung cancers that are considered unresectable and for which chemoradiation will be considered definitive therapy; patients with recurrent cancer that is amendable for chemoradiation can be eligible only if patients with prior lobectomy for stage I cancer had not had adjuvant chemotherapy, and more than 8 weeks have elapsed from surgery to allow for wound healing; patients who recur from prior X-ray therapy (XRT) or stereotactic body radiation therapy (SBRT) will not be eligible
+30.0
+Stage I-III breast cancer (including inflammatory and newly diagnosed recurrent breast cancer) or lymphoma stage I-IV; (patients should have a > 2 year life expectancy)
+278.0
+Diagnosis of an advanced solid tumor malignancy (advanced cancer) or lymphoma; in most situations, this would be a stage IV cancer; patients with a diagnosis of stage III cancer or lymphoma are eligible if cure is not possible or anticipated; clinical staging without pathological confirmation of advanced disease is allowed
+700.0
+Patients must have stage II, III, or IV disease
+140.0
+Patients with stage I disease are not eligible
+140.0
+Patients must have measurable stage III, measurable stage IVA, stage IVB (with or without measurable disease) or recurrent (with or without measurable disease) endometrial carcinoma* Histologic confirmation of the original primary tumor is required; patients with the following histologic epithelial cell types are eligible:** Endometrioid adenocarcinoma, serous adenocarcinoma, undifferentiated carcinoma, clear cell adenocarcinoma, mixed epithelial carcinoma, adenocarcinoma not otherwise specified (N.O.S.)
+540.0
+Patients must be:* < 12 months (< 365 days) of age at diagnosis with INRG stage L1; or* < 18 months (< 547 days) of age at diagnosis with INRG stage L2 or stage Ms neuroblastoma/ganglioneuroblastoma
+621.0
+Group C: patients < 18 months (< 547 days) of age with newly diagnosed INRG stage Ms neuroblastoma/ganglioneuroblastoma
+621.0
+Patients must have either metastatic (stage IVC) or locally advanced unresectable disease (stage IVB)
+20.0
+For stage 1 (all patients) and dose expansion (stage 2) endometrial and ovarian cancer cohorts, participants are allowed following unlimited prior therapy; for stage 2 GBM participants, no more than 2 prior relapses are allowed; for these patients, relapse is defined as progression following initial therapy (i.e. radiation +/- chemo if that was used as initial therapy) or a subsequent therapy; the intent therefore is that GBM patients enrolling onto stage 2 had no more than 3 prior therapies (initial and treatment for 2 relapses); if the patient had a surgical resection for relapsed disease and no anti-cancer therapy was instituted for up to 12 weeks, and the patient undergoes another surgical resection, this is considered to constitute 1 relapse* NOTE: for participants who had prior therapy for a low-grade glioma, the surgical diagnosis of glioblastoma will be considered the first relapse; therefore, these participants may have had more than 3 prior therapies
+23.0
+Stage 2 endometrial and ovarian cancer patients must have at least one lesion amenable to biopsy; this determination will be made by a member of the interventional radiology team or surgical associate investigator and an associate investigator; this requirement is not necessary for patients in stage 1
+23.0
+For all stage 2 participants, no prior treatment with mTOR, PI3 kinase or Akt inhibitors; prior treatment with mTOR, PI3 kinase or Akt inhibitors allowed in stage 1 only
+23.0
+For stage 2 GBM participants, no prior treatment with bevacizumab/vascular endothelial growth factor receptor (VEGFR) inhibitors; prior treatment with bevacizumab/VEGFR inhibitors is allowed in stage 1 for all participants, as well as stage 2 endometrial and ovarian cancer participants
+23.0
+Patients with newly diagnosed, pathologically confirmed cHL meeting one of the following Ann Arbor stages are eligible:* Stage IIB with bulk* Stage IIIB* Stage IVA* Stage IVB** If study eligibility by staging is uncertain, consultation with Imaging and Radiation Oncology Core (IROC) Rhode Island (RI) may be obtained prior to study enrollment
+600.0
+Stage T2a/b (> 5 cm) and grade 2 or 3 AND
+340.0
+Patients must have histologically or cytologically confirmed stage IV or unresectable stage III BRAF V600E or BRAF V600K mutant melanoma
+280.0
+Completely resected stage IB (>= 4 cm), II or IIIA non-squamous NSCLC with negative margins; patients may not have received neoadjuvant therapy (chemo- or radio-therapy) for this lung cancer
+450.0
+Patients must have unresectable stage III or stage IV disease
+300.0
+For enrollment in the first stage of Cohort B, patients must have accessible pre-treatment and post-treatment (4-6 weeks) tumor for biopsy
+37.0
+For stage I-III disease, patients should be 2-24 months post-completion of surgery, radiation therapy and/or chemotherapy with no further planned treatment during the 12-week study and no evidence of disease
+75.0
+For stage IV disease, patients may be receiving no treatment or may be receiving maintenance treatment with a target agent, chemotherapy, or immunotherapy provided the most recent imaging does not demonstrate progressive disease
+75.0
+On average, cares for at least 3 AA patients with early stage NSCLC per year (based on the last 3 years of cancer registry data)
+222.0
+Status post-surgical resection or definitive radiotherapy for recently diagnosed clinically suspicious or biopsy-proven early stage NSCLC
+222.0
+Locally advanced (stage IIIA-IIIB) or metastatic (stage IV) NSCLC
+222.0
+Patients must have unresectable stage III or stage IV melanoma; patients must have histological or cytological confirmation of melanoma that is metastatic or unresectable and clearly progressive
+400.0
+Patient has a new, unrated histologic diagnosis of stage IB2 (> 5 cm), II, IIIB or IVA squamous, adenocarcinoma, or adenosquamous carcinoma of the uterine cervix or stage II-IVA squamous, adenocarcinoma, or adenosquamous carcinoma of the vagina not amenable to curative surgical resection alone ; the presence or absence of para?aortic lymph node metastasis will be based on pre-therapy 18F?FDG PET/CT; if the baseline 18F?FDG PET/CT identifies hypermetabolic para?aortic disease, such patients will NOT be eligible; the patient must be able to tolerate imaging requirements of an 18F?FDG PET/CT scan
+188.0
+Patients must have pathologic diagnosis of adenocarcinoma or large cell carcinoma of the lung with confirmation by immunohistochemistry (e.g., transcription termination factor 1 [TTF-1] positivity) (histologic tissue diagnosis is recommended, but cytology is acceptable); stage IIIA/IIIB or oligometastatic stage IV in which the patient is still considered an appropriate candidate for aggressive chemoradiotherapy for the primary tumor; oligometastatic disease is defined as =< 5 metastatic sites (=< 3 lesions per organ); for intracranial metastasis, the patient should have asymptomatic disease that is stable on steroids or 1 to 3 symptomatic metastatic lesions treated with stereotactic radiosurgery (SRS)
+15.0
+Prior to chemotherapy +/- or thoracic radiotherapy, patients must be defined as limited-stage or extensive-stage SCLC after clinical staging evaluation involving the following:* History/physical examination;* Computed tomography (CT) of the chest and abdomen with contrast (does not have to be done if the patient has had a positron emission tomography (PET)/CT scan prior to initiating chemotherapy or thoracic radiotherapy)* MRI of the brain with contrast or diagnostic head CT with contrast* For patients without evidence of extensive-stage SCLC on chest and abdomen CT and brain MRI or head CT, a PET/CT or bone scan is required to confirm limited-stage SCLC
+302.0
+RMS types included under embryonal rhabdomyosarcoma (ERMS) include those classified in the 1995 International Classification of Rhabdomyosarcoma (ICR) as ERMS (classic, spindle cell, and botryoid variants), which are reclassified in the 2013 World Health Organization (WHO) classification as ERMS (classic, dense and botryoid variants) and spindle cell/sclerosing RMS (encompassing the historical spindle cell ERMS variant and the newly recognized sclerosing RMS variant); classification of alveolar rhabdomyosarcoma (ARMS) in the 2013 WHO classification is the same as in the ICR and includes classic and solid variants* ERMS** Stage 1, group III (non-orbit)** Stage 3, group I/II** Stage 2/3, group III** Stage 4, group IV, < 10 years old* ARMS:** Stages 1-3, groups I-III
+337.0
+Stage IV disease
+32.0
+Pathologic diagnosis of stage IB2-IVA squamous, adenocarcinoma, or adenosquamous carcinoma of the uterine cervix or stage II-IVA squamous or adenocarcinoma of the vulva that is not amenable to curative surgical resection alone
+64.0
+Patients with any stage of pathologically confirmed cluster of differentiation (CD)3+ acute, lymphoma, chronic, or smoldering subtypes of ATLL
+20.0
+Patients must have clinically and radiographically suspected and previously untreated International Federation of Gynecologic and Obstetrics (FIGO) stage III or IV epithelial ovarian, primary peritoneal or fallopian tube cancer, high grade, for whom the plan of management will include neoadjuvant chemotherapy (NACT) with interval tumor reductive surgery (TRS) who have undergone biopsies for histologic confirmation
+147.0
+Appropriate stage for study entry based on the following diagnostic workup:* History/physical examination within 28 days prior to registration* Radiographic imaging of the chest, abdomen and pelvis within 28 days prior to registration documenting disease consistent with FIGO stage III or IV disease* Further protocol-specific assessments
+147.0
+The tumor must be clinically determined to be locally advanced stage II or stage III rectal cancer, and must also meet any ONE of the following criteria:* Distal location (as defined by measurement on magnetic resonance imaging [MRI], transrectal ultrasound [ERUS]/pelvic computed tomography [CT] [with IV contrast] scan or palpable on digital rectal examination [DRE]): cT3-4 =< 5 cm from the anal verge, any N* Bulky: any cT4 or evidence that the tumor is adjacent to (defined as within 3 mm of) the mesorectal fascia on MRI or ERUS/pelvic CT (with IV contrast) scan* High risk for metastatic disease with 4 or more regional lymph nodes (cN2); clinical nodal or cN status for eligibility includes the total number of nodes (N2 = 4 or more) in the mesorectal and superior rectal stations measuring >= 1.0 cm in any axis on cross sectional or endoscopic imaging; Note: nodes must measure 1.0 cm or greater to be considered positive for this eligibility requirement* Not a candidate for sphincter-sparing surgical resection prior to neoadjuvant therapy (as planned by the primary surgeon)** Note: clinical stage of the primary tumor and nodes may be determined locally by rectal endoscopic ultrasound or pelvic MRI (MRI is strongly preferred); CT scan with IV contrast is acceptable provided there is evidence of T4 and/or N2 disease
+348.0
+Histologic documentation of women or men with node positive, HER2 negative, anatomic stage II or III breast carcinoma and high risk node negative (defined as estrogen receptor [ER] and progesterone receptor [PR] negative and tumor size > 2 cm) within one year of diagnosis and free of recurrence; patients with pN1mic are eligible; if neoadjuvant therapy was received, either initial clinical stage (determined by physical and or radiologic examination) or post-operative pathologic stage can be used for eligibility purposes, with the higher stage determining eligibility; histologic documentation of node positivity is required; bilateral breast cancers are allowed, as long as both cancers are HER2 negative and at least one of the cancers meets eligibility
+2936.0
+Clinical stage >= T2NxM0 or TanyN+ disease for which radical or partial nephrectomy is planned
+766.0
+Pathologically proven diagnosis of NSCLC, with metastases (stage IV disease) present prior to registration; this includes patients newly diagnosed with metastatic disease or those initially diagnosed and treated for stage I-III NSCLC who ultimately develop metastases.
+186.0
+Prior systemic therapy as part of concurrent treatment approach for previously diagnosed stage III NSCLC, adjuvant therapy for stage III NSCLC, as adjuvant therapy for previously resected NSCLC, or for other previous cancers is permitted.
+186.0
+Patients must have histologically proven, recurrent, non-muscle invasive urothelial carcinoma of the bladder within 60 days prior to registration; the carcinoma must be stage T1 high-grade, stage CIS, or stage Ta high-grade
+148.0
+Stage M1
+400.0
+Patients must have pathologically confirmed stage IV or unresectable stage III melanoma; patients must not have disease that is suitable for local therapy, administered with curative intent
+64.0
+Patients with operable focal or multifocal (T1-T3, stage II and IIIA invasive ductal carcinoma [all receptor phenotypes]), and who have completed neoadjuvant chemotherapy with a clinical complete response (by clinical examination)
+175.0
+Patients must have pathologically confirmed melanoma that is either stage IV or unresectable stage III; patients may have primaries of cutaneous, mucosal or unknown origin; patients with uveal (ocular) primary are not eligible
+94.0
+Low risk stratum (stage I ovarian immature teratoma and stage I malignant GCT [all sites]): Patients must be < 50 years of age at enrollment
+1680.0
+Low risk stage I immature teratoma (IT); site: ovarian; stage: Children's Oncology Group (COG) stage I, Federation of Gynecology and Obstetrics (FIGO) stage IA and IB; grade: 2 or 3; histology: pure immature teratoma, mixed immature and mature teratoma, (no pathological evidence of mediastinal germ cell tumor [MGCT]); tumor markers: alpha-FP =< 1,000 ng/mL, beta-HCG institutional normal; age (years) < 50
+1680.0
+Low risk stage I MCGT; site: ovarian, testicular, or extragonadal; stage: COG stage I, FIGO stage IA and IB, American Joint Committee on Cancer (AJCC) testicular stage IA and IB; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); age (years) < 50
+1680.0
+Standard risk 1 (SR1); site: ovarian, testicular, or extragonadal; stage: COG stage II-IV, FIGO stage IC, FIGO stage II-IV; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); age (years) < 11
+1680.0
+Standard risk 2 (SR2)* Site: ovarian; stage: COG stage II and III, FIGO stage IC, II and III; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); age (years) >= 11 and < 25* Site: testicular; stage: COG stage II-IV, AJCC stage II, III, International Germ Cell Consensus Classification (IGCCC) good risk; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed); tumor markers: for IGCCC good risk: alpha-FP < 1,000 ng/mL, beta-HCG < 5,000 IU/mL and lactate dehydrogenase (LDH) < 1.5 x normal; age (years) >= 11 and < 25* Site: extragonadal; stage: COG stage II; histology: must contain at least one of the following: yolk sac tumor, embryonal carcinoma, or choriocarcinoma (pure or mixed) age (years) >= 11 and < 25
+1680.0
+Patients with any diagnoses not listed including:* Stage I testicular cancer patients who have undergone primary RPLND (retroperitoneal lymph node dissection)* Pure dysgerminoma and pure seminoma* Pure mature teratoma* Pure immature teratoma COG stage I with alpha-fetoprotein (AFP) >= 1000 ng/mL* Pure immature teratoma COG stage II - IV or FIGO stage IC to IV* Poor risk disease (age >= 11 years old and COG stage IV ovarian, COG stage III or IV EG, or IGCCC intermediate or poor risk testicular), or* Primary central nervous system (CNS) germ cell tumor
+1680.0

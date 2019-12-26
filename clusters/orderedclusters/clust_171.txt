@@ -1,0 +1,8 @@
+Granulocytes >= 1,500/ul
+729.0
+Absolute granulocytes >= 1500 cells/uL (1.5 x 10^9 L)
+90.0
+Granulocytes >= 1,500/ul
+450.0
+Granulocytes (ANC) >= 1,500/mcl
+50.0

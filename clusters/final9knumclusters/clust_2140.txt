@@ -1,0 +1,27 @@
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0 or 1\r\n* Use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 or Karnofsky > 50% (if >= 16 years of age); or children < 16 years old must have a Lansky performance of >= 50%
+Patients must have a Lansky or Karnofsky performance status score of >= 50, corresponding to Eastern Cooperative Oncology Group (ECOG) categories 0, 1 or 2. Use Karnofsky for subjects >= 16 years of age and Lansky for subjects <= 16 years of age.
+Eastern Cooperative Oncology Group (ECOG) performance status =< 2 or Karnofsky >= 60% in patients > 16 years of age, Lansky >= 60 for patients =< 16 years of age
+Eastern Cooperative Oncology Group (ECOG) =< 2 (patients >= 16 years of age must have a Karnofsky performance level of >= 70% [or ECOG =< 2], and children < 16 years old must have a Lansky performance of >= 70%)
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients must meet one of the following performance scores:\r\n* Eastern Cooperative Oncology Group (ECOG) performance status scores of 0, 1, or 2; \r\n* Karnofsky score of >= 60 for patients > 16 years of age; or\r\n* Lansky score of >= 60 for patients =< 16 years of age
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Eastern Cooperative Oncology Group (ECOG) 0, 1 or 2, or for children =< 10 years of age, Lansky >= 60
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Lansky for patients =< 16 years of age
+Eastern Cooperative Oncology Group (ECOG) 0, 1 or 2; or Karnofsky of >= 60, or for children =< 10 years of age, Lansky >= 60
+Patients must have a Lansky or Karnofsky performance status score of >= 50%, corresponding to Eastern Cooperative Oncology Group (ECOG) categories of 0, 1, or 2 (use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age)
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores 0, 1, or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1 if age less than (<) 71 years; ECOG status of 0 if age 71 to 75 years
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2
+Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2 or for children < 10 years of age, Lansky of > 50 is required
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1 or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2; use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0, 1, or 2; use Lansky for patients =< 16 years of age
+Patients must have a performance status corresponding to Eastern Cooperative Oncology Group (ECOG) scores of 0 or 1 (>= 70% for Karnofsky/Lansky); use Karnofsky for patients > 16 years of age and Lansky for patients =< 16 years of age

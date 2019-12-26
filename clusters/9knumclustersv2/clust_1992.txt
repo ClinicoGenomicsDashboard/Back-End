@@ -1,0 +1,32 @@
+Hematologic: Absolute neutrophil count (ANC) ?. x ^/liter (L), platelets ?  x ^/L, and hemoglobin ?  gram/deciliter (g/dL).
+Hemoglobin greater than or equal to  gram/deciliter
+Hemoglobin ?. grams per deciliter (g/dL);
+Serum albumin ?. g/dL (? grams per liter (g/L));
+Hemoglobin ? grams per deciliter (g/dL)
+Hemoglobin ? grams per deciliter or ?. millimoles per liter
+Hemoglobin ? grams per deciliter (g/dL)
+Hemoglobin level <= . gram per deciliter (g/dL)
+Hemoglobin ?. grams per deciliter (g/dL)
+Hemoglobin ? . grams/dL
+Hemoglobin ? . grams/dL
+Hemoglobin >= gram per deciliter (g/dL).
+Hemoglobin more or equal than  grams/dL below the institutional level of normal
+hemoglobin greater than or equal to . grams/deciliter (g/dL) (a hemoglobin less than . g/dL is acceptable if it is corrected by growth factor or transfusion before starting lenvatinib).
+Hemoglobin level <= . gram per deciliter (g/dL)
+Hemoglobin >= . grams/dL
+Hemoglobin >=  gram per deciliter (g/dL).
+Absolute neutrophil count ?.  ^/liter (L), platelets ?  ^/L, and hemoglobin ? grams/deciliter (. millimoles/L).
+Serum albumin less than (<) . grams per deciliter (g/dL).
+Hemoglobin ? . grams/deciliter (g/dL) (can be corrected by growth factor or transfusion) and
+Hematologic: Absolute neutrophil count (ANC) . x /liter (L), platelets  x /L, and hemoglobin  gram/deciliter (g/dL).
+Hemoglobin >= . grams/deciliter
+Have serum albumin that is ? grams per liter at the time of enrollment.
+Absolute neutrophil count .  ^/Liter (L), platelets   ^/L, and hemoglobin  g/deciliter (dL) (. millimoles/Liter).
+Hemoglobin >=. grams/decilitre(g/dL) (after transfusion if needed)
+Serum albumin less than (<) . grams per deciliter (g/dL)
+Subject's absolute neutrophil count is < /microliter (L), platelet count is < ,/L) or hemoglobin is < . millimoles(mmol)/liter (L) ( grams (g)/deciliter (dL) at Screening.
+Hemoglobin (Hb) >=. gram per deciliter (g/dL) (can be corrected by growth factor or transfusion).
+Hemoglobin greater than or equal to (>=)  gram per deciliter (g/dL)
+Hemoglobin ?. grams per deciliter (g/dL) (can be corrected by growth factor or transfusion prior to first dose of study drug);
+Albumin >. grams per deciliter (g/dL)
+Absolute neutrophil count ?.  ^/Liter, hemoglobin ? grams/deciliter, and platelets ?  ^/Liter.

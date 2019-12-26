@@ -1,0 +1,4 @@
+Cluster 627: margins positive surgical negative margin excision tumor surgery lumpectomy mastectomy 
+Cluster 787: breast cancer mammogram imaging biopsy erythema surgery suspicious radiation patients 
+Cluster 1676: conserving breast surgery mastectomy therapy radiation radiotherapy bcs patients undergo 
+Cluster 2189: surgery prior days patients weeks planned definitive undergo breast patient 

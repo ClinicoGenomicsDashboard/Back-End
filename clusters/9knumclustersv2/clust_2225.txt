@@ -1,0 +1,141 @@
+Patients must have completed any prior radiation therapy and hormonal therapy at least  days prior to registration
+Patients must not have had prior radiation therapy within  days prior to registration
+Patients may have received prior radiation therapy, but must have measurable disease outside the radiation port; at least  days must have elapsed since completion of prior radiation therapy; patients must have recovered from all associated toxicities at the time of registration
+No treatment with radiation therapy =<  days before study registration
+No other chemotherapy or radiation therapy within  days prior to registration
+Prior treatment\r\n* Cohort A: No prior therapy received other than surgery\r\n* Cohort B: Prior radiation therapy required (any type of prior radiation is allowed)\r\n** For patients treated with external beam radiation therapy, interstitial brachytherapy or radiosurgery, an interval of >=  months must have elapsed from completion of radiation therapy to registration\r\n** Recovered to Common Terminology Criteria for Adverse Events (CTCAE) grade  or less toxicity attributed to radiation with exception of alopecia, fatigue\r\n* For patients enrolling on Cohort A or Cohort B:\r\n** For patients treated with surgery, an interval of >=  days must have elapsed prior to registration\r\n** No prior treatment with BRAF or MEK inhibitors\r\n** Steroid dosing stable for at least  days prior to registration
+Prior radiation therapy or radionuclide therapy for the treatment of metastasis
+Prior radiation therapy:\r\n* Patients may have received prior radiation therapy in either the metastatic or early-stage setting\r\n* Radiation therapy must be completed at least  days prior to registration
+Prior radiation therapy is allowed; patients must not have received radiation therapy within  weeks prior to the initiation of study treatment
+Radiation therapy
+Radiation therapy within  days before the first dose of cabozantinib; subjects with clinically relevant ongoing complications from prior radiation therapy are not eligible
+Radiation therapy within  days prior to first dose
+Prior radiation therapy encompassing >% of skeleton
+Prior radiation therapy within  days prior to study entry
+Prior radiation therapy: patients must be at least  weeks from prior radiation therapy
+May have received prior radiation therapy or surgery; however, at least  days must have elapsed since completion of radiation therapy or surgery and subject must have recovered from all side effects at the time of registration
+Prior radiation therapy:\r\n* Patients must be at least  months from prior radiation therapy\r\n* Re-irradiation of the same field is not allowed
+Patients may have received prior radiation therapy in either the metastatic or early-stage setting; radiation therapy must be completed at least  days prior to study participation and patients should have recovered from adverse effects of radiation to grade =< 
+Prior radiation therapy allowed
+Prior radiation therapy within  days prior to study Cycle  Day  and/or persistence of radiation-related adverse effects
+Prior radiation is permitted; however, at least  weeks must have elapsed since the completion of prior radiation therapy and patients must have recovered from all radiation-associated toxicities to no greater than grade  at the time of registration
+Prior radiation therapy must be completed at least  days prior to registration for protocol therapy
+Concomitant use of any other anti-cancer therapy or radiation therapy. Palliative radiation therapy to non-target lesions is permitted
+Prior radiation therapy that would exclude the use of TMLI
+Previous radiation therapy with anything other than standard radiation therapy (i.e., focally directed radiation) administered as first line therapy.
+ week for prior palliative radiation therapy, or  weeks if prior brain radiation therapy.
+Radiation
+Must have received prior radiation therapy for brain metastases or be ineligible for radiation therapy
+Recovery to baseline from acute toxicity related to prior therapy, including surgery and radiation; ( days removed from last systemic therapy,  days removed from last radiation therapy)
+Eligible for treatment with radiation therapy
+Radiation therapy =<  days prior to registration; Note: patients with prior pelvic radiation therapy >  Gy are ineligible
+Prior radiation therapy of any type within  days of first dose of study medication
+Has had prior radiation therapy to the potential radiation target such that additional radiation therapy is considered unsafe by the treating radiation oncologist
+Prior radiation therapy within the last  days
+Patients may have received prior radiation therapy in either the metastatic or early-stage setting; radiation therapy must be completed at least  days prior to study registration
+Prior/concurrent radiation therapy allowed
+Prior radiation therapy will be allowed if active measurable disease was not previously treated with radiation therapy
+Radiation therapy within  days of enrollment
+Prior salvage or adjuvant radiation therapy is allowed but not mandated; radiation therapy must have been completed for at least  months
+Patients may have received prior radiation therapy or surgery; however, at least  days must have elapsed since completion of radiation therapy or surgery and patient must have recovered from all side effects at the time of registration (e.g. back to baseline or grade )
+Radiation therapy in the month prior to enroll
+Any radiation therapy within  days prior to initiating protocol therapy
+Prior radiation therapy to the prostate
+Radiation therapy is not permitted within  days of registration
+Prior history of fractionated radiation therapy
+Prior radiation therapy is allowed provided that no radiation therapy was administered to the urinary bladder\r\n* NOTE: No radiation therapy within  days prior to being registered for protocol therapy; laboratory values must be obtained within  days prior to being registered for protocol therapy
+Prior radiation therapy is allowed
+Patients who have received prior radiation therapy must have recovered from toxicity of the prior radiation therapy prior to registration, and must have disease evaluable for response outside of the radiation fields or have evidence of post-radiation progression of previously irradiated sites of disease
+Prior radiation therapy within the last  days
+Radiation therapy in the month prior to enrollment
+Patients may have had radiation therapy, but must have progressive disease after radiation therapy if the lesions to be treated are within the radiation field. Radiation treatment must be completed ?  weeks prior to Cycle  Day .
+Prior radiation therapy that would exclude the use of TMLI
+Has had prior radiation therapy to all available thoracic and liver lesions such that additional radiation therapy is unsafe by the opinion of the treating radiation oncologist
+Radiation therapy in the last  days
+No limit to number prior anti-cancer regimens, including chemotherapy, biologic agents, immunotherapy, vaccines, monoclonal antibodies or radiation therapy; patients who have received prior radiation therapy for this tumor are eligible; there should be at least  years time since the completion of radiation therapy
+Less than  years since completion of radiation therapy
+Prior radiation therapy is not an exclusion however, patient must have documented progression at the radiation site
+No prior radiation therapy to the liver
+Patients with a history of treatment with radiation therapy are excluded
+Prior radiation therapy that would exclude the use of TMLI
+Radiation therapy within  days of screening
+Prior whole brain radiation therapy
+If subject has not undergone radiation therapy, then subject must have undergone prior consultation with a radiation oncologist (who is not an investigator on this study); if the subject has undergone radiation therapy, then at least  days must have elapsed since completion of radiation
+Prior radiation therapy within  days prior to enrollment.
+Prior radiation therapy is allowed to < % of the bone marrow; note: no radiation therapy within  days prior to registration for protocol therapy
+Radiation therapy in the month prior to enroll
+Any radiation therapy within  days prior to day  of protocol therapy
+The subject must have completed prior radiation therapy at least  days prior to registration for protocol therapy\r\n* NOTES: Subjects may have received prior radiation therapy for treatment of endometrial carcinoma; prior radiation therapy may have included pelvic radiation therapy, extended field pelvic/para-aortic radiation therapy, and/or intravaginal brachytherapy; chemotherapy used for radiation sensitization is allowed; chemotherapy used for radiation sensitization will not count as second chemotherapy regimen
+Prior radiation therapy is allowed; patients must not have received radiation therapy within  weeks prior to the initiation of study treatment
+Patients may have received prior radiation therapy for treatment of endometrial cancer; prior radiation therapy may have included pelvic radiation therapy, extended field pelvic/para-aortic radiation therapy, intravaginal brachytherapy and/or palliative radiation therapy; all radiation therapy must be completed at least  weeks prior to registration
+Prior radiation therapy within the last  weeks; prior radiation therapy to indicator lesion (unless objective disease recurrence or progression within the radiation portal has been documented since completion of radiation)
+Prior radiation therapy within the last  weeks; prior radiation therapy to indicator lesion (unless objective disease recurrence or progression within the radiation portal has been documented since completion of radiation)
+Patients may not have had radiation within  days prior to first dose
+Patients may have received prior radiation therapy, including after the surgical resection; all adverse events associated with prior surgery and radiation therapy must have resolved to =< grade  prior to registration
+Participant has had radiation therapy within  days of randomization
+PRIOR/CONCURRENT THERAPY CRITERIA: Patients may have had prior radiation therapy as long as it has not affected greater than % of the bone marrow and at least one measurable lesion is outside the area of prior radiation; at least  days must have elapsed since last radiation treatment; patients must have recovered from any adverse events from prior radiation therapy to =< CTCAE grade 
+Patients may have received prior radiation therapy; radiation therapy must be completed at least  days prior to registration, and all toxicities related to prior radiation therapy must have resolved to CTCAE v. grade  or lower; patients may not have had > % of their bone marrow radiated
+Patients may have received prior radiation therapy for treatment of endometrial carcinoma; prior radiation therapy may have included pelvic radiation therapy, extended field pelvic/para-aortic radiation therapy, and/or intravaginal brachytherapy; all radiation therapy must be completed at least  weeks prior to the first date of study therapy
+Participant has received radiation therapy to lung greater than  Gy within  months, or antineoplastic biologic therapy within  days, or major surgery within  days, or tyrosine kinase inhibitor therapy within  days, or palliative radiation within  days of the first dose of study medication.
+Prior radiation therapy within  days prior to enrollment.
+Radiation therapy requirements
+Have radiation therapy within  days prior to randomization.
+Chemotherapy, biologic anti-cancer therapy, or central field radiation therapy =<  days prior to randomization; Note: local or stereotactic radiation =<  days prior to randomization
+Patients may have received prior definitive radiation therapy provided that at least  days ( days for palliative radiation therapy) have elapsed since the last treatment and patients have recovered (i.e., =< grade  or at baseline) from all associated toxicities at the time of registration
+Radiation therapy:
+Participant has had radiation therapy within  days of randomization
+Subjects who have received prior radiation therapy to any portion of the abdominal cavity or pelvis are excluded; prior intravaginal brachytherapy is permitted; prior radiation therapy for breast cancer is permitted
+Patients may have received prior radiation therapy or surgery; however, at least  days must have elapsed since completion of radiation therapy or surgery and patient must have only grade  or less adverse effects at the time of registration
+COHORT A: Current or prior radiation therapy to the prostate; prior radiation to a metastatic site (e.g., palliative radiation) is allowed
+Primary treatment with radiation therapy
+Prior radiation therapy =<  days prior to registration
+Patients may have received prior radiation therapy; all adverse events associated with prior radiation therapy must have resolved to =< grade  prior to registration
+Prior radiation therapy to the liver
+Radiation therapy within the  days prior to Day .
+Patient must not have had radiation therapy within  days of enrollment
+Patients may have received prior radiation therapy or surgery; however, at least  days must have elapsed since completion of radiation therapy or surgery and patient must have recovered from all side effects at the time of registration
+Current or prior radiation therapy to the prostate
+Prior history of fractionated radiation therapy
+Prior radiation therapy to the brain
+No prior radiation therapy to > % of bone marrow forming bones (i.e., pelvis) within  days prior to registration for protocol therapy. See Study Procedures Manual to calculate percent of prior radiation.
+Patients may receive concurrent radiation therapy to painful sites of bony disease or areas of impending fracture as long as the radiation therapy is initiated prior to study entry and sites of measurable and non-measurable disease outside the radiation therapy port are available to follow; patients who have received prior radiation therapy must have recovered from toxicity of the prior radiation therapy
+Patients with prior radiation therapy will be excluded
+Ongoing radiation therapy, radiation therapy administered within  days of enrollment.
+Localized radiation therapy within the last  days
+Ongoing radiation therapy, radiation therapy administered within  days of enrollment
+Prior radiation therapy to the prostate
+Prior breast radiation therapy
+Prior radiation therapy to the brain
+Prior Therapy: \r\n* Prior Chemotherapy: Patients who have had a prior chemotherapy regimen for advanced or metastatic disease are excluded\r\n* Prior Radiation Therapy: Patients may have received prior radiation therapy for treatment of endometrial carcinoma; prior radiation therapy may have included pelvic radiation therapy, extended field pelvic/para-aortic radiation therapy, and/or intravaginal brachytherapy, alone or with chemotherapy as a radiation sensitizer; all radiation therapy must be completed at least  weeks prior to the first date of study therapy, the prior radiation field, radiation dose, number of fractions and prior radiation start and stop dates must be provided at registration
+Any radiation therapy =<  days prior to registration
+Patients in whom surgery or radiation therapy may be impractical
+Ongoing radiation therapy and/or radiation therapy administered within  days of enrollment or ongoing radiotherapy-related toxicities.
+Prior radiation therapy to the lungs
+Patients may have had radiation therapy, but must have progressive disease after radiation therapy if the lesions to be treated are within the radiation field
+Received treatment with radiation therapy or investigational therapy =<  days prior to registration
+Prior radiation therapy within the last  weeks; prior radiation therapy to indicator lesion (unless objective disease recurrence or progression within the radiation portal has been documented since completion of radiation)
+Prior radiation therapy for TCC
+Radiation therapy in the month prior to enroll
+Radiation therapy within prior  months
+Prior radiation therapy for lymphoma
+Patients with prior radiation therapy to the treatment site
+Participants may have received prior radiation therapy in either the metastatic or early-stage setting; radiation therapy must be completed at least =<  days prior to initiation of study therapy
+History of prior cranial radiation therapy
+Radiation therapy naive
+Previous radiation therapy to the area to be treated with radiation therapy
+Prior radiation therapy is allowed provided that no radiation therapy was administered to the urinary bladder.
+Prior radiation therapy above the umbilicus
+Plan to receive radiation therapy, or within  days of starting radiation therapy
+Prior radiation therapy to the brain
+No prior history of radiation therapy
+Prior history of radiation therapy
+Prior surgery or radiation therapy to the region of interest
+History of radiation therapy
+Patients with any history of prior radiation therapy in the affected breast
+Contraindicated for radiation therapy
+Pregnancy if the patient is receiving radiation therapy
+May undergo radiation therapy
+History of radiation therapy for cancer treatment
+No prior radiation therapy
+Patients who will be treated with radiation therapy or concurrent chemoradiation therapy
+Radiation therapy: may not have had radiation therapy to area of tumor planned to be resected w/in  days

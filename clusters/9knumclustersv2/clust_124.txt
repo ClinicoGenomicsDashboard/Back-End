@@ -1,0 +1,416 @@
+ECOG performance status of less than or equal to (</=) 
+ECOG performance status  or 
+ECOG performance status =< 
+ECOG performance status  or 
+ECOG performance status -
+Patients must have an ECOG performance status of -
+ECOG performance status -
+ECOG performance status -.
+ECOG performance status ? 
+ECOG performance status <
+ECOG Performance Status ? .
+ECOG performance status of -.
+ECOG performance status of  or 
+. ECOG performance status of  or ;
+ECOG Performance Status of -
+ECOG Performance Status of  or 
+ECOG performance status  or 
+ECOG performance status of  or 
+ECOG performance status  to 
+ECOG Performance Status of  or 
+The ECOG performance status must be  or .
+ECOG performance status less than or equal to 
+ECOG Performance Status -
+ECOG Performance Status ? 
+ECOG Performance status of  or 
+COHORT : ECOG performance status < 
+ECOG performance status of  or 
+ECOG performance status of -
+ECOG performance status Grade -
+ECOG Performance Status ? 
+ECOG performance status of , or 
+ECOG performance status ?.
+ECOG performance status of , , or .
+ECOG performance status of  or 
+ECOG performance status  or .
+ECOG performance status  or 
+ECOG performance status of  or  at enrollment
+The ECOG performance status must be -.
+ECOG performance status of , , or 
+ECOG performance status -
+Patient with an ECOG performance status  or 
+Has an ECOG Performance Status of  or .
+ECOG performance status ? .
+ECOG performance status of  or .
+ARM  - A: ECOG performance status =< 
+ECOG performance status -
+ECOG Performance Status of ? 
+ECOG performance status -.
+ECOG Performance status of ? 
+Subjects must have an ECOG performance status of -
+Adequate performance status: ECOG ? ;
+ECOG Performance status - within  weeks prior to study registration.
+ECOG performance status less than or equal to 
+ECOG performance status of </= 
+ECOG performance status of  or greater
+ECOG Performance status of  or .
+Patients must have an ECOG performance status of -
+ECOG performance status of  or 
+Must have ECOG performance status of  or 
+ECOG performance status (-)
+COHORT : ENDOMETRIAL CANCER: ECOG performance status  or 
+ECOG performance status of 
+ECOG performance status  or 
+Participant must have an ECOG Performance status:
+ECOG performance status -
+Participants must have an ECOG performance status of less than or equal to 
+ECOG status <
+Have adequate performance status (ECOG -)
+ECOG performance status ?
+ECOG performance status -
+ECOG performance status of ,  or 
+ECOG performance status of ,  or 
+ECOG performance status > 
+Performance Status (ECOG) - at study entry;
+Participant must have an ECOG Performance status:
+ECOG status <
+Have adequate performance status (ECOG -)
+ECOG performance status of  or 
+ECOG performance status > 
+ECOG performance status  or .
+ECOG performance status of 
+ECOG performance status ? 
+ECOG performance status of - (dose escalation phase); ECOG performance status of - (expansion phase).
+ECOG Performance Status of  or .
+ECOG performance status of - (inclusive)
+ECOG performance status ? 
+ECOG performance status of <  on Day Cycle 
+ECOG performance status of  or .
+ECOG performance status -
+ECOG Performance Status of -.
+ECOG performance status between  and 
+ECOG Performance Status of  or 
+Clinical performance status of ECOG - within  days of signing informed consent
+ECOG performance status of  or 
+ECOG performance status of ? .
+ECOG performance status ? 
+ECOG performance status of 
+Performance status ECOG -
+ECOG status  or 
+ECOG performance status of -.
+ECOG performance status ? 
+ECOG performance status > 
+The patient must have an ECOG performance status of , .
+ECOG Performance Status of  or .
+ECOG performance status -
+ECOG performance status -
+ECOG functional status -
+ECOG performance status </=.
+ECOG performance status -.
+Have an ECOG performance status of ? 
+ECOG performance status of  or 
+ECOG performance status of  and 
+Poor performance status (ECOG > )
+ECOG performance status of  or 
+Subject has ECOG performance status  to .
+ECOG Performance Status of  or 
+The patient must have an ECOG performance status of , .
+The ECOG performance status must be  or 
+ECOG Performance Status III or IV;
+ECOG performance status of ? .
+ECOG Performance Status ? .
+ECOG performance status - 
+ECOG performance status of ?.
+Performance status ECOG -
+ECOG performance status -.
+ECOG performance ,  or 
+ECOG performance status of  or  at screening.
+ECOG performance status -.
+ECOG performance status  to 
+ECOG performance status of , , or 
+ECOG performance status ?.
+ECOG performance status  or .
+ECOG performance status of , or , or 
+ECOG Performance Status  - 
+ECOG performance status  or 
+ECOG performance status  to 
+ECOG performance status of /
+ECOG performance status of -
+ECOG performance status ? 
+ECOG performance status  to ;
+Have ECOG performance status of  or 
+ECOG performance status -
+ECOG performance status ? 
+Performance status (ECOG) of -.
+Patients must have an ECOG performance status of -
+Patients must have an ECOG performance status of  -
+Step : ECOG performance status =< 
+ECOG performance status -
+ECOG performance status of  to 
+Patients must have ECOG performance status of < .
+Patients must have an ECOG performance status of ,  or 
+ECOG performance status =< 
+ECOG performance status of , , or 
+ECOG performance status of  or 
+ECOG performance status of  or .
+Cohort A (asymptomatic): ECOG performance status ? Cohort B (symptomatic): ECOG performance status ?
+ECOG performance status ,  or 
+ECOG performance status of ? .
+ECOG Performance Status  or 
+ECOG Performance status of  to .
+ECOG performance status of  or .
+ECOG performance status of  to .
+ECOG performance status of , , or .
+ECOG performance status of -
+ECOG performance status of -
+ECOG performance status of  to 
+ECOG performance status of  or 
+ECOG performance status -.
+ECOG performance status ? 
+ECOG Performance Status <= .
+ECOG performance status ? .
+Has an ECOG performance status of  or .
+ECOG performance status -
+ECOG performance status of ? .
+ECOG performance status ?
+ECOG performance status  to 
+ECOG status ?.
+ECOG performance status of ? 
+ECOG performance status ? 
+ECOG performance status <
+Patients must have an ECOG Performance Status ? .
+ECOG performance status  or 
+Patients must have a ECOG performance status of  or 
+ECOG Performance status of  to .
+ECOG Performance Status -.
+ECOG performance status ? 
+ECOG Performance Status , , or 
+ECOG Performance Status of ? 
+ECOG Performance Status of ? .
+ECOG Performance Status of ? 
+ECOG Performance Status of ? .
+ECOG Performance Status of ? .
+Patients with ECOG performance grade of  or 
+ECOG status of  or .
+ECOG Performance Status less than or equal to 
+ECOG Performance status  or 
+ECOG performance status of  to 
+Have an ECOG Performance Status  or  at Screening
+ECOG performance status of  or 
+ECOG performance status ?
+ECOG performance status of  or  (see Error! Reference source not found.).
+ECOG performance status ? 
+Has ECOG performance status  or  on Cycle , Day 
+ECOG performance status -
+ECOG performance status of -
+ECOG performance status </= 
+ECOG performance status  or 
+ECOG performance status between -
+Patients must have an ECOG performance status of -
+(ECOG) performance status of -
+ECOG performance status ? ;
+ECOG Performance Status of  or  at Screening
+ECOG Performance Status ? 
+ECOG performance status of -.
+ECOG Performance Status: -
+ECOG Performance Status  or .
+ECOG performance status of  or .
+-  Subject has an ECOG performance status ?  at Screening and on Day .
+ECOG performance status of -.
+ECOG performance status of  or 
+ECOG performance status of  or 
+Patients who have received two or three prior regimens must have an ECOG performance status of  or 
+ECOG performance status of  or .
+ECOG performance status of  to 
+ECOG performance status ? 
+ECOG performance status of  or 
+WHO/ECOG performance status of  or ;
+ECOG Performance Status of  - ;
+DONOR: ECOG performance status  or 
+ECOG performance status > 
+ECOG performance status of -
+WHO/ECOG performance status of  or 
+ECOG performance status of  to .
+Subject must have an ECOG performance status of  or .
+ECOG performance status of  - .
+ECOG performance status between -
+ECOG performance status of  - 
+ECOG performance status of ? .
+ECOG performance status of ) to 
+ECOG performance status -.
+ECOG performance status >= 
+ECOG performance status of -.
+ECOG Performance Status of  or .
+ECOG Performance Status of  or 
+ECOG Performance status -
+ECOG performance status  or .
+ECOG performance status ?
+ECOG performance status of -.
+ECOG performance status of  or 
+ECOG performance status < 
+ECOG performance status of  or 
+ECOG performance status < 
+ECOG status of >= 
+ECOG performance status ? 
+ECOG Performance Status of ,  or .
+ECOG Performance Status of , , or 
+ECOG performance status of < .
+ECOG performance status of , , or 
+ECOG performance status of -.
+ECOG Performance Status  or .
+ECOG performance status of  or 
+The patient has an ECOG performance status of , , or 
+ECOG performance status ? 
+ECOG Performance Status: -
+ECOG performance status - (all cohorts)
+Patients must have an ECOG performance status of =< 
+ECOG performance status of < =  at study entry.
+ECOG Performance Status of ? 
+ECOG performance status of  or .
+ECOG Performance Status of </= 
+ECOG performance status -
+ECOG performance status  to 
+Have an ECOG Performance of -
+ECOG performance status ? 
+An ECOG performance status of 
+ECOG performance status ? 
+ECOG Performance Status of  or 
+ECOG performance status  to ;
+ECOG Performance Status < 
+Patients with an ECOG Performance Status of , , or .
+Patients with ECOG Performance Grade of  or 
+ECOG Performance Status of , , or 
+ECOG performance status -
+ECOG performance status  or 
+ECOG performance status > 
+ECOG performance status of -
+ECOG Performance Status of  or .
+ECOG performance status less than or equal to 
+ECOG Performance Status of  or 
+ECOG performance status of  to 
+ECOG performance status -
+ECOG performance status of  or , measured at screening and immediately before the start of treatment.
+ECOG Performance Status of -
+ECOG performance status of ? 
+ECOG Performance Status  to 
+ECOG performance status of  or .
+ECOG performance status of  or .
+ECOG performance status -
+ECOG performance status  or 
+ECOG performance status of -.
+ECOG performance status ? 
+ECOG performance status of  or 
+ECOG Performance Status ? .
+ECOG status of ? 
+ECOG performance status =< 
+(ECOG) Performance Status of ,  or 
+ECOG Performance Status -
+ECOG performance status ? .
+ECOG performance status of  - .
+ECOG Performance Status ? 
+ECOG performance status of -.
+ECOG performance status of  to 
+Patients must have an ECOG performance status of , , or .
+TREATMENT: Patients must have an ECOG performance status of -
+ECOG Performance Status  - 
+Have a performance status of  or  on the ECOG.
+ECOG Performance Status -
+ECOG performance status -.
+ECOG performance status of  or 
+ECOG performance status of  or 
+ECOG performance status of  to 
+ECOG performance status of  or 
+ECOG performance status of  or 
+ECOG performance status of  or 
+ECOG performance status -, inclusive
+ECOG performance status ? 
+ECOG performance status ? 
+ECOG Performance Status of ? 
+ECOG performed status of  or 
+ECOG Performance Status of  - .
+ECOG Performance Status -.
+ECOG performance status  or .
+ECOG Performance Status range of -
+ECOG performance status of  or 
+ECOG performance status -.
+ECOG performance status  or 
+ECOG performance status of ?
+ECOG performance status <
+ECOG performance status of  - . -
+ECOG performance status of ?
+ECOG performance status of  or 
+ECOG performance status -
+ECOG Performance Status  or .
+ECOG performance status > .
+ECOG performance status status >/= 
+ECOG performance status ?.
+ECOG performance status of  - .
+ECOG performance status ? 
+ECOG performance status of  to 
+ECOG Performance Status of  or 
+ECOG performance status of ,  or 
+ECOG Performance Status less than or equal to 
+ECOG performance status -
+ECOG performance status ?
+Patients must have ECOG performance status of -
+Donor must have an ECOG performance status of  or .
+Recipient must have an ECOG performance status of  or .
+ECOG performance status of , , or .
+ECOG performance status less than or equal to 
+ECOG Performance Status ? .
+ECOG Performance Status ? .
+ECOG Performance Status of , , or .
+Patients must have an ECOG performance status of  - 
+ECOG Performance Status of , , or .
+ECOG performance status -.
+ECOG Performance Status of ,  or 
+ECOG performance status ? 
+ECOG performance status of either  or 
+ECOG Performance Status -;
+ECOG Performance Status -
+ECOG performance status of , , or 
+ECOG Performance Status ? 
+ECOG Performance Status  or 
+ECOG performance status =< 
+ECOG performance status =< 
+Has an ECOG performance status of  or 
+Have an ECOG performance status of  to .
+Subject has an ECOG Performance Status -.
+ECOG Performance Status ? .
+ECOG performance status > 
+ECOG performance status < 
+Have ECOG performance status -
+ECOG performance status of  or 
+ECOG performance status  or worse
+ECOG performance status =< 
+Patients must have an ECOG Performance Status of < 
+ECOG performance status of  or 
+ECOG performance status ?.
+ECOG performance status > 
+ECOG Performance status ? 
+Patients must have a good performance status (ECOG<)
+ECOG performance status of  or 
+ECOG performance status ?
+ECOG performance status of  to 
+ECOG performance status of ,  or  at the time of enrollment.
+ECOG status > 
+ECOG performance status > 
+ECOG performance status  or 
+ECOG performance status of ? 
+Subject has an ECOG performance status  to .
+Has an ECOG performance status of Grade  to 
+ECOG performance status of  or 
+The patient has ECOG performance status > 
+ECOG performance status of  to .
+ECOG performance status of  or .
+ECOG performance status of  or 
+ECOG performance status of -
+Eastern ECOG performance status of  to .
+Subjects with ECOG performance status of  or .
+ECOG performance status of -.
+Subjects with ECOG performance status of  or .
+ECOG performance status -
+ECOG performance status >.
+ECOG performance status must be  or 
+ECOG performance status -
+ECOG performance status ? 

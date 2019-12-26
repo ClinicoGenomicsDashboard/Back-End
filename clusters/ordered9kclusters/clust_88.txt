@@ -1,0 +1,28 @@
+Patients must have total bilirubin =< 1.5 x IULN
+Patients must have total bilirubin =< 2.5 x IULN
+Direct bilirubin =< 1.5 x IULN (=< 5 x IULN if secondary to lymphoma) within 28 days prior to registration
+Patients must have total bilirubin =< 2.0 x IULN within 14 days prior to registration
+Total bilirubin =< 2.0 x IULN within 14 days prior to registration
+Patients must have bilirubin =< 2 x IULN within 7 days prior to registration (unless the bilirubin is primarily unconjugated)
+Total bilirubin =< 1.5 x the IULN
+Serum total bilirubin =< 1.5 x IULN OR direct bilirubin =< IULN for patients with total bilirubin > 1.5 x IULN
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) OR direct bilirubin =< IULN for patients with total bilirubin > 1.5 x IULN
+Bilirubin =< 1.5 x IULN
+Bilirubin 1.5-2 x IULN
+Total bilirubin =< 1.5 x international upper limit of normal (IULN) OR direct bilirubin =< IULN for patients with total bilirubin > 1.5 x IULN
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) OR direct bilirubin =< IULN for patients with total bilirubin > 1.5 x IULN
+ARM B COHORT 3: Total bilirubin =< 1.5 x IULN
+ARM C COHORT 4: Total bilirubin =< 2 X IULN
+Total bilirubin < 3 x IULN
+Total bilirubin =< 1.5 x IULN
+Total bilirubin =< 1.5 x IULN
+Total bilirubin =< 1.5 x IULN
+Total bilirubin =< 1.5 x IULN
+Total bilirubin < 1.5 x IULN
+REGISTRATION #2 - PRIOR TO CONSOLIDATION CHEMOTHERAPY: Total bilirubin =< IULN
+Total bilirubin =< 1.5 x IULN
+Total bilirubin =< 1.5 x IULN within 14 days prior to Step 3 registration
+Total bilirubin =< IULN; or total bilirubin =< 3.0 x IULN or direct bilirubin =< 1.5 ULN in patients with well documented Gilbert’s syndrome
+Total bilirubin =< 1.5 x IULN
+Total bilirubin =< 1.5 x institutional upper limit of normal (IULN) OR direct bilirubin =< IULN for patients with total bilirubin > 1.5 x IULN
+Total bilirubin >= 2 x IULN

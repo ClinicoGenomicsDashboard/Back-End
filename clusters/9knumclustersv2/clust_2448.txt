@@ -1,0 +1,18 @@
+A resting electrocardiogram (EKG) with a corrected QT (QTC) >=  msec detected on  or more time points within a  hour period or family history of long QT syndrome; if the EKG demonstrates QTC >=  msec, the patient will only be eligible if a repeat EKG demonstrates QTC =<  msec
+Resting electrocardiogram (ECG) with corrected QT (QTc) >  msec detected on  or more time points within a  hour period or family history of long QT syndrome; if ECG demonstrates QTc >  msec, patient will be eligible only if repeat ECG demonstrates QTc =<  msec
+Resting electrocardiogram (ECG) with corrected QT (QTc) >  msec on  or more time points within a  hour period or family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT interval (QTc) >  msec on  or more time points within a -hour period or family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT (QTc) >  msec on  or more time points within a  hour period or family history of long QT syndrome.
+Resting ECG with corrected QT (QTc) >  msec on two or more time points within a  hour period, noted within  days of treatment, or family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT Interval (QTc) >  msec on  or more time points within a -hour period or family history of long QT syndrome.
+Resting electrocardiogram (ECG) with corrected QT (QTc) >  msec on  or more time points within a  hour period or family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT (QTc) >  msec on  or more time points within a  hour period or of long QT syndrome
+PHASE I: Resting electrocardiogram (ECG) with corrected QT QTc) > msec on two or more time points within a h period, or a family history of long QT syndrome
+PHASE II: Resting ECG with QTc > msec on two or more time points within a h period, or a family history of long QT syndrome
+Resting electrocardiogram (ECG) with QTc >  msec on  or more time points within a -hour period or family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT interval (QTc) >  msec on  or more time points within a -hour period or family history of long QT syndrome.
+Resting electrocardiogram (ECG) with corrected QT interval (QTc) >  msec on  or more time points within a  hour period or family history of long QT syndrome
+Resting electrocardiography (ECG) with correct QT interval (QTc) >  msec on  or more time points within a  hour period or family history of long QT syndrome.
+Resting electrocardiogram (ECG) with corrected QT interval (QTc) >  msec on  or more time points within a  hour period or family history of long QT syndrome
+Patients who have a resting electrocardiogram (ECG) with a Fridericia corrected QT (QTcF) interval of >=  msec at  or more time points within a  hour period or a family history of long QT syndrome
+Resting electrocardiogram (ECG) with corrected QT (QTc) >  msec on  or more time points within a  hour period or a documented family history of long QT syndrome.

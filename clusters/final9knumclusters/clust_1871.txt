@@ -1,0 +1,29 @@
+Platelets greater than or equal to 100,000/mm3 (greater than or equal to 100 X 109/L)
+Platelets (Plts) greater than or equal to 75,000/mm^3 (transfusion independent)
+Platelets greater than or equal to 100,000/mm3 (greater than or equal to 100 X 109/L)
+Platelets greater than or equal to 75,000/ul
+Platelets greater than or equal to 100,000/mcl
+Platelets greater than or equal to 100,000/mcl, within 14 days prior to registration
+Platelets greater than or equal to 50,000 mcL
+Platelets greater than or equal to 75 x 10^9/L
+Platelets greater than or equal to 100,000/mm^3
+Platelets greater than or equal to 100,000/uL
+Platelets more or equal to 50,000/mL
+Platelets (Plts) greater than or equal to 75,000/mm^3 (transfusion independent)
+Platelets less than or equal to 75,000
+Platelets greater than or equal to 100,000/mm^3
+Platelets greater than or equal to 75,000/ul
+Platelets greater than or equal to 100,000/mm^3 (CTCAE grade 0-1)
+Platelets greater than or equal to 100,000/mcl
+Platelets greater than or equal to 100,000/mcl
+Platelets greater than or equal to 100 K/uL
+Platelets greater than or equal to 100,000/mcL (platelets >= 100 x 10^9/L)
+Platelets greater than or equal to 75,000/mm3 (greater than or equal to 75 X 10^9/L)
+Platelets greater than or equal to 100,000 cells/mcl
+Platelets greater than or equal to 100 x 10^9/L
+Platelets greater than or equal to 100,000/mcl
+Platelets greater than or equal to 100,000/ul, CTCAE grade 0-1
+Platelets greater than or equal to 100,000/mcl
+Platelets greater than or equal to 100,000/ul
+Platelets greater than or equal to 100,000/ul (CTCAE grade 0-1)
+Platelets greater than or equal to 100,000/mcl

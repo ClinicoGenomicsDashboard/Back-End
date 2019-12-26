@@ -1,0 +1,8 @@
+Patient has undergone major surgery, other than diagnostic surgery (ie, surgery done to obtain a biopsy for diagnosis without removal of an organ), within  weeks prior to Day  of treatment in this study.
+Major surgery, other than diagnostic surgery (e.g., surgery done to obtain a biopsy for diagnosis without removal of an organ), within  weeks prior to first dose.
+Subject has undergone major surgery, other than diagnostic surgery (i.e. surgery done to obtain a biopsy for diagnosis or an aborted Whipple), within  days prior to day  of treatment in this study
+Subject has undergone major surgery, other than diagnostic surgery (i.e.--surgery done to obtain a biopsy for diagnosis or an aborted Whipple), within  days prior to day  of treatment in this study
+Patient has undergone a major surgery, other than diagnostic surgery (i.e. surgery done to obtain a biopsy for diagnosis without removal of an organ) within four weeks prior to day  of treatment on this study
+Subject has undergone major surgery for any reason, other than diagnostic surgery (ie, surgery done to obtain a biopsy for diagnosis without removal of an organ), within  weeks prior to Cycle  Day  of treatment in this study.
+Patient has undergone major surgery, other than diagnostic surgery (i.e.--surgery done to obtain a biopsy for diagnosis without removal of an organ), within  weeks prior to day  of treatment in this study
+Patient has undergone major surgery, other than diagnostic surgery (i.e. surgery done to obtain a biopsy for diagnosis without removal of an organ), within  weeks prior to day  of treatment in this study

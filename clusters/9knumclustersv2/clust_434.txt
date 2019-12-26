@@ -1,0 +1,235 @@
+Creatinine =< . mg/dL
+Creatinine < . mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine <  mg/dL
+Creatinine less than or equal to . mg/dL
+Creatinine ?.mg/dL
+Creatinine <  mg/dL
+Creatinine < . mg/dl
+Creatinine =<  mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Creatinine ? . mg/dl
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine ? . mg/dl,
+Creatinine < . mg/dl
+Clinically significant renal disease (creatinine > . mg/dL, urea >  mg/dL)
+Creatinine .-.: MG/DL
+Creatinine =< . mg/dL
+A baseline creatinine reported as > . mg/dL
+PART I: Creatinine =< . mg/dL
+PART II: Creatinine =< . mg/dL
+Creatinine =< . mg/dL OR
+ARM I&II: Creatinine =< . mg/dl
+Creatinine less than or equal to . mg/dL (unless considered tumor related)
+Creatinine > . mg/dL
+Creatinine < . mg/dL
+Creatinine =< . mg/dL
+To be performed within  days prior to day  of protocol therapy: creatinine =< . mg/dL
+Within  weeks of day : Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine ? . mg/dL
+Creatinine < . mg/dL (a renal consult can override this criteria)
+Creatinine > . mg/dL (a renal consult can override this criteria)
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL obtained <  weeks prior to starting treatment
+Creatinine < mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dl
+Creatinine less than or equal to . mg/dL (unless considered tumor related)
+Creatinine (Cr) =< . mg/dL x ULN
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine: =< . mg/dl
+Creatinine < . mg/dl
+Creatinine < . mg/dl
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Within  weeks of day : Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Creatinine < . mg/dl within  days of study entry
+Creatinine =< . mg/dl
+Creatinine < . mg/dl
+Creatinine <  mg/dL
+Creatinine > . mg/dL
+Creatinine =< . mg
+Creatinine < . mg/dL
+Creatinine =< . mg/dL
+Creatinine < . mg/dL
+Creatinine =< . mg/dl
+Creatinine < . mg/dL
+Creatinine less than or equal to . mg/dL (unless considered tumor related)
+Within  weeks of enrollment: Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Creatinine < . mg/dL
+Creatinine < . mg/dL
+Creatinine < . mg/dL
+Creatinine (Cr) =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine < . mg/dl
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Creatinine =<  mg/dL
+Creatinine > . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Creatinine < . mg/dl or  u/L
+Creatinine: =< . mg/dL
+Creatinine<mg/dl
+Creatinine < . mg/dL
+Creatinine <. mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine <  mg/dL
+Creatinine =< . mg/dL
+Creatinine <  mg/dl
+Performed within  days prior to study: Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine < . mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL.
+Creatinine < . mg/dl
+Creatinine =< . mg/dl
+Creatinine =<  mg/dL OR
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine: =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine < . mg/dL
+Creatinine =< . g/dl
+Creatinine less than or equal to . mg/dL
+Creatinine =< . mg/dL
+Creatinine ?.mg/dL.
+Creatinine less than . mg/dl
+Creatinine =< . mg/dl
+Creatinine =< . mg/dcL
+Creatinine up to and including  mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine (Cr) =<  mg/dL
+Creatinine < . mg/dL
+Creatinine < . mg/dl
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl, unless considered due to tumor
+Creatinine =<  mg/dL
+Creatinine less than or equal to . mg/dl
+Creatinine < . mg/dL
+Creatinine =< .mg/dl
+Creatinine =< . mg/dl
+Creatinine =<  mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dl within  days prior to study registration
+Creatinine =< . mg/dl
+Creatinine < . mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine < . mg/dL
+creatinine <  mg/dL
+Creatinine =< . mg/dL
+Creatinine ? . mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine > . mg/dl
+Creatinine =< . mg/dl
+Creatinine >= . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg
+Creatinine < . mg/dl
+Creatinine =< . mg/dL
+Creatinine < . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+creatinine ? . mg/dL OR
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine (Cr) =< . mg/dl
+Creatinine < . mg/dl
+Creatinine < . mg/dL
+Creatinine =<  mg/dL
+Creatinine =< . mg/dL
+Creatinine less than or equal to . mg/dL (unless considered tumor related)
+Creatinine <  mg/dl
+Creatinine <  mg/dL
+(continued from no. ) The lab will measure protein concentration (mg/dL) and creatinine concentration (mg/dL). The UPCR is derived as follows: protein concentration (mg/dL)/creatinine (mg/dL).
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =<  mg/dL
+Creatinine =< . mg/dL
+PRIOR TO POST-TRANSPLANT IMMUNOTHERAPY: Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Renal dysfunction defined as creatinine ? . mg/dL.
+Creatinine =< . mg/dL
+Creatinine =< . mg/dL
+Creatinine should be <  mg/dL due to disease
+Creatinine > . mg/dl
+Creatinine =< . mg/dL
+Creatinine =< . X mg/dL
+Creatinine =< . mg/dL; patients on renal replacement therapy are not eligible
+Creatinine =< . mg/dL
+Creatinine ? . mg/dL
+Creatinine =< . mg/dL
+Creatinine < . mg/dL
+Creatinine =< . mg/dL
+Creatinine < . mg/dl
+Creatinine (Cr) >  mg/dL
+Creatinine =<  mg/dL
+Creatinine =< . mg/dl
+Creatinine < . mg/dL
+Creatinine < . mg/dL
+Creatinine =< . mg/dL
+Creatinine =< ULN for institution mg/dL
+Creatinine =< . mg/dl
+Creatinine > .mg%
+Creatinine < . mg/dL
+Total creatinine =< . mg/dL
+Creatinine < . mg/dL
+Creatinine =< mg/dL
+Creatinine >  mg/dL
+Creatinine ? . mg/dl
+Creatinine: =< . mg/dL
+Creatinine < . mg/dl
+Creatinine ? . mg/dL
+Creatinine =< . mg/dl
+Creatinine =< . mg/dL
+Creatinine < . mg/dl
+Creatinine < . mg/dL
+Creatinine =< . mg/dl
+Creatinine >= . mg/dL
+Creatinine =< . mg/dL
+Creatinine <  mg/dL
+Patients with impaired kidney function (creatinine >= . mg/dL or < . mg/dL)
+Creatinine > . mg/dl
+Creatinine > . mg/dL
+Creatinine =< . mg/dl
+Creatinine < . mg/dL
+Creatinine < . mg/ dL
+Creatinine <. mg/dl
+Creatinine =< . mg/dL

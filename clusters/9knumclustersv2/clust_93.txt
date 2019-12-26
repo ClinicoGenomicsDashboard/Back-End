@@ -1,0 +1,28 @@
+Platelets >= , cells/uL ( x ^ L); and,
+While blood cells /ul or more
+Platelets >= , cells/ul
+Platelets >= , cells/ul
+Platelets >= , cells/uL
+While blood cells /ul or more
+While blood cells /ul or more
+Platelets >= , cells/ul (prior to biopsy)
+Platelets < , cells/uL
+Platelets >= , cells/uL
+Platelets >= , cells/ul
+Platelets > , cells/ul
+Platelets >= , cells/uL (to be performed within  days prior to start of study treatment)
+Platelets >= , cells/ul
+Platelets >= , cells/ul
+Platelets >= , cells/uL within  days before enrollment
+Platelets >= , cells/uL ( x ^/L)
+Platelets >= , cells/ul
+Platelets =< , cells/ul (blood work will be repeated within  weeks and if still abnormal, patient will be excluded)
+Platelets > , cells/ul
+Platelets >= , cells/uL, or >= ,/uL if bone marrow is involved by malignancy
+Platelets > , cells/ul within  days prior to treatment initiation
+Platelets > , cells/ul
+Platelets >= , cells/uL
+Platelets >= , cells/uL
+Platelets > , cells/uL
+Platelets >= , cells/uL
+Thrombocytopenia (platelets < , cells/uL)

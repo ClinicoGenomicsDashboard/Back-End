@@ -1,0 +1,279 @@
+Platelets >= ,/mm^ (without support)
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^ within  weeks prior to randomization
+Platelets >= ,/mm^
+Platelets >= , cell/mm^
+Platelets >= ,/mm^
+Platelets ? ,/ mm
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets ? ,/mm
+Platelets >= ,/mm^
+Platelets ? ,/mm;
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets ?,/mm;
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets < x^/L (x^/mm^)
+Platelets ?,/mm^ (?  ^/L);
+Platelets >= ,/mm^ or >=  x ^/L
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^ ( x ^/L)
+Platelets > ,/mm,
+Platelets less than ,/cubic mm
+Platelets > ,/mm^.
+Platelets >=  K/mm^
+Platelets >/= ,/mm
+Platelets >= ,/mm.
+Platelets >= ,/mm^ ( x ^/L)
+Platelets < , per mm^
+Platelets >= K/mm^
+Platelets >= ,/mm^
+Platelets >=  K/mm^
+Platelets* ? ,/mm (?  x ^/L)
+Platelets >= ,/mm^
+Platelets ?,/mm
+Platelets ? ,/mm^
+Within  weeks of day : Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >  K/mm^.
+Platelets >=  k/mm^
+Platelets >= ,/mm^
+Within  days before the first dose of study treatment: Platelets >= ,/mm^
+Platelets >= ,/mm^, at the time of enrollment
+Platelets ?,/mm^ (?  ^/Liters [L])
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^ OR >=  x ^/L
+Platelets < ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets > ,/mm^
+Platelets >=  K/mm^
+Platelets >=  k/mm^
+Platelets <  x ^/L (, per mm^)
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets >  K/mm^
+Platelets >= ,/mm^
+Platelets < ,/mm^ [ x ^/L]
+Platelets ? ,/mm^ ( x ^/L)
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets < ,/mm^ ( x ^/L)
+Platelets >= K/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets (Plts) >=  k/mm^
+Platelets ?,/mm^ (?x^/L)
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Within  weeks of day : Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm
+Platelets >= ,/mm^ ( x ^/L)
+Platelets >= ,/mm^
+Platelets < ,/ mm^
+Platelets >= ,/mm^
+Platelets >=  K/cu mm
+Platelets >= , per mm^
+Platelets > ,/mm^
+Platelets > , mm^
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets < ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets are >= ,/mm^
+Platelets >= ,/mm^
+Platelets < ,/mm
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets < ,/mm
+Platelets >= , mm^
+Platelets >= ,/cu mm
+Platelets >= , mm^
+Platelets > ,/mm^
+Platelets < ,/mm^
+Thrombocytopenia (< , platelets/mm^)
+Platelets >=  x ^/mm^
+Platelets >=  x ^/mm^
+Platelets >=  K/ mm^
+Platelets>,/mm
+Platelets >= ,/mm^
+Platelets >= K/mm^
+Platelets ? ,/mm^
+Platelets < /mm^.
+Platelets ? ,/mm^
+Platelets >= ,/mm^
+Platelets are ,/mm
+Platelets >= ,/ mm^
+Platelets >  K/mm^
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >=  x ^/mm^
+Platelets >= ,/mm^
+Platelets: >= , / mm^
+Platelets >= ,/mm^
+Platelets >= , per mm^
+Platelets ?,/mm with no active bleeding
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets less than  x ^/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets count > , mm^
+Platelets >= ,/mm^ (untransfused)
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets ?,/mm^ (? x ^/L)
+Platelets >= ,/mm^
+Platelets ?,/mm
+Platelets ? .//mm
+Platelets >= ,/mm^
+Platelets >= , mm^
+Platelets >= ,/mm^
+Platelets ?,/mm (?  ^/L)
+Platelets ? ,/mm
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/ mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets >= , /mm^
+Platelets >= , per mm^
+Platelets* ? ,/mm (?  x /L)
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/ mm^
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^ within  weeks of enrollment
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Marrow: WBC ?/mm^ and platelets ?,/mm^.
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= , mm^
+Platelets >= , per mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets greater than ,/mm^
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets <,/mm
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets count ? ,/mm
+Platelets < ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets > ,/mm^ (without support)
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+platelets >,/mm
+Platelets >= ,/mm^
+Marrow: WBC ?/mm^ and platelets ?,/mm^.
+Platelets >= ,/mm^
+Platelets >= ,mm^
+Platelets >= ,/mm^
+Platelets: >= ,/mm^
+Platelets >=  x ^/L; (,/mm^)
+Platelets > ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >=  x ^/L (,/mm^)
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/ mm^
+Platelets >= ,/mm^
+Platelets < ,/mm
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets ?,/mm
+Hematology WBC <, mm Platelets <, mm
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets > ,/mm^
+Platelets > ,/mm and WBC > /mm.
+Platelets >= ,/mm^
+Platelets count > , mm^ and less than ,, mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= ,/mm^ (>=  x ^/L)
+Platelets >= ,/mm^
+Platelets: >= ,/mm^
+Platelets >=  K/mm^
+Platelets: >= ,/mm^ within  days before enrollment
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >= , mm^
+Platelets ? ,/ mm
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets >=  K/cu mm
+Platelets >=  K/cu mm
+Platelets >= ,/mm^
+Platelets >= ,/mm^
+Platelets < ,/mm^
+Platelets ?,/mm (?  /L)
+platelets ? ,/mm,

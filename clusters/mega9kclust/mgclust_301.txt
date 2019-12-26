@@ -1,0 +1,5 @@
+Cluster 202: oxygen saturation pulse oximetry rest resting hypoxemia baseline pao arterial 
+Cluster 421: air saturation room oxygen baseline desaturation ambulatory rest function pulmonary 
+Cluster 1110: room air perform forced predicted capacity pulmonary oximetry fvc pulse 
+Cluster 1730: pulse room air oximetry oxygen saturation pulmonary dyspnea reserve level 
+Cluster 1952: oximetry pulse room air infusion inclusion patients treatment previously radiation 

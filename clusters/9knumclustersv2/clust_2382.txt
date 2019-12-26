@@ -1,0 +1,34 @@
+* Platelets >=  x ^ cells/ L (unsupported, defined as no platelet transfusion within  days)
+Hemoglobin >= g/dl (unsupported)
+Absolute neutrophil count >= / mm^ (unsupported) and documented within  days prior to registration and within  days prior to the start of treatment
+Platelets >= ,/ mm^ (unsupported) and documented within  days prior to registration and within  days prior to the start of treatment
+Documented within  days of registration: Absolute neutrophil count >= /ul (unsupported)
+Documented within  days of registration: Platelets >= ,/ul (unsupported)
+Platelets >= , cells /uL (unsupported, defined as no platelet transfusion within  days)
+INCLUSION CRITERIA FOR STRATUM C: Platelets >= , cells/uL (unsupported, defined as no platelet transfusion within  days)
+Absolute neutrophil count >= ,/uL (unsupported), within  days of registration and within  days of the start of treatment
+Platelets >= ,/L (unsupported), within  days of registration and within  days of the start of treatment
+Platelets >= ,/ul (unsupported)
+Platelets >= , x ^/L unsupported by transfusions (within  days of study registration)
+Hemoglobin >=  g/dL, unsupported by transfusions (within  days of study registration)
+Platelets >=  x ^ cells/L (unsupported, defined as no platelet transfusion within  days)
+Platelets >= , x ^/L, unsupported by transfusions
+Hemoglobin >=  g/dL, unsupported by transfusions
+Absolute neutrophil count (ANC) >=  x ^/L, unsupported by filgrastim (G-CSF) or granulocytes
+Within  days of registration: Platelets >= ,/mcL unsupported by transfusions
+Platelets ? ,/mm (unsupported for  days)
+Hemoglobin ? g/dl (unsupported) for  days
+Platelets >= ,/mm^ (unsupported, defined as no platelet transfusion within  days and recovery from nadir)
+Platelets >= ,/ul (unsupported)
+Hemoglobin (Hg) >= g/dL (unsupported)
+Absolute neutrophil count >= ,/mm^ (unsupported)
+Platelet count >= ,/mm^ (unsupported)
+Absolute neutrophil count >= ,/mm^ (unsupported)
+Platelet count >= ,/mm^ (unsupported)
+Adequate bone marrow function (hemoglobin ? . g/dL; unsupported platelets ?  x  cells/L; absolute neutrophil count ? .x  cells/L
+Hemoglobin >=  g/dL unsupported by transfusions within  days
+RECURRENT/ PROGRESSIVE DIPG (STRATUM ): Platelets >= ,/mm^ (unsupported, defined as no platelet transfusion within  days, and recovery from post-transfusion nadir)
+NON-PROGRESSED DIPG (STRATUM ): Platelets >= ,/ mm^ (unsupported, defined as no platelet transfusion within  days, and recovery from post-transfusion nadir)
+Platelets >= ,/mm^ (unsupported)
+Hemoglobin >=  g/dL (unsupported)
+Absolute neutrophil count (ANC) ? /?l and platelets ? /?l (unsupported by transfusions).

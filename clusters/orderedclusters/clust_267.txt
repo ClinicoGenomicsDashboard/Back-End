@@ -1,0 +1,28 @@
+Patients must have a Gynecologic Oncology Group (GOG) performance grade of 0, 1, or 2
+1070.0
+Patients with GOG performance grade of 3 or 4
+1070.0
+Patients must have Gynecologic Oncology Group (GOG) performance status 0, 1, or 2
+164.0
+Patients with GOG performance grade of 3 or 4
+164.0
+Patients must have a Gynecologic Oncology Group (GOG) performance grade of 0, 1, or 2
+128.0
+Gynecologic Oncology Group (GOG) performance status 0, 1, 2
+360.0
+Patients with GOG performance status of 3 or 4
+360.0
+Patients with a GOG Performance Status of 0, 1, or 2
+NONE
+Patients must not be eligible for a higher priority Gynecologic Oncology Group (GOG) protocol, if one exists; in general, this would refer to any active GOG Phase III protocol or Rare Tumor protocol for the same patient population
+52.0
+Patients with a GOG performance status of 0, 1, or 2
+52.0
+Patient must have Gynecologic Oncology Group (GOG) performance status of 0, 1, or 2
+600.0
+Patients must have a Gynecologic Oncology Group (GOG) performance status of 0, 1, or 2
+540.0
+Patients must have a GOG performance status of 0 or 1
+250.0
+Patient must have a Gynecologic Oncology Group (GOG) performance status of 0, 1, or 2 or equivalent
+188.0

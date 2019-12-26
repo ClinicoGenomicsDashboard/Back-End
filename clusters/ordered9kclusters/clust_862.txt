@@ -1,0 +1,149 @@
+Baseline PSA nadir >= 0.2 ng/ml (post-operative value is never undetectable) obtained prior to step 1 registration
+Previously untreated localized adenocarcinoma of the prostate with the following clinical findings:\r\n* Clinical stage by digital rectal exam of either T1c or T2a/b (limited to one side of the gland); (American Joint Committee on Cancer [AJCC], version 7) or cT1a-c or 2a or 2b, stage group IIA or IIB (AJCC, version 8); both versions 7 and 8 staging should be recorded\r\n* Patients in active surveillance who elect to be treated are eligible if they meet protocol requirements\r\n* Stages T1a-T1b are eligible if patient underwent transurethral prostatic resection (TURP) previously Gleason score must be Gleason 7(3+4) with a PSA < 20 ng/mL, or Gleason 6(3+3) with a PSA > 10 ng/mL and < 20 ng/mL; (AJCC, version 7) or group grade 1 or 2, stage Group IIA or IIB (AJCC version 8)\r\n** If patient is receiving a 5-alpha reductase inhibitor at the time of enrollment the baseline PSA value will be assumed to be double the initial value and the medication should be discontinued but does not need to have a washout period to participate, to remain eligible a PSA drawn while still on the medicine must be:\r\n*** < 10 ng/mL to remain eligible if Gleason 7(3+4) \r\n**** Stratification level 1 if PSA < 5 ng/mL and level 2 if less than 10 ng/mL\r\n*** > 5 ng/mL and less than 10 ng/mL for Gleason 6(3+3) \r\n**** Stratification level 3\r\n* Percent of submitted positive core biopsies must be < 50% of all sextants\r\n** NOTE: all cores from a targeted lesion will be counted as an N of 1 core for calculating percent positive cores in total\r\n* The prostate volume must be < 60 cc as reported at time of biopsy or by separate measure with ultrasound or other imaging modalities including magnetic resonance imaging (MRI) or computed tomography (CT) scan
+Recurrent prostate cancer following primary therapy as defined by:\r\n* Post-radical prostatectomy: Any PSA >= 0.4 ng/ml\r\n* Post-primary radiotherapy: PSA >= 2 ng/ml above a post-radiotherapy nadir\r\n* Post-primary androgen-deprivation therapy: A confirmed rise of PSA >= 2 ng/ml above a post-therapy nadir
+For patients with castrate levels of circulating androgen levels (testosterone < 50 ng/dl):\r\n* PSA levels must be >= 0.4 ng/ml (if history of radical prostatectomy) or >= 2 ng/ml (if history of non-surgical primary treatment) and found to be increasing on at least two occasions >= 1 week apart\r\n* At least 4 weeks must have elapsed since any changes to hormonal therapy, including at least 4 weeks since flutamide and at least 6 weeks since bicalutamide, nilutamide, or enzalutamide
+PSA ? 2 ng/ml
+Evidence of disease recurrence or progression as evidenced by a PSA > 0.20; this requires 2 consecutive rises in PSA, at least 1 week apart, over the post-prostatectomy nadir or one PSA value above 0.20 ng/mL if the patient failed to achieve a post-prostatectomy nadir of < 0.2 ng/mL
+PSA > 4.0 ng/mL
+Baseline (pre-treatment) serum troponin T (TnT) >= 0.03 ng/mL; Troponin T levels may be rechecked and therapy given if levels decrease to < 0.03 ng/mL
+PSA values < 10 ng/ml within 90 days prior to randomization. Either done prior to biopsy or at least 21 days after prostate biopsy.
+Absolute PSA > 20 ng/mL AND/OR
+Very fast PSA doubling time of less than 4 weeks, if the absolute PSA is > 2 ng/mL or an absolute PSA value of greater than or equal to 20 ng/ml
+Screening PSA > 0.5 ng/mL
+Screening PSA must be >= 1.0 ng/mL
+PSA < 15 ng/ml or PSA density < 0.15 ng/ml2 in patients with a PSA > 15 ng/ml
+PSA must be < 30 ng/mL at study entry
+Serum PSA >= 2.0 ng/mL
+For patients following radical prostatectomy: 2 absolute PSA values > 0.2 ng/ml
+PSA >= 2 ng/mL
+Serum PSA =< 10.0 ng/ml
+PSA values < = 20 ng/ml within 90 days prior to randomization. Obtained prior to biopsy or at least 21 days after prostate biopsy.
+PSA values < 2 ng/ml within 90 days prior to enrollment. Obtained at least 6 weeks after surgery
+Has a serum vitamin D level of ? 50 ng/mL
+Biochemical progression defined as follows:\r\n* For patients following definitive radiation therapy: a rise in PSA of >= 2 ng/mL above the nadir (per Radiation Therapy Oncology Group [RTOG]- American Society for Radiation Oncology [ASTRO] consensus criteria)\r\n* For patients following radical prostatectomy: rising PSA after surgical procedure (patients must have a PSA >= 0.8 ng/mL)
+PSA =< 30 ng/mL
+Serum PSA ?10 ng/mL.
+Evidence of disease recurrence or progression as evidenced by a PSA > 0.20 ng/ml; this requires 2 consecutive rises in PSA, at least 1 week apart, over the post-prostatectomy nadir or one PSA value above 0.20 ng/mL if the patient failed to achieve a post-prostatectomy nadir of < 0.2 ng/mL
+PSA ? 4.0 ng/mL
+PSA >= 4 ng/ml
+PSA >= 20 ng/dL
+Has a serum PSA concentration at the Screening visit of > 2.0 ng/mL (2.0 ?g/L), or, when applicable, post radical prostatectomy of > 0.2 ng/mL (0.2 ?g/L) or post radiotherapy, cryotherapy, or high frequency ultrasound > 2.0 ng/mL (2.0 ?g/L) above the post interventional nadir;
+Creatinine =< 1.4 ng/mL for females; =< 1.5 ng/mL for males; patients with creatinine =< 2.0 ng/mL may still be eligible if in the opinion of the investigator, the benefits of treatment outweigh the risks
+Absolute PSA >=1 ng/ml; prior undetectable PSA post-prostatectomy is not required
+PSA > 2 ng/mL at baseline or prior to initiation of hormonal therapy
+Screening PSA must be >= 1.0 ng/mL
+Baseline serum ferritin level >= 300 ng/mL
+Serum ferritin < 50 ng/mL
+Baseline serum vitamin D total 25-hydroxy level below 66 ng/ml
+Patients with vitamin D total 25-hydroxy level above 66 ng/ml at baseline testing
+Patient has a PSA of greater than 80 ng/ml obtained no greater than 3 months prior to randomization
+Serum PSA <20 ng/ml
+PSA > 10 ng/mL in screening
+Maximum PSA =< 20 ng/ml (not within 20 days after biopsy)
+PSA > 100 ng/mL
+PSA < 150 ng/mL
+PSA >= 150 ng/mL
+For patients with metastatic prostate cancer, PSA >= 2 ng/mL, except for patients who have recently started androgen deprivation therapy with PSA < 2 ng/mL
+Serum PSA > 160 ng/dL
+Baseline vitamin D level greater than 50 ng/mL
+PSA >= 2.0 ng/mL
+Very low risk category (T1c, GS ?6, PSA <10 ng/mL, fewer than 3 prostate biopsy cores positive, ?50% cancer in any core, PSA density <0.15 ng/mL/g)
+PSA of greater than 10ng/ml
+PSA > 10 ng/ml
+CEA plasma levels > 5 ng/mL.
+Castration resistant prostate cancer as defined by serum testosterone < 50 ng/ml and PSA level of at least 2 ng/ml that has risen on at least 2 successive occasions at least 1 week apart
+CEA plasma levels > 5 ng/mL
+Prostate cancer with a current PSA level < 0.1 ng/mL.
+Must have a vitamin D level >= 30 ng/mL after repletion
+Serum ferritin < 50 ng/mL.
+Normal serum CEA levels (< 3 ng/ml) at the time of registration
+Serum PSA level > 20 ng/ml
+Serum PSA >= 2.0 ng/ml at study enrollment
+Patients must have a PSA >= 2 ng/mL obtained within 90 days prior to registration
+Serum PSA <10 ng/mL undergoing active surveillance may be enrolled with agreement of the sponsor.
+Screening PSA by the central laboratory ? 1 ng/mL for patients who had radical prostatectomy (with or without radiotherapy) as primary treatment for prostate cancer and at least 2 ng/mL above the nadir for patients who had radiotherapy only as primary treatment for prostate cancer;
+PSA ? 15 ng/ml
+PSA > 20 ng/ml
+PSA progression defined as 25% increase over baseline value with an increase in the absolute value of at least 2 ng/mL that is confirmed by another PSA level with a minimum of a 1 week interval and a minimum PSA of 2 ng/mL.
+PSA progression defined as 25% increase over a baseline value of > 2 ng/ml with an increase in the absolute value of at least 2 ng/mL that is confirmed by another PSA level with a minimum of a 1-week interval. Baseline is defined as the PSA nadir level since commencing most recent prior therapy
+A post-prostatectomy PSA nadir >= 0.2 ng/mL AND Gleason >= 7
+pT2 with a negative surgical margin and PSA < 0.1 ng/mL
+PSA ? 20 ng/mL;
+PSA > 20 ng/mL
+PSA progression defined as 25% increase over baseline value with an increase in the absolute value of at least 2 ng/mL that is confirmed by another PSA level with a minimum of a 1 week interval with a minimum PSA of 2 ng/ml.
+Prostate cancer with a current PSA level < 0.1 ng/mL.
+Patient with PSA less than or equal to 10 ng/mL
+PSA < 10 ng/mL =< 30 days prior to registration
+Biochemical progression after definitive radiation or surgery defined as follows:\r\n* For patients following definitive radiation therapy: a rise in PSA of >= 2 ng/mL above the nadir (per Radiation Therapy Oncology Group [RTOG]-American Society for Radiation Oncology [ASTRO] consensus criteria)\r\n* For patients following radical prostatectomy: rising PSA after surgical procedure; (patients must have a PSA >= 0.8 ng/ml)
+PSA =< 30 ng/mL
+Patients with prior history of prostate cancer that is not under active systemic treatment (except hormonal therapy), but with undetectable PSA (<0.2 ng/mL).
+The screening PSA (PSA3) must be ? 2 ?g/L (? 2 ng/mL).
+Patients must have a minimum serum PSA level of >2 ng/ml that is rising based on the Prostate Cancer Working Group 2 criteria.
+PSA value within 4 weeks of starting therapy less than 20 ng/mL for hormone-naïve patients (defined as hormone-naïve patients and patients who received hormone therapy in the past who currently have total testosterone greater than 50 ng/dL) or less than 60 ng/mL for hormone-independent patients.
+An elevated PSA level of > 2 ng/mL for patients progressing by PSA criteria is required (last confirmatory sample must be > 2 ng/mL)
+Serum PSA ?2 ng/mL (?g/L)
+Patients must have an absolute PSA level between > 0.05 and < 0.7 ng/mL at the time of study entry
+PSA >= 2.0 ng/mL
+Biochemical progression defined as follows:\r\n* For patients following definitive radiation therapy: a rise in PSA of >= 2 ng/mL above the nadir (per Radiation Therapy Oncology Group [RTOG]-American Society for Radiation Oncology [ASTRO] consensus criteria)\r\n* For patients following radical prostatectomy: rising PSA after surgical procedure (patients must have a PSA >= 2 ng/ml)
+PSA =< 20 ng/mL
+Patients must have a PSA >= 2 ng/mL at the time of diagnosis of prostate cancer or later
+PSA > 2 ng/mL
+PSA > 2 ng/mL (at the time of enrollment or prior to initiation of docetaxel)
+Evidence of measurable disease either by RECIST 1.1 or elevation of serum tumor markers (AFP > 15 ng/mL or HCG > 2.2 mIU/ml)
+The most recent of the PSA values must be >= 2.0 ng/ml; this measurement must be obtained within 1 month prior to enrollment
+Pre-registration serum PSA level =< 100 ng/mL
+All patients must have a PSA >= 2 ng/mL
+300 ng/mL < serum ferritin < 1,500 ng/mL (Values within 10% difference above 1500 ng/ml or 10% difference below 300 ng/ml may be accepted at the investigator's discretion.
+Prostate cancer with a current PSA level < 0.1 ng/mL.
+After radical prostatectomy, two PSA measurements of ? 1.0 ng/mL at least one week apart;
+After cryosurgery, two PSA measurements of ? 2.0 ng/mL at least one week apart;
+A PSA value of at least 2 ng/mL is required at study entry.
+Biochemical disease progression after radical prostatectomy and/or radiation therapy (external-beam radiation therapy and/or brachytherapy), and no radiographic evidence of metastases\r\n* Men with history of radical prostatectomy are required to have baseline PSA > 0.5 ng/mL (prior treatment with neoadjuvant, adjuvant, or salvage radiation therapy is allowed, again, with screening PSA greater than or equal to 0.5 ng/mL required for eligibility)\r\n* Men treated with primary radiation therapy are required to have baseline PSA >= 1.0 ng/mL above their post radiation nadir for men who were treated with primary radiation therapy (external beam and/or brachytherapy); men who had primary radiation therapy followed by salvage prostatectomy are eligible if screening PSA is greater than or equal to 0.5 ng/mL\r\n* Men with previous neoadjuvant adjuvant hormone therapy are eligible if testosterone level at screening is non-castrate (>= 50 ng/dl); men previously treated with intermittent hormonal therapy are also eligible if level of testosterone at screening is non-castrate (>= 50 ng/dl)
+PSA at least 2 ng/mL
+Minimum PSA:\r\n* If no prior androgen deprivation therapy (ADT) for biochemical relapse:\r\n** 1.0 ng/mL if prior radical prostatectomy with or without adjuvant/salvage radiation therapy, confirmed by repeat measurement at least 2 weeks later, or\r\n** Nadir + 2 ng/mL if prior RT alone without prior radical prostatectomy, confirmed by repeat measurement at least 2 weeks later\r\n* If prior ADT for biochemical relapse:\r\n** 4.0 ng/mL or > 2 ng/mL above nadir on prior cycle of ADT, whichever is higher, confirmed by repeat measurement at least 2 weeks later
+Have a PSA less than 10 ng/mL,
+Have a PSA density less than 0.15 ng/ml/cc,
+Have a PSA velocity less than 2 ng/ml yearly in the year prior to diagnosis,
+PSA must be < 50 ng/mL at study entry
+Screening PSA >= 0.5 ng/mL for men who had a prostatectomy; prior treatment with neoadjuvant, adjuvant or salvage radiation therapy is allowed, again, with screening PSA >= 0.5 ng/mL required for eligibility
+Screening PSA >= 1.0 ng/mL above their postradiation nadir for men who were treated with primary radiation therapy (external beam and/or brachytherapy); men who had primary radiation therapy followed by salvage prostatectomy are eligible if screening PSA >= 0.5 ng/mL
+Stable and undetectable PSA level (PSA < 0.1 ng/mL using an assay that has a functional sensitivity of 0.1 ng/mL) for at least two years after radical prostatectomy
+PSA > 50 ng/dl
+PSA < 0.5 ng/dL
+Serum vitamin D 25, hydroxy (OH) < 12 ng/mL
+Detectable PSA, defined as PSA >= 0.01 ng/ml
+Persistent PSA after prostatectomy for PSA >= 0.2 ng/mL
+Vitamin D insufficiency, defined as 25(OH)D =< 32 ng/ml
+Ferritin >= 800 ng/mL
+Serum vitamin D level >= 10 ng/ml
+PSA of 2-10 ng/mL
+25(OH)D3 level less than 20 ng/ml prior to stage 2 initiation
+Screening serum PSA < 20 ng/mL; for men treated with 5-alpha-reductase inhibitors (e.g., finasteride, dutasteride), PSA needs to be < 10 ng/mL
+PSA within the past 2 months is between 3 and 20 ng/ml if patient received local radiation OR between 0.4 and 20 ng/ml if patient received prior radical prostatectomy
+Patient with PSA less than or equal to 20 ng/mL
+25-hydroxy vitamin D3 (25[OH]D3) level less than 20 ng/mL prior to study initiation
+COHORT I: Biochemical recurrence defined as any of the following:\r\n* PSA >= 0.2 ng/mL in at least two consecutive tests within 6 months of date of consent for patients treated with surgery, radiation therapy, brachytherapy, or cryotherapy\r\n* PSA >= 0.2 ng/ml above the most recent therapy nadir for patients who have received additional treatment in the recurrent setting
+Proven biochemical recurrence as defined by American Urological Association (AUA) recommendation: PSA greater than or equal to 0.2 ng/mL measured more than 6 weeks after radical prostatectomy
+PSA values ranging from 0.2 ng/mL to 2 ng/mL
+Rising PSA after definitive therapy with prostatectomy or radiation therapy (external beam or brachytherapy)\r\n* Post radical prostatectomy (RP) – American Urological Association (AUA) recommendation\r\n** PSA greater than 0.2 ng/mL measured more than 6 weeks after RP and,\r\n** Confirmatory persistent PSA greater than 0.2 ng/mL\r\n* Post-radiation therapy –American Society for Therapeutic Radiology and Oncology (ASTRO) (ASTRO)-Phoenix consensus definition\r\n** Nadir + greater than or equal to 2 ng/mL rise in PSA
+Rising PSA after definitive therapy with prostatectomy or radiation therapy (external beam or brachytherapy)\r\n* If post-radical prostatectomy, PSA > 0.2 ng/mL measured > 6 weeks post-operatively and confirmatory persistent PSA greater than 0.2 ng/mL (American Urological Association [AUA] recommendation for biochemical recurrence)\r\n* If post-radiation therapy, PSA that is equal to, or greater than, a 2 mg/mL rise above PSA nadir (American Society for Radiation Oncology [ASTRO] recommendation for biochemical recurrence)
+SUB-STUDY II: Biochemical recurrence with PSA > 0.2 ng/mL on two successive tests
+Rising PSA after definitive therapy with prostatectomy or radiation therapy.\r\n* Post radical prostatectomy (RP)\r\n** PSA equals to or greater than 0.2 ng/mL measured more than 6 weeks after RP\r\n* Post-radiation therapy – American Society for Therapeutic Radiation and Oncology (ASTRO)-Phoenix consensus definition\r\n** Nadir + greater than or equal to 2 ng/mL rise in PSA
+PSA < 0.1 ng/ml at enrollment
+PSA >= 15 ng/mL
+Rising PSA after definitive therapy with prostatectomy or radiation therapy (external beam or brachytherapy\r\n* Post radical prostatectomy (RP) – American Urological Association (AUA) recommendation\r\n** PSA greater than 0.2 ng/mL measured 6–13 weeks after RP\r\n** Confirmatory persistent PSA greater than 0.2 ng/mL\r\n* Post-radiation therapy – American Society for Therapeutic Radiology and Oncology (ASTRO)-Phoenix consensus definition \r\n** Nadir plus (+) greater than or equal to 2 ng/mL rise in PSA
+PSA < 25 ng/mL
+Rising PSA after definitive therapy with prostatectomy or radiation therapy (external beam or brachytherapy)\r\n* Post radical prostatectomy (RP) – American Urology Association (AUA) recommendation\r\n** PSA greater than 0.2 ng/mL measured 6–13 weeks after RP\r\n** Confirmatory persistent PSA greater than 0.2 ng/mL\r\n* Post-radiation therapy –American Society for Radiation Oncology (ASTRO)-Phoenix consensus definition\r\n** Nadir + greater than or equal to 2 ng/mL rise in PSA
+Serum PSA level >= 0.2 ng/mL at least 45 days prior to study enrollment
+Two PSA values >= 0.2 ng/mL at least 4 weeks after prostatectomy
+Patient will have suspicion of recurrent prostate carcinoma as defined by: the American Society for Therapeutic Radiology and Oncology (ASTRO)-Radiation Therapy Oncology Group (RTOG) Phoenix criteria of elevated prostate-specific antigen (PSA) greater than nadir plus 2 ng/ml with absolute PSA >= 4.0 ng/ml with any doubling time (DT) or with PSA 2.0-3.99 ng/ml with DT =<10 months
+Rising PSA after definitive therapy with prostatectomy or radiation therapy (external beam or brachytherapy)\r\n* Post radical prostatectomy (RP) – American Urological Association (AUA) recommendation\r\n** PSA greater than 0.2 ng/mL measured more than 6 weeks after RP and\r\n** Confirmatory persistent PSA greater than 0.2 ng/mL\r\n* Post-radiation therapy –American Society for Radiation Oncology (ASTRO)-Phoenix consensus definition\r\n* Nadir + greater than or equal to 2 ng/mL rise in PSA
+PSA < 10 ng/ml (this will be the PSA level prompting the initial prostate biopsy)
+Abnormal prostate-specific antigen (PSA) blood test\r\n* > 2.5 ng/mL for men < 50 years (yrs) of age\r\n* > 3.5 ng/mL for men < 60 yrs of age\r\n* > 4.5 ng/mL for men < 70 yrs of age
+ARM II ONLY: For patients status post prostatectomy, a PSA >= 0.2 ng/ml
+Serum PSA ? 20ng/ml within the previous 3 months
+Post prostatectomy: Detectable or rising PSA level that is >0.2 ng/mL with a second confirmatory level of >0.2 ng/mL
+Post non-prostatectomy: PSA rise ? 2ng/mL over nadir
+Increased PSA level >4 ng/mL
+Abnormal serum PSA (total > 2.5 ng/ml or other clinically important biomarker parameters, including PSA velocity and density) associated with or without normal digital rectal examination
+The presence of liver lesion(s) (as defined in a.) with AFP ? 400 ng/mL.

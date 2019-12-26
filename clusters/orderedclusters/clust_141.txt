@@ -1,0 +1,8 @@
+Patients must be able to take oral medication and to maintain a fast as required for 2 hours before and 1 hour after MLN8237 administration
+24.0
+Inability to swallow oral medication or to maintain a fast as required for 2 hours before and 1 hour after MLN8237 administration or any condition that would modify small bowel absorption of oral medications, including malabsorption, or resection of pancreas or upper bowel
+24.0
+According to current guidelines, patients must be able to take oral medication and to maintain a fast as required for 2 hours before and 1 hour after MLN8237 administration; these guidelines may change pending results from an ongoing food effects study
+42.0
+Inability to swallow oral medication or to maintain a fast as required for 2 hours before and 1 hour after MLN8237 administration or any condition that would modify small bowel absorption of oral medications, including malabsorption, or resection of pancreas or upper bowel; treatment with clinically significant enzyme inducers, such as the enzyme-inducing antiepileptic drugs phenytoin, carbamazepine, oxcarbazepine, primidone or phenobarbital, or rifampin, rifabutin, rifapentine, or St. John's wort within 14 days prior to the first dose of MLN8237 and during the study; patients must be cautiously co-medicated with agents that cause corrected QT interval (QTc) prolongation and agents that are strong or moderate enzyme inhibitors during the study
+42.0

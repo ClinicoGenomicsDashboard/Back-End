@@ -1,0 +1,9 @@
+Cluster 22: uncontrolled heart york association nyha iii class iv new failure 
+Cluster 90: heart class nyha york association new failure congestive ii chf 
+Cluster 870: heart association iii york class iv new disease cardiac nyha 
+Cluster 999: heart york association failure new congestive class ii iv symptomatic 
+Cluster 1140: heart york association new failure nyha congestive grade cardiac iii 
+Cluster 1366: heart york association new ii congestive greater failure nyha grade 
+Cluster 1531: heart functional classification congestive cardiovascular york association arrhythmia class failure 
+Cluster 1756: heart classification york association new iii iv functional failure nyha 
+Cluster 2381: heart class iv iii failure york association new nyha congestive 

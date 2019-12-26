@@ -1,0 +1,5 @@
+Cluster 65: ms qtc qt corrected interval baseline ecg prolongation males electrocardiogram 
+Cluster 342: msec qtc interval ecg prolongation screening baseline qt males females 
+Cluster 1293: qtc interval qt corrected milliseconds prolongation baseline demonstration marked repeated 
+Cluster 1683: msec qtcf ecg interval screening males females mean baseline electrocardiogram 
+Cluster 1869: msec qtc corrected qt interval prolongation rate mean fridericia screening 

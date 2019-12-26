@@ -1,0 +1,22 @@
+Absolute neutrophil count (ANC) >= 1,500/mm^3 , equivalent to Common Toxicity Criteria (Common Terminology Criteria for Adverse Events [CTCAE] version [v] 3.0) grade 1
+Patients must not currently have a > grade 1 symptomatic neuropathy-sensory (National Cancer Institute [NCI] Common Terminology Criteria for Adverse Events [CTCAE] version 4.0)
+Grade 3-4 electrolyte abnormalities (Common Terminology Criteria for Adverse Events [CTCAE], version [v.] 4):
+Unresolved toxicity of National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0 (NCI CTCAE v4.0) grade 2 or higher from previous anti-cancer therapy, except alopecia; in specific cases, will be allowed with permission from the principal investigator
+Unresolved toxicity of National Cancer Institute Common Terminology Criteria for Adverse Events, version 5.0 (NCI CTCAE v. 5.0) grade 2 or higher from previous anti-cancer therapy, except alopecia, at the time of randomization
+Previous intolerance to BCG intravesical therapy suggested by development of systemic BCG infection in the past and/or grade 4 or greater adverse effect by Common Terminology Criteria for Adverse Events (CTCAE) version (v) 5.0
+Nervous system disorders (Common Terminology Criteria for Adverse Events version 4 [CTCAE v4]) resulting from prior therapy must be =< grade 2
+All prior anti-cancer treatment-related toxicities must be less than or equal to grade 1 according to the Common Terminology Criteria for Adverse Events version 5 (CTCAE version 5.0; National Cancer Institute [NCI], 2017) at the time of enrollment; a notable exception are endocrinopathies caused by immune checkpoint inhibitors that are appropriately treated with medical management (e.g. hormone replacement therapy, anti-diabetic agents)
+Patients should have resolution of any toxic effects of prior therapy (except alopecia) to National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), version 5.0, grade 1
+Unresolved toxicity of National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0 (NCI CTCAE v 4.0) grade 2 or higher from previous anti-cancer therapy, except alopecia
+Patients must not have any unresolved toxicity greater than National Cancer Institute (NCI)-CTCAE version (v) 4.0 grade 1 from previous anti-cancer therapy except alopecia within 7 days prior to registration
+No ongoing cardiac dysrhythmias of grade >= 2 National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0, uncontrolled atrial fibrillation (any grade), or corrected QT (QTc) interval > 470 msec
+Patients with active >= Common Terminology Criteria for Adverse Events (CTCAE) version (v.) 4 grade 2 neuropathy are ineligible
+Unresolved toxicity of National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0 (NCI CTCAE v4.0) grade 2 or higher from previous anti-cancer therapy, except alopecia, at the time of randomization
+Patients should have resolution of any toxic effects of prior therapy (except alopecia) to NCI CTCAE, version 4.0, grade 1 or less
+Patients should have resolution of any toxic effects of prior therapy (except fatigue and alopecia) to NCI CTCAE, version 4.0, grade 1 or less, including immune toxicity
+Diarrhea >= grade 1, based on the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) categorization within 14 days of registration
+Patients should have resolution of any toxic effects of prior therapy (except alopecia) to National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE), version 4.0, grade 1 or less
+Nervous system disorders (Common Terminology Criteria for Adverse Events [CTCAE] version [v]4) resulting from prior therapy must be =< grade 2
+Nervous system disorders (National Cancer Institute Common Terminology Criteria for Adverse Events [NCI CTCAE] version 5.0) resulting from prior therapy must be =< grade 2 with the exception of decreased tendon reflex (DTR); any grade of DTR is eligible
+Nervous system disorders (Common Terminology Criteria for Adverse Events [CTCAE] version [V] 4.0) resulting from prior therapy must be =< grade 2
+Nervous system disorders (by Common Terminology Criteria for Adverse Events version 5.0 [CTCAE V 5.0]) resulting from prior therapy must be =< grade 2, with the exception of decreased tendon reflex (DTR); any grade of DTR is eligible

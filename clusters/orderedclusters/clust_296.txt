@@ -1,0 +1,54 @@
+Receiving any other investigational agent which would be considered as a treatment for the primary neoplasm
+102.0
+Receiving any other investigational agent that would be considered as a treatment for the primary neoplasm
+360.0
+Receiving any other investigational agent
+48.0
+Receiving any other investigational agent
+224.0
+Receiving any other investigational agent that would be considered a treatment for the primary neoplasm
+102.0
+The participant has received any other type of investigational agent within 28 days before the first dose of study treatment
+42.0
+The subject has received any other type of investigational agent within 28 days before the first dose of study treatment
+72.0
+Prior investigational immunotherapy
+80.0
+Use of an investigational agent within the past 30 days
+104.0
+TREATMENT: Patients who have had prior treatment with any of the other investigational agents or combinations on this protocol are eligible but will not receive the same investigational agent (everolimus or trametinib) or combination (AZD1775/combination or veliparib/temozolomide); instead, patients will receive an investigational agent or combination prospectively identified to work on a different target in their tumor�s mutation/aberrant pathway
+700.0
+Subjects must have received their last dose of investigational or biologic agent >= 7 days prior to study registration* In the event that a subject has received an investigational or biologic agent and has experienced >= grade 2 myelosuppression, then at least three (3) weeks must have elapsed prior to registration* If the investigational or biologic agent has a prolonged half-life (>= 7 days) then at least three (3) weeks must have elapsed prior to registration
+52.0
+Patients who are receiving any other concurrent investigational agents (patients are eligible to enroll 4 weeks after completion of prior agent)
+54.0
+Biologic therapy: patients should have received their last dose of biologic agent >= 7 days prior to enrollment; in the event the patient has received another biologic agent and has experienced >= grade 2 myelosuppression, then at least three (3) weeks must have elapsed prior to enrollment; if the investigational or biologic agent has a prolonged half-life then at least three (3) weeks interval is required
+40.0
+Patients must NOT receive concurrent anti-cancer therapy or investigational agent unless specified in protocol
+600.0
+Patients who are receiving any other investigational agent(s)
+340.0
+The subject has received any other type of investigational agent within 28 days before the first dose of study treatment
+90.0
+Patients who are currently participating in or have participated in a study of an investigational agent or using an investigational device within 4 weeks of the first dose of treatment
+36.0
+The subject has received any other type of investigational agent within 28 days before the first dose of study treatment
+135.0
+Patients who are receiving any other investigational agents; if the patient received a previous investigational or other agent or treatment, a washout period of 4 weeks is required
+35.0
+Other investigational agent within 3 weeks prior to initiation of study therapy
+30.0
+No investigational agent within 21 days prior to registration
+110.0
+Patients who are receiving any other investigational agents, or have received an investigational agent within the past 30 days
+50.0
+Patient is receiving another investigational agent for the treatment of cancer
+188.0
+Patients who have previously received temsirolimus, another mTOR inhibitor, or any other investigational agent
+337.0
+Patients who are receiving any other investigational agents, or have received an investigational agent within the past 30 days
+24.0
+Patients may not be receiving any other investigational agents and may not have participated in a study of an investigational agent or using an investigational device within five half-lives of the compound or 3 months, whichever is greater
+98.0
+Patients who are receiving any other investigational agent
+47.0

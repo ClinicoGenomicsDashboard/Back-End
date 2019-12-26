@@ -1,0 +1,89 @@
+Must not have received therapy with anti-CD20 monoclonal antibodies within 90 days of entry onto this study
+Patient received prior treatment with a CD33 antibody.
+Prior treatment with an anti-CD123-directed agent
+Any systemic anti-cancer therapy within 3 weeks prior to C1D1 of study therapy, with the following exception:\r\n* Any prior investigational anti-cancer therapy and/or monoclonal antibody is not permitted within 4 weeks of C1D1
+Previous treatment with any anti-CD30 directed therapy
+Obtained within 14 days prior to C1D1: Anti-hepatitis C virus (HCV) total antibody negative
+Part E only: Patients with biopsy-proven DLBCL who are intolerant to, or have disease that is relapsed/refractory after, at least two prior therapies, including any anti-CD20 monoclonal antibody and chemotherapy with curative intent
+Prior treatment with any anti-PD-1 blocking therapies or histone deacetylase inhibitors (HDACi), or anti-CTLA-4 antibody, CD137 agonist or other immune activating therapy such as anti-CD 40 antibody within the last 3 months of enrollment in the study
+TREATMENT EXCLUSION: Received anti-CD30 antibody-based therapy within the previous 4 weeks
+Prior anti-CD19-directed therapies
+Prior treatment\r\n* With any prior anti-CD19/anti-CD19 CAR-T or cellular therapy (prior blinatumomab therapy is allowed)\r\n* Treatment with any prior gene therapy\r\n* Prior allogeneic hematopoietic stem cell transplant\r\n* Received chemotherapy, radiation or surgical resection of malignancy within 2 weeks prior to the start of lymphodepleting chemotherapy (day -10 to -5)
+Treatment with any anti-CD19 or anti-CD20 antibody or antibody-drug conjugate therapy within 4 weeks of enrollment
+Prior therapy with anti-CD137 or ISA101.
+Prior treatment with any CD19-directed therapy (e.g. blinatumomab, CD19-directed chimeric antigen receptor T-cell therapy, anti-CD19 antibodies)
+Patient with aggressive NHL must have received prior therapy – at a minimum:\r\n* Anti-CD20 monoclonal antibody unless tumor is CD20 negative and\r\n* An anthracycline containing regimen\r\n* Transformed FL must have had therapy for FL and be refractory to chemotherapy for DLBCL
+Anti-CD20 monoclonal antibody unless investigator determines that tumor is CD20 negative, and
+History of anti-CD19 or CAR-T therapy or history of prior randomization in ZUMA-7
+Prior treatment with cytotoxic drugs within 5 years of screening for any condition (example [e.g.], cancer, rheumatoid arthritis) or prior use of any anti-CD20 antibody
+Receipt of >/=2 prior lines of therapy and progressed on treatment with an anti-CD38 monoclonal antibody and are refractory to both a PI and IMiD (Cohort D3)
+Responded to initial therapy for ? 1 year and relapsed after 2 or more lines of therapy, including an anti-CD20 monoclonal antibody
+At least 1 prior line of therapy if primary refractory or relapsed within 1 year. Subjects who respond to initial therapy for greater than or equal to 1 year must have had at least 2 prior lines of therapy including an anti-CD20 monoclonal antibody.
+PRIOR TO LYMPHODEPLETION: Received anti-CD30 antibody-based therapy within the previous 4 weeks prior to cell infusion
+PRIOR TO INFUSION OF ATLCAR.CD30 CELLS: Received anti-CD30 antibody-based therapy within the previous 4 weeks prior to cell infusion
+Participants must have received at least one but no more than six prior treatment regimens. Prior treatment with an anti-CD20 agent, either alone or in combination, is allowed.
+Participants who have received prior therapy with other anti-CD37-targeting therapy.
+Patients treatment history may not include anti-CD33 monoclonal antibody therapy (e.g., SGN-CD33 or Mylotarg)
+Any major surgery, radiotherapy, cytotoxic chemotherapy, biologic therapy, immunotherapy, immunomodulatory drugs, experimental therapy within 4 weeks prior to the first dose of the study drugs; Note: prior therapy with anti cluster of differentiation (CD)20 monoclonal antibody, anti CD52 monoclonal antibody, and lenalidomide are allowed; for oral targeted therapies (such as idelalisib, venetoclax), a washout of 3 days is allowed
+Any systemic anti-cancer therapy within 3 weeks prior to course 1 day 1 (C1D1) of study therapy\r\n* Exception is made for patients with EGFR or ALK re-arrangements who must have stopped TKI therapy at least 7 days prior to C1D1
+Previous treatment with any anti-CD22 directed therapy
+Patients having received anti-CD20 therapy ? 4 weeks prior to the first study dose.
+Patients having received alemtuzumab (anti-CD52) therapy ? 6 months prior to the first study dose.
+Received anti-CD30 antibody-based therapy within the previous 4 weeks
+Prior Therapy: therapy with monoclonal antibodies and/or chemotherapy must be stopped at least 14 days prior to anti-CD19 CAR-transduced T cell infusion, and recovery of treatment-associated toxicity to =< grade 2 is required prior to infusion of cells; for patients that have received prior DCI, the last dose must be at least 28 days prior to anti- CD19 CAR-transduced T cell administration; note that patients can be enrolled on this study at any time after or during therapy, but at least 14 days must elapse from the time of prior monoclonal antibody administration or chemotherapy until anti-CD19 CAR-transduced T cells are infused, and at least 28 days must elapse from the time of withdraw of immunosuppression, or DCI, or other immunomodulatory therapies such as lenalidomide until anti-CD19 CAR-transduced T cells are infused; systemic immunosuppression must be stopped at least 28 days prior to protocol entry; there is no time restriction in regard to prior intrathecal chemotherapy provided there is complete recovery from any acute toxic effects of such
+Previous treatment with any anti-CD40 antibody.
+Criteria 6 Prior therapy with anti-CD38 antibodies is allowed as long as the patient had at least a PR to most recent therapy with CD38 antibody, was not removed due to toxicity, did not relapse within 60 days from intensive treatment (at least every other week) of CD38 antibody therapy, and will have at least a 6 month CD38 antibody treatment-free interval from last dose received until first study treatment
+203 Prior anti-CD19-directed therapies.
+Treatment with a therapeutic antibody targeting CD38 < 12 weeks prior to study Day 1
+Anti-CD20 therapy within 4 weeks of enrollment;
+Patients that who have relapsed after at least 1 prior anti-lymphoma therapy that include anti-CD20 monoclonal antibody and an alkylator chemotherapy agent, or at least 2 prior anti-lymphoma therapies that include anti-CD20 monoclonal antibody, may be included.
+Anti-CD20 mAb-naive or anti CD20 mAb-sensitive (defined as progression of FL >= 6 months following prior anti-CD20 mAb containing therapy).
+Prior treatment: Treated with two or more lines of prior therapy, with disease refractory to both a proteasome inhibitor and an immunomodulatory agent, and disease progression (as defined by International Myeloma Working Group (IMWG) criteria) following treatment with an anti-CD38 monoclonal antibody given as monotherapy or in combination therapy. The most recent treatment regimen must have contained an anti-CD38 monoclonal antibody.
+Prior treatment with a CD123xCD3 bispecific agent, T cells expressing CD123 specific chimeric antigen receptor, or toxin-conjugated to CD123 antibodies; prior treatment with naked anti-CD123 monoclonal antibody is permitted
+Patients with a history of prior treatment with ipilimumab, anti-programmed cell death 1 (PD1) antibody, cluster of differentiation (CD)137 agonist or anti-CD 40 antibody
+Patients with a history of prior treatment with ipilimumab, anti-programmed cell death (PD) 1 antibody, cluster of differentiation (CD)137 agonist or other immune activating therapy such as anti-CD 40 antibody
+No anti-CD25 monoclonal antibody therapy within 12 weeks of enrollment
+Receipt of anti-CTLA-4 or anti-CD27 antibody within 3 months prior to the planned start of study treatment.
+Prior therapy with any anti CD137 monoclonal antibody.
+Treatment with any prior anti-CD19/anti-CD3 therapy, or any other anti-CD19 therapy
+Prior treatment with any prior anti-CD19/anti-CD3 therapy, or any other anti-CD19 therapy
+Has had treatment with any prior anti-CD19/anti-CD3 therapy, or any other anti-CD19 therapy
+Previous CLL treatment with a CD37-targeting antibody or a CD37-antibody drug conjugate.
+Prior anti-CD19 therapies
+Relapsed or refractory FL after treatment with at least one prior chemoimmunotherapy regimen that included an anti-CD20 monoclonal antibody and for which no other more appropriate treatment option exists as determined by the investigator
+Anti-CD20 monoclonal antibody therapy within the last 3 months, or absence of circulating B cells
+Received anti-CD30 antibody-based therapy within the previous 4 weeks
+Prior CD19 directed therapy, including CAR+ T cell, BiTE, and antibody drug conjugate (ADC), with the exception of subjects who received KTE-C19 in this study and are eligible for re-treatment
+Any major surgery, radiotherapy, chemotherapy, biologic therapy, immunotherapy, experimental therapy within 4 weeks prior to the first dose of the study drugs; for oral targeted therapies (such as ibrutinib, idelalisib, venetoclax), a washout of 3 days is allowed; Note: prior treatment with anti cluster of differentiation (CD)20 monoclonal antibody, anti CD52 monoclonal antibody and lenalidomide are allowed; prior treatment with anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) and anti-programmed cell death 1 (PD1) therapies is allowed after a wash-out of 5 half-lives
+At least 1 prior treatment with a CD20 antibody combination chemo-immunotherapy regimen
+Have documented CD20+ B-cell malignancy, with active disease not responsive to prior therapy, for whom no standard of care options exists, and for whom treatment with an anti-CD20 antibody may be appropriate:
+NHL patients must have had prior treatment with an anti-CD20 antibody therapy
+Subjects previously treated with anti-CD4 antibody or alemtuzumab are eligible provided their CD4+ cell counts are ? 200/mm3
+Previous treatment with an anti-CD19 antibody or fragments
+Prior treatment with anti-CD20 monoclonal antibody or alemtuzumab within 4 weeks prior to start of therapy
+Treatment with anti-CD20 monoclonal antibody within 3 months of randomization
+Prior use of any monoclonal antibody (other than anti-CD20) within 3 months prior to the start of Cycle 1, prior treatment with obinutuzumab was not allowed
+Arm D: Refractory to ? 1 regimen containing any anti-CD20-based therapy, including salvage regimens and maintenance rituximab. Refractory subjects are defined as any subject with less than a PR to any prior anti-CD20-based therapies or progressed within 6 months after completing therapy with any anti-CD20-based regimens, including maintenance rituximab. These subjects must not be eligible for hematopoietic SCT or BM transplant
+an anti-CD20 antibody-containing regimen
+Prior therapy with varlilumab or with an anti-CD27 antibody.
+Prior therapy with an anti-CD27 antibody.
+Prior treatment with CAT-3888 (BL22), moxetumomab pasudotox (CAT-8015, HA22), any pseudomonas-exotoxin-containing compound, or any anti-CD22 directed therapy at any time in the past
+For obinutuzumab + polatuzumab vedotin + venetoclax treatment group, relapsed or refractory FL after treatment with at least one prior chemoimmunotherapy regimen that included an anti-cluster of differentiation 20 (CD20) (anti-CD20) monoclonal antibody (mAb) and for which no other more appropriate treatment option exists, as determined by the investigator
+Prior treatment with tumor necrosis factor receptor superfamily agonists including OX40, CD27, CD137 (4-1BB), CD357 (GITR). One cohort also excludes anti CTLA-4, anti PDL-1 and anti PDL-1.
+anti-CD20 monoclonal antibody unless investigator determines that tumor is CD20-negative and
+Prior treatment with anti-CD70 directed therapy unless CD70 expression is confirmed on tumor tissue obtained after the treatment
+Prior treatment with a CD33 antibody
+Prior therapy with anti-CD137 antibody
+Previous treatment with any anti-CD30 directed therapy
+Prior use of ipilimumab, other cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) blocking therapies, anti-programmed cell death 1 (PD 1) antibody, cluster of differentiation (CD) 137 agonist or other immune activating therapy such as anti-CD 40 antibody within the last 3 months of enrollment in the study; if any of these of these agents were used more than 3 months earlier to enrollment in study, the patient should have recovered from all toxicity and at least 3 months had passed since last use to allow for clearance and observation of any other side effects from the previous therapy
+Patients with a history of prior treatment with an anti-programmed cell death (PD) 1 antibody, CD137 agonist or other immune activating therapy such as anti-CD 40 antibody are excluded unless 5 half-lives of the agent (minimum of 8 weeks) have intervened since the therapy; patients who have received prior vaccine therapy are eligible
+Previous treatment with any anti-CD30 antibody
+Prior use of monoclonal antibody (other than anti CD20) within 3 months prior to randomization. Chemotherapy or other systemic lymphoma therapy within 4 weeks of study entry.
+Previous anti-CD20 radioimmunotherapy (RIT) or non-rituximab anti-CD20 therapy (such as obinutuzumab) within 6 months prior to randomization. Patients who have received previous anti-CD20 RIT or non-rituximab anti-CD20 therapy (such as obinutuzumab) must have attained a partial or complete response lasting at least 6 months, and must have recovered from any hematologic or other toxicity.
+Previous anti-lymphoma monoclonal antibody therapy (excluding anti-CD20 therapy and anti-CD20 RIT), chemotherapy, glucocorticoid, or other systemic therapy for lymphoma within 3 months prior to randomization.
+Received prior treatment with a standard anthracycline and therapeutic anti-CD20 monoclonal antibody-based regimen;
+Any major surgery, radiotherapy, chemotherapy, biologic therapy, immunotherapy, experimental therapy within 4 weeks prior to the first dose of the study drugs; for oral targeted therapies (such as ibrutinib, idelalisib, venetoclax), a washout of 3 days is allowed; Note: prior treatment with anti-cluster of differentiation (CD)20 monoclonal antibody, anti-CD52 monoclonal antibody and lenalidomide are allowed; prior treatment with anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) and anti-programmed cell death (PD)1 therapies is allowed after a wash-out of 5 half-lives
+Received anti-CD30 antibody-based therapy within the previous 4 weeks prior to cell infusion
+Have received anti-CD38 antibody therapy and do not fulfill a 120-day washout period before receiving TAK-079.
+anti-CD20 monoclonal antibody unless investigator determines that tumor is CD20-negative and
+Last dose of anti-CD20 antibody therapy must have been >4 weeks before the first dose of XmAb13676

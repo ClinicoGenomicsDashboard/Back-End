@@ -1,0 +1,36 @@
+Renal dysfunction for which exposure to cisplatin would be unsafe or require cisplatin dose modification (i.e., creatinine [Cre] > 1.5 mg/dl or glomerular filtration rate [GFR] < 60 cc/min)
+Adequate renal function (within normal limits or calculated glomerular filtration rate >50)
+Patients with renal insufficiency with an estimated glomerular filtration (EGF) <= 30 are excluded, due to they will not be able to undergo gadolinium enhance MRI.
+Renal failure; exception: if GFR (glomerular filtration rate) is > 20%, a patient with renal failure can be included in the study
+Ineligible for cisplatin as defined by presence of one or more of the following:\r\n* Impaired renal function (glomerular filtration rate [GFR] >= 30 but =< 60 cc/min); GFR should be assessed by direct measurement (i.e. creatinine clearance or ethylenediaminetetra-acetate) or, if not available, by calculation from serum/plasma creatinine by Cockroft-Gault equation\r\n* Grade >= 2 hearing loss (measured by loss of > 25 dB at two contiguous frequencies in at least one ear)\r\n* Grade >= 2 peripheral neuropathy\r\n* ECOG performance status of 2\r\n* Solitary kidney
+Glomerular filtration rate (GFR) adequate for intravenous (IV) contrast delivery for imaging
+For patients who agree to participate in PET/MR imaging:\r\n* Renal insufficiency (glomerular filtration rate [GFR] < 30 mL/min/1.73 m^2) measured within the past 60 days which precludes safe administration of the contrast agent\r\n* On dialysis\r\n* Prior allergic reaction to gadolinium-based MR contrast agents
+Renal (glomerular filtration rate [GFR] > 40) contraindications for high dose chemotherapy
+Renal-calculated or measured glomerular filtration rate (GFR) < 40 ml/min, dialysis requirement, or prior renal transplant
+Patients with renal failure (GFR < 50 mL/min) are excluded
+Acute or chronic severe renal insufficiency (Glomerular filtration rate (GFR) <30ml/min/1.73 sq.meters)
+Renal insufficiency defined as estimated glomerular filtration rate of < 60 or hepatic insufficiency defined as transaminitis or hyperbilirubinemia of > 1.5 times the highest normal value
+Patients >= 65 years without underlying renal insufficiency get GFR tested within 6 months of the exam.
+Patients < 65 years without underlying renal insufficiency do not require an GFR calculation.
+Patients >= 65 years with known underlying renal insufficiency get GFR tested within 1 month of the exam.
+Patients < 65 years with known renal insufficiency get GFR tested within 1 month of the exam.
+Participants with renal insufficiency or failure, as determined by glomerular filtration rate (GFR) < 60 mL/min/1.73 m^2, performed for all patients within 24 hours of the imaging exams
+Individuals with end stage renal disease, known glomerular filtration rate (GFR) < 25, current or anticipated dialysis or transplant within the next two years will be excluded; a history of renal transplant is not an exclusion per se if patient does not meet stated renal criteria
+Patient has a glomerular filtration rate (GFR) > 60. In patients with moderate renal failure (GFR 30-60), an alternate injection with 2 times half-dose multihance (gadobenate dimeglumine) or gadovist (gadobutrol) will be considered, if a contrast exam is deemed clinically necessary.
+Patients with an estimated glomerular filtration rate (eGFR) =< 30 will be excluded to avoid issues related to contrast administration in such patients; this glomerular filtration rate (GFR) threshold cutoff level is chosen per institutional policy, because below that level other measures would be required (hydration or no contrast administration); in order to keep the imaging information as uniform as possible in such a small study group, patients with a low GFR will not be enrolled in the study
+Patients with moderate to end-stage renal (kidney) disease, defined as a glomerular filtration rate (GFR) less than 30 mL/day/1.73m^2
+Patients with renal failure, defined as glomerular filtration rate (GFR) < 60 at the time of the radiation treatment-planning (RTP) scan, will be excluded
+Patients with severe chronic renal insufficiency (glomerular filtration rate < 30 mL/min/1.73 m^2), hepatorenal syndrome or post-liver transplantation
+Renal insufficiency: glomerular filtration rate (GFR) < 40ml/min/1.73) and following European Society of Urogenital Radiology (ESUR) guidelines (exclusion criterion only for contrast enhanced MRI)
+Participants with diagnosis of renal insufficiency or glomerular filtration rate (GFR) < 60 ml/min/1.73m^2
+Contraindications for MRI with contrast or PET/CT including:\r\n* Cardiac pacemaker, implanted cardiac defibrillator, pacing wires, internal electrodes\r\n* Aneurysm clips\r\n* Cochlear, otologic, or other ear implant\r\n* Tissue expander\r\n* Swan-Ganz or thermodilution\r\n* Moderate renal insufficiency (estimated glomerular filtration rate [GFR] less than 60 mL/min/1.73 m^2) to end stage renal disease (estimated GFR less than 15 mL/min/1.73 m^2 or a serum creatinine more than 3 mg/dL), who are not on dialysis, and patients with renal failure on chronic dialysis\r\n* Severe claustrophobia
+Patients with renal insufficiency with a glomerular filtration rate (GFR) < 30
+Patients with renal insufficiency; glomerular filtration rate (GFR) < 60
+Patients with renal insufficiency; glomerular filtration rate (GFR) < 60
+Normal creatinine and estimated glomerular filtration rate (GFR) within 30 days under the following circumstances:\r\n* Had abnormal creatinine in the last 60 days\r\n* Are over 60 years of age\r\n* Has received chemotherapy within the past 30 days\r\n* Has diabetes, human immunodeficiency virus (HIV), renal disease or history (hx) of renal cancer
+Renal dysfunction as defined as a glomerular filtration rate (GFR) < 70
+Unable to receive a PET-MRI scan due to renal function (glomerular filtration rate [GFR] < 30 mL/min/1.73 m^2), allergy, or other problem with receiving or tolerating an MRI scan, etc. all patients will fill out a standard MRI screening form
+If agreeing to MRI contrast, participant must not have renal insufficiency (glomerular filtration rate [GFR] < 30 mL/min/1.73 m^2) measured within the past 60 days
+Severe renal insufficiency (GFR ? 29).
+Subjects with renal insufficiency; glomerular filtration rate (GFR) < 50
+Renal insufficiency (defined as glomerular filtration rate [GFR] < 30 mL/min/1.73 m^2) measured no more than 60 days before the first research scan) which precludes safe administration of the contrast agent

@@ -1,0 +1,3 @@
+Cluster 1826: proteins murine allergy mouse hypersensitivity history known egg chimeric ige 
+Cluster 1865: contained formulation excipient hypersensitivity drug known proteins recombinant tesirine rovalpituzumab 
+Cluster 2474: antibody anti hama mouse human ctla prior murine titer elisa 

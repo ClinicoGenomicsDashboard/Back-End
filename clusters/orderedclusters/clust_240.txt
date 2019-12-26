@@ -1,0 +1,130 @@
+Patients must not require chronic treatment with systemic steroids (inhaled steroids are allowed) or other immunosuppressive agents
+10000.0
+TREATMENT: Patients receiving systemic corticosteroids
+44.0
+Prolonged systemic corticosteroid treatment, except for topical applications (e.g., for rash), inhaled sprays (e.g., for obstructive airway diseases), eye drops, or local insertion (e.g., intra-articular)* Note: Short duration (< 2 weeks) of systemic corticosteroids is allowed (e.g., for chronic obstructive pulmonary disease), but not within 30 days prior to registration
+224.0
+Participants who received greater than 10 days of corticosteroids in the preceding 30 days prior to enrollment; physiologic dosing of steroid is 4-5 mg/m^2/day prednisone, 0.03-0.15 mg/kg/day dexamethasone, or 0.5-0.75 mg/kg/day hydrocortisone; contact the AMC Protocol Team for physiologic dosing limits for other corticosteroids
+90.0
+Patients must not have an organ allograft or other history of immune compromise; patients must not be receiving chronic, systemic treatment with corticosteroids or other immunosuppressive agent; topical or inhaled corticosteroids are allowed
+1900.0
+Patients receiving chronic, systemic treatment with corticosteroids or another immunosuppressive agent are not eligible to participate in this study; topical or inhaled corticosteroids are allowed
+110.0
+Patients must not be receiving or plan to receive concomitant oral or intravenous corticosteroids on a regular basis, nonsteroidal anti-inflammatory drugs (NSAIDs), nor anticoagulants on a regular or predictable intermittent basis; (NSAID use may not exceed 10 days per month); patients may receive daily aspirin for cardiovascular prophylaxis as long as acetylsalicylic acid (ASA) is =< 100 mg per day or =< two 325 mg tablets per week; inhaled steroids (i.e. for asthma or related conditions) are allowed
+491.0
+Patients must have been off pharmacologic doses of systemic steroids for at least 7 days prior to enrollment; patients who require or are likely to require pharmacologic doses of systemic corticosteroids while receiving treatment on this study are ineligible; the only exception is for patients known to require 2 mg/kg or less of hydrocortisone (or an equivalent dose of an alternative corticosteroid) as premedication for blood product administration in order to avoid allergic transfusion reactions; the use of conventional doses of inhaled steroids for the treatment of asthma is permitted, as is the use of physiologic doses of steroids for patients with known adrenal insufficiency
+74.0
+Prednisone dose =< 5 mg/day and off all other systemic immunosuppressive medications for at least 4 weeks prior to study entry
+113.0
+Current treatment with systemic steroid therapy (inhaled/topical steroids are acceptable); systemic corticosteroids must be discontinued for at least 30 days prior to first CYT107 injection
+80.0
+History of severe asthma, as defined by prior or current use of systemic corticosteroids for disease control, with the exception of physiological replacement doses of cortisone acetate or equivalent, as defined by a dose of 10 mg or less
+80.0
+TREATMENT: Patients requiring chronic treatment with corticosteroids or other immunosuppressive agents are ineligible to receive everolimus (topical or inhaled corticosteroids are allowed)
+700.0
+Patients must not be on steroids other than for physiologic replacement
+52.0
+Study participants who have a condition requiring systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of study drug administration; inhaled or topical steroids and adrenal replacement doses < 10 mg daily prednisone equivalents are permitted in the absence of active autoimmune disease; patients are permitted to use topical, ocular, intra-articular, intranasal, and inhalational corticosteroids (with minimal systemic absorption); physiologic replacement doses of systemic corticosteroids are permitted, even if < 10 mg/day prednisone equivalents; a brief course of corticosteroids for prophylaxis (e.g., contrast dye allergy) or for treatment of non-autoimmune conditions (e.g., delayed-type hypersensitivity reaction caused by contact allergen) is permitted
+40.0
+Concurrent use of systemic steroids, except for physiologic doses of systemic steroids for replacement or local (topical, nasal, or inhaled) steroid use; limited doses of systemic steroids to prevent intravenous (IV) contrast, allergic reaction, or anaphylaxis (in patients who have known contrast allergies) are allowed; although topical steroids are allowed, steroid eye-drops are contraindicated
+54.0
+Patients who have had chemotherapy or radiotherapy within 2 weeks prior to entering the study; patients may be receiving concomitant therapy with bisphosphonates and low dose corticosteroids (e.g., prednisone up to but no more than 10 mg by mouth daily or its equivalent) for symptom management and comorbid conditions; doses of corticosteroid should be stable for at least 7 days prior to study treatment
+28.0
+Patients should be excluded if they have a condition requiring systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of study drug administration; inhaled or topical steroids and adrenal replacement doses =< 10 mg daily prednisone equivalents are permitted in the absence of active autoimmune disease; patients are permitted to use topical, ocular, intra-articular, intranasal, and inhalational corticosteroids (with minimal systemic absorption); physiologic replacement doses of systemic corticosteroids are permitted, even if =< 10 mg/day prednisone equivalents; a brief course of corticosteroids for prophylaxis (e.g., contrast dye allergy) or for treatment of non-autoimmune conditions (e.g., delayed-type hypersensitivity reaction caused by contact allergen) is permitted
+80.0
+Patients are excluded if they have a condition requiring systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of study drug administration; inhaled or topical steroids and adrenal replacement doses < 10 mg daily prednisone equivalents are permitted in the absence of active autoimmune disease; patients are permitted to use topical, ocular, intra-articular, intranasal, and inhalational corticosteroids (with minimal systemic absorption); physiologic replacement doses of systemic corticosteroids are permitted, even if < 10 mg/day prednisone equivalents; a brief course of corticosteroids for prophylaxis (e.g., contrast dye allergy) or for treatment of non-autoimmune conditions (e.g., delayed-type hypersensitivity reaction caused by contact allergen) is permitted
+135.0
+Patients receiving chronic pharmacologic doses of corticosteroids are not eligible; for the purposes of eligibility, chronic exposure is defined as anticipated exposure of > 3 weeks, including the sum of both pre-enrollment and anticipated post-enrollment dosing; patients on acute corticosteroid therapy (=< 3 weeks of total planned exposure) must still meet the normal blood glucose requirement; patients receiving chronic inhaled corticosteroids or chronic physiologic replacement doses of corticosteroids are eligible
+330.0
+Patients with a requirement for steroid treatment or other immunosuppressive treatment: patients should be excluded if they have a condition requiring systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of study drug administration; inhaled or topical steroids and adrenal replacement doses > 10 mg daily prednisone equivalents are permitted in the absence of active autoimmune disease
+37.0
+Patients should be excluded if they have a condition requiring systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of study drug administration; inhaled or topical steroids and adrenal replacement doses =< 10 mg daily prednisone equivalents are permitted in the absence of active autoimmune disease; patients are permitted to use topical, ocular, intra-articular, intranasal, and inhalational corticosteroids (with minimal systemic absorption); physiologic replacement doses of systemic corticosteroids are permitted, even if =< 10 mg/day prednisone equivalents; a brief course of corticosteroids for prophylaxis (e.g., contrast dye allergy) or for treatment of non-autoimmune conditions (e.g., delayed-type hypersensitivity reaction caused by contact allergen) is permitted
+37.0
+Patients should be excluded if they have a condition requiring systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of study drug administration; inhaled or topical steroids and adrenal replacement doses =< 10 mg daily prednisone equivalents are permitted in the absence of active autoimmune disease; patients are permitted to use topical, ocular, intra-articular, intranasal, and inhalational corticosteroids (with minimal systemic absorption); a brief course of corticosteroids for prophylaxis (e.g., contrast dye allergy) or for treatment of non-autoimmune conditions (e.g., delayed-type hypersensitivity reaction caused by contact allergen) is permitted
+96.0
+Failure to respond to corticosteroids, defined as:* Progression of chronic GVHD despite optimal first line therapy (> 0.5 mg/kg/day of prednisone dose equivalent [PDE] for two weeks) or* No improvement after 4-8 weeks of sustained therapy; sustained therapy should include 2 weeks of > 0.5 mg/kg/day of PDE or* Inability to taper steroid dosage to less than 0.5 mg/kg/day of PDE without worsening of chronic GVHD or * Need for second or third line therapy beyond corticosteroids and calcineurin inhibitors or sirolimus, irrespective of other criteria
+12.0
+Patients must not have autoimmune disorders or conditions of immunosuppression that require current ongoing treatment with systemic corticosteroids (or other systemic immunosuppressants), including oral steroids (e.g., prednisone, dexamethasone) or continuous use of topical steroid creams or ointments or ophthalmologic steroids; a history of occasional (but not continuous) use of steroid inhalers is allowed; replacement doses of steroids for patients with adrenal insufficiency are allowed; patients who discontinue use of these classes of medication for at least 2 weeks prior to randomization are eligible if, in the judgment of the treating physician investigator, the patient is not likely to require resumption of treatment with these classes of drugs during the study
+400.0
+Any steroid treatment except for that required for replacement therapy in adrenal insufficiency, topical or injected testosterone for hypogonadism, or inhaled steroids for the treatment of asthma
+42.0
+Patients must have discontinued steroids >= 1 week prior to registration to Step 0 and remain off steroids thereafter, except as permitted (see below); patients with glioblastoma (GBM) must have been on stable dose of steroids, or be off steroids, for one week prior to registration to treatment (Step 1, 3, 5, 7)* NOTE: The following steroids are permitted (low dose steroid use is defined as prednisone 10 mg daily or less, or bioequivalent dose of other corticosteroid):** Temporary steroid use for computed tomography (CT) imaging in setting of contrast allergy** Low dose steroid use for appetite** Chronic inhaled steroid use** Steroid injections for joint disease** Stable dose of replacement steroid for adrenal insufficiency or low doses for non-malignant disease** Topical steroid** Steroids required to manage toxicity related to study treatment, as described in the subprotocols** Steroids required as pre- or post-chemotherapy medication for acceptable intervening chemotherapy*** NOTE: Steroids must be completed alongside last dose of chemotherapy
+6452.0
+Subjects who are on systemic corticosteroids (intravenous (IV) or oral steroids, excluding inhaled, topical or ophthalmic corticosteroids), or anti-epileptic drugs for treated brain metastasis
+209.0
+Conditions that would prohibit administration of corticosteroids
+990.0
+Chronic daily treatment with corticosteroids with a dose of >= 10 mg/day methylprednisolone equivalent (excluding inhaled steroids)
+990.0
+Patients may not be on immunosuppressive therapy, including corticosteroids (with the exception of physiologic replacement, defined as 0.75 mg/m^2/day) at time of enrollment; however, patients who require intermittent use of bronchodilators or local steroid injections will not be excluded from the study
+110.0
+EXCLUSION CRITERIA FOR STRATUM C: Patients may not be on immunosuppressive therapy, including corticosteroids (with the exception of physiologic replacement, defined as =< 0.75 mg/m^2/day dexamethasone equivalent) at time of enrollment; however, patients who require intermittent use of bronchodilators or local steroid injections will not be excluded from the study
+110.0
+No systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of registration
+195.0
+No systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of re-registration
+195.0
+No ongoing therapy with corticosteroids greater than 10 mg of prednisone or its equivalent per day; please note: inhaled and topical steroids are permitted
+110.0
+Participants should be excluded if they have a condition requiring systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 2 weeks of study drug administration; these drugs may interfere with the activity of ipilimumab and nivolumab if administered at the time of the first ipilimumab dose; inhaled or topical steroids and adrenal replacement doses =< 10 mg daily prednisone equivalents are permitted in the absence of active autoimmune disease; participants are permitted to use topical, ocular, intra-articular, intranasal, and inhalational corticosteroids (with minimal systemic absorption); physiologic replacement doses of systemic corticosteroids are permitted, even if >= 10 mg/day prednisone equivalents; a brief course of corticosteroids for prophylaxis (e.g., contrast dye allergy) or for treatment of non-autoimmune conditions (e.g., delayed-type hypersensitivity reaction caused by contact allergen) is permitted; use of anabolic steroids is permitted
+84.0
+Concurrent or planned concurrent treatment with systemic high dose (immunosuppressive) corticosteroids or treatment with systemic corticosteroids within 4 weeks of baseline
+23.0
+Patients should not require concurrent therapeutic doses of steroids (> 20 mg of prednisone/day or equivalent) unless they need them for the indications; steroids should be discontinued for 14 days before starting protocol treatment
+302.0
+Patients should be excluded if they have a condition requiring systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of study drug administration; inhaled or topical steroids and adrenal replacement doses =< 10 mg daily prednisone equivalents are permitted in the absence of active autoimmune disease; patients are permitted to use topical, ocular, intra-articular, intranasal, and inhalational corticosteroids (with minimal systemic absorption); physiologic replacement doses of systemic corticosteroids are permitted, even if =< 10 mg/day prednisone equivalents; a brief course of corticosteroids for prophylaxis (e.g., contrast dye allergy) or for treatment of non-autoimmune conditions (e.g., delayed-type hypersensitivity reaction caused by contact allergen) is permitted
+45.0
+Patient must not have received immune suppressants: corticosteroids (for other than allergic reactions and anaphylaxis), cyclosporine or tacrolimus within 7 days of enrollment* Note: the use of topical and/or inhalational steroids is allowed
+44.0
+Patients receiving systemic corticosteroids (either IV or oral steroids, excluding inhalers or low-dose hormone replacement therapy) within 1 week before administration of the first dose of study drug
+36.0
+Need for daily corticosteroids at high doses (prednisone >= 20 mg daily, or an equivalent) is prohibited from 28 days prior to first dose and during treatment with ibrutinib; brief (up to 7 days) and episodic use of systemic corticosteroids for other general conditions (e.g. pre-medication for radiographic imaging due to intravenous [IV] contrast allergy, chronic obstructive pulmonary disease [COPD] exacerbation, poison ivy, etc.) is allowed
+32.0
+Systemic steroid therapy or steroid therapy that cannot be discontinued with more than 7 consecutive days of steroids within the prior 2 weeks* Note: the use of prednisone or equivalent < 0.125 mg/kg/day (absolute maximum of 15 mg/day) as replacement therapy is permitted; inhaled or topical corticosteroids are permitted
+60.0
+Patients should be excluded if they have a condition requiring systemic treatment with either corticosteroids or other immunosuppressive medications within 14 days of study drug administration; patients are permitted to use topical, ocular, intra-articular, intranasal, and inhalational corticosteroids (with minimal systemic absorption); a brief course of corticosteroids for prophylaxis (e.g., contrast dye allergy) or for treatment of non-autoimmune conditions (e.g., delayed-type hypersensitivity reaction caused by contact allergen) is permitted
+29.0
+Patients must not have a condition requiring systemic corticosteroids equivalent to > 10 mg prednisone per day or other immunosuppressive medications within 2 weeks of randomization; inhaled, intra-articular, and epidural steroids are permissible
+714.0
+No chronic (>= 1 month) use of oral steroids at the time of study enrollment; inhaled or topical steroids are acceptable
+NONE
+Any condition requiring > 10 mg/d prednisone equivalents
+20.0
+Patients must not have received systemic treatment with corticosteroids (> 10 mg daily prednisone or equivalent) or other immunosuppressive medications within 14 days prior to sub-study registration; inhaled or topical steroids, and adrenal replacement doses =< 10 mg daily prednisone or equivalent are permitted in the absence of active autoimmune disease
+350.0
+Use of systemic corticosteroid therapy (except for replacement doses of glucocorticoid and/or mineralocorticoid for adrenal insufficiency); inhaled or intranasal corticosteroids for allergic or bronchospastic conditions are permitted
+36.0
+No chronic (duration > 30 days) daily use of oral steroids
+2936.0
+Systemic continuous corticosteroid therapy at a daily dose higher than 15 mg prednisone or equivalent is not allowed; patients may be using topical or inhaled corticosteroids
+84.0
+No ongoing condition requiring systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalent) or other immunosuppressive medications; no treatment with other immunosuppressive agents within 14 days prior to the first dose of study drug; topical, ocular, intra-articular, intranasal, inhaled steroids and adrenal replacement steroid doses > 10 mg daily prednisone equivalent are permitted in the absence of active autoimmune disease.; a brief (less than 3 weeks) course of corticosteroids (any amount) for prophylaxis (for example: contrast dye allergy) or for treatment of non-autoimmune conditions (for example: delayed-type hypersensitivity reaction caused by a contact allergen) is permitted if > 14 days since last dose
+766.0
+Patients on supraphysiologic doses of steroids or use of such within the previous six weeks
+35.0
+Patients should be excluded if they have a condition requiring systemic treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 14 days of study drug administration; inhaled or topical steroids and adrenal replacement doses =< 10 mg daily prednisone equivalents are permitted in the absence of active autoimmune disease; patients are permitted to use topical, ocular, intra-articular, intranasal, and inhalational corticosteroids (with minimal systemic absorption); physiologic replacement doses of systemic corticosteroids are permitted, even if > 10 mg/day prednisone equivalents; a brief course of corticosteroids for prophylaxis (e.g., contrast dye allergy) or for treatment of non-autoimmune conditions (e.g., delayed-type hypersensitivity reaction caused by contact allergen), or as pre-phase treatment for cytoreduction; patients will receive steroids with blinatumomab to reduce cytokine release syndrome (CRS) as specified in the protocol
+30.0
+Current or prior use of immunosuppressive medication within 14 days before the first dose of their assigned IP; the following are exceptions to this criterion:* Intranasal, inhaled, topical steroids, or local steroid injections (e.g., intra-articular injection)* Systemic corticosteroids at physiologic doses not to exceed 10 mg/day of prednisone or its equivalent * Steroids as pre-medication for hypersensitivity reactions (e.g., CT scan pre-medication)
+180.0
+Patients must be off systemic immunosuppressive medications > 2 weeks prior to treatment start; if patients are in systemic corticosteroids and must be on a dose of prednisone 5 mg/day or less (or equivalent), then patients must be on this reduced dose for > 1 week prior to treatment start; topical steroids are allowed
+48.0
+If patient is currently on prednisone or other corticosteroids for palliation, the dose must be less than or equal to 10 mg a day or its equivalent dose and it must have been started at least 4 weeks prior to cycle 1 day 1
+90.0
+NO patients receiving systemic corticosteroids (either intravenous [IV] or oral steroids, excluding inhalers or low-dose hormone replacement therapy) within 1 week before administration of the first dose of study drug
+40.0
+No systemic daily treatment with either corticosteroids (> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 7 days of registration
+700.0
+Patients who are currently receiving or plan to receive corticosteroids except as described below * Systemic corticosteroids may be administered for cytoreduction up to 24 hours prior to the start of protocol therapy, as a premedication for InO and as treatment for allergic reactions or for physiologic replacement/stress dosing of hydrocortisone for documented adrenal insufficiency; corticosteroids are not allowed for other indications
+53.0
+Patients must not have received any immunosuppressive medication within 28 days prior to sub-study registration and must not be planning to receive these medications while on protocol therapy; systemic corticosteroids must be stopped at least 24 hours prior to sub-study registration; however, intranasal and inhaled corticosteroids are allowed at any time before and during protocol therapy
+132.0
+Patient must not have evidence of any clinically significant immunosuppression such as the following:* Primary immunodeficiency state such as severe combined immunodeficiency disease;* Concurrent opportunistic infection;* Receiving systemic immunosuppressive therapy (> 2 weeks) including oral steroid doses > 10 mg/day of prednisone or equivalent within 2 months prior to enrollment
+64.0
+The use of corticosteroids to control cerebral edema or treat neurologic symptoms will not be allowed, and patients who previously required corticosteroids for symptom control must be off steroids for at least 3 days without recurrence of symptoms prior to starting trial therapy; corticosteroids for other indications is allowed
+98.0
+Evidence of clinically significant immunosuppression such as the following:* Primary immunodeficiency state such as severe combined immunodeficiency disease* Receiving systemic immunosuppressive therapy including prednisone > 10 mg per day (or equivalent), tacrolimus, everolimus, sirolimus, mycophenolate mofetil, etanercept, infliximab, etc. * Recipients of solid organ, bone marrow, or stem cell transplants; auto transplant recipients are allowed* Notes: Oral steroid doses =< 10 mg/day of prednisone (or equivalent) are not considered immunosuppressive and are permitted; inhaled and intraarticular corticosteroids are permitted
+68.0
+Patients with evidence of clinically significant immunosuppression such as the following are ineligible:* Primary immunodeficiency state such as severe combined immunodeficiency disease* Concurrent opportunistic infection* Receiving systemic immunosuppressive therapy (> 2 weeks) including oral steroid doses > 10 mg/day of prednisone or equivalent within 2 months prior to enrollment
+21.0
+Patients must not have received systemic treatment with corticosteroids (> 10 mg daily prednisone or equivalent) or other immunosuppressive medications within 14 days prior to registration; inhaled or topical steroids, and adrenal replacement doses =< 10 mg daily prednisone or equivalent are permitted in the absence of active autoimmune disease
+94.0

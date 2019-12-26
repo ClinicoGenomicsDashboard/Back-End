@@ -1,0 +1,92 @@
+Phase I (dose escalation and \pre-treated\ expansion cohort only): refractory to or not amenable or eligible for established MDS therapy (HMA, lenalidomide)
+Patients in dose escalation and all expansion cohorts except first relapse AML may have received up to three prior lines of therapy.
+Dose escalation and expansion cohort: HER2+ tumors documented by clinical pathology report:
+To be enrolled in the dose escalation or in the MTD expansion, Subject must have a locally confirmed diagnosis of either of the following tumor types:
+In the dose de-escalation cohort: subjects must have evaluable disease
+For escalation, subjects must have a pathologically confirmed diagnosis of PPV-MF, PET-MF, or PMF as per the European Hematology Association (EHA) or World Health Organization (WHO) diagnostic criteria (note that all diagnoses must include the presence of at least grade 1 marrow fibrosis according to the European Consensus on Grading of Bone Marrow Fibrosis as well as intermediate-1, intermediate-2, or high risk disease according to the International Working Group for Research and Treatment of Myelofibrosis (IWG-MRT) Dynamic International Prognostic Scoring System; patients with PV may enter the trial if they meet the labeled indication for ruxolitinib (eg hydroxyurea resistant or refractory)\r\n* Escalation Stage 1: patients who have not achieved normalization of splenomegaly, who have ongoing disease related symptoms (as defined by Myeloproliferative Neoplasm Symptom Assessment Form Total Symptom Score [MPN-SAF TSS]), or blood counts with at least 8 weeks of therapy with a steady dose of ruxolitinib\r\n* Escalation Stage 2: patients who have not yet received therapy with any JAK-STAT inhibitory agents or patients on at least 8 weeks of a steady dose of ruxolitinib (patients with exposure to other JAK-STAT inhibitory agents are not eligible); after discussion with the study chair or designee, patients with suboptimal response on at least 8 weeks of a steady dose of ruxolitinib may be allowed to de-escalate ruxolitinib therapy in order to enter a safety cohort which is enrolling patients at a lower dose; patients must receive the lower dose of ruxolitinib for at least 7 consecutive days without event before adding TGR-1202; if the patient completed screening evaluation including bone marrow biopsy/aspirate prior to ruxolitinib de-escalation, it need not be repeated after de-escalation provided that all evaluation occurred within 28 days prior to the first dose of TGR-1202
+Dose Escalation (Segment 1): 0 - 1
+NOTE: the first subject in the first dose cohort must be >= 18 years of age if an adult has not been treated at that dose cohort on the companion Stanford protocol “Phase 1 Dose Escalation Study of CD19/CD22 Chimeric Antigen Receptor (CAR) T Cells in Adults with Recurrent or Refractory B Cell Malignancies” and undergone safety evaluation at day 28 without evidence of dose limiting toxicity (DLT)
+Extrahepatic spread; for the dose escalation, regional lymphadenopathy and subcentimeter pulmonary nodules are allowed.
+Part D: Have metastatic pancreatic ductal adenocarcinoma (dose escalation and dose expansion)
+Phase I Dose Escalation:
+Phase 1 (dose escalation) subjects must have either:
+For dose escalation: Subjects with any type of solid tumor (all comer) will be eligible for dose escalation and dose expansion at MTD in Part 1; Subjects enrolled for dose expansion (MTD expansion cohort \all comer\) will be stratified according to high fibroblast growth factor receptor (FGFR) expression levels / FGFR mutation using archival or fresh tumor biopsy material
+Dose Expansion cohorts: Prior treatment with osimertinib (Tagrisso®). Prior treatment with osimertinib (Tagrisso®) is allowed for subjects participating in the dose escalation portion of the study
+Dose Escalation Phase and Expansion Phases will exclude patients for the following:
+Dose Escalation Phase and Expansion Phase Cohort A:
+Dose Escalation Portion: Patients must satisfy one of the following criteria:
+Bone only patients during dose escalation portion.
+INCLUSION CRITERIA FOR DOSE ESCALATION COHORT
+EXCLUSION CRITERIA FOR DOSE ESCALATION COHORT
+Subjects must have evaluable disease for the dose escalation, and measurable disease for the dose expansion.
+Dose escalation only: known grade 4 toxicity probably or definitely attributed to past irinotecan treatment
+Patients in Cohort 1 (dose escalation) may have any level of expression
+DOSE ESCALATION COHORT: Prior receipt of docetaxel is permitted
+DOSE ESCALATION COHORT: Measurable disease is not required for enrollment
+known bone marrow involvement due to underlying malignant disease, in dose-escalation phase only
+Arm A dose escalation: patients with histologically or cytologically proven advanced solid tumors for which standard treatments are not available, or for whom the current dose level of cisplatin in combination with pemetrexed is appropriate; =< 2 prior cytotoxic chemotherapy regimen
+Phase Ia (dose-escalation)
+Paired, pre- and post-treatment, tumor biopsy is optional for subjects enrolled in the Dose Escalation and Food-effect cohorts
+For Dose Expansion: all of the above in escalation except for cervical, ovarian, and CRC
+All patients (dose escalation and dose expansion phases) must be willing to undergo pre- and post-treatment biopsies
+For the dose escalation phase, the trial population will be limited to solid tumor types
+Patients are not required to have HER-2 or epidermal growth factor receptor (EGFR) over-expression to be on this study at the dose escalation cohort; however, patients will be required to have HER-2 overexpression and/or EGFR overexpression for the extension and expansion cohorts\r\n* If the patient has had HER-2 expression measured prior to enrollment, the report alone will be accepted the dose escalation phase of the study\r\n* If the patient has had EGFR expression measured prior to enrollment, the report alone will be accepted on the dose escalation phase of the study.\r\n*If the patient has not had HER-2 or EGFR expression measured prior to enrollment on this study, it would be obligatory for the patient to have the tests performed to justify their status; HER-2 status can be performed by a variety of tests; either immunohistochemistry (IHC) or fluorescent in situ hybridization (FISH) assay are acceptable if breast tumor tissues (previously frozen) are available; the test can be done at Ohio State University (OSU) or elsewhere if the patient is from out of town
+During the Dose Escalation Phase: only adult patients with active disease failing standard therapy
+Patients with CEA plasma levels > 1000 ng/mL are excluded during dose escalation, but may be included after the MTD is determined.
+For the dose escalation cohort, patients may have received any number of prior therapies
+Dose Escalation cohort only: Willingness to participate in the SPECT/CT imaging as required by the protocol
+DOSE ESCALATION COHORT: Prior treatment with at least one line of systemic therapy
+DOSE ESCALATION COHORT: Subjects with advanced and unresectable solid tumor who progressed on at least one line of systemic therapy, and no approved therapy or standard therapy with demonstrated clinical benefit exists; and all subjects with T790M mutation positive NSCLC have progressed on osimertinib\r\n* Note: disease measurability is not required for dose escalation
+DOSE ESCALATION COHORT: Leukocytes ? 3,000/mcL
+DOSE ESCALATION COHORT: Platelets ? 100,000/mcL
+DOSE ESCALATION COHORT: Hemoglobin ? 9 g/dL
+DOSE ESCALATION COHORT: Current or anticipated use of other investigational agents while participating in this study
+DOSE ESCALATION COHORT: Pregnant or nursing
+Cohort 1 (dose escalation): histologic or cytologic proof of any solid tumor that is incurable with no standard therapy that is likely to make a major impact on clinical outcomes
+Unlimited prior therapies are permitted for patients enrolled in the dose escalation phase of the study; patients in the expansion cohort of the study may not have any prior therapy with riluzole or sorafenib and must have biopsiable tumor
+For Dose Escalation:
+Escalation Phase [Inclusion]\n\n          -  Locally advanced or metastatic adult solid tumor that has progressed or was\n             nonresponsive to available therapies, are unfit for standard chemotherapy or for which\n             no standard or available curative therapy exists;\n\n          -  ECOG score of 0, 1 or 2;\n\n          -  Adequate hematologic, hepatic, and renal function;\n\n        Expansion Phase [Inclusion]\n\n          -  Escalation Phase inclusion criteria\n\n          -  Evidence of the NTRK fusion as previously determined with prior testing from a\n             Clinical Laboratory Improvement Amendments (CLIA)-certified or equivalent certified\n             laboratory.\n\n        Exclusion (for both Escalation and Expansion)\n\n        • Current treatment with a strong cytochrome P450 (CYP) 3A4 inhibitor or inducer (EIAEDs\n        and dexamethasone for CNS tumors or metastases, on a stable dose, are allowed)
+For Dose Escalation:
+For Dose Escalation (Part A): Have measurable or nonmeasurable disease.
+For dose escalation part: Patients with MCL at high risk for tumor lysis syndrome
+Any relapsed/refractory participants that are enrolled during the dose escalation should have received only a single previous treatment regimen Expansion Portion of the Study:
+Women who are pregnant or lactating Dose-Escalation Portion of the Study:
+Patients enrolled in the single agent expansion stage must have a diagnosis of EOC, while patients enrolled in the combination dose escalation or expansion stage must have a diagnosis of melanoma, NSCLC, SCLC, RCC, BLC, or TNBC.
+For patients with melanoma enrolled in the combination dose escalation or expansion stage:
+For patients with NSCLC enrolled in the combination dose escalation or expansion stage:
+For patients with SCLC enrolled in the combination dose escalation or expansion stage:
+For patients with RCC enrolled in the combination dose escalation or expansion stage:
+For patients with BLC enrolled in the combination dose escalation or expansion stage:
+For patients with TNBC enrolled in the combination dose escalation or expansion stage:
+Consent to screening tumor biopsy (for accessible tumors when appropriate) (optional in dose escalation, mandatory in dose expansion)
+For Japan Escalation - the same as the global escalation I/E criteria except patients must be EGFR mutation positive
+Dose Escalation
+Subjects must have an advanced hematologic malignancy including: Phase 1/ Dose escalation:
+For subjects in the dose escalation phase and Part 1 Expansion, IDH2 mutation may be based on local evaluation. (Centralized testing will be performed retrospectively.)
+Patients may have not received treatment for 28 days before the first day of the study protocol (dose escalation only)
+Part B: For Part B dose-expansion: once a MTD has been established in part A, additional dose escalation will occur with subsequent dose escalation of carfilzomib; during the dose escalation of part B, patient (pt) must have at least 1 line of prior therapy and no limitations on prior therapy; patients who had prior clinical benefit/response to ARRY-520 or carfilzomib with a stable disease (SD) or better may be eligible for dose expansion of part B; dose expansion of part B will be patients who are carfilzomib sensitive
+East Asian patients (Chinese, Japanese, Taiwanese, and Korean ancestry) are excluded during stage I of the study (dose escalation phase)
+Dose-Escalation Stage:
+Safety Cohort (Dose Escalation)
+Previous treatment for MDS or MPN for dose escalation cohorts
+Biopsy proven HER2 negative metastatic breast cancer (dose escalation portion and MTD expansion portion) or advanced solid tumor (dose escalation portion).
+DOSE ESCALATION COHORT:
+DOSE ESCALATION COHORT EXCLUSION:
+DOSE ESCALATION COHORT: subjects must have histologically or cytologically confirmed sarcoma that is metastatic or unresectable
+DOSE ESCALATION COHORT: patients must have had at least one prior therapy
+For dose escalation monotherapy: CLL, HL, NHL, MM
+For dose escalation and dose expansion in combination with BMS-936558: HL and DLBCL
+Eligibility based on prior treatment with CIT depends on the mechanistic class of the drug and the cohort for which the participant is being considered, as described below. In addition, all criteria pertaining to adverse events attributed to prior cancer therapies must be met All Cohorts (Dose-Escalation in Phase 1a and Dose-Escalation, Backfill, and Expansion in Phase 1b):
+Dose Escalation Phase: Patients have exhausted, or be deemed to not benefit from, further conventional therapy and have evidence of progressive disease on study entry.
+Part A- Diagnosed with advanced and/or metastatic cancer during dose escalation
+There is no line limit for the dose escalation cohort and the dose expansion cohort
+Three biopsies, one pretreatment, one after BMN673 alone and one after one of the combinations of BMN673/AT13387 will be voluntary in the expansion and dose escalation cohorts; however, biopsies will be required in at least 8 patients of the 20 patients to be enrolled in the expansion cohort
+Documented history of medication abuse/misuse (e.g. unsanctioned dose escalation, broken opioid agreement etc.)
+Dose escalation phase prior systemic treatment requirements:
+For the dose escalation cohorts, any prior number of MDS therapies, including hypomethylating agents, are permitted; for the dose expansion cohort, subjects must be azacitidine naïve, but otherwise any prior number of MDS therapies are permitted; treatment naïve patients are eligible for both the dose escalation and expansion cohorts if they are unfit for or refuse intense therapy
+Participants in the dose escalation cohort must have a serum albumin of ? 3.2 g/dL at screening.
+Dose Escalation Segment
+Part 1, Dose Escalation: tumor tissue
+Are willing to provide available pre-existing diagnostic or resected tumor samples. Providing fresh tumor biopsies are optional for all subjects in Dose Escalation cohorts. In the Dose Expansion cohort, up to 6 subjects may be requested to provide pre- and post-treatment tumor biopsies based on eligibility for the procedure. For those subjects who do not have an MMR status, inclusion in the Dose Escalation and Dose Expansion can be achieved by providing a fresh tumor biopsy for MMR testing.
+Phase 1 trials in dose escalation
+In the Dose Escalation Segment, patients who are refractory, relapsed, or unresponsive to standard treatment.

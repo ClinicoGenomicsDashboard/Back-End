@@ -1,0 +1,140 @@
+Total sum of maximum diameters of each definite parenchymal hepatocellular carcinomas within the liver or maximum diameter of a single conglomerate HCC > 20 cm
+Group A will be further split into two subsets, which are mutually exclusive, for statistical purposes\r\n* Group A1:\r\n** > 6 months and < 12 months of age with an adrenal primary tumor < 5 cm in greatest diameter OR\r\n** Patients less than 6 months of age with an adrenal primary tumor > 3.1 and < 5 cm in greatest diameter OR\r\n** < 12 months of age with a non-adrenal primary site < 5 cm in greatest diameter\r\n* Group A2: =< 6 months of age with an adrenal primary site and tumor =< 3.1 cm in greatest diameter.
+Postoperative tumor plus surgical bed size exceeds 5 cm in maximum diameter
+Maximum diameter of individual metastasis in any dimension =< 5 cm
+SBRT target size > 8 cm in maximum diameter (or > 100 cc in volume)
+Lesion larger than 3 cm in diameter
+At least 1 cutaneous or subcutaneous Injectable Lesion with longest diameter at least 5 mm.
+Patients must have measurable disease (defined as >= 1.5 cm in diameter)
+Subjects must have measurable disease of at least 1.5 cm in diameter
+The contrast-enhancing intraparenchymal brain metastases(s) must be well circumscribed and must have a maximum diameter of =< 3.0 cm in any direction on the enhanced scan
+Participants with a maximum tumor diameter exceeding 5 cm (if not resected)
+Non-nodal lesion that measures ?1.0 cm in the longest diameter;
+Recurrent lesion must be >= 1.0 cm in diameter as determined by MRI
+Participants with a maximum tumor diameter exceeding 5 cm (if not resected)
+longest tumor diameter < 3 cm
+TREATMENT EXCLUSION: Bulky disease (defined as a 10 cm mass or mediastinal disease with a transverse diameter exceeding 33% of the transthoracic diameter)
+Participants must have at least 1 of the following: 1 site of measurable disease greater than (>) 1 centimeter (cm) in the longest diameter and >1 cm in the shortest diameter by radiological imaging; bone marrow involvement; cerebrospinal fluid with blasts present
+One or more high-risk features identified:\r\n* Tumor diameter >= 1 cm (phase I component) or >= 2 cm (phase II component)\r\n* Tumor standardized uptake value maximum (SUVmax) >= 6.2\r\n* Moderately, poorly differentiated or undifferentiated histology
+SBRT or hypofractionated IMRT target size > 10 cm in maximum diameter (or greater than 100 cc in volume)
+EXCLUSION CRITERIA FOR STRATUM C: Patients with bulky tumor on imaging are ineligible; treating physicians are encouraged to contact the study chair to request a rapid central imaging review to confirm fulfilment of these eligibility criteria, if they have concerns; bulky tumor is defined as:\r\n* Tumor with any evidence of uncal herniation or midline shift\r\n* Tumor with diameter of > 5 cm in one dimension on T2/FLAIR\r\n* Tumor that in the opinion of the site investigator, shows significant mass effect\r\n* Metastatic disease: Patients with =< 5 separate foci of metastatic disease not causing mass effect on adjacent parenchyma and each measuring less than 0.5 cm in maximum diameter will be eligible for this arm of the study; patients with diffuse linear leptomeningeal spread are not eligible for this arm of the study\r\n* Multi-focal disease: Patients with multi-focal parenchymal disease will be eligible for stratum C if the sum of the product of the maximum perpendicular diameters of all measurable non-contiguous lesions is less than 16 cm^2; in such cases, a minimum of 2 and a maximum of 5 “target” non-contiguous lesions will be selected; the lower size limit of the target lesion(s) should be at least twice the thickness of the slices showing the tumor to decrease the partial volume effect (e.g., 8 mm lesion for a 4 mm slice)
+At least one endoscopically measurable tumor 6 - 10mm in diameter
+Single measurable lesion < 4 cm in longest diameter
+Clinically or radiologically measureable disease in the breast after diagnostic biopsy, defined as longest diameter greater than or equal to 25 mm (2.5cm)
+Maximal tumor diameter of 6.6 cm or less; patients with multifocal tumors are allowed if the sum of the maximal tumor diameters does not exceed 6.6 cm; note, the maximal tumor diameter for the first 3 subjects enrolled will be 5 cm
+No more than 3 lesions may be treated; the maximum sum of the diameter(s) of the lesion(s) must be =< 6 cm
+Patients with a measurable disease, defined by a node or mass with the longest diameter >= 1.5 cm.
+Tumor diameter in the plane perpendicular to LITT trajectory must be =< 3.5 cm in diameter
+Patients must be a candidate for intralesional therapy\r\n* At least 1 injectable cutaneous, subcutaneous, or nodal melanoma lesion >= 10 mm in longest diameter OR\r\n* Multiple injectable melanoma lesions which in aggregate have a longest diameter of >= 10 mm\r\n* Must have no known bleeding diathesis or coagulopathy that would make intratumoral injection unsafe
+Patients must have an indication for therapy per standard modified Groupe d’Etude des Lymphomes Folliculaires (GELF) criteria including:\r\n* Symptoms attributable to lymphoma, threatened end-organ function, cytopenia secondary to lymphoma, bulky disease (defined as: single mass > 7 cm in diameter, or 3 or more masses > 3 cm in diameter), splenomegaly, and steady progression over at least 6 months
+Maximum volume of largest lesion =< 5 cm^3\r\n* This volume limit would be equivalent to a largest diameter of about 2.1 cm, assuming a perfect sphere
+At least one measurable intracranial target lesion for which all of the following criteria are met: a) Previously untreated or progressive after previous local therapy b) Immediate local therapy clinically not indicated or patient is not a suitable candidate to receive immediate local therapy c) Largest diameter of >= 0.5 cm, but =< 3 cm as determined by contrast-enhanced MRI
+Histologically or cytologically confirmed, primary or recurrent, head and neck squamous cell carcinoma, including variants; patients must have at least one measurable lesion in accordance with Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 (tumor diameter >= 1 cm; short-axis lymph node diameter >= 1.5 cm) OR by caliper measurement (tumor diameter >= 1 cm); any diagnostic pretreatment biopsy sample is acceptable including fine needle aspiration (FNA)
+Any tumor mass greater than 10 cm in longest diameter
+For part 1, subject will have ? 1 and ? 5 tumors (prior to TURBT), none of which exceeds 3.0 cm in diameter; for part 2, patient will have ? 2 and ? 5 tumors (prior to TURBT), none of which exceeds 3.0 cm in diameter (resection loop ~1 cm).
+Histologically/cytologically confirmed locally advanced pancreatic adenocarcinoma; at least one lesion with a diameter of at least 1.5 cm but no more than 6 cm as documented via CT scan (within 6 weeks of Screening);
+Patients with lymphoma masses 10.0 cm or larger in longest diameter will not be eligible
+Subjects must have measurable plexiform neurofibroma(s) amenable to volumetric MRI analysis; the target lesion must be seen on at least 3 consecutive MRI slices and the field of view must contain the entire tumor of interest; tumors must be at least 3 milliliter (mL) in volume (most plexiform neurofibromas [PN] 3 cm in longest diameter will meet this criteria); if the tumor is < 3 cm in longest diameter, the patient may still be eligible; central review of the MRI of the target plexiform is required prior to enrollment to ensure that the tumor is measurable and amenable to volumetric analysis
+FOR TCL ONLY: Measurable disease by CT or magnetic resonance imaging (MRI): must have at least one lesion that has a single diameter of > 2 cm or tumor cells in the blood > 5 x10^9/L; NOTE: skin lesions can be used if the area is > 2 cm in at least one diameter and photographed with a ruler and the images are available in the medical record
+MULTIPLE MYELOMA ONLYMultiple : >= 15% plasmas cells or plasmacytoma > 5 cm in largest diameter
+Largest lesion =< 4 cm diameter
+Less than 3 nodal sites, each with diameter >3 cm
+Each brain lesion must be less than or equal to 5 cm in diameter and not an optimal surgical candidate
+Brain lesion(s) greater than 5 cm in diameter
+Well-circumscribed, measurable intraparenchymal brain lesion(s) with maximum tumor diameter =< 3.0 cm; if multiple lesions are present, the other(s) must not exceed 3.0 cm in maximum diameter; at least one lesion must be >= 0.5 cm in maximum diameter to be considered measurable disease
+The maximum diameter of any lesion must be less than 4.0 cm
+Significant extrahepatic disease\r\n* Symptomatic extrahepatic disease (including primary tumor, if unresected)\r\n* Greater than 10 pulmonary nodules (each =< 20 mm in diameter) or combined diameter of all pulmonary nodules > 15 cm\r\n* Peritoneal carcinomatosis
+A diagnostic contrast?enhanced MRI of the brain must be performed within 60 days prior to registration; the contrast?enhancing intraparenchymal brain tumor must be well circumscribed and must have a maximum diameter of =< 4.0 cm in any direction on the enhanced scan; if multiple lesions are present and one lesion is at the maximum diameter, the other(s) must not exceed 3.0 cm in maximum diameter
+Participants must have stable or responding systemic disease to TKI (no evidence of progression) on the most recent staging studies; the required staging studies are: (1) a re-staging computed tomography (CT) scan of the chest +/- abdomen with intravenous (IV) contrast (unless medically contraindicated) within 2 months of study enrollment; and (2) in patients with known brain metastasis, or to investigate patients with new onset of neurologic symptoms that may suggest metastasis to the brain, brain magnetic resonance imaging (MRI) with gadolinium, or head CT scan with IV contrast will be required within 2 months of study enrollment; the complete extent of the current residual systemic disease must be deemed amenable to SBRT as per review of imaging studies by a radiation oncologist involved in this trial; this will be based on the following criteria:\r\n* Lung: 1-3 lesions (including the primary) of maximum size 5 cm in longest diameter; a minimum size 1 cm in the longest diameter is recommended; (patients with a malignant pleural effusion prior to the start of TKI therapy will be considered eligible for SBRT if there is complete radiographic resolution of the effusion while on systemic therapy)\r\n* Spine: bone lesions must be limited to the spine; a maximum of 2 spinal metastases will be considered for SBRT, with each site spanning 1-3 vertebral bodies; a minimum size of 1 cm in longest diameter is recommended; SBRT may target sclerotic lesions that persist following TKI therapy\r\n* Gastrointestinal (GI): 1-4 liver metastases of maximum size 5 cm in longest diameter and/or 1-2 adrenal metastases of maximum 4 cm size in longest diameter; a minimum size of 1 cm in longest diameter is recommended\r\n* In addition:\r\n* Central nervous system (CNS): 1-4 brain metastases of maximum size 3cm in longest diameter; however, these should be treated with standard-of-care stereotactic radiosurgery (SRS) and will not be defined as target lesions for purposes of this protocol; there is no minimum size requirement for treatment of brain lesions but small foci of potential disease (1-4 mm size) detected on high-resolution MRI may not be clinically relevant and do not count towards the maximum number of 4 brain metastases as per the treating radiation oncologist’s discretion and in line with institutional practice\r\n* A maximum number of 5 target lesions outside the brain, excluding the lung primary, is recommended to ensure that enrollment is limited to patients with low-burden disease and that treatments can be delivered within the specified time frame; this is not an absolute requirement as situations may exist when more than 5 metastatic targets are appropriate in the treating radiation oncologist’s clinical judgment, for example when nearby lesions can be included in a single treatment field
+Diagnosed with a single HCC lesion ? 3.0 cm but ? 7.0 cm in maximum diameter based on diagnosis at screening.
+Recurrent tumor must be a solid, single, supratentorial, contrast-enhancing HGG which have a tumor diameter no larger than 4 cm or volume of 34 cm^3
+Maximum tumor size ?1.5 cm in its greatest diameter
+Brain MRI with contrast demonstrates an enhancing tumor =< 8 cm in largest diameter within 30 days prior to registration
+Any significant CNS hemorrhage defined as > 1 cm diameter of blood seen on the pre-registration brain MRI with contrast scan; if > 1 cm of acute blood is detected, the patient will be ineligible for this trial
+Patient must have > 1 lesion; combined diameter of the lesions must be of size > 1.5 cm
+Lesions to be treated under this protocol must be > 2 cm, but =< 4.0 cm in diameter
+Prior wide excision with diameter of the excision > 3 cm
+All patients must be eligible to have all lesions treated with SRS (i.e. maximum diameter of largest lesion < 3.5 cm) as determined by the radiation oncologist
+Disease bulk defined as any lymph node mass with transverse maximal diameter > 7.0 cm OR coronal maximal diameter > 7.0 cm on CT imaging
+At least one brain metastasis (index tumor) must be within 2-6 cm in maximum diameter and deemed appropriate for surgical resection by the treating neurosurgeon
+The Target Lesion must have measurable disease, defined as a unidimensionally measurable lesion ? 1.0 cm in longest diameter by helical CT; the maximum diameter of the Target Lesion shall be ? 4.9 cm.
+lesion(s) diameter is ? 2 cm
+Targeted tumors (most painful) size up to 8 cm in diameter
+Targeted (most painful) tumors size > 8 cm in diameter
+Patients must have measurable FDG-avid disease defined by standard criteria (Lugano 2014) and a minimum of 1.0 cm in diameter
+No single lesion can be larger than 3 cm in maximal diameter; there may not be midline shift exceeding 5 mm or hydrocephalus
+Maximum diameter of enhancing tumor (target lesion) should be =< 4 cm
+Has recurrent or persistent tumor (enhancing area) greater than 4 cm in maximum diameter
+Each lesion must be less than or equal to 5 cm in maximal diameter and multiple lesions must be less than or equal to 18 cm for the sum of the diameters in 3 dimensions; Example: 3 lesions each 2 + 2 + 2 cm have an aggregate diameter of 18 cm which is acceptable
+The T stage must be Tis, T1, or T2; if T2, the tumor must be =< 3.0 cm in maximum diameter
+T stage of T2 with the tumor > 3 cm in maximum diameter or a T stage >= 3
+Patients with up to 3 brain metastases (symptomatic and non-symptomatic) can be treated on this study; maximum diameter of each brain lesion should be =< 5 cm; maximum tumor volume =< 120 cc
+Tumor diameter =< 7 cm
+Bulky disease by CT, defined as any single mass > 10 cm in its greatest diameter
+Cohort A (asymptomatic patients): At least 1 measurable brain metastasis ? 0.5 cm in and ? 3 cm in longest diameter that has not been previously irradiated. No clinical requirement for local intervention (surgery, radiosurgery, corticosteroid therapy) or other systemic therapy Cohort B (symptomatic patients): Subjects with neurologic signs and symptoms related to metastatic brain lesions are eligibile. Subjects must have at least 1 measurable brain metastasis ? 0.5 cm in and ? 3 cm in longest diameter that has not been previously irradiated. No immediate requirement (within 3 weeks prior to first treatment) for local intervention (surgery, radiosurgery, corticosteroid therapy). Steroid use is permitted as defined in the protocol.
+Measurable disease with at least one extranodal tumor mass >1.0 cm in the greatest transverse diameter (GTD) or in the case of malignant lymph nodes >1.5 cm in the GTD.
+Prostate calcifications > 1 cm in largest diameter, on Baseline Ultrasound
+Cysts > 1 cm in largest diameter, on Baseline MRI
+Subject must have measurable disease and must be a candidate for intralesional therapy with at least one injectable cutaneous, subcutaneous, or nodal melanoma lesion (? 10 mm in longest diameter) or with multiple injectable lesions that in aggregate have a longest diameter of ? 10 mm.
+Evidence of necrotic or > 1.5 cm in diameter pelvic (iliac/inguinal) nodes
+at least one bidimensionally measurable, PET positive disease site (transverse diameter of ?1.5 cm and perpendicular diameter of ?1.0 cm at baseline)
+Must be in need of therapy as evidenced by at least one of the following criteria: \r\n* Bulky disease defined as:\r\n** A nodal or extranodal (except spleen) mass > 7 cm in its greater diameter or,\r\n** At least 3 nodal or extranodal sites >= 3 cm in diameter\r\n* Presence of at least one B symptom:\r\n** Fever (> 38 C) not due to infectious etiology\r\n** Night sweats\r\n** Weight loss > 10% in the past 6 months\r\n* Fatigue due to lymphoma\r\n* Splenomegaly (> 13 cm)\r\n* Compression syndrome (ureteral, orbital, gastrointestinal)\r\n* Any of the following cytopenias due to lymphoma:\r\n** Hemoglobin =< 10 g/dL\r\n** Platelets =< 100 x 10^9/L\r\n** Absolute neutrophil count (ANC) < 1.5 x 10^9/L\r\n* Pleural or peritoneal effusion\r\n* Lactate dehydrogenase (LDH) > upper limit of normal (ULN) or beta-2 microglobulin > ULN
+Subjects must be candidate for intralesional injection into cutaneous, subcutaneous or nodal tumors with or without image ultrasound guidance defined as one or more of the following at least 1 injectable lesion >= 5 mm in longest diameter, multiple injectable lesions that in aggregate have a longest diameter of >= 5 mm
+Primary tumor diameter ?40 mm
+Maximum diameter of enhancing tumor (target lesion) should be =< 3.5 cm
+Has recurrent or persistent tumor (enhancing area) greater than 3.5 cm in maximum diameter
+The lesion can be accurately measured in at least one dimension as greater than or equal to 1.0 cm (viable tumor for typical; and longest diameter for atypical), and
+Meets Milan criteria: a single tumor that is < 5 cm or a maximum of 3 tumors with each tumor < 3 cm AND/OR meets UCSF criteria: a single tumor that is < 6.5 cm in diameter or 2 lesions < 4.5 cm with total tumor diameter < 8 cm AND/OR is outside of both Milan and UCSF criteria and is being evaluated for downstaging
+Patient must have bi dimensionally measurable disease, per the proposed Response Assessment in NeuroOncology (RANO; Appendix C) (Wen et al., 2010), with measurement of >1 cm in one diameter and ?5 cm diameter in any plane on MRI performed within 2 weeks prior to randomization.
+Patient will have ?4 tumors, none of which exceeds 3.5 cm in diameter.
+Patients must have at least 3 distinct metastatic sites with at least one measurable lesion which is at least 1 cm or larger in largest diameter
+Bulky disease - Lymph nodes or tumor mass (except spleen) >= 7cm LD (longest diameter)
+Primary tumor greater than (>) 2 centimeters (cm) in diameter, or > 5 millimeters (mm) in diameter and node-positive
+Measurable disease: subjects must have measurable plexiform neurofibroma(s) amenable to volumetric MRI analysis; for the purpose of this study, the target lesion must be seen on at least 3 consecutive MRI slices and the field of view must contain the entire tumor of interest; tumors must be at least 3 mL in volume (most PNs 3 cm in longest diameter will meet this criteria); if the tumor is < 3 cm in longest diameter, the subject may still be eligible; central review of the MRI of the target plexiform is required prior to enrollment to ensure that the tumor is measurable and amenable to volumetric analysis
+Bulky celiac adenopathy (i.e., >= 2.5 cm in diameter)
+Recurrent or persistent tumor greater than 6 cm in maximum diameter
+Previously untreated stage I or II non-bulky Hodgkin lymphoma\r\n* No mediastinal mass > 0.33 maximum intrathoracic diameter on chest x-ray, if available; chest x-ray is not required\r\n* No adenopathy > 7.5 cm in its largest diameter
+Bulky disease (defined as a mass measuring > 7.5 cm or one-third the maximal diameter of the thoracic cavity)
+At least 1 measurable target brain lesion >0.5 cm and no larger than 3 cm in diameter and/or 2 measurable brain target lesions >0.3 cm
+Combined diameter of all liver lesions must be =< 6 cm
+Patients must have a mediastinal mass > 0.33 maximum intrathoracic diameter on standing posterior-anterior chest x-ray or mass measuring > 10 cm in its largest diameter
+Radiographically measurable lymphadenopathy or extranodal lymphoid malignancy (defined as the presence of ? 1 lesion that measures > 1.5 cm in the longest transverse diameter and ? 1.0 cm in the longest perpendicular diameter.
+(continued from no. 1) Those patients with stage III cancer in which the largest maximal diameter of any residual tumor implant at the completion of this initial surgery is no greater than 1 cm will be defined as optimal; all others will be defined as suboptimal.
+The resection cavity must have a maximum diameter of less than or equal to 4 cm; this criteria will be determined by the study radiologist)
+Additional unresected brain metastases (up to 2) must have a maximum diameter of less than or equal to 3 cm
+Patients with suspected colorectal cancer with nodules in the lung or liver (1-2 cm in diameter) will be eligible for this study.
+AP diameter of the prostate must be ?4.0cm;
+Meets UCSF criteria: a single lesion less than or equal to 6.5 cm in diameter or 2-3 lesions less than or equal to 4.5 cm with total tumor diameter less than or equal to 8 cm.
+Maximum diameter exceeding 12 cm (maximum diameter does not include satellite lesion)
+At least one unidimensionally measurable tumor lesion >= 1 cm in longest diameter using spiral computed tomography (CT) (>= 2 cm in longest diameter by any other technique) that has not been radiated and is not located in a bone
+MRI with a contrast-enhancing tumor of at least 1 cm (10 mm) in the longest diameter.
+Diagnosis of BCC with at least 6 nodular lesions that measure 0.5 cm to 5 cm in diameter, located on the head and neck, trunk or extremities
+Breast tumor ?1 centimeter (cm) in diameter, HR+, HER2-.
+No lesion > 50 mm in longest diameter; and no more than 50 lesions
+CT imaging in screening (based on local evaluation) showing 2 or more clearly demarcated lesions with a largest diameter > 1.5 cm, or 1 clearly demarcated lesion with a largest diameter > 2.0 cm.
+Patients with 1 focus of HCC will be eligible if their tumor is 3.5 cm or less in greatest diameter; patients with 2 foci of HCC will be eligible if each lesion is 3.5 cm in diameter or less and the combined diameter of both lesions is 5 cm or less
+Recurrent/metastatic radioiodine refractory disease that has progressed within the past 6 months with at least 1 lesion increasing by 0.5 cm in diameter or with increasing bone metastases
+The contrast-enhancing intraparenchymal brain tumor must be well circumscribed and must have a maximum diameter of =< 4.0 cm in any direction on the enhanced scan; if multiple lesions are present and one lesion is at the maximum diameter, the other(s) must not exceed 3.0 cm in maximum diameter
+1 to 10 brain metastases (mets) (no more than two lesions and/or cavities >= 3 cm in maximum diameter)
+Maximum diameter of brain metastasis or resection cavity is 6 cm
+Non-bulky disease defined as less than 10 cm in maximal diameter
+At least one pulmonary metastasis ? 3.0 cm in maximum diameter resulting from distant primary cancers or at least one recurrence of primary lung cancer ? 3.0 cm in maximum diameter.
+The clinical or radiologic primary tumor size is at least 1.5 cm diameter
+Subject's tumor(s) must be < 3.0 cm in greatest diameter by pre-operative assessment
+Documented history of advanced adenomas (>= 1 cm in maximal diameter, >= 3 in total number, villous morphology, or high?grade dysplasia) or colorectal cancer
+The size of the target nodule, as measured at its greatest diameter, is between 1-3cm,
+Patient with either a single focus or multiple foci (multi-isocentric planning) of disease in the thorax amenable to SBRT with at least one focus with at least 1.5 cm or larger in its largest diameter
+Patients with measurable colorectal liver metastases on prior imaging, with at least one tumor greater than 2.0 cm in axial maximal diameter
+An indeterminate pulmonary nodule (IPN) (7–30 mm diameter) on CT, or an indeterminate lung mass (> 30 mm diameter), without prior examinations that establish that the lesion has been stable for two or more years
+Metastatic spinal lesions 1 cm or greater in diameter
+Lesions of 5 cm or less in maximum diameter
+Nodule to be biopsied is greater than 3.0 cm in maximum diameter;
+Have measurable disease in their skin by direct visualization (visible lesion typically > 0.5 cm in maximal diameter); to perform a microscopic observation, the lesion will have to be visible by the naked eye, lined-up visually, and be able to interface with the microscope objective; a melanoma lesion that is smaller than 0.5 cm in diameter would present several obstacles to obtaining a reliable microscopic observation in the operating room; therefore, a visible lesion, at a minimum of 0.5 cm in diameter, is proposed for this study
+FINAL ENROLLMENT BIOPSY PARAMETERS: no demonstrated cancer diameter > 1.2 cm
+Patients with tumor size greater than 5 cm in diameter as measured at imaging (ultrasonography or MRI) before treatment
+Maximal tumor diameter > 4 cm
+PART B: Advanced solid tumor malignancy and the presence of at least one liver metastasis measuring > 1.5 cm in longest diameter in axial dimension on standard anatomic imaging
+Patients should have at least one tumor deposit that is > 1.0 cm in diameter, and that is amenable to imaging
+Non-nodal lesion that measures ?1.0 cm in the longest diameter ii.Participants with ICC:
+Clinically or radiologically measurable disease in the breast after diagnostic biopsy, defined as longest diameter greater than or equal to 2.0 cm
+Subject must be a candidate for intralesional injection, defined as one or more of the following: • at least 1 injectable lesion ? 10 mm in longest diameter • multiple injectable lesions that in aggregate have a longest diameter of ? 10 mm

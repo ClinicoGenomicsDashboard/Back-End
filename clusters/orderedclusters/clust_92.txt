@@ -1,0 +1,34 @@
+Patients with a life expectancy of less than one year
+1070.0
+Life expectancy >= 12 weeks
+102.0
+PROCUREMENT: Patients with life expectancy >= 6 weeks
+44.0
+TREATMENT: Patients with life expectancy >= 6 weeks
+44.0
+Participants must have an estimated life expectancy of > 6 weeks
+90.0
+Patients must have a life expectancy of at least 6 weeks
+62.0
+Life expectancy >= 12 weeks
+102.0
+Patients must have a life expectancy of >= 8 weeks
+140.0
+Patients must have a life expectancy >= 12 weeks
+600.0
+Patients must have a life expectancy of at least 8 weeks
+23.0
+Participants must have a life expectancy of 2 years or more
+56.0
+Life expectancy must be estimated by patient�s physician at > 6 months
+99.0
+Patients must have a life expectancy of >= 12 weeks as determined clinically by the treating physician
+126.0
+No comorbid conditions that would cause life expectancy of less than 5 years
+NONE
+Life expectancy > 12 weeks
+20.0
+Patients must have a life expectancy of >= 8 weeks
+90.0
+Must have a life expectancy of at least 12 weeks
+180.0

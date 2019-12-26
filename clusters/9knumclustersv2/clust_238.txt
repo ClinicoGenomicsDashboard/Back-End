@@ -1,0 +1,178 @@
+Received any biological and/or targeted therapy (including but not limited to vaccines, antibodies, tyrosine kinase inhibitors) or hormonal therapy for management and/or treatment of epithelial ovarian or peritoneal primary cancer
+Immunotherapy or therapy with monoclonal antibodies or small tyrosine kinase inhibitors within the past  weeks prior to treatment with the trial drug
+Tumors with driver mutations (epidermal growth factor receptor mutation positive or anaplastic lymphoma kinase fusion oncogene positive) treated with a tyrosine kinase inhibitor or crizotinib are eligible. For participants who have progressed on a tyrosine kinase inhibitor or crizotinib or are intolerant to this targeted therapy, that participant must receive platinum-based therapy prior to enrollment in this study. Documentation of such mutations must be available and entered into the electronic case report form (eCRF).
+ELIGIBILITY CRITERIA - PHASE I (ARMS A, B, C): Patient will not be enrolled if they received prior chemotherapy within  weeks before enrollment with the following exceptions: to reduce the circulating lymphoblast count or palliation (i.e., steroids or hydroxyurea) or for ALL maintenance (mercaptopurine, methotrexate, vincristine, thioguanine, and/or tyrosine kinase inhibitors)
+ELIGIBILITY CRITERIA - PHASE II (ARM D): Patient will not be enrolled if they received prior chemotherapy within  weeks before enrollment with the following exceptions: to reduce the circulating lymphoblast count or palliation (i.e., steroids or hydroxyurea), for ALL maintenance (mercaptopurine, methotrexate, vincristine, thioguanine, and/or tyrosine kinase inhibitors)
+Received prior tyrosine kinase inhibitor therapy or palliative radiation within  days of first dose of study treatment.
+Renal cell patients must have had at least one prior VEGF tyrosine kinase inhibitor (TKI)
+Prior treatment with a Bruton's tyrosine kinase inhibitor (eg, ibrutinib).
+Chemotherapy, Tyrosine Kinase Inhibitor therapy, radiation therapy or hormonal therapy within  weeks
+For Phase  - Prior exposure to a receptor tyrosine kinase or mammalian target of Rapamycin inhibitor
+Must have received at least one course of therapy with a VEGFR-targeting tyrosine kinase inhibitor (eg, sorafenib, sunitinib, axitinib, pazopanib or tivozanib) and progressed within  months of planned first dose of study treatment
+Receipt of any type of small molecule kinase inhibitor (including investigational kinase inhibitor) within  weeks before planned first dose of study drug
+Untreated disease EXCEPT for corticosteroids, hydroxyurea, leukapheresis, and/or tyrosine kinase inhibitors for up to  weeks prior to initiation of study therapy
+Eligible participants must have received at least one line of prior therapy; note: patients will be eligible for participation despite prior treatment with known RET tyrosine kinase inhibitors (TKIs) (e.g. vandetanib, sorafenib, XL-)
+Previous treatment with sunitinib or kinase inhibitor other than imatinib Wash-out
+Prior EGFR tyrosine kinase inhibitor therapy (including gefitinib, erlotinib, or any experimental EGFR tyrosine kinase inhibitor [TKI] agent)
+Resistance or intolerance to prior kinase inhibitor therapy (e.g., lenvatinib, sorafenib). A patient who is considered inappropriate for, or who has refused, kinase inhibitor therapy may be enrolled with approval of the Medical Monitor.
+Participants who have had oral targeted therapy or oral tyrosine kinase inhibitors (TKIs) within  half-lives prior to entering the study
+Allowable prior therapies:\r\n* Subjects must have had clinical or radiographic progression on imatinib; those who were taken off of imatinib for intolerance must have progressed on at least one other tyrosine kinase inhibitor (TKI)\r\n* Subjects must have received >=  prior systemic therapy (including imatinib); a maximum of  prior therapies for metastatic disease are allowed
+Treatment with chemotherapy (not including tyrosine kinase inhibitors) or radiotherapy within  weeks ( weeks from nitrosoureas or mitomycin C), or treatment with monoclonal antibody therapy within  weeks prior to start of study treatment\r\n* Note: no minimum washout period is required for tyrosine kinase inhibitor therapy (eg, imatinib or sunitinib)
+Participants who have received a prior inhibitor of Wee kinase activity
+Prior treatment with a drug of the focal adhesion kinase (FAK) inhibitor class.
+Participants who have received prior oral tyrosine kinase inhibitors (TKIs) will be allowed on study if at least  half-lives have elapsed since the date of their last dose of TKI
+If using hydroxyurea, tyrosine kinase inhibitors (TKIs)/src inhibitors (including fms related tyrosine kinase  [FLT-] inhibitors), other non-cytotoxics, or leukapheresis for blast count control, the patient must be off these therapies for >=  hours (hrs) before starting sertraline
+Hyperleukocytosis with >= , blasts/uL; if using hydroxyurea, tyrosine kinase/src inhibitors (including FLT- inhibitors), other non-cytotoxics, or leukapheresis for blast count control, the patient must be off these therapies for >=  hours prior to beginning sertraline
+Previous anti-cancer and investigational agents within  weeks before first dose of INC; if previous treatment is a small molecule tyrosine kinase inhibitor (TKI), last dose must be at least  days before first dose of INC; a shorter washout period may be allowed after discussion with the principal investigator
+Molecular targeted agents including monoclonal antibodies and tyrosine kinase inhibitors: at least two weeks since last therapy
+Patients who have received prior therapy targeting EGFR with small molecule tyrosine kinase inhibitors or monoclonal antibodies are NOT eligible
+Prior therapy with EGFR tyrosine kinase inhibitor (TKI) therapy
+Subjects with Ph+ disease are eligible if they are intolerant to tyrosine kinase inhibitor (TKI) therapy, or if they have relapsed/refractory disease despite treatment with at least  different TKIs
+Chemo-, or immunotherapy or therapy with monoclonal antibodies or small tyrosine kinase inhibitors within the past  weeks prior to treatment with the trial drug
+May have received prior hormonal therapy in the context of definitive treatment of a primary tumor\r\n* Patients may have had one prior systemic non-chemotherapeutic treatment (i.e. immunotherapy, receptor tyrosine kinase inhibitor, antiangiogenic agent, differentiating agent) for recurrent or metastatic disease
+History of treatment with known kinase inhibiting agents
+Any line of prior treatment for patients under  years (y), over y must have at least one prior line of tyrosine kinase inhibitor (TKI) treatment (excluding anaplastic patients).
+Patients with activating EGFR mutation or ALK rearrangement which is expected to be responsive to available tyrosine kinase inhibitor therapy, must have been previously treated with an applicable tyrosine kinase inhibitor
+Receipt of any type of small molecule kinase inhibitor (including investigational kinase inhibitor) within  days before the first dose of study treatment
+For participants in the dose-finding phase, a minimum washout period of at least  half-lives between the last dose of tyrosine kinase inhibitors (TKI) therapy and the first dose of study treatment is required; for patients on crizotinib, a  day washout is sufficient; a shorter washout period may be considered in the event of disease flare, after discussion with the sponsor; no washout is required if the most recent anti-neoplastic therapy is alectinib
+Concurrent use of other tyrosine kinase inhibitors
+Patients with an active oncogenic driver (e.g., epidermal growth factor [EGFR], activin-receptor-like kinase  [ALK], or the proto-oncogene tyrosine-protein kinase ROS-) must have progressed on or after a US Food and Drug Administration (FDA)- approved therapy for that aberration (Note: Previous treatment with a tyrosine kinase inhibitor and platinum-based doublets does not exclude the patient.).
+Chemotherapy, tyrosine kinase inhibitor, or radiation therapy within  weeks
+Prior to initiating chemotherapy in this study, twenty-one or more days must have elapsed since the patient's last radiation or chemotherapy administration (Hydrea, Gleevec and other tyrosine kinase inhibitors [TKI] as well as intrathecal therapy are accepted exceptions).
+Receipt of the tyrosine kinase inhibitor sunitinib within  days before the first dose of study therapy
+Chemotherapy administration in the  days preceding enrollment with the exception of hydroxyurea, which can be continued until through cycle ; a washout period for oral tyrosine kinase inhibitors (e.g. Jakafi, etc) is not required, although tyrosine kinase inhibitors therapy must be discontinued prior to enrollment
+Known severe allergic or other prohibitive reactions to other tyrosine kinase inhibitors (TKI)
+Patients must be receiving treatment or planning to start treatment with a tyrosine kinase inhibitor targeting the activated gene
+Previous chemotherapy except for antiangiogenic agent or tyrosine kinase inhibitor (TKI) will be allowed as long as it is more than  years
+Prior therapy with any HER directed tyrosine kinase inhibitor (TKI) (e.g., lapatinib, afatinib, dacominib, neratinib, capecitabine) or anti-EGFR antibody therapy (e.g., cetuximab)
+Chemotherapy, hormonal therapy, radiotherapy (except for brain and extremities), immunotherapy or therapy with monoclonal antibodies or small tyrosine kinase inhibitors within the past  weeks prior to treatment with the trial drug
+CML with BCR-ABL mutation consistent with poor response to tyrosine kinase inhibition (e.g. TI mutation)
+Has received prior therapy with an EGFR tyrosine kinase inhibitor (such as erlotinib, gefitinib, afatinib, rociletinib, or AZD) for NSCLC
+The patient has received chemotherapy, surgery, radiotherapy (for therapeutic purposes), tyrosine kinase inhibitor (TKI) (e.g. erlotinib, gefitinib), investigational drugs, chronic use of systemic corticosteroids or statin therapy within  weeks prior to leukapheresis.
+Patients must have discontinued systemic antineoplastic therapy (including systemic corticosteroids and excluding tyrosine kinase inhibitors for CML) at least four () weeks prior to enrollment.
+Patients receiving cytotoxic therapy, radiation therapy, immunotherapy or non-topical steroids for HM within four () weeks of enrollment, excluding tyrosine kinase inhibitors in patients with CML.
+CLL who are beyond first remission and who have failed combination chemoimmunotherapy with regimens containing a purine analogue and anti-CD antibody, or who have failed tyrosine kinase or phosphatidylinositol  (PI) kinase inhibitors, or who were not eligible for or declined such therapy; patients with fludarabine refractory disease are eligible
+Patients must demonstrate progressive disease at the time of treatment\r\n*Note: patients who have received tyrosine kinase inhibitors (e.g. vemurafenib) may be treated if they present with stable disease at the time of treatment
+Treatment with crizotinib within  days prior to enrollment; for all other ALK tyrosine-kinase inhibitors (TKIs), the washout period should be >=  half-lives prior to enrollment
+Phase : Subjects must have previously received and progressed on or after treatment with an EGFR tyrosine kinase inhibitor (TKI). Additional lines of systemic therapy including investigational agents for locally advanced or metastatic NSCLC are allowed.
+Prior chemotherapy/radiotherapy/investigational therapy within  weeks before the start of study drugs with the following exceptions: \r\n* To reduce the circulating lymphoblast count or palliation: steroids, hydroxyurea; no washout necessary for these agents \r\n* For ALL maintenance/CML treatment: mercaptopurine, methotrexate, vincristine, single-agent, single-dose of cytarabine and/or tyrosine kinase inhibitors; these agents should be discontinued at least  hours prior to start of study drugs; (Note: the interval of time from last dose of any approved tyrosine kinase inhibitor [TKI] to start of protocol treatment is  hours regardless of the indication for treatment with the TKI)
+Receipt of any type of small molecule kinase inhibitor (including investigational kinase inhibitor) within  days before the first dose of study treatment
+Prior treatment with VEGFR tyrosine kinase inhibitors
+Previous therapy with T-DM or any HER tyrosine kinase inhibitor (TKI) including neratinib for any malignancy.
+Prior treatment with any VEGFR tyrosine kinase inhibitor
+Patients who have received prior treatment with a phosphoinositide -kinase (PK) inhibitor
+Prior use of MEK or concurrent use of other approved anticancer or investigational agents is not allowed; patients treated with prior EGFR tyrosine kinase inhibitor (TKI) therapy (including erlotinib) are allowed to enroll
+Prior bevacizumab or tyrosine-kinase inhibitor
+Primary patient samples must show in vitro kinase inhibitor sensitivity as determined by the Oregon Health and Science University (OHSU) functional kinase inhibitor screen; for OHSU patients, functional kinase inhibitor screening may be performed as part of this study or through enrollment in eIRB if the identical Food and Drug Administration (FDA)/Clinical Laboratory Improvement Act (CLIA) approved assay is used and a result is available within  weeks of starting on study drug treatment
+Have not received a tyrosine kinase inhibitor (TKI) with activity against the specific documented EGFR exon  insertion.
+Treatment with chemotherapy or targeted therapy (e.g. tyrosine kinase inhibitor) =<  days prior to registration
+Patient with known hypersensitivity to receptor tyrosine kinase inhibitors or any of the components of poziotinib tablets or T-DM IV solution.
+Ongoing or previous treatment with anti-FGFR directed therapies (e.g. receptor tyrosine kinase inhibitors including rogaratinib or FGFRspecific antibodies) or with taxanes or vinflunine
+Patients are not required to have all approved therapies in a drug class (e.g., patients with kidney cancer do not need all tyrosine kinase inhibitors, patients with melanoma do not need all approved checkpoint blockade inhibitors)
+Received any kinase inhibitors within  weeks prior to study treatment.
+Prior treatment with phosphatidylinositol -kinase (PIK) delta inhibitors, Bruton's tyrosine kinase (BTK) inhibitors, janus kinase inhibitor (JAK) inhibitors, mammalian target of rapamycin (mTOR) inhibitors, or spleen tyrosine kinase (Syk) inhibitors
+Patients receiving systemic chemotherapy (includes tyrosine kinase inhibitors)
+Patients who have received therapy with an oral tyrosine kinase inhibitor (eg, erlotinib) within  days prior to entry into the protocol.
+Prior treatment with a tyrosine kinase c-kit inhibitor
+Previous treatment with any Tyrosine Kinase Inhibitor
+Patient previously treated by tyrosine kinase inhibitors except imatinib in case of inclusion criteria 
+Patient has received any chemotherapy, surgery, radiotherapy (for therapeutic purposes), tyrosine kinase inhibitors, investigational drugs, chronic use of systemic corticosteroids or statin therapy within  weeks prior to the leukapheresis
+Patients who have had immunotherapy or tyrosine kinase inhibitor (TKI) therapy within two weeks prior to entering the study
+Prior systemic anti-cancer treatment (e.g. chemotherapy, tyrosine kinase inhibitors, immunotherapy, or investigational agents)(except for hydroxyurea and/or leukapheresis)
+Patients at least  weeks from last cytotoxic chemotherapy. Patients may continue tyrosine kinase inhibitors or other targeted therapies until at least two weeks prior to administration of lymphodepleting chemotherapy.
+Receipt of any type of small molecule kinase inhibitor (including investigational kinase inhibitor) within  days before the first dose of study treatment
+Group  - patients must have pathologically documented, definitively diagnosed locally advanced or metastatic NSCLC with a RET rearrangement that was previously treated with a tyrosine kinase inhibitor (TKI) that inhibits RET, such as cabozantinib, vandetanib, ponatinib, sorafenib and alectinib.
+Phase  Only: Prior progression while receiving approved or investigational tyrosine kinase inhibitors targeting TRK, including entrectinib, crizotinib and lestaurtanib. Patients who received a TRK inhibitor for less than  days of treatment and discontinued because of intolerance remain eligible.
+Patients who have received prior treatment with tyrosine kinase inhibitors (e.g. erlotinib), or anti-EGFR agents (e.g. cetuximab, panitumumab)
+Patients who have received hydroxyurea alone or have previously received non-cytotoxic therapies for myelodysplastic syndromes (MDS) or myeloproliferative neoplasms (MPN) (e.g., thalidomide or lenalidomide, -azacytidine or decitabine, histone deacetylase inhibitors, low-dose Cytoxan, tyrosine kinase or dual tyrosine kinase [TK]/SRC inhibitors) will be allowed
+Prior therapy with a tyrosine kinase inhibitors (TKI) other than nilotinib is allowable, however, nilotinib must be the current therapy; all patients must be under the care of a Moffitt Cancer Center physician, and enrollment is expected to be complete within six months
+Patients must not have received any prior systemic anticancer therapy for advanced or metastatic disease including chemotherapy or EGFR tyrosine kinase inhibitor therapy (including gefitinib, erlotinib, afatinib, or any experimental EGFR tyrosine kinase inhibitors [TKI] agents); prior chemotherapy for non-metastatic disease (i.e. adjuvant therapy or concurrent chemo-radiotherapy) is allowed as long as >  months has passed since completion of therapy; adjuvant EGFR-directed therapy is not allowed; local therapy (i.e. palliative radiotherapy) is allowed as long as a period of  days has passed since the last dose was received and the patient has recovered from any associated toxicity at the time of registration
+Received previous therapy with capecitabine, neratinib, lapatinib, or any other HER directed tyrosine kinase inhibitor.
+Progressive disease with radiographic evidence of disease progression per investigator assessment during therapy with an EGFR tyrosine kinase inhibitor in the metastatic setting; patients may continue EGFR inhibitor therapy throughout the screening period until the day prior to nab-paclitaxel treatment initiation
+Prior exposure to EGFR tyrosine kinase inhibitors
+Part : Progression of disease following up to three lines of prior therapy, including at least one approved VEGF receptor tyrosine kinase inhibitor for RCC. Adjuvant therapy is permitted as one line of prior therapy.
+Tyrosine kinase inhibitors and hydroxyurea must be stopped >  hours prior to CTL infusion
+Prior treatment with any VEGFR tyrosine kinase inhibitor
+Treatment with kinase inhibitors </=  weeks before study treatment
+Prior systemic regimens must include previously approved therapies, including a platinum-containing chemotherapy regimen; a tyrosine kinase inhibitor for tumors with driver mutations; and checkpoint inhibitors where approved.
+Prior treatment with lenvatinib or any tyrosine kinase inhibitor (TKI) - (except for combination therapy of radiation and reduced dose of TKI given for the purpose of radiosensitization).
+Treatment with erlotinib must be discontinued at least  days prior to first dose of tesevatinib and treatment with afatinib or other tyrosine kinase inhibitor must be discontinued at least  days prior to first dose of tesevatinib
+No Brutons tyrosine kinase inhibitor at any point prior to enrollment
+Prior tyrosine kinase inhibitor therapy or palliative radiation within  days of first dose of study medication
+Patients must be willing to be off EGFR-tyrosine-kinase inhibitor (TKI) therapy for a minimum of one week; (in expansion cohort A patients on erlotinib do not have to discontinue treatment)
+Histologically confirmed advanced or metastatic renal cell carcinoma with a clear cell component that has progressed by investigator assessment following treatment with one and only one multi-targeted tyrosine kinase inhibitor (TKI) other than axitinib that targets the VEGF receptor (VEGFR) (e.g., sunitinib, pazopanib, sorafenib, tivozanib, cabozantinib). One prior immunotherapy (interleukin- or interferon-alpha or immune checkpoint inhibitor or tumor vaccine) and one prior mTOR inhibitor treatment are allowed.
+Patients at least  weeks from last cytotoxic chemotherapy; patients may continue tyrosine kinase inhibitors and/or lenalidomide until the day of study consent
+Prior therapy with ibrutinib or other kinase inhibitors that target Brutons tyrosine kinase (BTK); patients who previously received therapy with the phosphoinositide- kinase (PIK) delta inhibitor idelalisib (Zydelig) are allowed to be enrolled
+Chemotherapy, radiotherapy or immunotherapy must have stopped more than  days prior to receiving study drug; however, small field palliative radiotherapy, tyrosine-kinase inhibitor (TKI) therapies, and hormonal therapies are allowed
+Chemotherapy, Tyrosine Kinase Inhibitor therapy, radiation therapy or hormonal therapy within  weeks
+Prior or concurrent therapy with a Janus kinase inhibitor or Bruton's tyrosine kinase inhibitor
+Subjects with Ph+ disease are eligible if they are intolerant to tyrosine kinase inhibitor (TKI) therapy, or if they have relapsed/refractory disease despite treatment with at least  different TKIs
+Participants who have had <  days since the last chemotherapy, immunotherapy, biological therapy, or <  days from approved tyrosine kinase inhibitor (TKI) therapy (sunitinib, sorafenib, vemurafenib, dabrafenib, cobretinib), or systemic or inhaled steroid therapy at doses greater than mg of prednisone or equivalent before administration of the first dose of study medication.
+Chemo-, hormone-, radio-(except for brain and extremities) or immunotherapy or therapy with monoclonal antibodies or small tyrosine kinase inhibitors within the past  weeks prior to treatment with the trial drug.
+Prior chemotherapy or tyrosine kinase inhibitor (TKI) treatment, aside from dasatinib, must be >=  days before first investigational agent dose
+Have TM-positive status using a test validated and performed locally after disease progression on EGFR tyrosine kinase inhibitor (TKI) treatment.
+Twenty-one or more days must have elapsed since the patient's last radiation or chemotherapy administration before beginning treatment for stem cell transplant; Hydrea, Gleevec and other tyrosine kinase inhibitors (TKI) as well as intrathecal therapy are accepted exceptions
+Patients who have received EGFR tyrosine kinase inhibitors within  hours of initiation of study treatment, or treatment with other anti-cancer agents within  days of study treatment
+History of treatment with a tyrosine kinase inhibitor (eg, imatinib), purine analogs or other cancer chemotherapy in the  weeks prior to starting study drug.
+Any prior medical treatment for CML, including tyrosine kinase inhibitors (TKIs), with the exception of hydroxyurea and/or anagrelide treatment, which are permitted for up to  months prior to study entry (signature of ICF) if suitably approved for use in the subject's region.
+? prior Tyrosine Kinase Inhibitors (TKI) therapies for CML
+Tyrosine kinase inhibitor within  days of randomization
+Patients must not have received prior therapy with a tyrosine kinase inhibitor (TKI)
+No prior treatment with erlotinib, gefitinib, or other EGFR tyrosine kinase inhibitors
+Subjects (other than those in the ibrutinib + JCAR combination therapy arm) must have received and failed Bruton tyrosine kinase inhibitor (BTKi) treatment or have been deemed ineligible for BTKi therapy.
+Subjects may have received up to three prior systemic anticancer treatment regimens for adenocarcinoma of the lung (including adjuvant therapies and tyrosine-kinase inhibitors [TKI]), unless discussed with the sponsor.
+Patients who have received prior treatment with a phosphatidylinositol  kinase (PK) inhibitor
+Last chemotherapy or treatment with another systemic anti-cancer agent must have stopped >=  weeks prior to enrollment (or >=  half-lives for oral tyrosine-kinase inhibitors); participants with EGFR mutations and ALK gene rearrangement who have not received a tyrosine kinase inhibitor targeting their molecular abnormality (e.g., erlotinib or crizotinib respectively); participants must have recovered (CTCAE =< ) from acute toxicities of any previous therapy (with the exception of alopecia)
+After failure of nd line treatment with up to two prior lines of therapy, one of which may be an oral tyrosine kinase inhibitor (TKI)
+Current concomitant chemotherapy, radiation therapy, or immunotherapy other than as specified in the protocol with the exception of intrathecal chemotherapy; this includes the tyrosine kinase inhibitor sorafenib which must not be initiated until patient demonstrates count recovery
+Patient has received a minimum of  years of tyrosine kinase inhibitor treatment (first with imatinib (>  weeks) and then switched to nilotinib) since initial diagnosis
+Prior therapy with other tyrosine kinase inhibitors (TKI) inhibitors or any other type of investigational agent is allowed if it was an adjunct to definitive local therapy, was given for =<  months, and was completed at least  months before initiating therapy for metastatic disease
+Prior treatment with ibrutinib or other Bruton's tyrosine kinase inhibitors or prior randomization in any other clinical study evaluating ibrutinib
+Previous treatment with any other tyrosine kinase inhibitor
+Chronic myelogenous leukemia who have failed second generation (G)-tyrosine kinase inhibitors (TKI)
+Previously treated with and developed resistance or intolerance to dasatinib or nilotinib OR developed the T mutation after any tyrosine kinase inhibitor (TKI) therapy
+Patients with CML must have demonstrated resistance and/or intolerance to therapy with at least  tyrosine kinase inhibitors (TKI)
+Previous treatment with lapatinib, neratinib, afatinib, tucatinib, or other investigational EGFR family receptor tyrosine kinase inhibitor or HER tyrosine kinase inhibitor
+No prior treatment with an EGFR tyrosine kinase inhibitor (TKI)
+Prior investigational therapy with an agent that is known or proposed to be active by action on any component of the EGFR tyrosine kinase, IGFR, mTOR, or c-MET pathways
+Patients who have received any targeted therapy (including but not limited to vaccines, antibodies, tyrosine kinase inhibitors) or hormonal therapy for management of their epithelial ovarian or peritoneal primary cancer.
+Liver function tests (LFTs) (bilirubin, AST, and/or ALT) may be acceptable if the elevation is secondary to leukemia infiltration or leukemia therapy with tyrosine kinase inhibitors
+Has received prior therapy with imatinib or another tyrosine kinase inhibitor
+Ph+ B-ALL if subjects are intolerant to or ineligible for tyrosine kinase inhibitor (TKI) therapy, or have progressed after at least one line of TKI therapy
+Prior history of a hypertensive reaction to a kinase inhibitor
+Subject has received treatment with any other agent with antitumor activity including chemotherapy, radiotherapy, or immunotherapy within  days as well as EGFR tyrosine kinase inhibitor within  days prior to first dose of study drug.
+Subject has received prior treatment with any EGFR tyrosine kinase inhibitor
+Chemotherapy, hormonal therapy, radiotherapy (except for brain and extremities) or immunotherapy or therapy with monoclonal antibodies or small tyrosine kinase inhibitors within the past  weeks prior to treatment with the trial drug
+Prior exposure to VEGFR tyrosine kinase inhibitor (small molecule or antibody) or VEGFR antibody.
+Known or suspected history of severe hypersensitivity reaction to tyrosine kinase inhibitors, histone deacetylase inhibitors, proteosome inhibitors, boron, or mannitol
+Tyrosine Kinase Inhibitor (TKI) within  weeks.
+Discontinuation of all therapy (including radiotherapy, chemotherapy, tyrosine kinase inhibitors (TKIs), immunotherapy, or investigational therapy for the treatment of cancer at least  weeks prior to the initiation of study therapy
+Prior treatment with a spleen tyrosine kinase (SYK) inhibitor
+Received erlotinib or other EGFR tyrosine kinase inhibitor (TKI) treatment for at least  weeks prior to enrollment
+Any prior systemic therapy (including chemotherapy, antibody therapy, tyrosine kinase inhibitors, immunotherapy, hormonal therapy) before Day  of Cycle  for treatment of mCRC
+Relapsed or refractory to at least one second generation tyrosine kinase inhibitor (TKI) (dasatinib, nilotinib, bosutinib, ponatinib)
+No more than one prior line of antitumor therapy for metastatic disease, excluding prior treatment with tyrosine kinase inhibitors. An interval of at least  week is required for washout of the tyrosine kinase inhibitor.
+Receipt of any prior cytotoxic chemotherapy for ALK-positive NSCLC within  weeks prior to Day . Patients who received crizotinib or any other tyrosine kinase inhibitors need to have a minimum -week washout period before the first dose
+The last dose of anti-VEGF tyrosine kinase inhibitor must be at least -days but not more than -days from enrollment
+Patients are allowed prior VEGFR-tyrosine kinase inhibitor (TKI); patients will be stratified based on prior VEGFR-TKI therapy
+Patients must not have received prior treatment with any VEGF receptor tyrosine kinase inhibitor (e.g., cediranib, sunitinib, pazopanib, sorafenib); however, prior treatment with bevacizumab is allowed
+Currently or previously treated with AMG , or other molecules that primarily inhibit the angiopoietins or TEK tyrosine kinase, endothelial (Tie) receptor
+Prior treatment with Src family kinase (SFK) inhibitor at any time
+Progressive disease after - prior VEGF-directed tyrosine kinase inhibitors (TKIs).
+Chemotherapy, hormone therapy, immunotherapy with monoclonal antibodies, treatment with tyrosine kinase inhibitors, or radiotherapy (except for treatment of extremities) within the past four weeks prior to treatment with the trial drug, i.e., the minimum time elapsed since the last anticancer therapy and the first administration of BIBF  must be four weeks
+Previous treatment with a phosphatidylinositol -kinase (P-K) inhibitor
+Either treatment naive to, relapsed/refractory to, or experienced treatment failure due to other reasons with ibrutinib, idelalisib, or any other investigational B-cell receptor (BCR) pathway inhibitors not directly targeting spleen tyrosine kinase (SYK).
+Patients who have received or will receive medication that could affect their hematologic state (tyrosine kinase inhibitors, cytotoxic chemotherapy)
+GIST patients with iron deficiency anemia (IDA) planned to start or are receiving systemic therapy with tyrosine kinase inhibitors (TKIs)
+Be on same oral tyrosine kinase inhibitor (TKI) for >=  months
+Currently in remission and not on any active anti-cancer therapies (survivors receiving maintenance tyrosine kinase inhibitors are NOT eligible).
+Participants who were taking EGFR tyrosine kinase inhibitors within  months of study entry
+Targeted agents including small-molecule tyrosine kinase inhibitors:  weeks
+Prior exposure to approved receptor tyrosine kinase inhibitors is permitted; at least  half-lives must have elapsed since the completion of the kinase inhibitor and the initiation of study treatment
+Targeted agents, including small-molecular tyrosine kinase inhibitors:  weeks
+Planned post-transplant therapy, including use of tyrosine-kinase inhibitors (TKI).
+Concurrent administration of lapatinib or other tyrosine kinase inhibitors other than sorafenib
+Subjects who have received dasatinib beyond first or second line treatment and meet other enrollment criteria are eligible for the study provided prior Tyrosine-kinase inhibitors (TKI) were discontinued due to intolerance or lack efficacy, although only one instance of lack of efficacy to TKI is allowed.
+CML in blast phase, resistant or intolerant to tyrosine kinase inhibitor therapy
+Patients with EGFR and ALK alterations should have been treated with at least  line of targeted tyrosine kinase inhibitor
+Has had prior chemotherapy, within  weeks prior to study treatment; patients on targeted therapy (tyrosine kinase inhibitor) may go on the study after  days off therapy

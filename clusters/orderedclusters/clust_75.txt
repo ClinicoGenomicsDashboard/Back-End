@@ -1,0 +1,30 @@
+No patients that are known to be pregnant or nursing
+729.0
+Not pregnant or nursing
+348.0
+Non-pregnant and non-nursing; women and men of reproductive potential should agree to use an effective means of birth control
+100.0
+STEP I: The following patients will be excluded:* Pregnant women* Nursing women
+1080.0
+STEP II: The following patients will be excluded:* Pregnant women* Nursing women
+1080.0
+Patients must not be pregnant or nursing* Note: Peri-menopausal women must be amenorrheic for > 12 months to be considered not of childbearing potential
+2918.0
+Pregnant women or nursing mothers
+130.0
+Study drug must not be administered to pregnant women or nursing mothers
+35.0
+Pregnant or nursing women
+36.0
+Pregnant or nursing women
+35.0
+Pregnancy or nursing or unwilling to take adequate birth control during therapy
+60.0
+Pregnant or nursing patients
+24.0
+Nursing women who are unwilling to discontinue nursing
+348.0
+Pregnancy and/or nursing females
+148.0
+Pregnant or nursing female patients are excluded from this study
+78.0

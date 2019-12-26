@@ -1,0 +1,18 @@
+Absolute lymphocytes count ?  cells/mm
+Prior ACT infusion within  months of study enrollment (cohorts include ACT with tumor infiltrating lymphocytes [TIL], human leukocyte antigen [HLA]-class I T cell receptor [TCR]-engineered lymphocytes, HLA-class II TCR-engineered lymphocytes, and chimeric antigen receptor [CAR]-engineered T cells)
+Planned preemptive/prophylactic administration of donor lymphocytes (as per section ..)
+Lymphocytes* ? /mm (? . x ^/L)
+Lymphocytes >= /mcL
+Lymphocytes ?  / mcL within  days of treatment initiation
+Absolute lymphocytes count >= /mcL
+Absolute Lymphocytes ?/uL
+Lymphocytes ? . x /L
+Lymphocytes >= /mm^
+Lymphocytes >= . x ^/L
+Donor lymphocytes available or able to be collected
+Unlikely to be able to procure additional donor lymphocytes
+Lymphocytes >= /mm^
+Lymphocytes < % of total white blood cells (WBCs) at baseline
+Total lymphocytes count ? .xE/L
+Absolute lymphocytes > /mcL
+Lymphocytes > / mm

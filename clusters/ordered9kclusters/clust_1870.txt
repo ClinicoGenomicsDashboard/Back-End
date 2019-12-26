@@ -1,0 +1,105 @@
+For patients with solid tumors without known bone marrow involvement:
+For patients with solid tumors without known bone marrow involvement:
+For patients with solid tumors without known bone marrow involvement: peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+Platelet count >= 50,000/uL for patients with solid tumors and known bone marrow metastatic disease
+Absolute neutrophil count >= 1,000/mcL (unless documented bone marrow involvement with lymphoma)
+Within 10 days of treatment initiation: Absolute neutrophil count (ANC) >= 1000 cells/mm^3 (or >= 750 in subjects with bone marrow involvement)
+Bone marrow involvement with >= 5% lymphoblasts
+Absolute neutrophil count (ANC) >= 750/uL for subjects without bone marrow involvement
+Absolute neutrophil count (ANC) >= 1500 unless due to direct bone marrow involvement of disease
+Absolute neutrophil count (ANC) ? 1,500 cells/mm3 (1.5 x 109/L) unless secondary to extensive bone marrow involvement by lymphoma (ie, ? 50%) as demonstrated by unilateral bone marrow core biopsy performed during Screening or within 3 months prior to signing the ICF. In the case of documented extensive bone marrow involvement an ANC ? 1,000 cells/mm3 (1.0 x 109/L) is required.
+Platelet count ? 100,000/mm3 (100 x 109/L) unless secondary to extensive bone marrow involvement by lymphoma (ie, ? 50%) as demonstrated by unilateral bone marrow core biopsy performed during Screening or within 3 months prior to signing the ICF. In the case of documented extensive bone marrow involvement, a platelet count of ? 75,000/ mm3 (75 x 109/L) is required.
+Absolute neutrophil count (ANC) >= 750/uL if these cytopenias are not judged by the investigator to be due to underlying disease (i.e. potentially reversible with anti-neoplastic therapy); a subject will not be excluded because of pancytopenia >= grade 3 if it is due to disease, based on the results of bone marrow studies
+Platelet count >= 50,000/uL if these cytopenias are not judged by the investigator to be due to underlying disease (i.e. potentially reversible with anti-neoplastic therapy); a subject will not be excluded because of pancytopenia >= grade 3 if it is due to disease, based on the results of bone marrow studies
+Absolute neutrophil count (ANC) >= 1,000/mm^3 \r\n* Exception: unless documented bone marrow involvement by lymphoma
+For patients with solid tumors without known bone marrow involvement:
+Absolute neutrophil count (ANC) ? 750/uL\r\n* The above criteria do not have to be met if the patient has bone marrow involvement of tumor
+Platelet count ? 75,000/uL\r\n* The above criteria do not have to be met if the patient has bone marrow involvement of tumor
+Subjects must have adequate Bone Marrow function defined as: For patients without bone marrow involvement: • Peripheral absolute neutrophil count (ANC) >750/uL
+ANC < 0.5 x 10^9/L or platelet count < 50 x 10^9/L unless due to disease involvement in the bone marrow.
+Platelet count >= 50,000/mm^3 in the absence of bone marrow involvement; patients with bone marrow involvement only require a platelet count of >= 30,000/mm^3
+Absolute neutrophil count >= 1000/mm^3 in the absence of bone marrow involvement; patients with bone marrow involvement are not required to have a minimum absolute neutrophil count
+Platelet count >= 50,000/uL unless due to heavily infiltrated bone marrow (> 80% CLL cell infiltrate)
+Absolute neutrophil count > 1000 /uL unless due to heavily infiltrated bone marrow (> 80% CLL cell infiltrate)
+Absolute neutrophil count ? 1000/mm^3, unless due to disease involvement in the bone marrow
+Adequate hematologic function (platelet and absolute neutrophil count [ANC] values in accordance with ongoing ibrutinib studies for patients with CLL), unless cytopenias are due to bone marrow highly infiltrated with CLL cells, e.g. > 80%
+Subjects with neutrophils < 1500/uL or platelets < 100,000/uL with splenomegaly or extensive bone marrow involvement as the etiology for their cytopenias are eligible
+Absolute neutrophil count (ANC) >= 750/uL\r\n* If these cytopenias are not judged by the investigator to be due to underlying disease (i.e. potentially reversible with anti-neoplastic therapy); A subject will not be excluded because of pancytopenia >= grade 3 if it is due to disease, based on the results of bone marrow studies
+Platelet count >= 50,000/uL\r\n* If these cytopenias are not judged by the investigator to be due to underlying disease (i.e. potentially reversible with anti-neoplastic therapy); A subject will not be excluded because of pancytopenia >= grade 3 if it is due to disease, based on the results of bone marrow studies
+Absolute lymphocyte count >= 150/uL\r\n* If these cytopenias are not judged by the investigator to be due to underlying disease (i.e. potentially reversible with anti-neoplastic therapy); A subject will not be excluded because of pancytopenia >= grade 3 if it is due to disease, based on the results of bone marrow studies
+Bone marrow cellularity of > 20% with < 5% involvement with tumor
+Diffuse bone marrow involvement confirmed by super-scans
+Absolute neutrophil count: >= 1,000/mm^3, unless decreased due to bone marrow involvement with lymphoma
+Absolute neutrophil count (ANC) >= 1000/mm^3, unless due to disease involvement in the bone marrow
+Absolute neutrophil count (ANC) > 1000/mm^3 unless deemed related to lymphoma involvement in the bone marrow and felt potentially reversible by the treating physician
+Bone marrow involvement with >= 5% lymphoblasts
+For subjects with solid tumors without known bone marrow involvement: peripheral absolute neutrophil count (ANC) >= 750/mm^3
+Platelet count >= 75 × 10^9/L (>= 30 × 10^9/L if myeloma involvement in the bone marrow is > 50%)
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L; ANC < 1.5 x 10^9/L if cytopenia is due to extensive bone marrow involvement of disease as determined by the treating physician
+Absolute neutrophil count (ANC) > 1500, unless due to direct bone marrow involvement of disease
+Subjects with neutrophils < 1500/uL or platelets < 100,000/uL with splenomegaly or extensive bone marrow involvement as the etiology for their cytopenias are eligible
+Absolute neutrophil count (ANC) >= 1.0 x 10^9/L or < 1.0 x 10^9/L but >= 0.75 due to > 30% marrow involvement\r\n* Patients who entered the trial prior to June 4, 2014 were restricted to > 50% marrow involvement
+Platelet count >= 75.0 x 10^9/L or =< 75.0 x 10^9/L but >= 50.0 x 10^9/L due to > 30% marrow involvement\r\n* Patients who entered the trial prior to June 4, 2014 were restricted to > 50% marrow involvement
+Absolute neutrophil count of less than 1000 cells/ul unless low neutrophil count is thought to be due to malignancy in the bone marrow and malignancy is documented in the bone marrow
+Platelet count less than 30,000/uL unless low platelet count is thought to be due to malignancy in the bone marrow and malignancy is documented in the bone marrow
+Patients must have evidence of adequate bone marrow reserve as shown by absolute neutrophil count (ANC) of at least 1,000/mm^3; however, if the cytopenias are due to extensive bone marrow involvement by CLL, patients may be included in the study
+And patients must have evidence of adequate bone marrow reserve as shown by platelet count of at least 50,000/mm^3; however, if the cytopenias are due to extensive bone marrow involvement by CLL, patients may be included in the study
+Bone marrow function: absolute neutrophil count ?1,500/µL, and platelets ? 100,000/ µL;
+To be performed within 14 days prior to day 1 of protocol therapy: absolute neutrophil count (ANC) >= 1,000/mm^3\r\n* NOTE: Growth factor is not permitted within 7 days of ANC assessment unless cytopenia is secondary to disease involvement\r\n* Exception: Unless documented bone marrow involvement by lymphoma
+Adequate bone marrow function independent of growth factor support at screening unless clearly due to marrow involvement by CLL and/or disease-related immune thrombocytopenia; if cytopenias are due to disease in the bone marrow any degree of cytopenias are allowed; patients with active uncontrolled autoimmune cytopenias are excluded
+Absolute neutrophil count (ANC) > 1500, unless due to direct bone marrow involvement of disease
+These hematologic function criteria must be met by all patients, regardless of bone marrow involvement with tumor
+For subjects with solid tumors without known bone marrow involvement: \r\n*Peripheral absolute neutrophil count (ANC) ? 750/mm^3
+Platelets >= 50,000/mm^3 independent of transfusion support, with no active bleeding, and absolute neutrophil count >= 1000/mm^3, unless due to disease involvement in the bone marrow
+Absolute neutrophil count (ANC) >= 1,000 /mcL if no bone marrow involvement, ANC >= 800 /mcL if documented bone marrow involvement
+Patients with known bone marrow involvement are not eligible
+For patients with solid tumors without bone marrow involvement: peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+For patients with solid tumors without known bone marrow involvement: peripheral absolute neutrophil count (ANC) >= 1000/mm^3
+Phase 1 (Part A): patients with known bone marrow involvement are not eligible
+Platelet count ? 50 × 109/L  (? 30 × 109/L if WM involvement in the bone marrow is >\n             50%) within 14 days prior to randomization
+Patients with greater than 25% involvement of the bone marrow with HL
+Bone marrow cellularity of > 20% with < 10% involvement with tumor
+ANC ? 0.5 x 10^9/L or platelet count ? 50 x 10^9/L unless due to disease involvement in the bone marrow.
+sphenoid bone or foramen ovale involvement;
+Absolute neutrophil count (ANC) >= 1,000/uL unless due to bone marrow involvement
+Patients known to have bone marrow involvement with neuroblastoma are eligible provided that minimum ANC and platelet count criteria are met but are not evaluable for hematological toxicity
+Part 1: absolute neutrophil count (ANC) >= 1.5 x 10^9/L; Part 2: ANC >= 1.0 x 10^9/L if there is bone marrow involvement, >= 1.5 x 10^9/L if there is no bone marrow involvement
+Platelet count >= 50,000/µL unless due to heavily infiltrated bone marrow (> 80% CLL cell infiltrate); AND
+Absolute neutrophil count > 1000/uL unless due to heavily infiltrated bone marrow (> 80% CLL cell infiltrate)
+Absolute neutrophil count >= 1,000/mcl unless in the opinion of the treating physician, neutropenia is due to splenomegaly or bone marrow involvement
+Absolute neutrophil count (ANC) > 1000 cells/mm^3, unless cytopenias due to non-Hodgkin lymphoma (NHL) (i.e., bone marrow involvement or splenomegaly)
+Absolute neutrophil count (ANC) >=1.5 × 10^9 per liter (/L) and platelets >=75 × 10^9/L unless cytopenia is caused by the underlying disease, i.e., no evidence of additional bone marrow dysfunction (e.g., myelodysplastic syndrome, hypoplastic bone marrow)
+Absolute neutrophil count (ANC) >= 500 independent of growth factor support; (patients who have cytopenias due to significant bone marrow infiltration do not have to meet hematologic eligibility criteria; significant bone marrow infiltration is defined as > 50% involvement by CLL)
+Platelet count >= 30,000 independent of transfusion support; (patients who have cytopenias due to significant bone marrow infiltration do not have to meet hematologic eligibility criteria; significant bone marrow infiltration is defined as > 50% involvement by CLL)
+PHASE II: If the patient had significant bone marrow involvement (bone marrow [BM] plasma cells >= 50%), a platelet count >= 30,000 mm^3 and absolute neutrophil count (ANC) >= 1000/mm^3 is required
+Absolute neutrophil count (ANC) < 0.75 x 109/L or platelet count < 50 x 109/L unless due to disease involvement in the bone marrow.
+ANC < 0.75 x 109/L or platelet count < 50 x 109/L unless there is bone marrow involvement.
+Patients with lower values may participate if, in the opinion of the investigator, the cytopenias are the result of bone marrow involvement with active prostate cancer
+PART A: FOR PATIENTS WITH KNOWN BONE MARROW INVOLVEMENT (Completed as of Amendment 4)
+PART B: FOR PATIENTS WITHOUT KNOWN BONE MARROW INVOLVEMENT
+Platelet count >= 100,000/mm^3 (unless due to bone marrow infiltration by tumor in which case >= 50,000/ml are allowed)
+Adequate baseline platelet and neutrophil levels must be present, unless there is clear evidence of extensive bone marrow involvement with tumor infiltration; extensive bone marrow involvement is defined as:\r\n* Bone marrow lymphocytes >= 30%
+Minimum absolute neutrophil count of 1,000 cells/ul and minimum platelet count (without transfusion) of 20,000/mm^3; values below these levels may be accepted at the discretion of the PI, if thought to be due to bone marrow involvement by malignancy
+Lymphoma participants without bone marrow involvement must have absolute neutrophil count (ANC) >= 1,000/mm^3; Note: these criteria are waived for participants with leukemia or lymphoma participants with bone marrow involvement
+Absolute neutrophil count (ANC) >= 1.5 unless cytopenias are related to bone marrow involvement with disease
+Hemoglobin >= 7 g/dl unless cytopenias are related to bone marrow involvement with disease
+Absolute neutrophil count (ANC) >= 1.5 x 10^9/L, unless due to bone marrow involvement with lymphoma
+All patients must have bone marrow involvement of their tumor, with documented blast percentage of > 5%.
+Lymphoma participants without bone marrow involvement must have: \r\n* Absolute neutrophil count (ANC) >= 1,000/µL, and\r\n* Platelet count > 50,000/mm^3 (without transfusion support)\r\n** Note: these criteria are waived for participants with leukemia or lymphoma participants with bone marrow involvement
+Confirmed bone marrow involvement
+Absolute neutrophil count >= 1,000/mcL (unless due to lymphoma involvement of the bone marrow)
+Absolute neutrophil count (ANC) >= 1000/uL, unless due to bone marrow involvement by lymphoma
+absolute neutrophil count >1,000/?L in absence of bone marrow involvement
+If patient has extensive bone marrow involvement, minimum ANC and platelet levels are not required.
+Absolute neutrophil count ?1,000/µL (unless due to documented leukemic involvement of the bone marrow at the time of study entry)
+Platelets >= 100,000; patients with bone marrow involvement are allowed at the investigator’s discretion regardless of cytopenias
+Absolute neutrophil count (ANC) >= 1,200; patients with bone marrow involvement are allowed at the investigator’s discretion regardless of cytopenias
+Platelet count ? 50 × 10^9/L (? 30 × 10^9/L if myeloma involvement in the bone marrow is > 50%) within 21 days prior to randomization
+Absolute neutrophil count (ANC) > 1000/mm^3 unless deemed likely related to lymphoma involvement in the bone marrow where the minimum ANC allowable will be 500/mm^3
+Absolute neutrophil count (ANC) >= 1,500/?L unless due to marrow involvement by lymphoma
+Bone marrow reserve: absolute neutrophil count (ANC) >=1000/microliter (?L), platelet count >=75,000/?L (>=50,000/?L for participants with bone marrow involvement), and hemoglobin >=8 gram per deciliter (g/dL).
+Adequate bone marrow reserve: absolute neutrophil count (ANC) greater than or equal to (>=) 1000 per micro litre (/mcL), platelet count >=75,000/mcL (>=50,000/mcL for participants with bone marrow involvement), and hemoglobin >=8 gram per deciliter (g/dL) (red blood cell [RBC] and platelet transfusion allowed >=14 days before assessment).
+Absolute Neutrophil Count (ANC) ? 1.5 x 109/L or ? 1.0 x 109/L (with bone marrow involvement with DLBCL)
+Absolute neutrophil count >= 1000 cells/mm^3 (1.0 x 10^9/L), unless they have significant bone marrow involvement of their malignancy confirmed on biopsy, completed within 2 weeks prior to start of protocol therapy; growth factor allowed to achieve
+Adequate bone marrow reserve: absolute neutrophil count (ANC) greater than or equal to (>=) 1000 per cubic millimeter (/mm^3), platelet count >=75,000/ mm^3 (>=50,000 per micro liter (/mcL) for participants with bone marrow involvement), and hemoglobin >=8 gram per deciliter (g/dL) (red blood cell [RBC] transfusion allowed >=14 days before assessment).
+Absolute neutrophil count >= 500 /uL (absolute neutrophile count [ANC] values in accordance with ongoing ibrutinib studies for patients with CLL), unless cytopenias are due to bone marrow highly infiltrated with CLL cells, e.g. > 80%

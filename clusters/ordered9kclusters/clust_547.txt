@@ -1,0 +1,99 @@
+Patients must have had estrogen receptor, progesterone receptor and HER2 status (by immunohistochemistry [IHC] and/or in situ hybridization [ISH]) evaluated on diagnostic core biopsy prior to start of neoadjuvant chemotherapy\r\n* Note: If HER2 status has not been clearly determined (i.e. equivocal/indeterminate), then patients should not be enrolled
+Known estrogen, progesterone, and HER2 status of either primary tumor or metastasis; \r\n* Note: estrogen, progesterone and HER2 status of metastasis preferred for stratification
+For Cohort E only: Patients must have histologically confirmed HER2+ (IHC 3+ and/or FISH positive [HER2/CEP17 >= 2 and/or > 6 HER2 gene copies per nucleus]) and hormone receptor positive (estrogen receptor [ER]+ and/or progesterone receptor [PR]+ >= 1%), metastatic breast cancer
+Estrogen receptor positive (ER+) breast cancer patients must have received and progressed on fulvestrant and be post-menopausal
+Participants with histologically or cytologically confirmed hormone receptor (HR)-positive, Her2-negative metastatic breast cancer; central confirmation of HR positivity is not required
+Primary and/or metastatic breast tumor must be negative for over-expression of estrogen and progesterone receptors; patients with weak estrogen receptor and/or progesterone receptor expression (< 10% on immunohistochemistry [IHC]) will be eligible
+Estrogen receptor positive, progesterone receptor positive, HER2 negative
+Breast carcinoma that is estrogen receptor, progesterone receptor, and Her2 negative (triple-negative breast cancer; TNBC);
+Participant has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor (ER) positive breast cancer by local laboratory.
+Biopsy proven neuroendocrine tumor, which is somatostatin receptor positive as demonstrated on somatostatin receptor PET\r\n* All sites or origin are eligible\r\n* Functional and nonfunctional tumors are allowed
+Oral estrogen, progesterone, testosterone therapy within last 3 months
+COHORT 1: HORMONE RECEPTOR POSITIVE BREAST CANCER: Patients must have measurable disease, per RECIST 1.1
+COHORT 1: HORMONE RECEPTOR POSITIVE BREAST CANCER: HR+BC patients must have received prior treatment with at least 2 lines of hormonal treatment (selective estrogen receptor modulator [SERM], adriamycin-ifosfamide [AI], or fulvestrant) and deemed ineligible for further hormonal therapy; patients may have received prior chemotherapy and there is no limit to the number of prior chemotherapy
+COHORT 1: HORMONE RECEPTOR POSITIVE BREAST CANCER: Absolute neutrophil (ANC) >= 1,500/mm^3 (>= 1.5 X10^6/L)
+COHORT 1: HORMONE RECEPTOR POSITIVE BREAST CANCER: Platelet count >= 75,000/mm^3 (>= 75 X 10^6/L)
+COHORT 1: HORMONE RECEPTOR POSITIVE BREAST CANCER: Patients who have undergone radiotherapy within 4 weeks of first dose of study treatment
+Any receptor status (estrogen receptor, progesterone receptor, HER2 receptor); patients who are hormone receptor (HR)+ should also no longer be candidates for hormonal-based therapy; patients who are HER2+ should have progressed on or no longer be candidates for available HER2 directed therapy; hormonal therapy must be stopped prior to day 1 of treatment
+COHORT 2 (HORMONE RECEPTOR POSITIVE [HR+])
+DISEASE SPECIFIC EXPANSION COHORTS: Breast cancers patients enrolled on this study must have:\r\n* Metastatic or advanced (incurable and unresectable) HER2 negative breast cancer regardless of estrogen receptor status (both hormone receptor positive and triple negative patients are eligible)\r\n* Received hormonal therapy, as appropriate based on their hormone receptor status; hormone receptor positive patients who have not received endocrine therapy for recurrent/metastatic disease are eligible, permitted their physician feels they are not appropriate for first line endocrine therapy, for example for high risk visceral metastatic disease
+Tumor is hormone receptor (HR)+ (estrogen receptor and/or progesterone receptor positive with at least 10% expression of either receptor by local immunohistochemical staining) and HER2 negative based on local assessment
+Patients can have hormone receptor (HR)+ or HR-negative disease
+Breast cancer determined to be hormone receptor-positive or hormone receptor-negative defined as follows:\r\n*  Hormone receptor-positive: >= 10% staining by IHC for either estrogen receptor (ER) or progesterone receptor (PgR)\r\n* Hormone receptor-negative: < 10% staining by IHC for both ER and PgR
+Locally advanced breast cancer defined as any of the following per American Joint Committee on Cancer (AJCC) staging criteria:\r\nNote: imaging methods that may be used for tumor measurement to determine eligibility include breast ultrasound and breast magnetic resonance imaging (MRI); mammography may not be used\r\n* T2 based on tumor measurements by physical examination or imaging with clinically positive regional lymph nodes (cN1 or cN2), irrespective of hormone receptor status\r\n* Hormone receptor-negative patients with tumor size of 3-5 cm measured by physical examination or imaging with clinically negative regional lymph nodes (cN0)\r\n* Any T3 based on tumor measurements by physical examination or imaging, irrespective of hormone receptor status\r\n* Any T4 (including inflammatory breast cancer), irrespective of hormone receptor status
+Patient has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer by local laboratory.
+Estrogen receptor negative invasive breast carcinoma as defined as less than 10% stained cells
+Estrogen Receptor-positive pathology
+Documentation of estrogen receptor (ER)-positive and/or progesterone receptor (PR)-positive tumor (>= 1% positive stained cells) based on most recent tumor biopsy (unless bone-only disease, discuss with the Study Chair if results in different biopsies are discordant in terms of hormone receptor positivity) utilizing an assay consistent with local standards
+Clinically node negative, hormone receptor positive (+). HER2 negative (-), with <25% intraductal component in the aggregate.
+Estrogen and/or progesterone receptor positive
+HER2-negative and hormone receptor-positive status (common breast cancer classification tests)
+Have brain metastases secondary to hormone receptor positive breast cancer, NSCLC, or melanoma.
+Has documented hormone (estrogen and/or progesterone) receptor (HR)-positive disease
+Known hormone receptor status at the time of protocol registration; (Note: estrogen receptor [ER] and/or progesterone receptor [PgR] status are considered positive with a cut-off of >= 1% invasive tumor cells; status may be defined on the basis of historic results on the breast primary or a metastatic site, whichever is most recent; repeat biopsies are not required for participation in this protocol)
+Subject has hormone-receptor positive metastatic breast cancer with disease progression following antiestrogen therapy
+Estrogen receptor positive tumor and/or progesterone receptor positive tumor
+Estrogen receptor negative and progesterone receptor negative tumor
+DCIS must express estrogen and/or progesterone receptor, as determined by immunohistochemical methods on the diagnostic pathology sample, according to the local institution’s standard protocol; greater than or equal to 1% cells will be considered to be positive
+Folate receptor alpha positive tumor expression as defined in the protocol
+Estrogen receptor-positive and/or progesterone receptor-positive, HER2-negative breast cancer
+Patients with advanced or metastatic breast cancer must have disease that is HER2-negative, estrogen receptor-negative, and progesterone receptor-negative (ie, TNBC). Patients with advanced or metastatic disease may have up to 4 lines of cytotoxic therapy. Neoadjuvant and adjuvant therapies are not counted towards lines of therapy.
+Patient has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive breast cancer by local laboratory and has HER2 negative breast cancer
+Subject has received zero to one prior cytotoxic chemotherapy regimen for metastatic disease, regardless of prior targeted therapy (eg. everolimus, palbociclib or lapatinib), biologic (eg. trastuzumab) or hormonal therapy treatment (eg. aromatase inhibitors, selective estrogen receptor modulators, or estrogen receptor down-regulators).
+Tumors must stain positive for estrogen receptor (>= 10%) by immunohistochemistry (IHC)
+Estrogen receptor positive disease is defined as > 10% nuclear staining
+Patient has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer by local laboratory and has HER2-negative breast cancer.
+Patients that are estrogen receptor positive (ER+) will take anti-estrogen therapy for treatment of their DCIS during vaccinations
+Patient has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer
+Known hormone receptor status of the primary tumor
+Known hormone receptor status (estrogen receptor and progesterone receptor)
+Estrogen receptor and/or progesterone receptor positive disease
+Estrogen and/or progesterone receptor positive breast cancer (> 10% staining), as determined by pathology from either primary or metastatic site(s); central confirmation is not required
+Subject has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive breast cancer by local laboratory (based on most recently analyzed biopsy).
+Patients with a hormone receptor-positive, HER2-negative invasive cancer that meets study criteria may have ductal carcinoma in situ in another quadrant of the same breast or in the contralateral breast even if the DCIS is hormone receptor-negative
+Histologic proof of metastatic or locally advanced, unresectable breast cancer which is estrogen receptor positive and/or progesterone positive per institutional standards
+Centrally determined HER2-positive, hormone receptor status, breast molecular subtype by Prediction Analysis of Microarray 50 (PAM50) on the pre-treatment biopsy of metastatic lesion obtained during screening
+Postmenopausal, Hormone receptor positive (HR+), HER2 negative breast cancer
+Metastatic breast cancer patients who are hormone receptor positive at baseline must be hormone refractory or have indications for emergent treatment with chemotherapy (e.g., visceral crisis)
+Known hormone receptor status of the primary tumor
+Pathological tumor-node-metastasis staging (Union for International Cancer Control-American Joint Committee on Cancer [UICC/AJCC] 7th edition): eligible participants must have either: Node-positive disease (pN more than or equal to [>/=] 1), any tumor size except T0, and any hormonal receptor status; or Node-negative disease (pN0) with pathologic tumor size >2.0 centimeters by standard local assessment and negative for estrogen receptor (ER) and progesterone receptor (PR) determined by a central pathology laboratory
+Patient has a histologically and/or cytologically confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer by local laboratory.
+Patients with hormone receptor +/- and HER2 +/- breast cancer are eligible
+Known hormone-receptor status
+Estrogen and/or progesterone receptor positive breast cancer, as determined by pathology from either primary or metastatic site(s); central confirmation is not required
+Hormone-receptor positive defined as estrogen receptor-positive and/or progesterone receptor-positive
+Part G: Breast Cancer that is not only advanced and/or metastatic but also hormone receptor positive
+Must have estrogen and/or progesterone receptor positive histologically confirmed adenocarcinoma of the breast; receptor status may be based on any time during treatment prior to study registration, and from any site (i.e. primary recurrent, or metastatic)
+For invasive cancers, the tumor must be estrogen receptor positive (defined as 10% or greater expression of estrogen receptor)
+Participants with hormone-receptor positive tumors must have failed available lines of hormonal therapy unless hormone therapy was not tolerated or not clinically appropriate
+Unknown hormone-receptor status
+Hormone receptor status\r\n* Estrogen or progesterone receptor positive or\r\n* Estrogen and progesterone receptor negative and clinical tumor size =< 1.0 cm
+Estrogen receptor and progesterone receptor negative tumor with clinical size > 1 cm
+Patient has a confirmed diagnosis of estrogen-receptor positive and/or progesterone receptor positive breast cancer by local laboratory and has HER2-negative breast cancer
+Patient has estrogen-receptor and/or progesterone positive breast cancer as per local laboratory testing
+Inoperable estrogen receptor positive and HER2 negative breast cancer.
+Subjects with a primary tumor that is hormone (estrogen, progesterone, or both) receptor-positive or receptor-negative are eligible.
+Group 2: Post-menopausal women with advanced stage estrogen receptor positive breast cancer who are candidates for exemestane or fulvestrant
+Patients with estrogen receptor positive (ER+) breast cancer being treated with hormonal therapy (selective estrogen receptor modulator or aromatase inhibitor) who have rising tumor markers as evidence of disease progression or metastatic disease on scans may continue on hormonal therapy while being treated with vaccine
+Patients with estrogen receptor (ER)+ breast cancer must have received prior treatment with at least one hormone therapy
+Patients must have histologically or cytologically diagnosed locally advanced or metastatic triple-negative breast cancer defined as negative for estrogen receptor, progesterone receptor and HER2.
+HER2 negative disease, and a known positive hormone receptor status (common breast cancer classification tests)
+Patients with hormone receptor-positive disease must have progressed on or following hormone therapy
+Estrogen receptor-positive and/or progesterone receptor-positive, HER2-negative breast cancer
+Patients must have estrogen and/or progesterone receptor positive histologically confirmed stage I-III adenocarcinoma of the breast
+PHASE I: Hormone receptor positive tumor defined as any positivity of estrogen or progesterone receptor
+PHASE II: Hormone receptor positive tumor defined as any positivity of estrogen or progesterone receptor
+Low grade disease positive for estrogen and progesterone receptors
+Patients with a known hypersensitivity reaction to 5-HT3 receptor antagonists or NK1 receptor antagonists
+Any receptor status
+Stage I-III estrogen receptor positive breast cancer (positive for estrogen receptor [ER] with positivity defined as immunohistochemical staining in >= 10% of cells) on adjuvant hormonal therapy with aromatase inhibitors (anastrozole, letrozole or exemestane)
+Folate receptor alpha positive tumor expression as defined in the protocol
+Hormone receptor status not specified
+Use of any chemopreventive agents (selective estrogen receptor modulators [SERM]) in the last 3 months
+Prior diagnosis of stage 0 to III breast cancer that is estrogen receptor negative, progesterone receptor negative with completion of definitive surgery, radiation therapy and/or chemotherapy
+Taken tamoxifen or other selective estrogen/progesterone receptor modulators (selective estrogen receptor modulators[SERMs]/selective progesterone receptor modulators [SPRMs]) within two years prior to entering study or been required to discontinue SERM therapy due to thromboembolic or uterine toxicity
+Histologically confirmed advanced solid tumors with HR-positivity defined as > 1% on immunohistochemistry (estrogen receptor-positive with or without positivity for the progesterone receptor) and HER2/neu positivity (3+ on IHC and/or 2+ on IHC and FISH amplified, or by v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2 [ERBB2] mutation on next generation sequencing)
+Postmenopausal, Estrogen-receptor positive and/or Progesterone-receptor positive breast cancer
+Estrogen receptor- or progesterone receptor-negative disease
+Estrogen receptor positive breast cancer
+Diagnosed with hormone receptor-positive breast cancer and prescribed endocrine hormonal treatment (EHT)

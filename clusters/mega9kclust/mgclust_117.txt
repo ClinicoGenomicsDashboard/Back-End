@@ -1,0 +1,10 @@
+Cluster 78: reaction antibody monoclonal hypersensitivity severe history mab components infusion allergy 
+Cluster 144: pembrolizumab nivolumab hypersensitivity prior dose treatment received therapy known mk 
+Cluster 467: mannitol hypersensitivity boron bortezomib azacitidine known suspected allergy velcade history 
+Cluster 525: talazoparib components hypersensitivity known capsule suspected bmn treatment previous prior 
+Cluster 684: reaction allergic history prior hypersensitivity involved known severe protocol drug 
+Cluster 851: component hypersensitivity known formulation allergy bevacizumab study reaction history drug 
+Cluster 958: components allergy history drug study known hypersensitivity nivolumab treatment reaction 
+Cluster 1597: fentanyl allergy history propofol opioids patches transdermal tolerant lidocaine midazolam 
+Cluster 1685: formulation components allergy hypersensitivity identified previously study subject treatment known 
+Cluster 2223: formulations allergy components hypersensitivity identified previously component study known cobimetinib 

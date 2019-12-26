@@ -1,0 +1,32 @@
+Patients must have measurable or evaluable disease
+74.0
+Participants must have measurable or evaluable disease
+130.0
+Radiologically measurable or clinically evaluable disease
+1120.0
+Patients must have measurable or evaluable disease
+68.0
+Patients must have measurable or evaluable disease
+330.0
+Part A: Patients must have either measurable or evaluable disease
+154.0
+Parts A & C: patients must have either measurable or evaluable disease
+484.0
+Parts B, D & E: patients must have measurable disease for Parts B1-B6, D1-D5, E3 and E4; melanoma patients in Part B7 must have either measurable or evaluable disease; neuroblastoma patients in Parts B8 and D6 must be evaluable for MIBG response without evidence of RECIST measurable lesions
+484.0
+Disease status:* Part A: Patients must have either measurable or evaluable disease* Parts B and C: Patients must have measurable disease on imaging
+81.0
+CA-125 only disease without RECIST 1.1 measurable or otherwise evaluable disease
+549.0
+Patients must have measurable or evaluable disease
+46.0
+Patients must have either measurable or evaluable disease
+67.0
+Patients must have either measurable or evaluable disease
+65.0
+Patients must have either measurable or evaluable disease
+36.0
+Patients must have measurable or evaluable disease
+38.0
+Patients must have either measurable or evaluable disease
+51.0

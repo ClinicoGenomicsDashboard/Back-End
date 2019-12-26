@@ -1,0 +1,78 @@
+Platelet count >= 100,000/mm�
+700.0
+Platelet (PLTs) count >= 100,000/mm^3 obtained =< 21 days prior to registration
+360.0
+Platelet count >= 100,000 cells/mcL
+155.0
+Peripheral platelet count (PLT) >= 75,000/mm^3
+48.0
+Platelet count >= 100,000/mm^3
+1120.0
+Platelet count > 100,000
+224.0
+Platelet count >= 100,000/mL within 28 days prior to registration
+1900.0
+STEP I: Untransfused platelet count >= 75,000 cells/mm^3 (obtained within 28 days prior to randomization)
+1080.0
+Platelet count < 100 x 10^9/L
+45.0
+Platelet count > 100,000/mm^3
+2060.0
+Platelet count >= 50 x 10^9/L
+97.0
+Platelet count >= 75,000/mm^3 within 90 days prior to randomization
+150.0
+Platelet count >= 100,000/mm^3
+34.0
+Platelet count >= 100,000 mcl obtained within 28 days prior to sub-study registration
+10000.0
+Platelet count >= 100 x 10^9/L
+250.0
+Platelet count >= 100 x 10^9/L measured within 28 days prior to randomization
+1500.0
+Platelet count >= 100,000/mm^3
+20.0
+Platelet count >= 100,000/mcL
+600.0
+Patients on Part C with acute lymphoblastic leukemia: platelet count >= 20,000/mm^3 (may receive platelet transfusions); these patients must not be known to be refractory to red cell or platelet transfusion
+148.0
+Platelet count > 50,000/mm^3
+125.0
+Platelet count >= 75,000/mm^3
+30.0
+Platelet count >= 100,000/mm^3
+420.0
+Within 6 weeks prior to randomization: Platelet count must be >= 100,000/mm^3
+990.0
+Platelet count >= 100,000/mm^3
+195.0
+Re-registration: platelet count >= 100,000/mm^3
+195.0
+Within 14 days of registration: Platelet count >= 75,000/mm^3
+110.0
+Platelet count >= 100,000/mm^3
+69.0
+Platelet count >= 100,000/mm^3
+130.0
+Platelet count >= 100,000/mm^3
+45.0
+Platelet count >= 75,000/mcL; must be obtained within 28 days prior to registration
+180.0
+Platelet count >= 100,000/ mL within 21 days prior to registration
+333.0
+Platelet count >= 100,000/mm^3
+137.0
+CLINICAL/LABORATORY CRITERIA: Platelet count >= 100,000/mcL; these results must be obtained within 28 days prior to registration
+53.0
+Platelet count must be >= 100,000/mm^3 within 28 days before randomization
+348.0
+Platelet count >= 100,000/mm^3, within 4 weeks of randomization
+766.0
+Platelet count >= 100,000/mm^3
+124.0
+Platelet count >= 100,000 mm^3; platelets >= 75,000 required for patients who received cycle 1 of mFOLFOX6 prior to registration
+700.0
+Platelet count < 100 x 10^9/L
+98.0
+Platelet count >= 75,000/mm^3
+324.0

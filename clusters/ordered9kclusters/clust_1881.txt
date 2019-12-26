@@ -1,0 +1,88 @@
+Patients known to have BRCA1/2 gene mutations (testing for gene mutations is not required)
+Patients must have HER-2 amplification as determined by central testing (3+ or 2+ by immunohistochemistry and HER-2 gene amplification by in situ hybridization with a ratio of HER-2 gene signals to centromere 17 signals >= 2.0)
+Has received previous treatment with another agent targeting the lymphocyte-activation gene 3 (LAG-3) receptor.
+Has a tumor that contains a nonsynonymous mutation, insertion, or deletion in the TP53 gene determined previously or at screening.
+All patients must have at least two of the following diagnostic criteria for NF1, and/or a pathogenic NF1 gene mutation demonstrated in peripheral blood-derived DNA:
+HER2-positive (immunohistochemistry score 3+) or ERBB2- amplification (ratio ERBB2/centromeres >= 2.0 or mean gene copy number >= 6) on primary tumor or of metastatic or unresectable loco-regional biopsy.
+Have received prior gene therapy or therapy with cytolytic virus of any type
+Patients who have received prior surgery, gene therapy, or combination chemotherapy will be permitted if it has been at least 30 days since the last treatment
+CD4 gene count > 200/ul
+STRATUM A: Participants with a pathogenic somatic or known germline retinoblastoma (RB1) gene mutation
+STRATUM B: Participants with a pathogenic somatic or known germline retinoblastoma (RB1) gene mutation
+STRATUM C: Participants with a pathogenic somatic or known germline retinoblastoma (RB1) gene mutation
+Patients must have documented IDH1-R132 gene-mutated disease as evaluated by the site
+Subjects must have an IDH2 gene mutation (IDH2-R140 or R172) as determined by local laboratory result
+Previous treatment with investigational gene or chimeric antigen receptor therapy;
+Previous treatment with investigational gene or chimeric antigen receptor therapy.
+DNA damage repair deficiency as assessed centrally by a gene mutation biomarker panel (testing of de novo or archiaval tumor tissue (via central laboratory) or prior historical testing (with Sponsor approval) using the Foundation Medicine, FoundationOne® NGS gene panel test.
+Documented HER2 overexpression or gene-amplified tumor by a validated approved method
+Prior treatment with gene modified T cells
+Subjects must have one of the following: a. somatic mutations in human epidermal growth factor receptor (EGFR, HER2, HER3, and HER4); b. EGFR gene amplification (patients with 3+ results on immunohistochemistry testing for EGFR may be allowed to enroll if gene amplification results are unavailable); c. HER2 gene amplification (patients with 3+ results on immunohistochemistry testing for HER-2 may be allowed to enroll if gene amplification results are unavailable).
+Patients who have been treated on other protocols of genetically-modified T cells at the NIH only are potentially eligible under these conditions:\r\n* At least 6 months have elapsed since the last genetically-modified T-cell therapy that the patient received and there is no evidence of replication-competent retroviruses (evidence must be provided from prior NIH gene-therapy protocol principal investigator) and persisting genetically-modified T cells are not detectable in the patient’s blood (evidence must be provided by prior NIH gene-therapy protocol principal investigator)
+Part B: Relapsed or refractory primary CNS tumors with molecular alterations, including gene fusions, documented by a CLIA-approved lab prior to enrollment;
+Received any previous gene therapy using an integrating vector within 6 months
+Have received prior gene therapy or gene-modified cellular immunotherapy
+Previous treatment with investigational gene or cell therapy medicine products
+Patients who have been treated on other protocols of genetically-modified T cells at the NIH only are potentially eligible under these conditions:\r\n* At least 6 months have elapsed since the last genetically-modified T-cell therapy that the patient received and there is no evidence of replication-competent retroviruses (evidence must be provided from prior NIH gene-therapy protocol principal investigator) and persisting genetically-modified T cells are not detectable in the patient’s blood (evidence must be provided by prior NIH gene-therapy protocol principal investigator)
+Subjects with a malignancy that contains a non-synonymous mutation, insertion, or deletion in the TP53 gene determined previously or at screening
+Subjects must not have received prior gene therapy or gene-modified cellular immunotherapy; subject may have received, however, non-gene-modified autologous T-cells in association with an anti-myeloma vaccine (e.g., human telomerase reverse transcriptase [hTERT] or melanoma-associated antigen 3 [MAGEA3]) or vaccination against infectious agents (e.g., influenza or pneumococcus) as was performed on our previous studies
+Patient must not have had prior exposure to gene vector delivery products within 3 months.
+Patients who have received a vaccine for HIV-1 or any prior gene modified cell product, at any time
+Is willing to undergo malignancy genotyping for TP53 gene mutation, insertion, or deletion at screening.
+Has a malignancy that contains a non synonymous mutation, insertion, or deletion in the TP53 gene determined previously or at screening.
+Prior gene therapy
+Must have MLL gene rearrangements documented by split-signal fluorescence in situ hybridization and meets 1 of the following risk criteria:
+Previous treatment with gene therapy
+Patient must have confirmed HER2 overexpression or gene-amplified tumor
+HER2 with 0, 1+ or 2+ intensity on IHC and no evidence of amplification of the HER2 gene on ISH
+Had prior exposure to gene vector delivery products within 6 months
+Prior gene therapy.
+Favorable biomarker profile defined by either wild type p53 gene sequence or less than 20% p53 positive tumor cells by immunohistochemistry
+Has received previous treatment with another agent targeting the Lymphocyte-activation gene 3 (LAG-3) receptor
+Patients who are receiving any other investigational agents require a 4 week washout period; patients who have received cellular or gene therapy at any time are not eligible
+Prior gene transfer therapy or prior therapy with a cytolytic virus of any type
+Receipt of a vaccine for HIV-1 or any prior gene modified cell product, at any time
+NSCLC patients must meet criteria for amplification of the MET gene locus, defined MET mutations, or rearrangements involving the AXL or MET gene locus or;
+Patients with tumor types such as HNSCC, papillary renal carcinoma, gastric adenocarcinoma, and other solid tumors must meet criteria for amplification of the MET gene locus, defined MET mutations, or rearrangements involving the AXL or MET gene locus
+Test result showing genetic change in MET tumor gene
+Subjects must have documented IDH1 R132 gene-mutated advanced hematologic malignancy based on local or central evaluation.
+Patient must have histologically or cytologically confirmed solid tumor, including glioma, with documented IDH1 and/or IDH2 gene-mutation. Patients in the dose escalation phase must have disease that has recurred or progressed following standard therapy and/or therapy with an inhibitor of mutant IDH1 and/or IDH2, or that has not responded to this therapy. Patients in the expansion phase may have previously untreated disease
+Prior treatment with gene therapy product
+Treatment with any prior gene therapy product
+Documented HER2 overexpression or gene-amplified tumor by a validated approved method
+Treatment with any prior gene therapy product
+HER-2 positive BC as defined by an immunohistochemistry score of 3 or gene amplified by in-situ hybridization as defined by a ratio of greater than or equal to (>=) 2.0 for the number of HER2 gene copies to the number of chromosome 17 copies
+Diagnosis of one of the following: Part 1 Only: NUT Midline Carcinoma based on ectopic expression of NUT protein as determined by IHC and/or detection of NUT gene translocation as determined by FISH. Subjects may be treatment naïve or have had prior therapy; SCLC, CRC, NB, TNBC, ER positive BC, CRPC, NSCLC and any other solid tumor which has been confirmed by clinical testing to be MYCN amplified (defined as a MYCN gene copy number gain of >=5). Subjects should have tumor progression after receiving at least one prior standard/approved chemotherapy, or where there is no approved therapy, or where standard therapy is refused. Part 2 only: NUT Midline Carcinoma as diagnosed by the Central Laboratory. Subjects may be treatment naïve or have had prior therapy. SCLC, CRPC, TNBC and ER+BC .
+Prior therapy with gene modified cells
+Prior gene therapy treatments or prior therapy with cytolytic virus of any type
+Documentation of HER2 overexpression or gene amplification, in the invasive component of either the primary tumor or metastatic disease site as defined as: 3+ by Immunohistochemistry (IHC) and/or
+HER2/neu gene amplification by fluorescence, chromogenic, or silver in situ hybridization [FISH, CISH or SISH;>=6 HER2/neu gene copies per nucleus or a FISH, CISH, or SISH test ratio (HER2 gene copies to chromosome 17 signals) of >=2.0 OR HER2/chromosome 17 ratio <=2.0 with average HER2 copy number >=6 signals/cell nucleus]
+Dose Expansion: Chondrosarcoma a. Subjects must have IDH1 gene-mutated chondrosarcoma that is either locally advanced or metastatic and not amenable to complete surgical excision.
+Subjects must have documented IDH1 gene-mutated disease based on local test evaluation. (Centralized testing will be performed retrospectively.)
+Prior treatment with any gene therapy product
+Subjects must have documented IDH2 gene-mutated disease:
+Over-expression by immunohistochemistry (IHC) with score of 3+ (in > 30% of invasive tumor cells) AND/OR HER2 gene amplification (average of > 6 HER2 gene copies per nucleus or a FISH ratio [HER2 gene copies to chromosome 17 signals] of >= 2.0), according to guidelines and in keeping with past eligibility for ratio of >= 2.0 rather than the ratio of > 2.2 required by new guidelines
+positive for translocation or inversion event involving the ALK gene locus
+mutations of amplifications involving the c-Met gene but not the ALK gene
+Patient must have either mutation or amplification of c-KIT gene tested by commercially available molecular or gene sequencing techniques
+Prior treatment with any gene therapy product
+Prior therapy with IL-12 or prior gene therapy.
+LAPATINIB DITOSYLATE ARM: Patients must have one of the following as determined by analysis of the primary tumor or a metastatic site in a CLIA certified laboratory:\r\n* Human epidermal growth factor receptor 2 (ERBB2) mutation or\r\n* ERBB2 gene amplification by FISH (gene to chromosome ration > 2)
+Documentation of HER2 overexpression or gene amplification in the invasive component of either the primary tumor or metastatic disease site defined as:
+HER2/neu gene amplification by fluorescence, chromogenic or silver in situ hybridization [FISH, CISH or SISH; >6 HER2/neu gene copies per nucleus or a FISH, CISH or SISH HER2 gene copies to chromosome 17 signal ratio of ?2.0]
+Documented IDH2 gene-mutated disease based on local site testing
+Test results showing genetic change in tumor gene for CREBBP and/or EP300
+Prior receipt of gene therapy.
+Availability of histological material (primary tumor or metastases) for review of the diagnosis and demonstration of PAX8-PPARgamma fusion gene
+ER+/HER2+ breast, ovarian, cervical, endometrial cancer, or other solid cancers, resistance to standard therapies with a PIK3CA gene mutation (Part C), AKT1 gene mutation (Part D) or a dysregulatory aberration on the PIK/AKT pathway (Part D), advanced or metastatic ER+ positive breast cancer that has an AKT1 gene mutation (Part E) or advanced or metastatic ER+ positive breast cancer that has a PTEN gene mutation (Part F).
+Any prior exposure to gene vector delivery products
+Prior therapy with IL-12 or prior gene therapy
+Subjects have had their PIK3CA gene mutation status assessed prior to enrolling into the study
+Hematologic malignancy associated with a poor prognosis or other diagnosis for which hematopoietic cell therapy (allogeneic or autologous, including gene therapy) is indicated
+DONOR: Autologous or allogeneic gene modified cells allowed
+positive for the ALK fusion gene (test provided by a central laboratory)
+Any previous gene therapy using an integrating vector.
+Prior treatment with any prior gene therapy product
+Evidence for clonal T-cell receptor gene rearrangement (obtained within 1 year prior to study drug administration). CTCL-Specific:
+Documentation of a TP53 gene mutation by next generation sequencing (NGS) based on central or local evaluation
+Confirmed HER2 overexpression or gene-amplified tumor

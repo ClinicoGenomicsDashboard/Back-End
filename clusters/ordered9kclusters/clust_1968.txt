@@ -1,0 +1,1066 @@
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin ? 10g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin 8-13 g/dL (patients with hemoglobin > 13 g/dL are excluded)
+Hemoglobin >= 9.0 g/dL
+Hemoglobin < 10 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin < 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 8.0 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin 9 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin ? 9.6 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 10.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ?90 g/L
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 10
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 8 g/dL
+Hemoglobin ? 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9 g/dL
+hemoglobin must be ?10 g/dL.
+Hemoglobin ? 9 g/dL
+Hemoglobin 9 g/dl or more
+Hemoglobin ? 8.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 10.0 g/dL
+Hemoglobin >= 9 g/dL
+hemoglobin: ? 9 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin < 90 g/L (< 9 g/dL).
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dl
+Hemoglobin ?9 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin >= 9g/dL (women) or >= 11g/dL (men)
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin <90 g/L
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin > 9.0 g/dL
+ARM 2 - A: Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 8.5 g/dl
+Hemoglobin ?9 g/dL
+Hemoglobin >= 10.0 g/dL
+Hemoglobin ?9.0 g/dL;
+Hemoglobin >= 10.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dl
+Hemoglobin ? 9 g/L.
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 mg/dL
+Hemoglobin ? 9.0 g/dL.
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 7.0 g/dl
+Hemoglobin >9.0 g/dl
+Hemoglobin > 8.0 g/dl
+Hemoglobin ?9 g/dL
+Hemoglobin >= 12 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9 mg/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 8.0 g/dl
+Hemoglobin > 10 g/dl
+Hemoglobin >= 9.0g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin ? 9.0g/dL
+Hemoglobin >= 9
+Hemoglobin >= 9.0 g/dL.
+Hemoglobin >= 8g/dl.
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 9 g/dL.
+Hemoglobin above 9 g/dl
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 9 g/dL.
+Hemoglobin ? 9 g/dL
+Hemoglobin ? 9.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin less than 9 g/dL
+Hemoglobin >= 9.0 g/dL.
+Hemoglobin >= 8 g/dL
+Hemoglobin at least 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0g/dL.
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 8.0 g/dL
+Hemoglobin >= 10.0 g/dL
+Hemoglobin < 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin* ? 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 7 g/L
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 8.0 g/dL
+Hemoglobin ? 8 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 9 g/dL.
+Hemoglobin > 9 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9.0 g/dl
+Hemoglobin > 8.0 g/dl
+Hemoglobin >= 9 g/dl
+Hemoglobin > 9 g/dL.
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 9 g/dL.
+Hemoglobin >= 9.0 g/dl (prior to biopsy)
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 7 g/dL
+Hemoglobin >= 9g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL.
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9.0 g/dL, at the time of enrollment
+Hemoglobin >= 10.0 g/dl
+Hemoglobin >= 11.0 g/dL.
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 10.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin >= 9 g/dL
+STUDY TREATMENT: Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 9.0 g/dl
+Hemoglobin > 9 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 10.0 g/dl
+Hemoglobin >= 9.0 g/dL
+hemoglobin ? 9 g/dL;
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin =< 9 g/dL
+Hemoglobin >= 9g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 8.0 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >10 mg/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL.
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin < 9 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin > 8 g/dL
+Hemoglobin >= 10.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.5 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10g/dL
+Hemoglobin < 9.0 g/dL
+Hemoglobin ?8 g/dL
+Hemoglobin >= 10.0 g/dl
+Hemoglobin > 9 g/dL
+Hemoglobin >= 8.5 g/dl
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ? 9.0 g/dl;
+Hemoglobin >= 9 mg/dL
+Hemoglobin >= 10.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dl
+Patients must have a hemoglobin >= 9 g/dL
+Hemoglobin >= 10.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 8g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin < 9.0 g/dL
+Hemoglobin   < 9.0 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin > 8.0 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin < 9 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 90 g/L
+Hemoglobin =< 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 7.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin < 90 g/L
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin < 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin < 10.0 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin ? 9 g/dL (90 g/L)
+Hemoglobin >= to 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dl
+Hemoglobin >= 9g/dl
+Hemoglobin >= 8 g/dL
+Hemoglobin < 10.0 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+PHASE I: Hemoglobin > 10 g/dL
+Hemoglobin ? 9.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 7.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 mg/dl
+Hemoglobin ?9 mg/dL
+Hemoglobin >= 90 d/L (or >= 9g/dL)
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 7 mg/dL
+Hemoglobin < 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin above 9 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin > 8 g/dL
+Hemoglobin > 8.0
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 mg/dL
+Hemoglobin of >= 9.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL or >= 90 g/L
+Hemoglobin >= 9.5 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin < 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin of >= 10.0 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dl
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin (Hbg) > 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL or >= 90 g/L
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9.5 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin < 90 g/L
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin < 8.0 g/dL
+Hemoglobin >= 8 g/dl
+Hemoglobin >/= 10.0g/dL
+Hemoglobin ? 10 g/dL
+hemoglobin ? 9 g/dL
+Hemoglobin ? 10g/dl
+Hemoglobin > 8 g/dL
+hemoglobin > 8 g/dl
+Hemoglobin <9g/dL
+Hemoglobin >9 g/dL.
+Hemoglobin < 9 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin ? 7 g/dL
+Hemoglobin > 9 g/dL.
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin < 8.0 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 10 g/dl
+Hemoglobin ?9.0 g/dL
+Hemoglobin ? 8 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin ?9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 8 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ?9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ? 9 g/dL ? 2 weeks
+Hemoglobin >= 9.5 g/dL
+Hemoglobin >= 9.0 g/dL.
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 7 g/dL
+Hemoglobin^3 10g/dL
+Hemoglobin >= 8.0 g / dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL or equivalent
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 90 g/L
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.5 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 90 g/L
+Hemoglobin > 9.0 g/dL
+Hemoglobin 9 g/dl or more
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 8 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10.0 g/dL
+Minimum hemoglobin of 9 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9 mg/dl
+Hemoglobin > 8.0 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin > 11g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin must be >= 10 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin =< 9
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin ? 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin ?8.0 g/dL;
+Hemoglobin > 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin > 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin ?9 g/dL
+hemoglobin >8.0 g/dL
+Hemoglobin > 8 g/dL (> 80 g/L)
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin ?9 mg/dL
+Hemoglobin > 9 mg/dL
+Hemoglobin ? 9g/dL
+Hemoglobin at least 9 g/dL
+Hemoglobin ? 8 g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 8.0 g/dL
+Hemoglobin ? 8.0 g/dl
+Hemoglobin ? 8.5 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 11.0 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 10.0 g/L
+Hemoglobin >9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ?9 g/dL
+Hemoglobin < 9 g/dL
+B-Hemoglobin ?90 g/L
+Hemoglobin > 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin: >= 9 mg/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin less than 10.0 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin ? 10.0 g/dL
+Hemoglobin* > 9.0 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9.0 g/dl
+Hemoglobin < 8 g/dL
+Hemoglobin >= 8 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8.0 g/dl
+Hemoglobin >= 9.0 g/dL.
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin < 9.0 g/dl
+Hemoglobin > 9.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin > 8.0
+Hemoglobin >= 9.5 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dl
+Subjects with a hemoglobin < 8.0 g/dL
+Hemoglobin: ? 9 g/dL
+Hemoglobin < 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 10 g/dl
+Hemoglobin >8.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin > 9.0 g/dL
+hemoglobin ? 9 g/dL
+Hemoglobin >= 10.0 g/dl
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin ?9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10.0 g/dl
+Patients with a hemoglobin of less than 12%
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin =< 8.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin ?10 g/dL
+Hemoglobin >= 8 g/dl
+Hemoglobin ?9 mg/dL.
+Hemoglobin < 8 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ?10 g/dl.
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 10g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin < 9.0 g/dL
+Hemoglobin >= 9.0/dL
+Hemoglobin >= 9 g/dL within 4 weeks of enrollment
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 8.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+PART B: Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin > 8 mg/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 10 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dl
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 9 g/dL or >= 90 g/L
+Hemoglobin >= 9 g/dL or >= 90 g/L
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dl
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin < 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 mg/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin at least 10.0 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin: >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 8.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 10 g/dl
+Hemoglobin > 10 g/dL
+Hemoglobin >= 8.0 g/dl
+Hemoglobin > 9 g/dL
+Hemoglobin >= 8.5 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 7.0 g/dl
+Hemoglobin >= 9.0 g/dl
+Hemoglobin ?8.0 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin < 8.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin ?9 g/dL,
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin > 9 g/dL\r\n* For patients enrolled to the Phase 1-T portion of the protocol, the hemoglobin should be >= 10 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 12 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ? 8 g/dL
+Hemoglobin > 9 g/dl
+Hemoglobin =< 9.0 g/dl
+Hemoglobin < 8.0 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 8.5 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin ?9 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin of at least 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin of 7
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 8.0 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin ?9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10.0 g/dl
+Hemoglobin < 9.0 g/dl
+Hemoglobin > 8.0 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin ? 8.0 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin >= 100 g/L (>= 10 g/dL)
+Hemoglobin > 9.0 g/dl
+Hemoglobin >= 8 g/dL
+Hemoglobin: >= 9 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 10
+Hemoglobin > 8.0 g/dl
+Minimum hemoglobin of 9 g/dL
+Hemoglobin: >= 10 g/dl
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin < 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin ? 10.0 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 9.0 g/dl
+Hemoglobin <8.0 g/dL
+Hemoglobin >= 8 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin <8 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin must be >= 9.0 mg/dL
+Hemoglobin: >= 8 g/dl
+Hemoglobin > 9.0 g/dl
+Hemoglobin >= 11.0 g/dL
+Hemoglobin less than 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin <10 g/dL,
+Hemoglobin >= 9.0 g/dL
+A hemoglobin < 10 g/dL and ? 8 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin >= 10
+Hemoglobin ? 9.0 g/dL;
+Hemoglobin >= 8
+Hemoglobin ? 10 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin <10.0 g/dL.
+Hemoglobin >= 9.0 g/dl
+Hemoglobin > 8.0 g/dL
+Hemoglobin < 9.0 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin must be ? 8 g/dL.
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >=9 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 9 g/dl
+Hemoglobin > 9 g/dl
+Hemoglobin ? 9.0 g/dL
+Hemoglobin <4.0 g/dL
+Hemoglobin ?9 mg/dL.
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 8.5 g/dl
+hemoglobin ?9 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin < 9.0 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 6 g/dL
+Hemoglobin >= 8.0 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin ? 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 8.0 g/dl
+Hemoglobin ? 10g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 8.0 g/dl
+Hemoglobin >=10.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin ? 8 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin =< 9.0 g/dl
+Hemoglobin >= 8 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+hemoglobin > 10 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin >= 10.0 g/dl
+hemoglobin of >= 10.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 8.0 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 10 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 90 g/L
+Hemoglobin > 8.0 g/dl
+Hemoglobin > 8.0 g/dl
+Hemoglobin >= 10 g/dl
+Hemoglobin > 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin < 9.0 g/dl
+Hemoglobin >= 9.0 g/dl
+Hemoglobin >= 9.0 g/dL
+Hemoglobin < 9 g/dL
+Hemoglobin >= 8g/dL
+Hemoglobin >= 8 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 11 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin > 9.0 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 8 g/dL (>= 80 g/L)
+Hemoglobin >= 9 g/dL
+Hemoglobin <9 g/dL
+Hemoglobin >= 90 g/L (or >= 9 g/dL)
+Hemoglobin >= 9 mg/dL
+Hemoglobin levels < 6 g/dL
+Hemoglobin >= 7.5 g/dL and =< 13 g/dL
+Hemoglobin ? 10.0 g/dL
+Hemoglobin >= 10.0 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 11.5 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 10 g/dL
+Blood hemoglobin >= 12.0 g/dL
+Hemoglobin > 7 g/dL
+Hemoglobin < 9 g/dl
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 9 g/L
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin ? 8 g/L
+Hemoglobin of =< 8 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin >= 110 g/L
+Hemoglobin >= 10 g/dl
+Hemoglobin > 10 g/dL
+Hemoglobin >= 9.0 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin < 10 g/dL
+Hemoglobin >= 9 g/dl
+Hemoglobin >= 9.0 mg/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10 g/dL
+Hemoglobin > 10 g/dL
+Hemoglobin > 8 g/dL
+Hemoglobin > 9 g/dl
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 10.0g/dL
+Hemoglobin < 8 g/dL
+Hemoglobin ? 9 g/dL
+Hemoglobin > 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 8 g/dL
+Hemoglobin >= 9 g/L
+Hemoglobin >= 9 g/dL
+Hemoglobin >= 9 g/dL
+Anemia (hemoglobin < 12.0 g/dL)
+Hemoglobin >= 9 g/dL
+Hemoglobin ? 9.0 g/dL
+Hemoglobin > 100 g/L
+Hemoglobin ? 9.0 g/dL;
+Hemoglobin >= 10 g/dL
+Hemoglobin ?9.0 g/dL
+Hemoglobin >= 9 g/dl
+hemoglobin ? 9.0 g/dL,

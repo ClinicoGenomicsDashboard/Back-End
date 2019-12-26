@@ -1,0 +1,567 @@
+CD4 counts: \r\n* For Stratum 1: CD4+ cell count greater than 200 cells/mm^3 obtained within 2 weeks prior to enrollment at any United States (U.S.) laboratory that has a clinical laboratory improvement amendments (CLIA) certification or its equivalent\r\n* For Stratum 2: CD4 cell count between 100-200 cells/mm^3 obtained within 2 weeks prior to enrollment at any U.S. laboratory that has a clinical laboratory improvement amendments (CLIA) certification or its equivalent\r\n* Expansion Cohort: CD4 cell count for this cohort will be specified once Stratum 1 and Stratum 2 have completed enrollment\r\n* Solid Tumor Expansion Cohort: CD4+ cell count greater than 200 cells/mm^3 obtained within 2 weeks prior to enrollment at any U.S. laboratory that has a clinical laboratory improvement amendments (CLIA) certification or its equivalent\r\n* cHL Cohort: CD4 cell count of at least 100 cells/mm^3
+Presence of BRAFV600E in tumor tissue as previously determined by a local assay at any time prior to Screening or by the central laboratory
+Other baseline laboratory evaluations, listed in Section 6.0, must be done within 14 days prior to randomization.
+Laboratory values adequate for patient to undergo surgery, including:
+Patient must have TCCs tumors harboring a TSC1 or TSC2 mutation identified by a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory
+Positive for translocation or inversion events involving the ALK gene locus (e.g. resulting in echinoderm microtubule associated protein like 4 [EML4]-ALK fusion) as determined by the Vysis Break Point fluorescence in situ hybridization (FISH) assay and defined by an increase in the distance between 5’ and 3’ ALK probes or the loss of the 5’ probe; this must have been performed:\r\n* By a local Clinical Laboratory Improvement Amendments (CLIA) certified laboratory: report must indicate the results as well as the CLIA number of the laboratory which performed the assay; tissue must be available for submission for central, retrospective confirmation of the ALK fusion status via ALCHEMIST-SCREEN (ALLIANCE A151216) OR\r\n* Patient registered to and the ALK fusion status performed centrally on the ALCHEMIST-SCREEN (ALLIANCE A151216)
+Patients must have BRAF V600E or BRAF V600K mutation identified by a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory; acceptable analytic techniques include but are not restricted to deoxyribonucleic acid (DNA) sequencing, pyrosequencing, polymerase chain reaction (PCR), melting point assays, and immunohistochemistry
+Tissue must have been determined to have local 1p/9q co-deletion and IDH mutation prior to submission for central path review\r\n* Tumor tissue must show co-deletion of chromosomes 1p and 19q; for eligibility, the 1p/19q analysis results will be accepted from the local site, as determined by either a locally available or reference laboratory (for US, must be Clinical Laboratory Improvement Act [CLIA] certified); acceptable methods for determination of 1p/19q loss include fluorescent in-situ hybridization (FISH), by genomic sequencing or methylomic analyses; US and Canadian sites must send a copy of the official report to the pathology coordinator and quality assurance specialist (QAS)\r\n* Tumor must also show evidence of IDH mutation by immunohistochemistry or genomic analyses; this should be performed at the local site (US: performed in a CLIA certified laboratory); the site must send a copy of the official report to the pathology coordinator and QAS
+Liver function tests (including ALT, AST, and total bilirubin), outside of the range of local laboratory normal at Screening
+Histologically confirmed UC of the bladder, urethra, ureter or renal pelvis with positive retinoblastoma (Rb+)/CDKN2A- based on immunohistochemistry (IHC) of tissue blocks or unstained slides performed within a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory at University of North Carolina (UNC); if stage I of original cohort indicates futility, molecular requirement for eligibility will change to Rb+/CCND1 overexpression (also based on IHC)
+Laboratory and medical history parameters not within protocol-defined range
+Acceptable laboratory parameters and adequate organ reserve
+Laboratory data as specified below:
+Pretreatment cytogenetics must be performed on all patients; collection of pretreatment specimens must be completed within 14 days prior to registration to S1312; specimens must be submitted to the site's preferred Clinical Laboratory Improvement Amendments (CLIA)-approved cytogenetics laboratory; reports of the results must be submitted as described; note that cytogenetics are required at other time points
+Patients must meet the following laboratory criteria:
+Formalin fixed paraffin embedded tumor tissue (preferably from the most recent recurrence) must be available to assess Rb1 protein status prior to enrollment on phase I or surgical study; if the subject has results from prior Rb1 IHC testing in a Clinical Laboratory Improvement Act (CLIA)-certified laboratory the requirement for screening to assess Rb1 protein status is waived; in these cases, patients will not be required to sign a screening consent
+Screening laboratory values must meet the following criteria and should be obtained within 30 days (or 45 days if a biopsy is repeated) prior to study treatment:
+All patients with breast and gastric/gastroesophageal junction cancers should have HER2 testing performed using a FDA approved test in a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory.
+Laboratory test values at screening outside of the normal range and judged clinically significant by the investigator
+Has a tissue sample adequate for programmed death-ligand 1 (PDL1) testing as determined by central laboratory testing prior to study allocation.
+Acceptable laboratory parameters
+Participants must have PD-L1 IHC testing with results performed by a central laboratory during the screening period
+The following laboratory results must be met during screening and also immediately before study drug administration on Cycle 1 Day 1:
+HER2 positive patients by local laboratory testing.
+EXCLUSION CRITERIA FOR SECOND-LINE THERAPY: Patients with chronic hepatitis C virus may be enrolled if there is no clinical/laboratory evidence of cirrhosis AND the patient’s liver function tests fall within the parameters
+EXCLUSION CRITERIA FOR THIRD-LINE THERAPY: Patients with chronic hepatitis C virus may be enrolled if there is no clinical/laboratory evidence of cirrhosis AND the patient’s liver function tests fall within the parameters
+Out of range laboratory values for measures of hepatic and renal function, electrolytes and blood counts
+Patient having out of range laboratory values defined as: 1) Insufficient bone marrow function at screening:
+Patient having out of range laboratory values defined as:
+Have evidence of any other significant clinical disorder or laboratory finding that, as judged by the investigator, makes it undesirable for the patient to participate in the study
+Patient must have adequate organ function as indicated by the following laboratory values independent of transfusion within 2 weeks:
+Laboratory parameters:
+Any of the following laboratory abnormalities:
+Bilirubin =< 1.5 x laboratory normal
+Adequate laboratory parameters
+Patient having out of range laboratory values defined as:
+Laboratory values at the Screening Visit:
+Must have the following laboratory values, obtained less than or equal to 7 days prior to registration:
+Participants must have histologically confirmed advanced malignancy that is metastatic and/or unresectable and/or recurrent with confirmed inactivating mutations in TSC1 or TSC2 or activating MTOR mutations, identified in any Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory; all genetic findings must be reviewed by the study principal investigator (PI), Dr. David Kwiatkowski, prior to study entry
+Uric acid if elevated, corrected to within laboratory range prior to dosing
+Potassium >= 3.3 mmol/L or at/above the lower limit of normal for the performing laboratory
+Magnesium >= 1.4 mg/dL or at/above the lower limit of normal for the performing laboratory
+Patients must have histologically confirmed, BRAF-mutant (V600E/K) melanoma (molecularly confirmed using validated, commercially available assay performed in a Clinical Laboratory Improvement Act [CLIA]-approved laboratory) that is metastatic or unresectable and for which standard curative measures do not exist or are no longer effective\r\n* If test at CLIA-certified lab used a non-Food and Drug Administration (FDA) approved method, information about the assay must be provided; (FDA approved tests for BRAF V600 mutations in melanoma include: THxID BRAF Detection Kit and Cobas 4800 BRAF V600 Mutation Test)
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Uric acid must be within laboratory normal range
+Additional Laboratory Requirements ANC ?1.0 x 109/L Hgb ?8 g/dL(transfusion permitted) Platelet count ?50.0 x 109/L
+Patients must have normal laboratory values as defined below:
+Laboratory and medical history parameters not within the Protocol-defined range.
+Subject's central laboratory values must fulfill the following requirements during Screening: Blood product transfusions and hematopoietic growth factors may not be used to meet eligibility criteria. Screening samples should not be collected within 14 days after subject receives a blood product transfusion or growth factors.
+Subject has any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study.
+RAS mutation per local assay at any time prior to Screening or by the central laboratory.
+MYD88 and CXCR4 mutated disease (determined by Treon laboratory or molecular diagnostics laboratory)
+Any condition, including the presence of laboratory abnormalities, which places the participant at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Any condition, including the presence of laboratory abnormalities, which places the participant at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Laboratory tests required for eligibility must be completed within 14 days prior study entry; baseline tumor measurements must be documented from tests within 28 days of study entry; other non-laboratory tests must be performed within 28 days of study entry
+INCLUSION - PROCUREMENT: CD5-positive tumor (result can be pending at this time); > 50% CD5 + blasts by flow cytometry or immunohistochemistry (tissue) assessed by a Clinical Laboratory Improvement Amendments (CLIA) certified flow cytometry/pathology laboratory
+Acceptable laboratory parameters
+Screening laboratory values must meet the following criteria:
+Adequate laboratory results including the following:
+Meets laboratory criteria for the following parameters: ANC, platelets, hemoglobin, total bilirubin, alkaline phosphatase, aspartate aminotransferase, alanine aminotransferase, BUN and creatinine.
+Histologic proof of melanoma reviewed and confirmed by the treating institution; the melanoma must have a documented BRAF V600E or BRAF V600K mutation by genotyping or immunohistochemistry (IHC) 12 performed by a Clinical Laboratory Improvement Act (CLIA) certified laboratory; at Memorial Sloan-Kettering (MSK), the diagnostic molecular pathology laboratory has developed and implemented a targeted capture-based next-generation deoxyribonucleic acid (DNA) sequencing assay, MSK-integrated mutation profiling of actionable cancer targets (IMPACT), to profile all protein-coding exons and selected introns from 410 oncogenes and tumor suppressor genes in formalin-fixed paraffin embedded tissues; MSK-IMPACT has been approved by the New York (NY) State Department of Health to be run as a clinical assay in the CLIA-compliant diagnostic molecular pathology laboratory; MSK-IMPACT is capable of detecting mutations, copy number alterations, and structural variations; BRAF exon15 was captured by the MSK-IMPACT panel and the c.1799T>A (p.V600E) mutation was fully validated as per New York State (NYS) requirements; detailed results of the validation of this mutation were included in the validation package submitted to NY State Department of Health
+All therapy should be dispensed at the primary institution; we encourage all imaging studies to be reviewed and reported by the primary institution; laboratory studies may be performed at a Clinical Laboratory Improvement Act (CLIA)-certified laboratory of the investigator’s choice
+Patient has adequate biological parameters as demonstrated by the following blood counts at baseline (obtained < 14 days prior to randomization; laboratory testing performed as part of standard of care prior to patient signature of informed consent for the study will be acceptable as baseline laboratory work as long as testing is performed < 14 days prior to randomization):
+Patient has the following blood chemistry levels at baseline (obtained < 14 days prior to randomization; laboratory testing performed as part of standard of care prior to patient signature of informed consent for the study will be acceptable as baseline laboratory work as long as testing is performed < 14 days prior to randomization):
+Patient not on anticoagulation has acceptable coagulation studies (obtained < 14 days prior to randomization; laboratory testing performed as part of standard of care prior to patient signature of informed consent for the study will be acceptable as baseline laboratory work as long as testing is performed < 14 days prior to randomization) as demonstrated by prothrombin time (PT) and partial thromboplastin time (PTT) below or within normal limits (+15%). Patients on anticoagulation must have coagulation values within the therapeutic range appropriate for the anti-coagulation indication.
+Patient has no clinically significant abnormalities on urinalysis results (obtained < 14 days prior to randomization; laboratory testing performed as part of standard of care prior to patient signature of informed consent for the study will be acceptable as baseline laboratory work as long as testing is performed < 14 days prior to randomization).
+Impaired baseline organ function as evaluated by out-of-range laboratory values
+Participant must meet the following criteria as indicated on the clinical laboratory tests:
+Participant meets the following criteria as indicated on the clinical laboratory tests:
+Stratum A: Newly diagnosed children (3-21 years old) with DIPG who are positive for the H3.3K27M mutation (positive testing in Clinical Laboratory Improvement Act [CLIA] laboratory) that underwent standard radiation therapy
+Screening clinical laboratory values as specified below:
+Laboratory parameters for vital functions should be in the normal range or not clinically significant.
+PROCUREMENT INCLUSION: CD30 positive tumor as assayed in a Clinical Laboratory Improvement Act (CLIA) certified pathology laboratory (result can be pending at this time)
+TREATMENT INCLUSION: CD30-positive tumor as assayed in a CLIA certified pathology laboratory
+Laboratory parameters: Hematology:
+Has thyroid function laboratory values within normal range
+Adequate safety laboratory values:
+Has acceptable, applicable laboratory parameters.
+Patients excluded for laboratory abnormalities or performance score ONLY may be enrolled on the study with the approval of the PI or designee
+Any of the following laboratory abnormalities:
+Acceptable laboratory results
+Patients must have available tumor molecular profiling from Clinical Laboratory Improvement Amendments (CLIA)-certified labs or have available archived tissue to be sent to such a laboratory in the context of this investigation
+Any condition including the presence of laboratory abnormalities, which places the patient at unacceptable risk if he/she were to participate in the study
+Laboratory requirements:
+Patient has out of range laboratory values defined as:
+Must meet the following clinical laboratory criteria at study entry:
+A documented deleterious gBRCA1/2m obtained in a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory, including but not limited to Myriad Genetics, either by multi-gene panels or individual testing, for cohort 1 patients prior to study enrollment; variants of uncertain significance (VUS) of BRCA1/2 are not considered deleterious; patients with VUS or deleterious mutation in other genes without gBRCA1/2m can be considered for cohort 2 or 3 or 5
+Hemoglobin < 9 g/dL at the screening visit; (NOTE: subject may not have received any growth factors or blood transfusions within seven days of the hematologic laboratory values obtained at the screening visit)
+Patients with laboratory evidence of pancreatitis are excluded.
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Inadequate end organ function as defined by specified laboratory values
+The following required Initial Laboratory Values should be obtained within 4 weeks of the start of treatment:
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study.
+Note: Hematology and other lab parameters that are =< grade 2 but still meet criteria for study entry are allowed. Furthermore, changes in laboratory parameters during the study should not be considered adverse events unless they meet criteria for dose modification(s) of study medication outlined by the protocol and/or worsen from baseline during therapy.
+Subject has the following laboratory values at Screening:
+Hemoglobin < 8 g/dL. Qualifying laboratory value must occur at most recent measurement before enrollment and must be no more than 14 days before enrollment. No transfusions are allowed within 72 hours before qualifying laboratory value
+Patients who have poor organ function as defined by laboratory parameters specified in the protocol.
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or, which confounds the ability to interpret data from the study
+Most recent laboratory values within 2 weeks prior to Week 1 Day 1 (W1D1) meet the following standards:
+Inadequate organ and marrow function as demonstrated by any of the following laboratory values. Transfusions intended to elevate any parameters below solely for the intent of meeting study eligibility are not permitted.
+Acceptable laboratory parameters
+Any diagnosis of autoimmune disease (confirmed by medical records or appropriate laboratory testing)
+Acceptable laboratory parameters
+Laboratory values must be no older than seven (7) days prior to the start of therapy; if a test that is repeated after registration and prior to therapy is outside the limits for eligibility, it must be rechecked within 48 hours prior to the start of therapy; if laboratory values still fail to meet eligibility criteria, the patient may not receive protocol therapy
+Known mutation of the IDH1 or IDH2 genes in the tumor\r\n* Documentation that no IDH1 or IDH2 mutations are present in the tumor by a Clinical Laboratory Improvement Amendments (CLIA) approved laboratory is required prior to initiation of study treatment
+NOTE: patients may not have received any growth factors or blood transfusions within seven days of the hematologic laboratory values obtained at the screening visit
+Tumors must have FGFR amplifications as determined by a Clinical Laboratory Improvement Act (CLIA) certified laboratory assay; patients with FGFR amplifications co-occurring with 11q amplification (CCND1, FGF3,4, 19 amplifications) are also eligible
+Any significant medical condition, laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study at clinician’s discretion and not otherwise stated below
+Adequate laboratory results including the following:
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Meet the clinical laboratory criteria as specified in the protocol
+Consent to MD Anderson companion laboratory protocol 2014-0938.
+Documented non-synonymous somatic mutation in NF1 in any tumor specimen or cell-free DNA assay by Clinical Laboratory Improvement Act (CLIA)-approved laboratory
+Consent to MD Anderson laboratory protocol PA13-0291 and LAB02-152.
+Patients must have vulvar HSIL as confirmed by pathology report from a Clinical Laboratory Improvement Act (CLIA)-certified laboratory
+Consent to MD Anderson laboratory protocol PA13-0291.
+Participants must have BRAFV600-mutation status known (molecularly confirmed using validated, commercially available assay performed in a Clinical Laboratory Improvement Act [CLIA] approved laboratory)\r\n* If test at CLIA-certified lab used a non-Food and Drug Administration (FDA) approved method, information about the assay must be provided; (FDA approved tests for BRAF V600 mutations in melanoma include: THxID BRAF Detection Kit and Cobas 4800 BRAF V600 Mutation Test)
+Any of the following clinical laboratory results during screening (i.e., within 28 days before the first dose of study treatment):
+Current or recurrent disease that could affect the action or disposition of IT-141, or clinical or laboratory assessments.
+Molecular identification of a KRAS mutation (codons 12, 13, or 61 mutations detected by sequencing) by a Clinical Laboratory Improvement Amendments (CLIA)-certified assay (source documentation required)
+Documented ALK-rearrangement (or ROS1 rearrangement for phase I only) break-apart fluorescence in situ hybridization (FISH) (in >= 15% or tumor cells), or next generation sequencing assay performed on tumor sample or cell-­free DNA in Clinical Laboratory Improvement Amendments (CLIA)-approved laboratory
+Patient must have the following laboratory values or have the following laboratory values corrected with supplements to be within normal limits before the first dose of ceritinib + trametinib:\r\n* Potassium\r\n* Magnesium\r\n* Phosphorus\r\n* Total calcium (corrected for serum albumin)
+Abnormal clinical laboratory values within 14 days prior to initiation of dosing, as indicated by:
+Laboratory requirements:
+Cohort 2 specific inclusion criteria: documented HER2 exon 20 mutation by a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory; eligible mutations include A775_G776insYVMA, G776_V777insVC, or P780_Y781insGSP, or any other in-frame exon 20 insertion mutation or point mutation including, but not limited to, L755S, G776V, and V777L
+Have all of the following results as part of screening laboratory assessments (results from either the central laboratory or a local laboratory can be used for qualification):
+Clinical laboratory values as specified below within 4 weeks before the first dose of study drug:
+Potassium, sodium, and total calcium (corrected only in the case of hypoalbuminemia) within normal limits of the local laboratory (screening values can be rechecked after electrolyte repletion and before the first dose of study medication, if necessary)
+Pathologically confirmed, mismatch repair-proficient adenocarcinoma of colorectum, who have received at least two prior lines of therapy in the metastatic setting\r\n* Mismatch repair proficiency can be assessed for eligibility by immunohistochemistry (intact expression of MLH1, MSH2, PMS2, and MSH6) or by molecular testing in a Clinical Laboratory Improvement Act (CLIA)-certified laboratory for microsatellite instability (0 or 1 microsatellites unstable)
+Any significant medical condition, laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study
+Participants must have histologically or cytologically confirmed squamous cell carcinoma of the oropharynx, hypopharynx, supraglottic larynx, nasal cavity, unknown primary, or nasopharynx that is p16 and HPV positive; tissue or cytology from the primary site or lymph node must be available for biomarker studies and for polymerase chain reaction (PCR) testing; immunohistochemistry (IHC) must be performed in a lab verified by the central laboratory or the slides must be available for review by the central laboratory (Zhang, MSSM) and PCR must be done in the central laboratory prior to radiotherapy; HPV PCR must be performed and results available for reduced dose therapy after induction.\r\n* Patients who are on the Quarterback Trial when Quarterback 2 is activated and who have been randomized to radiotherapy arm will be asked to transfer to this trial and receive the Quarterback 2 defined radiotherapy
+Any condition, including the presence of clinically significant laboratory abnormalities, which places the patient at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study; these would include:\r\n* Active infection (including persistent fever) including known history of human immunodeficiency virus (HIV) or hepatitis C infection\r\n* Diseases or conditions that obscure toxicity or dangerously alter drug metabolism\r\n* Serious concurrent medical illness (e.g. symptomatic congestive heart failure)
+Patient has adequate bone marrow and organ function as defined by ALL of the following laboratory values (as assessed by local laboratory):
+PHASE II SCLC: Patients must have histologically or cytologically confirmed diagnosis of SCLC from a Clinical Laboratory Improvement Act (CLIA)-certified laboratory
+The following laboratory values must be greater than the lower limits of normal prior to starting study drug (supplementation allowed): potassium, magnesium, calcium
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Patients must have the following laboratory values or have the following laboratory values corrected to be within normal limits before the first dose of ceritinib:\r\n* Potassium\r\n* Magnesium\r\n* Phosphorus\r\n* Total calcium (corrected for serum albumin)
+Patients must have confirmed GBM MGMT status (tumor must be MGMT promoter unmethylated) by central laboratory Clinical Laboratory Improvement Amendments (CLIA) certified testing at MD Anderson, prior to registration. If initial MGMT testing obtained at an outside institution, MGMT status must be centrally retested at MD Anderson.
+For cohort 1, documented activating HER2 mutation in lung cancer by Clinical Laboratory Improvement Act (CLIA) laboratory, specifically exon 20 insYVMA (Y772 A775dup), insGSP (G778 P780dup), insTGT (G776delinsVC), single base pair substitutions L 755A, L755S, V777L, V659E S310F, or another HER2 mutation approved by the principal investigator
+For cohorts 2, 3, 4, documented HER2 amplification identified through next generation sequencing by Memorial Sloan-Kettering Cancer Center (MSK)-Integrated Mutation Profiling for Actionable Cancer Targets (IMPACT) or at another Clinical Laboratory Improvement Amendments (CLIA) laboratory, or documented HER2 amplification by in-situ hybridization (ISH) with HER2/ centromeric probe for chromosome 17 (CEP17) ratio >= 2.0 at a CLIA laboratory; patients with HER2 amplification identified by another method or criteria must be approved by the principal investigator and may enroll in the “other” cohort 4
+Platelets < 75,000 cell/mm^3 (75 x 10^9/L); qualifying laboratory value must occur at most recent measurement before enrollment and must be no more than 14 days before enrollment; no transfusions are allowed within 72 hours before qualifying laboratory value
+Hemoglobin < 8 g/dL; qualifying laboratory value must occur at most recent measurement before enrollment and must be no more than 14 days before enrollment; no transfusions are allowed within 72 hours before qualifying laboratory value
+Documented histopathological confirmation of prostate cancer from a Clinical Laboratory Improvement Act (CLIA)-certified laboratory
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Adequate clinical laboratory values defined as:
+Adequate baseline laboratory values collected within 7 days of starting the study treatment
+Serum B12 and folate levels >= lower limit of normal (LLN) for the laboratory\r\n* Note: Patients may begin B12 and folic acid supplementation and be reconsidered for participation in the study when levels are >= LLN for the laboratory
+Patients with abnormal laboratory values, defined as any of the following:
+CAPMATINIB INCLUSION CRITERIA: Presence of an oncogenic kinase fusion involving MET, confirmed by assay by a Clinical Laboratory Improvement Act (CLIA)-approved laboratory
+CERITINIB INCLUSION CRITERIA: Presence of an oncogenic kinase fusion involving ALK, confirmed by assay by a CLIA-approved laboratory
+REGORAFENIB INCLUSION CRITERIA: Presence of an oncogenic kinase fusion involving BRAF or RET, confirmed by assay by a CLIA-approved laboratory
+ENTRECTINIB INCLUSION CRITERIA: Presence of an oncogenic kinase fusion involving ROS1 or NTRK1/2/3, confirmed by assay by a CLIA-approved laboratory
+Tumor must have labeling index of greater than or equal to 5% of the nuclear Gli-1 (integral biomarker performed in the MD Anderson Cancer Center Clinical Laboratory Improvement Amendment [CLIA] laboratory) for patient to be eligible in this trial (if enough archival tissue is not available to determine labeling index, patient must agree to a biopsy to be eligible for the study)
+Patient must have the following laboratory values or have the following laboratory values corrected with supplements to be above the lower limit of normal before the first dose of ceritinib:\r\n* Potassium\r\n* Magnesium\r\n* Phosphorus\r\n* Total calcium (corrected for serum albumin)
+Laboratory parameters outside the protocol-defined range.
+Have laboratory values (obtained ? 28 days prior to first infusion day) in accordance with the study protocol
+Has a documented local diagnostic pathology of original biopsy confirmed by a Clinical Laboratory Improvement Amendments (CLIA/College of American Pathologists (CAP) or equivalent laboratory certification
+CA125 less than or equal to 3 x upper limit of normal (ULN) confirmed within 2 weeks of randomization using a centralized laboratory assay
+Laboratory results within the 2 weeks prior to Randomization must be as follows:
+Patients with CDKN2A wild type by a CLIA-certified laboratory
+Adequate organ function as indicated by the following laboratory values. All laboratory tests must be obtained within 7 days prior to the first dose of study treatment:
+Adequate baseline laboratory values collected no more than 7 days before starting study treatment
+Evidence of any significant clinical disorder or laboratory finding that makes it undesirable for the subject to participate in the clinical trial
+Total bilirubin =< 1.5 x ULN for the laboratory at the time of enrollment, all forms of biliary stents allowed
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study, as determined by the principal investigator
+Patients with the following laboratory abnormalities:
+Clinical laboratory values as specified in the following:
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Laboratory evaluations (kidney and liver) outside normal limits and of potential clinical significance in the opinion of the investigator
+BRAF mutation-positive melanoma (V600E or V600K) based on report from a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory
+Adequate clinical laboratory values defined as:
+Hepatic insufficiency resulting in clinical jaundice and/or coagulation defects; note, however, that laboratory tests for liver function and coagulation parameters are not required for entry into this protocol; (patients on Coumadin or other blood thinning agents are eligible for this study)
+The following laboratory values must be documented within 3 days prior to the first dose of study drug:
+Patients must have INR and PTT values ? 1.5X ULN for the reference laboratory.
+Any of the following abnormal laboratory values (unless any of these abnormalities are due to underlying lymphoma)
+Have clinically acceptable laboratory screening results within certain limits
+RECIPIENT: Mutation in the GATA2 gene, or evidence of loss of expression of one allele of GATA2, by complementary deoxyribonucleic acid (cDNA) analysis performed by a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory, or the clinical syndrome of MonoMAC
+Patients must have a tissue or blood proven KRAS or EGFR mutation confirmed in a Clinical Laboratory Improvement Amendments (CLIA) certified lab (only required in the Phase IB expansion cohort)
+Hematologic, renal, and liver function as determined by hematology and clinical chemistry tests will be acceptable if within +/- 2x of “normal” reference range as defined by the local hospital clinical laboratory; final decision on inclusion will be made by physician, concerning suitability of patient for surgery
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Required baseline laboratory data
+Diagnosis of dyskeratosis congenita based on clinical triad of abnormalities of skin pigmentation, nail dystrophy, oral leukoplakia; OR one of clinical triad and presence of two or more associated features; OR a pathogenic mutation in DKC1,TERC, TERT, NOP10, NHP2, TCAB1, TINF2, CTC1, PARN, RTEL1, or ACD as reported by a CLIA-approved laboratory; OR age-adjusted mean telomere length < 1%ile in peripheral blood lymphocytes as reported by a CLIA-approved laboratory; OR Hoyeraal-Hreidarsson syndrome; OR Revesz syndrome
+Baseline hematology laboratories will be performed prior to registration, the patient can be enrolled in the trial if laboratory values are deemed clinically acceptable by treating physician
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Laboratory and medical history parameters outside Protocol-defined range.
+Laboratory parameters not within the protocol-defined range.
+Patient with any out-of-range laboratory values defined as:
+FA demonstrated by a positive test for increased sensitivity to chromosomal breakage with mitomycin C or diepoxybutane performed by a Clinical Laboratory Improvement Amendments (CLIA) or College of American Pathologists (CAP) approved laboratory
+DOCK8 deficiency with the two criteria listed below:\r\n* Clinical history of one or more episodes of life-threatening or severely disfiguring infection with opportunistic organisms, including severe recurrent cutaneous and sinopulmonary infections with bacterial or fungal infection, or viral infections with herpes simplex, herpes zoster, Molluscum contagiosum, or human papilloma virus\r\n* Homozygous or compound heterozygous mutations in the DOCK8 gene performed by a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory
+BMBx or bone marrow aspirate (BMA) consistent with HCL, confirmed by National Institutes of Health (NIH) Laboratory of Pathology, NCI, or the Department of Laboratory Medicine, Clinical Center, NIH, unless the diagnosis can be confirmed from a solid (lymph node) mass
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study.
+Inadequate organ function, evidenced by the following laboratory results:
+Subject must meet all of the following criteria based on the centrally analyzed laboratory tests within 14 days prior to the first dose of study treatment. In case of multiple laboratory data within this period, the most recent data should be used to determine eligibility.
+Significant laboratory abnormalities;
+Must meet the following laboratory criteria:
+Adequate laboratory parameters
+Adequate hematology laboratory values at Cycle 1 Day 1 pre-dosing defined as follows:
+Screening laboratory assessments:
+Patient has laboratory estimations indicating organ system dysfunction:
+Patient must meet required laboratory values at the screening
+Adequate baseline laboratory assessments
+Adequate baseline laboratory assessments
+Patient having out of range laboratory values defined as:
+Screening laboratory parameters:
+Required baseline central laboratory data in protocol.
+Subjects must meet the following laboratory parameters:
+Patient's clinical laboratory values meet any of the following criteria within the 7 days prior to Study Day 1:
+Cancer must have at least one of the following PIK3CA mutations: E542K, E545K, H1047R, H1047L; the PIK3CA mutation must be documented in a Clinical Laboratory Improvement Amendments (CLIA) approved laboratory
+Laboratory data as specified below:
+Patient with any condition that the physician judges could be detrimental to subjects participating in this study; including any clinically important deviations from normal clinical laboratory values or concurrent medical events Previous treatment
+Laboratory data:
+Must meet the following laboratory parameters:
+Any condition, including presence of laboratory abnormalities, which places subject at unacceptable risk if s/he were to participate in study or confounds ability to interpret data from study according to investigator assessment.
+Laboratory values outside the protocol-defined range at screening.
+Adequate organ system functions as defined by the laboratory assessments.
+-  Laboratory values (liver, kidney and hematology laboratory values) that meet criteria as described per protocol.
+Laboratory values not within the protocol-defined range.
+Required screening laboratory data (within 28 days prior to administration of pembrolizumab)
+Screening laboratory values:
+Any significant medical condition, laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study
+RENAL COHORT: Laboratory values as follows within 4 days before the first dose of daratumumab: platelets ? 100,000/mm^3
+RENAL COHORT: Laboratory values as follows within 4 days before the first dose of daratumumab: hemoglobin ? 9 g/dL
+RENAL COHORT: Laboratory values as follows within 4 days before the first dose of daratumumab: serum albumin ? 2.8 g/dl
+RENAL COHORT: Laboratory values as follows within 4 days before the first dose of daratumumab: serum phosphorus ? lower limit of normal (LLN)
+RENAL COHORT: Laboratory values as follows within 4 days before the first dose of daratumumab: calcium ? LLN
+RENAL COHORT: Laboratory values as follows within 4 days before the first dose of daratumumab: magnesium ? LLN
+RENAL COHORT: Laboratory values as follows within 4 days before the first dose of daratumumab: potassium ? LLN
+BLADDER: Clinical laboratory values at screening: platelets ? 100,000/mm^3
+BLADDER: Clinical laboratory values at screening: hemoglobin ? 9 g/dL
+BLADDER: Clinical laboratory values at screening: serum albumin ? 2.8g/dl
+Note: Hematology and other lab parameters that are ? grade 2 BUT still meet criteria for study entry are allowed; furthermore, changes in laboratory parameters during the study should not be considered adverse events unless they meet criteria for dose modification(s) of study medication outlined by the protocol and/or worsen from baseline during therapy
+For phase I dose expansion cohorts the patient’s tumor must harbor a KRAS mutation detected by a CLIA certified laboratory
+Documented deleterious BRCA1/2 or PALB2 mutation (germline or somatic) as assessed by Clinical Laboratory Improvement Amendments (CLIA) certified laboratory; variants that are considered to be non-detrimental (“variants of uncertain significance”, “variants of unknown significance”, “variant, favor polymorphism” or “benign polymorphism” etc) are not sufficient for study entry
+Required initial laboratory data (normal limits per treating institution; minor changes from the indicated laboratory guidelines will be allowed at the discretion of the treating team under special circumstances and reasons for the changes will be documented):
+Tumors must have undergone expanded molecular profiling with a Clinical Laboratory Improvement Act (CLIA)-certified platform that evaluates, at a minimum, RAS, PIK3CA, PTEN and BRAF mutations status
+The subject must have all of the following results as part of screening laboratory assessments (results from either the central laboratory or a local laboratory can be used for qualification):
+All laboratory assessments should be performed within 21 days of initiation of protocol therapy unless otherwise specified
+Any serious medical condition or abnormality in clinical laboratory tests
+Hematology laboratory parameters within the Protocol specified range
+Chemistry laboratory parameters within the Protocol specified range
+Patients with previously identified IDH1/2 mutations from a Clinical Laboratory Improvement Act (CLIA) certified laboratory can be enrolled on the trial, but must be verified in the central study laboratory
+Meet laboratory parameter requirements at study entry
+Any condition, including the presence of clinically significant laboratory abnormalities, which places subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study, including:
+Subjects must meet certain laboratory criteria
+Adequate hematological and biological function, confirmed by defined laboratory\n             values
+Patients must have measurable and histologically or cytologically confirmed thyroid cancer with a BRAF V600E or V600K (c. 1799 T to A and c.1799_1800TG>AA) mutation that is not considered curable by surgery; confirmation will be done at Memorial Sloan Kettering (MSK); only tumors with a BRAFV600E or BRAFV600K mutation will be eligible for the clinical study; BRAF status will be assessed in a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory; BRAF status may also be tested with any Food and Drug Administration (FDA)-approved test (such as Cobas 4800 BRAF V600 Mutation Test)
+Patients must have BRAFV600E or BRAFV600K mutations, identified by a Food and Drug Administration (FDA)-approved test at a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory (lab); if test at CLIA-certified lab used a non-FDA approved method, information about the assay must be provided
+Formalin-fixed, paraffin-embedded tumor tissue must be submitted to Baylor College of Medicine (BCM) – Cancer Genetics Laboratory for Clinical Laboratory Improvement Amendments (CLIA)-certified KRAS mutation testing; results must be reported on the eligibility checklist during registration in order to receive treatment assignment\r\n* Note: if CLIA-certified KRAS mutation tumor testing is available from local or other source (e.g., Foundation Medicine) this report can be submitted to Statistical and Data Center (SDC) to meet this requirement
+Melanoma must be documented to contain a BRAFV600 mutation by a Clinical Laboratory Improvement Amendment (CLIA) approved laboratory
+CD19 expression must be detected on greater than 15% of the malignant cells by immunohistochemistry or greater than 30% by flow cytometry in a Clinical Laboratory Improvement Amendments (CLIA) approved test in the Laboratory of Pathology, Center for Cancer Research (CCR), National Cancer Institute (NCI), National Institutes of Health (NIH) or from the referring institution or reference laboratory; the choice of whether to use flow cytometry or immunohistochemistry will be determined by what is the most easily available tissue sample in each patient; in general immunohistochemistry will be used for lymph node biopsies, flow cytometry will be used for peripheral blood and bone marrow samples
+Laboratory parameters:
+Please contact study investigator and/or consult protocol document for specific details on laboratory criteria
+Clinical or laboratory evidence of cirrhosis
+Adequate lab values
+Bilirubin =< 1.5 X laboratory normal
+Subject must meet the following criteria as indicated on the clinical laboratory tests:
+Has a documented local diagnostic pathology of original biopsy confirmed by a Clinical Laboratory Improvement Amendments (CLIA)/College of American Pathologists (CAP) or equivalent laboratory certification
+Clinical/Laboratory Criteria:
+Adequate laboratory values;
+Subject has any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study.
+Patients K-ras status must be wild type (not mutated); K-ras status determination may be based on either primary or metastatic tumor\r\n* NOTE: the assay must be performed by a Clinical Laboratory Improvement Amendments (CLIA) approved laboratory
+Sodium, potassium, phosphorus, magnesium and total calcium laboratory values within normal limits
+Laboratory and medical history parameters not within Protocol-defined range
+Laboratory and medical history parameters within protocol-defined range.
+Clinical laboratory values within acceptable ranges within 72 hours prior to study day
+DISEASE RELATED CRITERIA: Patients must have pathologically confirmed KRAS mutation (at codon 12, 13 and 61) positive non-small cell lung cancer (NSCLC) that is stage IV or recurrent; the specific subtype of KRAS mutation must be known; KRAS mutation testing must have been performed in a Clinical Laboratory Improvement Act (CLIA) certified laboratory; CLIA certified commercially available tests are acceptable
+CLINICAL/LABORATORY CRITERIA: Platelet count >= 100,000/mcL; these results must be obtained within 28 days prior to registration
+Presence of 17p del by central laboratory.
+Presence of 11q del by central laboratory.
+Meet the following laboratory parameters:
+Meet the following laboratory parameters:
+Subject has the following laboratory values at screening:
+Subject has any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study.
+Acceptable organ function, as evidenced by the following laboratory data:
+If clinical and laboratory parameters insufficient to establish AL amyloidosis or in cases of doubt, amyloid typing may be necessary.
+Clinical laboratory values:
+Meet baseline laboratory data criteria
+Laboratory and medical history parameters not within the Protocol-defined range
+Acceptable laboratory parameters and adequate organ reserve.
+Laboratory parameters not within the protocol-defined range.
+Meets absolute neutrophil count, platelet count, hemoglobin, liver and kidney function laboratory values within 2 weeks prior to first dose of study drug.
+Any of the following laboratory abnormalities:
+Any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study
+Laboratory values within protocol -defined parameters
+Laboratory tests must meet minimum safety requirements
+ALT <3 × ULN NOTE: Laboratory results obtained during screening should be used to determine eligibility criteria. In situations where laboratory results are outside the permitted range, the investigator may retest the subject and the subsequent within range screening result may be used to determine the subject's eligibility.
+Any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study.
+Any of the following laboratory abnormalities:
+Pretreatment clinical laboratory values must meet protocol-defined parameters during the screening phase
+Has a documented local diagnostic pathology of original biopsy confirmed by a Clinical Laboratory Improvement Amendments (CLIA)/College of American Pathologists (CAP) or equivalent laboratory certification
+Adequate study baseline laboratory parameters
+Abnormal laboratory values (unless due to underlying lymphoma)
+Patients must meet the following laboratory criteria at screening:
+Any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study.
+Have clinically acceptable laboratory screening results within certain limits specified below:
+Any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study
+The following laboratory results must be met within 21 days of patient registration:
+Standard 12-lead ECG values defined as the mean of the triplicate ECGs and assessed by the central laboratory.
+If not specified above as tumor specific parameter subjects must have the following laboratory and hematologic parameters as follows:
+Any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study.
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Required baseline laboratory data as outlined in protocol
+Subject who fulfills the laboratory requirements as per protocol
+Screening clinical laboratory values:
+Clinical laboratory values within the following parameters (repeat within 3 days before the first dose of study drug if laboratory values used for randomization were obtained more than 3 days before the first dose of study drug):
+Pretreatment clinical laboratory values must meet protocol-defined parameters during the Screening phase
+Baseline laboratory values as follows:
+Any abnormal laboratory values as specified in protocol
+Patients with the following laboratory values during screening and on Day 1 predose:
+Any significant medical condition, laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study
+Have adequate organ reserve as determined by laboratory test results obtained within 2 weeks prior to Study Day 1 as indicated below:
+Patients have out of range laboratory values defined as
+Have baseline clinical and laboratory parameters that are consistent with the requirements prescribed in respective labels and are suitable for consideration of treatment with capecitabine (or 5-FU) and cisplatin (for example, dihydropyrimidine dehydrogenase deficiency).
+Hepatic insufficiency resulting in clinical jaundice and/or coagulation defects; note, however, that laboratory tests for additional liver function tests and coagulation parameters are not required for entry into this protocol
+Laboratory criteria as:
+Inadequate marrow reserve assessed by hematologic laboratory parameters
+Patients must have a histologically confirmed diagnosis of urothelial carcinoma of the bladder, urethra, ureter, or renal pelvis; confirmation may be obtained from any Clinical Laboratory Improvement Amendments (CLIA) certified laboratory (lab)
+Completion of all necessary baseline laboratory and radiologic investigations prior to randomization
+Abnormal laboratory tests immediately prior to randomization
+Laboratory and medical history parameters not within the Protocol-defined range.
+Screening laboratory values must meet the following criteria and should be obtained within 30 days (45 if biopsy is repeated) prior to study treatment:
+Out of range lab values as defined in protocol
+Subject must meet the following criteria as indicated on the clinical laboratory tests:
+Results must be available from a genomic test or immunohistochemistry (IHC) test for protein expression performed in a Clinical Laboratory Improvement Amendments (CLIA)-certified, College of American Pathologists (CAP) -accredited, New York State accredited (for labs offering services to residents of NY) laboratory that has registered the test with the National Institutes of Health (NIH) Genetic Test Registry or has established an integration with the TAPUR platform. The genomic or IHC test used to qualify a patient for participation in TAPUR may have been performed on any specimen of the patient's tumor obtained at any point during the patient's care at the discretion of the patient's treating physician. Genomic assays performed on cell-free DNA in plasma (\liquid biopsies\) will also be acceptable if the genomic analysis is performed in a laboratory that meets the criteria described above.
+Patients must meet the following laboratory criteria:
+Patient with any out-of-range laboratory values defined as:
+Acceptable laboratory parameters and adequate organ reserve.
+Evidence of any other significant clinical disorder or laboratory finding that makes it undesirable for the subject to participate in the clinical trial
+Clinical laboratory values:
+Laboratory values as follows at screening and within 7 days of planned first dose of therapy:
+Patients must have baseline laboratory tests within the following parameters within 14 days prior to registration:
+Laboratory parameters for vital functions should be in the normal range or not clinically significant.
+Any condition, including the presence of laboratory abnormalities, which places the participant at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Patients must have satisfactory results for the baseline laboratory analyses and diagnostic procedures as specified in the protocol.
+Any of the following clinical laboratory values at the time of enrollment:
+Laboratory parameters for vital functions should be in the normal range. Laboratory abnormalities that are not clinically significant are generally permitted, except for the following laboratory parameters, which must be within the ranges specified, regardless of clinical significance:
+All baseline laboratory requirements will be assessed and should be obtained within -14 days of study registration
+Any significant medical condition, laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study
+The following laboratory values:
+Patients with abnormal laboratory values during screening and on day 1 of pre-dose
+Confirmation of advanced biliary cancer that is refractory or intolerant to gemcitabine or fluoropyrimidine based therapy with FGFR2 fusion [using next-gen sequencing assays (such as Foundation One) or fluorescent in situ hybridization (FISH) break-apart assays] or FGFR pathway mutation/amplification [using next-gen sequencing assays (such as Foundation One)]; assays must be performed in a Clinical Laboratory Improvement Amendments [CLIA] certified laboratory and done as a CLIA validated test or research use only [RUO] in a CLIA laboratory
+Patients must have a confirmed diagnosis of amyloid light-chain (AL) amyloidosis based on accepted clinical and laboratory criteria
+Screening laboratory values should be used to confirm subject eligibility. Laboratory results may be retested if necessary to confirm eligibility.
+Meet the clinical laboratory criteria as specified in the protocol
+Must meet the following clinical laboratory criteria at study entry:
+Confirmation in a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory or in an Food and Drug Administration (FDA)-approved assay that one of the patient’s thyroid tumors (primary tumor, recurrent tumor, or metastasis) possesses a BRAF mutation at V600
+Patients must have histologically or cytologically confirmed adenocarcinoma of esophagus or gastroesophageal junction, or stomach which is Gli-1 positive (labeling index [LI] greater than or equal to 5%); testing is to be performed in a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory; the patients must have an archival tumor sample to facilitate this testing
+Adequate laboratory parameters
+Agreed to participate in laboratory protocol PA13-0291 for the testing of biomarkers as described in this clinical protocol
+Acceptable laboratory assessments obtained within 14 days prior to Randomization
+All subjects must have EITHER the clinical diagnosis of NF1 using the National Institute of Health (NIH) consensus conference criteria, OR have a constitutional NF1 mutation documented in a Clinical Laboratory Improvement Amendments (CLIA)/College of American Pathologists (CAP) certified lab
+Adequate baseline laboratory assessments, including
+Absence of Kit and PDGFRA mutation confirmed in a Clinical Laboratory Improvement Act (CLIA) certified laboratory
+Adequate laboratory parameters
+Must meet the following laboratory parameters:
+Any of the following laboratory abnormalities:
+Laboratory values within protocol-defined parameters
+The patient has adequate serum chemistry levels, evidenced by the following laboratory values
+The patient has any condition, including the presence of laboratory abnormalities, that places the patient at unacceptable risk if he/she were to participate in the study.
+Subject must meet the following criteria as indicated on the clinical laboratory tests.
+Must have a a BRAF V600E mutation-positive tumor as confirmed by an approved local laboratory or a sponsor designated central reference laboratory. All subjects must provide an archived or fresh tumor sample (for solid tumors) or a fresh BM aspirate and peripheral blood sample (for HCL and MM) for confirmation testing of the BRAF V600E mutation by a sponsor designated central reference laboratory using a sponsor designated assay
+have BTK or PLCgamma2 mutations per local laboratory assessment, with or without progression on ibrutinib
+KRAS mutation positive tumour sample as determined by the designated testing laboratory
+Laboratory tests required for eligibility must be completed within 7 days prior study entry; baseline tumor measurements and ECHO or MUGA must be documented from tests completed within 28 days of study entry; other non-laboratory tests must be performed within 21 days of study entry
+Willing to provide tissue as required per protocol for central BRAF^V600X mutation testing\r\n* NOTE: patients with prior BRAF^600X testing that demonstrate a mutation at V600X will be allowed to enroll prior to central testing if the assay was performed at a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory assay; this includes THxID, BRAF Detection Kit, Cobas 4800 BRAF600 mutation test and other CLIA-certified assays available at participating institutions
+Patients must have BRAF^V600 mutant metastatic cancer irrespective of the histology or prior therapy; BRAF^V600 mutant status must be documented by a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory; use of an Food and Drug Administration (FDA)-approved test is preferred although other BRAF tests at a CLIA-certified laboratory may also be accepted
+Clinical laboratory values as specified in the protocol
+Carcinoma of the oropharynx associated with HPV as determined by p16 protein expression using immunohistochemistry (IHC) performed by a Clinical Laboratory Improvement Amendments (CLIA) approved laboratory; using p16 antibody obtained from Roche mtm laboratories AG (CINtec, clone E6H4) is recommended
+Patients must be HLA-A201 as determined by a CLIA certified (or equivalent) clinical laboratory. (This determination will be made under a pre-enrollment screening ICF)
+Hematology and biochemical laboratory values within protocol-defined parameters prior to random assignment and at baseline
+Laboratory requirements:
+Cancers with positive BRAF V600 mutation detected by a Clinical Laboratory Improvement Act (CLIA)-certified laboratory
+Patients with known K-RAS mutant (codon 12 or 13) detected by a Food and Drug Administration (FDA)-approved test in a CLIA-certified laboratory
+Any important medical illness or abnormal laboratory finding that would increase the risk of participating in this study
+Prospective confirmation of KRAS mutation negative status as determined via an AZ approved laboratory
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Participants must have histologically or cytologically confirmed squamous cell carcinoma of the oropharynx, unknown primary, or nasopharynx that is p16 positive as determined by immunohistochemistry (IHC); tissue from the primary site must be available for biomarker studies and for polymerase chain reaction (PCR) testing; IHC must be performed in a lab verified by the central laboratory or the slides must be available for review by the central laboratory (Zhang, Mount Sinai School of Medicine [MSSM]) and PCR must be done in the central laboratory prior to randomization; HPV16 PCR must be performed and results available for randomization after induction
+Evidence of any other significant clinical disorder or laboratory finding that makes it undesirable for the subject to participate in the trial
+Laboratory values fulfilling the following:
+laboratory criteria at screening:
+A documented BRAF V600E or BRAF V600K mutation by genotyping or immunohistochemistry (IHC) performed by a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory
+Clinical laboratory values as specified in protocol
+Must have met the following clinical laboratory criteria:
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Note: laboratory tests required for eligibility must be completed within 4 weeks prior to study entry; baseline measurements in the CNS must be documented from tests within 14 days of study entry; other non-laboratory tests must be performed as indicated
+Patients must be within certain limits for protocol-specified laboratory tests
+Any of the following laboratory abnormalities:
+Laboratory test results within these ranges:
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study.
+Patients with abnormal laboratory values as defined by the protocol
+Laboratory values as specified in study protocol
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study.
+Patient has any condition, including the presence of laboratory abnormalities, which places him/her at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Subjects must meet the following laboratory parameters:
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Test positive by FISH by the central laboratory designated by the Sponsor
+Have FGFR2 gene fusion documented by a local or central laboratory using standard protocols and approved by local IRB/EC, by CLIA or other similar agency. If the FGFR2 gene fusion is identified by a laboratory other than the Sponsor's central laboratory, then archival and/or recent tissue biopsy samples or a tissue block suitable for genetic testing must be available for confirmatory testing by FISH by the Sponsor's central laboratory. If a subject has documentation from the central laboratory indicating that they test negative for FGFR2 gene fusion, that subject may not be enrolled in the study.
+Adequate organ functions as indicated by the following laboratory values (based on screening visit values from the central laboratory).
+Patients must meet the following laboratory criteria:
+Laboratory values obtained ? 14 days prior to randomization:
+Clinical laboratory values as specified in the protocol Additionally, to be eligible for the Dose Expansion portion of the study:
+1p/19q deletion status assessment as determined by the Mayo Cytogenetics Laboratory has been received
+Meeting the following laboratory values:
+Any of the following laboratory abnormalities:
+Patients must have HER2-positive (fluorescence in situ hybridization [FISH]+ or immunohistochemistry [ICH] 3+) metastatic or unresectable gastric or gastroesophageal junction (GEJ) adenocarcinoma to be eligible for trastuzumab; for the purposes of this protocol, FISH+ is defined as HER2:centromeric probe for chromosome 17 (CEP17) ratio >= 2.0; biopsy samples with cohesive IHC3+ or FISH+ clones are considered HER2 positive irrespective of size, i.e. < 10%; FISH+ defined as > 2 HER2:CEP17; Note: samples will be processed locally in the laboratory of investigational sites; the results of local laboratory HER2 analysis will be required and sufficient to start the study treatment; the Memorial Sloan-Kettering (MSK) laboratory will be used for subsequent confirmation of HER2 status; MSK pathology review will not be required to begin therapy on the protocol; samples provided to the MSK laboratory must either be HER2 IHC slides, or if FISH confirmation is necessary, a paraffin block(s) of adequate size to allow if possible for at least 5 slides with cuts that are 5-microns thick or if a paraffin block is not available, then if possible at least 5 slides with cuts that are 5-microns thick will be acceptable; archived or fresh tumor samples may be used
+All patients must have definitive evidence of t(8;21) or inv(16) by a Clinical Laboratory Improvement Amendments (CLIA) approved cytogenetics laboratory from initial diagnosis
+Subject must meet all of the following criteria on the laboratory tests that will be analyzed centrally within 7 days prior to the first dose of study drug. In case of multiple laboratory data within this period, the most recent data should be used.
+Laboratory and medical history parameters not within protocol-defined range.
+Positive for RAS mutation (neuroblastoma RAS viral [v-ras] oncogene homolog [NRAS] codon 12, 13, 61 mutation or Kirsten rat sarcoma viral oncogene homolog [KRAS] codon 12, 13, 61 mutation) at a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory prior to study entry; mutational testing will be performed on bone marrow sample and/or peripheral blood; patients with previously known RAS mutations prior to study entry may be considered positive for RAS mutation for eligibility prior to a CLIA-certified laboratory confirmation of such a mutation at the discretion of the investigator; (appropriate blood and/or bone marrow samples must be taken for RAS determination and submitted to a CLIA-certified laboratory prior to study entry); however, if such a mutation is not confirmed by the M D Anderson Cancer Center (MDACC)/other center’s CLIA-certified laboratory, the patient may be permitted to stay on the study if they wish and consent to do so but such patients’ data will be analyzed separately
+Adequate baseline laboratory parameters.
+Laboratory values that would not prevent the patient from receiving chemotherapy as determined by the Principal Investigator (PI) or study oncologist
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study should be first discussed and clarified with the study investigators
+Adequate hematological and biological function, confirmed by defined laboratory values
+Subject must meet all of the following criteria on the laboratory tests. In case of multiple laboratory data within this period, the most recent data should be used.
+Adequate baseline laboratory assessments
+Serum bilirubin =< 2 x the laboratory normal range (except for patients with Gilbert’s disease)
+Laboratory parameters not within the protocol-defined range
+Acceptable laboratory results as indicated by protocol
+Systemic disease must be such that laboratory values are within 1.5 x normal
+Laboratory or clinical evidence of active infectious hepatitis
+Adequate liver and renal functions as assessed by the following laboratory requirements to be conducted within 7 days prior to starting study treatment:
+Subject with clinical or laboratory evidence of active DIC
+Blood transfusion to meet the following laboratory requirements will not be allowed
+Any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study.
+Packed red blood cell or platelet transfusion within 7 days of screening laboratory tests.
+Any condition, including the presence of clinically significant laboratory abnormalities, which places subject at unacceptable risk if he/she were to participate in study or confounds the ability to interpret data from study, including:
+Diagnosis of relapsed or refractory AML of any French American British (FAB) subtype except M3 and NPM1 genetic mutation detected by molecular assay; AML patients treated at Stanford have NPM1 molecular mutation status checked routinely at time of diagnosis in a Clinical Laboratory Improvement Amendment (CLIA)-certified laboratory
+Any of the following baseline laboratory values:
+Have the following laboratory parameters (may be assessed locally):
+The following laboratory parameters must be within the ranges specified: Hemoglobin ? 10 g/dL, Neutrophil count ? 1.5 x 109/L, Lymphocyte count ? LLN Platelet count ? 80 x 109/L, Serum creatinine ? 2 mg/dL, Serum bilirubin ? 2 x ULN, AST/ALT ? 2 x ULN.
+Positive for PIK3CA mutation based on central laboratory testing
+Patients must have the following baseline laboratory values:
+Any grade 4 laboratory abnormalities
+Has, at screening, serologic laboratory tests meeting one or more of the following criteria:
+Has, at screening, safety laboratory tests meeting one or more of the following criteria:
+Laboratory parameters not within the protocol-defined range.
+Patient must have the following laboratory values or have the following laboratory values corrected with supplements to be within normal limits at screening:\r\n* Potassium >= lower limit of normal (LLN)\r\n* Magnesium >= LLN\r\n* Phosphorus >= LLN\r\n* Total calcium (corrected for serum albumin) >= LLN
+Local testing for EGFR-mutations for this study is acceptable provided it was performed in a Clinical Laboratory Improvement Act (CLIA) certified lab
+Any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study.
+Any medical condition, including the presence of laboratory abnormalities, which confound the ability to interpret data from the study or places the patient at unacceptable risk if he participates in the study
+Evidence of any other significant clinical disorder or laboratory finding that makes it undesirable for the patient to participate in the trial
+Patient must have acceptable, applicable laboratory requirements
+Laboratory evidence of hepatic dysfunction indicated by any of the following:
+Lab values (hematology and chemistry) within institution's normal laboratory limits
+Any important medical illness or abnormal laboratory finding that would increase the risk of participating in this study
+Patients with chronic hepatitis C virus may be enrolled if there is no clinical/laboratory evidence of cirrhosis AND the patient’s liver function tests fall within the parameters set
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Have adequate marrow and organ function as defined in Table 2. Table 2 Laboratory Values SYSTEM LABORATORY VALUES Hematologic ANC ?1.5 x 109/L Hemoglobin ?9 g/dL (after transfusion if needed) Platelets ?100 x 109/L Hepatic Albumin ?2.5 g/dL Serum bilirubin ?1.5 x ULN unless due to Gilbert's syndrome AST and ALT ?3 x ULN Renal Calculated creatinine clearance* ? 40 mL/min Serum Creatinine ?1.5 mg/dL or 132.6?mol/L *Calculated by the Cockcroft-Gault Equation (Refer to protocol for details) Abbreviations: ANC, absolute neutrophil count; ULN, upper limit of normal; AST, aspartate aminotransferase; ALT, alanine aminotransferase
+CCND1 amplification and/or loss of p16 as determined by the central laboratory.
+All baseline laboratory requirements will be assessed and should be obtained within 14 days of first dose of study drug. Screening laboratory values must meet the following criteria:
+Any of the following laboratory abnormalities:
+Any significant medical condition, laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study
+Laboratory values and anticoagulation management per consensus guidelines, including:
+Required screening laboratory values as described in the protocol
+Adequate liver and renal functions as assessed by the following laboratory requirements to be conducted within 14 days before the first dose of study drug:
+Any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study.
+Patients with any of the following laboratory values at Screening/baseline
+Any condition, including the presence of laboratory abnormalities, which in the opinion of the treating physician places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Laboratory values fulfilling the following:
+Clinical laboratory values as specified below:
+Other baseline laboratory evaluations must be done within 14 days prior to randomization.
+Any of the following clinical laboratory results during screening (i.e., within 28 days before the first dose of either study drug):
+Clinical laboratory values as specified below within 3 days before the first dose of study drug:
+BRAF V600 mutation-positive tumor: as confirmed by a Clinical Laboratory Improvement Amendments (CLIA) approved local laboratory or equivalent.
+Appropriate clinical laboratory values within 72 hours prior to study day 1:
+Subject must meet the following criteria as indicated on the clinical laboratory tests*:
+Laboratory data as specified:
+Adequate baseline laboratory assessments, including:
+Adequate clinical laboratory values during the screening period as specified in the protocol
+Evidence of lack of HER2 oncogene amplification as determined by FISH testing by central laboratory
+Acceptable laboratory parameters and organ reserve
+Adequate clinical laboratory values during the screening period as specified in the protocol
+Clinical laboratory values as specified within 14 days of treatment:
+Uric acid, if elevated, must be corrected to within laboratory normal range prior to dosing
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Subject's laboratory results indicate inadequate organ function
+No platelet or blood transfusions within two weeks of obtaining baseline laboratory values
+Patients must have the following clinical laboratory values:
+Additional Laboratory Requirements
+Absolute neutrophil count < 1,000/?L, platelet count < 75,000/?L, and hemoglobin < 9 g/dL (NOTE: subject may not have received any growth factors or blood transfusions within seven days of the hematologic laboratory values obtained at the Screening visit)
+Adequate baseline laboratory assessments
+Tumors that have been documented by CLIA or equivalent certified laboratory test to harbor BRAF V600 mutation at diagnosis or relapse
+BRAF V600 mutation-positive tumor as confirmed in a Clinical Laboratory Improvement Amendments (CLIA)-approved laboratory or equivalent (the local BRAF testing may be subject to subsequent verification by centralized testing; centralized testing can confirm V600E and V600K mutations only).
+Laboratory and medical history parameters not within the Protocol-defined range
+Measurable metastatic melanoma that expresses the V to E v-raf murine sarcoma viral oncogene homolog B (BRAF) mutation and V to K BRAF mutation assessed in a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory
+Laboratory values meeting the following criteria:
+Have adequate clinical laboratory parameters within 2 weeks prior to the first dose of siltuximab for this study
+Specific to the cohorts as designed to enroll patients with tumor protein p53 (TP53) mutations: TP53 mutations are identified by next-generation sequencing in a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory prior to screening
+Any of the following laboratory abnormalities:
+Any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study
+Liver toxicity criteria based on local laboratory results obtained within 24 hours of Baseline:
+Any condition, including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study or confounds the ability to interpret data from the study
+Lab values:
+Lab values:
+Lab values:
+Lab values:
+Screening laboratory values:
+Corrected serum calcium concentration within normal range per local clinical laboratory standard
+Abnormal serum chemistry or hematology laboratory values
+positive for the ALK fusion gene (test provided by a central laboratory)
+Any of the following laboratory abnormalities:
+Evidence of any other significant clinical disorder or laboratory finding that makes it undesirable for the patient to participate in the trial.
+Laboratory values fulfilling the following:
+Physical and laboratory test findings outside the protocol-defined range.
+Sodium, potassium, phosphorus, magnesium and total calcium laboratory values within normal limits
+Consent to MD Anderson laboratory protocol PA13-0291
+Patients must have clinical laboratory values meeting the following criteria within 28 days prior to registration:
+Subject must meet all of the following criteria on the laboratory tests that will be performed within 7 days prior to enrollment. In case of multiple laboratory data within this period, the most recent data should be used.
+The following laboratory values must be within normal limits prior to starting study drug (supplementation allowed): potassium, magnesium, total calcium (corrected for serum albumin), phosphorous
+Laboratory evaluation:
+Documentation from the enrolling site confirming the presence of IDH mutation and 1p/19q status; the provided information must document assays performed in clinical laboratory improvement amendments (CLIA)-approved laboratories and be uploaded prior to Step 2 registration
+GLIOMA PATIENTS: Standard of care next generation sequencing via a Clinical Laboratory Improvement Act (CLIA) certified platform must be available and at a minimum include IDH, RB, and ATRX status
+For Part B, participants must have one of the following diagnoses histologically confirmed:\r\n* Neuroblastoma with evidence of mycn/myc positivity based on any of the following:\r\n** MYCN amplification (> 4 copy amplification) from Children's Oncology Group (COG) reference laboratory or other Clinical Laboratory Improvement Act (CLIA)-certified laboratory; or\r\n** Mycn protein expression >= 1+ according to validated assay in Children’s Hospital Los Angeles (CHLA) Clinical Pathology Laboratory; or\r\n** Myc expression >= 1+ according to validated assay in CHLA Clinical Pathology Laboratory\r\n* One of the following mature B cell lymphoma diagnoses:\r\n** Diffuse large B cell lymphoma\r\n** Burkitt lymphoma\r\n* An extra-cranial, solid tumor, other than neuroblastoma, with evidence of MYC or MYCN-alteration based on either of the following:\r\n** MYC or MYCN amplification from a CLIA-certified laboratory\r\n** MYC or MYCN high copy gain from a CLIA-certified laboratory
+Patients whose laboratory values do not meet protocol criteria
+Documented ICOS positive expression using an analytically validated immunohistochemistry (IHC) assay by central laboratory for Part 1B and Part 2B biomarker cohorts only.
+Evidence of any significant clinical disorder or laboratory finding that makes it undesirable for the subject to participate in the clinical trial
+Participate in the specified study visits and laboratory testing including three (20 mL) blood draws and three 24 hour urine collections
+Laboratory values obtained =< 365* days prior to registration:\r\n* Note: Without medical situations that should change these parameters since they were done
+Adequate laboratory parameters [absolute neutrophil (ANC), platelets, asparate aminotransferase (AST), alanine aminotransferase (ALT), total bilirubin, creatinine and coagulation parameters] at screening
+Acceptable laboratory parameters and adequate organ reserve.
+Disease response must be confirmed with repeat laboratory studies at least 30 days apart
+Any condition including the presence of laboratory abnormality that, as determined by the treating Investigator, places the subject at unacceptable risk if he/she were to participate in the study
+All clinical and laboratory studies for organ functions to determine eligibility must be performed within 7 days prior to enrollment unless otherwise indicated below.
+Laboratory evaluations (kidney and liver) outside normal limits and of potential clinical significance in the opinion of the investigator
+Normal electrocardiogram (ECG), laboratory values (chemistry, complete blood count) and urinalysis, as judged Grade 0-1 by per National Cancer Institute Common Toxicity Criteria (NCI-CTC)
+The standard criteria for prospective clinical trials of medications developed by Drug-Induced Liver Injury Network (established by The National Institute of Diabetes and Digestive and Kidney Diseases) will be used to assess the laboratory test abnormalities. Normal range for these labs will typically be 5 - 40 IU/L for AST; 7 - 56 IU/L for ALT; 0.2 - 1.2 mg/dL for bilirubin. Subjects will be excluded if values are x 2-x 2.5 the upper limit
+Adequate hematological and biological function, confirmed by defined laboratory values
+Any of the following laboratory abnormalities:
+Any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study
+Acceptable laboratory parameters
+Subjects must have the following laboratory values:
+Subjects must have the following laboratory values: Absolute Neutrophil Count (ANC) ? 1.5 x 109/L without growth factor support for 7 days (14 days if subject received pegfilgrastim).
+Vitamin D level (25 hydroxy D2 + hydroxyl D3) confirmed by central laboratory review
+Subject has any condition including the presence of laboratory abnormalities, which places the subject at unacceptable risk if he/she were to participate in the study based on investigator´s judgment.
+Ambulatory, able to come to either food distribution site to pick up food and participate in clinical examinations and laboratory tests
+Screening laboratory values (comprehensive metabolic panel, complete blood count [CBC], complete urinalysis, a urinary drug screen, and, if applicable, FSH) within institutional normal range or judged to be not clinically significant by the site principal investigator (PI) and medical monitor
+Pre-imaging laboratory tests must be performed within 28 days prior to the [18F] FLT imaging procedure; these must be less than 4.0 times below or above the upper or lower limit range for the respective laboratory test for entry into the study (unless clinically not relevant); in those instances where a laboratory value is outside of this range, then such a patient will be ineligible for enrollment; for follow-up scanning sessions after therapy has been instituted, laboratory testing will also be required due to the use of [18F] FLT; the patients have brain tumors and will have received chemoradiation; therefore, many routine laboratory tests may not be within the typical normal range; as such, a factor of 4.0 times above or below the upper or lower value for the normal range for any laboratory test will also be used to determine the acceptable range for the 2nd and possibly 3rd imaging time points (unless clinically not relevant); the baseline laboratory testing will include liver enzymes (alanine transaminase [ALT], aspartate aminotransferase [AST]), bilirubin (total), serum electrolytes, complete blood count (CBC) with platelets, prothrombin time, partial thromboplastin time, blood urea nitrogen (BUN), and creatinine; for those patients receiving coumadin or another anticoagulant the upper limit for prothrombin time or partial thromboplastin time must not exceed 6 times the upper limit of the normal range
+Patients who are diagnosed with NF1 using the National Institutes of Health (NIH) Consensus Conference criteria or have a confirmed NF1 mutation with analysis performed in a Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory; NF1 mutation testing to confirm eligibility will not be performed on this protocol, but as part the POB separate screening study
+Pre-treatment laboratory tests for patients receiving [18F]FMISO must be performed within 21 days prior to the FMISO scan; these laboratory tests must be less than 4.0 times below or above the upper or lower limit range for the respective laboratory test for entry into the study (unless not clinically relevant); for those patients receiving Coumadin or another anticoagulant the upper limit for prothrombin time or partial thromboplastin time must not exceed 6 times the upper limit of the normal range
+Pre-treatment laboratory tests for patients receiving [18F]FLT must be performed within 21 days prior to study entry; these must be less than 4.0 times below or above the upper or lower limit range for the respective laboratory test for entry into the study (unless clinically not relevant); in those instances where a baseline laboratory value is outside of this range, then such a patient will be ineligible for enrollment; for the follow-up scanning sessions after therapy has been instituted, laboratory testing will also be required due to the use of FLT; the patients have brain tumors and will have received various forms of therapy; therefore, many routine laboratory tests may not be within the typical normal range; as such, a factor of 4.0 times above or below the upper or lower value for the normal range for any laboratory test will also be used to determine the acceptable range for the 2nd and possible 3rd imaging time points (unless clinically not relevant); the baseline laboratory testing will include liver enzymes (alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase [ALK], lactate dehydrogenase [LDH]), bilirubin (total), serum electrolytes, complete blood count (CBC) with platelets and, prothrombin time, partial thromboplastin time, blood urea nitrogen (BUN), creatinine; previous urinalysis abnormalities will not preclude the patient from being studied; for those patients receiving Coumadin or another anticoagulant the upper limit for prothrombin time or partial thromboplastin time must not exceed 6 times the upper limit of the normal range
+Note: Exceptions to laboratory (lab) parameters may be allowed with approval of the Protocol Chair
+Subjects must have the following laboratory values at screening within 2 weeks of the first dose of investigational agents:
+Laboratory parameters outside the protocol-defined ranges.
+Most recent laboratory values (within 2 weeks prior to Week 1 Day 1 (W1D1)) before study entry meet the following standards:
+Abnormalities in hematological, clinical chemical or any other laboratory variables at Screening measured by the central or local laboratory regarded as clinically relevant by the investigator unless they are due to underlying disease or condition.
+Acceptable laboratory parameters and adequate organ reserve.
+Acceptable laboratory results during screening and prior to first study drug administration of the following parameters: absolute neutrophil count (ANC), platelet count, hemoglobin, total bilirubin, aspartate transaminase (AST/SGOT) and alanine transaminase (ALT/SGPT), renal function based on estimated creatinine clearance
+Subject must meet the following criteria as indicated on the clinical laboratory tests:
+The patient has hepatic dysfunction confirmed by bilirubin > 2 x normal (based on reference values from the laboratory used by the patient)
+For the follow-up scanning sessions after therapy has been instituted and within 7 days prior to the second [18F]FLT study the laboratory assessments will be required due to the use of [18F]FLT; these studies should also be less than 4.0 times below or above the upper or lower limit range for the respective laboratory study (unless not clinically relevant); 2.5 x for prothrombin time and partial thromboplastin time; however at the discretion of the study principal investigator (PI) the second imaging sessions can occur if laboratory values are not within the 4 X upper limit of normal (unless not clinically relevant); for those patients receiving Coumadin or another anticoagulant the upper limit for prothrombin time or partial thromboplastin time must not exceed 6 times the upper limit of the normal range; for the assessments at subsequent imaging time points the laboratory tests as described for baseline assessment will again be obtained
+Laboratory studies must be completed within 28 days prior to pimonidazole administration
+has following laboratory abnormalities
+Electrocardiogram (EKG), vitals and laboratory values outside of normal limits at the time of enrollment, unless these are deemed not clinically significant by clinician
+Peripheral blood MDSC level ? 10% of mononuclear cell fraction (assayed at a central laboratory)
+At least two manifestations drawn from at least two of the categories (clinical symptoms, laboratory abnormalities and radiographic abnormalities), which are at least possibly attributable to KICS and are not readily explicable from known medical conditions in the patient
+LABORATORY ABNORMALITIES
+Any of the following laboratory abnormalities at Screening:
+Laboratory and medical history parameters not within the protocol-defined range.
+Subjects must have the following screening laboratory values:
+Clinical laboratory values and other measures as specified below within 28 days before the first dose of study drug:
+Satisfactory laboratory parameters within defined parameters (ANC, platelet count, Hb, total bilirubin, ALT, AST and GFR)
+Clinical laboratory values as specified below within 4 weeks before the first dose of study drug:
+Laboratory and medical history parameters not within the protocol-defined range

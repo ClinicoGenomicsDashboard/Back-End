@@ -1,0 +1,35 @@
+Patients must have a body surface area (BSA) of >= 0.2 m^2 at the time of study enrollment
+Patients must have a body surface area >= 0.35 m^2 at the time of study enrollment if enrolling on dose levels 1-5; patients must have a body surface area >= 0.46 m^2 at the time of study enrollment if enrolling on dose level 0
+Patients with a body surface area < 0.5 m^2 are not eligible
+Patients must have a body surface area >= 0.35 m^2
+Patients must have a body surface area >= 0.65 m^2 at enrollment
+Patients must have a body surface area >= 0.53 m^2 at enrollment
+Patients enrolled after the drug supply of the 120 mg strength has been exhausted must have a body surface area >= 0.73 m^2 at enrollment and follow the dosing nomogram
+Patients must have a body surface area >= 0.5 m^2 at enrollment
+Patients accruing to dose level 1 must have a body surface area >= 0.52 m^2 at the time of study enrollment; patients accruing to dose level 2 must have a body surface area >= 0.37 m^2 at the time of study enrollment; patients accruing to dose level -1 must have a body surface area >= 0.75 m^2 at the time of study enrollment
+Eligible patients have a body surface area >= 0.7 m^2 AND be able to swallow whole tablets at the time of study enrollment
+Patients must have a body surface area >= 0.35 m^2 at the time of study enrollment
+Arms C and D only: body surface area < 1.2 m2.
+Patients must have a body surface area (BSA) of >= 1.17 m^2 at time of study enrollment
+Patients must have a body surface area >= 0.87 m^2 at enrollment
+Body surface area (BSA): Subjects must have a body surface area ? 0.45 m2 at the time of the study enrollment, unless enrolled in Part E
+Patients with a body surface area >3.0 m2.
+Body surface area > 2.0
+Patients must have a body surface area >= 0.5 m^2 at enrollment
+Patients must have a body surface area (BSA) of >= 0.42 m^2 at the time of study enrollment
+Body surface Area (For Dose Level -1): Patients must be ? 0.38 m² at the time of study enrollment.
+Body surface area >= 1.4 m^2
+Patients must have a body surface area (BSA) of >= 0.53 m^2 at the time of study enrollment
+Body surface area (for Parts A, B and C): \r\n* Patients must have a body surface area (BSA) of >= 0.42 m^2 at the time of study enrollment
+Part C: Patients must have a body surface area (BSA) >= 1.07 m^2 at the time of study enrollment
+Patients receiving the formulated capsules must have a body surface area (BSA) >= 0.63 m^2 at the time of study enrollment
+Body surface area >= 1.8m^2 on dosage levels 3b, 4, and 5 of the original treatment design
+Body surface area < 0.55 m^2 for all dosage levels in the modified treatment design
+Patients must have a body surface area (BSA) >= 0.4 m^2 at the time of study enrollment
+Radiation to any area of the body < 28 days prior to randomization
+Patients with a creatinine clearance < 60 ml/min/1.73 m^2 body surface area
+Patients must have a body surface area >= 0.35 m^2 at the time of study enrollment
+In order to limit dose deviations due to rounding, patients must have a body surface area of at least 0.5 m^2
+Area to be irradiated representing 1-10% of total body surface area (TBSA)
+Chronic, current or recent (within the past three months) use of glucocorticoids (systemic, topical and/or nasal sprays or steroid topical creams to large body surface area); use of steroid topical creams for small body areas (=< 10% body surface) during study intervention is allowed
+Body Surface Area < 1.4 m2 at baseline, calculated by the Dubois or Mosteller method.

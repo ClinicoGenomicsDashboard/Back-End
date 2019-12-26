@@ -1,0 +1,7 @@
+Cluster 50: cancer melanoma skin non years invasive malignancies situ past history 
+Cluster 476: invasive malignancy years prior history past cancer treated active treatment 
+Cluster 768: cancers invasive years malignancy skin non cancer melanoma situ history 
+Cluster 1126: cancer malignancies excluded present invasive contraindicates melanoma exception skin years 
+Cluster 2240: curable apparently cured cancers locally malignancy cancer years previous superficial 
+Cluster 2293: melanoma skin non malignancy cancer years treated cancers exception active 
+Cluster 2320: cancers melanoma non malignancies skin years situ active hematologic patients 

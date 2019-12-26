@@ -1,0 +1,7 @@
+Diffusion capacity for carbon monoxide corrected (DLCOcorr) > % normal or a pediatric patient who is unable to perform pulmonary function tests (PFTs) but has adequate pulmonary function
+Corrected diffusing capacity for carbon monoxide (DLCOcorr) >= % predicted, and absence of oxygen (O) requirements; for children that are not able to cooperate with pulmonary function tests (PFTs), a pulse oximetry with or without exercise should be attempted; if neither test can be obtained it should be clearly stated in the physicians note
+Corrected diffusion capacity of the lung for carbon monoxide (DLCOcorr) > % if symptomatic or prior known impairment
+Corrected diffusing capacity of the lung for carbon monoxide (DLCOcorr) < % normal
+Corrected diffusion capacity of the lung for carbon monoxide (DLCOcorr) > % ULN
+Corrected diffusing capacity of the lung for carbon monoxide (DLCOcorr) > % of normal, (oxygen saturation [> %] can be used in child where pulmonary function tests [PFTs] cannot be obtained)
+Corrected diffusing capacity of the lungs for carbon monoxide (DLCOcorr) > % normal

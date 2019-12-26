@@ -1,0 +1,11 @@
+Patients receiving anticoagulation treatment are allowed to participate with international normalized ratio (INR) established within the therapeutic range
+Patients receiving anticoagulation treatment are allowed to participate with international normalized ratio (INR) established within the therapeutic range
+Patients must not be on any anticoagulation
+Patients who have had a deep vein thrombosis or pulmonary embolus within the past 6 months are eligible if they are on stable therapeutic anticoagulation
+International normalized ratio (INR) and activated partial thromboplastin time (aPTT) =< 1.5 x ULN (or on stable dose of therapeutic anticoagulation, such as low-molecular-weight heparin, warfarin or rivaroxaban)
+International normalized ratio (INR) and activated partial thromboplastin time (aPTT) =< 1.5 x ULN (this applies only to patients who do not receive therapeutic anticoagulation; patients receiving therapeutic anticoagulation, such as low-molecular-weight heparin or warfarin, should be on a stable dose)
+International normalized ratio (INR) and activated partial thromboplastin time (aPTT) =< 1.5 x ULN (this applies only to patients who do not receive therapeutic anticoagulation; patients receiving therapeutic anticoagulation, such as low-molecular-weight heparin or warfarin, should be on a stable dose)
+International normalized ratio (INR) =< 1.5 x ULN (this applies only to patients who do not receive therapeutic anticoagulation; patients receiving therapeutic anticoagulation, such as low-molecular-weight heparin or warfarin, should be on a stable dose)
+Activated partial thromboplastin time (aPPT) =< 1.5 x ULN (this applies only to patients who do not receive therapeutic anticoagulation; patients receiving therapeutic anticoagulation, such as low-molecular-weight heparin or warfarin, should be on a stable dose)
+International normalized ratio (INR) and activated partial thromboplastin time aPTT =< 1.5 x ULN (This applies only to patients who do not receive therapeutic anticoagulation; patients receiving therapeutic anticoagulation, such as low-molecular-weight heparin or warfarin, should be on a stable dose)
+Patients requiring therapeutic anticoagulation

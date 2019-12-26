@@ -1,0 +1,6 @@
+Taken an investigational drug within 28 days or 5 half-lives (minimum 14 days), whichever is shorter, prior to study day 1
+Patients who are receiving any other investigational agents. Patients who have taken an investigational drug within 28 days or 5 half-lives (minimum 14 days), whichever is shorter, prior to registration.
+Patients who are receiving any other investigational agents; patients who have taken an investigational drug within 28 days or 5 half-lives (minimum 14 days), whichever is shorter, prior to randomization
+Patients may not be receiving any other investigational agents within 5 half-lives of the drug (if known); if the half-life is not known, investigational agents should not be taken within two weeks
+Patients may not be receiving any other investigational agents within the past 28 days; NOTE: if agent’s half-life x 5 is < 28 days, patient may have taken it within the last 28 days, provided at least 5 half-lives have passed since having last taken it
+Taken an investigational drug within 28 days or 5 half-lives (minimum 14 days), whichever is shorter, prior to Study Day 1 (Parts 1 and 2) or randomization (Part 3).

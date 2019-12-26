@@ -1,0 +1,198 @@
+Received a prior IDH inhibitor.
+Prior treatment with dasatinib, or any BCR-ABL1 inhibitor other than imatinib
+The use of hormonal therapy is not allowed; if the patient in on a 5-alpha reductase inhibitor, then they should be stopped prior to treatment once enrolled onto the study; no washout period is required for this study to participate
+Previous treatment with XL184 (cabozantinib) or another MET/HGF inhibitor (tivantinib, crizotinib)
+Patients who have received prior therapy with a specific inhibitor of TRK (including but not limited to entrectinib [RXDX-101], DS-6051b, and PLX7486) are not eligible
+Prior therapy with PLX3397 unless discontinued for intolerance (i.e., non-progression on prior kinase inhibitor)
+Prior treatment with a smoothened inhibitor (SMOi) and/or hypomethylating agent.
+Any previous treatment with pevonedistat or other NEDD8 inhibitor
+Prior treatment with a mitogen activated-protein kinase (MAPK) inhibitor
+Prior treatment (at least 1 full treatment cycle) with a farnesyltransferase inhibitor.
+Prior exposure to a WNT inhibitor
+Previous therapy with histone deacetylase (HDAC) inhibitor.
+Previous treatment with any prior BET inhibitor therapy
+Prior therapy with AT13387 or another HSP90 inhibitor
+Crizotinib, or any other cMET inhibitor or HGF-targeting inhibitor.
+The subject has received cabozantinib or another c-Met inhibitor (please note ARQ 197 is not considered a MET inhibitor for purposes of this study)
+Prior treatment with an MDM2 inhibitor.
+Previous treatment with sunitinib or kinase inhibitor other than imatinib Wash-out
+Prior therapy with any known inhibitor of MNK-1 or MNK-2.
+Prior treatment with small molecule bromodomain and extra terminal (BET) family inhibitor.
+Subjects who were intolerant to a BTK inhibitor
+Participants who have received a prior inhibitor of Wee1 kinase activity
+Prior treatment with a RAF inhibitor
+Previous treatment with vismodegib or any other hedgehog pathway inhibitor
+Prior treatment with WEE1 inhibitor
+Prior treatment with Mcl-1 inhibitor.
+Prior exposure to a BTK or BCL-2 inhibitor
+Prior treatment with a drug of the focal adhesion kinase (FAK) inhibitor class.
+Participants enrolling to the MET cohort who have received a prior MET inhibitor may not be on anticoagulant therapy unless the investigator has deemed it safe to temporarily hold to facilitate the baseline tumor biopsy
+Participants who have received prior treatment with a CHK1 inhibitor.
+Prior treatment (at least 1 full treatment cycle) with a farnesyltransferase inhibitor.
+Prior treatment with Bromodomain and Extra-Terminal (BET) inhibitor
+Previous therapy with histone deacetylase (HDAC) inhibitor
+Prior treatment with CTLA-4 inhibitor
+Prior treatment with an hepatocyte growth factor (HGF)/cMet inhibitor such as rilotumumab, crizotinib, MetMAb, or ARQ197
+No history of prior BTK-inhibitor-containing therapy.
+Patients having received any prior BCL2 inhibitor therapy
+Has received prior treatment with PT2977 or another HIF-2? inhibitor
+No platelet inhibitor drugs within 5 days prior to infusion and during the immediate study 6 Day follow-up period.
+Subject has received a prior targeted IDH2 inhibitor
+Previous treatment with epacadostat, SD-101, or any other IDO inhibitor or CpG molecule
+The participant has received a prior c-Met inhibitor
+Patients having received any prior BCL2 inhibitor therapy
+Prior chemotherapy, radiation (other than short cycle of radiation to reduce bone pain), treatment with a VEGF inhibitor, PARP inhibitor or immunotherapy within 21 days of first receipt of study drug. Hormone therapy within 14 days of first receipt of study drug.
+Prior treatment with venetoclax or other Bcl-2 inhibitor
+Cancer chemotherapy within 2 weeks before start of protocol-specified therapy, with the exception of intrathecal chemotherapy, dexamethasone, and oral small molecule inhibitors such as BTK-inhibitor, PI3K-inhibitor, or Bcl-2-inhibitor, which are allowed until the start of protocol-specified therapy). In addition, any subject whose organ toxicity (excluding hematologic) from prior treatment has not resolved to no more than Common Terminology Criteria for Adverse Events (CTCAE) grade 1.
+Prior exposure to docetaxel, selinexor, or another selective inhibitor of nuclear transport (SINE) compound
+Prior or concurrent treatment with AR antagonists or CYP17 enzyme inhibitor.
+Anticipated ribonuclease inhibitor (RAI) treatment within 18 weeks of treatment
+Prior aromatase inhibitor therapy first initiated > 4 weeks prior to study enrollment
+AZD1775 is an inhibitor of breast cancer resistance protein (BCRP); the use of statins including atorvastatin which are substrates for BCRP are therefore prohibited and patients should be moved on to non-BCRP inhibitor alternatives
+Subjects with prior treatment with an MDM2 inhibitor
+Prior treatment with crizotinib, or any other cMET or HGF inhibitor
+Prior systemic therapy with a small molecule oral kinase inhibitor, including but not limited to: pazopanib, sunitinib, sorafenib, everolimus, sirolimus, vemurafenib, dasatinib and trametinib
+Has had prior exposure to tazemetostat or other inhibitor(s) of enhancer of zeste homologue-2 (EZH2)
+Prior receipt of an indoleamine 2,3-dioxygenase (IDO) inhibitor
+Prior BTK inhibitor treatment.
+Previous treatment with a c-MET inhibitor or HGF-targeting therapy (applies only to Group 2)
+Prior treatment with an MDM2 inhibitor.
+Patients who have received prior treatment with a phosphoinositide 3-kinase (P13K) inhibitor
+Patients must not have received prior HSP90 inhibitor therapy
+Beginning adjuvant aromatase inhibitor therapy, with no previous use within the last 6 weeks
+Primary patient samples must show in vitro kinase inhibitor sensitivity as determined by the Oregon Health and Science University (OHSU) functional kinase inhibitor screen; for OHSU patients, functional kinase inhibitor screening may be performed as part of this study or through enrollment in eIRB4422 if the identical Food and Drug Administration (FDA)/Clinical Laboratory Improvement Act (CLIA) approved assay is used and a result is available within 2 weeks of starting on study drug treatment
+Prior receipt of a PIM inhibitor
+Prior treatment with an FTase inhibitor
+Prior treatment with more than 1 checkpoint inhibitor (combination); prior treatment with a lymphocyte-activation gene 3 (LAG-3) inhibitor; prior treatment with multi specific checkpoint inhibitor molecules;
+Prior treatment with ASN007 or another ERK1/2 inhibitor
+Prior treatment with an antibody-drug conjugate (ADC) which consists of an exatecan derivative that is a topoisomerase I inhibitor (eg, DS-8201)
+Prior treatment with any Hsp90 inhibitor.
+Prior treatment with crizotinib or any other cMET or HGF inhibitor
+Prior treatment with any Hsp90 inhibitor.
+Prior use of trametinib or other MAPK inhibitor in any context
+Prior treatment with hsp90 inhibitor
+Patients who have received prior treatment with a P13K inhibitor
+Patient with documented treatment failure of his/her handicap(s) with at least one of the following therapy used at optimized dose: Anti H1, Anti H2, Proton pump inhibitor, Osteoclast inhibitor, Cromoglycate Sodium, Antileukotriene
+Prior treatment with an investigational EZH2 inhibitor
+A history of prior significant toxicity, other than thrombocytopenia, from another Bcl-2 family protein inhibitor
+Progressed during treatment or within 12 months of completion of adjuvant therapy with an aromatase inhibitor
+Prior use of aromatase inhibitor therapy apart from assisted reproduction
+Prior treatment with vorinostat or other HDAC inhibitor
+Prior exposure to ibrutinib or to a BCR inhibitor (eg Btk or PI3 kinase or Syk inhibitors) or a BCL-2 inhibitor (eg venetoclax)
+Patients who have received prior treatment with nintedanib or any other VEGFR inhibitor are not eligible
+Current use of selective serotonin reuptake inhibitor (SSRI), serotonin-norepinephrine reuptake inhibitor (SNRI), monoamine oxidase (MAO) inhibitor, tramadol or trazadone; or use of these agents within 14 days
+If participant is on a selective serotonin reuptake inhibitor (SSRI), serotonin-norepinephrine reuptake inhibitor (SNRI) or membrane stabilizer (pregabalin, gabapentin, for example), it must be a stable, unchanged dose for previous 3 months
+Prior therapy with an Abelson murine leukemia viral oncogene homolog (ABL) kinase inhibitor such as nilotinib, ponatinib, dasatinib, or imatinib
+Have received prior treatment with an IDH1 inhibitor.
+Prior treatment for MDS with the histone deacetylase (HDAC) inhibitors Zolinza (vorinostat), Belenodaq (belinostat), Farydak (panobinostat), Istodax (romidepsin/depsipetide), or investigational agent with significant action as an HDAC inhibitor.
+Subjects with prior treatment with an MDM2 inhibitor
+Prior treatment with a TORC1, dual TORC1/2 inhibitor, or BCL-2/xL inhibitor
+Prior treatment with a histone deacetylase inhibitor
+Prior therapy with an angiogenesis inhibitor
+Prior therapy with a hedgehog inhibitor
+Any previous treatment with a HDAC inhibitor, including citarinostat
+Use of a protease inhibitor for any indication within three months prior to start of study treatment
+Any IFN- containing agent within 8 weeks prior to screening or any prior exposure to HCV-specific antivirals agent(s), other than NS3/4A protease inhibitor and sofosbuvir
+Prior therapy with another hedgehog inhibitor
+Patients who have received prior treatment with a P13K inhibitor or RAD001 (if discontinued for toxicity)
+Has had prior exposure to tazemetostat or other inhibitor(s) of EZH2
+Prior treatment with inhibitor of MET or HGF
+Prior exposure to ibrutinib or to a BCR inhibitor or a BCL-2 inhibitor.
+Prior receipt of an IDO inhibitor.
+Prior receipt of a BET inhibitor (Treatment Group B only).
+Prior receipt of an LSD1 inhibitor including INCB059872 (Treatment Group C only).
+Immediate prior therapy with a PAM pathway inhibitor (i.e., the subject is excluded if the last treatment regimen, prior to MSC2363318A, was a PAM pathway inhibitor, or if the last PAM pathway inhibitor that the subject was treated with occured less than 2 months prior to Day 1 of trial drug treatment).
+Prior exposure to a BCL-2 inhibitor (eg, venetoclax/ABT-199)
+Has had prior exposure to tazemetostat or other inhibitor(s) of enhancer of zeste homolog 2 (EZH2)
+Has had prior exposure to tazemetostat or other inhibitor(s) of enhancer of zeste homologue-2 (EZH2)
+Prior therapy with histone deacetylase (HDAC) inhibitor.
+Patients who have received prior treatment with a mutant-specific IDH1 inhibitor (with the exception of glioma patients)
+Prior treatment with a MET inhibitor or HGF targeting agent
+Histologically confirmed advanced or metastatic renal cell carcinoma with a clear cell component that has progressed by investigator assessment following treatment with one and only one multi-targeted tyrosine kinase inhibitor (TKI) other than axitinib that targets the VEGF receptor (VEGFR) (e.g., sunitinib, pazopanib, sorafenib, tivozanib, cabozantinib). One prior immunotherapy (interleukin-2 or interferon-alpha or immune checkpoint inhibitor or tumor vaccine) and one prior mTOR inhibitor treatment are allowed.
+Prior therapy with an IDO1 or arginase 1 inhibitor.
+Use of 5-alpha reductase inhibitor within the 3 months prior to dosing.
+Group 1: BRAFV600 positive metastatic or recurrent melanoma after failure of prior treatment with standard therapy such as a checkpoint inhibitor and an approved B-RAF inhibitor (vemurafenib or dabrafenib)
+Treatment with a complement inhibitor at any time.
+Previous treatment with a c-MET inhibitor or HGF-targeting therapy.
+Prior exposure to a BTK inhibitor
+Previous treatment with either a PD-1 inhibitor (for patients enrolling on the IMO-2125 + pembrolizumab combination) or CTLA-4 inhibitor (for patients enrolling on the IMO-2125 + ipilimumab combination if applicable) should not have been accompanied by DLT for which permanent discontinuation is recommended (per USPI).
+EGFR, ALK and ROS biomarker positive tumors are eligible as long as the patient has received at least one standard oral, molecular inhibitor therapy in addition to standard platinum doublet chemotherapy. More than one molecular inhibitor is allowed such as a first generation EGFR inhibitor followed by a next generation EGFR inhibitor when T790 mutation develops. Prior molecular therapy for biomarker positive tumors such as (but not limited to) MET, RET and BRAF allowed but not required.
+Prior therapy with a histone deacetylase (HDAC) inhibitor
+History of a prior significant toxicity, other than thrombocytopenia, from another Bcl-2 family protein inhibitor
+Previous treatment with any aminopeptidase inhibitor
+Participants with concurrent use of calcineurin-inhibitor plus sirolimus (either agent alone is acceptable)
+Patients may not have received previous therapy with a MET inhibitor
+Prior therapy with everolimus or an aromatase inhibitor
+Prior treatment with an HGF/cMet inhibitor such as rilotumumab, crizotinib, MetMAb (onartuzumab), or ARQ197 (tivantinib)
+Patients who have received prior treatment with a phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha (P13K) inhibitor
+Prior or current treatment with a cMet inhibitor
+Patients who have received or been treated with an tumor necrosis factor-alpha inhibitor such as adalimumab (Humira) within four weeks of starting on study
+Prior treatment with any Hsp90 inhibitor.
+No prior MET inhibitor is allowed
+Prior therapy with HDAC inhibitor
+Participants who have a history of prior MM treatment with panobinostat, or an alternative histone deacetylase (HDAC)-inhibitor
+Have received prior therapy with an immunomodulatory agent, a proteosome inhibitor, and glucocorticoids
+No prior treatment with any HSP90 or histone deacetylase (HDAC) inhibitor compound is allowed
+Patients who have received prior treatment with a phosphatidylinositol 3 kinase (P13K) inhibitor
+Prior anti-neoplastic treatment with any HSP90 or histone deacetylase (HDAC) inhibitor compound
+Previous therapy with a topoisomerase I or II inhibitor
+Prior treatment with CGM097 or other p53/HDM2-interaction inhibitor
+History of hormone replacement therapy (estrogens with or without progestin) or an aromatase inhibitor (anastrazole, letrozole, exemestane) within 8 weeks prior to day 1
+Prior therapy with a PDGFR or c-Met inhibitor
+Prior treatment with a histone deacetylase (HDAC) inhibitor
+Prior treatment with an HSP90 inhibitor (e.g. 17-AAG, IPI-504, AUY922, STA-9090 [ganetespib] etc.)
+Prior histone deacetylases (HDAC) inhibitor, deacetylase (DAC) inhibitor, heat shock protein (Hsp)90 inhibitor or valproic acid for the treatment of cancer
+a documented NTRK fusion and a clinical history of relapse following a response to a prior TRK inhibitor
+a documented NTRK fusion unresponsive to a prior TRK inhibitor
+a documented NTRK fusion and a clinical history of intolerance to a prior TRK inhibitor
+Received prior HDAC inhibitor therapy
+Prior therapy with any known inhibitor of MNK1 or MNK2.
+Prior treatment with a licensed or experimental smoothened inhibitor.
+Randomized cohort only: Prior treatment with a Janus kinase inhibitor other than ruxolitinib.
+Prior history of a hypertensive reaction to a kinase inhibitor
+Prior treatment with BIBF 1120 or any other VEGFR inhibitor within 4 weeks
+Prior treatment with a BTK inhibitor.
+Prior therapy with a known heat shock protein 90 (HSP90) inhibitor
+Patients who have received prior treatment with a P13K inhibitor
+Prior treatment with gamma secretase inhibitor or other Notch signaling inhibitor.
+Prior or current treatment with a c-MET inhibitor or HGF-targeting therapy
+15. Prior treatment with drugs an FAK inhibitor.
+Prior therapy with an IGF-1R inhibitor.
+Prior treatment with an HSP90 inhibitor
+No prior Aurora kinase inhibitor
+AKT INHIBITOR MK2206 ARM: Previous AKT inhibitor therapy
+Patients currently receiving treatment for concurrent active malignancy; prior immunotherapy with checkpoint blockade (i.e., PD1 inhibitor, PDL1 inhibitor, or CTL4-antagonist or similar agent) must have been completed more than 1 month prior to the T-cell infusion
+Cohort 2: Has received prior aromatase inhibitor therapy and is deemed to be resistant to all three (anastrozole, letrozole, exemestane) approved AIs; resistance is defined as progression within 12 months or while on an AI
+Prior treatment with a Hsp90 inhibitor
+Patients currently receiving treatment for concurrent active malignancy; continuation of hormonal therapy (i.e. for breast cancer) is acceptable; prior immunotherapy with checkpoint blockade (i.e. PD1 inhibitor, PDL1 inhibitor or CTL4-antagonist or similar agent) must have been completed more than 1 month prior to the T cell infusion
+Prior treatment with small molecule bromodomain and extra terminal family inhibitor
+Previous therapy with histone deacetylase inhibitor.
+Must have received or may still be receiving one or more therapies including octreotide or serotonin synthesis inhibitor (SSI) or other somatostatin analogues
+Prior treatment with filanesib (ARRY-520) or any other KSP inhibitor.
+Prior treatment with any Hsp90 inhibitor.
+Patients may not have received prior therapy with an Aurora kinase inhibitor
+They have received treatment with orteronel or another lyase inhibitor in the past
+Aromatase Inhibitor (AI) resistant, defined as:
+Prior anti-cancer treatment with any HSP90 inhibitor
+Have received any prior treatment with an IDH inhibitor.
+ARQ 197 is a sensitive substrate for 2C19 and 3A4, a strong inhibitor for 2C19 and moderate inhibitor by in vitro data only for 3A4; temsirolimus is a sensitive substrate for CYP 3A4 and a weak inhibitor of CYP2D6 and CYP3A4/5; per the UWinRx Drug Interaction Policy, the following medications are contraindicated or must be used with caution
+Prior treatment with Src family kinase (SFK) inhibitor at any time
+Prior therapy with an HSP90 inhibitor
+Prior treatment with an HDAC inhibitor.
+Patients who have received prior treatment with a P13K inhibitor
+Prior treatment with selective inhibitor of nuclear export (SINE) inhibitor
+Previous treatment with a phosphatidylinositol 3-kinase (P1-3K) inhibitor
+Patients who discontinue monoamine oxidase (MAO)-inhibitor (I)’s within 14 days prior to starting the investigational drug
+Received sirolimus within the 14 days prior to starting study as voriconazole is a potent inhibitor of sirolimus metabolism
+Concurrent use of the aromatase inhibitor exemestane
+Prior treatment with an inhibitor that is targeted primarily to FGFRs
+Concurrent use of calcineurin-inhibitor plus sirolimus (either agent alone is acceptable)
+Prior treatment with a topoisomerase I inhibitor
+Prior treatment with an antibody-drug conjugate (ADC) that consists of an exatecan derivative that is a topoisomerase I inhibitor (eg, DS-8201a)
+Prior treatment with a check-point inhibitor targeting PD-1, unless not a candidate.
+History of receiving treatment with any c-MET signaling pathway inhibitor (marketed or investigational agents)
+Prior exposure to a SINE compound (i.e. an XPO-1 inhibitor), including selinexor.
+Has received prior treatment with enhancer of zeste homolog (EZH) inhibitor
+Cohort 1 only: prior treatment with previous VEGFR active multikinase inhibitor
+Cohort 2 only: more than one prior treatment with VEGFR active multikinase inhibitor prior to original start of lenvatinib
+History of a prior intolerable toxicity, in the opinion of the investigator from another B-cell lymphoma (BCL)-2 family protein inhibitor study.

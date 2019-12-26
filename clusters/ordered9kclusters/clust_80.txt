@@ -1,0 +1,89 @@
+Serum bilirubin =< 1.5 x institutional upper limits of normal (ULN); must be obtained within 28 days prior to registration
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) obtained =< 21 days prior to registration
+Creatinine =< 1.5 x ULN obtained =< 21 days prior to registration
+Liver function test must be obtained within 14 days prior to registration
+Creatinine =< 1.5 x ULN (=< 28 days prior to registration)
+Obtained =< 14 days prior to registration: Direct bilirubin =< 1.5 x upper limit of normal (ULN)
+Creatinine =< 2 X institutional ULN (documented within 28 days of registration)
+Creatinine =< 2 x ULN obtained =< 14 days prior to registration
+Obtained within 21 days prior to study registration: total bilirubin =< 2.0 g/dL
+Obtained =< 2 weeks prior to registration: Total bilirubin =< 1.5 x ULN
+Obtained within 28 days prior to registration: Creatinine < 1.5 x upper limit of normal (ULN), OR
+Obtained within 28 days prior to registration: Bilirubin < 2.0 X ULN
+Obtained within 14 days prior to registration: Creatinine =< 1.5 x the institutional upper limit of normal (ULN)
+Creatinine =< 1.5 X institutional ULN, completed within 14 days prior to the date of registration OR
+Obtained =< 35 days prior to registration: total or direct bilirubin < 2 x institutional upper limit of normal (ULN)
+OBTAINED =< 7 DAYS PRIOR TO REGISTRATION: Total bilirubin =< ULN
+OBTAINED =< 7 DAYS PRIOR TO REGISTRATION: Creatinine =< 1.5 x ULN
+Creatinine =< 2 x ULN =< 28 days prior to registration
+Obtained =< 14 days prior to registration: Total bilirubin =< 1.5 x upper limit of normal (ULN)
+Bilirubin =< 1.5 × upper limit of normal (ULN) obtained within 14 days prior to initiating study treatment.
+Obtained ? 14 days prior to registration: Total bilirubin ? 1.5 x upper limit of normal (ULN)
+Obtained =< 14 days prior to registration: Creatinine =< 1.5 x ULN
+Obtained =< 14 days prior to registration: Total cholesterol =< 1.5 x ULN
+Obtained =< 14 days prior to registration: Triglycerides =< 1.5 x ULN
+Obtained =< 14 days prior to registration: Creatinine =< 1.5 x ULN OR
+Obtained with 21 days of registration: total bilirubin =< 3 x the upper limit of normal (ULN)
+Total bilirubin =< 1.5 x ULN obtained =< 14 days prior to registration
+Total bilirubin =< 1.5 x ULN, within 14 days of study registration (within 30 days for pulmonary and cardiac assessments)
+Obtained =< 14 days prior to registration: Direct bilirubin =< 1.5 x ULN
+Total bilirubin =< 1.5 x upper limit of normal (ULN), obtained =< 14 days prior to registration
+Obtained =< 7 days prior to registration: Total bilirubin =< 1.5 x upper limit normal (ULN)
+Creatinine =< 1.5 x ULN obtained =< 14 days prior to registration
+Obtained within 14 days prior to registration; total bilirubin ? ULN
+Obtained within 14 days prior to registration; serum creatinine ? 1.5 x ULN
+Obtained =< 14 days prior to registration: Total bilirubin =< institutional upper limit of normal (ULN)
+Obtained =< 14 days prior to registration: Serum creatinine =< 1.5 x upper limit of normal (ULN)
+Total bilirubin =< 1.5 x upper limit of normal (ULN), obtained within 30 days of study registration
+Serum creatinine =< 1.5 x ULN, obtained =< 14 days prior to registration
+Total bilirubin =< upper normal limit (obtained =< 7 days prior to registration)
+Creatinine =< 1.5 x ULN (obtained =< 7 days prior to registration)
+Total bilirubin =< 1.5 × the upper limit of the normal range (ULN) obtained =< 14 days prior to registration
+Obtained =< 28 days prior to randomization:\r\nTotal bilirubin =< 1.5 x upper limit of normal (ULN)
+Baseline serum testosterone obtained within 60 days prior to registration
+Liver function test must be obtained within 14 days prior to registration
+Obtained =< 14 days prior to registration: Total bilirubin =< 1.5 x upper limit of normal (ULN)
+Obtained =< 21 days prior to registration: Total bilirubin =< institutional upper limit of normal (ULN)
+Within 28 days of study registration: Creatinine < 2.0 x the institutional ULN
+Total bilirubin =< 1.5 x upper limit of normal (ULN), obtained =< 7 days prior to registration
+Bilirubin =< 2 x upper limit of normal (ULN), obtained within 14 days prior to registration for protocol therapy
+ARM A: obtained =< 14 days prior to registration: \r\n* Creatinine =< 1.5 x ULN
+ARM A: obtained =< 14 days prior to registration: \r\n* Total bilirubin =< 1.5 x ULN
+ARM B: obtained =< 14 days prior to registration: \r\n* AST/ALT =< 2.5 x ULN
+ARM B: obtained =< 14 days prior to registration: \r\n* Creatinine =< 1.5 x ULN
+ARM B: obtained =< 14 days prior to registration: \r\n* Total bilirubin =< 1.5 x ULN
+ARM B: obtained =< 14 days prior to registration: \r\n* INR =< 1.5 x ULN
+ARM B: obtained =< 14 days prior to registration: \r\n* aPTT =< 1.5 x ULN
+Total bilirubin =< 1.5 x upper limit of normal (ULN), obtained =< 14 days prior to registration
+Creatinine =< 1.5 x ULN, obtained =< 14 days prior to registration OR
+Bilirubin =< 2 x institutional upper limit of normal (ULN); these results must be obtained within 28 days prior to registration
+Bilirubin =< 1.5 x ULN obtained within 28 days prior to registration
+Serum total bilirubin =< twice the institutional upper limit of normal (ULN) within 21 days of registration on study (or within 21 days prior to day 1 of chemotherapy post-surgery for those patients having started chemotherapy prior to first step registration)
+Potassium =< ULN (or corrected to =< ULN with supplements prior to registration), obtained =< 21 days prior to registration
+Magnesium =< ULN (or corrected to =< ULN with supplements prior to registration), obtained =< 21 days prior to registration
+Sodium =< ULN (or corrected to =< ULN with supplements prior to registration), obtained =< 21 days prior to registration
+Phosphorus =< ULN (or corrected to =< ULN with supplements prior to registration), obtained =< 21 days prior to registration
+Aspartate aminotransferase =< 3 x institutional upper limit of normal (ULN), obtained =< 21 days prior to registration and confirmed prior to the first dose of study drug
+Alanine aminotransferase =< 3 x institutional upper limit of normal (ULN), obtained =< 21 days prior to registration and confirmed prior to the first dose of study drug
+Obtained =< 7 days prior to registration:\r\nAlkaline phosphatase =< 3 x ULN
+Obtained =< 7 days prior to registration:\r\nCreatinine =< 2 x ULN
+Obtained within 14 weeks prior to registration on study: bilirubin < 1.5 x upper limit of normal (ULN)
+Serum total bilirubin: =< 1.5 x upper limit of normal (ULN) obtained within 14 days prior to registration
+Total bilirubin =< 1.5 times upper limit of institutional normal (ULN) for age obtained =< 7 days prior to registration
+Serum creatinine =< 1.5 x ULN (obtained =< 7 days prior to randomization)
+Total bilirubin =< 1.5 x ULN (tested within 14 days prior to registration)
+Obtained =< 7 days prior to registration: Creatinine =<1.5 x ULN
+Obtained =< 7 days prior to registration: Total bilirubin =< 1.5 x institutional upper limit of normal (ULN)
+Obtained =< 7 days prior to registration: Creatinine =< 1.5 x institutional ULN
+Obtained within 14 days prior to registration: Bilirubin within the institutional limits of normal
+Total bilirubin =< 1.5 x the upper limit of the normal range (ULN) (obtained =< 14 days prior to registration)
+Male patients must have free and total testosterone level obtained within 28 days prior to registration
+Total bilirubin =< 1.5 x institutional upper limit of normal (ULN) obtained =< 7 days prior to registration
+Creatinine =< 1.5 x Institutional ULN obtained =< 7 days prior to registration
+Obtained =< 30 days prior to registration: Serum creatinine =< 1.5 times the institutional upper limit of normal (ULN); NOTE: can be waived with permission of study chair (documentation such as an email must be provided)
+Creatinine =< 1.2 X ULN obtained =< 180 days prior to registration
+Creatinine =< 2.5 x institutional upper limit of normal (ULN) obtained =< 45 days prior to randomization
+Total bilirubin =< 2 x institutional ULN obtained =< 45 days prior to randomization
+Creatinine =< 1.5 x the institutional upper limit of normal (ULN), obtained within 14 days prior to treatment start
+In patients who will receive bortezomib for imaging purposes only:\r\n* Total bilirubin < 1.5 x upper limit of normal obtained within 2 weeks prior to registration\r\n* Platelet count >= 70,000/mm^3 obtained within 2 weeks prior to registration\r\n* No pre-existing peripheral neuropathy greater than grade 1
+Creatinine < ULN, performed within 28 days prior to registration

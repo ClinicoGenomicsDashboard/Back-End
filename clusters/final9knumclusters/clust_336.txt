@@ -1,0 +1,80 @@
+Clinical nodal staging of N2 or N3 disease
+Pathologic nodal staging of N2b, N2c, or N3 disease
+Patients must have one or more of the following characteristics and be eligible for breast or chest wall with or without regional nodal radiotherapy:\r\n* Prior chemotherapy for breast cancer\r\n* > 25 cm of breast separation (the largest distance on an axial slice of the planning computed tomography [CT] simulation scan between the entry and exit points of the radiation beam on the body)\r\n* Non-Caucasian race\r\n* Requiring regional nodal irradiation without evidence of N3 disease
+Nodal disease as detected by clinical exam or CT
+Pathologically confirmed squamous cell carcinoma of the oral cavity; clinical stage >= T2 (primary tumor greater than 2 cm in size) and/or evidence of regional nodal involvement by clinical exam or imaging
+Histologic confirmation of breast cancer resected by mastectomy with or without immediate reconstruction and chest wall and regional nodal irradiation planned
+Boosts to the chest wall after mastectomy; nodal boosts are allowed
+Nodal recurrences can be treated on this protocol but prior curative surgery for lung cancer must have been at least 6 months prior to the nodal recurrence
+Diagnosis of selected stage III or IVa/b head and neck squamous cell carcinoma (HNSCC); all patients must have T2-T4 primary tumors (patients with T1 tumors will be excluded); although most of these patients will have regional nodal disease, patients with no nodal disease will also be eligible
+ARM 2 - A: Diagnosis of selected stage III or IVa/b HNSCC; all patients must have T2-T4 primary tumors (patients with T1 tumors will be excluded); although most of these patients will have regional nodal disease, patients with no nodal disease will also be eligible
+Patient with clinically positive nodal disease
+Patients with pathologically proven nodal disease
+No evidence of in-transit, nodal or distant metastases as determined by clinical examination, CT or MRI
+Symptomatic nodal disease (i.e., scrotal, penile, or leg edema)
+Tumor > 2.0 cm, nodal involvement, or metastatic involvement
+No clinical or pathologic evidence of nodal involvement
+Gross total excision of both primary and nodal disease; this includes tonsillectomy, local excision of primary site, and nodal excision that removes all clinically and radiographically evident disease
+Patients who are to undergo definitive chemoradiation must have clinically or radiographically evident measurable disease at the primary site and/or at nodal stations. Tonsillectomy or local excision of the primary without removal of nodal disease is permitted.
+Clinical evidence of progression of disease > 20% in the breast or new evidence of nodal metastases
+Treatment plan that includes regional nodal irradiation
+N3 nodal disease
+Invasion or ulceration of inguinal nodal disease into the overlying skin
+Prior radiation therapy to the same regional nodal basin
+Patients must have metastatic melanoma or stage III in-transit, subcutaneous, or regional nodal disease
+Patients are eligible for this trial either at presentation for primary melanoma with concurrent regional nodal and/or in-transit metastasis, or at the time of clinically detected nodal and/or in-transit recurrence and may belong to any of the following groups:\r\n* Primary melanoma with clinically apparent (overt) regional lymph node metastases\r\n* Clinically detected recurrence of melanoma at the proximal regional lymph node(s) basin\r\n* Clinically detected primary melanoma involving multiple regional nodal groups\r\n* Clinically detected single site of nodal metastatic melanoma arising from an unknown primary\r\n* Patients with intransit or satellite metastases with or without lymph node involvement are allowed if they are considered potentially surgically resectable at baseline\r\n** NOTE: a patient should be determined to be potentially surgically resectable at baseline to be eligible for this neoadjuvant study
+Evidence of nodal involvement identified in the operating room (OR)
+Patients must have metastatic melanoma or stage III in-transit, subcutaneous, or regional nodal disease (Turnstile I)
+No gross vascular invasion or regional nodal or distant metastases
+The presence of cervical conglomerate nodal mass or extracapsular spread (ECS) on imaging
+Patients must have metastatic melanoma or stage III in-transit, subcutaneous, or regional nodal disease (Turnstile I)
+Patients must have histologically confirmed (by routine hematoxylin [H] & eosin [E] staining) adenocarcinoma of the breast with confirmed nodal metastasis; patients must have an axillary nodal evaluation by fine-needle aspiration (FNA), sentinel node biopsy (SNB) or nodal dissection; patients with triple negative breast cancer are eligible as long as they are node negative; patients with squamous, or metaplastic carcinomas or sarcomas of the breast are NOT eligible
+Patient must have > 1.0 cm residual in-breast cancer and/or clinically positive residual nodal disease
+Treatment plan that includes regional nodal irradiation
+Patients whose only nodal disease is cystic and not PET-avid
+Patients must have measurable disease as per appropriate guidelines:\r\n* Solid tumors: by RECIST v1.1\r\n* Lymphoma: patient has at least one measurable nodal lesion (>= 2 cm) according to Lugano classification; if the patient has no measurable nodal lesions >= 2 cm in the long axis at screening, then the patient must have at least one measurable extra-nodal lesion
+Patient has known nodal or distant metastatic disease; patients with nodal or metastatic disease require systemic chemotherapy; furthermore, they should be excluded from this clinical trial because of their poor overall prognosis
+Patients must have clinically or radiographically evident measurable disease at the primary site or at nodal stations; tonsillectomy or local excision of the primary without removal of nodal disease is permitted, as is excision removing gross nodal disease but with intact primary site; limited neck dissections retrieving =< 4 nodes are permitted and considered as non-therapeutic nodal excisions
+Pathologic assessment of the mediastinum to document involved nodal stations
+Patients with para-aortic nodal disease or who require extended field radiotherapy beyond the pelvis
+Subjects must have measurable disease and be a candidate for intralesional therapy administration into cutaneous, subcutaneous, or nodal lesions.
+Patients are eligible for this trial either at initial presentation of their melanoma or at the time of the first detected nodal, satellite/in-transit, distant metastases, or recurrent disease in prior lymphadenectomy basin or distant site; nodal, satellite/in-transit metastasis, distant metastases or disease in a prior complete lymphadenectomy basin must have been confirmed histologically by hematoxylin and eosin (H & E) stained slides
+Patients with multiple regional nodal basin involvement are eligible; gross or microscopic extracapsular nodal extension is permitted
+Residual invasive disease post-neoadjuvant either in the breast or as residual nodal invasion.
+at least 1 injectable cutaneous, subcutaneous, or nodal melanoma lesion ? 5 mm in longest diameter
+Histologic diagnosis of melanoma with metastatic disease to a visceral organ (lung, liver, brain, adrenal, nodal station outside the regional lymph drainage of the primary, vertebral bodies)
+Evidence of positive nodal disease (stage N1)
+Extrahepatic metastases including nodal disease
+Patients with metastatic disease involving viscera or bones are ineligible; patients with extensive nodal involvement alone classified as stage IV disease, are eligible
+Patient's disease must show extracapsular spread (ECS) in their nodal metastasis
+Measurable nodal disease by computed tomography
+Patients are eligible for this trial either at presentation for primary melanoma with concurrent regional nodal and/or in-transit metastasis, or at the time of clinically detected nodal and/or in-transit recurrence; patients must undergo biopsy (punch) or open biopsy (if done as part of a clinically indicated baseline diagnostic procedure) within 14 days of entry into the study; lymphadenectomy/definitive surgery will be performed after at least 2 and generally not longer than 4 weeks of induction HDI-ipilimumab therapy; additional delays for definitive lymphadenectomy/surgery are allowed if clinically indicated while awaiting the resolution of potential adverse events from HDI-ipilimumab therapy
+Untreated N3 mediastinal nodal disease
+Any evidence of nodal positivity beyond pathologic stage of pN0(i+)
+Patients with nodal involvement are eligible
+Stage 1-3 tumors > 1 cm in maximal diameter, any nodal status, multifocal or multi-centric disease is permitted, no evidence of distant metastases
+Subjects with negative nodal status (N0)
+Patients with nodal disease are eligible
+Known N2 nodal disease or distant metastatic disease
+Previously treated, histologically confirmed cluster of differentiation (CD)20+ B cell lymphoma; bone marrow biopsies as the sole means of diagnosis are not acceptable, but they may be submitted in conjunction with nodal biopsies or extra nodal biopsies; fine needle aspirates are not acceptable
+Patient has at least one measurable nodal lesion (?2 cm) according to Cheson criteria (Cheson 2007). In case where the patient has no measurable nodal lesions ? 2 cm in the long axis at baseline, then the patient must have at least one measurable extra-nodal lesion.
+Presence of active nodal metastases (e.g., radiologic or clinical evidence of current nodal disease)
+Patients treated by BCS or mastectomy and axillary dissection must have 1-3 positive axillary nodes (macrometastases, > 2 mm)\r\n* Note patients with additional nodal micrometastases (> 0.2-2 mm) or isolated tumor cells (=< 0.2 mm) are eligible; patients with nodal disease limited only to micrometastases or isolated tumor cells are not eligible
+Patients treated by BCS and sentinel lymph node biopsy (SLNB) alone must have only 1-2 positive axillary nodes (macrometastases, > 2 mm)\r\n* Note patients with additional nodal micrometastases (> 0.2-2 mm) or isolated tumor cells (=< 0.2 mm) are eligible; patients with nodal disease limited only to micrometastases or isolated tumor cells are not eligible
+Patients treated by mastectomy and SLNB alone must have only 1 positive axillary node (macrometastases, > 2 mm)\r\n* Note patients with additional nodal micrometastases (> 0.2-2 mm) or isolated tumor cells (=< 0.2 mm) are eligible; patients with nodal disease limited only to micrometastases or isolated tumor cells are not eligible
+Patients must have measurable disease; must have at least one non-nodal lesion
+Nodal disease as detected by clinical exam or CT
+Symptomatic nodal disease, i.e. scrotal, penile or leg edema
+Regional nodal irradiation is part of the treatment plan
+No clinical or radiological evidence of hematogenous or distant nodal (retroperitoneal, pelvic, mediastinal, peri-portal or peri-aortic) metastasis
+Indications for comprehensive regional nodal irradiation
+Patients with local or regional nodal disease are eligible
+Clinical stage > T2b or evidence of nodal
+Patients with local or regional nodal disease are eligible
+Patients with nodal disease or distant metastatic disease
+Subjects will have had standard care computed tomography (CT), MRI, or ultrasound, and a fine-needle aspiration biopsy demonstrating PTC or MTC with nodal metastases or recurrent/persistent nodal disease in a patient with known PTC or MTC
+Bulky disease (defined as a nodal mass measuring >= 10 cm by CT)
+Mediastinal nodal metastases (N2) disease must be confirmed histologically
+Negative nodal basin clinical exam
+Subject must be candidate for intralesional therapy administration defined as one or more of the following: i. at least 1 injectable cutaneous, subcutaneous, or nodal SCCHN tumor ? 10 mm in longest diameter ii. multiple injectable cutaneous, subcutaneous, or nodal SCCHN tumors that in aggregate have a longest diameter of ? 10 mm Note: Mucosal surfaces of tumor lesions and visceral metastases should not be injected.
+Women without histologic confirmation of nodal involvement
